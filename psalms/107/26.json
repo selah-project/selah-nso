@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 107:26",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke moya\/bophelo — go rea selo se se hemanago; ga se moyo wa ka ntle."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יעלו\/ירדו",
+      "rationale": "go ela godimo le go theoga — ditemana tše pedi tše di lebanago, sebopego sa sepokodi."
+    }
+  ],
+  "translation": "Ba ela godimo magodimo, ba theogela ditenye; bophelo bja bona bo a sesefa ka bobe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "213f323a1eb252fb03113974b76d84387e4d33d740bcc49748feb77cb332705e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/107\/25-28.1792298694161.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "ba ela godimo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ba theogela"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "ditenye"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "bophelo bja bona"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ka bobe"
+    },
+    {
+      "surface": "תתמוגג",
+      "gloss": "bo a sesefa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:54.161742211Z",
+  "model": "glm-5.3"
+}

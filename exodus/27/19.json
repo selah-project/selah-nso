@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 27:19",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משכן",
+      "rationale": "Mishkane — lentšu la modumo wa Seheberu go ya ka D2, e sego 'tabarenakele' goba phetolelo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "lenaneo la dipego tša go aga",
+      "rationale": "Palo ya didirišwa ka moka — moputso wa kgaolo ya go aga ga legora."
+    }
+  ],
+  "translation": "Bakeng sa didirišwa ka moka tša Mishkane, ka mošomo wa wona ka moka, le ditsoku tša wona ka moka, le ditsoku ka moka tša lebala, tšhipi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f1398718c3bbea2402730bdb3602f357070127879906a933206daa8aa99117b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/27\/17-20.1792283064553.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa ... ka moka"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "didirišwa"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tša Mishkane"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka ... ka moka"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "mošomo wa wona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... ka moka"
+    },
+    {
+      "surface": "יתדתיו",
+      "gloss": "ditsoku tša wona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... ka moka"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "ditsoku"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "tša lebala"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tšhipi"
+    }
+  ],
+  "timestamp": "2026-10-18T00:24:24.554197710Z",
+  "model": "glm-5.3"
+}

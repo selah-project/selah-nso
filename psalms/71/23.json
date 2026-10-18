@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke go hema, bophelo, throato — se se botse ke moya\/bophelo, e sego moea wa kereke."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תרננה",
+      "rationale": "רנן mathomong e bolela go creaka ka mokgwa wa go thaba; ketela ya Sepedi e latotše seswantšho sa modumo."
+    }
+  ],
+  "translation": "Seppeng sa ka se tla dula se thaba ge ke opela go wena, le moya wa ka, woo o mo lokollotšego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9eae377d08fa422a71de1313d2bb2fc5b61164dda0f551778d99eed8940867dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/71\/21-24.1792298076815.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "se tla dula se thaba"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "seppeng sa ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke opela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "le moya wa ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woo"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "o mo lokollotšego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:36.816802604Z",
+  "model": "glm-5.3"
+}

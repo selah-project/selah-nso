@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שתם",
+      "rationale": "Literally 'stop up' — a sealed opening; rendered 'o koala' (he shuts), the picture of a blocked passage partially kept."
+    }
+  ],
+  "translation": "Le ge e le ge ke lla le go kopa thuso, o koala thapelo ya me.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f108a9a6b76c3eec05168b7f33cbdfd9855c89b6c8b6bf536d5181bb7514c819",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/3\/5-8.1792301148554.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge e le ge"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ke lla"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "le go kopa thuso"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "o koala"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya me"
+    }
+  ],
+  "timestamp": "2026-10-18T05:25:48.555004064Z",
+  "model": "glm-5.3"
+}

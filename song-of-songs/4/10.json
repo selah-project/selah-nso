@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 4:10",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lerato",
+      "rationale": "דוד יִךְ ka Seheberu ke botelele bja bongati — dodayikh e ka bolela gape dinthompe tša lerato, e sego lerato fela"
+    },
+    {
+      "kind": "idiom",
+      "subject": "bokae",
+      "rationale": "מה ke potšišo ya 'eng?' e šomišitšwego bjalo ka thwahlano — 'Bokae!' e sego potšišo ya nnete"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka 'ke' bakeng sa go bapetša; Seheberu se e se na"
+    }
+  ],
+  "translation": "Bokae bja lerato la gago, sesi wa ka, ngwetsi wa ka! Lerato la gago le kaaka le feta ⟨ke⟩ vinyo, gomme monko wa mafura a gago a feta ⟨ke⟩ diphodiso ka moka!",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ababf8c39bbf5b4d0f03f16d12c7a1fb247194a282654782f8f4db3462a95b4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/4\/10-11.1792305417216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "bokae"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "bo ntle"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "lerato la gago"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "sesi wa ka"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ngwetsi wa ka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bokae"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "bo botse"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "lerato la gago"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "vinyo"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "gomme monko"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "mafura a gago"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go feta ka moka"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "diphodiso"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:57.217078799Z",
+  "model": "glm-5.3"
+}

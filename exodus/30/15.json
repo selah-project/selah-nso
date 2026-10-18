@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meoya",
+      "rationale": "נפש ke throat\/moya wa bophelo, e sego 'moya' ka tsela ya Segerika"
+    },
+    {
+      "kind": "measurement",
+      "subject": "seripa sa shekele",
+      "rationale": "kelo e tee ya mabitso ka moka — moruswa le mofo ba lefšiša go le gona"
+    },
+    {
+      "kind": "addition",
+      "subject": "meoya ya lona",
+      "rationale": "gloss ya על e kopantšwe le לכפר ka gobane Sepedi e nyaka selo se se fokišwago"
+    }
+  ],
+  "translation": "Moruswa a ka se oketše, gomme mofo a ka se fokotše go tšwa go seripa sa shekele, ge ba fa ⟨את⟩ sehlabelo sa Yahwe, go foka meoya ya lona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f4bf03318c17def3df82f0c87640d04d73a7e7f0050f7474e5f08288a88f8a14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/30\/14-15.1792304611833.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "moruswa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "oketše"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "gomme mofo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "fokotše"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "go tšwa go seripa sa"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "shekele"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa Yahwe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "sehlabelo sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "go foka"
+    },
+    {
+      "surface": "על",
+      "gloss": "meoya ya lona — ka gare ga go foka"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "meoya ya lona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:31.834033333Z",
+  "model": "glm-5.3"
+}

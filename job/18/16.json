@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 18:16",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kgetho ya gagwe",
+      "rationale": "קצירו: 'kgetho\/sejalo' (YLt 'crop') kgathanong le 'sepagare' (KJV, ba bangwe ba fetola ka go tšwa go Job 14:9)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "e kgobetšwa",
+      "rationale": "ימל (go tšwa go נמל, go ripswa\/go simolola) gape e ka balwa 'e a thunya' — go hloka moya; kgobetšo ke go balwa goba godimo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מתחת … ממעל",
+      "rationale": "tlase\/godimo — kgethollo ya sebopego: modu o oma tlase, kgetho e kgobetšwa godimo"
+    }
+  ],
+  "translation": "Ka tlase medu ya gagwe di oma, gomme ka godimo kgetho ya gagwe e kgobetšwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4c21c97e0e3f769364baf790ca4100270aa0cfc9e9ec601ab23cda20209ccfcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/18\/13-16.1792300300327.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתחת",
+      "gloss": "ka-tlase"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "medu-ya-gagwe"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "di-oma"
+    },
+    {
+      "surface": "וממעל",
+      "gloss": "gomme-ka-godimo"
+    },
+    {
+      "surface": "ימל",
+      "gloss": "e-kgobetšwa"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "kgetho-ya-gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:11:40.328665261Z",
+  "model": "glm-5.3"
+}

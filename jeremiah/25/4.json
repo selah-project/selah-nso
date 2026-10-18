@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 25:4",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח\/שלח",
+      "rationale": "Root שלח repeated at start and middle — 'a la romela … a a romela' — binding the verse by repetition."
+    },
+    {
+      "kind": "idiom",
+      "subject": "incline your ear",
+      "rationale": "הטיתם אזנכם literally 'bend your ear' — idiom of attentive listening, rendered 'go thule ditsebe'."
+    },
+    {
+      "kind": "you",
+      "subject": "to Judah and Jerusalem",
+      "rationale": "Continued direct address: 'go lena … ditsebe tša lena'."
+    }
+  ],
+  "translation": "Gomme Yahwe a la romela go lena ⟨את⟩ bahlanka ba gagwe ka moka, baprofeta, a tsoga ka mesong a a romela, eupša le sa theetlele, gomme le sa thule ⟨את⟩ ditsebe tša lena go theetlela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ef0b438427d48d1b731d5f63ed8bedc4b97f0cdc64287cf38dbc35063f527fe5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/25\/1-4.1792293460668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Gomme Yahwe a la romela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "go lena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahlanka ba gagwe ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bahlanka ba gagwe"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "baprofeta"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "a tsoga ka mesong"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "a a romela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eupša le sa"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "theetlele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme le sa"
+    },
+    {
+      "surface": "הטיתם",
+      "gloss": "thule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditsebe tša lena"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "ditsebe tša lena"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "go theetlela"
+    }
+  ],
+  "timestamp": "2026-10-18T03:17:40.669590136Z",
+  "model": "glm-5.3"
+}

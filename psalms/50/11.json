@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "diphaphafalo",
+      "rationale": "זיז ke lentšu le sa tšwago go lebantu: 'seo se fofago\/sephegogo' goba 'se hlabago nyaka' — ba ngwadi ba fapana"
+    },
+    {
+      "kind": "substitution",
+      "subject": "di na le nna",
+      "rationale": "עמדי go latediwa ke 'ke ya wona' go mehlala ye mingwe; fa 'with me'"
+    }
+  ],
+  "translation": "Ke a tseba dinonyana ka moka tša dithaba, le diphaphafalo tša masimo di na le nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/50\/9-12.1792297760000.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ke a tseba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dinonyana"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tša dithaba"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "le diphaphafalo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "tša masimo"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "di na le nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:20.001153206Z",
+  "model": "glm-5.3"
+}

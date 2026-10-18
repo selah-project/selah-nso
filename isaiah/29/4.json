@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 29:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כאוב",
+      "rationale": "אוב ke sepolekwa\/moya wa motho yo a hwilego — 'wa sepolekwa'; e sego 'moya' fela."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תצפצף",
+      "rationale": "Sepopi sa dinonyana (go phaphaša) — lentšu le tlwaelegilego; Sepedi 'go tsepatla' e boloka sebopego sa mokgwa."
+    },
+    {
+      "kind": "you",
+      "subject": "go Areiele",
+      "rationale": "Mantšu ka moka a dirwa ka bomang bja motho wa pele wa lefatshe (o tla theoga, o tla bolela) a lebile Yerushalayime."
+    }
+  ],
+  "translation": "Gomme o tla theoga; o tla bolela go tšwa lefase, gomme bo-tumelong bja gago bo tla huma go tšwa leroleng; gomme modumo wa gago o tla ba bjalo ka wa sepolekwa sa lefase, gomme lentšu la gago le tla tsepatla go tšwa leroleng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "217386adc6eda6c3d147d3479c38d8cb6d699a62d33bf4d1013a8dd528243e47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/29\/1-4.1792291882437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפלת",
+      "gloss": "Gomme o tla theoga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go tšwa lefase"
+    },
+    {
+      "surface": "תדברי",
+      "gloss": "o tla bolela"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "go tšwa leroleng"
+    },
+    {
+      "surface": "תשח",
+      "gloss": "bo tla huma"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "bo-tumelong bja gago"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba"
+    },
+    {
+      "surface": "כאוב",
+      "gloss": "bjalo ka wa sepolekwa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "sa lefase"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "modumo wa gago"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "go tšwa leroleng"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lentšu la gago"
+    },
+    {
+      "surface": "תצפצף",
+      "gloss": "le tla tsepatla"
+    }
+  ],
+  "timestamp": "2026-10-18T02:51:22.439032963Z",
+  "model": "glm-5.3"
+}

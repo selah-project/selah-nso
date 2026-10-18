@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מתי מספר \/ כמעט",
+      "rationale": "Go buišwa ga mannyane gabedi — 'palo e nyenyane' le 'ba nyenyane hla' — thaloso ya go šupa bonyenyane bja setšhaba sa boiphediso"
+    },
+    {
+      "kind": "elision",
+      "subject": "go yona",
+      "rationale": "בה e bolela lefase la Kenayana la sethemane sa 11 — lentedu le sepelela go tšwa temaneng e fetilego"
+    }
+  ],
+  "translation": "Ge ba sa le palo e nyenyane ya batho, ba nyenyane hla, gomme ba dulago bjalo ka bafaladi go yona",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/9-12.1792298632339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "Ge ba sa le"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "batho"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo e nyenyane"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ba nyenyane hla"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "gomme ba dulago bjalo ka bafaladi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go yona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:52.339973220Z",
+  "model": "glm-5.3"
+}

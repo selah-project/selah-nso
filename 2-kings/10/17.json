@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "השמידו",
+      "rationale": "Seheberu se na le setšo sa go fetoga ga modu (infinitive + suffix); 'ka moka' e okeditšwe go hlalosa go phutholosa ga mahu ka moka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויך",
+      "rationale": "'a thwasela' — modu wa go beta; phetolelo ya kgethišo e šomiša 'o ile a bola'."
+    },
+    {
+      "kind": "you",
+      "subject": "Yehu",
+      "rationale": "Taba ye e phethilwe go ya ka lentšu la Yahwe leo a boleletšwego go Eliyahu (1 Maloko 21:21)."
+    }
+  ],
+  "translation": "Gomme a fihla Shomerona, a thwasela ⟨את⟩ botlhe bao ba salago go Ahaba ko Shomerona, go fihla go ba phutholosa ka moka, go ya ka lentšu la Yahwe, leo a boleletšego go Eliyahu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5580af0de05d8ee291a2c4de481d2fdd6403a012009a58abb0d0de12c7e193b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/10\/17-20.1792290695265.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "gomme a fihla"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomerona"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a thwasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botlhe bao ba salago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "bao ba salago"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "go Ahaba"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "ko Shomerona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla go"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "go ba phutholosa ka moka"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "go ya ka lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a boleletšego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    }
+  ],
+  "timestamp": "2026-10-18T02:31:35.265727904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הולך\/ילך",
+      "rationale": "Go bušetša leina la go sepela gabedi go bopa kopano; se se lahlwa ka Sepedi ka go hlakološa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bohlweki",
+      "rationale": "בתם e bolela 'bofefo, bohlweki' — e sego fela go loka go nna le tumelo."
+    }
+  ],
+  "translation": "Yo a sepelago ka bohlweki o tla sepela ka polaego, gomme yo a keketšago ditsela tša gagwe o tla tsebega.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ba335ee071929931783e165e93453b2124faa9b7dff9c211e5ad5ce48700e73b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/10\/9-12.1792299333052.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "yo a sepelago"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "ka bohlweki"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "o tla sepela"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ka polaego"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "gomme yo a keketšago"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ditsela tša gagwe"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "o tla tsebega"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:33.053168290Z",
+  "model": "glm-5.3"
+}

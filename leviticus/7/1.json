@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "kgethwa-kgethwa",
+      "rationale": "קדש קדשים — go boelela ga lentšu, 'bokgethwa bja bokgethwa', e fetotšwe go ba 'kgethwa kudu kudu'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sehlabelo sa phoso",
+      "rationale": "האשם e bolela phoso le sehlabelo ka bobedi; Sepedi se nyaka mantšu a pedi."
+    }
+  ],
+  "translation": "Gomme ye ⟨ke⟩ Torah ya sehlabelo sa phoso: kgethwa-kgethwa ke yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/7\/1-4.1792283572979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Gomme ye"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "sehlabelo sa phoso"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kgethwa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kgethwa-kgethwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:32:52.980074916Z",
+  "model": "glm-5.3"
+}

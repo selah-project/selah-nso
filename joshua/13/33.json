@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 13:33",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu ga se na kopula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "elision",
+      "subject": "לא",
+      "gloss": "negation e hlakantšwego ka 'ga' go 'a fa'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bojaele",
+      "rationale": "נחלה ke seabelo sa leloko; 'bojaele' bo bontšha seabelo seo leloko le se hwetšago"
+    }
+  ],
+  "translation": "Gomme go leloko la Levi Moshe ga a fa ⟨את⟩ bojaele; Yahwe, Elohim wa Yisraele, yena ke bojaele bja bona, bjalo ka a ile a bolela go bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c12a2625d1b3f195a9a199c95644170c22b002095613fa3b98c24dc8e9a97da6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/13\/33-33.1792286751568.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשבט",
+      "gloss": "gomme go leloko la"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "bojaele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "bojaele bja bona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:25:51.569547584Z",
+  "model": "glm-5.3"
+}

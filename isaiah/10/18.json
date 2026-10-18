@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 10:18",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "motho",
+      "rationale": "נפש ke motho\/bophelo\/bogasi, e sego \"moya\" ya kgethwa; mo e swantšha go tšwa bophelong go ya nomeng"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמסס נסס",
+      "rationale": "KJV e ngwala \"standard-bearer fainteth\"; JPS \"sick man wasteth away\" — Šepedi se latela go bala ga JPS: go nonyoha ga yo a lwalago"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נסס",
+      "rationale": "Tlhaka ye e hlaga fela mo tanakeng"
+    }
+  ],
+  "translation": "Gomme o tla fedisa botlotla bja sehlaka sa gage le bja tšimo ya gagwe e nago thollo, go tšwa mothong go fihla nomeng; gomme e tla ba bjalo ka go nonyoha ga yo a nonyohago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4bc9b5de38965dfef11b1e500e368265414ef18bcf16d2956eea5a830091ebce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/10\/17-20.1792291475734.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "botlotla bja"
+    },
+    {
+      "surface": "יערו",
+      "gloss": "sehlaka sa gage"
+    },
+    {
+      "surface": "וכרמלו",
+      "gloss": "tšimo ya gagwe e nago thollo"
+    },
+    {
+      "surface": "מנפש",
+      "gloss": "go tšwa mothong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nomeng"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "o tla fedisa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme e tla ba"
+    },
+    {
+      "surface": "כמסס",
+      "gloss": "bjalo ka go nonyoha ga"
+    },
+    {
+      "surface": "נסס",
+      "gloss": "yo a nonyohago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:44:35.735386567Z",
+  "model": "glm-5.3"
+}

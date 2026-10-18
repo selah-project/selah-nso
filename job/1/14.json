@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 1:14",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על ידיהם",
+      "rationale": "theko ya go thaletša — 'ka diatleng tša tšona' — e bolela 'ka thoko ga tšona'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מלאך",
+      "rationale": "molaetši ke motho ya rometšego ditaba, ga se 'melaetši wa magodimo' go tšwa mongwalone"
+    }
+  ],
+  "translation": "Gomme molaetši a fihla go Jobe, a re: Dikgomo di bego di lema, gomme dipote di fula ka thoko ga tšona;",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5792733491401a8b892c2b081b16eaf63c696502a0b7be2de2220a56401cd112",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/1\/13-16.1792300054305.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "gomme molaetši"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Jobe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di be"
+    },
+    {
+      "surface": "חרשות",
+      "gloss": "di lema"
+    },
+    {
+      "surface": "והאתנות",
+      "gloss": "gomme dipote"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "di fula"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "thoko ga tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:07:34.306074607Z",
+  "model": "glm-5.3"
+}

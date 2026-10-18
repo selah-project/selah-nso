@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "go senyega ga gago",
+      "rationale": "שחתך: 'o išitše go senyega ka bowena' (KJV) kgatlhanong le 'go senyega ga gago' (JPS); popego ya Seheberu ke 'bolao bja gago'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na copula; Sepedi se e nyaka."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Tiragatšo e lebišitšwe go Yisraele ka leina."
+    }
+  ],
+  "translation": "Go senyega ga gago, Yisraele — ⟨ke⟩ go me moo thušo ya gago e lego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/13\/9-12.1792296029949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "go senyega ga gago"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בי",
+      "gloss": "go me"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "moo thušo ya gago e lego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:00:29.950411075Z",
+  "model": "glm-5.3"
+}

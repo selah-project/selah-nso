@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 8:16",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikhukhu",
+      "rationale": "סוכות ke dikhukhu (dipukru tša dipala), e sego matenti goba 'tabernacles'"
+    },
+    {
+      "kind": "addition",
+      "subject": "sa di tsenya",
+      "rationale": "Seheberu se re 'se ile sa tsenya' — 'di' (dipala) di tšwa temaneng e e fetilego"
+    },
+    {
+      "kind": "measurement",
+      "subject": "maina a mafelo",
+      "rationale": "Tema ye e bolela mafala a go agwa ga dikhukhu: phogoro, dikgoro, kgoro ya meetse, kgoro ya Efrayime"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sekwere",
+      "rationale": "רחוב e ka hlalosa gape bjalo ka 'phatlha ye boleago' goba 'terata ya setšhaba'"
+    }
+  ],
+  "translation": "Gomme setšhaba se ile sa tšwa, sa di tsenya, sa ipšaela dikhukhu, motho yo mongwe le yo mongwe godimo ga ntlwana ya gagwe ya phogoro, le dikgorong tša tšona, le dikgorong tša ntlo ya Elohim, le sekwereng sa kgoro ya meetse, le sekwereng sa kgoro ya Efrayime.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2f24ebd54880b0667505bcb35336dcff4074bff9e52d0422e7808e36d0f948e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/8\/16-16.1792305436981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "sa tšwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba se ile"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "sa di tsenya"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "sa ipšaela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "dikhukhu tša tšona"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "dikhukhu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "phogoro ya gagwe"
+    },
+    {
+      "surface": "ובחצרתיהם",
+      "gloss": "le dikgorong tša tšona"
+    },
+    {
+      "surface": "ובחצרות",
+      "gloss": "le dikgorong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וברחוב",
+      "gloss": "le sekwereng sa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro ya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "וברחוב",
+      "gloss": "le sekwereng sa"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    }
+  ],
+  "timestamp": "2026-10-18T06:37:16.981759222Z",
+  "model": "glm-5.3"
+}

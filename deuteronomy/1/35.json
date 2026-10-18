@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ga go motho",
+      "rationale": "אם + ikana: Sepedi se ngwala ga-ikana ('ga go a ka ga ba...'); Seheberu se šomiša אם bjalo ka temana ya ikano"
+    },
+    {
+      "kind": "elision",
+      "subject": "mošuteng",
+      "rationale": "הדור ke mošuta (mokgwa wa bophelo bja nako e tee) — lentšu le emetše tšebe ya Sepedi"
+    }
+  ],
+  "translation": "Ga go ⟨ke⟩ motho wa banna bao, wa mošuteng wo mpe wo, yo a ka bonago ⟨את⟩ lefase le botse leo ke ile ka ikanela go le fa bo-ntate ba lona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5dc452bdaab97c29b94c3dff9d95f836b91d055c9d319ac542689dc77794cd1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/1\/33-36.1792285589557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "a ka bona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "wa banna bao"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "bao"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "wa mošuteng"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "wo mpe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "le botse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ke ile ka ikana"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go fa"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "bo-ntate ba lona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:06:29.558317458Z",
+  "model": "glm-5.3"
+}

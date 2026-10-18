@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 50:6",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שובבים",
+      "rationale": "Lemma e re 'ba ba kgobokilego mahlong' (apostates), eupša diphetolelo tše dintši di e bala bjalo ka 'ba di riteditše' — kgatišo ya badisa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רבצם",
+      "rationale": "'Lefelo la go ikgora' — lentšu ke 'mokgoro wa phologo', sebopego sa phologo sa dinku."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מהר אל גבעה",
+      "rationale": "Go tšwa thabeng go ya thutlwaneng — go theoga ga tsela ya phapano, tše di welago fase le fasana."
+    }
+  ],
+  "translation": "Dinku tše di phologilego e bile setšhaba sa ka; badisa ba tšona ba di tutubitše, ba di riteditše go ya dithabeng; tša sepela go tšwa thabeng go ya thutlwaneng, tša lebala lefelo la tšona la phologo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ae20984ed204bbc34470735ddd9616be01060af876641dbfecb30157f0a9feee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/50\/5-8.1792294228369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צאן",
+      "gloss": "dinku"
+    },
+    {
+      "surface": "אבדות",
+      "gloss": "tše di phologilego"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "badisa ba tšona"
+    },
+    {
+      "surface": "התעום",
+      "gloss": "ba di tutubitše"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithabeng"
+    },
+    {
+      "surface": "שובבים",
+      "gloss": "ba di riteditše"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "go tšwa thabeng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "thutlwaneng"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "tša sepela"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "tša lebala"
+    },
+    {
+      "surface": "רבצם",
+      "gloss": "lefelo la tšona la phologo"
+    }
+  ],
+  "timestamp": "2026-10-18T03:30:28.371014437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diphopho",
+      "rationale": "בקיעי ke meko, dikgobolo tša leboto; Sepedi ga se na lentšu le tee le thekileng"
+    },
+    {
+      "kind": "addition",
+      "subject": "di ne",
+      "rationale": "Seheberu se na le kopulante ya nako fela (רבו), Sepedi e nyaka ⟨di ne⟩"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ diphopho tša toropo ya Dafida le di bone, gore di ne tše ntsi, gomme le kgoboketše ⟨את⟩ meetse a letamo ya ka tlase.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a8df3a0bd92b14c5d595ea3309762a66406f5ac26837093517551adb04537708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/22\/9-12.1792291607010.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diphopho tša toropo ya Dafida"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "diphopho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "le di bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "di ne tše ntsi"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "gomme le kgoboketše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meetse a letamo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "a letamo"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ya ka tlase"
+    }
+  ],
+  "timestamp": "2026-10-18T02:46:47.011248685Z",
+  "model": "glm-5.3"
+}

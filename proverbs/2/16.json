@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 2:16",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זרה\/נכריה",
+      "rationale": "Seheberu se baya mantšu a mabedi a go swana — mosadi wa sephaphamadi le mosenyi — phetolelo ya Sepedi e boloka bobedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go tobitša mantšu",
+      "rationale": "החליקה ke 'go ba boithle\/go phaphamega' — mantšu a boithobiši; 'tobitša' e bontšha sebopego sa lentšu la Seheberu"
+    }
+  ],
+  "translation": "Go go lokollotša go tšwa go mosadi wa sephaphamadi, go tšwa go mosenyi yo a tobitšego mantšu a gagwe —",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5d5b24795c488a0efec85f4c8b9104f8950e7a0d05f551b08e4a0e20a9324aa1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/2\/16-16.1792305309949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "go go lokollotša"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "go tšwa go mosadi"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "wa sephaphamadi"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "go tšwa go mosenyi"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "mantšu a gagwe"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "yo a tobitšego"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:09.949927835Z",
+  "model": "glm-5.3"
+}

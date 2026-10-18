@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Alumote-labene",
+      "rationale": "עלמות לבן phrase obscure: 'go la lehu la Labene' kgahlanong le 'košo ya tumo yagošwa go Latine ya makgolo'; go bolokwa ka modumo fela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moko",
+      "rationale": "מזמור ke mmino wa diletšhwa — moko o theoga kudu, eupša ke lentšu la Sepedi la moko wa dikošo tša tumo."
+    }
+  ],
+  "translation": "Go molaodi, go ya ka Alumote-labene; moko wa Dafida.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/9\/1-4.1792297252313.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go molaodi"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "go ya ka Alumote"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "labene"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:52.313997408Z",
+  "model": "glm-5.3"
+}

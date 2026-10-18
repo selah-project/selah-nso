@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ידשנה",
+      "rationale": "Deshen: 'a dumedise ka mafura' (yalta 'a se fše ka mafura') kgathanopelo le 'a se amogele' (KJV\/JPS) — modu wa lentšu ke 'mafura', e sego 'tholo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "D2: מנחה e dula e le minkha; e sego 'mpho' ka moka"
+    }
+  ],
+  "translation": "A gopola minkha ya gago ka moka, gomme sebego sa gago sa go fišwa a se amogele; Selaha.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5153850697641f8e48b56e9f75a49ab15fc1715ffec9bae78abfebf663d00e12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/20\/1-4.1792297387944.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "a gopola"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "minkha ya gago"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "gomme sebego sa gago sa go fišwa"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "a se amogele"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:07.945125369Z",
+  "model": "glm-5.3"
+}

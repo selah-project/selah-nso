@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחמשים",
+      "rationale": "Khutšo-fsweu: 'ba hlotšwe dibetsa' (KJV, JPS) kgathanong le 'ka mela ya masomehlano' (YLT go tšwa go Talmude); lenaneo le ile la tšea 'ka go hlabolle'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ים סוף",
+      "rationale": "Matswalo a mo: 'Lewatle la Dikhanna' — sуf ke khanna ya papyrus, e sego 'lehibidu'."
+    }
+  ],
+  "translation": "Gomme Elohim a dikologa ⟨את⟩ setšhaba ka tsela ya sekaka, go ya Lewatle la Dikhanna; gomme bana ba Yisraele ba hlaba ka go hlabolle ba tšwa lefaseng la Mitsrayime.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "09b0b668bc2f910a70fe159cedc0044809f8bafb4a380b685ec4f2a3c35cac43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/13\/17-20.1792282678083.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "a dikologa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sekaka"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Lewatle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "la Dikhanna"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ka go hlabolle"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ba hlaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-18T00:17:58.086740329Z",
+  "model": "glm-5.3"
+}

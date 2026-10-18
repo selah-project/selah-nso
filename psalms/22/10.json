@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "גחי",
+      "rationale": "Tlhaka ya pele ke 'go thulago bjalo ka meetse' — go ntšhwa go tšwa mpeng; phetolelo ya 'go ntšha' e boletše sebopego ka tsela e botse."
+    },
+    {
+      "kind": "crux",
+      "subject": "מבטיחי",
+      "rationale": "Piel causative: 'o dirile gore ke dumele' (KJV) kgathanong le 'o ntšhetša tšhireletšo' (BSB) — mošomo wa go bopa tumelo goba wa go šireletša."
+    }
+  ],
+  "translation": "Gobane wena o ntšhitše go tšwa mpa; wena o dirile gore ke dumele, godimo ga mabere a mmae.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "47a0de3be98c730c1580e429d33f1946bf0c6d0015ef3530c8c85d945dbaba10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/22\/9-12.1792297341482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "o ntšhitše"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "go tšwa mpa"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "o dirile gore ke dumele"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "mabere"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "a mmae"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:21.482623898Z",
+  "model": "glm-5.3"
+}

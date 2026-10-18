@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחת ... תחבקני",
+      "rationale": "Go thoma ka tše pedi tša ta- — go theoga (ka tlase) le go phaletša; sebopego se sa mpshafatša se ka se bontšhwe Sepeding"
+    },
+    {
+      "kind": "addition",
+      "subject": "sa gagwe",
+      "rationale": "Seheberu se bolela fela 'la nngele la gagwe' gomme 'la go ja la gagwe' — 'seatla' se okeditšwe bakeng sa pono ya Sepedi"
+    }
+  ],
+  "translation": "Seatla sa gagwe sa nngele ka tlase ga hlogo ya ka, gomme sa gagwe sa go ja se m phaletša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/8\/1-4.1792301059938.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "seatla sa gagwe sa nngele"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ga"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlogo ya ka"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "gomme sa gagwe sa go ja"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "se m phaletša"
+    }
+  ],
+  "timestamp": "2026-10-18T05:24:19.939810733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "botšo",
+      "rationale": "נפש ga se 'moya wa go phela' fela — ke throat\/botšo\/mpho; 'botšo' bo swara seopengwe seo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ka molomo wa tšhoša",
+      "rationale": "לפי חרב ka molomo wa tšhoša — mmušo wa go baakanya (thari ya molomo); tšhoša ga e na molomo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba hlamuletše",
+      "rationale": "החרם ke cherem — go dumelela go fediswa; Sepedi ga se na lentšu le tee"
+    }
+  ],
+  "translation": "Gomme ba otla ⟨את⟩ botšo kamoka bjo bo bego bo le ka go yona, ka molomo wa tšhoša — ba bile ba hlamuletše; ga go a sala se sengwe se sa mohumo; gomme ⟨את⟩ Hatsore o a tšhedile ka mollong.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/11\/9-12.1792286797234.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "gomme ba otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botšo kamoka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kamoka"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "botšo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bjo bo bego"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka go yona"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "wa tšhoša"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ba bile ba hlamuletše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go a sala"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ga go… sengwe"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "se sa mohumo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "Hatsore"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsore"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "o a tšhedile"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollong"
+    }
+  ],
+  "timestamp": "2026-10-18T01:26:37.235910008Z",
+  "model": "glm-5.3"
+}

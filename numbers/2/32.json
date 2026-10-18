@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 2:32",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go bala",
+      "rationale": "פקד ke go bala\/palwa ga batho (census), e sego go etela ka mo go tlwaelegilego"
+    },
+    {
+      "kind": "measurement",
+      "subject": "palomoka",
+      "rationale": "Bala la mošomo: 603 500 — dikete tše tshela le makgolo, dikete tše tharo, makgolo a hlano le masomehlano"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi se nyaka kopula ye Seheberu se sa e nayogo"
+    }
+  ],
+  "translation": "Ba ba balwago ka tsela ye ke bana ba Yisraele go ya ka malapa a bo-ntate wa bona; bohle bao ba balwago maekerong, go ya ka madira a ona, e le dikete tše tshela le tše makgolo, le dikete tše tharo, le makgolo a hlano le masomehlano.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "cd1aed2e3f4eaf9d2bcae78b7820be0d954dacef02111c5bb001410b4afbd9fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/2\/32-32.1792304661597.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ba balwago"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "go ya ka malapa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "a bo-ntate wa bona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "bao ba balwago"
+    },
+    {
+      "surface": "המחנת",
+      "gloss": "maekerong"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "go ya ka madira a ona"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tše tshela"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dikete le tše makgolo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "le tše tharo"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "le makgolo a hlano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masomehlano"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:21.598150010Z",
+  "model": "glm-5.3"
+}

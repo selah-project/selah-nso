@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 11:4",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמרימי על",
+      "rationale": "'bao a hlweleditšego joku' (go oketša boima, YLT) kgahlanong le 'bao a tlošago joku' (KJV\/Geneva); Sepedi e latela go tloša."
+    },
+    {
+      "kind": "crux",
+      "subject": "דitala tša motho",
+      "rationale": "חבלי אדם: 'ditala tša motho' (ditala tša botho, e sego tša diruiwa) goba 'ditala tša Adama' (YLT 'cords of Adam')."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואט אליו אוכיל",
+      "rationale": "'ke kgontshitše go ya go yena, ke mo feditše' (KJV 'I ba file nama') kgahlanong le 'ke ba fidile ka botegi' (JPS)."
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "rationale": "ו go ואט se hlophisego ka thwii; phetolelo e swantšha go kgontsha go fihla moo go sa hlaloswego."
+    }
+  ],
+  "translation": "Ka ditala tša motho ke gogile ⟨את⟩ bona, ka dikgokgo tša lerato; gomme ke be le ba bone bjalo ka bao a tlošago ⟨את⟩ joku go tšwa diphogelong tša bona; ke kgontshitše go ya go yena, ke mo feditše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c81d79e57dac57173e550a82528b1d1ea86adb547d7436ec63417f9789559a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/11\/1-4.1792296036974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחבלי",
+      "gloss": "ka ditala"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "tša motho"
+    },
+    {
+      "surface": "אמשכם",
+      "gloss": "ke gogile ⟨את⟩ bona"
+    },
+    {
+      "surface": "בעבתות",
+      "gloss": "ka dikgokgo"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "tša lerato"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "gomme ke be"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le ba bone"
+    },
+    {
+      "surface": "כמרימי",
+      "gloss": "bjalo ka bao a tlošago"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨את⟩ joku"
+    },
+    {
+      "surface": "על",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "לחיהם",
+      "gloss": "diphogelong tša bona"
+    },
+    {
+      "surface": "ואט",
+      "gloss": "ke kgontshitše"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go ya go yena"
+    },
+    {
+      "surface": "אוכיל",
+      "gloss": "ke mo feditše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:00:36.975878251Z",
+  "model": "glm-5.3"
+}

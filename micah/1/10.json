@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לעפרה\/עפר",
+      "rationale": "Leina la lefelo Bet-le-AFRA le bapala le lerole (AFAR): 'ntlo ya lerole — ka lerole go ikotla'; papadi ye e nyametše go Sepedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכו\/תבכו",
+      "rationale": "Go bolediša gabedi ga lefoko la go lla (bakhu\/tibkhu) go aga modumo wa lla o mongwe le o mongwe"
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "Ditaetso tše tharo (le se ke la bolela, le se ke la lla, go ikotla) di bitša setšhaba ka go se fetše"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Yuduta",
+      "rationale": "Mošomo wa go gana go bolela Gete — malopa a se ke wa fihla mošologong ba ba naganang phošo"
+    }
+  ],
+  "translation": "Ka Gete le se ke la bolela, le se ke la lla; ka Bet-le-Afra, ka lerole go ikotla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/micah\/1\/9-12.1792296420206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "ka Gete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "la bolela"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "la lla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "la lla"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka Bet"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Afra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ka lerole"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "go ikotla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:07:00.206834001Z",
+  "model": "glm-5.3"
+}

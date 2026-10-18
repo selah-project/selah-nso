@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "את H854 e bolela 'le\/kgauswi', e sego mosaedi wa selo; ⟨את⟩ e bolokilwe ka boomo go ya ka melao ya Selah."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ונסנו",
+      "rationale": "Qatal ya Sepedi e beakantšwe bjalo ka bokamosi — e hlalosa sebolelo sa morao(rao), e sego nako e fetilego."
+    }
+  ],
+  "translation": "Gomme nna, le setšhaba ka moka seo se lego ⟨את⟩ le nna, re atametša motsaneng; gomme go tla ba ge ba tla tšwa go re amogela, bjalo ka ge go ile go le bjalo pele, re tla babela pele ga bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4b6060b034fed8d9460c88986d707d9ed4cd7ca0cdbcb94c4c44f221c3f8ebd4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/8\/5-8.1792286740262.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ka moka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna",
+      "marks": "le nna"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "re atametša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motsaneng"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ba tla tšwa"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "go re amogela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "pele"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "re tla babela"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pele ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:25:40.262918380Z",
+  "model": "glm-5.3"
+}

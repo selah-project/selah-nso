@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu ga se na kopula; Sepedi e nyaka ⟨ke⟩ gare ga ga bothati le aparo"
+    },
+    {
+      "kind": "crux",
+      "subject": "o sekgotlola letšatšing la mafelelo",
+      "rationale": "šaḥaq: go sekgotlola ka botlalo (KJV 'a tla tletša boithabo') kgahlanong le go sekgotlola go tlola selo (ASV\/JPS 'o sekgotlola nakong ye e tlang')"
+    }
+  ],
+  "translation": "Maatla le boikhantšho ke diaparo tša gagwe, gomme o sekgotlola letšatšing la mafelelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "367a2eb04767da084c3b8bc8175d675cf721c72f9e8345f9af424efdb8f9efd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/31\/25-28.1792299978608.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "gomme boikhantšho"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "aparo ya gagwe"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "gomme o sekgotlola"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "letšatšing"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "la mafelelo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:18.609359199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 6:5",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "a fenye nna",
+      "rationale": "הרהיבוני: go fenya (KJV\/ASV) kgahlanong le go kgothaletša \/ go dira gore motho a ikakaretše (YLT 'made me proud')"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tše di theogilgo",
+      "rationale": "גלשו e ka bolela gape go tlola bjalo ka pudi — 'tše di tlolago go theoga go tšwa Gilada'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nna⟩",
+      "rationale": "Seheberu se na le sefokwana fela — ⟨nna⟩ se okeditšwe go baakanya sebopego sa Sepedi"
+    }
+  ],
+  "translation": "Huduša mahlo a gago go tšwa go nna, gobane a fenye ⟨nna⟩; moriri wa gago bjalo ka sefala sa dipudi tše di theogilgo go tšwa Gilada.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/6\/5-8.1792300936978.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסבי",
+      "gloss": "Huduša"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a gago"
+    },
+    {
+      "surface": "מנגדי",
+      "gloss": "go tšwa go nna"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "הרהיבני",
+      "gloss": "a fenye nna"
+    },
+    {
+      "surface": "שערך",
+      "gloss": "moriri wa gago"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "bjalo ka sefala"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "sa dipudi"
+    },
+    {
+      "surface": "שגלשו",
+      "gloss": "tše di theogilgo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilada"
+    }
+  ],
+  "timestamp": "2026-10-18T05:22:16.978584711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Theetša",
+      "rationale": "Moletlo wa go kgošiša Yahwe gore a theetše — sebopego sa mohlapetši sa go hloma seletša."
+    },
+    {
+      "kind": "substitution",
+      "subject": "debire",
+      "rationale": "דביר ke lefelo le legolo-kgolo la bokgethwa, ka sebopego sa lentswe la Seheberu le bolokilwe; 'tempole' goba 'ntlo' be e ka senya sebopego."
+    }
+  ],
+  "translation": "Theetša lentšu la mehlapetšo ya ka, ge ke lla go go wena, ge ke agosa diatla tša ka go debire ya bokgethwa bja gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/28\/1-4.1792297490254.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Theetša"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mehlapetšo ya ka"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "ge ke lla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go go wena"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "ge ke agosa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "diatla tša ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debire"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "bokgethwa bja gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:50.255671314Z",
+  "model": "glm-5.3"
+}

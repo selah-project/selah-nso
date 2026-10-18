@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויך\/וישבר",
+      "rationale": "go sla le go phunya — ditiro tše pedi tša tlhogo tša kahlolo, tše theilwego mmeleleng wa Seheberu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mollwane",
+      "rationale": "גבול e bolela thapo goba mollwane; diphetoletšo tše ngwadišago 'naga' di lahlela seswantšho sa thapo"
+    }
+  ],
+  "translation": "Gomme a sla ⟨את⟩ mmera wa bona le ⟨את⟩ mmonwane wa bona, gomme a phunya ⟨את⟩ mehlare ya mollwane wa bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "77b3ed9027d522006bc10ae414041d047e16e9edbf970b2cf9a33791f180ac42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/33-36.1792298628425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "gomme a sla"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "mmera wa bona"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "le mmonwane wa bona"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "gomme a phunya"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mehlare"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ya mollwane wa bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:48.426342180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "letšatši la nama",
+      "rationale": "ושמש ke 'nama' (letsatsi) — 'letšatši la nama' e boloka sebopego sa lentšu la Seheberu"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopu ye Seheberu se se senago"
+    }
+  ],
+  "translation": "Letšatši ke la gago, gobe le bosigo ke la gago; wena o lomile sedirišwa sa khanya le letšatši la nama.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e380654d7fe66c6dd0049f625c92bb1a533cbbc6c38bf76f3da97a9022af5cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/74\/13-16.1792298201779.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ke la gago"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gobe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ke la gago"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "o lomile"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "sedirišwa sa khanya"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "le letšatši la nama"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:41.781209787Z",
+  "model": "glm-5.3"
+}

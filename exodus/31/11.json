@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המשחה",
+      "rationale": "bolela 'go tloditšwa' — kgwetšo ya go hloma; go tšwa go šomišwa le go swana le Mashiakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קטרת",
+      "rationale": "'kgotle' — go fiša dinamane bjalo ka mafoko a go foka go Elohim."
+    }
+  ],
+  "translation": "le ⟨את‬⟩ ⟨את⟩ mafura a go tloditšwa, le ⟨את‬⟩ ⟨את⟩ kgotle ya dinamane bakeng sa sekgethwa; go ya ka tšohle seo ke se laeditšego, ba tla se dira.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "342dd9ee00b279c8c1ecf5504d9a640b93b0d9bc8e62ebf9bf8dcb9564112143",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/31\/10-11.1792304665854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura a go tloditšwa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a go tloditšwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "kgotle ya dinamane"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kgotle"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "ya dinamane"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "bakeng sa sekgethwa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "go ya ka tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ke se laeditšego"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ba tla se dira"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:25.855442002Z",
+  "model": "glm-5.3"
+}

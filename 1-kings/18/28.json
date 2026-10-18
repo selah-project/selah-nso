@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 18:28",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka tlwaelo ya bona",
+      "rationale": "משפט ke kahlolo\/toka, fela mo e bolela mokgwa wa tlwaelesegile wa bona — tlwaelo e lebantšwe tlhaloso ya mantšu a kgale"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a a elago",
+      "rationale": "שפך e bolela go ntšha madi ka mphofo; 'go ela' ke seswantšho sa go ša ga madi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויקראו \/ ויתגדדו",
+      "rationale": "go boutša ka lentšu le legolo ka go iphetla — go fapaana ga modumo wa go bitša le go swarwa ga mmele, se se latelago ka lentšu le tee"
+    }
+  ],
+  "translation": "Gomme ba bitša ka lentšu le legolo, gomme ba iphetla ka tlwaelo ya bona ka ditšhoša le ka dihlabela, go fihla madi a a elago go ka mošwang bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "17ee31ef0b88827a9a27633b0ff94b8893c1e79bb2f1a3125bccd627776b7d4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/18\/28-28.1792304938256.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ba bitša"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka lentšu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le legolo"
+    },
+    {
+      "surface": "ויתגדדו",
+      "gloss": "ba iphetla"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "ka tlwaelo ya bona"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "ka ditšhoša"
+    },
+    {
+      "surface": "וברמחים",
+      "gloss": "le ka dihlabela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "a a elago"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "go ka mošwang bona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:28:58.256536132Z",
+  "model": "glm-5.3"
+}

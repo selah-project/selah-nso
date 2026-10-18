@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ruakh ya boikokobetši e nete",
+      "rationale": "רוח נכון: 'moya wo o tiileng' kgathanong le 'moya wo o lokilego' — noko ya go ikemela ke ya bothati, e sego ya moya wa kahlolo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e swanetše go dula bjalo ka modumo wa yona wa Seheberu go ya ka molao wa leleme — e sego 'moya' fela"
+    }
+  ],
+  "translation": "Bopa pelo e hlwekilego go ka, Elohim, gomme ruakh ya boikokobetši e nete mpshafatša ka teng go ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/51\/9-12.1792297843129.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hlwekilego"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "bopa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "gomme ruakh"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ya go ikemela ka botlalo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "mpshafatša"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ka teng go ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:43.130018386Z",
+  "model": "glm-5.3"
+}

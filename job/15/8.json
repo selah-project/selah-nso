@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 15:8",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "סוד ke kgwerano ya sephiring — moo Eloha a dulanago le ba mo gaufi le yena; Yobo o nyodišwa gore a ka se ke a e kwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "o hloleletša",
+      "rationale": "ותגרע: 'go ntšha bohlale go tšwa go ba bangwe go go fihlela go wena' (KJV 'restrain') kgathanong le 'go ikgomotsa karolo ya bohlale'; lentšu le ra go tloša karolo."
+    }
+  ],
+  "translation": "Na o kwa ⟨mo⟩ sephiring sa Eloha, goba o hloleletša bohlale go wena fela?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ff5ce7bb52185549f9a8869c1bb6a6d741a105e1176fff4db1430e744a0b876f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/15\/5-8.1792300274325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבסוד",
+      "gloss": "sephiring sa"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "o kwa"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "o hloleletša"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    }
+  ],
+  "timestamp": "2026-10-18T05:11:14.326694181Z",
+  "model": "glm-5.3"
+}

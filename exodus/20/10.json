@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moafri",
+      "rationale": "גר ke moafri\/motšhabi yo a dulago gare, e sego fela 'motho wa ntle'"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Taelo ye e tsebagatšwa go Yisraele ka moka, ka bobedi bja 'gago'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ליהוה",
+      "rationale": "'l-' ya Seheberu ('ya\/Go') e tšwa go lamed; Sepedi e nyaka sekopanyi 'ya'"
+    }
+  ],
+  "translation": "Gomme letšatši la bošupa ke Shabata ya Yahwe Elohim ya gago; o se ke wa dira mošomo o mongwe le o mongwe, wena, morwa wa gago le morwadi wa gago, mohlanka wa gago le mohlanka wa mosadi wa gago, diruiwa tša gago, le moafri wa gago yo a lego dikgorong tša gago.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b4b859b2bc2a49444c367aa81085287d206d7f0521eedf3fef0c2e11ec99a453",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/20\/10-11.1792304642648.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "gomme letšatši"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "la bošupa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o mongwe le o mongwe"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "morwadi wa gago"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka wa gago"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "mohlanka wa mosadi wa gago"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "diruiwa tša gago"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "moafri wa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo a lego"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "dikgorong tša gago"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:02.649333515Z",
+  "model": "glm-5.3"
+}

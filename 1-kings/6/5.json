@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יצוע",
+      "rationale": "Lentšu le bolela mothala-o-mogolo\/setala sa go oketša ntlo; KJV 'chambers', YLT 'couch' — sebopego sa moago se bolokilwe ka 'setala'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סביב",
+      "rationale": "Lentšu le ka nna ga tharo go latelana — go dikologa ga goriša go gatega; phetolelo e se ka go le hlatša."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sebopego sa moago",
+      "rationale": "Tlhakantšho ya meago ya Tempele — bophara bja matsala a ka godimo."
+    }
+  ],
+  "translation": "Gomme a aga go lerago la ntlo setala sa go dikologa, ⟨את⟩ dirago tša ntlo tša go dikologa, go hekala le go Debire; gomme a dira diphapošana-thoko tša go dikologa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "341029db1ea5f49a105a424c2b55d1b3d8ff8009e318b7bf18688bd303a8dd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/6\/5-8.1792289769747.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a aga"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "lerago"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "la ntlo"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "setala"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sa go dikologa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dirago tša ntlo"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "dirago"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "tša ntlo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tša go dikologa"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "go hekala"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "le go Debire"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "gomme a dira"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "diphapošana-thoko"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "tša go dikologa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:16:09.747959141Z",
+  "model": "glm-5.3"
+}

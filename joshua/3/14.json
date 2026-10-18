@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "baperisita",
+      "rationale": "כהנים ke ba ba direlang go aletare — moperisita, e sego moruti"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go ntšha matšhupa",
+      "rationale": "נסע ka bohlakoredi ke go tloša matšhupa a tenti — seswantšho sa go hema leeto"
+    }
+  ],
+  "translation": "Gomme go thoma, ge setšhaba se ntšha matšhupa a ditenti tša sona go feta ⟨את⟩ Yoredene, gomme baperisita, bao ba tšeago araka ya kgwerano, ba eme pele ga setšhaba;",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "03d03f576fe4fbea03a35bbd600815f9e3870c96bb942c57c542ad9ba7fde5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/3\/14-15.1792304767602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go thoma"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "ge se ntšha matšhupa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "ditenti tša sona"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoredene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "gomme baperisita"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "bao ba tšeago"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "araka"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ya kgwerano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T06:26:07.603162553Z",
+  "model": "glm-5.3"
+}

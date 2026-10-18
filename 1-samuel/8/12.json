@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bakgoši ba dikete",
+      "rationale": "šar literally 'hloho ya motho' — motho wa maemo; 'kgoši' e šupile botho bja go laola, e sego go se nago sebaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lefase la yena",
+      "rationale": "חרישו ke 'go rema ga yena' (go rema ka marema); 'lefase' le okeditšwe go tlhalosa go rema lefase"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרש\/חרישו · קצר\/קצירו",
+      "rationale": "boitshupo bja moko (infinitive + noun wa modumo o swanago) — go rema\/go rema ga yena; go kgetla\/go kgetla ga yena — sepedi se bolokile moko wo ka go bošwa ga mantsu"
+    }
+  ],
+  "translation": "Gomme go bea bakgoši ba dikete le bakgoši ba masomehlano bakeng sa yena, le go rema lefase la yena, le go kgetla kgetlo ya yena, le go dira didirišwa tša ntwa ya yena le didirišwa tša diteraka tša yena.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "76e7e148d5d4e1e228baed8f7bfd2a1c6b1b98dd29d64b060a09c9431b4fbba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/8\/12-12.1792304796539.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "gomme go bea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bakeng sa yena"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bakgoši"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ba dikete"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le bakgoši"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ba masomehlano"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "le go rema"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "lefase la yena"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "le go kgetla"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "kgetlo ya yena"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "le go dira"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "didirišwa"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "tša ntwa ya yena"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "le didirišwa"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "tša diteraka tša yena"
+    }
+  ],
+  "timestamp": "2026-10-18T06:26:36.540209821Z",
+  "model": "glm-5.3"
+}

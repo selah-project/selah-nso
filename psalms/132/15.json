@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברך אברך",
+      "rationale": "Mokgwa wa infinitive absolute — go boelediša lentšu le letee go matifatša mošomo; Sepedi o dira ka go oketša 'ka botlalo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dijo tša yona",
+      "rationale": "צידah ke diphologolo tša swerwe ka gae goba dijo tša motseng; 'dijo tša yona' ke gloss ya selegae."
+    }
+  ],
+  "translation": "Dijo tša yona ke a di baroka ka botlalo; baswitši ba yona ke tla ba tlatša ka bogobe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/132\/13-16.1792298916607.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "dijo tša yona"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ke a di baroka"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "baswitši ba yona"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "ke tla ba tlatša"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:36.609093712Z",
+  "model": "glm-5.3"
+}

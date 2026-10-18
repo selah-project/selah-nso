@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "esther 1:18",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וכדי",
+      "rationale": "'go ya ka tekanyo ya' — literally 'according to the sufficiency of': KJV 'too much', JPS 'enough', YLT 'according to the sufficiency'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וקצף",
+      "rationale": "qeṣef literally 'splinter (chipped off)'; rendered 'bogale' (wrath) per its figurative sense."
+    }
+  ],
+  "translation": "Gomme lehono basadi ba botona ba Perese le ba Madai, bao ba utwileng ⟨את⟩ lentšu la khethi, ba tla bolela se bjo go ditona ka moka tša kgoši, go ya ka tekanyo ya nyefo le bogale.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9a33d35b65288750b57841875921342f7516de5e2a1f95bf5c9b6aae50cdb6ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/1\/17-20.1792301622810.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיום",
+      "gloss": "gomme lehono"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "ba tla bolela se bjo"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "basadi ba botona"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "ba Perese"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "le ba Madai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ba utwileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu la khethi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "la khethi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ka moka"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ditona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tša kgoši"
+    },
+    {
+      "surface": "וכדי",
+      "gloss": "go ya ka tekanyo ya"
+    },
+    {
+      "surface": "בזיון",
+      "gloss": "nyefo"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "le bogale"
+    }
+  ],
+  "timestamp": "2026-10-18T05:33:42.811295694Z",
+  "model": "glm-5.3"
+}

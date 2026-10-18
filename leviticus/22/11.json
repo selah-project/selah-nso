@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 22:11",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mafulano",
+      "rationale": "נֶפֶשׁ ke 'selo se se hemego \/ moya wa bophelo', e sego fela 'mafulano' — lentšu le tee le bolela motho goba phoofolo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bogobe",
+      "rationale": "לֶחֶם ke bogobe ka moka; mo bolela 'lehu la ka' — sehlaga sa motho ka bomphya"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקנה \/ קנין",
+      "gloss": "",
+      "rationale": "sengwe le sengwe se tšwa modung o tee קנה\/קנין — go reka le theko; kopano e bolokwa ka 'a reka\/theko'"
+    }
+  ],
+  "translation": "Gomme moperisita, ge a reka mafulano — theko ya tšhelete ya gagwe — yena o tla ja go fihla go yona; le yo a belegwego ka ntlong ya gagwe, bona ba tla ja bogobe bja gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/22\/9-12.1792284165002.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "a reka"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "mafulano"
+    },
+    {
+      "surface": "קנין",
+      "gloss": "theko"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "tšhelete ya gagwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "o tla ja"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go fihla go yona"
+    },
+    {
+      "surface": "ויליד",
+      "gloss": "yo a belegwego"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ka ntlong ya gagwe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba tla ja"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "bogobe bja gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:42:45.003775642Z",
+  "model": "glm-5.3"
+}

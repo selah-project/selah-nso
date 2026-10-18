@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 19:18",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אקומה",
+      "rationale": " imperfect 'ge ke emiša' (ASV, JPS) go kgahlanong le go fetoga 'ka emiša' (KJV)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "עוילים",
+      "rationale": "'masea' (sucklings) goba 'basetsana' — lentšu le rare, pono ya Peshitta e sa sepele sentle"
+    }
+  ],
+  "translation": "Ee le masea a m ganetše nna; ge ke emiša ⟨nna⟩, ba bolela kgahlanong le nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0a1dd68ddaf6b1b486b359db961adea4a7cac95176dd7be16d3b2a88faa964f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/19\/17-20.1792300381312.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ee le"
+    },
+    {
+      "surface": "עוילים",
+      "gloss": "masea"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "a m ganetše"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אקומה",
+      "gloss": "ke emiša"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ba bolela"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kgahlanong le nna"
+    }
+  ],
+  "timestamp": "2026-10-18T05:13:01.313631116Z",
+  "model": "glm-5.3"
+}

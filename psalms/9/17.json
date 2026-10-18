@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Higayone",
+      "rationale": "הגיון ke taetšo ya mmino (modumo wa go dikanega), e ngwalwa ka modumo wa Seheberu, e sego lentšu la temana"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Selata",
+      "rationale": "סלה ke taetšo ya mmino ya go emiša, e latela molao wa D2"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משפט\/בפעל כפיו",
+      "rationale": "kahlolo ya Yahwe e boela go mošomo wa matšatšo a mošoro — snare ya mošoro ke mošomo wa gwonagwone, tšhitišo yeo e nyelela phetolelong"
+    }
+  ],
+  "translation": "Yahwe o itsega ka kahlolo yeo a e dirilego; mošoro o tšoaruwa ka mošomo wa matšatšo a gagwe. Higayone. Selata.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/9\/17-20.1792297239552.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "o itsega"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a e dirilego"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "ka mošomo"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "matšatšo a gagwe"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "o tšoaruwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mošoro"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayone"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selata"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:39.553275214Z",
+  "model": "glm-5.3"
+}

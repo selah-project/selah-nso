@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moko",
+      "rationale": "מזמור ke moko wa go bjalwa ka sešwaesa, e sego thaloso ya ka mehla"
+    }
+  ],
+  "translation": "Go molaodi. Moko wa Dafida.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/64\/1-4.1792297997739.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go molaodi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "moko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:17.739638811Z",
+  "model": "glm-5.3"
+}

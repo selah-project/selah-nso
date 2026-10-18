@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "tshepedišo ya go gana",
+      "rationale": "Taello ya go gana (אל + directive) e bitša mmadi kgauswi: o se ke wa tšhoga."
+    },
+    {
+      "kind": "you",
+      "subject": "go mmadi",
+      "rationale": "Taello ye e lebantšhetšwe mmading ka bobedi (go swana le psalms 49:2), e sego motho wa pele."
+    }
+  ],
+  "translation": "O se ke wa tšhoga ge motho a huma, ge tlotlo ya ntlo ya gagwe e oketšega.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/49\/17-20.1792297793269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wa tšhoga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "a huma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "e oketšega"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "tlotlo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ya ntlo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:53.269759521Z",
+  "model": "glm-5.3"
+}

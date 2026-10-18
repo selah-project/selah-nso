@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבע",
+      "rationale": "go ikana le palo ya šupa (še) di abelana modumo o tee go Seheberu; se la seholo go Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Abir",
+      "rationale": "אביר ya Yaakobo e hlalositšwe e le 'Mafolofolo' ka dinakong tše dingwe; mo go bolokwa modumo wa Seheberu"
+    }
+  ],
+  "translation": "Yo a ilego a ikana go Yahwe, a ikgana sepaletša go Abir ya Yaakobo —",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/132\/1-4.1792298924685.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a ikana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "a ikgana sepaletša"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "go Abir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:44.686120437Z",
+  "model": "glm-5.3"
+}

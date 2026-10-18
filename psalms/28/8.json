@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Copulas added — Hebrew verbless clauses."
+    },
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "'To them' — whose? The people (bsb) vs the anointed one (ylt); rendered 'a bona' keeping the ambiguity minimal."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עז\/מעוז",
+      "rationale": "Same root twice — 'maatla' and fortified 'setšhireletšo' — Hebrew sound-link partially lost."
+    }
+  ],
+  "translation": "Yahwe ⟨ke⟩ maatla a bona, gomme ke setšhireletšo sa pholotšo sa yo a tloditšwego wa gagwe; ⟨ke⟩ yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/28\/5-8.1792297474626.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "למו",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "gomme ke setšhireletšo"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "pholotšo"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "yo a tloditšwego wa gagwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:34.627496267Z",
+  "model": "glm-5.3"
+}

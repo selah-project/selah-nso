@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פניך",
+      "rationale": "פנים ke \"sefala\" (sefahlego); \"sefala sa gago\" ke go swana le go ba gare ga modumo wa Morena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יודו",
+      "rationale": "ידה e bolela go latela ka go dumelela; \"ba dumelela\" e tšea letšatši la go fa tumelo, e sego go rapela fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיקים\/ישרים",
+      "rationale": "Ba lokilego le ba tee — dintlha tše pedi tše di swanago tša boitshwaro, kgwetšo ya mmetse ya Sepedi"
+    }
+  ],
+  "translation": "Ruri ba lokilego ba dumelela leina la gago; ba tee ba dula ⟨את⟩ sefala sa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2bb7e88c908a41c5097c75466d3c69ebd4ffa939f3d55a8d16e88372e1f8393e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/140\/13-14.1792299013293.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ruri"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokilego"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "ba dumelela"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba tee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefala sa gago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefala sa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:13.295061787Z",
+  "model": "glm-5.3"
+}

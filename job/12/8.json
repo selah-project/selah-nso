@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 12:8",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "boto go bahlangwi",
+      "rationale": "Go tšwelapele ga mogala: botšiša le lefase le dihlapi tša lewatle."
+    },
+    {
+      "kind": "elision",
+      "subject": "לך",
+      "rationale": "Kgetsi ya ka Sepedi 'go wena' e tsentšhwa ka go lebadi 'go' ka gare ga 'hlalosetsa'; token ya ikgethi e na le gloss yeo e sego ya nnete."
+    }
+  ],
+  "translation": "Goba bolela le lefase gomme le tla go ruta; gomme dihlapi tša lewatle di tla go hlalosetsa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/12\/5-8.1792300232400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Goba"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "bolela"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "le lefase"
+    },
+    {
+      "surface": "ותרך",
+      "gloss": "gomme le tla go ruta"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "di tla go hlalosetsa"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "דגי",
+      "gloss": "dihlapi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "tsa lewatle"
+    }
+  ],
+  "timestamp": "2026-10-18T05:10:32.401854528Z",
+  "model": "glm-5.3"
+}

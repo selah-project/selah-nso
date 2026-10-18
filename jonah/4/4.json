@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ההיטב חרה לך",
+      "rationale": "'A go lokile go tšuka bogale go wena?' kgathanong le YLT 'A go dira botse go go tšoenya?' — potsiso e bulegetše ka dikakgelo tše fapa-fapanego."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go tšuka bogale",
+      "rationale": "חרה ke 'go tuka, go fisa' — sebopego sa go fisa se lahlegile ka Sepedi."
+    },
+    {
+      "kind": "you",
+      "subject": "to Jonah",
+      "rationale": "Yahwe o botša Yona ka tlhosto ka potsiso."
+    }
+  ],
+  "translation": "Gomme Yahwe a re: A go lokile, go tšuka bogale go wena?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bbeda3bd2ad668cc58b89b610bf315bc141b08f6c66f7a62f708ca6adcc8bf9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jonah\/4\/1-4.1792296469816.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "A go lokile"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "go tšuka bogale"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:07:49.817200668Z",
+  "model": "glm-5.3"
+}

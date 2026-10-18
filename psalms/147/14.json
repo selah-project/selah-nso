@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mafura",
+      "rationale": "חלeb ke karolo ye mafuta, ye kgethwa kgauswi — 'e ntle kgauswi ya borekisi'"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yerushalayime",
+      "rationale": "seterapo se tšweletša go bolela le toropo"
+    }
+  ],
+  "translation": "Yo a beago kagiso mollwaneng wa gago, yo a go tlalejago ka mafura a borekisi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "aefde5ace56cc26ce7c9fa31fcee9847094d4270bb48c85742065604024d4606",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/147\/13-16.1792299086858.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "yo a beago"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "mollwaneng wa gago"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "borekisi"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "yo a go tlalejago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:26.859750475Z",
+  "model": "glm-5.3"
+}

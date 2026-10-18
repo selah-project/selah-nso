@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת שבתון ... תשבתו שבתכם",
+      "rationale": "Go boela ga leina la Shabata gate gate ga mojetong; sebopego se sa bolokega ka go ngwala Shabata ka mehla"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mantšiboa go ya mantšiboa",
+      "rationale": "Palo ya nako ya Shabata: go tšwa mantšiboa go fihla mantšiboa, ka letšatši la bolesenyane"
+    },
+    {
+      "kind": "crux",
+      "subject": "go itšhoka",
+      "rationale": "ועניתם: 'go itšhoka' (go sa je) kgahlanong le 'go itlama'; polelo ya Seheberu ke go ikgapeletša"
+    }
+  ],
+  "translation": "Ke Shabata ya go khutša ka botlalo go lena, gomme le tla itšhoka ⟨את⟩ mopšo ya lena; ka letšatši la bolesenyane la kgwedi, ka mantšiboa, go tšwa mantšiboa go fihla mantšiboa le tla boloka Shabata ya lena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/23\/29-32.1792284283029.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya go khutša ka botlalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lena"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "le tla itšhoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mopšo ya lena"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "mopšo ya lona"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "letšatši la bolesenyane"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ka mantšiboa"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "go tšwa mantšiboa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mantšiboa"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "le tla boloka Shabata"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "ya lena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:44:43.030546923Z",
+  "model": "glm-5.3"
+}

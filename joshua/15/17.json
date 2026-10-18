@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 15:17",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "mnafole wa Kalebe",
+      "rationale": "אחי כלב can modify Kenaz (Kenaz, brother of Caleb) or Othniel; the Hebrew leaves the kinship chain ambiguous."
+    }
+  ],
+  "translation": "Gomme Otniele, mora wa Kenaze, mnafole wa Kalebe, a e tšera ⟨e⟩, gomme a mo nea ⟨את⟩ Aksa, morwadi wa gagwe, go ba mosadi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "11455d8626ee999a483c0a7480f46d070baad979d9e52456f962640658b66a10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/15\/17-20.1792286922133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "gloss": "a e tšera"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Otniele"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Kenaze"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mnafole wa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a mo nea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "morwadi wa gagwe"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "go ba mosadi"
+    }
+  ],
+  "timestamp": "2026-10-18T01:28:42.133793712Z",
+  "model": "glm-5.3"
+}

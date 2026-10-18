@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "poletšo ya Adonai",
+      "rationale": "Yehoshua o kgopela mo go Adonai ka potšišo yeo e sa arabwago."
+    },
+    {
+      "kind": "idiom",
+      "subject": "go fetoša mogala",
+      "rationale": "Seheberu: 'a fetoše sefahlogo sa ka morago (ערף)' — go baleha; Sepedi: go fetoša mogala pele ga manaba."
+    }
+  ],
+  "translation": "Ao Adonai, ke tlo bolela eng, ka morago ga gore Yisraele a fetoše mogala pele ga manaba a gagwe?",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ee52f76982f4ca14decf923c60b7470c33893d994e7b8535316f103fc6ded022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/7\/5-8.1792286657252.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ke bolela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "a fetoše"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "mogala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "manaba a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:24:17.253991564Z",
+  "model": "glm-5.3"
+}

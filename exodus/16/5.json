@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משנה",
+      "rationale": "O bolela 'pheti, phetelo' — ka Sepedi mphato goba pedi, e sego fela 'gabedi'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "letšatši le letšatši",
+      "rationale": "Palo ya letšatši la tshela le go phutha ga letšatši ka moka"
+    }
+  ],
+  "translation": "Gomme go tla ba bjalo ka la tshela la letšatši, ba tla iša se ba se hlamileng, gomme se tla ba mphato goba pedi go feta ⟨את⟩ seo ba se phuthago letšatši le letšatši.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1e3ce2aed1ffe699fe3b628c84023717eed6263d713c160e6e2ff5f400bcc454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/16\/5-8.1792282840816.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "go tla ba bjalo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatšeng"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "la tshela"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "ba tla hlamela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo ba se išago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "ba se išago"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "mphato goba pedi"
+    },
+    {
+      "surface": "על",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "ba se phuthago"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "יום",
+      "gloss": "le letšatši"
+    }
+  ],
+  "timestamp": "2026-10-18T00:20:40.816844950Z",
+  "model": "glm-5.3"
+}

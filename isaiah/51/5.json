@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדק\/צדקה boletšwe ka mokgwa wa Seheberu go ya ka D2, e sego tokoloho ya Sesotho"
+    },
+    {
+      "kind": "elision",
+      "subject": "יקוו",
+      "rationale": "go leta le go tshepiša — modu o tee, diripa tše pedi tša temana"
+    },
+    {
+      "kind": "crux",
+      "subject": "seatla sa ka",
+      "rationale": "זרוע botho-ka-seatla — diphetolelo tše mmalwa di bolela 'maoto' a kahlolo"
+    }
+  ],
+  "translation": "Kgotlele ga tsedeke ya ka, e tšwele pele tokoloho ya ka, gomme seatla sa ka se tla kahlola ⟨את⟩ ditšhaba; ditšhaba tša mawatle di ka nna di leta, gomme seatleng sa ka di tla tshepiša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9a4f1e9926828b5cac6f5d4d9ddee63d7f948302d226de0add5e940bec40d0e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/51\/5-8.1792292362530.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "kgotlele ga"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "tsedeke ya ka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e tšwele pele"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "tokoloho ya ka"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "gomme seatla sa ka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "se tla kahlola"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "איים",
+      "gloss": "ditšhaba tša mawatle"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "di tla leta"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme go"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "seatleng sa ka"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "di tla tshepiša"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:22.530833394Z",
+  "model": "glm-5.3"
+}

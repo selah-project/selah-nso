@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopanyo ye Seheberu se se sa e rego — אני ka noši ke taba ya go ba gona feela."
+    },
+    {
+      "kind": "elision",
+      "subject": "go swana le",
+      "rationale": "Sefoko se se kgaola se se sa rego — 'ga ke na go swana le pele' — tlhalošo e tla tšwa ka temaneng e latelago."
+    }
+  ],
+  "translation": "Gomme bjale ga bjalo ka matsatsi a mathomo ⟨ke⟩ nna bakeng sa sehlogwana sa setšhaba se, go bolela Yahwe Tsebaote.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "09f58508be1bae7eccca770e440f5225070ebfcf26684062604c8512987cde95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/8\/9-12.1792296977735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "gomme bjale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "bjalo ka matsatsi"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "a mathomo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "bakeng sa sehlogwana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa setšhaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    }
+  ],
+  "timestamp": "2026-10-18T04:16:17.736261095Z",
+  "model": "glm-5.3"
+}

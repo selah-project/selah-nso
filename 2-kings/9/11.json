@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 9:11",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba re",
+      "rationale": "Sepedi e nyaka sedirišwa fa go bolelwa poletšo, Seheberu se se na le sone."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mosenywa",
+      "rationale": "המשגע: 'yo a hlanya' — lentšu le gatelela gore bahlanka ba bona moprofeta bjalo ka senywa."
+    },
+    {
+      "kind": "crux",
+      "subject": "polelo ya gagwe",
+      "rationale": "שיחו: 'poletšo ya gagwe' kgahlanong le 'thomerio ya gagwe' — Yahwe o ile a tloša lentšu ka botlalo."
+    }
+  ],
+  "translation": "Gomme Yehu a tšwa go bahlanka ba mong wa gagwe, gomme ba mmotša ba re: A go šala ka kagiso? Ke ka baka eng mosenywa yo a tla go go bona? Gomme a ba re: Lona le tseba ⟨את⟩ motho yo le ⟨את⟩ polelo ya gagwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b2a4dd7328bec2abb26eebdd4f810b68d64002529976ffb82307b01f9d2a9997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/9\/10-11.1792304944494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "Gomme Yehu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a tšwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bahlanka"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "ba mong wa gagwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme ba mmotša"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "A go šala ka kagiso"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Ke ka baka eng"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a tla go go bona"
+    },
+    {
+      "surface": "המשגע",
+      "gloss": "mosenywa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Gomme a ba re"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Lona"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "le tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho yo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho yo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "polelo ya gagwe"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "polelo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:29:04.494834691Z",
+  "model": "glm-5.3"
+}

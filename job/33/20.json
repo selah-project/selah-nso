@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 33:20",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש gape mo — 'moya' (sekgoba sa go hema) e sego 'moea wa ka mo go sa boneng'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תאוה",
+      "rationale": "'tša boikhwefšo' (tša go nyakang) — goba ka bobedi 'tša maikhwefšo a nnete' (delight)."
+    }
+  ],
+  "translation": "Gomme bophelo bja gagwe bo hloila bogobe, gomme moya wa gagwe o hloila dijo tša boikhwefšo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/33\/17-20.1792300666310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזהמתו",
+      "gloss": "gomme ... bo hloila"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "bophelo bja gagwe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "gomme moya wa gagwe"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "dijo"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "tša boikhwefšo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:17:46.311078348Z",
+  "model": "glm-5.3"
+}

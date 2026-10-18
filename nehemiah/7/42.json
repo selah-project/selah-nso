@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "Counting of returning priestly family."
+    },
+    {
+      "kind": "crux",
+      "subject": "עשר",
+      "gloss-note": "",
+      "rationale": "שבעה עשר is 'ten-and-seven' in Hebrew; Sepedi order renders 'lesome la šupa'."
+    }
+  ],
+  "translation": "Ba bana ba Kharime, sekete le lesome la šupa.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "290b88bd72460aafdd38cb93d7c4c7689e16b6a5d4ddb79df7455d2c9fdd7a19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/7\/41-44.1792302580067.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ba bana ba"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Kharime"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "šupa"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome"
+    }
+  ],
+  "timestamp": "2026-10-18T05:49:40.067637662Z",
+  "model": "glm-5.3"
+}

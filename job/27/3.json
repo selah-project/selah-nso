@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 27:3",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kimong ya ka",
+      "rationale": "אַף ke nko\/kimong — Sepedi se bolela 'kimong' go swana le Seswantšho sa Genesi 2:7"
+    },
+    {
+      "kind": "elision",
+      "subject": "כל",
+      "gloss": "gakgolo le עוד di kopantšwe go 'go sa fihle'"
+    }
+  ],
+  "translation": "Ka gobane go sa fihle mohema wa ka o ka mo go nna, le ruakh ya Eloha e ka kimong ya ka;",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d6412e9fc0059d6fe7bd8e695fbe47f8d2dc1094142e5433c7fbf63cd7dfb9da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/27\/1-4.1792300489566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨go sa fihle⟩"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "go sa fihle"
+    },
+    {
+      "surface": "נשמתי",
+      "gloss": "mohema wa ka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "o ka mo go nna"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "le ruakh"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ya Eloha"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "e ka kimong ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:14:49.567037950Z",
+  "model": "glm-5.3"
+}

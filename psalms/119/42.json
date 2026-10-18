@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 119:42",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yo a nhlabilago ka lesho",
+      "rationale": "חרף literally 'go ntšha diaparo \/ go senya mmadi' — 'go hlaba ka lesho' ke kakaretšo ya go roba ka motho"
+    },
+    {
+      "kind": "crux",
+      "subject": "דבר",
+      "rationale": "Ke lentšu la mothaladi (araba ka lentšu) goba sediriswa (se ke sona seo ke se arabago ka sona)? Mehlala yohle ya Selekane e kgetha ya bobedi"
+    }
+  ],
+  "translation": "Gomme ke tla araba ⟨⟨yo a nhlabilago ka lesho⟩⟩ ka lentšu, ka gobane ke tshepilega go lentšu la gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "083b74b5421d477a7b0acb4e1a3563295e4833d22f5e9e5fbcdd8aa043e28985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/41-44.1792298766181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "gomme ke tla araba"
+    },
+    {
+      "surface": "חרפי",
+      "gloss": "yo a nhlabilago ka lesho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ka lentšu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshepilega"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "go lentšu la gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:06.182362825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 6:9",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "letšatši la gagwe",
+      "rationale": "ידו ke 'seatla sa gagwe' ka mo go tlwaelegilego; 'letšatši' ke seatla se se nago maatla, fela mo Seheberu se re 'seatla' ka pela"
+    },
+    {
+      "kind": "crux",
+      "subject": "a n kgogela ntle",
+      "rationale": "ויבצעני: 'a n kgogele ntle' kgotalo 'a n fetse'; KJV 'cut me off', YLT e swana"
+    }
+  ],
+  "translation": "Gomme Eloha a dumele go n thubolla, a lokollotše letšatši la gagwe, a n kgogela ntle.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "671760bb976709a9f9abe80a24b05c2ca760148014d1ec445f7cbefb10f33f06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/6\/9-12.1792300092035.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאל",
+      "gloss": "gomme a dumele"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "וידכאני",
+      "gloss": "go n thubolla"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "a lokollotše"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letšatši la gagwe"
+    },
+    {
+      "surface": "ויבצעני",
+      "gloss": "a n kgogela ntle"
+    }
+  ],
+  "timestamp": "2026-10-18T05:08:12.036344119Z",
+  "model": "glm-5.3"
+}

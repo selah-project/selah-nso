@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 18:1",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ngwaga wa boraro",
+      "rationale": "Matsatsi a botelele bja bogosi bja di-kgoši a balwa ka ngwaga wa boraro wa Hošea."
+    },
+    {
+      "kind": "substitution",
+      "subject": "boraro",
+      "rationale": "שלש ke 'tharo' (palo), eupša mo go šomišwa bjalo ka ya bo-šupa go ngwaga — boraro."
+    }
+  ],
+  "translation": "Gomme go direge ka ngwaga wa boraro wa Hošea morwa Ela kgoši ya Yisraele, Chizekiya morwa Ahaze kgoši ya Juda o ile a thoma go busa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b9a9be179069d20ac4b5e00cf707e4171bd1ea5b311859722fc2703ef06e0e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/18\/1-4.1792290953155.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go direge"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ka ngwaga wa"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "boraro"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "Hošea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o ile a thoma go busa"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Chizekiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahaze"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Juda"
+    }
+  ],
+  "timestamp": "2026-10-18T02:35:53.156254006Z",
+  "model": "glm-5.3"
+}

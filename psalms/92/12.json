@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "boikelloo bja moprofeta",
+      "rationale": "KJV e oketša 'my desire'; Seheberu se se se rego — mahlo a bona, ditsebe di utlwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "manaba a ka",
+      "rationale": "בשורי go tšwa go שור: 'yo a letetšego mo lewatle' — sera yo a iphitlhetšego"
+    }
+  ],
+  "translation": "Gomme leihlo la ka le ile la lebelela manaba a ka, le ditsebe tša ka di ile tša utlwa ba ba dirago bobe, ba ba imileng kgahlanong le nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/92\/9-12.1792298450834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "le ile la lebelela"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "leihlo la ka"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "manaba a ka"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "ba ba imileng"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ba ba dirago bobe"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "di ile tša utlwa"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "ditsebe tša ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:50.835745265Z",
+  "model": "glm-5.3"
+}

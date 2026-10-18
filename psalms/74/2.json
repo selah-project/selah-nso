@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 74:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "selete",
+      "rationale": "שבט ka tlwaelo ke selete\/tšhie; fa e bolela setšhaba goba kgošia — sebopego sa selete se bolokwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "o e hweditše",
+      "rationale": "קנה: baphetoledi ba fapana — go reka (KJv 'purchased') kgotala go bopa\/hwetsa (JPS 'gotten'); Sepedi o tšere gore go hwetsa."
+    }
+  ],
+  "translation": "Gopola phuthego ya gago, yeo o e hweditšeng bogologolo, yeo o e lokollotšeng e le selete sa bojafalo bja gago; thaba ye ya Tsiyone, yeo o hlalletšeng go yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/74\/1-4.1792298239347.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "gopola"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "phuthego ya gago"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "o e hweditše"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "bogologolo"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "o e lokollotše"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "selete"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "bojafalo bja gago"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "שכנת",
+      "gloss": "o hlalletše"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:19.348715656Z",
+  "model": "glm-5.3"
+}

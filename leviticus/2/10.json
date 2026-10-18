@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדש קדשים",
+      "rationale": "phetišo ya gobedi go bontšha phahamo — 'bokgethwa bja bokgethwa' (QDS-QDS), sephetho se se feleletšego"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke ⟨sa⟩",
+      "rationale": "Seheberu se se na kopaelo; Sepedi se e nyaka"
+    }
+  ],
+  "translation": "Se se šetšego go tšwa minkhong ke ⟨sa⟩ Aharone le bana ba gagwe; ke bokgethwa bja bokgethwa, go tšwa go dihlabelong tša mollo tša Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/2\/9-12.1792283539331.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "se se šetšego"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkhong"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "go Aharone"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "le go bana ba gagwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "bja bokgethwa"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "go tšwa dihlabelong tša mollo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "tša Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:32:19.332888699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "malapa",
+      "rationale": "בתים ke 'malapa' ka koto — 'malapa a diphao', sebopego sa lentšu se bolokwa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dikgoba tše nne",
+      "rationale": "palo e tee e balwa: dikgoba tše nne, mafelo a mane"
+    }
+  ],
+  "translation": "Gomme a tšhela dikgoba tše nne mafelong a mane a kgokgo ya tmongwa, e le malapa a diphao.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/38\/5-8.1792283385487.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "gomme a tšhela"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tše nne"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "dikgoba"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "mafelong a mane"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "mafelo"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "a kgokgo"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ya tmongwa"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "a diphao"
+    }
+  ],
+  "timestamp": "2026-10-18T00:29:45.487979824Z",
+  "model": "glm-5.3"
+}

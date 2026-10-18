@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebe",
+      "rationale": "און e bolela 'go se nago selo, lephoso' — 'sebe' ke botee bja sona bja botho"
+    },
+    {
+      "kind": "elision",
+      "subject": "און",
+      "rationale": "און ke selo se se dirwago fela — ⟨את⟩ e swara 'sebe' bjalo ka selo se se šomwago"
+    },
+    {
+      "kind": "you",
+      "subject": "go ba šomi bao ba šomago sebe",
+      "rationale": "Taetso ya go tloha — bolelogo ka go tlwaetša"
+    }
+  ],
+  "translation": "Tlohang go tšwa go nna, ka moka lona bao ba šomago ⟨את⟩ sebe; ka gobane Yahwe o kwaletše lentšu la go lla ga ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dee5ab1a9dc3fc8250d6136160d50a78697b673dfd9d2308735ae6651f3a9507",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/6\/9-11.1792297096899.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "tlohang go tšwa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "bao ba šomago"
+    },
+    {
+      "surface": "און",
+      "gloss": "⟨את⟩ sebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o kwaletše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "la go lla ga ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:16.900001442Z",
+  "model": "glm-5.3"
+}

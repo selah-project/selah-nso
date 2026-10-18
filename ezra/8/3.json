@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 8:3",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "basadi-banna",
+      "rationale": "זכרים — 'banna' (basadi-banna); gatišo ya Sepedi ya go baakanya e feteletše, banna fela go lekana"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lekgolo le masomehlano",
+      "rationale": "palo ya 150 banna bao ba ingwalotšego ka bouena"
+    }
+  ],
+  "translation": "Go tšwa go bana ba Šekhanjaha, go tšwa go bana ba Paroše, Zekharja; gomme le yena ba ingwalotše ka bouena bja basadi-banna, lekgolo le masomehlano.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "15e4c72dc9a7d2bc1404039cb40a0e8e5bf9e684e8ff3b69b7942190ce344a0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/8\/1-4.1792302364839.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "go tšwa go bana ba"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Šekhanjaha"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "go tšwa go bana ba"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Paroše"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Zekharja"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "gomme le yena"
+    },
+    {
+      "surface": "התיחש",
+      "gloss": "ba ingwalotše ka bouena"
+    },
+    {
+      "surface": "לזכרים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masomehlano"
+    }
+  ],
+  "timestamp": "2026-10-18T05:46:04.840827053Z",
+  "model": "glm-5.3"
+}

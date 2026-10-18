@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na copula; Sepedi se e nyaka."
+    },
+    {
+      "kind": "addition",
+      "subject": "ba ka",
+      "rationale": "Yo a bolelago (Yahwe) ga a ngwalwa motemeng wo — go tšwa mafelelong a tshepedišo ye."
+    }
+  ],
+  "translation": "Ka gobane bahlanka ba ka ⟨ke⟩ ba ba ntlhoditšego ⟨את⟩ go tšwa lefaseng ya Mitsrayime; ga ba rekišwe ka go rekiša ga mohlanka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0cbf453f429bb9c268be295e009ff9c12a8f20e278a7b5816376636f9b04e5c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/25\/41-44.1792284239630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bahlanka ba ka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ba ntlhoditšego"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba (batho ba Yisraele)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go tšwa lefaseng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "ba rekišwe"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "ka go rekiša"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ga mohlanka"
+    }
+  ],
+  "timestamp": "2026-10-18T00:43:59.631822433Z",
+  "model": "glm-5.3"
+}

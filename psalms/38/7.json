@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קדר",
+      "rationale": "Literally 'to be dark\/ashy', by extension to mourn in sackcloth — rendered as mourning in black clothes."
+    }
+  ],
+  "translation": "Ke kgopetše, ke nametše kudu, letšatši ka moka ke sepela ke apere boila.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/38\/5-8.1792297630898.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "ke kgopetše"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "ke nametše"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨go fihla⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ke apere boila"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ke sepela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:10.899773070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "O yo a Phahamilego",
+      "rationale": "מרום ke 'boiphahamo' — sehlagišo sa lefase; go ya ka boemo fela ke sa Adonai."
+    },
+    {
+      "kind": "you",
+      "subject": "go Elohim",
+      "rationale": "Poko e ka sefeleng e bolelela yo a Phahamilego."
+    }
+  ],
+  "translation": "Manaba a ka ba nkmenya letsatsi lohle, ka gobane ba bantši ba lwa le nna, O yo a Phahamilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/56\/1-4.1792297889310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "ba nkmenya"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "manaba a ka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bantši"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "O yo a Phahamilego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:29.311574088Z",
+  "model": "glm-5.3"
+}

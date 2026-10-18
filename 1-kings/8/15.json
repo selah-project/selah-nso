@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "את mo ke lentišo (H854, 'le') e sego sesupi sa object; dikgethi tše dingwe di e senya ka go tlogela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אבי",
+      "gloss": "papa wa ka",
+      "rationale": "Sepedi se nyaka ⟨wa ka⟩ — 'papa' fela ga go holahala"
+    }
+  ],
+  "translation": "Gomme a re: Yahwe, Elohim wa Yisraele, o a beatlwa, yo a bolelago ka molomo wa gagwe ⟨את⟩ ga Dafida papa ⟨את⟩, gomme ka letogo la gagwe a phethile ⟨את⟩, a re:",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/8\/13-16.1792289876263.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "o a beatlwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a bolelago"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ka molomo wa gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ga Dafida papa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "gomme ka letogo la gagwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a phethile"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-18T02:17:56.264366588Z",
+  "model": "glm-5.3"
+}

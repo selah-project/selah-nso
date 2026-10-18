@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 7:9",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "infinitives as questions",
+      "rationale": "Seheberu se na le ditiragalo tša go se felwe (infinitives) ka sebopego sa potšišo; barutiwa ba fapana — potšišo ya kgalemo (KJV) goba polelo ya boitshwaro (YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "אלהים ka ditlhaka tše nnyene — medimo ya ditšhaba, go swana le Ekisodo 32:8"
+    },
+    {
+      "kind": "you",
+      "subject": "Judah ya tempeleng",
+      "rationale": "Potšišo ye e lebisitšwe go setšhaba se se senyang ditemana tše tsheleeng tsa tora"
+    }
+  ],
+  "translation": "A go utswa, go bolaya, go dira bohlale, gomme go ikana ka lefoša, gomme go dupa dihlabelo go Baale, gomme go sepela ka morago ga medimo ye mengwe yeo le sa e tsebego?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "de524f14ad9416449c63f096373ec9d235c2dea283cffb62435d67b908e03ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/7\/9-12.1792292892619.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגנב",
+      "gloss": "a go utswa"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "go bolaya"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "gomme go dira bohlale"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "gomme go ikana"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ka lefoša"
+    },
+    {
+      "surface": "וקטר",
+      "gloss": "gomme go dupa dihlabelo"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "go Baale"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "gomme go sepela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ye mengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "le e tsebego"
+    }
+  ],
+  "timestamp": "2026-10-18T03:08:12.620169992Z",
+  "model": "glm-5.3"
+}

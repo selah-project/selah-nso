@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 39:20",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התרעישנו",
+      "rationale": "'go tlologa\/go tetema bjalo ka senyloane' (asv\/jps) kgathanong le 'go tšhoga' (kjv) — modu wa go tetema le go tlologa ga khumo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go nama ga mokgo",
+      "rationale": "נחרו ke go nama ga mokgo wa pitse — ponagalo ya nama, e sego sephiri."
+    },
+    {
+      "kind": "you",
+      "subject": "go Iyobo",
+      "rationale": "potšišo ya go feletša e bego Iyobo — o na le maatla a go dira dilo tše?"
+    }
+  ],
+  "translation": "Na o ka mo dira gore a tlologe bjalo ka senyloane? Bogolo bja go nama ga mokgo wa yona ke tšhogo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b0824b03a1eb400679b7a1c8600f2827655390c27762f80533db61b8cf597d83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/39\/17-20.1792300829484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התרעישנו",
+      "gloss": "Na o ka mo dira gore a tlologe"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "bjalo ka senyloane"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "bogolo"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "go nama ga mokgo wa yona"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "tšhogo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:20:29.486003435Z",
+  "model": "glm-5.3"
+}

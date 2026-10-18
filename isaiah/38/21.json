@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 38:21",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דבלת",
+      "rationale": "Se kgwedi ya mathe a meala e hlatswatšwego — lentšu la go swana le lona le nyelela mo go Tanakh; kgwedi e bopa ka go fodiša meala."
+    },
+    {
+      "kind": "crux",
+      "subject": "וימרחו",
+      "rationale": "Go phuthetše — go fodiša ka go eka; dipheto tše dingwe: go bea sediriswa godimo ga sekwala."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sekwala",
+      "rationale": "השחין ke phodiso ya letlalo yeo e fišago — sekwala ke sebopego se se utuwago ka Sepedi."
+    }
+  ],
+  "translation": "Gomme Yeshayahu a re: A ba tlooše kgwedi ya mathe a meala, gomme ba e phuthetše go twa godimo ga sekwala, gomme o tla phela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bc3102f1275d4a0b48de2620f238a604fa52aa7e1b5ad243b5b0041ee0aff638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/38\/21-22.1792291957245.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme … a re"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Yeshayahu"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "A ba tlooše"
+    },
+    {
+      "surface": "דבלת",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "תאנים",
+      "gloss": "ya mathe a meala"
+    },
+    {
+      "surface": "וימרחו",
+      "gloss": "gomme ba e phuthetše"
+    },
+    {
+      "surface": "על",
+      "gloss": "go twa godimo ga"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "sekwala"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "gomme o tla phela"
+    }
+  ],
+  "timestamp": "2026-10-18T02:52:37.245686010Z",
+  "model": "glm-5.3"
+}

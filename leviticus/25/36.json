@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 25:36",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשך",
+      "rationale": "Lentšu le ra go loma — nšenkelo ya madi ke 'selo se se lomago'; seboa se lahlegile go Sepedi."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Taolo ye e Lebanya ka go Yisraele: go se tše nšenkelo, go boifa Elohim."
+    }
+  ],
+  "translation": "O se ke wa tšea go tšwa go yena ⟨את⟩ nšenkelo le ⟨את⟩ oketšego; o boife Elohim wa gago, gomme mokolobe wa gago a phela le wena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "46d80eba8ec9f8da3be1799650deb753dd01ee6e5a81bd9bfea8a4d73cd8a9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/25\/33-36.1792284283133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "tšea"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "go tšwa go yena ⟨את⟩",
+      "marks": "nšenkelo le oketšego"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "nšenkelo"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "oketšego"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "o boife"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "gomme a phela"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mokolobe wa gago"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:44:43.134535979Z",
+  "model": "glm-5.3"
+}

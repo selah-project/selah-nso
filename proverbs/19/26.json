@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "go laelana ga masomo",
+      "rationale": "JPS e aga sephetho pele ('morwa yo a nyefotsago ke yena yo a senyago'): KJV e aga ka mo go tlwaelegilego — sebopego sa Seheberu se bulele mekghwa ye mebedi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨gomme⟩",
+      "rationale": "Seheberu se hwetša ka kopanyo ya יבריח fela; Sepedi se nyaka kopanyi"
+    }
+  ],
+  "translation": "Yo a senyago tatagwe gomme a balela mmagwe — morwa yo a nyefotsago, yo a tlaišago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "020a594e952816da3fbef489dd9078a6892229aa781b9676aeb63096cd00a2dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/19\/25-28.1792299608824.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "yo a senyago"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tatagwe"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "a balela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mmagwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "yo a nyefotsago"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "yo a tlaišago"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:08.824765008Z",
+  "model": "glm-5.3"
+}

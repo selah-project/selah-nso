@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 13:28",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sa kgoro",
+      "rationale": "נחלה ke sešo sa kgoro — e sego 'mpho'; Lentšu le bolela se bantšu ba se hodisago ba sa se reke"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na kopula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "measurement",
+      "subject": "metse le metse-ya-mabala",
+      "rationale": "Palo ya metse e phethilwe ka go bala metse-ya-mabala"
+    }
+  ],
+  "translation": "Se ke sa kgoro ya bana ba Gadi, go ya le malapa a bona — metse le metse-ya-mabala ya yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "aa81e4bc1f6ed07e7f0f47dbaea13e1af424f658a7ea6cafa4a119ac84d2ba6d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/13\/25-28.1792286826233.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Se"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ke sa kgoro"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "go ya le malapa a bona"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "וחצריהם",
+      "gloss": "le metse-ya-mabala ya yona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:27:06.234543815Z",
+  "model": "glm-5.3"
+}

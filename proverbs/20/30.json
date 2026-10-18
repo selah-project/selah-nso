@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 20:30",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תמריק",
+      "rationale": "Mongwalo o ngwadiše ka ת ya oketšego; bahlalosi ba fapana — go hlwekisa (KJV, JPS) kgahlanong le go ntšha sebe (YLT)"
+    },
+    {
+      "kind": "crux",
+      "subject": "dikgoro tša ka gare tša mpa",
+      "rationale": "חדרי בטן — bahlalosi ba bangwe ba re ke diphahlo tše di botse tša mmele, ba bangwe ke sebopego sa ka gare sa motho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikgobo",
+      "rationale": "ומכות ka moono wa go kgoba — diphahlo tša go otlela, e sego kgobo ya lefase"
+    }
+  ],
+  "translation": "Diphahlo tša kgobo di a hlwekisa sebe; gomme dikgobo di fihlela dikgoro tša ka gare tša mpa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6f470061edb896d65a39e812fe8b9cc41b6faa1019529df174eadd0c44ea442f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/20\/29-30.1792299537292.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חברות",
+      "gloss": "diphahlo"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "tša kgobo"
+    },
+    {
+      "surface": "תמריק",
+      "gloss": "di a hlwekisa"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "ומכות",
+      "gloss": "gomme dikgobo"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "dikgoro tša ka gare"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "mpa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:58:57.293207238Z",
+  "model": "glm-5.3"
+}

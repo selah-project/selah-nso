@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 10:13",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka go thata",
+      "rationale": "קשה ke 'se se thatago' — go araba ka go thata, e sego lentšu le tee la thwii"
+    }
+  ],
+  "translation": "Gomme kgoši a ba araba ka go thata, gomme Kgoši Rehabeame a tlogela ⟨את⟩ maikutlo a batala.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "016c4e7ebfeaaa12337efae5fa5191cb2524e49e792da024f4153ede6f66903c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/10\/13-16.1792303814845.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענם",
+      "gloss": "a ba araba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ka go thata"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "a tlogela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Kgoši"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maikutlo a batala"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "maikutlo a"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "batala"
+    }
+  ],
+  "timestamp": "2026-10-18T06:10:14.845829510Z",
+  "model": "glm-5.3"
+}

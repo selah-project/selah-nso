@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הוליד ya boraro",
+      "rationale": "Seheberu se tloša keraka ya 'a begetša' kopanyong ya boraro — Sepedi se e oketša."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tšhupetšo ya malapa",
+      "rationale": "Go balelwa mokgwa wa baperisita ka mehleng ya malapa — palo ya magorantšu."
+    }
+  ],
+  "translation": "Gomme Yeshua a begetša ⟨את⟩ Yoyakime, gomme Yoyakime a begetša ⟨את⟩ Elyashibe, gomme Elyashibe ⟨את⟩ Yoyada.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "11c870efc327358f421b2820a853415dc096647e9361edacfef9d48d6a83eb78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/12\/9-12.1792302677870.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "Gomme Yeshua"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begetša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyakime"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Yoyakime"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "gomme Yoyakime"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begetša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elyashibe"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elyashibe"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "gomme Elyashibe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Yoyada"
+    }
+  ],
+  "timestamp": "2026-10-18T05:51:17.871306444Z",
+  "model": "glm-5.3"
+}

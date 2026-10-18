@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא ידעתי",
+      "rationale": "KJV: 'nna ga ke a tseba'; JPS: 'bao nna ga ke ba tsebego' — mo go kwagalago KJV go utwala"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba ntshitše dihlong",
+      "rationale": "קרעו e ra go gasa, go robega — go rwarwa ka molomo, sephiri; Sepedi e tšea bokao ba kudu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונאספו נאספו",
+      "rationale": "Go boela ga lentšu leo le le tee go hlatlamana — go bontšha bontši bja bokobokano bjo bo betlang"
+    }
+  ],
+  "translation": "Gomme ge ke be ke nametša, ba ile ba nyaka, ba bokana; ba bokana kgahlanong le nna bao ba phadišago, gomme nna ga ke a tseba; ba ntshitše dihlong, ba sa fou.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/35\/13-16.1792297565495.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "gomme ge ke be ke nametša"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "ba ile ba nyaka"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "ba bokana"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "ba bokana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "bao ba phadišago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke a tseba"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "ba ntshitše dihlong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "fou"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:05.496265526Z",
+  "model": "glm-5.3"
+}

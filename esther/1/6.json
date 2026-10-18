@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 1:6",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סחרת",
+      "rationale": " Lentšu le tlhagelela fela mo go Tanakh; bolela leswika la moso la meelo, le neelwa modumo wa Seheberu 'sokharete'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ditulo",
+      "rationale": "מטות ke ditulo tša go robala le tša go ja (meelo), e sego feela ditulo."
+    },
+    {
+      "kind": "crux",
+      "subject": "שש",
+      "rationale": "שש le ka bolela kgetheng ya bosweu goba marabole; mo go na le marabole, gomme KJV e fapana ('white linen' kgathanong le 'marble')."
+    }
+  ],
+  "translation": "Maphiniso a khure-bosweu, a karpase le a serule, a swerwe ka dithapo tša butse le tša phephole, godimo ga maringwa a silibera le dipilara tša marabole; ditulo tša gauta le tša silibera, godimo ga phapetšha ya bahate le ya marabole, le dara le sokharete.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1470362836439efd1b797e203057180283cbedbd8701741308127ecf730cb4ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/1\/6-7.1792305428020.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חור",
+      "gloss": "khure-bosweu"
+    },
+    {
+      "surface": "כרפס",
+      "gloss": "karpase"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "gomme a serule"
+    },
+    {
+      "surface": "אחוז",
+      "gloss": "a swerwe"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "ka dithapo tša"
+    },
+    {
+      "surface": "בוץ",
+      "gloss": "butse"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "le tša phephole"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "גלילי",
+      "gloss": "maringwa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "a silibera"
+    },
+    {
+      "surface": "ועמודי",
+      "gloss": "le dipilara tša"
+    },
+    {
+      "surface": "שש",
+      "gloss": "marabole"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "ditulo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tša gauta"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "le tša silibera"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "רצפת",
+      "gloss": "phapetšha ya"
+    },
+    {
+      "surface": "בהט",
+      "gloss": "bahate"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le ya marabole"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le dara"
+    },
+    {
+      "surface": "וסחרת",
+      "gloss": "le sokharete"
+    }
+  ],
+  "timestamp": "2026-10-18T06:37:08.021197574Z",
+  "model": "glm-5.3"
+}

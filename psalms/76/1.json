@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח בנגינת",
+      "rationale": "Taetso ya mmino — e sa fetolelwe ka botlalo, e hlalosa fela sebopego sa psalema."
+    }
+  ],
+  "translation": "Go molaodi, ka mmino wa dithae; psalema ya Asafe, kopelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/76\/1-4.1792298187524.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go molaodi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ka mmino wa dithae"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalema"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "kopelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:27.525226923Z",
+  "model": "glm-5.3"
+}

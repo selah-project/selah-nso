@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dathe",
+      "rationale": "דת ke lentšu la Mo-Persia le bolelago taelo ya kgoši; le bolokwa ka modumo wa lona, e sego 'molao' fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "mafelelo",
+      "rationale": "העתים: 'ba tsebago mafelelo' (dinako) kgathanong le 'ba tsebago mehla ya kgoši' — ba bangwe ba akanya gore ke dinako tša kgoši"
+    }
+  ],
+  "translation": "Gomme kgoši a bolela le baseli, ba tsebago mafelelo — gobane bjalo e bja lentšu la kgoši pele ga ba kamoka ba tsebago dathe le kahlolo:",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/1\/13-16.1792301599875.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme kgoši a bolela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "le baseli"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "ba tsebago"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "mafelelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la kgoši"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba kamoka"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "ba tsebago"
+    },
+    {
+      "surface": "דת",
+      "gloss": "dathe"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "le kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:33:19.876313696Z",
+  "model": "glm-5.3"
+}

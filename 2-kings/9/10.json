@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kabelong",
+      "rationale": "בחלק: 'kabelong' (allotment ya serapa) kgahlanong le 'lefaseng' — kabelo ya ntlo ya Ahabe go Yizreele."
+    },
+    {
+      "kind": "substitution",
+      "subject": "yo a ka mo hlabetšago",
+      "rationale": "קבר ke modu wa go hlabela; Sepedi se nyaka sedirišwa, Seheberu se na le modu fela."
+    }
+  ],
+  "translation": "Gomme dimpswe di tla ja ⟨את⟩ Izebele kabelong ya Yizreele, gomme go se na yo a ka mo hlabetšago; gomme o ile a bula ⟨את⟩ lebati a baleha.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b2a4dd7328bec2abb26eebdd4f810b68d64002529976ffb82307b01f9d2a9997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/9\/10-11.1792304944494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "Izebele"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebele"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di tla ja"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dimpswe"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "kabelong"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "ya Yizreele"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme go se na"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "yo a ka mo hlabetšago"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "gomme o ile a bula"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "lebati"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "a baleha"
+    }
+  ],
+  "timestamp": "2026-10-18T06:29:04.494589179Z",
+  "model": "glm-5.3"
+}

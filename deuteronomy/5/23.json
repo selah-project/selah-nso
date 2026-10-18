@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 5:23",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ותקרבון -ן",
+      "rationale": "Thoko ya mafelelo -ן (paragogic nun) ga e na boemong bja go Sepedi; e hlakantšhwa ke sebopego fela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikgoši",
+      "rationale": "ראשי שבטיכם ke 'dihlogo tša dikgetsi tša lena' ka go sebega; 'dikgoši' e bopa maemo, e sego sebopego sa lentšu."
+    }
+  ],
+  "translation": "Gomme go bile bjalo, ge le kwetše ⟨את⟩ lentšu go tšwa gare ga lefsifsi — gomme thaba e fiša ka mollo — le atametše go nna, le dikgoši ka moka tša dikgetsi tša lena le bagologolo ba lena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c4344b77523097bd3019e084f42e0ee9fafea487d7e8c92914c798e9b0dc4c70",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/5\/21-24.1792285682780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Gomme go bile bjalo"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "ge le kwetše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "go tšwa gare ga"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "gomme thaba"
+    },
+    {
+      "surface": "בער",
+      "gloss": "e fiša"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "ותקרבון",
+      "gloss": "le atametše"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "tša dikgetsi tša lena"
+    },
+    {
+      "surface": "וזקניכם",
+      "gloss": "le bagologolo ba lena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:08:02.781790706Z",
+  "model": "glm-5.3"
+}

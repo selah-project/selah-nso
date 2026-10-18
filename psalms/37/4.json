@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o ikatše",
+      "rationale": "התענג ke go ba bofefo, go iketla, go katšega — go ikatše ke go katšega ka Yahwe, e sego go ikgantšha"
+    },
+    {
+      "kind": "addition",
+      "subject": "go",
+      "rationale": "Sepedi e hloka lentšu la go šupetša modumo wa kgopelo ya mošomo o mogolo — le ka fao le sa hwetšego ka Seheberu"
+    }
+  ],
+  "translation": "O ikatše go Yahwe, gomme o tla go fa dikgopelo tša pelo ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/37\/1-4.1792297588190.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "o ikatše"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "gomme o tla go fa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "dikgopelo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:28.191265541Z",
+  "model": "glm-5.3"
+}

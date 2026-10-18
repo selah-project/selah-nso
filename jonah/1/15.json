@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "la khotla",
+      "rationale": "ויעמד semmuso ke 'go ema' — lewatle le emile go tšwa go galefa"
+    }
+  ],
+  "translation": "Gomme ba ile ba tšea ⟨את⟩ Yona, ba mo lahla lewatleng; gomme lewatle le ile la khotla go se galefa ga lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jonah\/1\/13-16.1792296451367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ba ile ba tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Yona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "ba mo lahla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lewatleng"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "la khotla"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "go se galefa ga lona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:07:31.368524547Z",
+  "model": "glm-5.3"
+}

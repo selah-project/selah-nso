@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨se se lego sona⟩",
+      "rationale": "Seheberu o na le זאת feela; kopanyo ya Sepedi e nyaka sebopego sa lentšu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "phalamu",
+      "rationale": "תמר ke mohlare wa phalamu; Sepedi o ka n'na le lentšu la selegae, ka ge motswedi o se nago"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמר\/תמרה",
+      "rationale": "Setšwantšho sa phalamu se tšwelela gape Moaparo 3 — setšwantšho sa bophara le mašwele"
+    }
+  ],
+  "translation": "Se se lego sona: botelele bja gago bo swana le phalamu, gomme mabele a gago le dikgwarana tša merara.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a181a055b19fd07dfd587e8d08275d42b2f1ad3a7756503aa6fd1450fcc04779",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/7\/5-8.1792301031162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "se se lego sona"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "botelele bja gago"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "bo swana"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "le phalamu"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "gomme mabele a gago"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "le dikgwarana tša merara"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:51.163808570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועצר רחם",
+      "rationale": "'mpa e tswaletšwego' — עֹצֶר go tswalelwa; ba bangwe ba re 'mpa ye e se nago pelego'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mpa",
+      "rationale": "רַחַם gape e bolela mohau — 'mpa' ke taba ya motheo mo, seswantšho sa go hloka taetšo"
+    },
+    {
+      "kind": "elision",
+      "subject": "Sheole",
+      "rationale": "Sheole ga e fetolwe — e bolokwa ka modumo wa yona go ya ka D2"
+    }
+  ],
+  "translation": "Sheole, le mpa e tswaletšwego, le lefase leo le sa tlatšwego meetse, le mollo o sa rego: 'Go lekile.'",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f9cc896ce6865786110cb870fda9604836210d20694390a2de1670ed68190b5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/30\/13-16.1792299953094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "gomme go tswalelwa"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "mpa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "e tlatšwe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "le mollo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "o re"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Go lekile"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:53.095349636Z",
+  "model": "glm-5.3"
+}

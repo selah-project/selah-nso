@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "di nthomile pele",
+      "rationale": "קדמוני — KJV e re 'di kgoretše pele' (e bolela go thibela), YLT e re 'pele ga ka go be go se na dithaele'; go hlantšha ke gore dithaele di tšea motho ka pele, di sa mo letetše."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sheole",
+      "rationale": "שאול ga se 'dihele' ya kahlolo — ke lefelo la bafoci; e bolokilwe e le leina."
+    }
+  ],
+  "translation": "Dithapo tša Sheole di mpsheditše ka thoko; dithaele tša lehu di nthomile pele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/18\/5-8.1792297377556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "dithapo tša"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "di mpsheditše ka thoko"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "di nthomile pele"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "dithaele tša"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lehu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:57.557553261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יספרו",
+      "rationale": "go bala bjalo ka go bala ka nama — go bala bohloko bjalo ka Palo, sebopego se sebolokilwego"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשר",
+      "rationale": "ba bangwe ba e bala bjalo ka 'yeo o e otšwego' (motho a le mong, mopsalme) kgahlanong le 'bao o ba otšwego' (bontši)"
+    }
+  ],
+  "translation": "Ka gobane bao o ba otšwego, ba ba hlakile, gomme bohloko bja bao o ba lotšwego ba bo bala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fe724e736e71c79b85457f0e579e62b74e39481f1b0c1b3c034f1a763c946f46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/69\/25-28.1792298062035.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ba otšwego"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ba ba hlakile"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "bohloko bja"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "bao o ba lotšwego"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ba bo bala"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:22.036666966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "dipeng tša go senyega",
+      "rationale": "משחיחות e bolela dipeng tša go wa go tsena (shachat); jps e re 'megokgo', kjv e re 'maseneswa'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "lentšu",
+      "rationale": "דבר — lentšu la Yahwe le dira kahlolo ka boyona; ditho tše tharo tša fela di hlamagantšwe ke vavu (waw-consecutive)."
+    }
+  ],
+  "translation": "O romela lentšu la gagwe la ba fodiša, gomme la ba lokolla go dipeng tša go senyega tša bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/107\/17-20.1792298677253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "o romela"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentšu la gagwe"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "la ba fodiša"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "gomme la ba lokolla"
+    },
+    {
+      "surface": "משחיתותם",
+      "gloss": "go dipeng tša go senyega tša bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:37.254940500Z",
+  "model": "glm-5.3"
+}

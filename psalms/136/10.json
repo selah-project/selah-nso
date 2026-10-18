@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba bona",
+      "rationale": "Seheberu se re בבכוריהם fela; sekopanyi se okeditšwe go hlalosa."
+    }
+  ],
+  "translation": "Go yo a otileng ⟨את⟩ Mitsrayime ka bantši ba bona ba pele, gore go ya lebinge hesede ya gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6878842d7f85e6c13eebce35360ead4f69361d0e960a09cf83082446e8cd9593",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/136\/9-12.1792299009580.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "go yo a otileng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "ka bantši ba bona ba pele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya lebinge"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:09.581214990Z",
+  "model": "glm-5.3"
+}

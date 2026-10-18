@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bogobe",
+      "rationale": "לחם ke bogobe ka Sepedi go ya le D4, e sego 'meat' ya KJV"
+    },
+    {
+      "kind": "alternative",
+      "subject": "poelong",
+      "rationale": "בקיץ literally 'nako ya sekgale\/maholoho' — poelo e tšere lehlakore la go bea"
+    }
+  ],
+  "translation": "Dikhutsana ke setšhaba se se nago maatla, gomme di a rulaganya poelong bogobe bja tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b20a2793d8e7190392732e592dc13d0bc7f0f8535555ce7aa04fba50fe474cb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/30\/25-28.1792299886081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "dikhutsana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "di a rulaganya"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "poelong"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "bogobe bja tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:04:46.082255519Z",
+  "model": "glm-5.3"
+}

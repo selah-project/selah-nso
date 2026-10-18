@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Theetša",
+      "rationale": "go bitša ka mo go lebanyeng ka mehato ya kgalemo go Elohim"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "poledišano e lebanyeng go Elohim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sehu",
+      "rationale": "רנה ke modumo wo mogolo (wa thabo goba botlhoko); 'sehu' o tšere lehlakore la botlhoko fela"
+    }
+  ],
+  "translation": "Theetša, Elohim, sehu sa ka; theetša ka tlhokomelo thapelo ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2a36bc2a0bee8f8154aa229e500fe67ac96f77f6f4bb574fa6d5ac0ccb4ea75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/61\/1-4.1792297987517.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Theetša"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "sehu sa ka"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "theetša ka tlhokomelo"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:07.518432326Z",
+  "model": "glm-5.3"
+}

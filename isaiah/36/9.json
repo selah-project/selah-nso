@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 36:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פני",
+      "rationale": "'Go buša sefahlego' — idiom ya Seheberu ya go fenya\/go hlotša motho ka sefahlego, e sego go kgutlisela sefahlego ka mo go tlwaelegilego."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדני",
+      "rationale": "Mong wa motho (kgoši ya Ashure), ka mo go latelang D1 — ga se Adonai wa Modimo fela."
+    },
+    {
+      "kind": "you",
+      "subject": "Chizkiyahu",
+      "rationale": "Potsotšo ya go tlaiša yeo e lebišitšwego go kgoši ya Juda ka molomo wa Rabshake."
+    }
+  ],
+  "translation": "Gomme o ka buša bjang ⟨את⟩ sefahlego sa molaodi o mongwe fela wa bahlanka ba batlaana ba mong wa ka, gomme wa itšhotša go Mitsrayime bakeng sa diteraka le ba ba namele dipere?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0e2b3308d7df75c401a1e1f34c61335478373a80b1a4f7d94d91294a023447d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/36\/9-12.1792292060670.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "gomme o ka bjang"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "go buša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahlego sa molaodi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlego"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o mongwe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bahlanka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa ka"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "ba batlaana"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "gomme wa itšhotša"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨wena⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "bakeng sa diteraka"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "le ba ba namele dipere"
+    }
+  ],
+  "timestamp": "2026-10-18T02:54:20.670836584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,124 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 24:10",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אף",
+      "rationale": "Seheberu: nko\/kutlego; kutlego ya go tuka ke kgonthe ya Seheberu, e phetotšwe ka go swana"
+    },
+    {
+      "kind": "crux",
+      "subject": "זה",
+      "rationale": "ברך זה: KJV 'altogether' (taetso ya go ikgantšha) kgahlanong le go bala ga YLT 'this' — mo go tše peli ga šupa matshwao"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go hlaba",
+      "rationale": "לקב ke go hlaba ka mantšu (go ba tlogela ka mafoko), sa tšwa go go hlolela — se šumišitšwe ka go swana le go rolega"
+    }
+  ],
+  "translation": "Gomme kutlego ya Balaka ya tuka go Bileamo, gomme a thwasela ⟨את⟩ matsogo a gabo; gomme Balaka a re go Bileamo: Go hlaba manaba a ka ke kgonthe ya go go biditša, gomme bona, o ile wa lalediša — wa lalediša ka botlalo — dinako tše tharo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3345c2e6ff0f24756e31c864cd6528377ee781f457ef27b8a7b2fcd4d68f884a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/24\/9-12.1792285095392.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ya tuka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "kutlego"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileamo"
+    },
+    {
+      "surface": "ויספק",
+      "gloss": "a thwasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matsogo a gabo"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "matsogo a gabo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileamo"
+    },
+    {
+      "surface": "לקב",
+      "gloss": "go hlaba"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "manaba a ka"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ke go biditše"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gomme bona"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "o ile wa lalediša"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "wa lalediša ka botlalo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tše tharo"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "dinako"
+    }
+  ],
+  "timestamp": "2026-10-18T00:58:15.393164652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 33:24",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "khomelo",
+      "rationale": "כפר — khomelo ya go lokolla, sehlabelo sa go fišwa; KJV 'ransom', dikgati tše dingwe 'atonement'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "פדעהו",
+      "rationale": "פדע 'go lokolla' — lentšu le lekae kudu go Tanakh, go bontšha go lokollwa go ya kgethegilego."
+    },
+    {
+      "kind": "elision",
+      "subject": "yo a bolelago",
+      "rationale": "Sebopego sa go bolela se hloka yo a bolelago — Elohim ke yena a re 'Mo lokolole', gomme⟨yo a bolelago⟩ga e ngwalwe."
+    }
+  ],
+  "translation": "gomme a mo kgotsofetše, a re: Mo lokolole go theoga go ya phatleng; ke hweditše khomelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "abc095bbe9210e51ed306588fabdb9c2fd32e19459828a6d2168a0553c9dd308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/33\/21-24.1792300689949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחננו",
+      "gloss": "a mo kgotsofetše"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "פדעהו",
+      "gloss": "mo lokolole"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "go theoga"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "phatleng"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ke hweditše"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "khomelo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:18:09.950178085Z",
+  "model": "glm-5.3"
+}

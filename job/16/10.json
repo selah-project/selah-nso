@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 16:10",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ba mo bulela megošo",
+      "rationale": "פער go ya go pegošo — go bulela megošo kudu go bontšha tlhako; Sepedi e tšewa ka boomo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tšhutu",
+      "rationale": "חרפה — tshutu, masepa; lentšu le tee"
+    },
+    {
+      "kind": "elision",
+      "subject": "יתמלאון",
+      "rationale": "e tlaleletša 'go nna' — ba tletšego ka go nna; Sepedi ba kopanela mmogo"
+    }
+  ],
+  "translation": "Ba mo bulela megošo ya bona go nna; ka tšhutu ba mmeya mangwaneng a ka; ba kopanela mmogo go nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0bc6e80a233778cebfd09369971cd969523c4b6f19a18bc1f94bb19fd494c97a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/16\/9-12.1792300311038.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פערו",
+      "gloss": "ba mo bulela megošo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "megošo ya bona"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "ka tšhutu"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ba mmeya"
+    },
+    {
+      "surface": "לחיי",
+      "gloss": "mangwaneng a ka"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "יתמלאון",
+      "gloss": "ba kopanela"
+    }
+  ],
+  "timestamp": "2026-10-18T05:11:51.038833101Z",
+  "model": "glm-5.3"
+}

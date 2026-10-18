@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 15:7",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישכב עם אבתיו",
+      "rationale": "'a robala le bo-ntate wa hae' — euphemism ya Seheberu ya lehu; go robala fela go ka tlotša boroko"
+    },
+    {
+      "kind": "elision",
+      "subject": "ba hlabetša",
+      "rationale": "ba dirišwa ka go sa bontšhe batho ba hlabetšago — Seheberu se sa bolele ba ba dirago"
+    }
+  ],
+  "translation": "Gomme Azarjahu a robala le bo-ntate wa hae, gomme ba mo hlabetša ⟨את⟩ le bo-ntate wa hae, mmutleng wa Dafida; gomme Jothame mora wa hae a busa mo ofelong wa hae.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e294e0e19a6fd3d24fae5ae6f6acc3d9d1cb46d3b824f0fd06dbe10a1eb7a611",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/15\/6-7.1792304953272.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarjahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntate wa hae"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "gomme ba mo hlabetša"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntate wa hae"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "mmutleng wa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "gomme a busa"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jothame"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa hae"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mo ofelong wa hae"
+    }
+  ],
+  "timestamp": "2026-10-18T06:29:13.273716621Z",
+  "model": "glm-5.3"
+}

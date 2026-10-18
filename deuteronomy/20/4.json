@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Sepedi e nyaka kopanyo pele ga sehlakahlaka; Seheberu se e hlokomela ka sebopego sa seswantšho."
+    },
+    {
+      "kind": "crux",
+      "subject": "להלחם לכם",
+      "rationale": "Bohaleng ba \"go lwa bakeng sa lona\" — לכם ke dikgagapo tša molekane; phetolelo ya dikgagapo e boletšwe ka ⟨ka⟩."
+    }
+  ],
+  "translation": "ka gobane Yahwe Elohim wa lona ke ⟨o⟩ yo a sepelago le lona, go lwa ⟨ka⟩ lona kgahlanong le manaba ba lona, go lokiša ⟨את⟩ lona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2ba94508e25b7e333030e7181e72cd544ec4105870041f07d14ce3b4ea974a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/20\/1-4.1792286044812.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wa lona"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yo a sepelago"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨ka⟩ lona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "manaba ba lona"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "go lokiša"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:14:04.813647953Z",
+  "model": "glm-5.3"
+}

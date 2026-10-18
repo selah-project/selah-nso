@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "׳Ke mang yo a ka fa...׳ — Seheberu se bontšha kgoši ya go nyaka se se sa kgonegago, e sego potšišo ya nnete"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "לי e feditšwe ka gloss ya יתן (׳a ka mpefilego׳); ⟨ke⟩ e bontšha motho yo a bolelwago"
+    }
+  ],
+  "translation": "Ke ile ka re: Ke mang yo a ka mpefilego lephego bjalo ka leeowa? Ke tlo fofa, ke tla phomola.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/55\/5-8.1792297857686.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "gomme ke ile ka re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "yo a ka mpefilego"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "lephego"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "bjalo ka leeowa"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "ke tlo fofa"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "gomme ke tla phomola"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:57.688209676Z",
+  "model": "glm-5.3"
+}

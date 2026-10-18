@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "riches",
+      "rationale": "KJV e oketša 'riches'; Seheberu se re fela 'o kgoboketša' — se senyolwa se sa oketšwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "seswantšho",
+      "rationale": "בצלם: 'seswantšho' (Gen 1:26) kgahlanong le 'sefetšwana\/mophofofoko' — monna o sepela e le morutlwana fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אך...אך",
+      "rationale": "boeletši bja אך bjalo ka pale go tlamiša botho bja moya"
+    }
+  ],
+  "translation": "Tota ka seswantšho monna o sepela; tota moya fela ba tshwenyega; a kgoboketša, gomme a sa tsebe mang yo a di kgobokelago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d0b9d5ce4e3cd20787d2e9b12fa525c2f5e23e9d2adba20990e82c2d8a24ab38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/39\/5-8.1792297697917.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tota"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ka seswantšho"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "o sepela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אך",
+      "gloss": "tota"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "moya fela"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ba tshwenyega"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "a kgoboketša"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "yo a di kgobokelago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:17.919389423Z",
+  "model": "glm-5.3"
+}

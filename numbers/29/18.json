@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 29:18",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ka palo ya tšona",
+      "rationale": "Dino le minkha di ka fao ka go bapala palo ya sehlabelo se sengwe le se sengwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tlwaelo",
+      "rationale": "משפט fela ge e bolela 'molao wa mehlomehlomong' o ntšhitšwe bjalo ka tlwaelo — go swana le D2."
+    }
+  ],
+  "translation": "le minkha ya tšona le dino tša tšona tša go tšholloa, bakeng sa dikgomo tše nnyane, bakeng sa dinare le bakeng sa dikwana, ka palo ya tšona, go ya ka tlwaelo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0c452f125fea01270e1d8a885bfd3ccb1d2065c7721760ef7b0476a3048743ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/29\/17-20.1792285266464.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "le minkha ya tšona"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "le dino tša tšona tša go tšholloa"
+    },
+    {
+      "surface": "לפרים",
+      "gloss": "bakeng sa dikgomo tše nnyane"
+    },
+    {
+      "surface": "לאילם",
+      "gloss": "bakeng sa dinare"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "le bakeng sa dikwana"
+    },
+    {
+      "surface": "במספרם",
+      "gloss": "ka palo ya tšona"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "go ya ka tlwaelo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:01:06.464881454Z",
+  "model": "glm-5.3"
+}

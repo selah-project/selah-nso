@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפשך ke se-swa\/thoho\/mafi a bophelo; 'bophelo' ke bobotse ka gobane Sepedi e se na lentšu le le swanago"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨go rata⟩ leemong la לאהבה",
+      "rationale": "lentšu ke sebopego sa medumo (infinitive); Sepedi e nyaka 'gore lo rate' go hlaloša morero"
+    }
+  ],
+  "translation": "Gomme Yahwe Elohim wa gago a tla didimatsa ⟨את⟩ pelo ya gago le ⟨את⟩ pelo ya peu ya gago, gore lo rate Yahwe Elohim wa gago ka pelo ya gago ka moka le ka bophelo bja gago ka moka, gore o pheleng.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f2f469d4827a15866facddf263dc3d0788e99ec158222deee8159c8c5f9a2ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/30\/5-8.1792286285030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "a tla didimatsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo ya gago"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "pelo ya peu ya gago"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peu ya gago"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "go rata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka moka"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bophelo bja gago"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "o pheleng"
+    }
+  ],
+  "timestamp": "2026-10-18T01:18:05.031113468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלק לבם",
+      "rationale": "'Pelo e kgotšwetšwe' — mo go literaleng pelo e le borethe, mo go boneng e a arogana"
+    },
+    {
+      "kind": "addition",
+      "subject": "O",
+      "rationale": "Sebopego sa Seheberu se sa boleleng se sena lelaodi, ⟨O⟩ se okeditšwe go hlaloša mang"
+    }
+  ],
+  "translation": "Pelo ya tšona e kgotšwetšwe; bjale di tla dira sebe. ⟨O⟩ tla go thuba diyaretare tša tšona; o tla di fokoša dipilare tša tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "514d2d64ced78773a04c33ef7a321166b6b8152e320c2ce463615df8dfe7ec7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/10\/1-4.1792296096161.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "e kgotšwetšwe"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "pelo ya tšona"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "di tla dira sebe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨O⟩"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "o tla go thuba"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "diyaretare tša tšona"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "o tla di fokoša"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "dipilare tša tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:01:36.162498043Z",
+  "model": "glm-5.3"
+}

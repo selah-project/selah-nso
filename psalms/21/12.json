@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ba tlametše",
+      "rationale": "נטו 'go kokotla\/go tlametša' — YLT 'ba oleletše'; KJV 'ba beile maikemišetšo' — go tlametša ke go swana le sebopego sa lenao."
+    },
+    {
+      "kind": "substitution",
+      "subject": "thulaganyo ya bobe",
+      "rationale": "מזמה ka o ne le tee e bolela botho le bobe; 'ya bobe' e hlakantšha sebopego se se nago molao."
+    }
+  ],
+  "translation": "Ka gobane ba tlametše go wena bobe; ba hlagišitše thulaganyo ya bobe — aowa, ba ka se kgone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/21\/9-12.1792297358345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "ba tlametše"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "ba hlagišitše"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "thulaganyo ya bobe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "aowa"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "ba ka se kgone"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:38.346675375Z",
+  "model": "glm-5.3"
+}

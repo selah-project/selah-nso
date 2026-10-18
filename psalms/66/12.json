@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 66:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לרויה",
+      "rationale": "go phumologa\/go phumola-khotsa (saturation) kgahlanong le \"lefase le lerui\" (KJV 'wealthy place') goba \"khumo\" (JPS\/BSB)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "אנוש ke motho yo a swanago go swa (mortal), e sego \"batho\" ka go tšwa gohle"
+    }
+  ],
+  "translation": "O dirile gore batho ba name godimo ga hlogo ya rena; re tsentšhitše mollo, re tsentšhitše meetse; mme o re ntšhitše go phumolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "56782ef46e878ffa6f08f37a011266e91bec69f83797b221aa3e3faf934ce059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/66\/9-12.1792297971655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרכבת",
+      "gloss": "o dirile gore... ba name"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "batho"
+    },
+    {
+      "surface": "לראשנו",
+      "gloss": "godimo ga hlogo ya rena"
+    },
+    {
+      "surface": "באנו",
+      "gloss": "re tsentšhitše"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "re tsentšhitše meetse"
+    },
+    {
+      "surface": "ותוציאנו",
+      "gloss": "mme o re ntšhitše"
+    },
+    {
+      "surface": "לרויה",
+      "gloss": "go phumolo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:51.656465383Z",
+  "model": "glm-5.3"
+}

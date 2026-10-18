@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרפים",
+      "rationale": "'diterafime' (sebembedwa sa lelapa) kgahlanong le 'seswantšho' — diterafime di bolokwa ka mokgwa wa lona."
+    },
+    {
+      "kind": "hapax",
+      "subject": "כביר",
+      "rationale": "Lentšu le leo le tlhaga fela mo go Tanakh; le bolela sekapu sa go golaganya dilo, se fetotšwe 'sekapu sa mao a dibudi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מראשתיו",
+      "rationale": "Seheberu se re 'go dikologo hlogo ya yena' — bontši bja go bolela lefelo, se fetotšwe 'go hlogo ya bula'."
+    }
+  ],
+  "translation": "Gomme Mikhale a tšea ⟨את⟩ diterafime, a di bea buleng, gomme ⟨את⟩ sekapu sa mao a dibudi a sa bea go hlogo ya bula, a kephela ka seaparo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8fa6772c4795ef4abb8547783040e32d54481cfc5aafd48aa9f9baca3ac74123",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/19\/13-16.1792288397734.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "a tšea"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikhale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diterafime"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "diterafime"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "a di bea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "buleng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "sekapu sa mao a dibudi"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "sekapu"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "sa mao a dibudi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "a sa bea"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "go hlogo ya bula"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "a kephela"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ka seaparo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:53:17.735216683Z",
+  "model": "glm-5.3"
+}

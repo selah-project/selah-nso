@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nofo ya ka",
+      "rationale": "נפש e sa šumišwa 'moya' wa Sesotho; nofo e le seswantšho sa tlhohlelwa le bophelo"
+    },
+    {
+      "kind": "invitation",
+      "subject": "neng ke tla tla",
+      "rationale": "potšišo ya mošomi wa tlhohlelwa ya go botšiša nako ya go bona Elohim"
+    }
+  ],
+  "translation": "Nofo ya ka e hlokile meetse go Elohim, go El yo a phelago; neng ke tla tla, gomme ke bone sefahlego sa Elohim?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/42\/1-4.1792297688230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "e hlokile meetse"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nofo ya ka"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "go El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "yo a phelago"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "neng"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ke tla tla"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "gomme ke bone"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlego sa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:08.231811211Z",
+  "model": "glm-5.3"
+}

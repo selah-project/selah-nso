@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מעוג",
+      "rationale": "Lentšu le le tšwa go mašaka a lekanego — mafoko a mangwe a moetapele a mabja a yang teng; mašaka mangwe a tšea gore ke go ja ntle ga lebaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "לעגי מעוג",
+      "rationale": "KJV: 'ba segi dibeng tša dihlabelo'; JPS: 'ba segi ba sa tsebego' — mašaka a dutše a sa utlale ka ntle ga go kwala nako"
+    }
+  ],
+  "translation": "Mareledi a mabja, ba segilego dinkwa tša dipego, ba phuthetše meno ya bona kgahlanong le nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/35\/13-16.1792297565495.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "mareledi a mabja"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "ba segilego"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "dinkwa tša dipego"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "ba phuthetše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "meno ya bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:05.496444893Z",
+  "model": "glm-5.3"
+}

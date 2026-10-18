@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 21:2",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "borwa kgahlanong le Jerusalema",
+      "rationale": "KJV le BSB di bolela 'Jerusalema, mafelo a kgethwa'; mongwalo wa Seheberu (teifolo) o re 'tsela ya teimane, darome, ya'ar hasadeh, Negebe' — JPS ke yona e latelago mongwalo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go thelela",
+      "rationale": "nagana-טף e bolela go thelela gatee-gatee bjalo ka manotlo; 'drop thy word' ke sebono sa profeta."
+    },
+    {
+      "kind": "you",
+      "subject": "go Ezekiele",
+      "rationale": "'Morwa wa motho' — boitshiso bjo bo bolela moprofeta ka go lebana."
+    }
+  ],
+  "translation": "Morwa wa motho, bea sefahlogo sa gago tsela ya borwa, gomme thelela go borwa, gomme profeta go sekgahla sa naga — Negebe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7da1e21f133e764a4b43af5a86cf8c8724fe0d443257e6cbb7577235c82a2f04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/21\/1-4.1792294986852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "שים",
+      "gloss": "bea"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahlogo sa gago"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ya borwa"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "gomme thelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "gomme profeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sekgahla"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa naga"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Negebe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:43:06.853424441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 6:12",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ke tla otlolla seatla",
+      "rationale": "Hebrew 'stretch out the hand' = to strike\/judge; Sepedi keeps the literal gesture."
+    },
+    {
+      "kind": "addition",
+      "subject": "a bona",
+      "rationale": "Pronoun 'their' supplied though suffix context implies it via בתיהם."
+    }
+  ],
+  "translation": "Gomme matlo a bona a tla fetišetšwa go ba bangwe, masemo le basadi mmogo; gobe ke tla otlolla ⟨את⟩ seatla sa ka go badudi ba lefase, go bolela Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fec691d8bfd9cec6ef8ca9dc2dd2d0be446e9c84e38b023590cb6cc2e1fd20a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/6\/9-12.1792292822557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסבו",
+      "gloss": "a tla fetišetšwa"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "matlo a bona"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "go ba bangwe"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "masemo"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "le basadi"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobe"
+    },
+    {
+      "surface": "אטה",
+      "gloss": "ke tla otlolla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa ka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "badudi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ba lefase"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:07:02.558598672Z",
+  "model": "glm-5.3"
+}

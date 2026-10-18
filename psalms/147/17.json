@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כפתים",
+      "rationale": "Lentšu le sa tšwego gabotse: 'dikgoba' (morsels, KJV) goba 'maswika a manyenyane' (pebbles, BSB)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כפתים",
+      "rationale": "Lentšu le hwetšwa fela mo go Tanakh"
+    },
+    {
+      "kind": "you",
+      "subject": "go setšhaba sona",
+      "rationale": "Potšišo ya go swarwa ka moaparo e raletše babadi ba tsela"
+    }
+  ],
+  "translation": "O lahla karahao ya gagwe bjalo ka dikgoba; pele lehupe la gagwe — ke mang ya ka ema?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/147\/17-20.1792299115879.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "o lahla"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "karahao ya gagwe"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "bjalo ka dikgoba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "lehupe la gagwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ya ka ema"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:55.880156872Z",
+  "model": "glm-5.3"
+}

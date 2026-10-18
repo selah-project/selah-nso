@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 33:1",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד",
+      "rationale": "ka seatla sa — 'by the hand of' bolela ka taolo ya, e sego seatla sa mmele"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לצבאתם",
+      "gloss": "ka madira a bona — tša bophelo ka moka tše di hlotšwego, e sego merafe ya borena fela"
+    }
+  ],
+  "translation": "Tše ke ditsela tša go tlogela tša bana ba Yisraele, bao ba ilego ba tšwa lefaseng la Mitsrayime ka madira a bona, ka seatla sa Moshe le Aharone.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9c764a169de2d830d3830ba5db880ed5dc15beacaeab66316fbd146026acd95c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/33\/1-4.1792285437074.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "מסעי",
+      "gloss": "ditsela tša go tlogela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ba ilego ba tšwa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefaseng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ka madira a bona"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    }
+  ],
+  "timestamp": "2026-10-18T01:03:57.075551171Z",
+  "model": "glm-5.3"
+}

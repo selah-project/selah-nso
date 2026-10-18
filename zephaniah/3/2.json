@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kahlolo",
+      "rationale": "מוסר ke teko-tlwaelo le teko ya go ruta, e sego kahlolo fela — modu o theilwe go go laola"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא × 4",
+      "rationale": "Go ganwa ga dinomoro tše nne ka go latelana go aga khutšo ya kgolokwe; Sepedi e boloka 'ga…ga…ga…ga'"
+    }
+  ],
+  "translation": "Ga a theetša lentšu, ga a amogela kahlolo; go Yahwe ga a tshepa, go Elohim wa yona ga a atametša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "55145628e3fe4c7b4f83faf509ed27ca8d44ccee802c73e77eab97dd692eb160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zephaniah\/3\/1-4.1792296801077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "a theetša"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "a amogela"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "a tshepa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "Elohim wa yona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "a atametša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:13:21.078257397Z",
+  "model": "glm-5.3"
+}

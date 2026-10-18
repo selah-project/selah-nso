@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mpho",
+      "rationale": "מתן e ka ba mpho ya kgonthe goba sefako sa go reka lebati; Sepedi se kgetha 'mpho' e sego 'sebuponogi'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "e mo pheditšela sekgoba",
+      "rationale": "ירחיב e bolela 'go pheditša\/go hlalosa'; 'go pheditšela sekgoba' ke ponagalo ya bibele — mpho e bula sebaka"
+    }
+  ],
+  "translation": "Mpho ya motho e mo pheditšela sekgoba, gomme pele ga bagolo e mo tataletša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0caa280d11821f426c443f316129b619762aff88ad1807092ef6444b23708b50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/18\/13-16.1792299551738.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "e mo pheditšela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "gomme pele ga"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "e mo tataletša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:59:11.739618844Z",
+  "model": "glm-5.3"
+}

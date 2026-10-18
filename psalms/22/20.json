@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o tagafale⟩",
+      "rationale": "Seheberu se re 'o tagafale go nthuša' — sefoko se tee sa go sipolosa se arokantšwe ka mantšu a pedi a Sepedi"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Pego ye e lebelela Yahwe ka boomo — kgopelo ya thušo"
+    }
+  ],
+  "translation": "Gomme wena, Yahwe, o se ke wa ba kgole; maatla a ka, o tagafale go nthuša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/22\/17-20.1792297365630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "gomme wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ba kgole"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "maatla a ka"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "go nthuša"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "o tagafale"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:45.631536360Z",
+  "model": "glm-5.3"
+}

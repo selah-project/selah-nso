@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועמך",
+      "rationale": "Lit. 'gomme le ka go wena' — ge e rawa e sego karabo ya potšišo, kapa karolo ya polelo ya bobedi ('ga ke nyake selo lefaseng le ka go wena')."
+    },
+    {
+      "kind": "you",
+      "subject": "psalme",
+      "rationale": "Mongwadi wa psalme o bolela le Yahwe ka go ithaopa."
+    }
+  ],
+  "translation": "Ke mang wa ka legodimong? Gomme le ka go wena, ga ke nyake selo lefaseng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/73\/25-28.1792298173110.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wa ka"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "legodimong"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "gomme le ka go wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ke nyake"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:13.111453199Z",
+  "model": "glm-5.3"
+}

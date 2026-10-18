@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 33:8",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi se nyaka kopu ya 'ke'; Seheberu ga se e na."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Massa \/ Meriba",
+      "rationale": "Maina a mabedi a tšwa mafelelong a semaye se se fetilego — 'go leka' (מסה) le 'kganetšo' (מריבה) — ditemana tše pedi tša naga e mokokotšong."
+    },
+    {
+      "kind": "crux",
+      "subject": "motho wa hlwekilego wa gago",
+      "rationale": "חסידך: motho a le tee (Moshe, Arone kapa morafe wa Lewi ka moka) — ba mofetoledi ba sa dumalane."
+    }
+  ],
+  "translation": "Gomme go Lewi a re: Tumim sa gago le Urim sa gago ⟨ke⟩ sa motho wa hlwekilego wa gago, yo o mo lekile Massa, yo o mo ganetše ka meetse a Meriba.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6e9d28d9e2b9df79ba496eda83cb10d21e792facdb001352efc1f5328b2411c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/33\/5-8.1792286452689.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וללוי",
+      "gloss": "gomme go Lewi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "תמיך",
+      "gloss": "Tumim"
+    },
+    {
+      "surface": "ואוריך",
+      "gloss": "le Urim"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "sa motho"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "wa hlwekilego wa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "נסיתו",
+      "gloss": "o mo lekile"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Massa"
+    },
+    {
+      "surface": "תריבהו",
+      "gloss": "o mo ganetše"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מי",
+      "gloss": "meetse a"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    }
+  ],
+  "timestamp": "2026-10-18T01:20:52.691160832Z",
+  "model": "glm-5.3"
+}

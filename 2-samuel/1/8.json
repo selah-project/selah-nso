@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Mmalekite",
+      "rationale": "עמלקי leina la setšhaba le fetoga ka modumo; mongwalo o tee o a šomišwa"
+    }
+  ],
+  "translation": "Gomme a mpotša: O mang wena? Gomme a araba go yena: Mmala-ekite ke nna.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "8e64896c1bf57d69cf0ef6733faec21f78890bb152a67fb5bf28189b5db1f98b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/1\/8-8.1792304864138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Gomme a re"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "מי",
+      "gloss": "O mang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Gomme a araba"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Mmalekite"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    }
+  ],
+  "timestamp": "2026-10-18T06:27:44.140282064Z",
+  "model": "glm-5.3"
+}

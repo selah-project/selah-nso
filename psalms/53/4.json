@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ba bolokwa",
+      "rationale": "נאלחו e hlagega fela mo go Psaleme 14 le 53; semmuso 'go nolofatša\/go bolla' — ba 'senyegile ka mokgwa wa go hlotšwa'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סג יחדו",
+      "rationale": "go boela morago ga kgonthšišo — kgatišo ya go phophoma, mafoko a mabedi a kopantšwego ka tsela e tšwago pele"
+    }
+  ],
+  "translation": "Ba boetše morago ka moka, kgonthšišo ba bolokwa ga go yo wa go dira botše, ga go le yo a tee.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "11f4fd5d5f402ea558e860ad4da049524b37a5cbce193374b0584f471e58d19c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/53\/1-4.1792297915546.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ba boetše morago"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "kgonthšišo"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ba bolokwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo wa go dira"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "botše"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yo a tee"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:55.547772594Z",
+  "model": "glm-5.3"
+}

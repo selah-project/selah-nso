@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikgwaso-khudumela",
+      "rationale": "עקרבי — tlhaka ya Seheberu e bolela kgwaso ye mabapi ya khudumela goba kgwaso ya dithlogo tše kopantšwego; kgwaso e boletšwe ka ntle"
+    },
+    {
+      "kind": "you",
+      "subject": "go setšhaba",
+      "rationale": "polelo ya kgoši ye e rwego go setšhaba ka boweni ka bobedi (lena)"
+    }
+  ],
+  "translation": "Gomme bjale, tatago wa me o ile a lahlela go lena seka se boima, gomme nna ke tla se oketša go seka sa lena; tatago wa me o ile a la gakgola lena ka mešomo, gomme nna — ka dikgwaso-khudumela.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f88176b44a6d2a9f09a34db517896b256b1709b9215f0d40ba610adbec4bdba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/10\/9-12.1792303826390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "gomme bjale"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatago wa me"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "o ile a lahlela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "go lena"
+    },
+    {
+      "surface": "על",
+      "gloss": "seka"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "se boima"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ke tla oketša"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "seka sa lena"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatago wa me"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "o ile a la gakgola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lena",
+      "marks": "lena"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ka mešomo"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ka dikgwaso-khudumela"
+    }
+  ],
+  "timestamp": "2026-10-18T06:10:26.391589077Z",
+  "model": "glm-5.3"
+}

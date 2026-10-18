@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "bukeng ya bapheleng",
+      "rationale": "ספר חיים e ka bolela gape 'bukeng ya bophelo'; 'bapheleng' e boloka sebopego sa pelontši"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩ yona",
+      "rationale": "Sepedi e nyaka sehlakahlaka; Seheberu se se na sona"
+    },
+    {
+      "kind": "secret",
+      "subject": "go ngwalwa go bukeng",
+      "rationale": "tšhupetšo ya go ngwalwa le go phumolwa mo bukeng ya sephiri ya bophelo"
+    }
+  ],
+  "translation": "A ba phumolwe go tšwa go bukeng ya bapheleng, gomme le go ba ba lokilego ga ba ngwalwe ⟨go⟩ yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "47865d8ec3d4b9028876d8ffb565712845c9506c7c941151964d2ec4f4dc58b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/69\/29-32.1792298088067.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "a ba phumolwe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "go tšwa go bukeng"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya bapheleng"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "gomme le go"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba ba lokilego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ba ngwalwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:48.067646070Z",
+  "model": "glm-5.3"
+}

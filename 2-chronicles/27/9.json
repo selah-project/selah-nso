@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 27:9",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עם אבתיו",
+      "rationale": "Seheberu: 'go robala le bo-ntate ba gagwe' — go bolela go hwetša lehu; phetolelo ya go swanela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "toropo",
+      "rationale": "עיר e bolela 'toropo' eupša mo e bolela 'motsana wa bogoši' — motsesetoro wa Jerushalayime."
+    }
+  ],
+  "translation": "Gomme Yotame a robala le bo-ntate ⟨את⟩ wa gona, gomme ba mo pula toropong ya Dafida; gomme morwa wa gabela Akhaze a bwetša bogoši legatong la gabela.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c0596e85389d731eb06d1b80e8db9d05356f14f270e8bf5c891aac288847f3b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/27\/9-9.1792304097302.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Yotame"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntate ⟨את⟩ wa gabela"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "gomme ba mo pula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo (Yotame)"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "gomme ... a bwetša bogoši"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akhaze"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gabela"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "legatong la gabela"
+    }
+  ],
+  "timestamp": "2026-10-18T06:14:57.303739375Z",
+  "model": "glm-5.3"
+}

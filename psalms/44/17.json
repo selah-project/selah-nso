@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yo a ipolotšego",
+      "rationale": "המתנקם ke modiri wa go ipolotša — motho yo a ipolotšego ka bowena"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחרף\/מגדף",
+      "rationale": "ditemana tše pedi tša go nyefola di swakanya mo go tee — ge e le Sepedi thalo ye e nyegetše"
+    }
+  ],
+  "translation": "Ka modumo wa yo a nyefolago le go roba, ka baka la lenaba le ⟨yo a ipolotšego⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "af2857dcbf67f5d8b33fbb5b3f7d7f8f9ff337c25f88568f6bdd8c66d187c799",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/44\/17-20.1792297739707.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "ka modumo wa"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "yo a nyefolago"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "le go roba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lenaba"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "le yo a ipolotšego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:59.708534651Z",
+  "model": "glm-5.3"
+}

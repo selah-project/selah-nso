@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tšhoša",
+      "rationale": "לחרב (ka tšhoša) ke tlhaešo ya ka fa tlase ga sebopego; D4: חרב = tšhoša."
+    }
+  ],
+  "translation": "Gomme le tla latediša ⟨את⟩ manaba a lona, gomme ba tla wa pele ga lona ka tšhoša.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "870d0c3724ce02db0aea13fe0b82dfd693986f615f07c0d759671d188980ccba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/26\/5-8.1792284299363.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "le tla latediša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaba a lona"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "manaba a lona"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ba tla wa"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ka tšhoša"
+    }
+  ],
+  "timestamp": "2026-10-18T00:44:59.364383713Z",
+  "model": "glm-5.3"
+}

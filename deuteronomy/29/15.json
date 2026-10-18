@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lona",
+      "rationale": "Mošomo o lebela Iseraele ka kgang ya 'lona le tseba'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "re duleng \/ re tlolago",
+      "rationale": "KJv e ngwala 'we\/ye' ka go fetola; Seheberu se ntšha 're' (re) le 'lona' mmogo — phapano ya batho ba mehleng ya Moshe le ba ka morago"
+    }
+  ],
+  "translation": "Gore lona le tseba ⟨את⟩ kamoo re duleng go lefase la Mitsrayime, le ⟨את⟩ kamoo re tlolago gare ga ditšhaba tše lona le tlolago ka go tšona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4cce3abf327ce58c55f70fadbf7f95eac3d495e0a9cfd29c9924e901e110ef13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/29\/13-16.1792286265764.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "le tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamoo re duleng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamoo"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "re duleng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "go lefase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "kamoo re tlolago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kamoo"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "re tlolago"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "lona le tlolago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:17:45.765769523Z",
+  "model": "glm-5.3"
+}

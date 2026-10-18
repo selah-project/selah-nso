@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 22:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כארי",
+      "rationale": "Ka ditlhaka tše dingwe go ngwalwa כארו ('ba di bobaile\/ba di phuntšhitše'); KJV 'they pierced' kgathanong le JPS 'like a lion' — phapano ya re R le Y"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bjalo ka tau",
+      "rationale": "Seheberu se bolela ga se sefoko sa go boba, eupša go bapetša — tau e dumedile matšatšo le maoto"
+    }
+  ],
+  "translation": "Gobane dipya di ntšereditše, setšhaba sa bao ba phosago se nkokoletše; bjalo ka tau ⟨di na le⟩ matšatšo a ka le maoto a ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2ad92c003b3d9248353d1062d068ad310d7c65ad3e00ee28844db39ac4229a7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/22\/17-20.1792297365630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "di ntšereditše"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "dipya"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "setšhaba sa"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "bao ba phosago"
+    },
+    {
+      "surface": "הקיפוני",
+      "gloss": "se nkokoletše"
+    },
+    {
+      "surface": "כארי",
+      "gloss": "bjalo ka tau"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matšatšo a ka"
+    },
+    {
+      "surface": "ורגלי",
+      "gloss": "le maoto a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:45.631034510Z",
+  "model": "glm-5.3"
+}

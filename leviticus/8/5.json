@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka copula, Seheberu ga se na yona"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba",
+      "rationale": "Moshe o bolela a lebeleletše phuthego ka bobedi — sefoko sa go thoma mošomo wa booperisita"
+    }
+  ],
+  "translation": "Gomme Moshe a bolela go setšhaba, a re: Se ke ⟨את⟩ lentšu leo Yahwe a laetšego go dira.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e02b00a4c9b325f00ae6669435f8a4535456117be9d008ce12baa69be3e1ce0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/8\/5-8.1792283713960.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetšego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    }
+  ],
+  "timestamp": "2026-10-18T00:35:13.961078589Z",
+  "model": "glm-5.3"
+}

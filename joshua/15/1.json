@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 15:1",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nagana",
+      "rationale": "מדבר ke lefelo la bohlele le bophara, e sego thwasa fela; nagana ya Tshine e hwetša seo"
+    },
+    {
+      "kind": "addition",
+      "subject": "go ba",
+      "rationale": "ויהיה ga se copula feela; go ba go akaretša go tswalwa ga taba"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kgeo",
+      "rationale": "Mohlaping wa Yehuda o a kgethwa ka kgeo — goabela le go bala dintlha"
+    }
+  ],
+  "translation": "Gomme go bapa le kgeo ya mohlaping wa bana ba Yehuda, go ya ka malapa a bona, go fihla molelwaneng wa Edome, naganeng ya Tshine, ka borwa, go thoko ya borwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a2987bc052a89e383e03b6d6af677d83b94d83b83b4dede1430cdd13f7fed002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/15\/1-4.1792286779246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go ba"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "kgeo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ya mohlaping"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "go ya ka malapa a bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "wa Edome"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "nagana"
+    },
+    {
+      "surface": "צן",
+      "gloss": "ya Tshine"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ka borwa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "go thoko ya"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "borwa"
+    }
+  ],
+  "timestamp": "2026-10-18T01:26:19.246709435Z",
+  "model": "glm-5.3"
+}

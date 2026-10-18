@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 22:21",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikgoši",
+      "rationale": "ראשי אלפי — ditlhogo tša dikete: dikgoši tša dikete, go swana le go bala ga sesole"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלפי",
+      "rationale": "elef e bolela botho (dikete) le dikgomo le ditlhopha — mo go bala ga sesole sa Yisraele"
+    }
+  ],
+  "translation": "Gomme ba araba bana ba Reubene le bana ba Gadi le seripa sa kgošana ya Menashe, gomme ba bolela ⟨את⟩ dikgoši tša dikete tša Yisraele,",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d7c6113e30e2aca05a37a7e7b5adb3239d3de7b4aad33665e3f1dfc8594ba001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/22\/21-24.1792287007032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "gomme ba araba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "le seripa sa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "kgošana ya"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "Menashe"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "gomme ba bolela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgoši tša dikete tša Yisraele"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dikgoši tša"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "dikete tša"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T01:30:07.032819358Z",
+  "model": "glm-5.3"
+}

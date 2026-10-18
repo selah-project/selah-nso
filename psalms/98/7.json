@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ירעם",
+      "rationale": "Root רעם is thunder-crash; 'go tlhobya' (roar) keeps the violent sound, weaker than thunder."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הים\/ירעם",
+      "rationale": "Sea (ים, noisy surf) joined with thunder-root רעם — sound-on-sound, untranslatable directly."
+    },
+    {
+      "kind": "alternative",
+      "subject": "lefase",
+      "rationale": "תבל is the inhabited world specifically; 'lefase' (earth) generalizes."
+    }
+  ],
+  "translation": "Lewatle le a tlhobya le tlatlo ya lona; lefase le ba ba dulago go yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/98\/5-8.1792298537730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "le a tlhobya"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Lewatle"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "le tlatlo ya lona"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "le ba ba dulago"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go yona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:17.730756724Z",
+  "model": "glm-5.3"
+}

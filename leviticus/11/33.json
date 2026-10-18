@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikhutšwa",
+      "rationale": "יטמא ke go dula wo a sa hlwekago — bokgethja, e sego dikhutšo feela"
+    },
+    {
+      "kind": "addition",
+      "subject": "le",
+      "rationale": "Sepedi e nyaka le- ya kgauswi bakeng sa bošwa bja sesupana"
+    }
+  ],
+  "translation": "Gomme sesupana sefe goba sefe sa sedibana, seo se bjang wo mong wa tšona go fihla ka gare ga sona — sotle seo se lego ka gare ga sona se tla dikhutšwa, gomme ⟨את⟩ sona le tla se thuntsha.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "7177376377b55fd0164de6f05abbbf3bcf6fd7f8370f989078bdca4d31d7d619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/33-36.1792283746260.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "gomme sotle"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sesupana"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sa sedibana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "go bja"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "go tšona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "ka gare ga sona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ka gare ga sona"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "go dikhutšwa"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "sona"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "le tla se thuntsha"
+    }
+  ],
+  "timestamp": "2026-10-18T00:35:46.261038439Z",
+  "model": "glm-5.3"
+}

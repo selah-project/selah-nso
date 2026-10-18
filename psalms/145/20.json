@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bobe ba ditšhaba tša sephiri",
+      "rationale": "הרשעים e bolela 'bao ba dirago sephiri\/bobe'; mantšu a mantsi a nyaketša go bontšha botho"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישמיד",
+      "rationale": "ŠOMED: 'go nyakolla\/fifaditša' kgatlhanong le 'go timetša ka mo go feletseng' — lentšu le bolela go senya go fihla lefelong le se nago sepe"
+    }
+  ],
+  "translation": "Yahwe o hlokomela ⟨את⟩ bao ba mo ratago ka moka, gomme ⟨את⟩ bobe ka moka ba ditšhaba tša sephiri o tla bja fifaditša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/145\/17-20.1792299103647.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "o hlokomela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bao ba mo ratago ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "bao ba mo ratago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bobe ka moka ba ditšhaba tša sephiri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "bobe ba ditšhaba tša sephiri"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "o tla bja fifaditša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:43.648880427Z",
+  "model": "glm-5.3"
+}

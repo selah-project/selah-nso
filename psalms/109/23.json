@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "se fapogilego",
+      "rationale": "כנטותו: sekgofa se atologilego (JPS) kgahlanong le se fapogilego\/se boelago morago (KJV)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ננערתי \/ נער",
+      "rationale": "Go tšwa go נער — go ralantšhwa goba go tlhagafadiwa bjalo ka selo se se tlwašitšwego, seswantšho se sa felele Sepedeng"
+    }
+  ],
+  "translation": "Ke sepela bjalo ka sekgofa se fapogilego; ke a ralantšhwa bjalo ka serotlwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "435c461fed7a48b2b615472f9cc58d672b82cf4e97ebaacf493f1e4ed725e059",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/109\/21-24.1792298715145.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "bjalo ka sekgofa"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "se fapogilego"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "Ke sepela"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "ke a ralantšhwa"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "bjalo ka serotlwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:15.146020978Z",
+  "model": "glm-5.3"
+}

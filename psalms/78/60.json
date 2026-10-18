@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "shifting of אוהל",
+      "rationale": "Hebrew aohel 'he caused-to-dwell (tent)' e hlolelwa go dula — a tloša go ba gae ga gage; mošomo wo mongwe wa lebitso ke 'ohel mo'ed (Ex 27:21) — mo, ohel mo'ed ke mowa wa badumedisi ba Yisraele, gomme 'Ya-kgoši' ga e na sephetho se sengwe le se sengwe sa 'Yahwe Tsebaote'"
+    }
+  ],
+  "translation": "Gomme a tlogela ⟨את⟩ Mishkane ya Shilo, ⟨את⟩ tente yeo a beiloego go dula go bathong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "799f7f342bb4b72181309fa0186dcf0126b45a2bd21c21bd6ec1bba169c44022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/57-60.1792298275071.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "gomme a tlogela"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "ya Shilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "yeo a beiloego go dula"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "go bathong"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:55.072078849Z",
+  "model": "glm-5.3"
+}

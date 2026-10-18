@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "boprofeta",
+      "rationale": "Sepedi e nyaka bontši go tlhalosa setšhabeng sa batho; Seheberu se ngwala bontši fela"
+    },
+    {
+      "kind": "elision",
+      "subject": "tša Baala",
+      "rationale": "Seheberu ga se bale Baala mo; diphetolelo tše dingwe di oketša seo (kjv ga se)"
+    }
+  ],
+  "translation": "Gomme Ahaba a bolelela Izabele ⟨את⟩ tšohle seo Eliya a se dirilego, le ⟨את⟩ tšohle seo a bolaileng ⟨את⟩ boprofeta bohle ka tšhoša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ff60ce540c7eec4ff51cfc1258ed4c277a45583ce185b8a96852ffcc5426aac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/19\/1-4.1792290344434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "Gomme a bolelela"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "go Izabele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tšohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se dirilego"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tšohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "a bolaileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boprofeta bohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "boprofeta"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tšhoša"
+    }
+  ],
+  "timestamp": "2026-10-18T02:25:44.434901215Z",
+  "model": "glm-5.3"
+}

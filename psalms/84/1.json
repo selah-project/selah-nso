@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se.fininywa sa ba-Gate",
+      "rationale": "הגתית ke sefininywa sa ba-Gate; sebopego sa leina se bolokwa"
+    },
+    {
+      "kind": "elision",
+      "subject": "הגתית",
+      "gloss-is-elided": false,
+      "rationale": "lentšu la Sefora le theilwe godimo ga la Seheberu, le se nago kgauswi kudu le Sepedi"
+    }
+  ],
+  "translation": "Go molaodi, ka se.fininywa sa ba-Gate, se sa bana ba Korake, pesalemya.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e0bbe97ccb636b5c7414918b9b102d28318473676f617e6b66fb0bc1a4d14788",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/84\/1-4.1792298384769.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go molaodi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "se.fininywa sa ba-Gate"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "sa bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korake"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pesalemya"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:44.770366170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי שמע",
+      "rationale": "'Ke mang ya kwelego?' — potšišo ya ba kgwetši ba ipolelang gore ga go ya kwele; ba bangwe ba bala bjalo ka taba ya go hloka tokomolo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tšhoša",
+      "rationale": "חרבות — ditšhoša ka bosemu, sebopego se bolokilwe ka lentšu la Sepedi la tšhoša (D4)"
+    }
+  ],
+  "translation": "Bonang, ba dutše ba ntšha tšhoša ka molomo wa bona, ditšhoša di lego sefahlogong sa bona; gobane — ke mang ya kwelego?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f347719d37e4f95602fba4adaaf996d74f44c6efe14066355257547031ebde19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/59\/5-8.1792297911807.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "ba dutše ba ntšha"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ka molomo wa bona"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "ditšhoša di lego sefahlogong sa bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ya kwelego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:51.810366650Z",
+  "model": "glm-5.3"
+}

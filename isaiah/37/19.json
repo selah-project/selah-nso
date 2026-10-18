@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 37:19",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "kopanyo ye e ntšhitšwego go ba lentšu le tee fela, אם ga e na gloss"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopula ye Seheberu se se se nago ka morago ga ha'hem"
+    }
+  ],
+  "translation": "gomme ba lahle ⟨את⟩ medimo ya bona ka mollong, ka gobane a sego medimo ⟨ke⟩, fela mošomo wa matsogo a motho, sehlare gomme leswika; gomme ba di fedišitše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6d0ac52548fee0a94e29c560ff65b7efc2d6e0ef292400aeaf218770c9789935",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/37\/17-20.1792292039522.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "gomme ba lahle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya bona"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "medimo ya bona"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sego"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fela"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wa matsogo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a motho"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "gomme leswika"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "ba di fedišitše"
+    }
+  ],
+  "timestamp": "2026-10-18T02:53:59.523875620Z",
+  "model": "glm-5.3"
+}

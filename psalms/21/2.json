@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nyakalala",
+      "rationale": "יגיל ke go dikanyega ka nyakallo — go thaba ga sebete; mantšu a mabedi a Sepedi a a fapanyetsa שמח le גיל"
+    },
+    {
+      "kind": "addition",
+      "subject": "a gago",
+      "rationale": "Sepedi e nyaka sešupi («a gago») ka morago ga 'maatla' le 'polokego'; Seheberu se na le sebopego sa botsenwa fela"
+    }
+  ],
+  "translation": "Yahwe, ka maatla a gago kgoši e a thaba, gomme ka polokego ya gago e a nyakalala kudu!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/21\/1-4.1792297383828.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ka maatla a gago"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "e a thaba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "gomme ka polokego ya gago"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "e a nyakalala"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:03.829530010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בית היין",
+      "rationale": "'Ntlo ya beine' ka botlalo, kgahlanong le 'ntlo ya mokete' (KJV\/JPS) — Sepedi e latela sebopego sa Seheberu"
+    },
+    {
+      "kind": "crux",
+      "subject": "דגלו",
+      "rationale": "דגל: 'folaga' goba 'sesupo' — ba bangwe ba hlatholla 'o ile a ntšha folaga' (ya go bontšha bothati)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na kopula; 'ke' le okeditšwe go Sepedi"
+    }
+  ],
+  "translation": "O ntšhitše ⟨go⟩ ya ntlo ya beine, gomme folaga ya gagwe godimo ga me ke lerato.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/2\/1-4.1792300909717.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "o ntšhitše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ya beine"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "gomme folaga ya gagwe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga me"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "lerato"
+    }
+  ],
+  "timestamp": "2026-10-18T05:21:49.718824838Z",
+  "model": "glm-5.3"
+}

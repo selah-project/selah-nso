@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mošoro",
+      "rationale": "ראש ke leina la go ba o se na selo — motho wa go hloka, e sego fela 'yo mosesane'"
+    },
+    {
+      "kind": "you",
+      "subject": "Dafida",
+      "rationale": "Natane o bolela le Dafida ka krego ye, a sa mo bolelele ka lebaka la yona"
+    }
+  ],
+  "translation": "Gomme Yahwe a romela ⟨את⟩ Natane go ya go Dafida; gomme a mo etela, a mo bolelela gore: Banna ba babedi ba be ba le toropong e tee, wa tee e le modyodi, wa tee a le mošoro.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "10369e67e5c87d0220cfd6cca86b3de8221fdd08c3838de87efcffa785c9ca79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/12\/1-4.1792289133956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natane"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a mo etela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a bolelela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba be"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e tee"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "wa tee"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "modyodi"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "wa tee"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "mošoro"
+    }
+  ],
+  "timestamp": "2026-10-18T02:05:33.957276951Z",
+  "model": "glm-5.3"
+}

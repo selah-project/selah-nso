@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 14:15",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Kirjath-Arba",
+      "rationale": "Sefahlelo se raega gore Arba ke motho yo mogolo wa ba-Anake (KJV, JPS) goba gore leina fela le bolela 'Motse wa Arba'; Seheberu se sepha ka ge hu-hu se hlalosa"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se tloša kopula godimo ga hu-hu; Sepedi se e nyaka"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ba-Anake",
+      "rationale": "Tšhupetšo ya ditšhaba tša ba-Anake — ba bagolo ka boleele — e laleditšwe go latela kgoro ya kale ya bohwa bja Khebrone"
+    }
+  ],
+  "translation": "Leina la Khebrone ka dinako tše di fetilego e be e le Kirjath-Arba; yena ⟨ke⟩ motho yo mogolo go ba-Anake. Gomme lefase la phuma khutšo go tšwa ntweng.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c3af06b3b67f6277ccb847fa5281b0f7d04c4209833b5c65a5dab075a2d42358",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/14\/13-15.1792286765686.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "le leina la"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebrone"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ka dinako tše di fetilego"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjath-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "yo mogolo"
+    },
+    {
+      "surface": "בענקים",
+      "gloss": "go ba-Anake"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "gomme lefase"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "la phuma khutšo"
+    },
+    {
+      "surface": "ממלחמה",
+      "gloss": "go tšwa ntweng"
+    }
+  ],
+  "timestamp": "2026-10-18T01:26:05.687988141Z",
+  "model": "glm-5.3"
+}

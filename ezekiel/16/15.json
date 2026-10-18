@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 16:15",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לו יהי",
+      "rationale": "'la gagwe e bile' (e bile la gagwe, KJV) kgahlano le 'o be a mo nyaka' (desire, Geneva); go hlwefiša go thata"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bonyatsi",
+      "rationale": "זנות ke setšo sa go dira bonyatsi, seswantšho sa go latela medimo ye mengwe"
+    }
+  ],
+  "translation": "Gomme wa ikotša ka botle bja gago, gomme wa dira bonyatsi ka leina la gago, gomme wa pholla ⟨את⟩ bonyatsi bja gago go mang le mang yo a fetago; la gagwe e bile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8f6f64e27475b261e727ab50998d4addc71408d1c55ad1c011a120509953862e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/16\/13-16.1792294774911.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבטחי",
+      "gloss": "wa ikotša"
+    },
+    {
+      "surface": "ביפיך",
+      "gloss": "ka botle bja gago"
+    },
+    {
+      "surface": "ותזני",
+      "gloss": "wa dira bonyatsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "ותשפכי",
+      "gloss": "wa pholla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonyatsi bja gago"
+    },
+    {
+      "surface": "תזנותיך",
+      "gloss": "bonyatsi bja gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "mang le mang"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "yo a fetago"
+    },
+    {
+      "surface": "לו",
+      "gloss": "la gagwe"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "e bile"
+    }
+  ],
+  "timestamp": "2026-10-18T03:39:34.912758123Z",
+  "model": "glm-5.3"
+}

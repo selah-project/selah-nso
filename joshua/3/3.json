@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "aleph-tav ya go swara petlo; e hlaotšwe ka 'e' fela ka gobane Sepedi e se na selo se se swanago"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Yisraele",
+      "rationale": "taelo ya go thoma ka 'ge le bona' — aterese ya go lebana le setšhaba"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ge le bona... le tlo tšwa",
+      "rationale": "taelo e bitša setšhaba go latelela petlo"
+    }
+  ],
+  "translation": "Gomme ba laela ⟨את⟩ setšhaba, ba re: Ge le bona ⟨את⟩ petlo ya kgwerano ya Yahwe Elohim ya lona, le moperisita ba Lefi ba ⟨את⟩ e bea, lena le tlo tšwa lefelong la lona, gomme le latele ka morago ga yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b58ff96aa4d4e28db315986a8a884fa5805b72cda19685af79732fedef72288a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/3\/1-4.1792286508658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "ba laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "ge le bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petlo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "petlo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ya kgwerano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "le moperisita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ba Lefi"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "ba e bea"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ e"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "lena"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "le tlo tšwa"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "lefelong la lona"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "gomme le latele"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka morago ga yona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:21:48.659642468Z",
+  "model": "glm-5.3"
+}

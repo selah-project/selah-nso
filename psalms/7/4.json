@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bobe",
+      "rationale": "עול ke bobe bja toka — go leka-me_MO, go se be le toka; 'bobe' ka noši ga bontšhe go se be le toka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mangwane",
+      "rationale": "בכפי letlakala la mangwane — setshwantšho sa go swara seabe ka mangwaneng; tlhaka ya fela ya sefoko e tswalwa le moletlo o sa tswago"
+    }
+  ],
+  "translation": "Yahwe Elohim wa ka, ge ke dirile se, ge go na le bobe ka mangwaneng a ka —",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/7\/1-4.1792297133108.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke dirile"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יש",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "עול",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "ka mangwaneng a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:53.109668397Z",
+  "model": "glm-5.3"
+}

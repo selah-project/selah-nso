@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopula ye Seheberu se sa e nago"
+    },
+    {
+      "kind": "crux",
+      "subject": "בני אתה",
+      "rationale": "toropo ya mmušo: \"Morwa wa ka wena\" — polelo e se nago kopula ya Semitic"
+    },
+    {
+      "kind": "you",
+      "subject": "kgoši\/Mashiakh",
+      "rationale": "Yahwe o bolela le morwa ka tlhamalalo — \"wena\" wa go šupetša"
+    },
+    {
+      "kind": "mystery",
+      "subject": "חק",
+      "rationale": "melawana yeo e sa hlaloswago — se sengwalwago, se sa bušwago ka ntle"
+    }
+  ],
+  "translation": "Ke tla bolela ⟨ke⟩ melawana: Yahwe o rile go nna: Morwa wa ka wena ⟨ke⟩; gomme lehono ke go begetše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/2\/5-8.1792297099338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "ke tla bolela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "חק",
+      "gloss": "melawana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o rile"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Morwa wa ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "gomme lehono ke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "go begetše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:19.339064157Z",
+  "model": "glm-5.3"
+}

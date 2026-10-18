@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mikhtame",
+      "rationale": "מכתם: 'engraving' vs 'golden poem' vs 'secret treasure' (ylt); leina fela, le bolokwa ka modumo wa lona."
+    },
+    {
+      "kind": "crux",
+      "subject": "Se-senye",
+      "rationale": "אל תשחת 'Al-tashchet': lentšu la pina ye e tsebagalago, e sego taelo ya mošomo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba lebelela",
+      "rationale": "וישמרו šomišwa mo go bolela go lebelela ka lefsifsi (watch), e sego go hlakometša fela."
+    }
+  ],
+  "translation": "Go moetapele: Se-senye. Ya Dafida, mikhtame, ge Shauole a romela, gomme ba lebelela ⟨את⟩ ntlo go mo bolaya.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/59\/1-4.1792297916371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moetapele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "senye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mikhtame"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "ge a romela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "gomme ba lebelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "go mo bolaya"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:56.372019964Z",
+  "model": "glm-5.3"
+}

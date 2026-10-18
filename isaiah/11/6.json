@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 11:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "nku",
+      "rationale": "כבש is a ram, not a lamb (that is טלה); most versions soften to 'lamb'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מריא",
+      "rationale": "fatling \/ fattened ox — 'kgomo ye e nonilego' ke tlhaloso, e sego lentšu le tee"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גר\/ירבץ\/יחדו",
+      "rationale": "repetition of dwelling-verbs builds a list of improbable pairs; chiasm of predator-with-prey kept"
+    }
+  ],
+  "translation": "Gomme phiri e tla dula le nku, gomme lenau le podi e nnyane e tla rabotše; gomme namane le tau ya mane le kgomo ye e nonilego ba tla ba mmogo, gomme moswananyana o tla ba hlodiša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/11\/5-8.1792291470796.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "gomme e tla dula"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "phiri"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "nku"
+    },
+    {
+      "surface": "ונמר",
+      "gloss": "gomme lenau"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "podi e nnyane"
+    },
+    {
+      "surface": "ירבץ",
+      "gloss": "e tla rabotše"
+    },
+    {
+      "surface": "ועגל",
+      "gloss": "gomme namane"
+    },
+    {
+      "surface": "וכפיר",
+      "gloss": "le tau ya mane"
+    },
+    {
+      "surface": "ומריא",
+      "gloss": "le kgomo ye e nonilego"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ba tla ba mmogo"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "gomme moswananyana"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "moswananyana"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "o tla ba hlodiša"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-18T02:44:30.797186280Z",
+  "model": "glm-5.3"
+}

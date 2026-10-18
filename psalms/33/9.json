@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמר\/צוה — ויהי\/ויעמד",
+      "rationale": "Tirisanommogo ya mahlakore a mabedi: lentšu–go ba gona, taelo–go ema; phetišo e boloka go swana ga sebopego."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויעמד",
+      "rationale": "Go ema ka botlalo (go tiile); dikgati tše dingwe di oketša 'ka botlalo' — mo go latela sebopego sa Seheberu fela."
+    }
+  ],
+  "translation": "Ka gobane yena o boletše gomme go ba gona; yena o laeditše gomme go ema.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/9-12.1792297524217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o boletše"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go ba gona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o laeditše"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "gomme go ema"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:24.218005315Z",
+  "model": "glm-5.3"
+}

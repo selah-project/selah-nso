@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o mo",
+      "rationale": "Sepedi e nyaka sedirišwa se se šomišwago ge Sepedi se sa se bontšhe"
+    },
+    {
+      "kind": "crux",
+      "subject": "wa bea sebe ka godimo ga yena",
+      "rationale": "לא תשא עליו חטא: 'go swara sebe ka ntle ga yena' (ASV\/JPS) kgahlanong le 'go mo letla go bea sebe' (KJV)"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Yisraele",
+      "rationale": "Taellano ya bokgoni go Israele ka moka"
+    }
+  ],
+  "translation": "O se ke wa hloya ⟨את⟩ mokgaetšo wa gago ka pelong ya gago; o mo kgwešiše ka botlalo — ⟨את⟩ mošakeng wa gago — gomme o se ke wa bea sebe ka godimo ga yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ccbaff01e3173c16ada5e3f6fa7e518d1258e7d2ab91f54fa1b99f025509e4af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/19\/17-20.1792284127971.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "wa hloya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokgaetšo wa gago"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mokgaetšo wa gago"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ka pelong ya gago"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "o mo kgwešiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mošakeng wa gago"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "mošakeng wa gago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "wa bea"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka godimo ga yena"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:42:07.971666547Z",
+  "model": "glm-5.3"
+}

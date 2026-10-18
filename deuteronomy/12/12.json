@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 12:12",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "⟨את⟩ le lona",
+      "rationale": "Here אתכם is the preposition 'with you' (H854), not the object marker; gloss keeps the ⟨את⟩ glyph per discipline."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלק\/נחלה",
+      "rationale": "'No portion nor inheritance' — the pair חלק\/נחלה echoes the נחלה of v. 9, sealing why the Levite shares the feast."
+    }
+  ],
+  "translation": "Gomme le tla thaba ka pele ga Yahwe, Elohim wa lona — lona, le banana ba lona, le basetsana ba lona, le bahlańka ba lona, le basadi ba lona ba go hlankela, le Molevi yo o dulago dikgorong tša lona; gobane go se gona karolo le kgoro ⟨את⟩ le lona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2ec8a58b1ab553fa978a28b513715f6ad7cd33f8563c1a1b8ad4f81354d696b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/12\/9-12.1792285882368.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמחתם",
+      "gloss": "gomme le tla thaba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wa lona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "le banana ba lona"
+    },
+    {
+      "surface": "ובנתיכם",
+      "gloss": "le basetsana ba lona"
+    },
+    {
+      "surface": "ועבדיכם",
+      "gloss": "le bahlańka ba lona"
+    },
+    {
+      "surface": "ואמהתיכם",
+      "gloss": "le basadi ba lona ba go hlankela"
+    },
+    {
+      "surface": "והלוי",
+      "gloss": "le Molevi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בשעריכם",
+      "gloss": "o dulago dikgorong tša lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go se gona"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "le kgoro"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le lona",
+      "marks": "karolo le kgoro"
+    }
+  ],
+  "timestamp": "2026-10-18T01:11:22.369483098Z",
+  "model": "glm-5.3"
+}

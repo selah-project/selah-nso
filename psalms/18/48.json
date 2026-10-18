@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וידבר",
+      "rationale": "דבר mo ga bolela go bolela — ke šomo ye sa tlwaelegilego: 'a laola \/ a fenya ditšhaba'; KJV 'subdueth', YLT 'subdueth'."
+    },
+    {
+      "kind": "elision",
+      "subject": "הַ article",
+      "rationale": "Sepedi ga se na article; הַ ya Seheberu ga e ngwalwe gomme ga e akaretšwe."
+    }
+  ],
+  "translation": "El yo a neelago dikgahlolo go nna, yo a fenago ditšhaba ka fase ga nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f7495c9dfa5ca669c5420c06779e3b361b73b433562b9edda20145fa1f5aea17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/18\/45-48.1792297331840.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "yo a neelago"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "dikgahlolo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "yo a fenago"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ka fase ga nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:11.842069114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diatla",
+      "rationale": "הידות ke 'diatla' ka botalo, eupša fa e bolela dihlopha tša masole — bošwa bja lentšu bo bolokwa ka 'diatla'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "tše pedi",
+      "rationale": "Dihlopha tše pedi tša ba ba tšwago ka Shabata di laelwa go loka ntlo ya Yahwe."
+    }
+  ],
+  "translation": "gomme diatla tše pedi tše dikgonago go tšwa, bohle ba ba tšwago ka Shabata, di tla loka ⟨את⟩ mošomo wa go loka wa ntlo ya Yahwe go dikologa kgoši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/11\/5-8.1792290703032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "gomme tše pedi"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "diatla"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "tše dikgonago go tšwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "ba ba tšwago"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ka Shabata"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "di tla loka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mošomo wa go loka wa ntlo ya Yahwe"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "mošomo wa go loka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T02:31:43.033949266Z",
+  "model": "glm-5.3"
+}

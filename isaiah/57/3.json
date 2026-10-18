@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עננה",
+      "rationale": "'molai' (yo a laago dilo ka moya) — KJV 'sorceress'; lentšu le amogetšwe go tšwa go ענן, go romeša ka sephiring"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרע",
+      "gloss": "",
+      "rationale": "peue — sa D4, 'peo' ke Setswana"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנאף\/תזנה",
+      "rationale": "mantšu a mabedi a go foufatša a sa tswalanego, go tšweletša kgalefo"
+    }
+  ],
+  "translation": "Gomme lona, le atametše mo, bana ba molai, peue ya mo-namadi le ya sedeutšwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a16ad46f20c230db968f8e199dbba3b347de3fecb45966568471d792e936afd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/57\/1-4.1792292463169.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Gomme lona"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "le atametše"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "molai"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peue ya"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "mo-namadi"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "le ya sedeutšwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:01:03.170443766Z",
+  "model": "glm-5.3"
+}

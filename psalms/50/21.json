@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והחרשתי",
+      "rationale": "KJV e bolela 'ke ile ka thoma'; JPS e botša potšišo: 'na ke be ke tloa go thoma?' — sebopego sa Seheberu se dumelela ka bobedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "di",
+      "rationale": "Seheberu se na le את ya semmušo fela; Sepedi se nyaka 'di' bakeng sa seswantšho sa dilo."
+    },
+    {
+      "kind": "you",
+      "subject": "mmuedi wa sebe",
+      "rationale": "Yahwe a bolela kgauswi le motho wa sebele, ka lentšu la bobedi."
+    }
+  ],
+  "translation": "Dilo tše o di dirilego, gomme ke ile ka thoma; o dumeletše gore ke le bjalo ka wena; ke tlo go ganela, gomme ke di bontšhe ka mahlo a gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "36f95caf4e7529b958f44dff04393a274d778a2b4135969277f422c071f1cb07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/50\/21-23.1792297770214.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o di dirilego"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "gomme ke ile ka thoma"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "o dumeletše"
+    },
+    {
+      "surface": "היות",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ke le"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "bjalo ka wena"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ke tlo go ganela"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "gomme ke di bontšhe"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ka mahlo a gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:30.214702016Z",
+  "model": "glm-5.3"
+}

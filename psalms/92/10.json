@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי הנה איביך ×2",
+      "rationale": "Go diega ga marara ga moka ga go phethegatše ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sebe",
+      "rationale": "און e bolela 'go se be selo\/mabe'; 'sebe' ke karolo ya yona feela"
+    }
+  ],
+  "translation": "Ka gobane bonang, manaba a gago, Yahwe; ka gobane bonang, manaba a gago tla fela; ba ba šomago sebe ka moka ba tla phatlalala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/92\/9-12.1792298450834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "manaba a gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "manaba a gago"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "tla fela"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "ba tla phatlalala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba ba šomago"
+    },
+    {
+      "surface": "און",
+      "gloss": "sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:50.835404551Z",
+  "model": "glm-5.3"
+}

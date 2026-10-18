@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 1:1",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨wa⟩",
+      "rationale": "Sepedi e nyaka mogopolwa wa ‘motho wa tee’; Seheberu se bolela fela ‘motho tee’"
+    },
+    {
+      "kind": "crux",
+      "subject": "אפרתי",
+      "rationale": "‘Mefrathe’ a ka ba wa Efrata (Betelehema) goba wa merafe ya Efrayime — diphetolelo di fapana"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lenane la bohumo",
+      "rationale": "Mokgwa wa go bala maina a bosedimo — metlara e mehlano ya Elkana"
+    }
+  ],
+  "translation": "Gomme go bile go na le motho ⟨wa⟩ tee go tšwa Rhamataime-Tsopim, go thabeng ya Efrayime, gomme leina la gagwe Elkana, mora Yerohame, mora Elihu, mora Tokhu, mora Tsuphe, Mefrathe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1526a3718eeb1adf31a5ab9614213e1b59046a2d1c8f3c30d7108ab220d3b947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/1\/1-4.1792287884803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go bile go na le"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tee"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "הרמתים",
+      "gloss": "Rhamataime"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "Tsopim"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "go thabeng"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ya Efrayime"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "gomme leina la gagwe"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Yerohame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "תחו",
+      "gloss": "Tokhu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "צוף",
+      "gloss": "Tsuphe"
+    },
+    {
+      "surface": "אפרתי",
+      "gloss": "Mefrathe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:44:44.803772758Z",
+  "model": "glm-5.3"
+}

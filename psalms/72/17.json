@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 72:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ינין",
+      "rationale": "hapax e sa tsejwago: 'go tsweledišwa ka malokwa' (Ketiv\/Qere), mehlala: 'a be le-na-la' kgathanong le 'letswalo la gagwe le a phela'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ינין",
+      "rationale": "lentšu le le lebang fela mo Tanakheng, go tšwa go נון go tswelediša ka malokwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתברכו בו",
+      "rationale": "'go iketla ka yena' (reflexive) kgathanong le 'go alafeledwa ka yena' (passive) — mehlala ye mbedi e a dumelelwa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "leina",
+      "rationale": "polelo ya leina go dula ka dinako tšeo di sa atologogo"
+    }
+  ],
+  "translation": "A be leina la gagwe go fihla lefifing, pele ga letsatsi a be le-na-la leina la gagwe, gomme go tla iketla ka bona ⟨go⟩ batho, ditšhaba ka moka di tla mo lakaleta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "adf2ee31e20a88469d053f4a16346341db4ab07592323afc55691e694da7f527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/72\/17-20.1792298105376.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "a be le"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla lefifing"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ינין",
+      "gloss": "a be le-na-la"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "ויתברכו",
+      "gloss": "gomme go tla iketla ka bona"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "יאשרוהו",
+      "gloss": "di tla mo lakaleta"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:05.377057847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ולא אפגע אדם",
+      "rationale": "'ga ke ne motho' — diphetholelo di fapana: KJV 'ga ke kopane le wena bjalo ka motho'; ASV\/JPS 'ga ke kgohome motho yo a nang le molato'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yo a ka arabela⟩",
+      "rationale": "Sepedi e nyaka selo se se feletšego; Seheberu se bolela fela 'ga ke ne motho'"
+    }
+  ],
+  "translation": "Boithopo bja gago bo tla senywa, le tlaišego ya gago e tla bona; kgahlego ke tla e tšea, gomme ga ke ne motho ⟨yo a ka arabela⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5df712179c3561addb28d02fc3306242bd3dc3172ff321cf40358524da1f55e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/47\/1-4.1792292295143.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "bo tla senywa"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "boithopo bja gago"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "e tla bona"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "tlaišego ya gago"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "kgahlego"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ke tla e tšea"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga ke ne"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "go kopana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-18T02:58:15.144972089Z",
+  "model": "glm-5.3"
+}

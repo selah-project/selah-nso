@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טל",
+      "rationale": "'maru a ntshe' — טל ke moru o theogago bosigo; 'maru' a ka se šomišwe ka gobane ke pula e nnyane"
+    },
+    {
+      "kind": "substitution",
+      "subject": "העולם",
+      "rationale": "עוֹלָם ke nako yeo e sa bonwego mafelelo; 'nako yeo e sa fihlellego' e boloka sebopego sa lentšu"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרמון\/ציון",
+      "rationale": "go thunya ga dithaba tše pedi — Chermone ka leboa le Tsiyone ka borwa; maru a Chermone ga a theoge godimo ga Tsiyone ka moya — ke seswantšho sa kutullo"
+    }
+  ],
+  "translation": "Bjalo ka maru a ntshe a Chermone, ao a theogago godimo ga dithabeng tša Tsiyone; gore gona Yahwe o laeditše ⟨את⟩ bokgabo, bophelo go fihla nako yeo e sa fihlellego:",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/133\/1-3.1792298950168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Bjalo ka maru a ntshe"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "a Chermone"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "ao a theogago"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "dithabeng"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "tša Tsiyone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o laeditše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokgabo"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "bokgabo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "nako yeo e sa fihlellego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:10.169490492Z",
+  "model": "glm-5.3"
+}

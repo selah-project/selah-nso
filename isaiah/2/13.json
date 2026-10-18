@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 2:13",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mihlare ya mohuta wa kgoro",
+      "rationale": "אלוני = dikgoro\/mihlare ya morago; Sepedi ga e na lentšu la tee le tlwaelegilego bakeng sa oak"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרמים והנשאים",
+      "rationale": "go phagama le go tšwelwa godimo — mafoko a mabedi a kopago, modumo wa kgodišo o a utolwa"
+    }
+  ],
+  "translation": "Gomme go dithlare tšohle tša sedara tša Lebanone, tše phagamego le tše tšweletšwego godimo, le go mihlare yohle ya Bashane;",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "13bb5e7dd5f6cb11d1d2df0886f8ced0277d3961499d5f13d6d3bfac28274311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/2\/13-16.1792291104439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "gomme go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "dithlare tša sedara"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "tša Lebanone"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "tše phagamego"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "le tše tšweletšwego godimo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "mihlare ya mohuta wa kgoro"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ya Bashane"
+    }
+  ],
+  "timestamp": "2026-10-18T02:38:24.440429172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yisraele",
+      "rationale": "Taelo ye e arolelana ka go šumšuma — 'lenna' le 'gare ga lena' le bitša batheeletši ka bowe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "motho yo a belegwogo lefasing",
+      "rationale": "האזרח lefsa 'go tswalela ka boyena' — motho wa lefase ka botsalo, e sego wa boahi fela"
+    }
+  ],
+  "translation": "Gomme lenna le swanetše go hlaokelediša ⟨את⟩ melawana ya ka le ⟨את⟩ dikahlolo tša ka, gomme le se ke la dira se sengwe le se sengwe sa disekgopo tše, motho yo a belegwago lefasing le mofaladi yo a dulago gare ga lena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/18\/25-28.1792283977644.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "le swanetše go hlaokelediša"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lenna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melawana ya ka"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "melawana ya ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo tša ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme le se ke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "la dira"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "se sengwe le se sengwe sa"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "disekgopo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "motho yo a belegwogo lefasing"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "gomme le mofaladi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "yo a dulago"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "gare ga lena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:39:37.645470250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o itumeditše",
+      "rationale": "הואיל literally 'o dumelelana \/ o ikgethile go dira' — Sepedi se ra 'o itumeditše go dira'"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Yisraele",
+      "rationale": "Samuele o bolela ka go swanela go setšhaba"
+    }
+  ],
+  "translation": "Gobane Yahwe a ka se tlogele ⟨את⟩ setšhaba sa gage ka lebaka la leina la gage le legolo; gobane Yahwe o itumeditše go le dira ⟨את⟩ lena go ba ⟨go yena⟩ setšhaba.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "355249c35f14cc1f503c6276f85b62bcaa89a7b3c182666f2cf9082e0d11c036",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/12\/21-24.1792288115933.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "tlogele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba sa gage"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setšhaba sa gage"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gage"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "le legolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "o itumeditše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "setšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T01:48:35.934434409Z",
+  "model": "glm-5.3"
+}

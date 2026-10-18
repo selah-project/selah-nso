@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רע רע",
+      "rationale": "Doubled 'bad, bad!' — the buyer's haggling repetition, kept as repetition in Sepedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "לו 'for himself' rendered as a supplied pronoun since Sepedi needs no reflexive here."
+    }
+  ],
+  "translation": "Bjo bobe, bjo bobe, o a re moreki; gomme ge a sepela, ⟨mohla⟩ a ikakasa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e56e36a94c9352ec6af22904d780c48416026730c019a8961dbf9993ce4a97a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/20\/13-16.1792299631533.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "bjo bobe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bjo bobe"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o a re"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "moreki"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "gomme ge a sepela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "mohla"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "a ikakasa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:31.534438237Z",
+  "model": "glm-5.3"
+}

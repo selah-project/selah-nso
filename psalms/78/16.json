@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נוזלים",
+      "rationale": "lentšu le bolela tšeo di theipago — dintharingana; mela ya meetse e bolela sebopego se sengwe se se ga se nago boikgethelo"
+    }
+  ],
+  "translation": "Gomme a ntšha mela ya meetse go leswika, a theola meetse bjalo ka dinoka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/13-16.1792298229594.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "a ntšha"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "mela ya meetse"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "go leswika"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "a theola"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "bjalo ka dinoka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:09.594931797Z",
+  "model": "glm-5.3"
+}

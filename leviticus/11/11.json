@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go hloya",
+      "rationale": "תשקצו ke go dira gore e be sehlwa — go hloya go bontšha boima bja taelo."
+    }
+  ],
+  "translation": "Gomme e tla ba selo se se hloilwego go lona; nama ya tšona o se ke wa e ja, gomme ⟨את⟩ matopo a tšona o tlamega go a hloya.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "babfaf4812f00d69ea3fb919034ae612c3dba15a23c38b8285a92fba21785235",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/9-12.1792283737041.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "Gomme selo se se hloilwego"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "nama ya tšona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "wa e ja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "matopo a tšona"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "matopo a tšona"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "o tlamega go a hloya"
+    }
+  ],
+  "timestamp": "2026-10-18T00:35:37.043064857Z",
+  "model": "glm-5.3"
+}

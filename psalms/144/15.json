@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na le kopula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי ... אשרי",
+      "rationale": "go boela ga mahlapa ga bobedi — sebopego sa pesa se se laletšago"
+    }
+  ],
+  "translation": "Mahlapa ⟨ke⟩ setšhaba se se lego bjalo ⟨mo go sona⟩; mahlapa ⟨ke⟩ setšhaba seo Elohim wa sona e lego Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "03ec3eb36db4f12f8b8d9b5531d39acebaed495ef25298a17ffb668739be92ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/144\/13-15.1792299130419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "mahlapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go sona"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mahlapa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "gore Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wa sona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:52:10.420206636Z",
+  "model": "glm-5.3"
+}

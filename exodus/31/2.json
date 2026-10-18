@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Moshe",
+      "rationale": "Yahwe addresses Moshe directly with the imperative 'bonang' (see)."
+    },
+    {
+      "kind": "addition",
+      "subject": "wa (of)",
+      "rationale": "Sepedi requires the possessive 'wa' for the construct chain ben Uri ben Hur."
+    }
+  ],
+  "translation": "Bonang, ke biditše ka leina Betselele, mora wa Uri, mora wa Khure, wa mmatota wa Yehuda:",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f6bf04b29791fe11920969691a6ef199183e7df34d81fc743f4f756ced92e8f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/31\/1-4.1792283108724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ke biditše"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betselele"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Khure"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "wa mmatota wa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-18T00:25:08.725296768Z",
+  "model": "glm-5.3"
+}

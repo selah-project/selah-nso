@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 34:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go ba",
+      "rationale": "ל prefix ya go fetoga e nyaka lentšu la kopu ka Sepedi; Hebrew e na le l fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זפת\/גפרית",
+      "rationale": "go šupišana ga medumo ya zefete le gafarita, sebopego sa kgotle ya mollo se se laelwago se ka se bontšhwa"
+    }
+  ],
+  "translation": "Dinoka tša yona di tla fetoga ⟨go ba⟩ zefete, gomme lerole la yona ⟨go ba⟩ gafarita; gomme lefase la yona le tla ba zefete ye e fišago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "31e1321b6205f10e684ddf76cf386a26c834645a4bb0a7dfd78470d0518dfcfc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/34\/9-12.1792291976871.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהפכו",
+      "gloss": "di tla fetoga"
+    },
+    {
+      "surface": "נחליה",
+      "gloss": "dinoka tša yona"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "go ba zefete"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "gomme lerole la yona"
+    },
+    {
+      "surface": "לגפרית",
+      "gloss": "go ba gafarita"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "gomme e tla ba"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "lefase la yona"
+    },
+    {
+      "surface": "לזפת",
+      "gloss": "zefete"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "ye e fišago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:52:56.872053021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סודו",
+      "rationale": "sod — lekgotla la sephiri la Yahwe, kamano ya sephiri le ba ba lolametšego"
+    },
+    {
+      "kind": "crux",
+      "subject": "סודו",
+      "rationale": "'sephiri' (sephiri sa gagwe), 'lekgotla' goba 'kamanano' — ASV e re 'his friendship', JPS 'His counsel'"
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "kopanyi yeo e phetološitšwego bjalo ka 'ka gobane', go hlatholla sebopego sa lentšu"
+    }
+  ],
+  "translation": "Ka gobane selo se se nyefolago go Yahwe ke yo a retologago, gomme sephiri sa gagwe le ⟨את⟩ ba ba lolametšego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8844867d968ec9db62dc0e11395174abb8bc87f1deb42f5348a1dc101146471b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/3\/29-32.1792299223988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "selo se se nyefolago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "yo a retologago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "ba ba lolametšego"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba ba lolametšego"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sephiri sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:53:43.989538247Z",
+  "model": "glm-5.3"
+}

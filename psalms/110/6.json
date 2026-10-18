@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨gare⟩",
+      "rationale": "Seheberu se re go 'ka ditšhaba' fela; 'gare' se okeditšwe go nea sebopego sa Sesepedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלא גויות",
+      "rationale": "'a tlatša ka dithopo' — mang a tlatša eng? Baefeni ba fapana: 'lefase le tletše dithopo' (JPS) kgotalo le 'o tlatša mafelo ka dithopo' (KJV)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "רבה",
+      "rationale": "רבה e ka ba lehlakore la mafelelo ('lefase legolo') goba go hlalosa hlogo ('hlogo ya mogolo-wa-ditšhaba')"
+    }
+  ],
+  "translation": "O tla kahlola ⟨gare⟩ ga ditšhaba, a tlatša lefase ka dithopo, a thuba hlogo godimo ga lefase legolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/110\/5-7.1792298754883.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "o tla kahlola"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ga ditšhaba"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "a tlatša"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "ka dithopo"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "a thuba"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "legolo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:54.884033245Z",
+  "model": "glm-5.3"
+}

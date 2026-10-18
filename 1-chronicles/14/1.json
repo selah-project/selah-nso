@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 14:1",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba-isegagego",
+      "rationale": "מלאכים ke ba romelwang, sephuthelwana sa motho, e sego manyeloi"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חרשי קיר",
+      "rationale": "baoki ba dikgoro — baepi ba maswika ba maboti, pono ya motheo e bolokilwe"
+    }
+  ],
+  "translation": "Gomme Chirame, kgoši ya Tsore, a romela ba-isegagego go Dafida, le maphego a disedare, le baoki ba dikgoro le baoki ba maphego, gore ba mo agele ⟨את⟩ ntlo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5a05b24d66802b8ea78d25fc4ed7186f6b3c885f9032bb61b508351b615b9246",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/14\/1-4.1792303202662.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Chirame"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ya Tsore"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "ba-isegagego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "le maphego"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "a disedare"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "le baoki"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "ba dikgoro"
+    },
+    {
+      "surface": "וחרשי",
+      "gloss": "le baoki"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ba maphego"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "gore ba agele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨את⟩ ntlo"
+    }
+  ],
+  "timestamp": "2026-10-18T06:00:02.663235071Z",
+  "model": "glm-5.3"
+}

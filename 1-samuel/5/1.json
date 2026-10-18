@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "aitare",
+      "rationale": "ארון ke lepokisi; 'aitare' e tšere maemo a lentswe le tee la Sepedi"
+    }
+  ],
+  "translation": "Gomme Ba-Pelisiti ba kgomile ⟨את⟩ aitare ya Elohim, ba iše yena go tšwa Eben-ha-Ezere go ya Ashdode.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/5\/1-4.1792287951511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Gomme Ba-Pelisiti"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ba kgomile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aitare"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aitare"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "ba iše yena"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "go tšwa Eben-"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezere"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "go ya Ashdode"
+    }
+  ],
+  "timestamp": "2026-10-18T01:45:51.512259505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 2:9",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba-hesede",
+      "rationale": "חסידו se tšwa go חסד (hesede) — bao ba swanago le Yahwe, e sego feela 'ba kgethwa'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ba tla didimetša",
+      "rationale": "ידמו: 'ba didimetša' kgotalo le 'ba tima' (BSB 'perish') — modumo o tee wa go ema le go fela"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Sepedi e nyaka sehlakahlaka; Seheberu se se na sona"
+    }
+  ],
+  "translation": "Maoto a ba-hesede ba gagwe Yahwe o a boloka, gomme bao ba phosago ba tla didimetša lefsifsing; gobane motho ga ⟨o⟩ atle ka maatla.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/2\/9-12.1792287794564.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "maoto"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "ba-hesede ba gagwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "o boloka"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "gomme bao ba phosago"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "lefsifsing"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "ba tla didimetša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ka maatla"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "atle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-18T01:43:14.565724373Z",
+  "model": "glm-5.3"
+}

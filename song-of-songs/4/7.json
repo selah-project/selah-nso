@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "phošo",
+      "rationale": "מום ke lešala\/molefo wa mmele; 'phošo' e akaretša kudu, eupša ke lentšu le lebotse la Sepedi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ka⟩",
+      "rationale": "Seheberu se se sa bontšha sebopego sa locative; Sepedi se nyaka 'ka go wena'"
+    }
+  ],
+  "translation": "O mobotseng ka moka, mogwera wa ka, gomme ga go na phošo ⟨ka⟩ go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1021a57f6e7ac9b7e879bc48a5fadb9f8b18c0fd918a0bce70d3681fffa6eb29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/4\/5-8.1792300978516.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "o mobotseng"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mogwera wa ka"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "gomme phošo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:22:58.518321288Z",
+  "model": "glm-5.3"
+}

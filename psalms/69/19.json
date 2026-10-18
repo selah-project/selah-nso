@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפש moya\/bophelo — e sego \"moea\" ya bakgalaka ya kgale"
+    },
+    {
+      "kind": "crux",
+      "subject": "גאלה",
+      "rationale": "Go bolaya kgwerano — mo gauta bja ka bohlatse\/mo gauta bja lapo; sephephediswa sa mafoko"
+    }
+  ],
+  "translation": "Atologa go moya wa ka ⟨o⟩ mmolai wa kgwerano ya maphelo, o ntsholle ka lebaka la manaba a ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3541448ad988430c7c0e9cd622498bc9ae204fe97471d965f9f45c6b53dceaea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/69\/17-20.1792298078770.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Atologa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "⟨o⟩ mmolai wa kgwerano ya maphelo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "manaba a ka"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "o ntsholle"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:38.771645795Z",
+  "model": "glm-5.3"
+}

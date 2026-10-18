@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יעודד",
+      "rationale": "Moko wa עוד: 'go thekga\/dumelela' (KJV relieveth) kgahlanong le 'go tshepiša\/gana' — polelwana ye e hlwahlwakgolo ya Sepedi ke go thekga."
+    },
+    {
+      "kind": "crux",
+      "subject": "יעות",
+      "rationale": "'Go gobodisa' (JPS maketh crooked) kgahlanong le 'go fetoša ka otlollo\/go ritlha' (KJV turneth upside down); go gobodisa ga lona go bitsa sebopego sa lentsu."
+    },
+    {
+      "kind": "elision",
+      "subject": "article",
+      "rationale": "Sepedi ga se na article; 'tsela' e sa tsenwe ⟨the⟩, gomme ה ya Seheberu ga e hlahisiwe."
+    }
+  ],
+  "translation": "Yahwe o hlwafera ⟨את⟩ bafalodi; lesea le mohlolohadi o a ba thekga; gomme tsela ya bafošagetšo o e gobodisa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d5fcbf227f804cb9f705f06dde37bba557510f04d8b58a66a2a92cf66769d671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/146\/9-10.1792299088573.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "o hlwafera"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bafalodi"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "bafalodi"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "lesea"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "gomme mohlolohadi"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "o a ba thekga"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "gomme tsela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya bafošagetšo"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "o e gobodisa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:28.573590485Z",
+  "model": "glm-5.3"
+}

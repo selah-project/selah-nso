@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se se se nago mosola",
+      "rationale": "בליעל = 'yeo e se nago mosola'; e sego leina la motho wa lefsifsi — Sepedi se boloka seswantšho sa motho"
+    },
+    {
+      "kind": "crux",
+      "subject": "mošomo wa bao ba tilago",
+      "rationale": "פעלי שטות — 'mošomo wa bao ba tilago' kgathanong le 'bofofu bja ba senyang' ba bangwe; lentšu le tlwaelegilego"
+    }
+  ],
+  "translation": "Ga ke be se sengwe se se se nago mosola pele ga mahlo a ka; mošomo wa bao ba tilago ke o hloile; ga o dule ka nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b37b7a31c7fe5bf7e64765e12cc69d9d01b60ee2f2abe042d573610044072146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/101\/1-4.1792298580822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ke be"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "se se se nago mosola"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mošomo wa"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "bao ba tilago"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ke o hloile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "o dule"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:00.823747388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עזו — maatla a mang?",
+      "rationale": "Dikgethi: \"maatla a gagwe\" (ya modiri, bjalo KJV\/JPS) kgatlhanong le \"maatla a ka\" (go direga ka motho, bjalo BSB ya \"O my strength\"); ke kgetha ya bobedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "phahamo",
+      "rationale": "משגב ke leswika la godimo le se ke kgonago go fihlelwa — phahamo ya šireletšo; \"phahamo\" e boloka sebopego sa lentšu."
+    }
+  ],
+  "translation": "Maatla a ka, go wena ke a lebelela; gobane Elohim ke phahamo ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/59\/9-12.1792297950361.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Maatla a ka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ke a lebelela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "phahamo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:30.362746853Z",
+  "model": "glm-5.3"
+}

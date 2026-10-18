@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "העלתיך",
+      "rationale": "Hiphil ya עלה ke go ntšha ka godimo — 'ke go ntšhitše' ka bophara bja yona"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩ Aharone le ⟨את⟩ Miryame",
+      "rationale": "Seheberu se na le ⟨את⟩ e tee pele ga Moshe fela; e atolositšwe go šala mo Seheberung ga se — e šomišwa go supa ba ba šomilwego"
+    }
+  ],
+  "translation": "Gobane ke go ntšhitše lefasing la Mitsrayime, le ntlong ya bohlanka ke go lokollotše; gomme ka romela pele ga gago ⟨את⟩ Moshe, ⟨את⟩ Aharone, le ⟨את⟩ Miryame.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9ad175fe4fb4690c9f177b589b370d6657e43313f3c45eb16c487a3d02116303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/micah\/6\/1-4.1792296656952.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gobane"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "ke go ntšhitše"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefasing la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "le ntlong ya"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bohlanka"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "ke go lokollotše"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "gomme ka romela"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "le Miryame"
+    }
+  ],
+  "timestamp": "2026-10-18T04:10:56.953412309Z",
+  "model": "glm-5.3"
+}

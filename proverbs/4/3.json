@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחיד",
+      "rationale": "'Yo a nnošago a le tee' (nitsohlo-ya-tee) kgahlanong le 'yo a ratwago kudu'; KJV e tšere go rata, YLT go nnoša."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wa bothopo",
+      "rationale": "רך leboela dilo tše dinnye go fihla godimo; bothopo bo swana le mošwa wa mmetse."
+    }
+  ],
+  "translation": "Ka gobane ke be ke le moswa wa ntate'ka, wa bothopo pele ga mma'ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8193dd1e1a15088d271e3e8876229dd56aaaf0387a15856dd2753f7772c259d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/4\/1-4.1792299232080.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בן",
+      "gloss": "moswa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke be ke le"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "wa ntate'ka"
+    },
+    {
+      "surface": "רך",
+      "gloss": "wa bothopo"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "pele ga mma'ka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mma'ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:53:52.081303392Z",
+  "model": "glm-5.3"
+}

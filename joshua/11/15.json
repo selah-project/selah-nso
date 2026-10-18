@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 11:15",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "kopanya ya gona ('o dirile') e nyakega go Sepedi, Seheberu se e sa e na."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כאשר…כן…וכן",
+      "rationale": "poeletšo ya thwii ya 'bjalo ka…bjalo…gomme bjalo' e bopa kgopolo ya pelantšu; e bolokwa ka botlalo."
+    }
+  ],
+  "translation": "Bjalo ka ge Yahwe a laetše ⟨את⟩ Moshe, mohlanka wa yena, bjalo Moshe a laetše ⟨את⟩ Yehoshua; gomme bjalo Yehoshua o dirile — ga a ka a ntšha lentšu le le nngwe go tšwa go tšohle seo Yahwe a laetšego ⟨את⟩ Moshe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e3e651da7280cfd9bec002f34131f9d0c8a8304544f4f8ffc44f5fd6a7dbaa51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/11\/13-16.1792286801361.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mohlanka wa yena"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshua"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "gomme bjalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga…a"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "a ntšha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tšwa go tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetšego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:26:41.362568812Z",
+  "model": "glm-5.3"
+}

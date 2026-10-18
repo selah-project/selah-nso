@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 22:2",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yona",
+      "rationale": "Seswantšho se okeditšwego go hlalosa ⟨את⟩ ya go swaya sehlare sa kgomo\/kwanyana."
+    },
+    {
+      "kind": "elision",
+      "subject": "לו",
+      "gloss-alignment": "sengwalwa se fetogile seswantšho ka 'o mo busetša'."
+    }
+  ],
+  "translation": "Eupša ge moomogela wa gago a sa ba kgauswi le wena, gomme o sa mo tsebe, o e loketše ka gare ga ntlo ya gago, gomme e dule le wena go fihlela moomogela wa gago a nyaka ⟨את⟩ yona, gomme o mo busetša;",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/22\/1-4.1792286065912.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "eupša ge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ba kgauswi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "moomogela wa gago"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o sa"
+    },
+    {
+      "surface": "ידעתו",
+      "gloss": "mo tsebe"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "o e loketše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka gare ga"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ka gare ga"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya gago"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e dule"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "a nyaka"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "moomogela wa gago"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "והשבתו",
+      "gloss": "o mo busetša"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-18T01:14:25.913654871Z",
+  "model": "glm-5.3"
+}

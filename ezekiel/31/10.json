@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 31:10",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "person shift",
+      "rationale": "Hebrew moves from 'you' (גבהת) to 'he\/its' (ויתן, לבבו) mid-verse; versions either smooth it (JPS keeps it) or unify; kept as Hebrew has it."
+    },
+    {
+      "kind": "substitution",
+      "subject": "didikwa tše dikoto",
+      "rationale": "עבותים is intertwined thick foliage; some read 'thick clouds' (BSB) from the height context."
+    },
+    {
+      "kind": "you",
+      "subject": "to Pharaoh",
+      "rationale": "The oracle addresses Pharaoh directly (31:2), here via the 'you' of the tree."
+    }
+  ],
+  "translation": "Ka gobane, go bolela Adonai Yahwe: ka gobane o phahame ka bogodimo, gomme o beile mothopo wa gagwe magareng a didikwa tše dikoto, gomme pelo ya gagwe e phahame ka bogodimo bja yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e4b565a9ac3f61e4c1b55a412452169718165a59770a07640a1dd14b3b315cd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/31\/9-12.1792295369419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "go swana le"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨gore⟩"
+    },
+    {
+      "surface": "גבהת",
+      "gloss": "o phahame"
+    },
+    {
+      "surface": "בקומה",
+      "gloss": "ka bogodimo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "gomme o beile"
+    },
+    {
+      "surface": "צמרתו",
+      "gloss": "mothopo wa gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "בין",
+      "gloss": "magareng a"
+    },
+    {
+      "surface": "עבותים",
+      "gloss": "didikwa tše dikoto"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "gomme e phahame"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "בגבהו",
+      "gloss": "ka bogodimo bja yona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:49:29.420117560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עזר\/סומך",
+      "rationale": "parallel pair helper\/upholder — same semantic field of leaning support, repeated in סמכתני at verse end"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואשתומם",
+      "rationale": "'I was appalled\/stunned' (reflexive) vs 'I searched' (Wycliffe's Latin Vorlage) — reflexive astonishment is the Hebrew shape"
+    }
+  ],
+  "translation": "Ke be ke lebelela, gomme go se na ⟨mo⟩-thusi; ke tšhologa mašutu, gomme go se na motheke; ke mokgokolo o ile wa šireletša ⟨go⟩ ka, gomme makalahlo a ka — ⟨ke⟩ one a nkgethile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "58f5760b0fc2985f12f047f01c9e8e5fce91c18602dbc44702070c5142a6427c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/63\/5-8.1792292569173.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "ke be ke lebelela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme go se na"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mothusi"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "ke tšhologa mašutu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme go se na"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "motheke"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "o ile wa šireletša"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go ka"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ke mokgokolo"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "gomme makalahlo a ka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ke⟩ yena"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "o nkgethile"
+    }
+  ],
+  "timestamp": "2026-10-18T03:02:49.174649213Z",
+  "model": "glm-5.3"
+}

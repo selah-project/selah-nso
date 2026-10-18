@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבוב\/ילבב",
+      "rationale": "Go tlišana ga medumo: motho yo a se nago letho ka gare (nabub) a hwetša pelo (libab) — sebopego se lahlegilego go Sepedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "padi e belega motho",
+      "rationale": "Potsišo ya kgalekale: se sengwe se sa kwagala — 'na padi ya naga e ka belega motho?' — ge e le gore motho yo tlhaèlele a ka se hlale; kgatelelo ya go bolela ka go tolloga go ya pele"
+    }
+  ],
+  "translation": "Gomme motho yo a se nago letho ka gare o tla hwetša pelo, gomme padi ya phologolo ya naga e belega motho.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7b7a98b157cc4526b28a873bd555e7ddfdfe625cd6e3aa76638c70370bf7ff1f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/11\/9-12.1792300216217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "gomme motho"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "yo a se nago letho ka gare"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "o tla hwetša pelo"
+    },
+    {
+      "surface": "ויעיר",
+      "gloss": "gomme padi"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "ya phologolo ya naga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "e belega"
+    }
+  ],
+  "timestamp": "2026-10-18T05:10:16.218495278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dumelela",
+      "rationale": "ברך le bolela 'go pumpuna\/go babatša'; Sepedi ga se na lentšu le tee la modumo wo, ka gobane 'go dumelela' le tšea sephetho sa go tšea karolo."
+    }
+  ],
+  "translation": "Ke tla dumelela ⟨את⟩ Yahwe ka mehla ka moka; tebego ya gae e tla dula ka molomong wa ka ka go sa feleng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/1-4.1792297549412.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Ke tla dumelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka mehla ka moka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka go sa feleng"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "tebego ya gae"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ka molomong wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:49.413430208Z",
+  "model": "glm-5.3"
+}

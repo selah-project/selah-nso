@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חלה לטוב",
+      "rationale": "'o hwerile sebotse' (pined for good, BSB\/YLT) kgahlanong le 'o emetše sebotse' (waited anxiously, ASV\/JPS); חלה ka botlalo ke go babja"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרות",
+      "rationale": "MAROTH (Maroth) go bapana le marara\/boferefere — leina la toropo le duma boferefere bjo bo boletšwego"
+    }
+  ],
+  "translation": "Ka gobane wa dulo wa Marote o hwerile sebotse, ka gobane bobe bo theogile go tšwa go ⟨את⟩ Yahwe, go fihla kgorong ya Yerushalayime.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9ce02155f0e33ba268fedde2089f8bf098254b91ec642424832b75a8400d1fb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/micah\/1\/9-12.1792296420206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "o hwerile"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "sebotse"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "wa dulo"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "bo theogile"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tšwa go ⟨את⟩",
+      "marks": "bobe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "go fihla kgorong ya"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T04:07:00.207216065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עמל",
+      "rationale": "עמל is toil\/wearing labor; rendered 'boima' (heaviness\/oppression) — the effort-of-labor picture vs JPS 'wearisome' vs YLT 'perverseness' (a known crux)."
+    }
+  ],
+  "translation": "Gomme ka ge ke be ke lekola go tseba se, e bile boima mahlong a ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/73\/13-16.1792298171768.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "gomme ka ge ke be ke lekola"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "go tseba"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "boima"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:11.769454999Z",
+  "model": "glm-5.3"
+}

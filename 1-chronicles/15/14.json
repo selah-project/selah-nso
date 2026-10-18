@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 15:14",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ikgethagatša",
+      "rationale": "קדש e bolela go kgethagatša — go itokišetša bokgethwa pele ga mošomo wa bokgethwa"
+    },
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "se kopanyi sa kgwerano sa Seheberu se nyakwa ke Sepedi mo ngwadong"
+    }
+  ],
+  "translation": "Gomme baperisita le balevi ba ikgethagatša go loša ⟨את⟩ araka ga Yahwe, Elohim wa Yisraele.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b8073f9fa50b217e2e00023ce5b3b97105c09693393778f51113af28c011ffb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/15\/14-15.1792305447940.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתקדשו",
+      "gloss": "ba ikgethagatša"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baperisita"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "le balevi"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "go loša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "araka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T06:37:27.941438009Z",
+  "model": "glm-5.3"
+}

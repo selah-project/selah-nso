@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 13:15",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וכל ישראל",
+      "rationale": "Seheberu ga se na ⟨את⟩ ya bobedi pele ga 'Yisraele ka moka' — וכל e šoma bjalo ka sekopanyi fela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נגף",
+      "rationale": "sehlogo sa go gogontšha — 'go otla ka go gogoma' go tšwa go puo ya dikgomo tša go gogontšha"
+    }
+  ],
+  "translation": "Gomme banna ba Yehuda ba rlanela; gomme go bile ge banna ba Yehuda ba rlanela, Elohim a gogontšha ⟨את⟩ Yerobeam le Yisraele ka moka pele ga Abiya le Yehuda.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "40cd89af7af7c49e1179eeecfb7db93607eed353918f85d83f124c35ee587978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/13\/13-16.1792303895081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויריעו",
+      "gloss": "ba rlanela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "go bile"
+    },
+    {
+      "surface": "בהריע",
+      "gloss": "ge … ba rlanela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "gomme Elohim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "a gogontšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerobeam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le … ka moka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Abiya"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "le Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-18T06:11:35.082334898Z",
+  "model": "glm-5.3"
+}

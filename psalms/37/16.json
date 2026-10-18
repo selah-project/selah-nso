@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go feta",
+      "rationale": "מ ya go bapetša — Sepedi e nyaka go feta"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bohlori",
+      "rationale": "המון gape e bolela sekhung se se tletšego kgodu — bohlori ke karolo ye kgolo fela"
+    }
+  ],
+  "translation": "Se sennyane sa toka se botse go feta bohlori bja bontši bja ba-bele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/37\/13-16.1792297602085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "se botse"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "se sennyane"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "sa toka"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "go feta bohlori"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bja ba-bele"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bja bontši"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:42.087110966Z",
+  "model": "glm-5.3"
+}

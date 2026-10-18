@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 4:12",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mošomi wa gagwe",
+      "rationale": "נערו ke mohlanyana\/mošomi — go se ngwalo wa lešala la kereke"
+    },
+    {
+      "kind": "addition",
+      "subject": "mo",
+      "rationale": "Sepedi e nyaka sedirišwa go לה, Seheberu se na le sesupo fela"
+    }
+  ],
+  "translation": "Gomme a bolela go Gehazí, mošomi wa gagwe: Bitša Šunamite ye. Gomme a mo bitša, gomme a ema pela ga yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5466244a943ad9442a68a231c0fd68c1830165fd0540e6b743de938a048b0146",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/4\/9-12.1792290487927.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a bolela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gehazí"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "mošomi wa gagwe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "bitša"
+    },
+    {
+      "surface": "לשונמית",
+      "gloss": "Šunamite"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "gomme a bitša"
+    },
+    {
+      "surface": "לה",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "gomme a ema"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pela ga yena"
+    }
+  ],
+  "timestamp": "2026-10-18T02:28:07.928797466Z",
+  "model": "glm-5.3"
+}

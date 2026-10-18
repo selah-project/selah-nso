@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מקטב",
+      "rationale": "qeteb — lentšu le boletšwago gantši fela mo le mabakeng a mangwe a se kae; 'tsholofetšo\/lesiro' ke magareng ga dibono tše mmalwa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bolwetši",
+      "rationale": "deber ke 'bolwetši bjo bo bolago bontši' (peste); 'bolwetši' fela ga bo bolele botenya bja lona."
+    }
+  ],
+  "translation": "bolwetši bjo bo sepelago lefsifsing, tsholofetšo yeo e ruišago sefakong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/91\/5-8.1792298465419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "bolwetši"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "lefsifsing"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "bjo bo sepelago"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "tsholofetšo"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "yeo e ruišago"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "sefakong"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:05.419981305Z",
+  "model": "glm-5.3"
+}

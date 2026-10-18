@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Verse ends with direct address 'your judgments, Yahwe'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמעה\/ותשמח",
+      "rationale": "šameʿa\/tişmaḥ sound-play on š-m-ʿ\/š-m-ḥ, lost in Sepedi."
+    }
+  ],
+  "translation": "Tsiyone e kwele gomme e thabela, gomme barwedi ba Yudaha ba tletša nyakiso, ka baka la dikahlolo tša gago, Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "90ca7e6f79129eb100cd2a224c5a80a2d7aa9fcba58f34eadf132578bf49818c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/97\/5-8.1792298506775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "e kwele"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "gomme e thabela"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "gomme ... ba tletša nyakiso"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barwedi ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yudaha"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikahlolo tša gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:46.776876690Z",
+  "model": "glm-5.3"
+}

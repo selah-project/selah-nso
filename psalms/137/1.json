@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dinokeng",
+      "rationale": "נהרות ke bontši bja dinoka; mehlaleng ye mengwe e bolela lewatle goba noka ye kgolo"
+    }
+  ],
+  "translation": "Go dinokeng tša Babilone, moo re ilego ra dula, gomme ra lela, ge re hlodiša ⟨את⟩ Tsione.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4c65906e1db54a229031e86eb14c64855ad561b837bad5ce4adc111a08134a57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/137\/1-4.1792299024254.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dinokeng"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babilone"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "ra dula"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "ra lela"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "ge re hlodiša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsione"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:24.256196655Z",
+  "model": "glm-5.3"
+}

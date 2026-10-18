@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 16:5",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להלחם",
+      "rationale": "Literal 'could not fight'; KJV\/ASV\/JPS read 'could not overcome him'."
+    },
+    {
+      "kind": "addition",
+      "subject": "nae",
+      "rationale": "Sepedi requires the object pronoun; Hebrew omits it."
+    }
+  ],
+  "translation": "Ka nako yeo Retsine, kgoši ya Arame, le Pekakhya, morwa wa Remaljayahu, kgoši ya Yisraele, ba ile ba ya godimo Yerushalayime go lwala ntwa, gomme ba dulela A Khazhe, gomme ba se kgone go lwala ⟨nae⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e8b90a5dce277b41538a13f38f3e909650aa19247dae68f9f35e0a9c2212ba3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/16\/5-8.1792290922418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ka nako yeo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ba ile ba ya godimo"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsine"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "ופקח",
+      "gloss": "le Pekakhya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "Remaljayahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go lwala ntwa"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "gomme ba dulela"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "A Khazhe"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "gomme ba se kgone"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ba kgona"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "go lwala"
+    }
+  ],
+  "timestamp": "2026-10-18T02:35:22.418969587Z",
+  "model": "glm-5.3"
+}

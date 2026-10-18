@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 30:32",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tekanyo",
+      "rationale": "מתכונת ke tekanyo ya ditho tša sehlare — 'formula\/composition'; tekanyo e boloka sebopego sa go ela."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke bjo",
+      "rationale": "Sepedi e nyaka kopula yeo Seheberu se e sa e rego go הוא + קדש."
+    }
+  ],
+  "translation": "Godimo ga nama ya motho ga e a swanetše go thuwa; gomme ka tekanyo ya yona le se swantšhe go dira e swana le yona: bokgethwa ke bjo, bokgethwa bo tla ba le lena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ffb277de3b7e546d00bf0640ddd3b82f58c59cc04ddcd48fd100a9340ae28b3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/30\/29-32.1792283161275.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ya motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ייסך",
+      "gloss": "e a swanetše go thuwa"
+    },
+    {
+      "surface": "ובמתכנתו",
+      "gloss": "omme ka tekanyo ya yona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "swantšhe go dira"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "e swana le yona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke bjo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bo tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le lona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:26:01.277246382Z",
+  "model": "glm-5.3"
+}

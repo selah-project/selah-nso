@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 12:4",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "masomepedi le tharo",
+      "rationale": "Dipalo tša matšatši a go hlwekišwa — 33 (mosebe wa mosetsana o tlaa 66 ka 12:5)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go hlwekišwa",
+      "rationale": "טהרה ke go hlwekišwa ga moaparo go ya ka melawana ya Torah — e sego go hlwekilega ga boitshwaro fela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "se se kgethwa",
+      "rationale": "קדש ke sengwe se se kgethilwego go Yahwe go ya ka D2 — e sego 'halalela' (Sesotho)."
+    },
+    {
+      "kind": "addition",
+      "subject": "o tla \/ ga se swanela",
+      "rationale": "Sepedi e nyaka sereti sa go eta gomme e hloka sebopego sa mošomo — Seheberu se na le mapetlele fela (תשב, לא תגע, לא תבא)."
+    }
+  ],
+  "translation": "Gomme matšatši a masomepedi le tharo o tla dula mading a go hlwekišwa; se sengwe le se sengwe se se kgethwa ga se swanela go se khoma, gomme bokgethweng ga a swanela go tsena, go fihla ge matšatši a go hlwekišwa a tlatšwa.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9e0b3b5059a1967f7b88df8c223cfb5d6ca4959ea38d67a1120e7bfcba66f6b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/12\/4-4.1792304668065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלשים",
+      "gloss": "gomme masomepedi le tharo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "matšatši"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "le tharo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matšatši"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "o tla dula"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "mading a"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "go hlwekišwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "se sengwe le se sengwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "se se kgethwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "swanela go se khoma"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme go"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "bokgethweng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "swanela go tsena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ge ... a tlatšwa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matšatši a"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "go hlwekišwa"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:28.065587040Z",
+  "model": "glm-5.3"
+}

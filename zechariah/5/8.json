@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "boboshi",
+      "rationale": "הרשעה ke lentšu la seswantšho la bo-boshi leo le ikgethilego mošading — phetolelo e boloka lentšu, e sego 'mosadi wa bo-boshi'"
+    },
+    {
+      "kind": "elision",
+      "subject": "פיה — molomo",
+      "rationale": "'Molomo' wa efa ke sebegeng sa yona; Sepedi se šomiša sebopego sapolelo sa 'molomo' go boloka seswantšho sa Seheberu"
+    },
+    {
+      "kind": "mystery",
+      "subject": "go kwala ka leswika la orefete",
+      "rationale": "Boboshi bo tswalelwa ka leswika la boima — seswantšho se tswaletšego, se sa dutšego se phunyeletšego"
+    }
+  ],
+  "translation": "A re: Se ke boboshi. A latla ⟨את⟩ yena go bogareng bja efa, gomme a latla ⟨את⟩ leswika la orefete mo molomong wa yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f30b90cea97e6cd839f3d93217996b6213405041827c6678df8d97a3d87852f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/5\/5-8.1792296910854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "boboshi"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "a latla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "bogareng bja"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "a latla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leswika la orefete"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "leswika"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "la orefete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "molomong wa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:15:10.855041420Z",
+  "model": "glm-5.3"
+}

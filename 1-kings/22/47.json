@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 22:47",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba ba kgethilwego go bosenyi",
+      "rationale": "הקדש ke 'yo a kgethilwego' — mo go bolela bafetši ba tempele; 'go bosenyi' e hlalosa sebopego sa lentšu la -kgethwa se senyegilego"
+    },
+    {
+      "kind": "elision",
+      "subject": "מן",
+      "rationale": "'go tšwa' go setlego ka go 'lefaseng' — go elilwe"
+    }
+  ],
+  "translation": "Gomme bao ba salego ba ba kgethilwego go bosenyi, bao ba ilego ba sala mafeeleng a Aša tatago wa gagwe, o ba tlošitše lefaseng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "571090c7f3045816ff85fc24c4d338719eca3e7bc704a8b102c1acf557d6cff3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/22\/45-48.1792290387224.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Gomme bao ba salego"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ba ba kgethilwego go bosenyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "נשאר",
+      "gloss": "ba ilego ba sala"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mafeeleng a"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Aša"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatago wa gagwe"
+    },
+    {
+      "surface": "בער",
+      "gloss": "o ba tlošitše"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefaseng"
+    }
+  ],
+  "timestamp": "2026-10-18T02:26:27.225734930Z",
+  "model": "glm-5.3"
+}

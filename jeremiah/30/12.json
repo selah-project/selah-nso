@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אנוש",
+      "rationale": "Aneinši a diragatsa a šumišwa fela mo go Tanakh e le sebopego sa polelo (sae-conjugation) sa go ba bofokodi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ga e fološi",
+      "rationale": "אנוש semologo ke 'e bofokodi, e se nago maatla' — 'ga e fološi' ke tlhaloso, e sego sebopego sa lentšu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e hloka kgokagano ya dikarolo tša dikaya tša bobedi; Seheberu se e sena."
+    }
+  ],
+  "translation": "Ka gobane bjalo o boletše Yahwe: poošo ya gago ga e fološi, mokgobo wa gago o boima.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "04f41b180d6a472b099f07457115631a99cd14550794c54f4428d9b1bb359a5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/30\/9-12.1792293533912.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o boletše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ga e fološi"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "poošo ya gago"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "o boima"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "mokgobo wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T03:18:53.913687758Z",
+  "model": "glm-5.3"
+}

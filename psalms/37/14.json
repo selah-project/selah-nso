@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ba pallantšhitše",
+      "rationale": "דרכו = go gata (go gokaganya dithunya ka go di gata); diphetolelo tše dintši di re 'ba okeditše' — seswantšho sa go gata se laelwa"
+    },
+    {
+      "kind": "elision",
+      "subject": "חרב pele ga פתחו",
+      "rationale": "sefokwa se saahlwa pele ga direto — Sepedi e se bega ka go tlhatlamanya"
+    }
+  ],
+  "translation": "Ba-bele ba ntšhitše ditšhoša, gomme ba pallantšhitše dithunya tša bona, go lahla mohloki le yo a hlokago, go hlaba ba lategago tsela e tsego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/37\/13-16.1792297602085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "ditšhoša"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ba ntšhitše"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba-bele"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "gomme ba pallantšhitše"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "dithunya tša bona"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "go lahla"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mohloki"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "le yo a hlokago"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "go hlaba"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ba lategago"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela e tsego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:42.086808948Z",
+  "model": "glm-5.3"
+}

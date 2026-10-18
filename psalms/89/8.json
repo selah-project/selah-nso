@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "sod ke kgakololo ya sephiri — El o tšhabiša mo sephiring sa bao ba kgethilweng."
+    },
+    {
+      "kind": "crux",
+      "subject": "רבה",
+      "rationale": "rabba e ka hlatholla 'kudu' (mokgwa) goba 'kgolo' (bokgoni bja kgakololo); 'kudu' ke kgetho ya fela."
+    }
+  ],
+  "translation": "El yo a tšhabišago kudu mo sephiring sa bao ba kgethilweng, yo a tšhabišago tšohle tše di moologago ka yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "178bf9212f44ae038112b02baed77b9860670dd0c53b0eba6cac22ba3f622af4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/5-8.1792298394913.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "yo a tšhabišago"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "mo sephiring"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ya bao ba kgethilweng"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "yo a tšhabišago"
+    },
+    {
+      "surface": "על",
+      "gloss": "tše di"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "tše di moologago ka yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:54.914436072Z",
+  "model": "glm-5.3"
+}

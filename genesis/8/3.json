@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוך ושוב",
+      "rationale": "go sepela gomme go boela — idiom ya go ipoša ka mehla; KJV 'continually' e laleditše sebopego sa go boela-boela"
+    },
+    {
+      "kind": "measurement",
+      "subject": "matsatsi a lekgolo le masomehlano",
+      "rationale": "palo ya matsatsi e sa fetogego, e swana le Genesi 7:24"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mengwaga",
+      "rationale": "יום ke matsatsi, e sego mengwaga — tshwara: matsatsi a lekgolo le masomehlano"
+    }
+  ],
+  "translation": "Gomme meetse a boela godimo ga lefase, a sepela gomme a boela; gomme meetse a fokola ka mafelelo a mengwaga e lekgolo le masomehlano.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "54d78dae36ec4e3969876188b5de498b728c05cc7e614f187e816f98ecc266d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/8\/2-3.1792304575387.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "המים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "a sepela"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "gomme a boela"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "a fokola"
+    },
+    {
+      "surface": "המים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ka mafelelo a"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masomehlano"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "le lekgolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "mengwaga e lekgolo le masomehlano"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:55.387921553Z",
+  "model": "glm-5.3"
+}

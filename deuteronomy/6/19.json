@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go phusha",
+      "rationale": "להדף lit. 'go otlolla ka maatla, go kgoba o tlase' — seswantšho sa maabotho."
+    }
+  ],
+  "translation": "Go phusha ⟨את⟩ manaba a gago ka moka go pele ga sefahlego sa gago, bjalo ka ge lentšu la Yahwe le boleditše.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8f64f317e09f3a6056a8429f6714166220d45df8c4d14d136bd4e1aea95d56c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/6\/17-20.1792285658043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "go phusha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaba ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "manaba a gago"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "go pele ga sefahlego sa gago"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu ... le boleditše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:07:38.044318765Z",
+  "model": "glm-5.3"
+}

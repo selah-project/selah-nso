@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 39:34",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחשים",
+      "rationale": "Phoofolo yeo e sa tsejwego: 'badgers' (KJV), 'sealskins' (ASV\/JPS), 'fine leather' (BSB) — lentšu le la hlakantšhwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "המאדמים",
+      "rationale": "Seheberu: 'tše di bopilwego mokhubedu' — kemedi e kopantšwe le 'mokhubedu'"
+    }
+  ],
+  "translation": "le ⟨את⟩ phokgong ya mateka a dipudi-dinama a mokhubedu, le ⟨את⟩ phokgong ya mateka a dihlahla-tša-thekishi, le ⟨את⟩ sekae sa sephiring.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/39\/33-36.1792283463085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phokgong ya mateka"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "phokgong"
+    },
+    {
+      "surface": "עורת",
+      "gloss": "mateka a"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "dipudi-dinama"
+    },
+    {
+      "surface": "המאדמים",
+      "gloss": "a mokhubedu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "phokgong ya mateka"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "phokgong"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "mateka a"
+    },
+    {
+      "surface": "התחשים",
+      "gloss": "dihlahla-tša-thekishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekae"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "sekae"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "sephiring"
+    }
+  ],
+  "timestamp": "2026-10-18T00:31:03.086477290Z",
+  "model": "glm-5.3"
+}

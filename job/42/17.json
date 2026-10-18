@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mengwaga",
+      "rationale": "שבע ימים ke mošomo wa Seheberu — 'a tsweetšwe ke matšatši', mmadi wa Sepedi o a hlalosa ka mengwaga"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka mogopolši go hlalosa 'a tsweetšwe ke mengwaga'"
+    }
+  ],
+  "translation": "Gomme Ayobo a hwetše, a se a godile, a tsweetšwe ke mengwaga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7bce2aec96f2c0cc28a4681788780d36df4860face8a1c0fdda33765aad5bffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/42\/17-17.1792300853736.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "a hwetše"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ayobo"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a godile"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "a tsweetšwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ke mengwaga"
+    }
+  ],
+  "timestamp": "2026-10-18T05:20:53.736858997Z",
+  "model": "glm-5.3"
+}

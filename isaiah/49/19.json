@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 49:19",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צר",
+      "rationale": "Sepedi se boloka sebopego: lefase le nyenyane ge e le gabotse (נָצַר לך); phetolelo ya KJV 'you shalt be too strait' e bolela gore baagi ba ntshephile sekgoba."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרבותיך\/הרסתיך",
+      "rationale": "Go swana ga modumo gare ga 'mafase a phuhlagilego' le 'go phuhlagatšwa' ga go bontšhe ka Sepedi."
+    }
+  ],
+  "translation": "Gobane mafase a gago a phuhlagilego, le a go senyegilego, le lefase la go phuhlagatšwa ga gago — gobane bjale o tla phutholoha ka baka la ba dulago gona, gomme bao ba go fagoago ba tla ba kgakala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "731b60d89bade3a78ee1bbb6d6513c52d30c0293282c1249de9b12712026b0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/49\/17-20.1792292284004.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "חרבתיך",
+      "gloss": "mafase a gago a phuhlagilego"
+    },
+    {
+      "surface": "ושממתיך",
+      "gloss": "gomme a go senyegilego"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "gomme lefase"
+    },
+    {
+      "surface": "הרסתיך",
+      "gloss": "la go phuhlagatšwa ga gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "תצרי",
+      "gloss": "o tla phutholoha"
+    },
+    {
+      "surface": "מיושב",
+      "gloss": "ka baka la ba dulago"
+    },
+    {
+      "surface": "ורחקו",
+      "gloss": "gomme ba tla ba kgakala"
+    },
+    {
+      "surface": "מבלעיך",
+      "gloss": "bao ba go fagoago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:58:04.005868191Z",
+  "model": "glm-5.3"
+}

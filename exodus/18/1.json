@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גרשם\/גר",
+      "rationale": "vertical: name Gershom (v3) puns on ger 'foreigner'; Eliezer (v4) on ezer 'help'"
+    },
+    {
+      "kind": "addition",
+      "subject": "sa gagwe",
+      "rationale": "Hebrew עמו is 'his people'; Sepedi possessive requires the pronoun"
+    }
+  ],
+  "translation": "Gomme Yitro, moperisita wa Midyane, tlhodi wa Moshe, a kwa ⟨את⟩ tšohle seo Elohim a se diriletšego go Moshe le go Yisraele setšhaba sa gagwe, gore Yahwe o ntšhitše ⟨את⟩ Yisraele go Mitsrayime.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6b2b63caea2c4cca536ce84d213522d4927cb924df5877fce5d6622f95b2e860",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/18\/1-4.1792282836711.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a kwa"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyane"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "tlhodi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tšohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a se diriletšego"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "go Moshe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "le go Yisraele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setšhaba sa gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "o ntšhitše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "go Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-18T00:20:36.712407641Z",
+  "model": "glm-5.3"
+}

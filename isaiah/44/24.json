@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 44:24",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מי אתי",
+      "rationale": "Potsiso 'ke mang le nna?' (ylt, asv) kgahlanong le go bala ga kjv 'ga go o le nna' — Seheberu se bolela potsiso, se sa bolelgo karabo ka thwii."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי (H854)",
+      "rationale": "Moo ke prepisetšene ya 'le nna', e sego ⟨את⟩ ya seripa sa kgwebo (H853); marker wo o bolokilwe go ya ka melao ya Selah."
+    }
+  ],
+  "translation": "Go bolela Yahwe, Mmokolodi wa gago, yo a go direletšego go tšwa mpa: Ke nna Yahwe, yo a dirago tšohle, yo a phatlalatsago magodimo ka noši, yo a phutholotsago lefase — ke mang ⟨את⟩ le nna?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9bbce83601a6c1ef4d4e2a5fad2000ed029a3995d92e0f95cc470a58d266240f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/44\/21-24.1792292231000.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "go"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גאלך",
+      "gloss": "Mmokolodi wa gago"
+    },
+    {
+      "surface": "ויצרך",
+      "gloss": "gomme yo a go direletšego"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "go tšwa mpa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo a dirago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "yo a phatlalatsago"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ka noši"
+    },
+    {
+      "surface": "רקע",
+      "gloss": "yo a phutholotsago"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:11.001520479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 1:17",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעיניהן",
+      "rationale": "'mahlong a bona' — Hebrew idiom 'in their eyes' kept literally, meaning 'in their own esteem'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בעליהן",
+      "rationale": "baʿal means master\/owner; rendered 'banna ba bona' (their husbands) as the marital sense requires."
+    }
+  ],
+  "translation": "Gore lentšu la khethi le tla tšwa go basadi bohle, go ba nyefša banna ba bona mahlong a bona, ge ba re: Kgoši Ahashveroshe o ile a laela go tliša ⟨את⟩ Washti khethi go fao gagwe, gomme o sa tle.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9a33d35b65288750b57841875921342f7516de5e2a1f95bf5c9b6aae50cdb6ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/1\/17-20.1792301622810.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "le tla tšwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "la khethi"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "להבזות",
+      "gloss": "go ba nyefša"
+    },
+    {
+      "surface": "בעליהן",
+      "gloss": "banna ba bona"
+    },
+    {
+      "surface": "בעיניהן",
+      "gloss": "mahlong a bona"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "ge ba re"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashveroshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o ile a laela"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "go tliša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Washti khethi"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Washti"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "khethi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "go fao gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o sa"
+    },
+    {
+      "surface": "באה",
+      "gloss": "tle"
+    }
+  ],
+  "timestamp": "2026-10-18T05:33:42.811062545Z",
+  "model": "glm-5.3"
+}

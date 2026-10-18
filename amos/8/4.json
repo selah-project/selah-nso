@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 8:4",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Thekweng se",
+      "rationale": "moletlo wa go thekwa o bitša barutiwa ka tlhohumoreto"
+    },
+    {
+      "kind": "substitution",
+      "subject": "le remago",
+      "rationale": "השאפים ke go hema ka pelo (go rema ka meomo) — 'go rema' e tliša sebopego sa go rema seholo"
+    }
+  ],
+  "translation": "Thekweng se, lona bao le remago ba hlokalago, go fedisa ba humanegilego ba lefase.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "10ec73eb39d32b7962da45acc33df79fcc10d9761653ff1086b4565ed91f7928",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/8\/1-4.1792296301272.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Thekweng"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "השאפים",
+      "gloss": "lona bao le remago"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "ba hlokalago"
+    },
+    {
+      "surface": "ולשבית",
+      "gloss": "go fedisa"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "ba humanegilego"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:05:01.273450552Z",
+  "model": "glm-5.3"
+}

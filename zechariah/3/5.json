@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 3:5",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "tsanefe",
+      "rationale": "צניף, phunyeletšo ya hlogo yeo e phuthago, e tšwago ya Hoshea goba Yeshayahu fela — sebopego sa lentšu bo bolokwa ka modumo wa lona."
+    },
+    {
+      "kind": "substitution",
+      "subject": "malaka",
+      "gloss_source": "מלאך",
+      "rationale": "מלאך ke moromuwa; malaka a Yahwe a eme mo go sa tsejwago gore o eme kae — mongwalo o fela ka go ema."
+    }
+  ],
+  "translation": "Gomme ka re: a be ba bea tsanefe e hlwekilego godimo ga hlogo ya gagwe; gomme ba bea tsanefe e hlwekilego godimo ga hlogo ya gagwe, gomme ba mo apesa diaparo; gomme malaka a Yahwe a be a eme.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "981141e3321e5c7471106dcbf81fa9936e502b3420e1962eff597cc75482c4e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/3\/5-8.1792296933316.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "gomme ka re"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "a be ba bea"
+    },
+    {
+      "surface": "צניף",
+      "gloss": "tsanefe"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hlwekilego"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hlogo ya gagwe"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "gomme ba bea"
+    },
+    {
+      "surface": "הצניף",
+      "gloss": "tsanefe"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "e hlwekilego"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hlogo ya gagwe"
+    },
+    {
+      "surface": "וילבשהו",
+      "gloss": "gomme ba mo apesa"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "gomme malaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "a be a eme"
+    }
+  ],
+  "timestamp": "2026-10-18T04:15:33.316764666Z",
+  "model": "glm-5.3"
+}

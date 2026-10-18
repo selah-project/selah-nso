@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 4:19",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Hebrew participle without copula; Sepedi requires 'ke'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונציב אחד",
+      "rationale": "'one prefect in the land' — KJV 'the only officer', JPS 'one officer over all the officers', BSB adds 'in the land of Judah' from 2 Chr; rendered literally as one prefect"
+    },
+    {
+      "kind": "measurement",
+      "subject": "motsamaisi a tee",
+      "rationale": "Counting of officers in the district list"
+    }
+  ],
+  "translation": "Geber mora wa Uri lefaseng la Gileade, lefase la Sihone kgoši ya Emori, le ya Oge kgoši ya Bashane; gomme ⟨ke⟩ motsamaisi a tee yo a nago lefaseng.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ca69ac76d9703b59432a4f6fcc18b5e51bb22b6c2f88df81660f625407d9b3ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/4\/17-20.1792289657928.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Geber"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng la"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileade"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase la"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Sihone"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši ya"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "ועג",
+      "gloss": "le ya Oge"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši ya"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashane"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "gomme motsamaisi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a tee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo a nago"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    }
+  ],
+  "timestamp": "2026-10-18T02:14:17.929183894Z",
+  "model": "glm-5.3"
+}

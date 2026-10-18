@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yona⟩",
+      "rationale": "anaclitic eto e akaretša karolo ya kemedi; Sepedi e nyaka pronoun ya go hlaka"
+    }
+  ],
+  "translation": "Gomme nare goba kwana — ⟨yona⟩ le ⟨את⟩ morwa wa yona — ga lo ka di faola letšatšing le tee.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2e7d5e5d8f97a10237ced78f12a4d38cfe4bbd61fb3f714a33e82bf935f3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/22\/25-28.1792284147787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "gomme nare"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "nare goba kwana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "morwa wa yona"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa yona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga lo ka"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "di faola"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letšatšing"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le tee"
+    }
+  ],
+  "timestamp": "2026-10-18T00:42:27.788547696Z",
+  "model": "glm-5.3"
+}

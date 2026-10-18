@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba dipharihading",
+      "rationale": "נעלמים ke 'ba dipharihading' — batho bao ba iphitlhago, ba sa bonagale sebopegong; 'dissemblers' ke sebopego sa sekgowa fela"
+    },
+    {
+      "kind": "secret",
+      "subject": "נעלמים",
+      "rationale": "Mantšu a bolela ka go fitlhiwa — batho ba dipharologano tša tša fitlhiwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "מתי שוא",
+      "rationale": "'batho ba lefeela' — šua' ke bofeela bjo bobišago; ba bangwe ba ra 'ba senyegago'"
+    }
+  ],
+  "translation": "Ga se ke ba dula le batho ba lefeela, gomme le ba dipharihading ga ke tsene.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/26\/1-4.1792297443322.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "se ke ba dula"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "batho"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ba lefeela"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "gomme le"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "ba dipharihading"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ke tsene"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:03.323143828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "setšhabeng",
+      "rationale": "העם fa go bolela banna ba Dafida ba bilego; 'setšhaba' ke modumo wa lona"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויפל מן העם",
+      "rationale": "'go wa go tšwa setšhabeng' — lentšu la go 'wa' le bolela lehu la ntweng, sefoko se sa tswalwe"
+    }
+  ],
+  "translation": "Gomme banna ba toropo ba tšwa, ba lwa le ⟨את⟩ Yoabe, gomme ba wa go tšwa setšhabeng, go tšwa bahlanekeng ba Dafida; gomme a hwala gape Uria Mokiti.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "01f9f21ef46f01b11b1e3e1788231c07640dcbabf0c97afa04d493cc9ccd5f09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/11\/17-20.1792289030654.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "ba tšwa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ba toropo"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoabe"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ba wa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhabeng"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "go tšwa bahlanekeng"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ba Dafida"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a hwala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Mokiti"
+    }
+  ],
+  "timestamp": "2026-10-18T02:03:50.655433552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכחשו",
+      "rationale": "KJv 'ba tlogela go mo hlwekisa' (ingoboka) kgahlanong le YLT\/JPS 'ba dumelela ka tšhitišo' goba 'ba nyamela' — sahi e fetola tlhalošo ya temana ka moka."
+    },
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Sepedi e nyaka kopula yeo Seheberu se se se nago go ויהי yo a dirang boikemedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לעולם",
+      "rationale": "Bokao botlogo ke 'seo se fitlago (mokgotlhofo wa mahlo)' — go yaile ke khothofatšo ya nako, e sego 'lefaseng ka moka'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משנאי \/ יכחשו",
+      "rationale": "Go hloilego kgahlanong le go dumelela ka tšhitišo — khwiriri ya boramabe, e lahlegilego ka thallo ya Sepedi."
+    }
+  ],
+  "translation": "Bao ba hloilego Yahwe ba dumelela ka tšhitišo go yena, gomme nako ya bona ⟨e⟩ be go ya ile.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "12a2efc113c2f0e73ace8e5034f28d213375979dd15424622a7abb2dd2fd17a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/81\/16-16.1792305247161.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "bao ba hloilego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ba dumelela ka tšhitišo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "gomme ... e be"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "nako ya bona"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya ile"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:07.162425287Z",
+  "model": "glm-5.3"
+}

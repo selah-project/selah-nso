@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kerube",
+      "rationale": "כרוב ka modumo wa Seheberu — e sego 'malerata' goba maina a mangwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mošomo wa go beta",
+      "rationale": "מקשה bolela se se betwang ka thanthla — mmila wa tše di betwang"
+    }
+  ],
+  "translation": "Gomme o dire kerube tše pedi tša gauta; ka mošomo wa go beta o dire ⟨את⟩ tšena, go dikarolo tše pedi tša kaporete.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6a538aab8ef539fb7265f9d913e442e3bff92a4531a556b0c8f8aad9911bf859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/25\/17-20.1792283016504.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "gomme o dire"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tše pedi"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerube"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tša gauta"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "mošomo wa go beta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o dire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kerube tše pedi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "go dikarolo tše pedi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "tša kaporete"
+    }
+  ],
+  "timestamp": "2026-10-18T00:23:36.504899726Z",
+  "model": "glm-5.3"
+}

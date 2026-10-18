@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "dikgorong tša bošego",
+      "rationale": "אשמרות are the night watches (divisions of the night), not merely 'night'; rendered as time-divisions."
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Direct second-person address to God, remembering and meditating on Him."
+    }
+  ],
+  "translation": "Ge ke gopola wena seteulong sa ka, dikgorong tša bošego ke dumedetše ka wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/63\/5-8.1792297981120.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ke gopola wena"
+    },
+    {
+      "surface": "על",
+      "gloss": "seteulong"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "sa ka"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "dikgorong tša bošego"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ke dumedetše"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:01.121332131Z",
+  "model": "glm-5.3"
+}

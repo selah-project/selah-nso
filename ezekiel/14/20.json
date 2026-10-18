@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 14:20",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke se sengwang — bophelo, se sengwang; 'moya' ke kgetho ya moletlowa, e sego phetollo ya nnete."
+    },
+    {
+      "kind": "crux",
+      "subject": "דנאל",
+      "rationale": "Daniyele wa mafelelo a Ezekiyele — mašwa a re ke Daniyele wa pukwi, ba bangwe ba re ke mongodi wa Ugariti."
+    },
+    {
+      "kind": "addition",
+      "subject": "le",
+      "rationale": "Sepedi e nyaka 'le' go kgobokanya maina a Noa, Daniyele le Jobo."
+    }
+  ],
+  "translation": "le Noa, Daniyele le Jobo ba bo mafejeng a wona mafase a a: Ke a phela, go bolela Adonai Yahwe, ge e le morwa ge e le morwedi, ga ba lokolle; bona ka tsedeke ya bona ba tla lokolla moya wa bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cdc059729c7d46ee6776a1fe0e0ba86577765afc76c7e7a24ebac3f34503a652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/14\/17-20.1792294740885.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "le Noa"
+    },
+    {
+      "surface": "דנאל",
+      "gloss": "Daniyele"
+    },
+    {
+      "surface": "ואיוב",
+      "gloss": "le Jobo"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ba bo mafejeng a wona"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Ke a phela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge e le"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge e le"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwedi"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "ga ba lokolle"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "בצדקתם",
+      "gloss": "ka tsedeke ya bona"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "ba tla lokolla"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moya wa bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:39:00.888405038Z",
+  "model": "glm-5.3"
+}

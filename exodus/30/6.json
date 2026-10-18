@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 30:6",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Kaporete",
+      "rationale": "הכפרת ke khurufelo ya Arene; leina le bolokilwe ka modumo, e sego 'sedumedi sa mohau'."
+    },
+    {
+      "kind": "addition",
+      "subject": "sona",
+      "rationale": "⟨אתו⟩ e supa aletare a temaneng ya 30:1–3; Sepedi e nyaka sereti."
+    }
+  ],
+  "translation": "Gomme o bea ⟨את⟩ sona pele ga seripa seo se lego go Arene ya Bopaki, pele ga Kaporete yeo e lego godimo ga Bopaka, moo ke tla kopana le wena gona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8b6e00aac884210ceacd4f25a5f108db61ed176ab43c081fe6b915267a3f4691",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/30\/5-8.1792283127543.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "omme o bea"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sona (aletare)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "seripa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "Arene"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya Bopaki"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "Kaporete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo e lego"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "Bopaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אועד",
+      "gloss": "ke tla kopana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "gona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:25:27.544683391Z",
+  "model": "glm-5.3"
+}

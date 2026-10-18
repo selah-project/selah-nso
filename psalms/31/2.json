@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 31:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeko",
+      "rationale": "צדקתך e bolokwa bjalo ka tsedeke ka mo go la D2; e swara kutopo ya gago bjalo kahlolo."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Dafida o bolela ka go lebanya le Yahwe ka go ithekga."
+    }
+  ],
+  "translation": "Go goena, Yahwe, ke tshabetše; se ke tla nyefolwa go fihla le ka mokgwa; ka tsedeko ya gago ntshitše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d2a7aaf1490402cc71aefc48c5e7b118fab95d62f37c4f167687c5e8c2a92705",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/31\/1-4.1792297476040.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "go goena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke tshabetše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ke nyefolwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla le ka mokgwa"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ka tsedeko ya gago"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ntshitše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:36.041739920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "araka",
+      "rationale": "ארון ke lepokisi (box), e sego 'araka' ya mehlalo ya ka morago"
+    },
+    {
+      "kind": "elision",
+      "subject": "לקטרת",
+      "rationale": "kgodišo — go fumago (fumigation) go tsewa e le kgodišo ya mušumo"
+    }
+  ],
+  "translation": "O bea ⟨את⟩ aletare ya gauta ya kgodišo pele ga araka ya bopšhedišo, gomme o bea ⟨את⟩ sephiri sa monyako go Mishkane.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6972e9038cb8b99c6e11b2fc1818f1877ae0f15374896d6007bc4b7b2ae62065",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/40\/5-8.1792283490846.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "o bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aletare ya gauta ya kgodišo"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ya gauta"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "ya kgodišo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "araka"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya bopšhedišo"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "gomme o bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sephiri sa monyako"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "sephiri"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "sa monyako"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "go Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-18T00:31:30.846662474Z",
+  "model": "glm-5.3"
+}

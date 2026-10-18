@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 2:33",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אנשים",
+      "rationale": "Adverbial 'as men': KJV 'in the flower of their age', JPS 'die young men', literal 'they shall die men'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bophelo bja gago",
+      "rationale": "נפשך is throat\/life-force, not 'soul'; rendered 'bophelo' (life)."
+    },
+    {
+      "kind": "crux",
+      "subject": "מרבית",
+      "rationale": "'Increase\/abundance (of offspring)': KJV 'increase', JPS 'increase', BSB 'descendants'."
+    }
+  ],
+  "translation": "Gomme monna woo ga ke tlo go mo ntšha go aletare ya ka, go fediša ⟨את⟩ mahlo a gago le go pshafala ⟨את⟩ bophelo bja gago; gomme bokamoso ka bjo bja ntlo ya gago ba tla hwala bjalo ka banna.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "bd6537b0a6538b6c6c0d7d0fe903ec07bad21e437752913b2685e52b74bbff55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/2\/33-36.1792287907148.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Gomme monna woo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אכרית",
+      "gloss": "ke tlo ntšha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "go"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "aletare ya ka"
+    },
+    {
+      "surface": "לכלות",
+      "gloss": "go fediša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahlo a gago"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a gago"
+    },
+    {
+      "surface": "ולאדיב",
+      "gloss": "le go pshafala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo bja gago"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bophelo bja gago"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme ka bjo ka boka"
+    },
+    {
+      "surface": "מרבית",
+      "gloss": "bokamoso"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya gago"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ba tla hwala"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "bjalo ka banna"
+    }
+  ],
+  "timestamp": "2026-10-18T01:45:07.149195352Z",
+  "model": "glm-5.3"
+}

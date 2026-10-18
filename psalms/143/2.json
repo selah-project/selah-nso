@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨le⟩ · ⟨ke⟩",
+      "rationale": "Sepedi se nyaka ⟨le⟩ bakeng sa go thwala ⟨את⟩ mohlanka, le ⟨ke⟩ bakeng sa boemo bja polelo ye e se nago sebopego sa kopula."
+    },
+    {
+      "kind": "crux",
+      "subject": "yo a phelago",
+      "rationale": "כל חי — 'mang le mang wa ba ba phelago' kgathanong le 'motho yo mopi'; Sepedi se kgetha se sengwe sa pele."
+    }
+  ],
+  "translation": "Gomme o se ke wa tsena go kahlolo ⟨את⟩⟨le⟩ mohlanka wa gago, gobane ga ⟨ke⟩ yo a phelago a ka loka pele ga wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/143\/1-4.1792299086182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "gomme o se ke wa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "go kahlolo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mohlanka wa gago"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka wa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "a ka loka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a phelago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:26.183257217Z",
+  "model": "glm-5.3"
+}

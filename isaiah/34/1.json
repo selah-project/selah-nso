@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 34:1",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ditšhaba",
+      "rationale": "Mantšu a go bitsa — ditšhaba le merafe a laelwa go atologa le go kwa."
+    },
+    {
+      "kind": "you",
+      "subject": "to ditšhaba le merafe",
+      "rationale": "Mošomo wa go bitša o lebega go ya go ditšhaba tše dikgoba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lefase-kamoka",
+      "rationale": "תבל ke lefase leo le nago le meetse le batho — mokgwa o mongwe wa go bolela lefase ka moka, fapanego le הארץ."
+    }
+  ],
+  "translation": "Atologeng, lona ditšhaba, go kwa; gomme lona merafe, thekgomologang: lefase le tla kwa, le tlatšo ya lona, le lefase-kamoka le tšego tše tlago tšwa go lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d8f45b3900e259ba86a508dc047b78886e00c0c8918568f5d218f775186c69f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/34\/1-4.1792291986585.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "atologeng"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "go kwa"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "gomme merafe"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "thekgomologang"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "e tla kwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "gomme tlatšo ya yona"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefase-kamoka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme ka moka"
+    },
+    {
+      "surface": "צאצאיה",
+      "gloss": "tšego tša yona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:53:06.585931860Z",
+  "model": "glm-5.3"
+}

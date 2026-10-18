@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואתקוטטה",
+      "rationale": "'ka hlofa bohloko' (KJV) kgatlhanong le 'ka ba ganela' (JPS); modu wa tlhago wa go tloga o nyametše."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בגדים",
+      "rationale": "modu ke 'ba ba iphitlago, ba bologago' — 'bafofoloji' ke sebopego sa maemo."
+    }
+  ],
+  "translation": "Ke bone bafofoloji, gomme ka hlofa bohloko, gobane lentšu la gago le ga la le boloka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ebceea0ab5e72f3b307cc5c217ad32df22e7a88725dc4c7454dd564e18f12351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/157-160.1792298866340.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ke bone"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "bafofoloji"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "gomme ka hlofa bohloko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lentšu la gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "la le boloka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:46.341533573Z",
+  "model": "glm-5.3"
+}

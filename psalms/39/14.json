@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השע ממני",
+      "rationale": "'Shefa kgakala le nna' (JPS\/BSB) kgathanong le 'nkatola' (KJV\/ASV) — šupišo ya go shefa ka tshepo ya thušo goba ya kotlo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ואבליגה",
+      "rationale": "Lentšu le hlalosa go ikantsha\/go phologa; 'ke nwe' e hlahlama go phumula ga pelo, e sego tlhalo ya sela"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Boikokobetši bja mafelelo bja thapelo, bo lebišitšwe go Yahwe"
+    }
+  ],
+  "translation": "O sefishe mahlo ⟨a gago⟩ go tšwa go nna, gore ke nwe, pele ga ke sepela ke siye gomme ke se sa lego gona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "32dda2c6d6aa40aa90750d9eeee234d260e80059d32e31ad366d758851fa307d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/39\/13-14.1792297653941.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "O sefishe mahlo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tšwa go nna"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "gore ke nwe"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke sepela ke siye"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "gomme ke se sa lego gona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:33.942419951Z",
+  "model": "glm-5.3"
+}

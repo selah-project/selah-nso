@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 9:19",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "yo a ka nkaleditšego",
+      "rationale": "יועידני: 'a ka ntsepetša nako ya kgwerano' (KJV) goba 'a ka nkgetha kgahlanong' — dihlogo tše pedi tša diphetoło"
+    },
+    {
+      "kind": "addition",
+      "subject": "kudu",
+      "rationale": "Sepedi e nyaka go matla kudu go hlalosa אמיץ, Seheberu se na le maatla fela"
+    }
+  ],
+  "translation": "Ge e le maatla — bona, o matla kudu; gomme ge e le kahlolo — ke mang yo a ka nkaleditšego?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "07b33aa8a154ded95739151868aa7cc156a380364261a8efa00d1e783b2a5cf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/9\/17-20.1792300168869.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge e le"
+    },
+    {
+      "surface": "לכח",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "אמיץ",
+      "gloss": "o matla kudu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge e le"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יועידני",
+      "gloss": "a ka nkaleditša"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:28.870346678Z",
+  "model": "glm-5.3"
+}

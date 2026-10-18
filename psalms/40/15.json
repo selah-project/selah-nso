@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 40:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke moya wa bophelo \/ sephego, e sego 'moya' wa ka moso."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויכלמו",
+      "rationale": "Boineledi bja go boela gape: manyalo gabedi ka tsela e swanago, se se laelwa ka 'a tlabišwe' gabedi."
+    }
+  ],
+  "translation": "A tlabišwe gomme a makwe mmogo, ba nyakago bophelo bja ka go bja fedisa; a kgutlele morago gomme a hlaje, ba ratago mabe a ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "90e1d07c3789c542296e930d0b41d682eedc356d76093ade40831584ea87da5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/40\/13-16.1792297695291.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "a tlabišwe"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "gomme a makwe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ba nyakago"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja ka"
+    },
+    {
+      "surface": "לספותה",
+      "gloss": "go bja fedisa"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "a kgutlele"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morago"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "gomme a hlaje"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "ba ratago"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mabe a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:15.292302165Z",
+  "model": "glm-5.3"
+}

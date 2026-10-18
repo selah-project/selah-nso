@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 4:10",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Joeli 4:10 kgahlanong le Jesaja 2:4",
+      "rationale": "Deliberate reversal of Isaiah's swords-into-plowshares: here plowshares beat into swords."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתיכם",
+      "rationale": "Strong's lemma lists 'hoe', but context and the Isaiah mirror fix it as plowshares (מחרשות elided with אתיכם)."
+    }
+  ],
+  "translation": "Thulang difala tša lena go ba ditšhoša, le diripa tša lena go ba dirumo; yo a foletšego a re: Ke mogale.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0997044e2f77a740ce21012aa8c88b8e0770f48280e91573ed9e7b6531fd3d9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/4\/9-12.1792296155687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתו",
+      "gloss": "thulang"
+    },
+    {
+      "surface": "אתיכם",
+      "gloss": "difala tša lena"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "go ba ditšhoša"
+    },
+    {
+      "surface": "ומזמרתיכם",
+      "gloss": "le diripa tša lena"
+    },
+    {
+      "surface": "לרמחים",
+      "gloss": "go ba dirumo"
+    },
+    {
+      "surface": "החלש",
+      "gloss": "yo a foletšego"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "mogale"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    }
+  ],
+  "timestamp": "2026-10-18T04:02:35.687915921Z",
+  "model": "glm-5.3"
+}

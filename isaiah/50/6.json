@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "למרטים",
+      "rationale": "Poelo ya רטט (go hlunya) e hlaga fela mo, temaneng ye; mehlala ye mengwe e hlalosa 'go hlunya merogo' goba 'go tshela'"
+    },
+    {
+      "kind": "crux",
+      "subject": "למרטים",
+      "rationale": "Bamphetoli ba fapana: 'bao ba ntšhago mesi' (KJV, boswa bja sekgoa) kgatlhanong le 'bao ba hlunyago' goba 'bao bago tshenya letlalo' (leshoma la lesupi la merogo)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go mogoga",
+      "rationale": "ורק ke selo se se tletšego (matšhe) e sego mogote fela; go mogoga se ra 'go ntšha mogoga' e le mošomo"
+    }
+  ],
+  "translation": "Mokwa wa ka ke o file bao ba otlang, le mahlogo a ka bao ba hlunyago ⟨sephuthelwana⟩; sefahlego sa ka ga ke a se uta go tlhaešo le go mogoga.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a24425a2535abc8f4edde40d3e7caeab9575c5a4bd10d8957d65b502ce7a208a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/50\/6-7.1792305072080.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "mokwa wa ka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke o file"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "bao ba otlang"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "le mahlogo a ka"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "bao ba hlunyago"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlego sa ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "ke a uta"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "go tlhaešo"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "le go mogoga"
+    }
+  ],
+  "timestamp": "2026-10-18T06:31:12.081024629Z",
+  "model": "glm-5.3"
+}

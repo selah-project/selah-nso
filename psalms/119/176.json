@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "seek your servant",
+      "rationale": "imperative addressed to Yahwe at the close of the psalm — the strayed sheep asks the Shepherd to seek it"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תעיתי \/ אבד",
+      "rationale": "the verbs of straying and perishing double in Hebrew; 'lost' carries both 'wandering' and 'perishing'"
+    }
+  ],
+  "translation": "I went astray like a lamb that got lost; seek your servant, for I have not forgotten your commandments.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5b6c1377900306498507ee58d5e01ffb1eaeb1e06fce45590d09f9e60bbabc50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/173-176.1792298833956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "I went astray"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "like a lamb"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "that got lost"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "seek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "your servant"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "your commandments"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "I have forgotten"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:13.957660414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mo bea godimo",
+      "rationale": "תשגבני ke 'go bea godimo, go dira gore o se ke wa fihlelelwa' — se se latelago (protect) ke phetolelo fela."
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Peadiso ya go kopa thušo go Elohim ka mo直接的 address."
+    }
+  ],
+  "translation": "Ntšha me go banaba ba ka, Elohim ya ka; mo bea godimo go ba ba emago kgahlanong le nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/59\/1-4.1792297916371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ntšha me"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "go banaba ba ka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "go ba ba emago kgahlanong le nna"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "mo bea godimo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:56.372273229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Shoshanim",
+      "rationale": "למנצח על שושנים ke sešo sa kosese; Shoshanim (di-lily) goba leina la mmino — le bolokwa ka modumo wa lona"
+    },
+    {
+      "kind": "hapax",
+      "subject": "Shoshanim",
+      "rationale": "Sešo se sa mmino se swanetše go dula bjalo ka leina, se sa fetolelwe"
+    }
+  ],
+  "translation": "Go molaodi, go ya ka Shoshanim, ya Dafida.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/69\/1-4.1792298072941.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go molaodi"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "Shoshanim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:32.941713345Z",
+  "model": "glm-5.3"
+}

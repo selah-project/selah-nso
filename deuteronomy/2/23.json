@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 2:23",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בחצרים",
+      "rationale": "KJV e bea leina la lefelo (Hazerim); ASV\/JPS di bea 'dikgoro-tharo' (chatserim) — mo ke leina la lefelo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Khaftori",
+      "rationale": "Ba-Khaftori ke bo mmapeli ba Pelesete (Amose 9:7) — Seheberu se sa bolele 'Bapelesete' fela."
+    }
+  ],
+  "translation": "Gomme ba-Avvi, ba dulago go Khatsere, go fihlela Aza — ba-Khaftori, ba tšwago go Khaftor, ba ba timetšitše, gomme ba dule legaong la bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "46328a2d34770af900396ff48af963ebc9cc0f729f73c6a42044d0a7bf657e8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/2\/21-24.1792285545486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "Gomme ba-Avvi"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ba dulago"
+    },
+    {
+      "surface": "בחצרים",
+      "gloss": "go Khatsere"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "ba-Khaftori"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "ba tšwago"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "go Khaftor"
+    },
+    {
+      "surface": "השמידם",
+      "gloss": "ba ba timetšitše"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "gomme ba dule"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "legaong la bona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:05:45.487470131Z",
+  "model": "glm-5.3"
+}

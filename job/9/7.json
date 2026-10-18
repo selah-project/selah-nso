@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ובעד",
+      "rationale": "Mošomo wa 'go swana le' o ne o nyamiwa; Sepedi o sa nyakega mo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a di tswalela",
+      "rationale": "חתם semela 'go kgomora ka setempe'; 'go tswalela' e bolokela seswantšho sa go kwala ka mokgwa wa setempe"
+    }
+  ],
+  "translation": "Yo a bolelelago letšatši, gomme le sa phunyeletša, gomme dinaledi a di tswalela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/9\/5-8.1792300132152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "yo a bolelelago"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "le phunyeletše"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "dinaledi"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "a di tswalela"
+    }
+  ],
+  "timestamp": "2026-10-18T05:08:52.153763557Z",
+  "model": "glm-5.3"
+}

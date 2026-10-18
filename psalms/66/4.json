@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bophara⟩",
+      "rationale": "Sepedi e nyaka thlaloso ye Seheberu se sa e thwego."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Selah — seka sa mmino, e bolokwa e sego ya fetolelwa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויזמרו \/ יזמרו",
+      "rationale": "Go opela ga boeledwa gatee-tee — merodi ya mmino e a boutšwa."
+    }
+  ],
+  "translation": "Lefase ka ⟨bophara⟩ tla go ikobamela, gomme ba tla go opela, ba tla opela leina la gago. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b1a7f2ef87df232157658b0047ad671fbd7c46dccc167f0b2676a262b8f74fdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/66\/1-4.1792297987805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase ka bophara"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "tla go ikobamela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "gomme ba tla opela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ba tla opela"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:07.806792581Z",
+  "model": "glm-5.3"
+}

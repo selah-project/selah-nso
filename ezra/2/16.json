@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "Palo ya bophara bja lapa la Atere."
+    },
+    {
+      "kind": "crux",
+      "subject": "ליחזקיה",
+      "rationale": "Lamed e bolela go ya go Khizkiyaha — e ka ba bana ba khudu ya Khizkiyaha goba ba ba ilego go yena."
+    }
+  ],
+  "translation": "Bana ba Atere, ba ya go Khizkiyaha, masomesenyane le seswai (98).",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9bfb3cd24446c6adbb2d836c5d586827acf48ffc7d37c1d15f8c76a38acacdd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/2\/13-16.1792302104521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Atere"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "ba ya go Khizkiyaha"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "masomesenyane"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "le seswai"
+    }
+  ],
+  "timestamp": "2026-10-18T05:41:44.522861452Z",
+  "model": "glm-5.3"
+}

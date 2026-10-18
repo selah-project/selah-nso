@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ענו... זמרו",
+      "rationale": "Plural imperatives summoning the congregation to sing."
+    },
+    {
+      "kind": "crux",
+      "subject": "ענו",
+      "gloss-context": "Same verb as 'answer' — YLT 'Answer ye' vs KJV 'Sing'; here taken as 'sing\/respond in praise'."
+    }
+  ],
+  "translation": "Binkang go Yahwe ka teboho, binang go Elohim wa rena ka kinora.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/147\/5-8.1792299109025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Binkang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ka teboho"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "binang"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "go Elohim wa rena"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kinora"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:49.026019681Z",
+  "model": "glm-5.3"
+}

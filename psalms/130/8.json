@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dibe",
+      "rationale": "עון e bolela go feta molao — sebe go Sepedi ke lentšu le legolo la sone"
+    }
+  ],
+  "translation": "Gomme o tla hlakola ⟨את⟩ Yisraele go tšwa dibe tša gagwe ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/130\/5-8.1792298942801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "gomme o"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "o tla hlakola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tšwa ... ka moka"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "dibe tša gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:02.802797277Z",
+  "model": "glm-5.3"
+}

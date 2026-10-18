@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a nnetefatša go swa",
+      "rationale": "חרש tlhakoreng e 'go boka ka sehubi' — go nnetefatša go swa go phepafalitše modumo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "phefo ya makhubu",
+      "rationale": "נשערה ke go foka ga phefo ya makhubu — mo e šumišitšwe bjalo ka sebopego sa go ithekga"
+    }
+  ],
+  "translation": "Elohim wa rena o tla, gomme a se ke a nnetefatša go swa; mollo o tla ja pele ga yena, gomme go dikologa ga gagwe go tla bo goba phefo ya makhubu kudu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5b333b4986641e72bb7a769ca2765e7ff3ef82c51e3d22486fb9a306a4389c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/50\/1-4.1792297807899.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "o tla"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rena"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme a se ke"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "a nnetefatša go swa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ga yena"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "o tla ja"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "gomme go dikologa ga gagwe"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "go tla bo goba phefo ya makhubu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:07.900717687Z",
+  "model": "glm-5.3"
+}

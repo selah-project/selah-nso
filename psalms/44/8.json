@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "manaba",
+      "rationale": "צרינו (m\/tsar) le go mo hlama go 44:6 go swana — lentšu le tee, manaba"
+    },
+    {
+      "kind": "elision",
+      "subject": "דבר ya go bolela",
+      "rationale": "Sebopego sa Seheberu se šomiša sebopego sa tšwaelo; Sepedi se nyaka go lokollova gabotse"
+    }
+  ],
+  "translation": "Ka gobane o re lokollotše go manaba ba rena, gomme bao ba re hloilego o ba tshweditše manyeri.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/44\/5-8.1792297665585.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "o re lokollotše"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "go manaba ba rena"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "gomme bao ba re hloilego"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "o ba tshweditše manyeri"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:45.587184556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gomme",
+      "rationale": "vav e latela lefoko la pele ka sebopego sa go dira ga lle ka mehla"
+    },
+    {
+      "kind": "substitution",
+      "subject": "se se kgethwago",
+      "rationale": "קדוש: bokgethwa go ya ka D2 — e sego halalela ya Sesotho"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "'ge' (boemo) kgahlanong le 'ka gobane' (selo) — barutiwa ba fapana"
+    }
+  ],
+  "translation": "Yahwe o tla go tsenya go ba setšhaba se se kgethwago bakeng sa yena, bjalo ka ge a ile a lapa ka wena, ge o boloka ⟨את⟩ melao ya Yahwe Elohim wa gago gomme o sepela ditseleng tša gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "83072a6556856f2537f196013010f5976a07257fa270e47aa1d5312436835098",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/28\/9-12.1792286246001.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "o tla go tsenya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bakeng sa yena"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "go ba setšhaba"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "se se kgethwago"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a ile a lapa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "o boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "melao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "gomme o sepela"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ditseleng tša gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:17:26.001982621Z",
+  "model": "glm-5.3"
+}

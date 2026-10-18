@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "opelang ... bjalang",
+      "rationale": "Sefoko sa go laela sa go opela koša ye mpsha le go bina ka bokgoni."
+    },
+    {
+      "kind": "substitution",
+      "subject": "היטיבו נגן",
+      "rationale": "Mašoleding: 'dira gabotse go bina' — היטיבו e bolela 'go dira ka botse', נגן e bolela go kgwatha mela ka menwana."
+    }
+  ],
+  "translation": "Opelang go yena koša ye mpsha; bjalang ka bokgoni ka sehu sa thabo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f9ffe45fb34d931b0cbbb06d4112e266f1b27b006bca2088bcc7503e8e40fae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/1-4.1792297544980.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "opelang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "koša"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ye mpsha"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "bjalang ka bokgoni"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "go bina ka sehupetlo"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ka sehu sa thabo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:44.981392882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "התנשמת",
+      "rationale": "Sepedi: 'ye tshweu' (swan\/KJV, white owl\/BSB, horned owl\/ASV) — lentšu le ka bolela gape lentšu la gagabadi (lizard, Lev 11:30)"
+    },
+    {
+      "kind": "crux",
+      "subject": "הכוס",
+      "rationale": "Nonyana ya bosigo — 'little owl' go feta 'cup' (bolelo bja motheo bja lentšu)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maina a dinonyana",
+      "rationale": "Maina a Seheberu a dinonyana tše di ganwago a sa tepa nyaka; dipheto tša Sepedi ke melaometoro, e sego maina a tlwaelegilego"
+    }
+  ],
+  "translation": "⟨את⟩ nonyana ya bosigo ye nnyane le ⟨את⟩ ye kgolo, le ye tshweu;",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "cc43782db0885537c44cc4784fe24b862620d310dae40f343e6f16144b3a3bd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/14\/16-16.1792304734313.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonyana ya bosigo ye nnyane"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "nonyana ya bosigo ye nnyane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "nonyana ya bosigo ye kgolo"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "nonyana ya bosigo ye kgolo"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "gomme ye tshweu"
+    }
+  ],
+  "timestamp": "2026-10-18T06:25:34.313385561Z",
+  "model": "glm-5.3"
+}

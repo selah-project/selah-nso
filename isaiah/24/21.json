@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 24:21",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפקד",
+      "rationale": "'go etela' e beja ka go lego molemo goba mabe — go etela bakeng sa kotlo (KJV 'punish') kgahlanong le go etela go hlankanela; lentšu le tee la Seheberu le bolela ka bobedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "צבא המרום",
+      "rationale": "'sesole sa bogodimo' — kgauswi-kgauswi e agelwa magodimo (badika goba medimo ya magodimo), e sego dikgoši tša lefase fela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המרום במרום \/ האדמה על האדמה",
+      "rationale": "Kgutšo ya go busediša: godimo-godimo, lefase-lefaseng — sebopego se se latelwago ka moka thutong ya 'go etela'."
+    }
+  ],
+  "translation": "Gomme go tla direga ka letšatši leo, Yahwe a tla etela ⟨את⟩ sesole sa bogodimo godimo, le dikgoši tša lefase lefaseng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5bd407e41a4c5bcb7b224619115997a500d58beccf0366649f8bc4f8da970e05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/24\/21-23.1792291681197.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla direga"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "a tla etela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "המרום",
+      "gloss": "sa bogodimo"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "godimo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le godimo ga"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "tša lefase"
+    },
+    {
+      "surface": "על",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T02:48:01.198189823Z",
+  "model": "glm-5.3"
+}

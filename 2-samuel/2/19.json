@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 2:19",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a leka go tšwela pele ka morago",
+      "rationale": "וירדף ya go hlaga 'go sala motho ka maoto ka maikemišetšo a mabifi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "repetition",
+      "rationale": "Go boelelwa ga leina 'Abenere' ga raro go bontšha go tiile ga go leka ga Asahele"
+    }
+  ],
+  "translation": "Gomme Asahele a leka go tšwela pele ka morago ga Abenere, a sa iketla go sepela go la moja goba go la molema, a sa ikgogela morago go tšwa morago ga Abenere.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c28a566c5fdf074f533b833d279cb854bd01334aa90bec5f11eda3d67e606303",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/2\/17-20.1792288898370.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "a leka go tšwela pele ka morago"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asahele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abenere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "iketla"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go sepela"
+    },
+    {
+      "surface": "על",
+      "gloss": "go la"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "moja"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "goba go la"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "molema"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "go tšwa morago ga"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abenere"
+    }
+  ],
+  "timestamp": "2026-10-18T02:01:38.371678899Z",
+  "model": "glm-5.3"
+}

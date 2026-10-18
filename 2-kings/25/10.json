@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רב טבחים",
+      "rationale": "Ka botlalo 'mogolo wa badubudi' (badubudi ba kgoši, maphodisa a kgoši ya Babilona); 'molaodi wa masole' ke kgopolo, e sego se senepe sa lentšu la Seheberu."
+    },
+    {
+      "kind": "addition",
+      "subject": "gomme",
+      "rationale": "ו ya kopanyi e fetošitšwe go ba 'gomme' — Sepedi e e nyaka go somagana ga mašaledi."
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ marako a Yerushalayime a go dikologa, masole ka moka a Bakasdi, ao a nago le molaodi wa masole, a a thubile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/25\/9-12.1792291145469.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Gomme ⟨את⟩",
+      "marks": "marako a Yerushalayime"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "marako"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayime"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "a go dikologa"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "a a thubile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "masole"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "a Bakasdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "רב",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa masole"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:05.470811718Z",
+  "model": "glm-5.3"
+}

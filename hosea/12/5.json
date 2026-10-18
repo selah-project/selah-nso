@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמנו",
+      "rationale": "Sepedi o bolela le rena 'o bolela le rena' — diseta ya thato: sebopego sa sesothumo se bolela ya go se tsejwe goba nakong e fetilego."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moemeli",
+      "rationale": "מלאך ke moemeli — leina le bolela morwelwa, e sego sebopego sa moya fela."
+    },
+    {
+      "kind": "elision",
+      "subject": "אל (Bethele)",
+      "rationale": "Bethel ke leina le kopantšwego (בית־אל); thini ya bobedi e sa fetolego, e hlagišwa ka leina le tee."
+    }
+  ],
+  "translation": "Gomme o ile a lwantšha le moemeli, a fenya; o ile a lela, a mo lopedisa; Bethele o mo hweditše, gomme moo o bolela le rena —",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "298093ac566ff5b31945d7720608d7ca5db7a9700343f66a0023643e94079254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/12\/5-8.1792296021543.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "a lwantšha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "moemeli"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "a fenya"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "o ile a lela"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "a mo lopedisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Bethele)"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "o mo hweditše"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "gomme moo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o bolela"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "le rena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:00:21.543631294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קדש",
+      "rationale": "'bokgethwa' go ya ka D2 — se kgethwa bakeng sa Elohim, e sego 'halalela' ya Sesotho."
+    }
+  ],
+  "translation": "Ka gobane yobele ke yona, e tla ba bokgethwa go lena; go šashe le je ⟨את⟩ sehlolo sa yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9c3360af99f28ed494964a26737d076c89e5bc4552227a53ddbf154e20495d0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/25\/9-12.1792284265074.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "yobele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lena"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "šashe"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le je"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlolo sa yona"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sehlolo sa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:44:25.075607675Z",
+  "model": "glm-5.3"
+}

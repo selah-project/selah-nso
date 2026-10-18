@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עודני",
+      "rationale": "Root עוּד: 'wrapped\/surrounded me' vs 'robbed me' (KJV); the twisted-cord picture fits 'surrounded'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חבלי",
+      "rationale": "חבל means both 'cord' and 'pain\/band' — the rope image doubles as suffering, lost in Sepedi."
+    }
+  ],
+  "translation": "Dikgokgo tša ba fošagetšeng di phuthetše me; Torah ya gago ga e ka ke ya e lahlela ke gopola.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e444bba5aa249d029a8be610aad1dc0f13a0206eda6a5444bf22799cbdfac3a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/61-64.1792298865022.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "dikgokgo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba fošagetšeng"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "di phuthetše me"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ke lahlile go gopola"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:45.023422362Z",
+  "model": "glm-5.3"
+}

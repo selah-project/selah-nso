@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 39:8",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩ ⟨selo⟩",
+      "rationale": "Hebrew ונהיתה is bare 'and it shall come to pass'; Sepedi needs the copula 'ke' and object 'selo' to stand"
+    },
+    {
+      "kind": "mystery",
+      "subject": "e a tla",
+      "rationale": "The unnamed 'it' — the day of YHWH's judgment — is withheld, deliberate opacity"
+    }
+  ],
+  "translation": "Bonang, e a tla gomme e tla ba ⟨ke⟩ ⟨selo⟩ seo ke se boletšego, go bolela Adonai Yahwe; e ke letšatši leo ke le boletšego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "772630f52476ff9fa725625d5c7816880788f4446f00e25fe9c72bc5534c4074",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/39\/5-8.1792295521818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "באה",
+      "gloss": "e a tla"
+    },
+    {
+      "surface": "ונהיתה",
+      "gloss": "gomme e tla ba ⟨ke⟩ ⟨selo⟩ seo ke se boletšego"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ke letšatši leo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ke le boletšego"
+    }
+  ],
+  "timestamp": "2026-10-18T03:52:01.820412627Z",
+  "model": "glm-5.3"
+}

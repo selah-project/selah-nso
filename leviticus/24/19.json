@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leswao",
+      "rationale": "מום — leswao la mmele, sebopego se senyegilego; e sego 'sebe'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "motho wa sehlano",
+      "rationale": "עמית — mošomi\/moahlodi wa leloko le tee, wa sehlano, e sego mogwara ka moka"
+    }
+  ],
+  "translation": "Gomme ge motho a bea leswao mothong wa gagwe wa sehlano, bjalo ka ge a dirile, gomme bjalo go tla dirwa go yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "eb6af1bfa56ffa5d9cb8971dfa10b84923673b11e7455c74754d0018e56990da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/24\/17-20.1792284202352.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "gomme ge motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "מום",
+      "gloss": "leswao"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "mothong wa gagwe wa sehlano"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dirile"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gomme bjalo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "go tla dirwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:43:22.353195669Z",
+  "model": "glm-5.3"
+}

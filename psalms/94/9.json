@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלא ישמע",
+      "rationale": "lit. 'not he-will-hear' — rhetorical negation question rendered 'na a ka se kwe?' (will he not hear?)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mould",
+      "rationale": "יצר is the potter's word — 'to mould into form'; 'go bopa' (create\/shape) keeps the picture"
+    }
+  ],
+  "translation": "Yo a balago letheka, na a ka se kwe? Goba yo a bopago leihlo, na a ka se lebelela?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e44314235dd6f7e33bfd17834b872df97f0fc478f6b1ca676f0faca882961b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/94\/9-12.1792298477513.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "yo a balago"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "letheka"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "a ka se kwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "goba"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "yo a bopago"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leihlo"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "na"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "a ka se lebelela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:17.514395082Z",
+  "model": "glm-5.3"
+}

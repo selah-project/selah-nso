@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יראיו",
+      "rationale": "Bontši le botee: bao ba mo segofolego (ya gagwe) kgahlanong le bao ba go segofolega — mantšu a Seheberu a na le bobedi"
+    },
+    {
+      "kind": "elision",
+      "subject": "אשלם",
+      "rationale": "Go phetha malerole — modu wa go fetola ka thwii; Sepedi o nyaka mošomo wa go phetha"
+    }
+  ],
+  "translation": "Go tšwa go wena ⟨את⟩ ke tšhupetšo ya ka, ka phuthegong ye ntsši; malerole a ka ke a phetha pele ga bao ba mo segofolego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4df5f04c40c6ad3ae0f74ea943d94bb3a26c4c992f4dae44889f78027123e5bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/22\/25-28.1792297369864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "go tšwa go wena ⟨את⟩",
+      "marks": "tšhupetšo ya ka"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "tšhupetšo ya ka"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ka phuthegong"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ye ntsši"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "malerole a ka"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ke a phetha"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "bao ba mo segofolego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:49.865554852Z",
+  "model": "glm-5.3"
+}

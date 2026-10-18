@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "gare ga mantsiboa a mabedi",
+      "rationale": "בין הערבים: idiom ya 'gare ga mantsiboa a mabedi' (go theoga ga letsatsi go fihla go phiri); di-phethollo tše dintši di re 'mafedisegobo'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu ga se na kopula; poleloana ya Sesotho-phethollo e e nyaka"
+    },
+    {
+      "kind": "measurement",
+      "subject": "la lesomenne la kgwedi",
+      "rationale": "Palo ya letšatši la mokete — kgwedi ya pele, la lesomenne"
+    }
+  ],
+  "translation": "Kgweding ya pele, ka la lesomenne la kgwedi, gare ga mantsiboa a mabedi, ⟨ke⟩ Paseka ya Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "aaddea67b567a03f02648c5bab695ddf236514b61cd15164fc86a80f7f406873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/23\/5-8.1792284187043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "kgweding"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya pele"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "la nne"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "mantsiboa a mabedi"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:43:07.043777307Z",
+  "model": "glm-5.3"
+}

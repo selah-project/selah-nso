@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אספרנה",
+      "rationale": "safar le kotsa 'go bala ka go sega matšwitšwi' — go balela khwithi; phetolelo e bolokile ponagalo ya go bala"
+    },
+    {
+      "kind": "crux",
+      "subject": "נוראתיך",
+      "rationale": "'ya go tšhogisa' kgahlanong le 'ya go tšhologa' — yare' e bolela mahlano a go tšhaba le go tšhompha"
+    }
+  ],
+  "translation": "Gomme maatla a mediro ya gago ya go tšhogisa ba e bolela, gomme bogolo bja gago ke bja go bala ka moka",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/145\/5-8.1792299090333.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "gomme maatla a"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "mediro ya gago ya go tšhogisa"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba e bolela"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "gomme bogolo bja gago"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "ke bala ka moka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:30.334360261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Aleph-tav e ka mehla e bolokwa; mo e swara Yaakobo"
+    },
+    {
+      "kind": "you",
+      "subject": "go Elohim",
+      "rationale": "Polelo ye e bolelela go Elohim, ye a bitšwago kgoši"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tokologo",
+      "rationale": "ישועות ke bontši — dithokollo, e sego tokologo e tee"
+    }
+  ],
+  "translation": "Ke wena, kgoši ya ka, Elohim; laela tokologo ya ⟨את⟩ Yaakobo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e52cd2837ffbe59a8196daa5239e07cb97b990c377c88d197418130afd947f55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/44\/5-8.1792297665585.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ke wena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "o"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kgoši ya ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "laela"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "tokologo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:45.586464224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tše sekete",
+      "rationale": "אלף: 'dikgomo' (ya sehlopha) goba 'sekete' — barwaledi ka bontši ba kgetha 'thousand hills', ylt e kgetha 'hills of oxen'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "diruiwa",
+      "rationale": "בהמות fa e bolela diphoofolo tša naga ka moka, e sego diruiwa tša gae fela"
+    }
+  ],
+  "translation": "Ka gobane ke ya me diphoofolo ka moka tša sehlaka, le diruiwa tša dithabeng tše sekete.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d77fd03860119589c1943f3bab0ac4f0aff142a3d3b27d6235dae13d87fd5c06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/50\/9-12.1792297760000.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke ya me"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "diphoofolo"
+    },
+    {
+      "surface": "יער",
+      "gloss": "tša sehlaka"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "diruiwa"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "tša dithabeng"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "tše sekete"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:20.000967762Z",
+  "model": "glm-5.3"
+}

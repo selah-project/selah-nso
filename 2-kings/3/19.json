@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 3:19",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "setšhaba",
+      "rationale": "עיר e bolela 'setšhaba' mo e bolela motse; 'motse' o ka ba khutšo fela, setšhaba ke lentšu la Sepedi la motse o moholo"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבחור",
+      "rationale": "mokgwa wa go kgethwa — 'motse o kgethwego' kgathanong le 'motse o matla'; mabapi le mafoko a mengwe a mabapa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תכאבו",
+      "rationale": "כאב e bolela go hlova bohloko — mo e bolela go senya lefase ka maswika; 'go senya' ke go hlova lefase"
+    }
+  ],
+  "translation": "Gomme le tla oka setšhaba sotle sa ditaletala, le setšhaba sotle se se kgethwego; le tla waša mohlare sotle wa mokone, le tla tswalela ditšhupadikgwedi tšhle tša meetse; gomme le tla senya letshwao sotle le lebotse ka maswika.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/3\/17-20.1792290473960.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והכיתם",
+      "gloss": "gomme le tla oka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotle"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "sa ditaletala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme sotle"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "מבחור",
+      "gloss": "se se kgethwego"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mohlare"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sotle wa mokone"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "le tla waša"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "ditšhupadikgwedi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tša meetse"
+    },
+    {
+      "surface": "תסתמו",
+      "gloss": "le tla tswalela"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "החלקה",
+      "gloss": "letshwao"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "le lebotse"
+    },
+    {
+      "surface": "תכאבו",
+      "gloss": "le tla senya"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ka maswika"
+    }
+  ],
+  "timestamp": "2026-10-18T02:27:53.961409630Z",
+  "model": "glm-5.3"
+}

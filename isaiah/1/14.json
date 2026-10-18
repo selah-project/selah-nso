@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 1:14",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke «mokgwa wa maphelo \/ phello ya moya», e sego «moya» ka botlalo — lentšu le le botse eupša le sego se feletšego."
+    },
+    {
+      "kind": "you",
+      "subject": "go setšhaba sa Yuda",
+      "rationale": "Mantšu a ka kua go setšhaba ka bobedi bja bontši («tša gago»)."
+    }
+  ],
+  "translation": "Dikgwedi tša gago tše di mpsha le meletlo ya gago — o di hloyatše moya ⟨wa ka⟩; di bile go nna morwalo; ke lapile ke go di rwala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "73ed1ea18f0718ea45a855b2741b8529c87f98fe544dfc20a84a4abff79d7ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/1\/13-16.1792291169195.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חדשיכם",
+      "gloss": "dikgwedi tša gago tše di mpsha"
+    },
+    {
+      "surface": "ומועדיכם",
+      "gloss": "gomme meletlo ya gago"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "o di hloyatše"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya ⟨wa ka⟩"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di bile"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לטרח",
+      "gloss": "morwalo"
+    },
+    {
+      "surface": "נלאיתי",
+      "gloss": "ke lapile ke"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "go di rwala"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:29.196040035Z",
+  "model": "glm-5.3"
+}

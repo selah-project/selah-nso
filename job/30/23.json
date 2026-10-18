@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 30:23",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nna",
+      "rationale": "Seheberu se na le tlatlaro ya lentšu ka tlase ga sephekgoši sefele (suffix -ni), e hlaotšwego bjalo ka ⟨nna⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "la kgethilwego",
+      "rationale": "בית מועד: 'legae la kgethilwego\/la nako e kgethilwego' — senepe sa legae la molao, e sego nate"
+    },
+    {
+      "kind": "elision",
+      "subject": "לכל חי",
+      "rationale": "gloss ya go fapana: 'go ba phelago ka moka' e phatlalatša מועד le לכל"
+    }
+  ],
+  "translation": "Gore ke tseba gore o tla kgutlisa ⟨nna⟩ go lehu, legaeng leo le kgethilwego go ba phelago ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1f56baa33c094ec857824903ef203d3602fadcb434be39cdd4b31f39a1d8f10f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/30\/21-24.1792300608306.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke tseba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lehu"
+    },
+    {
+      "surface": "תשיבני",
+      "gloss": "o tla kgutlisa nna"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "gomme legae"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "la kgethilwego"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ba phelago ka moka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ba phelago"
+    }
+  ],
+  "timestamp": "2026-10-18T05:16:48.307662367Z",
+  "model": "glm-5.3"
+}

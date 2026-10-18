@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נבוב לחת",
+      "rationale": "'e se nago sephaetharing, ka maboto' — diphetho tše dingwe: 'hollow with boards' (KJV) kgahlanong le 'e dirilwe ka maboto, e se nago sephaetharing' (BSB)"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba e dirago",
+      "rationale": "יעשו ke bontši — 'ba' ba sa bontšhwa ka noši, kgoro ya modumo wa Seheberu e a botšwa"
+    }
+  ],
+  "translation": "E se nago sephaetharing ka gare, ka maboto o e dira ⟨את⟩ yona; bjalo ka ge go go laetšwe go thabeng, ka mokgwa woo ba e dirago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "df947e071b77ac67155545963b694c8baeb7a98f702b32906936e463269148dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/27\/5-8.1792283054686.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "e se nago sephaetharing ka gare"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ka maboto"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o e dira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "go go laetšwe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "go thabeng"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka mokgwa woo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ba e dira"
+    }
+  ],
+  "timestamp": "2026-10-18T00:24:14.687795804Z",
+  "model": "glm-5.3"
+}

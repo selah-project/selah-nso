@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שער",
+      "rationale": "Lebaka le tumilego: 'go bala' (go akaretša, JPS) kgahlanong le 'go swara kgoro' (tlhago ya leboko) kgahlanong le KJV 'go nagana'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moya wa gagwe",
+      "rationale": "נפש ke mpheto\/seregedi ya bophelo, e sego seswantšho sa moya wa ka ntle."
+    },
+    {
+      "kind": "you",
+      "subject": "go mmadi",
+      "rationale": "Leboko le bolela ka mošomo wa go amogela mengwadi ya mmadi."
+    }
+  ],
+  "translation": "Gobane bjalo ka ge a bala ka moya wa gagwe, bjalo ke yena; 'Ja gomme nwa,' o tla go bolelela, gomme pelo ya gagwe ga e wele le wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3a19efeb16716e587f5348d891244f4e882322d6bd267df8a6fe000130f503c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/23\/5-8.1792299823839.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "שער",
+      "gloss": "a bala"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ka moya wa gagwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yena"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "gomme nwa"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o tla go bolelela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "gomme pelo ya gagwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "e wele le wena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:03:43.840567776Z",
+  "model": "glm-5.3"
+}

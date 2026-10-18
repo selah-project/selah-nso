@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopanyo ye Seheberu se sa e bonggo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ditselana tša meetse",
+      "rationale": "פלגי מים — metsamao ya meetse ya ditselana, seswantšho sa go ketla pelo bjalo ka meetse a didikelago"
+    }
+  ],
+  "translation": "Ditselana tša meetse — pelo ya kgoši — ⟨ke⟩ ka seatleng sa Yahwe; go yago feela ge a rata, o a e ketla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/21\/1-4.1792299595406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "ditselana"
+    },
+    {
+      "surface": "מים",
+      "gloss": "tša meetse"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya kgoši"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatleng sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yago feela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "a rata"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "o a e ketla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:59:55.406841429Z",
+  "model": "glm-5.3"
+}

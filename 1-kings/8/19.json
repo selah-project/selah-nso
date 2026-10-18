@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 8:19",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Poeletšo ya 'fela ... go se ... eupša' (rakhgama ki-im) — the Hebrew restrictive idiom 'only ... but rather'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "serope",
+      "rationale": "מחלצים is the loins as seat of vigor; Sepedi 'serope' keeps the body-part picture"
+    }
+  ],
+  "translation": "Fela wena o ka se age ⟨את⟩ ntlo; eupša morwa wa gago, yoo a tšwago go tšwa seropeng sa gago, yena o tla aga ⟨את⟩ ntlo go Leina la ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/8\/17-20.1792289856954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Fela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ka se"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "age"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨את⟩ ntlo",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eupša"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eupša"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "yoo a tšwago"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "go tšwa seropeng sa gago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "o tla aga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨את⟩ ntlo",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "go Leina la ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:17:36.955648828Z",
+  "model": "glm-5.3"
+}

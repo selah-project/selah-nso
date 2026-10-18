@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 10:27",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "barwa ba go se loka",
+      "rationale": "בני בליעל ke 'barwa ba go se loka\/sa motho' — e sego leina la motho wa Beliale"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a nna phutsa",
+      "rationale": "כמחריש semologo e le 'bjalo ka wa sefetše\/mogweri' — pono ya go se arabe"
+    },
+    {
+      "kind": "crux",
+      "subject": "כמחריש",
+      "rationale": "Ba kgale: 'a ile a khutša' (KJV) kgathanong le 'a ile a nna sefetše' — ylt: 'he is as one deaf'"
+    },
+    {
+      "kind": "you",
+      "subject": "go Šaule",
+      "rationale": "Dipotšišo tša barwa ba go se loka di lebile Šaule ka tlhamalalo"
+    }
+  ],
+  "translation": "Gomme barwa ba go se loka ba re: O tla re hlodola bjang, yena? Gomme ba mo hloile, ba sa mo tšeela minkha; gomme a nna phutsa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "bea1b9558a093769f9bab62a153e7e59cfa4a2161f24ce4668eea4963ee4c615",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/10\/25-27.1792288078005.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Gomme barwa"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ba go se loka"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bjang"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "O tla re hlodola"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "Gomme ba mo hloile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "mo tšeela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨go yena⟩"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "gomme a nna"
+    },
+    {
+      "surface": "כמחריש",
+      "gloss": "phutsa"
+    }
+  ],
+  "timestamp": "2026-10-18T01:47:58.006487829Z",
+  "model": "glm-5.3"
+}

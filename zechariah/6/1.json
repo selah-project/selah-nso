@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 6:1",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikoloi",
+      "rationale": "מרכבות ke dikoloi tša ntwa, e sego dikoloi tša kamehla"
+    },
+    {
+      "kind": "addition",
+      "subject": "go na le",
+      "rationale": "Sepedi e nyaka ⟨ke⟩\/go na le; Seheberu se se na selo sa mo go ba gona"
+    }
+  ],
+  "translation": "Ke boela, ke tloša mahlo a ka, ke bona, gomme tlhaeša: go na le dikoloi tše nne di tšwago magareng ga dithaba tše pedi; gomme dithaba ke tša kopore.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e74576df6465bce55df924615bbce4714a64480a427a9b21afd0505228ca428d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/6\/1-4.1792296924861.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשב",
+      "gloss": "Ke boela"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ke tloša"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gomme tlhaeša"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tše nne"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "dikoloi"
+    },
+    {
+      "surface": "יצאות",
+      "gloss": "di tšwago"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "magareng ga"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tše pedi"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "וההרים",
+      "gloss": "gomme dithaba"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "tša"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kopore"
+    }
+  ],
+  "timestamp": "2026-10-18T04:15:24.861953668Z",
+  "model": "glm-5.3"
+}

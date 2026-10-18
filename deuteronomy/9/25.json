@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 9:25",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka sefahlogo",
+      "rationale": "לפני ke 'pele ga sefahlogo'; ke oketšitše sefahlogo go hlalosa"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Mošhe o bolela le setšhaba ka lentšu la 'lena'"
+    }
+  ],
+  "translation": "Gomme ke ile ka tlhwa ka sefahlogo pele ga Yahwe malatsi a ⟨את⟩ masome-nne le ⟨את⟩ mabosebo a masome-nne, eo ke neng ke tlhwa ka gona, ka gobane Yahwe o be a bolela go le fediša;",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0f667da9868df5d2c4efd041c1ffea21370debbbe7b0b9c79486bdd44a92e7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/9\/25-28.1792285791000.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתנפל",
+      "gloss": "ke ile ka tlhwa ka sefahlogo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masome-nne"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "masome-nne"
+    },
+    {
+      "surface": "היום",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "masome-nne"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "masome-nne"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "mabosebo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eo"
+    },
+    {
+      "surface": "התנפלתי",
+      "gloss": "ke neng ke tlhwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o be a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "go le fediša"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:09:51.001497195Z",
+  "model": "glm-5.3"
+}

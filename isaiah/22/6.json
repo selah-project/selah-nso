@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šelete",
+      "rationale": "מגן ke šelete ya ntoa; go bontšha e bontšha go ikemiša go lwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "אדם",
+      "rationale": "'batho' (KJV) kgahlanong le 'Adamammo' kgoba 'mošomi wa dikoloi'; dikakaretšo tša sesupo ga di bonolo."
+    }
+  ],
+  "translation": "Gomme Elame o rwala sepokello sa dintše, ka dikoloi tša batho, balaodi ba dipere; gomme Dire di hlakantšha šelete.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5e60c3386a33758406e16863b733503e5a9ad1d21342715a4229d3989fe49853",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/22\/5-8.1792291639384.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "Gomme Elame"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "o rwala"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "sepokello sa dintše"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "ka dikoloi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "balaodi ba dipere"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "gomme Dire"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "di hlakantšha"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "šelete"
+    }
+  ],
+  "timestamp": "2026-10-18T02:47:19.385027777Z",
+  "model": "glm-5.3"
+}

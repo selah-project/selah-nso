@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se bea karolo ya go ema pele — sekopanyi se okeditšwe go Sepedi"
+    },
+    {
+      "kind": "you",
+      "subject": "Yerushalayime",
+      "rationale": "Toropo e bitšwa ka leina — go laelwa ka mo go lebanyo"
+    }
+  ],
+  "translation": "Maota a re a emile dikgorong tša gago, Yerushalayime.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fada0221024951a7a1377830d44fecf2faf73c73fd36e54566392241ebf71cce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/122\/1-4.1792298963251.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "a emile"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "maota a re"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "dikgorong tša gago"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:23.252240420Z",
+  "model": "glm-5.3"
+}

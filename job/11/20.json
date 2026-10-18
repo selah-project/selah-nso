@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 11:20",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke selo se hemago — pela\/mokgwa wa bophelo; 'moya' ke bja mo go go swanago, e sego 'moya' wa bohalaleli"
+    },
+    {
+      "kind": "crux",
+      "subject": "go ntšha ⟨moya⟩",
+      "rationale": "מפח נפש: 'go ntšha moya' (go hema bofelo) ka botlalo — KJV\/ASV 'giving up of the ghost'; JPS 'go namela ga pelo'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tshepo",
+      "rationale": "תקוה e boeletšwa (11:18 le 11:20): tshepo ya Jobo e tšweletša, ya basebe e a hema — khutšo ye e phosago ga e fetolele"
+    }
+  ],
+  "translation": "Gomme mahlo a basebe a tla fela, gomme mokgwa wa go falola o timetše go ba, le tshepo ya bona ke go ntšha ⟨moya⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bc62d85a8cddea47d71ca00ffc477c64651bc787b67151bcd7378b1207abcd14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/11\/17-20.1792300246127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "mahlo a"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "basebe"
+    },
+    {
+      "surface": "תכלינה",
+      "gloss": "a tla fela"
+    },
+    {
+      "surface": "ומנוס",
+      "gloss": "gomme mokgwa wa go falola"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "o timetše"
+    },
+    {
+      "surface": "מנהם",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "ותקותם",
+      "gloss": "le tshepo ya bona"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ke go ntšha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    }
+  ],
+  "timestamp": "2026-10-18T05:10:46.129034176Z",
+  "model": "glm-5.3"
+}

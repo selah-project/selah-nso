@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 13:18",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ya ka",
+      "rationale": "possessive suffix on משפט 'my judgment\/case' rendered as separate pronoun"
+    },
+    {
+      "kind": "crux",
+      "subject": "אצדק",
+      "rationale": "'I am righteous' (ASV\/YLT) vs 'I shall be justified' (KJV\/JPS) — perfect of confidence vs future passive"
+    }
+  ],
+  "translation": "Bonang, bjale, ke hlokometše kahlolo ya ka; ke tseba gore nna ke tla tsedekega.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/13\/17-20.1792300197252.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ke hlokometše"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo ya ka"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "ke tla tsedekega"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:57.253872838Z",
+  "model": "glm-5.3"
+}

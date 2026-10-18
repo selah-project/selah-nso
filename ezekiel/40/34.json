@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 40:34",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "eight steps",
+      "rationale": "The ascent has eight steps, part of the gate measuring sequence."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sekgoba",
+      "rationale": "חצר (court\/yard) rendered 'sekgoba' (enclosed space), avoiding the non-word 'lebatla'."
+    }
+  ],
+  "translation": "Gomme di-aletare-kopano tša yona di lebile sekgoba-ka-ntle, le mehlare ya dinare go dikgofi tša yona, go lehlakoreng le le tee le go lehlakoreng le lengwe; gomme go nameng ga yona go be le dikgatlo tše seswai.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4b7409dfbeb6e502bb7bd2ae5489aacc70317edc7fcc1083f5a96824a976feb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/40\/33-36.1792295606249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלמו",
+      "gloss": "gomme di-aletare-kopano tša yona"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "di lebile sekgoba"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "ya ka ntle"
+    },
+    {
+      "surface": "ותמרים",
+      "gloss": "le mehlare ya dinare"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אלו",
+      "gloss": "dikgofi"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "go lehlakoreng le le tee"
+    },
+    {
+      "surface": "ומפו",
+      "gloss": "le go lehlakoreng le lengwe"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "gomme tše seswai"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "dikgatlo"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "go nameng ga yona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:53:26.251316712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,151 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 32:14",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "di",
+      "rationale": "Hebrew 'omits the object pronoun; Sepedi requires 'di' for the documents"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mengwaga",
+      "rationale": "יָמִים literally 'days'; Sepedi 'mengwaga' (years) fits long duration"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכלי חרש",
+      "rationale": "'vessel of earthenware\/pottery': serotsing sa letsopa vs jar of clay"
+    }
+  ],
+  "translation": "Go bjalo a bolela Yahwe Tsebaote, Elohim wa Yisraele: Tšea ⟨את⟩ mangwalo a, ⟨את⟩ sengwalo sa theko se, le ⟨את⟩ seo se tswaletšwego, le ⟨את⟩ sengwalo se se bulegilego se, gomme o di be serotsing sa letsopa, gore di tle tšwele mengwaga ye mentsi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8fd57db92a3793e1c34098d64eaf4c3fe7fb78d18ec97b283e42ac3d1760ebc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/32\/13-16.1792293674600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "go bjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לקוח",
+      "gloss": "tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mangwalo a"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "mangwalo a"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sengwalo sa theko se"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sengwalo"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "sa theko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "seo se tswaletšwego"
+    },
+    {
+      "surface": "החתום",
+      "gloss": "seo se tswaletšwego"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "sengwalo se se bulegilego"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sengwalo"
+    },
+    {
+      "surface": "הגלוי",
+      "gloss": "se se bulegilego"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "gomme o di be"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "serotsing"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sa letsopa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "di tle tšwele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ye mentsi"
+    }
+  ],
+  "timestamp": "2026-10-18T03:21:14.601014961Z",
+  "model": "glm-5.3"
+}

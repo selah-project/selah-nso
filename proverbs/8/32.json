@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 8:32",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "le kwe nna",
+      "rationale": "Bohlale b bitša bana ka go kwa — seko sa go laletša mmadi"
+    },
+    {
+      "kind": "you",
+      "subject": "bana",
+      "rationale": "Puo e lebeleletše bana ka o peli — barutiwa ba Bohlale"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אשרי",
+      "rationale": "אַשְׁרֵי ke seko sa mahlogonolo ('mahlogonolo a...'); go Sepedi go tsewa 'ba bolokago... ke mahlogonolo'"
+    }
+  ],
+  "translation": "Bjale ka fao, bana, le kwe nna; gomme ba bolokago ditsela tša ka ke mahlogonolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f01ec9c24aad581e52a50cf7f4499d75f2cace7d10af198898225ad9df0a3e8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/8\/29-32.1792299337702.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "bjale ka fao"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "le kwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "gomme mahlogonolo"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela tša ka"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ba bolokago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:37.703775262Z",
+  "model": "glm-5.3"
+}

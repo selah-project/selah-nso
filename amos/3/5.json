@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "moqosi",
+      "rationale": "מוקש: KJV 'gin', JPS 'lure', BSB 'bait' — ke tsebe ya moqosi goba thoto ya seripa; sepetlele se se nago seripa fela se se šoma."
+    },
+    {
+      "kind": "crux",
+      "subject": "se ka tlhatloga",
+      "rationale": "היעלה: seripa se a tlhatloga (go thuma, bjalo ka ASV\/JPS) goba motho a se tša (KJV 'take up'); tlhatlogo ya seripa ke yona polelo ya go thuma."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ו לכוד לא ילכוד",
+      "rationale": "Go ka bala gape bjalo ka 'gomme go tšwa se sene go sa tšwe' — mo e bodilwe bjalo ka seswantšho sa go tšwa selo se sene."
+    }
+  ],
+  "translation": "Na nonyana e ka wa go seripa sa lefase, ge moqosi o se gona ⟨wa yona⟩? Na seripa se ka tlhatloga go tšwa lefasing, gomme se sa tšwe se sene?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5278dad65ec42f62a4820413957b847f57262566b203969b2f96c46f03918c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/3\/5-8.1792296218043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "Na ... e ka wa"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "nonyana"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "פח",
+      "gloss": "seripa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "gomme moqosi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "o se gona"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨wa yona⟩"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "se ka tlhatloga"
+    },
+    {
+      "surface": "פח",
+      "gloss": "seripa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefasing"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "gomme go tšwa se sene"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "tšwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:03:38.043606964Z",
+  "model": "glm-5.3"
+}

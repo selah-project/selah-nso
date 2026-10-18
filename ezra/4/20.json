@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 4:20",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sekhomello, makgetho, tsela-makgetho",
+      "rationale": "lenaneo la meputso ya mabenkele mekae ya Persia — mokgwa wa go ela se boletšwego go latelana"
+    },
+    {
+      "kind": "crux",
+      "subject": "והלך",
+      "rationale": "lentšu le bolela 'taušo ya tsela' ka go tokomane ya Aramaic; diphetholelo tše dingwe di re 'ditsela-tshelete' goba 'sekhomello sa meepo'"
+    }
+  ],
+  "translation": "Gomme dikgoši tše maatla di be di le go Yerushalayime, gomme di laola moka se mose ga noka, gomme sekhomello, makgetho le tsela-makgetho di fišwa go tšona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9ff77f7f146e8ed6e47554aa6333caa5c1fc691c34f4368044c610fecbbabfc5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/4\/17-20.1792302285054.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומלכין",
+      "gloss": "gomme dikgoši"
+    },
+    {
+      "surface": "תקיפין",
+      "gloss": "tše maatla"
+    },
+    {
+      "surface": "הוו",
+      "gloss": "di be di le"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ושליטין",
+      "gloss": "gomme di laola"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "moka"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mose"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "ga noka"
+    },
+    {
+      "surface": "ומדה",
+      "gloss": "le sekhomello"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "le makgetho"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "le tsela-makgetho"
+    },
+    {
+      "surface": "מתיהב",
+      "gloss": "di fišwa"
+    },
+    {
+      "surface": "להון",
+      "gloss": "go tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:44:45.055988134Z",
+  "model": "glm-5.3"
+}

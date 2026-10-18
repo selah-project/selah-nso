@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu ga se na kopula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yo a phofotšwego",
+      "rationale": "ברוך semologile go rapama, go phofotšwa; ka Sepedi go phofotšwa ga boela go fa modumo wa thapelo"
+    }
+  ],
+  "translation": "Ya Dafida. Yo a phofotšwego ⟨ke⟩ Yahwe, leswika la ka, yo a rutago matogo a ka go lwa, le menala ya ka go ntwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/144\/1-4.1792299067426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dafida"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "yo a phofotšwego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "leswika la ka"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "yo a rutago"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matogo a ka"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "menala ya ka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go ntwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:07.427156414Z",
+  "model": "glm-5.3"
+}

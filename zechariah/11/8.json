@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelo",
+      "rationale": "נפש ga se 'moya wa ka ntho e sesane'; ke thetheyo ya bophelo — 'pelo' ke kgetho ya Sepedi ya go swana le khutšo e khutšwane ya bophelo."
+    },
+    {
+      "kind": "idiom",
+      "subject": "e khutšifetše",
+      "rationale": "קצר נפשי tlwaelo ya Seheberu: bophelo bo khutšifala — go se hlware, go hloka bohare; 'pelo e khutšifetše' e jwanetše."
+    },
+    {
+      "kind": "crux",
+      "subject": "badudi ba tharo",
+      "rationale": "Go se tsebwe ke bonna badudi ba tharo — balaodi ba sephiiri, kgoshi, moruti? Mabapi le 'ye kgwedi e tee' goba 'kgwedi tše tharo'."
+    }
+  ],
+  "translation": "Gomme ke fedile ⟨את⟩ badudi ba tharo ka kgwedi e tee; gomme pelo ya ka e khutšifetše ka bona, gomme gape pelo ya bona ya nnyefola nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "14a19b808ae01bc553c6902bb70a2f96ba68d0a5cda50e4324dbf9b5c3e50236",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/11\/5-8.1792297081756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "gomme ke fedile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badudi ba tharo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ba tharo"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "badudi"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "ka kgwedi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e tee"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "gomme e khutšifetše"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka bona"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "gomme gape"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "pelo ya bona"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "ya nnyefola"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:01.757571385Z",
+  "model": "glm-5.3"
+}

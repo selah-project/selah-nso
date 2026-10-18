@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 51:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "זבחי צדק e bolela 'sehlabelo sa toko\/tsedeke' — tsedeke e bolokwa go ya le D2, e sego theolelo ya 'toko' fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "וכליל",
+      "rationale": "kalil: 'se se fišwago ka botlalo' kgahlano le 'mpho e feleletšego' — D4 o tseya go fišwa ka botlalo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אז … אז",
+      "rationale": "phego ya 'ge… ge' e kgutša katiba ya Seheberu, e laetša tlwaelano ya dintlha tše pedi"
+    }
+  ],
+  "translation": "Ge o tla o ikgethile sehlabelo sa tsedeke, sebego sa go fišwa le se sengwe se se fišwago ka botlalo; ge dimpša di tla di tlišwa godimo ga aletare ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "eeadf88d2c32473eb4328f14062b9152a2c5e5b0ef54a847ff898d6596f8fd6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/51\/21-21.1792297828654.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ge"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "o tla o ikgethile"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sehlabelo sa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sebego sa go fišwa"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "gomme se se fišwago ka botlalo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "di tla di tlišwa godimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "aletare ya gago"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "dimpša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:28.655043721Z",
+  "model": "glm-5.3"
+}

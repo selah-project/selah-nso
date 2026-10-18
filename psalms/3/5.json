@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka objekte ya araba; Seheberu se e hlamilwe ka suffix -ni"
+    },
+    {
+      "kind": "substitution",
+      "subject": "modumo",
+      "rationale": "קול e bolela lentšu goba modumo; modumo o boloka sebopego sa go huwa"
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "selah ke sesupo sa mmino, e bolokwa ka modumo wa yona"
+    }
+  ],
+  "translation": "Modumo wa ka go Yahwe ke a go bitša, gomme o araba ⟨ke⟩ go tšwa thabeng ya go kgethwa ga yena. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a43733b68e64b37b82cce4fb8d247cd92049b1681b3861b9c48a700223ad8bb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/3\/5-8.1792297142167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "modumo wa ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke a bitša"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "gomme o araba ⟨ke⟩"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "go tšwa thabeng"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya go kgethwa ga yena"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:19:02.168313708Z",
+  "model": "glm-5.3"
+}

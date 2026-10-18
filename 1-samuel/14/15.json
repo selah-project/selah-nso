@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 14:15",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "letšhogo la Elohim",
+      "rationale": "KJV e fetoša ka 'letšhogo le legolo kudu' — eupša Seheberu se re 'la Elohim'; Leina le bolokwa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרדה\/חרדו\/חרדת",
+      "gloss": "letšhogo",
+      "rationale": "Go boeletšwa ga modu o tee ga lentšu la tšhogo ga dikarolo tharo tša temana"
+    },
+    {
+      "kind": "crux",
+      "subject": "המצב והמשחית",
+      "rationale": "'Ba ba emego boemong' (masole a Filistia) le 'ba ba senyang' — mehlala e mengwe e fetoša ka 'ba bago' goba 'ba sepelago'"
+    }
+  ],
+  "translation": "Gomme go ile gwa ba le letšhogo ka phapanwaneng, mo šaseng, le go setšhabeng ka moka; ba ba emego boemong le ba ba senyang, le bona ba tshwafile; gomme lefase la tetema; gomme go bapedi go ile gwa ba letšhogo la Elohim.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "fdd7f3da7ae8704e726b1e8687d7a389d1fda6ebba4b27b65e1097729ef85e10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/14\/13-16.1792288292763.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "go ile gwa ba"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "letšhogo"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ka phapanwaneng"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mo šaseng"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhabeng ka moka"
+    },
+    {
+      "surface": "המצב",
+      "gloss": "ba ba emego boemong"
+    },
+    {
+      "surface": "והמשחית",
+      "gloss": "le ba ba senyang"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "ba tshwafile"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ותרגז",
+      "gloss": "la tetema"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "go ile gwa ba"
+    },
+    {
+      "surface": "לחרדת",
+      "gloss": "letšhogo la"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T01:51:32.764571132Z",
+  "model": "glm-5.3"
+}

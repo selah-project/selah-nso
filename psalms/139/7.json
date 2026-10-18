@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e bolela moya\/phefo\/go hema ka lentšu le tee; 'ruakh' e bolokwa go e na le 'moya' fela."
+    },
+    {
+      "kind": "idiom",
+      "subject": "pepo ya gago",
+      "rationale": "מפניך 'go tšwa pepong ya gago' — letšatši la Seheberu le bolela go ba gona ga motho; Sepedi se se bopa ka 'pepo'."
+    }
+  ],
+  "translation": "Kae ke tla yago go tšwa go ruakh ya gago? Gomme kae ke tla balelago go tšwa pepong ya gago?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/139\/5-8.1792299026707.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "kae"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tla yago"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "go tšwa go ruakh ya gago"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "gomme kae"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "go tšwa pepong ya gago"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ke tla balelago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:26.708261457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מראה ... מראהו",
+      "rationale": "Go bušiša ga lentšu: seswantšho ... seswantšho sa sona — go loka ga mafoko a mabedi a swanago ga se ka phatlalatšwa."
+    },
+    {
+      "kind": "elision",
+      "subject": "-ון",
+      "rationale": "Nthofatši ya mafelelo ya Seheberu ירוצון e loka go phetišwa ka 'ka boyana' feela."
+    }
+  ],
+  "translation": "Bjalo ka seswantšho sa dipitse go lega seswantšho sa sona, gomme bjalo ka ba ba namaletšego dipitse, bjalo ka mo ba dithopotšo ka boyana.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5df513279c7cf6c3f98b6ef6db00330b8f3ca0f12508f62eb7935d58d68b0288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/2\/1-4.1792296222501.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "bjalo ka seswantšho"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "sa dipitse"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "go lega seswantšho sa sona"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "gomme bjalo ka ba ba namaletšego dipitse"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo ka mo"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "ba dithopotšo ka boyana"
+    }
+  ],
+  "timestamp": "2026-10-18T04:03:42.502573335Z",
+  "model": "glm-5.3"
+}

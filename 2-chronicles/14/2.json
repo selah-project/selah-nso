@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "di-Asherim",
+      "rationale": "האשרים ke leina la modimo wa motse wa Ashera — le bolokilwe ka modumo, e sego 'dihlaka' bjalo ka ditlhopho tše dingwe."
+    },
+    {
+      "kind": "alternative",
+      "subject": "melo e phahameng",
+      "rationale": "במות 'melo e phahameng' — gobalelo la go hlomphwa godimo; taelo ya bobedi: 'dibaka tša thapelo tša godimo'."
+    }
+  ],
+  "translation": "A ntšha ⟨את⟩ dialetare tša ditšhaba le melo e phahameng, a roba ⟨את⟩ maswika a maemo, gomme a kgautša ⟨את⟩ di-Asherim.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1cbf87edad93e0d28a62d6c2aef8e9a923ce6d697eca254c8c7b151b58e31afa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/14\/1-4.1792303898528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "a ntšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dialetare tša ditšhaba"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "dialetare"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "tša ditšhaba"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "le melo e phahameng"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "a roba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maswika a maemo"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "maswika a maemo"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "a kgautša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "di-Asherim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "di-Asherim"
+    }
+  ],
+  "timestamp": "2026-10-18T06:11:38.528787822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בנותיה",
+      "rationale": "'Diwele tša yona' — Sepedi se bolela 'metse ya yona', sebopego sa bontši bja setšo sa Seheberu sa metse ye e sa lego ka tlase ga toropokgolo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "go bitša ka leina",
+      "rationale": "Nobakhe o tehwa leina la gagwe godimo ga lefelo — maina a bala dilo tše di hlomilwego."
+    }
+  ],
+  "translation": "Gomme Nobakhe a ya go šoma, a laola ⟨את⟩ Kenathe le ⟨את⟩ metse ya yona, a e bitša Nobakhe, ka leina la gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "00e76b02cda4862b5f97798ee6e706c09f1ba84ed998f99631420068abe474f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/32\/41-42.1792285309527.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Gomme Nobakhe"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a ya go šoma"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a laola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenathe"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenathe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "metse ya yona"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "metse ya yona"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a e bitša"
+    },
+    {
+      "surface": "לה",
+      "gloss": "e"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Nobakhe"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ka leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:01:49.528549734Z",
+  "model": "glm-5.3"
+}

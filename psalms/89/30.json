@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "peu",
+      "rationale": "זרע ke 'peu' ka boomo, e swantšha le setšhaba sa ka morago — mokgwa wa Seheberu"
+    },
+    {
+      "kind": "elision",
+      "subject": "sa bogoši",
+      "rationale": "Seheberu se re 'setulo sa gagwe' fela; 'sa bogoši' se okeditšwe go hlalosa"
+    }
+  ],
+  "translation": "Gomme ke tla bea peu ya gagwe go sa fele, gomme setulo sa gagwe sa bogoši bjalo ka malatsi a magodimo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a061430e22b7bc81dbeea1a4034915c0d853d094ec3f91d49572d164e4deed16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/29-30.1792305264191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "gomme ke tla bea"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "go sa fele"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "peu ya gagwe"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "gomme setulo sa gagwe"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "bjalo ka malatsi a"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:24.191667879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא כן אנכי עמדי",
+      "rationale": "Crux e tsebago: 'ga go bjalo le nna' (KJV\/JPS) kgathanong le 'ga ke lokile le ka nna' (YLT, כן bjalo ka 'go loka') kgathanong le 'ke le nna noši' (BSB)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כי go bolela taba yabolelo",
+      "rationale": "כי fa se swanetšego e ka bo e le 'ke tla bolela...' — mantšu a 35 a ka ba poletšo yeo e latelago ya 34, e sego phetho"
+    }
+  ],
+  "translation": "Ka gobane ke tla bolela, gomme ke sa mo tšhoge; gomme ga ke bjalo, ke le nna noši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "933871900b4a241ea5300255c5268a3a0eecc49e69c48b81563f3ae23709be21",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/9\/33-35.1792300189777.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "ke tla bolela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ke sa"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "mo tšhoge"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ke bjalo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna noši"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:49.778526786Z",
+  "model": "glm-5.3"
+}

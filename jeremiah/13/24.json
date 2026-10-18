@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 13:24",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רוח",
+      "rationale": "ruakh — phefo\/moya in one word; 'ruakh ya nageng' keeps the ambiguity of wind and spirit."
+    },
+    {
+      "kind": "elision",
+      "subject": "גם",
+      "rationale": "he who scatters is Yahwe from verse 25; subject supplied from context."
+    }
+  ],
+  "translation": "Gomme ke tla ba phatlalatsa bjalo ka bohlanti bjo bo fagošago, ke ruakh ya nageng e omilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4cdf6e28a5b63e5b5a7b2c77d1f569e6a6f5f878b1bdf09799c1812e5a1e3433",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/13\/21-24.1792293099074.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואפיצם",
+      "gloss": "ke tla ba phatlalatsa"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "bjalo ka bohlanti"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "bjo bo fagošago"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ke ruakh ya"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "nageng e omilego"
+    }
+  ],
+  "timestamp": "2026-10-18T03:11:39.076174117Z",
+  "model": "glm-5.3"
+}

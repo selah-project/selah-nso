@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "Meriba",
+      "rationale": "מריבה = 'kgotlo' — leina le theilwego go kgotlo ya meetse (Eksodo 17:7); modumo o bolokilwe ka go Meriba."
+    },
+    {
+      "kind": "elision",
+      "subject": "למושל",
+      "rationale": "Mohlanka yo a gopolwago ga a bolelwa ka leina — ⟨mo⟩ gopola go bone."
+    }
+  ],
+  "translation": "Gomme ba mo gopola go meetse a Meriba, gomme go bile gobe go Moshe ka baka la bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9f3419b065176ead4aff283b6c319055849ef011e69e14d1cdca7b6ada534d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/29-32.1792298653790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "ba mo gopola"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "מי",
+      "gloss": "meetse a"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "go bile gobe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "go Moshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "ka baka la bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:13.790939329Z",
+  "model": "glm-5.3"
+}

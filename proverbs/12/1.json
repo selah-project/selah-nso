@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אהב…אהב",
+      "rationale": "go boelediwa ga lentšu la go rata gabedi, se se theilwego go Sepedi ka go boelediwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "o butši",
+      "rationale": "בער e bolela go ba phoofolo ya naga — boitshwaro bja phoofolo, e sego boshya fela"
+    }
+  ],
+  "translation": "Yo a ratago kaelo o rata tsebo; gomme yo a hloilego tlhagišo o butši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/12\/1-4.1792299421030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "yo a ratago"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "kaelo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o rata"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "gomme yo a hloilego"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "tlhagišo"
+    },
+    {
+      "surface": "בער",
+      "gloss": "o butši"
+    }
+  ],
+  "timestamp": "2026-10-18T04:57:01.030589610Z",
+  "model": "glm-5.3"
+}

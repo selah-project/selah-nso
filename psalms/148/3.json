@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "letšatši",
+      "rationale": "שמש is the sun; Sepedi 'letšatši' also means 'day' — context fixes the sense here."
+    },
+    {
+      "kind": "addition",
+      "subject": "seetši",
+      "rationale": "'Stars of light' — genitive construct kept as 'tša seetši', matching Hebrew structure."
+    }
+  ],
+  "translation": "Mo-dumeleng, letšatši le ngwedi; mo-dumeleng, dinaledi tšohle tša seetši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b7de9ca12aa90e11fddb0f03bf01ddf6fc7ac854967742600f4f57db821fb128",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/148\/1-4.1792299116201.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "mo-dumeleng"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "le ngwedi"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mo-dumeleng"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "dinaledi tša"
+    },
+    {
+      "surface": "אור",
+      "gloss": "seetši"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:56.202407362Z",
+  "model": "glm-5.3"
+}

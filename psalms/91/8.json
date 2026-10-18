@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Seheberu se se na le kopula ya khutšo; go emela sheelemu, Sepedi se nyaka ⟨o⟩ gare ga moputso le bona."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moputso",
+      "rationale": "shillumah ke 'moputso wa tirišo' — sebolokiwa se se dušago modiro; 'moputso' o tšere sebopego sa khutšo."
+    }
+  ],
+  "translation": "Fela ka mahlo a gago o tla lebelela, gomme moputso wa bafosegi o tla o bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "82c889abb6220a00396e68e83043cf48610b5411a0092f94e088d667499849bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/91\/5-8.1792298465419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ka mahlo a gago"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "o tla lebelela"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "gomme moputso"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wa bafosegi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o tla o bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:05.420346675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשבאים",
+      "rationale": "Balahi ba bangwe ba re 'go ba-Sheba' (Setšhaba sa Kgosigolo), ba bangwe ba aga le 'Sabaeans' ya LXX; lentšu le bopiša le Sheba wa Genesi 10"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכרתם \/ ומכרתי \/ ומכרום",
+      "rationale": "Go boela ga lentšu 'go reka' ga raro (4:6–8) — kgopolo ya ga mmopi e kgutlela godimo ga bao ba reketšego; se se laelwa ka mo go loka ka Sepedi ka go šomiša 'go reka' ga raro"
+    }
+  ],
+  "translation": "gomme ke tla go reka ⟨את⟩ bana ba lena bahlano le ⟨את⟩ bana-basetsana ba lena go seatla sa bana ba Yuduya, gomme ba tla ba reka go batho ba Sheba, go setšhaba se se kgolego; ka gobane Yahwe o boletše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b107c57d1e633adaa6c4b3d7aa35584fa5aa12ffa34b8d326361becda6a8ba54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/4\/5-8.1792296158001.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "gomme ke tla go reka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba lena bahlano"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bana ba lena bahlano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "bana-basetsana ba lena"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "bana-basetsana ba lena"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "go seatla sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuduya"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "gomme ba tla ba reka"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "go batho ba Sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "se se kgolego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o boletše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:02:38.002462192Z",
+  "model": "glm-5.3"
+}

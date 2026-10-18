@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 5:21",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "motho",
+      "rationale": "נפש ke moferefere wa boteng\/bophelo, go fapana le 'motho' fela"
+    },
+    {
+      "kind": "elision",
+      "subject": "מעל",
+      "rationale": "bobedi מעלה מעל — go bolela ga ganthi ga go na lentšu la Sepedi le le swanago ka botlalo"
+    }
+  ],
+  "translation": "Motho ge a ka dira sebe, a hloka boikanyetšo go Yahwe, a gomaresa yo a mo swanago ka sehlahlišo goba ka go tšea ka seatla, goba ka tšhušo, goba a gatelela ⟨את⟩ yo a mo swanago;",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9edca2db6684db46ba38b3c5d8e5e9b3467923deeeaa1684db47e9e88025e986",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/5\/21-24.1792283620561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "a dira sebe"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "a hloka boikanyetšo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "bohlokamohwedi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "a gomaresa"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "yo a mo swanago"
+    },
+    {
+      "surface": "בפקדון",
+      "gloss": "ka sehlahlišo"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "בתשומת",
+      "gloss": "ka go tšea"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "בגזל",
+      "gloss": "ka tšhušo"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "a gatelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo a mo swanago"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "yo a mo swanago"
+    }
+  ],
+  "timestamp": "2026-10-18T00:33:40.562045162Z",
+  "model": "glm-5.3"
+}

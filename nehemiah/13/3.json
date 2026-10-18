@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "setšhaba se tlakanetšego",
+      "rationale": "ערב e bolela 'se tlakanetšego' — batho bao ba tšwanetšwego le ditšhaba tše dingwe, se se bitšwago 'mixed multitude' ka Seisemane"
+    }
+  ],
+  "translation": "Mme go be go le bjalo, ge ba kwa ⟨את⟩ Torah, ba arogantšha setšhaba sona se tlakanetšego ka moka go tšwa go Yisraele.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "82e74346f050f7983a14ff82b45861843a0229ec55164d5445f98464f7dcdfab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/13\/1-4.1792302765693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go be go le bjalo"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "ge ba kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "ba arogantšha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "setšhaba se tlakanetšego"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "go tšwa go Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T05:52:45.695930290Z",
+  "model": "glm-5.3"
+}

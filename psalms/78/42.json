@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seatla",
+      "rationale": "יד is literally 'hand', here standing for power\/acts; Sepedi keeps the body-part shape 'seatla'."
+    }
+  ],
+  "translation": "Ga ba gopole ⟨את⟩ seatla sa gagwe, le letšatši leo a ba lokollago go šwa go lenaba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/41-44.1792298265373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ba gopole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "a ba lokollago"
+    },
+    {
+      "surface": "מני",
+      "gloss": "go šwa go"
+    },
+    {
+      "surface": "צר",
+      "gloss": "lenaba"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:45.374522831Z",
+  "model": "glm-5.3"
+}

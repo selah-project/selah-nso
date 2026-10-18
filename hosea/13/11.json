@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yona⟩",
+      "rationale": "Sepedi se nyaka sereti sa seabi; Seheberu se se se na."
+    },
+    {
+      "kind": "crux",
+      "subject": "nako ya tiro",
+      "rationale": "אתן e ka ba 'ka fa' (bosetšhaba) goba 'ke ile ka go fa' (botlhale) — ngwao ya ditiragalo tša dikgoši tša 1 Samuele 8."
+    }
+  ],
+  "translation": "Ke ile ka go fa kgoši ka pelaelo ya ka, gomme ka tšea ⟨yona⟩ ka kgalatšo ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e64b359583dd3d276a9cf5563011e7697cbbfa8712f4197d9a1858af11dcbd93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/13\/9-12.1792296029949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Ke ile ka go fa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ka pelaelo ya ka"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "gomme ka tšea"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "ka kgalatšo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:00:29.950866199Z",
+  "model": "glm-5.3"
+}

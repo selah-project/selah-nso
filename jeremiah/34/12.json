@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go se gate",
+      "rationale": "Seheberu se re 'go ba gona ga' lentšu; copula ya Sepedi e oketšitšwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lentšu",
+      "rationale": "דבר ke 'lentšu\/taba' ka bobedi; mo ke lentšu la profeta"
+    }
+  ],
+  "translation": "Gomme lentšu la Yahwe le tla go Yiremiyahu, le tšwa go Yahwe ⟨את⟩, go bolela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2387f239118f493a86a689b1d38bb3b492e3bd5cfb017d520ede28a8f5736ac9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/34\/9-12.1792293694089.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Gomme go se gate"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yiremiyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "le tšwa go ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go bolela"
+    }
+  ],
+  "timestamp": "2026-10-18T03:21:34.090947335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 12:10",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עקב",
+      "rationale": "עקב (seetse, 'ka ge') le kopantšwe le כי go dira sekopanyi se tee 'ka gobane gore'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lekatikata",
+      "rationale": "עולם ke 'nako yeo e sa bonago mafelelo'; lekatikata e bea ponagalo ya lehu."
+    }
+  ],
+  "translation": "Gomme bjale tšhoša e ka se tšwa fapaneng le ntlo ya gago go fihla le lekatikata, ka gobane o nthwetše, gomme o tšere ⟨את⟩ mosadi wa Uriya Mochiti go ba go wena mosadi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6356cf0eb645372d040b72acc73c6be74b1655d3acbc9901e87d698bc5d4eaa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/12\/9-12.1792289137398.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "gomme bjale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ka se"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "tšwa fapaneng"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "ntlong ya gago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla le"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lekatikata"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בזתני",
+      "gloss": "o nthwetše"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "gomme o tšerego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa Uriya"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi wa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Mochiti"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "mosadi"
+    }
+  ],
+  "timestamp": "2026-10-18T02:05:37.399609265Z",
+  "model": "glm-5.3"
+}

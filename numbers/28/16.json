@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lesome-nne",
+      "rationale": "palo ya letšatši la Paseka — kgwedi ya pele, letšatši la lesome-nne"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopula; Seheberu ga se na yona"
+    },
+    {
+      "kind": "elision",
+      "subject": "בארבעה עשר",
+      "rationale": "«lesome-nne» e ranwa go bobedi bja mantšu a Seheberu"
+    }
+  ],
+  "translation": "Gomme ka kgwedi ya pele, ka letšatši la lesome-nne la kgwedi, ke Paseka go Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e620ba4d296853dcfb047de5567517438ceb8993db43c0fdf682b54eaa08b8c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/28\/13-16.1792285280020.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "gomme ka kgwedi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya pele"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ka la lesome-nne"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(lesome-nne)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:01:20.021547260Z",
+  "model": "glm-5.3"
+}

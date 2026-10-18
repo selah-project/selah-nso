@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gomme",
+      "rationale": "ו conversive requires a Sepedi connector Hebrew marks with a letter"
+    }
+  ],
+  "translation": "Gomme lentšu la Yahwe le tla go Yehu, mora Hanani, kgahlanong le Baasha, go re:",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "649cb9efe163ae281cf525e2068d4e20a29567394a874796b7d4d7b273f8b217",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/16\/1-4.1792290178896.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme … le tla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Hanani"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go re"
+    }
+  ],
+  "timestamp": "2026-10-18T02:22:58.897108761Z",
+  "model": "glm-5.3"
+}

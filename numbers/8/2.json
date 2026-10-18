@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "masedi",
+      "rationale": "נר ke sekgoba sa lesedi; Sepedi e na le masedi (diledi), e sego lentšu la kanegi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "go isa godimo",
+      "rationale": "העלות botse go dira dilo di ele godimo — go laolla go be ga go swane ka botlalo"
+    }
+  ],
+  "translation": "Bolela le Aharone, o mo reye: ge o sa isa godimo ⟨את⟩ masedi, ka pele ga sefahlego sa menora, masedi a šupa a tla khanya.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "687e4db0efdf83a8a7adb99b32376839c939246be2300f097864b69b520e3b87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/8\/1-4.1792284668198.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Bolela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "o mo reye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "ge o sa isa godimo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masedi"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "masedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka pele ga sefahlego sa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlego"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "menora"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "a tla khanya"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a šupa"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "masedi"
+    }
+  ],
+  "timestamp": "2026-10-18T00:51:08.199712252Z",
+  "model": "glm-5.3"
+}

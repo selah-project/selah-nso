@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-chronicles 30:27",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨se⟩",
+      "rationale": "Seheberu se šomiša sebopego sa boithati (niphal) se se sa bolelgo modiri; Sepedi se nyaka sekgala"
+    },
+    {
+      "kind": "elision",
+      "subject": "וישמע",
+      "rationale": "Modiri wa go theetšwa ga o bolele gore ke yo — mmadi o tsewa a tsebe gore ke Elohim; Sepedi se se tlogela se sa bolelwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "legae",
+      "rationale": "מעון ke bono bja Modimo (tempole\/tabereneke); 'legae' ke kgauswi thata le Sesotho sa 'hae' fela"
+    }
+  ],
+  "translation": "Gomme baperisita, Balevite, ba ema gomme ba thabela ⟨את⟩ setšhaba; gomme ⟨se⟩ sa theetšwa ka lentšu la bona, gomme thapelo ya bona ya tsena go legae la bokgethwa bja gagwe, go magodimo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "efb2c15e73f1853142763de134a56955be0f73d318871430a6bb371da7f44c5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/30\/26-27.1792305543144.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ba ema"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baperisita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevite"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "ba thabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "⟨se⟩ sa theetšwa"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "ka lentšu la bona"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ya tsena"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "thapelo ya bona"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "go legae"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "la bokgethwa bja gagwe"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "go magodimo"
+    }
+  ],
+  "timestamp": "2026-10-18T06:39:03.145435215Z",
+  "model": "glm-5.3"
+}

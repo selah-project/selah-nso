@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 13:25",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "masome a mane a matsatsi",
+      "rationale": "Palo ya matsatsi ye makgolo a mane — go balwa nako ya lelelo, go swana le Seheberu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מתור",
+      "gloss_source": "lelelong",
+      "rationale": "מתור ke leina la go lelela (go hlohleletša go sepela go lebelela); Sepedi se nyaka leina, e sego sebopego sa Seheberu."
+    }
+  ],
+  "translation": "Gomme ba boela lelelong ya lefase, ka mafelelo a masome a mane a matsatsi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ea0989dbff8e8eb6076f23eda1e400d61deb1f9eb700d4f7123f4963c6773a35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/13\/25-28.1792284730977.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "gomme ba boela"
+    },
+    {
+      "surface": "מתור",
+      "gloss": "lelelong ya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ka mafelelo a"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "masome a mane"
+    },
+    {
+      "surface": "יום",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-18T00:52:10.978064614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 39:18",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תמריא",
+      "rationale": "lentšu le ka nnoši fela mo Tanakh; le swantšha go fapafapana ga maphego a ntle — 'go gagaba ka maphego'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "o sekgoka",
+      "rationale": "שחק ke go sekgoka\/hoša; mo go bolela go ihla pitse le mmoni wa yona."
+    }
+  ],
+  "translation": "Ka nako yeo, ge a thuma maphego a gagaba ka godimo, o sekgoka ⟨את⟩ pitse le mmoni wa yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b0824b03a1eb400679b7a1c8600f2827655390c27762f80533db61b8cf597d83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/39\/17-20.1792300829484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כעת",
+      "gloss": "ka nako yeo"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "ka godimo"
+    },
+    {
+      "surface": "תמריא",
+      "gloss": "ge a thuma maphego a gagaba"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "o sekgoka"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "pitse"
+    },
+    {
+      "surface": "ולרכבו",
+      "gloss": "le mmoni wa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:20:29.485627519Z",
+  "model": "glm-5.3"
+}

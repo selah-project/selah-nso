@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נסיתם\/מסה",
+      "rationale": "Leina la lefelo la Massah le tšwa go leloko le tee la go leka — go bapša ga mantšu ao ga se la ka ga fetwa ka Sepedi."
+    },
+    {
+      "kind": "you",
+      "subject": "go Israele",
+      "rationale": "Taetšo e hwetša Israele, e theilwe godimo ga sebopego sa Massah."
+    }
+  ],
+  "translation": "Le se ke la leka ⟨את⟩ Yahwe Elohim ya lona, bjalo ka ge le ile la leka go Massah.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "7594844095c98708fa98b750ee367d9e02bf6867226e3984820ff4410f59c518",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/6\/13-16.1792285640289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "la leka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "le ile la leka"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "go Massah"
+    }
+  ],
+  "timestamp": "2026-10-18T01:07:20.290521907Z",
+  "model": "glm-5.3"
+}

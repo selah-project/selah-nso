@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a lahlela",
+      "rationale": "ותגש e bolela go latela\/go nea ka go gapeletša mo sosobong; go lahlela ke tlhalo ya mehlwa e sa phethagatšego"
+    },
+    {
+      "kind": "elision",
+      "subject": "לפני",
+      "rationale": "פנים e bolela sefahlego; 'pele ga' ke tlhalo ya kgetho ya Sesotho se se nago lentšu le tee"
+    },
+    {
+      "kind": "addition",
+      "subject": "go ya",
+      "rationale": "Sepedi e nyaka 'go ya pele ga' bakeng sa לפני — se se okeditšwego se tsebahala ka ⟨...⟩"
+    }
+  ],
+  "translation": "Gomme a lahlela ⟨go ya⟩ pele ga Shaule le go ya pele ga bahloka ba gagwe, gomme ba ja. Gomme ba emoša, ba sepela bosigo bjo bo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "abbc79b9708789263a4d4d0b453b122fdb2314afc827858a82e8beeaa323988c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/28\/25-25.1792288644385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "a lahlela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "le pele ga"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bahloka ba gagwe"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ba ja"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "ba emoša"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba sepela"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bosigo bjo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "bo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:57:24.385614348Z",
+  "model": "glm-5.3"
+}

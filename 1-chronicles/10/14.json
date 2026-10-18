@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וימיתהו",
+      "rationale": "modiri wa Yahwe ga o hlalega: 'Yahwe a mo bolaila' — kgethišano ye kgolo ya ba fetoleli ka go fa maina."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke gona",
+      "rationale": "Seheberu se ntšha sebopego se kopantšwego fela; Sepedi se nyaka sekopanyi sa sephethwa."
+    }
+  ],
+  "translation": "gomme a sa kgokgota go Yahwe; ke gona Yahwe a mo bolaileng, gomme a fetola ⟨את⟩ bogoši go Dafida, mora wa Yishai.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "74a37aebf8a7f731cb6f791ac533bc6d8285d63ea6387f3857364c40314461a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/10\/13-14.1792303055523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "kgokgota"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "a mo bolaileng"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "a fetola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogoši"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "bogoši"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "go Dafida"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "wa Yishai"
+    }
+  ],
+  "timestamp": "2026-10-18T05:57:35.523905108Z",
+  "model": "glm-5.3"
+}

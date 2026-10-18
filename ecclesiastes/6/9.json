@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke motho wa moya\/theko ya bophelo, e sego moya fela; sephetho sa pono se boutšwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "go tshwenya ga ruakh",
+      "rationale": "ורעות רוח: 'go tshwenya ga ruakh' kgahlanong le 'go tsoma phefo' — go swara batho ba le mmalwa"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רעות",
+      "rationale": "רעות (e theilwego go רעית) e hlaga nakong ye fela ga Tanakh bjalo ka lentšu le theilwego godimo"
+    }
+  ],
+  "translation": "Go botse pono ya mahlo go feta go tsamaya ga moya; gape se ke hebel, gomme ke go tshwenya ga ruakh.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7b2ee050b7df818e3b5001d8517439e25169e440cbb9e234d9e9440c229e7ac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/6\/9-12.1792301515903.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go botse"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "pono"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ya mahlo"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "go tsamaya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ga moya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebel"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "gomme ke go tshwenya"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-18T05:31:55.903699377Z",
+  "model": "glm-5.3"
+}

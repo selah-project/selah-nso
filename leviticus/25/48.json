@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 25:48",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tokollo",
+      "rationale": "גאלה e akaretša tokollo le mošomo wa go e dira le motho yo a lokollago — lentšu le tee la Seheberu, la Sepedi le la mela ka mo go le kopana"
+    },
+    {
+      "kind": "elision",
+      "subject": "ga go kopana ga lentšu",
+      "rationale": "Seheberu se sa boele se sa boele ga se na sekopanyi; Sepedi se se nyaka"
+    }
+  ],
+  "translation": "ka morago ga go thekišwa ga gagwe, go tla ba le tokollo ya gagwe; e tee ya bahlalwa ba gagwe e tla mo lokolla.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "28a7ffe09a56485bef6b6209ef777444e3baaf7d109136ccd0b572894270db24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/25\/45-48.1792284278146.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "go thekišwa ga gagwe"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "tokollo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go tla ba le"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya gagwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e tee"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "ya bahlalwa ba gagwe"
+    },
+    {
+      "surface": "יגאלנו",
+      "gloss": "e tla mo lokolla"
+    }
+  ],
+  "timestamp": "2026-10-18T00:44:38.147593537Z",
+  "model": "glm-5.3"
+}

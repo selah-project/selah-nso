@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אש להבות",
+      "rationale": "'mollo wa maleme' — bafetoledi ba bangwe ba re 'ka moso o motala' (BSB 'lightning'), eupša Seheberu se bolela mollo o bopegago"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maleme a go fofa",
+      "rationale": "להבות ke 'maleme a mollo' — sebopego se hlotšwe ka go kopanya mantšu go boloka ponagalo ya Seheberu"
+    }
+  ],
+  "translation": "O file mapula a wona go ba seretse, mollo o nang le maleme a go fofa lefasing la bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ebeee56c79bdc292f7177aea7e918b8a32a499182648018bfe86a2e90acc640c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/29-32.1792298641235.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "O file"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "mapula a wona"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "seretse"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "o nang le maleme a go fofa"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "lefasing la bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:01.236993853Z",
+  "model": "glm-5.3"
+}

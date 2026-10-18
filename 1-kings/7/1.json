@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mengwaga ye lesometharo",
+      "rationale": "Palo ya mengwaga ya mošomo wa go aga wa Šelomo."
+    },
+    {
+      "kind": "hapax",
+      "subject": "ביתו … ויכל את כל ביתו",
+      "rationale": "Go boela ga lentšu ביתו ka gate e pedi se ka moka go bopa mošomo o tee."
+    }
+  ],
+  "translation": "Gomme Šelomo a aga ⟨את⟩ ntlo ya gagwe mengwaga ye lesometharo, gomme a phetha ⟨את⟩ ka moka ntlo ya gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "563dc9235ca9f0421671d060b5619d4f33abf1e62d946c3778088d508944fba3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/7\/1-4.1792289763081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya gagwe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagwe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "a aga"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "gomme a phetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka moka ntlo ya gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:16:03.081831419Z",
+  "model": "glm-5.3"
+}

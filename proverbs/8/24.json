@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 8:24",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חוללתי",
+      "rationale": "Temana ya go belega (to be brought forth \/ writhe) — 'ke beleditšwe' e boloka sebopego sa pelego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "באין ... באין",
+      "rationale": "Go boela gape ga 'go se na' ga gabedi go aga kopano, phetolelong e bolokwa ka go dikologa"
+    }
+  ],
+  "translation": "Ge go be go se na mahlwedi, ke beleditšwe; ge go be go se na didiba, go se na meetse a boima.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dbcde02e519fd5e2eb6957bbc6c17f10aa788801e3b1fb8918f88abf55e75f85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/8\/21-24.1792299257543.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "ge go be go se na"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "mahlwedi"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ke beleditšwe"
+    },
+    {
+      "surface": "באין",
+      "gloss": "ge go be go se na"
+    },
+    {
+      "surface": "מעינות",
+      "gloss": "didiba"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "a boima"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:54:17.544821836Z",
+  "model": "glm-5.3"
+}

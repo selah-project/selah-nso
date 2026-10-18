@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרצין",
+      "rationale": "'ba seago na' (dira\/gardi) kgahlanong le 'ba sepelago' (YLT) — sefofiso sa go sepela sa setšhaba goba badiredi."
+    },
+    {
+      "kind": "predicate-you",
+      "subject": "Atalja",
+      "rationale": ""
+    }
+  ],
+  "translation": "Gomme Atalja a kwa ⟨את⟩ lentšu la ba seago na le setšhaba, gomme a tsena go ya setšhabeng, ntlong ya Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bc97ce36e676d180b906541b4208ff24bc52064fd2d8da49705b6ca66653c514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/11\/13-16.1792290732416.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "gomme a kwa"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "ba seago na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "gomme a tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhabeng"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:32:12.417355375Z",
+  "model": "glm-5.3"
+}

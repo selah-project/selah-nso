@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 4:5",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tšhiya e tšhitšwego",
+      "rationale": "תודה ke 'go tšholosa seatla' — lentšu le tee, ka mo go bolelwago ke Seheberu ke sehlabelo sa tšhiyo, e sego tšhiya fela"
+    },
+    {
+      "kind": "irony",
+      "subject": "la foka",
+      "rationale": "Claude: molao wa Torah o gana sehlabelo sa motho-o-tšhitšwego (Levitiko 2:11); Amose o diiletše ka go bolela ka go se loka"
+    },
+    {
+      "kind": "you",
+      "subject": "bana ba Yisraele",
+      "rationale": "Mabitšo a bonwa a bitša batho ba Yisraele ka go lebana"
+    }
+  ],
+  "translation": "Gomme la foka tšhiya e tšhitšwego, gomme le bitše dihlabelo tša boithaopo, la tsebiša; gore bjalo le ka go ratile, bana ba Yisraele, go bolela Adonai Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "01788a73c3911aba3f095390bfb732025a645c717b7074fc86890dd3e1b34069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/4\/5-8.1792296260429.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקטר",
+      "gloss": "la foka"
+    },
+    {
+      "surface": "מחמץ",
+      "gloss": "e tšhitšwego"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tšhiya"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "le bitše"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "dihlabelo tša boithaopo"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "la tsebiša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "le ratile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:04:20.429819837Z",
+  "model": "glm-5.3"
+}

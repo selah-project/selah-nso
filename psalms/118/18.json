@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יסר יסרני",
+      "rationale": "go bušiša ga lediri le tee ga gabedi (go kotloša \/ o nkotlotše), se segelwego mmogo ka gare ga Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a mpha lehu",
+      "rationale": "נתנני למות ka tlwaelo e bolela 'a mmatlama lehuong'; 'a mpha lehu' e bolokela sebopego sa go fa"
+    }
+  ],
+  "translation": "Yah o nkotlotše, o ikokobeditše, eupša ga a ka a mpha lehu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/118\/17-20.1792298801448.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "o kotlotše o ikokobeditše"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "o nkotlotše"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "gomme lehu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "a mpha"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:41.449554709Z",
+  "model": "glm-5.3"
+}

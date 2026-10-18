@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na kopula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "ga ba roba go fihla bosasa",
+      "rationale": "לא גרמו לבקר: modu גרם ke 'lerapo' — 'ba sa lome marapo go fihla mesong' (YLT) kgahlanong le 'ba se tlogele sepe go fihla mesong' (KJV\/ASV); mme JPS e bala 'dimpšu tša naga'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba roba",
+      "rationale": "גרם e swana le lerapo ka boa — lentšu le tee le dire gore 'go loma marapo'; 'roba' ke karolo ya seswantšho"
+    }
+  ],
+  "translation": "Dikgoši tša yona ka gare ga yona ⟨ke⟩ ditau tša go luma; baahlodi ba yona ⟨ke⟩ dimpšu tša bošegong, ga ba roba ⟨marapo⟩ go fihla bosasa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "55145628e3fe4c7b4f83faf509ed27ca8d44ccee802c73e77eab97dd692eb160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zephaniah\/3\/1-4.1792296801077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "dikgoši tša yona"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "ka gare ga yona"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "ditau"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "tša go luma"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "baahlodi ba yona"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "dimpšu"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "tša bošegong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "ba roba"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "go fihla bosasa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:13:21.078426637Z",
+  "model": "glm-5.3"
+}

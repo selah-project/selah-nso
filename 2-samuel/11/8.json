@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 11:8",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Dafida go Uriya",
+      "rationale": "Taollo ya go ithaopa: Theoga o ya gae — Dafida o laela Uriya ka boomo"
+    },
+    {
+      "kind": "crux",
+      "subject": "משאת",
+      "rationale": "'mpho' kgahlanong le 'sehlabelo sa dijo' (KJV mess of meat) — lentšu le bolela seo kgoši e se romelago, e ka ba dijo goba se sengwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "o hlatswe maoto",
+      "rationale": "רחץ רגליך e ka ba tlwaelo ya kamano ya mošiši ka morago ga leeto, e sego taollo ya botšofsi fela"
+    }
+  ],
+  "translation": "Gomme Dafida a re go Uriya: Theoga o ya gae, o hlatswe maoto a gago. Gomme Uriya a tšwa ntlong ya kgoši, gomme mpho ya kgoši e tšwa ka morago ga yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a2c575487de200cd410a976549c0616e89e0d2e633f2c25212900018da4f0dd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/11\/5-8.1792289068468.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "לאוריה",
+      "gloss": "go Uriya"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Theoga"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "o ya gae"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "o hlatswe"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "maoto a gago"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a tšwa"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgoši"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "e tšwa"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka morago ga yena"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T02:04:28.469079542Z",
+  "model": "glm-5.3"
+}

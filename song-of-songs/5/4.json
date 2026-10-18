@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "hā-ḥōr",
+      "rationale": "Sekgoba se bolela go sego gantši go sekgoba sa lebati (KJV\/JPS) goba go tlhagelela ga lebati (BSB); Sepedi se iša sekgoba se sa noši."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mē'ay",
+      "rationale": "Ka gare ga ka (inward parts) go Šheberu gobolela mmele-ka-gare, se se fapanego le pelo — „my heart“ ya diphetolelo tše ntši."
+    }
+  ],
+  "translation": "Morateo wa ka a lokela seatla sa gagwe go tšwa sekgobeng, gomme ka gare ga ka go thothomela ka mo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6245c91614d8e63421535f4c25092c415dc0cf2afcafa6f04b1ac40c30b1de99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/5\/1-4.1792300983042.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "morateo-ya-ka"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a-lokela"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla-sa-gagwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go-tšwa"
+    },
+    {
+      "surface": "החר",
+      "gloss": "sekgobeng"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "gomme-ka-gare-ga-ka"
+    },
+    {
+      "surface": "המו",
+      "gloss": "go-thothomela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka-mo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:03.043651682Z",
+  "model": "glm-5.3"
+}

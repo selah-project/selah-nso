@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 9:37",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e hloka copula polelong ya go bolela gore ke yena, Seheberu se se sa e phetha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "serwalwa",
+      "rationale": "כדמן ke lentšu la tlhago la go hlaloša go senyega ga nama — se dira setopo se be se sa hlološega bjalo ka serwalwa seširing"
+    },
+    {
+      "kind": "crux",
+      "subject": "זאת",
+      "rationale": "Ba-beletši ba fapana: 'Se ke Izebele' (se hlalosa) kgahlanong le 'Se eba Izebele' (se kgetha)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איזבל",
+      "rationale": "Leina la Izebele le boletšwe gabedi — mathomong le mafelelong a lentšu — go tiisa gore leina le ke lona le tla nyamela"
+    }
+  ],
+  "translation": "Gomme setopo sa Izebele se tla ba bjalo ka serwalwa sefaseng ga seširing sa Yizreele, gore ba se ke ba re: Se ke ⟨ke⟩ Izebele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a026f5439b33a0202f8b37408a16814a5b4213804d242b6d50a30df1e4c5d77d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/9\/37-37.1792290575570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והית",
+      "gloss": "gomme se tla ba"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "setopo sa"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebele"
+    },
+    {
+      "surface": "כדמן",
+      "gloss": "bjalo ka serwalwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "sefaseng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ga"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "seširing"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "karolong ya"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Se"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:29:35.571431159Z",
+  "model": "glm-5.3"
+}

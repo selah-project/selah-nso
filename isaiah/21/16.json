@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go nna⟩",
+      "rationale": "Seheberu se na le כה אלי eupša 'אלי' e šumišwa bjalo ka 'go nna'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ngwaga",
+      "rationale": "nako yeo e laetšwego: 'ngwaga o tee, bjalo ka mengwaga ya mohiri' — pontšo ya go bala nako"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mengwaga ya mohiri",
+      "rationale": "שני e ka bolela dipalo-pedi (šupa mengwaga ye mebedi); go hlwa ga kgwerano go bontšha 'mengwaga ka bontshi bja ngwaga'"
+    }
+  ],
+  "translation": "Ka gobane Adonai o mpotšile: Ka go sa fetše se ngwaga, bjalo ka mengwaga ya mohiri, gomme kudumela ya Kedara ka moka e tla fela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/21\/13-16.1792291570994.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o mpotšile"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "ka go sa fetše"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "se ngwaga"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "bjalo ka mengwaga"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "ya mohiri"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "e tla fela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kudumela"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedara"
+    }
+  ],
+  "timestamp": "2026-10-18T02:46:10.995391567Z",
+  "model": "glm-5.3"
+}

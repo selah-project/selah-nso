@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 1:27",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כשאוה",
+      "rationale": "שואה: 'phudugo' (KJV 'desolation') kgahlanong le 'sefako\/pula e makgwakgwa' (ASV 'storm')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבא ... יאתה ... בבא",
+      "rationale": "Go boela ga 'go tla' ga gateetwa thari ya sebopego sa parallelismo"
+    }
+  ],
+  "translation": "Ge tšhohofatšo ya lona e tla bjalo ka phudugo, gomme masetepo a lona a fihla bjalo ka sefako, ge mathata le kgatelelo di thoma go wa go lona,",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ad5780c4251f8abf695d15eff359aaddf1e0af7378387140c35afecddcf0a001",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/1\/25-28.1792299188311.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבא",
+      "gloss": "ge e tla"
+    },
+    {
+      "surface": "כשאוה",
+      "gloss": "bjalo ka phudugo"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "tšhohofatšo ya lona"
+    },
+    {
+      "surface": "ואידכם",
+      "gloss": "gomme masetepo a lona"
+    },
+    {
+      "surface": "כסופה",
+      "gloss": "bjalo ka sefako"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "ge di thoma"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "go wa go lona"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "mathata"
+    },
+    {
+      "surface": "וצוקה",
+      "gloss": "le kgatelelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:53:08.311921454Z",
+  "model": "glm-5.3"
+}

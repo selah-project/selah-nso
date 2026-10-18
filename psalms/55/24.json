@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 55:24",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שחת",
+      "rationale": "Seheberu se re 'sediba sa go wa' — se dirišwa bjalo ka lefelo la go putsa; 'tahlego' ke bokao bjo bo tlwaelegilego"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ba ka ke ba phela⟩",
+      "rationale": "Seheberu se re fela 'ga ba ka ke ba hlakanya malatsi a bona' — lebaka la go phela le okeditšwe"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחצו ימיהם",
+      "rationale": "'Ba se ke ba hlakanya malatsi a bona' — bao ba nago le madi le bofoši ga ba tle phela halofo ya mengwaga ya bona"
+    }
+  ],
+  "translation": "Gomme wena, Elohim, o tla ba htiriša godimo ga sediba sa tahlego; banna ba madi le ba bofoši ga ba ka ke ba phela halofo ya malatsi a bona; eupša nna ke tla tshepa go wena.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "4d8170ad95b14aed82cd80eeef4d53b991a485843a85f62831e25cca0ec03031",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/55\/24-24.1792305251823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "gomme wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תורדם",
+      "gloss": "o tla ba htiriša"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "godimo ga sediba"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "sa tahlego"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "gomme ba bofoši"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחצו",
+      "gloss": "ba ka ke ba hlakanya"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "malatsi a bona"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "eupša nna"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ke tla tshepa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:11.823710909Z",
+  "model": "glm-5.3"
+}

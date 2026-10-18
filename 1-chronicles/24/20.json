@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 24:20",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go be go na le",
+      "rationale": "copula ya Sepedi e okeditšwe; Seheberu se tlogela maina feela a le bego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנותרים",
+      "rationale": "'bao ba setšego' — bana ba Lewi ka ntle ga baduti ba moperisita ba 24"
+    }
+  ],
+  "translation": "Gomme go bana ba Lewi bao ba setšego: go bana ba Amirame go be go na le Shebuaele; go bana ba Shebuaele go be go na le Yehdiyahue.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "18a041f32f6934e90414a56e62a2c4e41f1d0f3bb796c7e2f880ddf1ee232413",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/24\/17-20.1792303384368.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "gomme go bana ba"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "bao ba setšego"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amirame"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Shebuaele"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Shebuaele"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "Yehdiyahue"
+    }
+  ],
+  "timestamp": "2026-10-18T06:03:04.370051587Z",
+  "model": "glm-5.3"
+}

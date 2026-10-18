@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 15:21",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tše dikgolo",
+      "rationale": "ראשית ke 'tša pele\/tša kgolo' — 'firstfruits' ka boikgethelo, e sego 'dikgolo' ka boikgethelo"
+    },
+    {
+      "kind": "crux",
+      "subject": "se se hlotšwego",
+      "rationale": "חרם — dilo tša go hlolelwa go phemong; kgatiso ya 'go hlotšwa kpaleng' kgathanong le 'go nyamela'"
+    }
+  ],
+  "translation": "Gomme setšhaba se ile sa tšea go tšwa sehlabelong dinku le dipudi le dikgomo, tše dikgolo tša se se hlotšwego, go hlabela Yahwe Elohim wa gago ba Gilgale.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6a4ce2c35245304daf488040292fe26c4891de0f1a0324a78843323e76997d3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/15\/21-24.1792288234780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "se ile sa tšea"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "מהשלל",
+      "gloss": "go tšwa sehlabelong"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku le dipudi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "le dikgomo"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "tše dikgolo"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "tša se se hlotšwego"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "go hlabela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "ba Gilgale"
+    }
+  ],
+  "timestamp": "2026-10-18T01:50:34.780810180Z",
+  "model": "glm-5.3"
+}

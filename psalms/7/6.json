@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke 'go hema\/bophelo' — ga se 'moya' ka tsela e itseng, eupša ke lentšu le legolo la go hema"
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "Tlhaku ya mmino yeo e sa fetolego — e ntšhitšwe bjalo ka selo sa mmino"
+    }
+  ],
+  "translation": "A ka lelekelela lenaba moya wa ka, gomme a ka se kgona, a kgometše lefase bophelo bja ka, gomme a dulafatše kgalalelo ya ka go lerole. Selah",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/7\/5-8.1792297143167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "A ka lelekelela"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lenaba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "gomme a ka se kgona"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "a kgometše"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "bophelo bja ka"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "gomme kgalalelo ya ka"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "go lerole"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "a dulafatše"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:19:03.167711157Z",
+  "model": "glm-5.3"
+}

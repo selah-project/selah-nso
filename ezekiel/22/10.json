@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 22:10",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hlorisitše",
+      "rationale": "ענו ke go epa\/go nyefola; 'ba hlorisitše' ke sephetho se se gatelelang, e sego seswantšho sa lentšu ka boyona."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yo⟩",
+      "rationale": "Seheberu ga se na sesupo sa go tsewa — 'ya' e okeditšwe gore se bolelwe ka lebadi."
+    },
+    {
+      "kind": "crux",
+      "subject": "הנדה",
+      "rationale": "'Nku ya marago' — nku ya nako ya go hlohlwa; ba bangwe ba hlatholla 'ya a kgethwa ka lehlakori'."
+    }
+  ],
+  "translation": "Bohlola bja papa ba bo mocolotše gare ga gago; ba hlorisitše ⟨yo⟩ ya nku ya marago ka go se hlwekile ga yona, gare ga gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "79f9d99b002c91211468242fab69a423619d8b9711a4e1a1971b42177f35253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/22\/9-12.1792295041652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "bohlola bja"
+    },
+    {
+      "surface": "אב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ba bo mocolotše"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gare ga gago"
+    },
+    {
+      "surface": "טמאת",
+      "gloss": "ya go se hlwekile"
+    },
+    {
+      "surface": "הנדה",
+      "gloss": "nku ya marago"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ba hlorisitše"
+    },
+    {
+      "surface": "בך",
+      "gloss": "gare ga gago"
+    }
+  ],
+  "timestamp": "2026-10-18T03:44:01.653209736Z",
+  "model": "glm-5.3"
+}

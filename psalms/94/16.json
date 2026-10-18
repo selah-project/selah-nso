@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עם",
+      "rationale": "'le' ka Seheberu fa go bolela 'kgahlanong le' — diphuthelwana tša motšhene di šomiša 'against' eupša lentšu le bolela 'le\/kgahlanong le'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "go letša mmadi",
+      "rationale": "dipotšišo tše pedi tša 'ke mang' di letša mmadi ka o tlile go araba"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מי...מי · לי...לי",
+      "rationale": "go diega ga dipotšišo le dikanong go bopa sebopego se se swanago, se se sa tsejwego ka go leka-lekana ga kgomi"
+    }
+  ],
+  "translation": "Ke mang yo a ka emago ka nna kgahlanong le ba dirago bobe? Ke mang yo a ka iteago ka nna kgahlanong le ba šomago bošula?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c9a08e5c29c1506f3893aaf998809516621aba1058ba6867a065c6c93e25ca0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/94\/13-16.1792298506340.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "yo a ka emago"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ba dirago bobe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "yo a ka iteago"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba šomago"
+    },
+    {
+      "surface": "און",
+      "gloss": "bošula"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:46.341781548Z",
+  "model": "glm-5.3"
+}

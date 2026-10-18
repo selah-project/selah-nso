@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "šir hamaʿalot",
+      "rationale": "Pina ya go nyakologa: seripa sa di-Psalm tše 15 tša go nyakologa (120–134), maemo a pele a go ela godimo."
+    },
+    {
+      "kind": "you",
+      "subject": "go wena",
+      "rationale": "Pego e kgetha Adonai yo a dulong magoding ka boomo — kopano ya mahlo."
+    }
+  ],
+  "translation": "Pina ya go nyakologa. Go wena ke ile ka tlhatla ⟨את⟩ mahlo a ka, wena yo a dulong magoding.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/123\/1-4.1792298990266.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya go nyakologa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ke ile ka tlhatla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahlo a ka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "wena yo a dulong"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "magoding"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:50.267415677Z",
+  "model": "glm-5.3"
+}

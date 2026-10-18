@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 12:17",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "Sepedi e nyaka go gana ka lentšu le tee gomme Seheberu se na le לא fela; ga ke bracketе go gana"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sebe",
+      "rationale": "אשם ke sebe le sehlabelo sa sebe molaong wa Moshe; silibera ya sebe e swara moedi wo o mongwe"
+    }
+  ],
+  "translation": "Silibera ya sebe le silibera ya dibe ga e tsenwe ka ntlong ya Yahwe; e tla ba ya bamoperisita.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f17456da6d2dacf4e97d07dbc6786d946bd400582601ffb685bc9a7cff5a31a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/12\/17-20.1792290793957.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ya sebe"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "le silibera"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ya dibe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "e tsenwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ka ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "ya bamoperisita"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "e tla ba"
+    }
+  ],
+  "timestamp": "2026-10-18T02:33:13.957647952Z",
+  "model": "glm-5.3"
+}

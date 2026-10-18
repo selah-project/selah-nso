@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nna⟩",
+      "rationale": "לי ke seripa sa lentšu la bofelo; Sepedi se nyaka lentšu le ikemetseng"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go fenya",
+      "rationale": "יכלו לי ka moya o tlwaelegilego 'go ba le maatla godimo ga nna'; 'go fenya' ke seka se se botse"
+    }
+  ],
+  "translation": "Ge e le gabotse ba nkilego ba nsotla go tloga bonyeng bja ka, gomme ba se kgonego go fenya ⟨nna⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/129\/1-4.1792298933259.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "gabotse"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "ba-nkilego-ba-nsotla"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "go-tloga-bonyeng-bja-ka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba-se"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kgonego-go-fenya"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:53.259843121Z",
+  "model": "glm-5.3"
+}

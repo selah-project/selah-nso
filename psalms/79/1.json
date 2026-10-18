@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go",
+      "rationale": "Sepedi e nyaka sekopanyi pele ga lefelo; Seheberu se na le ב fela"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Sephini se bitša Elohim ka leina, se mo leletša ka go tlwaela"
+    }
+  ],
+  "translation": "Mokošo wa Asafa. Elohim, ditšhaba di tsene go lefelo la gago la go fušwa, di hlotše ⟨את⟩ legoro la bokgethwa bja gago, di beile ⟨את⟩ Yerushalayime go ba diphahlo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd81df0e54f4d266d36d3234b5ea3b932259dec5977cf30a68608337529de99c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/79\/1-4.1792298328175.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mokošo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "wa Asafa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "di tsene"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "go lefelo la gago la go fušwa"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "di hlotše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legoro la bokgethwa bja gago"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "legoro"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "bokgethwa bja gago"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "di beile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "go ba diphahlo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:48.175698124Z",
+  "model": "glm-5.3"
+}

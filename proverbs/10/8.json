@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ילבט",
+      "rationale": "lentšu le tlwaelega haholo; KJV\/ASV 'shall fall', YLT 'kicketh', Geneva 'beaten' — go wa ke kgetsi ya motheo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sehlong",
+      "rationale": "אויל ke 'yo a hlohlwago ke tlhalošo', e sego fela 'setopo'"
+    }
+  ],
+  "translation": "Yo bohlale ka pelo o amohela ditaelo; eupša sehlong sa go bolela ka dipheego o tla wa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "36b0543c3ca8a3601ea51b94f7f80f707c801c1018dd861a1a59b95dd93270bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/10\/5-8.1792299332607.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "yo bohlale"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ka pelo"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o amohela"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ditaelo"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "eupša sehlong"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "sa go bolela ka dipheego"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "o tla wa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:32.609025031Z",
+  "model": "glm-5.3"
+}

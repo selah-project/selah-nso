@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa gago",
+      "rationale": "נפש ke 'mafula\/mothopo wa bophelo', e sego 'moya' ka botlalo — eupša Sepedi e se na lentšu le tee le ladimago"
+    },
+    {
+      "kind": "idiom",
+      "subject": "Yahwe o phela",
+      "rationale": "חי יהוה — sebolelo sa ilebeletšo, 'ka bophelo bja Yahwe'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "אם ya maemo a go swana le ilebeletšo e hlakantšwe ka 'nka se ke'"
+    }
+  ],
+  "translation": "Gomme mme wa ngwana a re: Yahwe o phela, gomme moya wa gago o phela, nka se ke wa go siya. Gomme a ema, a ya ka morago ga yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9e0985edefff9edffb4a7e8361c2fdbfead6d1a1306d7c74515005a1fca730e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/4\/29-32.1792290530233.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Gomme a re"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mme"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wa ngwana"
+    },
+    {
+      "surface": "חי",
+      "gloss": "o phela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "gomme o phela"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya wa gago"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nka se ke"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "wa go siya"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Gomme a ema"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "ka morago ga yena"
+    }
+  ],
+  "timestamp": "2026-10-18T02:28:50.234232911Z",
+  "model": "glm-5.3"
+}

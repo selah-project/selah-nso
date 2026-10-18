@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ditekanyo",
+      "rationale": "Dipalo tša motheo: diatla tše masometšela ka botelele, tše masomepedi ka bophara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אמה",
+      "rationale": "Moatla — tekanyo ya letoganyo la seatla, go tšwa go sekonotlhogong go fihla phapang."
+    }
+  ],
+  "translation": "Gomme tše ke motheo woo Šalomon a o beilego go aga ⟨את⟩ ntlo ya Elohim: botelele ka diatla go tekanyo ya mathomo, diatla tše masometšela, gomme bophara diatla tše masomepedi.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "026ae879488678eba477d654edf7ce76fb72e6f38fb41e62ca830c73097f881f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/3\/1-4.1792303648405.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Gomme tše"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "ke motheo… a o beilego"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šalomon"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "botelele"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ka diatla"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "go tekanyo"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "ya mathomo"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "diatla"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "tše masometšela"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "gomme bophara"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "diatla"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "tše masomepedi"
+    }
+  ],
+  "timestamp": "2026-10-18T06:07:28.406540483Z",
+  "model": "glm-5.3"
+}

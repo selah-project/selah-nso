@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go feta",
+      "rationale": "Seheberu se se na lentšu la go bapetša; kopano ya go bapetša e tswa maemong a a sa bolelwago — 'go feta' e okeditšwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדירים \/ אדיר",
+      "rationale": "Go bušetša ga lentšu 'a maatla a magolo' go swaya megwatšo le Yahwe ka bobedi — taelo ya sekafi se sa bolelwago ka go lebanya"
+    }
+  ],
+  "translation": "Go feta medumo ya meetse a mantsi, a maatla a magolo, le megwatšo ya lewatle — Yahwe, ka godimo, ke wa maatla a magolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/93\/1-4.1792298504883.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "medumo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ya meetse"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "a maatla a magolo"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "megwatšo ya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "wa maatla a magolo"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "ka godimo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:44.884810848Z",
+  "model": "glm-5.3"
+}

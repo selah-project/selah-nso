@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 17:7",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Sepedi e nyaka sebopego sa 'go' pele ga leina; Seheberu se na le אל fela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "קדוש — Yo a Kgethwago",
+      "rationale": "Go ya ka D2: kgethwa, e sego 'halalela' ya Sesotho."
+    }
+  ],
+  "translation": "Ka letšatši leo, motho o tla lebelela go Mopai wa gagwe, gomme mahlo a gagwe a tla bona ⟨go⟩ Yo a Kgethwago wa Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "52e6cb3380af1ec67efd3a81b772f2034218a9db2763a00a4c5fac9cef6694d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/17\/5-8.1792291604894.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ka letšatši"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ישעה",
+      "gloss": "o tla lebelela"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Mopai wa gagwe"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "gomme mahlo a gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Yo a Kgethwago"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "a tla bona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:46:44.895436662Z",
+  "model": "glm-5.3"
+}

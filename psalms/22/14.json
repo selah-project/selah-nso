@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨bjalo ka⟩",
+      "rationale": "Seheberu se se nago lerela 'bjalo ka tau'; Sepedi se nyaka ⟨bjalo ka⟩ go hlalosa teko"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טרף ושאג",
+      "rationale": "Morumo wa go ampogela le wa go lla wa tau o bopa palo ya mantšu a mabedi a go hlasela"
+    }
+  ],
+  "translation": "Ba bulela molomo wa bona kgahlanong le nna, bjalo ka tau ya go ampogela le go lla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/22\/13-16.1792297383530.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "ba bulela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "molomo wa bona"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ya go ampogela"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "le go lla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:03.531544268Z",
+  "model": "glm-5.3"
+}

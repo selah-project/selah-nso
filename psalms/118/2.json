@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Sepedi e se na lentšu le le swanago; le tšwaletšwe ka bjale fela"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Yisraele",
+      "rationale": "Sefoko se bitša setšhaba ka la bopegelo go boa le phetoso"
+    }
+  ],
+  "translation": "A re Yisraele: ka gobane go fihla lele le le tlaseletšego hesede ya gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3c25990045a90f821ca2b854677a058eee5ccc8c201918ed0faf2d728f337cf2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/118\/1-4.1792298776073.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "A re"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨bjale⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla lele le le tlaseletšego"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:16.074562657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 1:14",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויהי",
+      "rationale": "go direga ga Seheberu ga se phetolelwe ka botlalo; sephedi se hlama sebopego sa nako"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה לך",
+      "rationale": "botelele: eng go wena; sepheedi: Go go tlweletše eng — potšišo ya botho"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "khoutu e okeditšwe go hlaloša mang yo a tsengago"
+    }
+  ],
+  "translation": "Gomme ge ⟨a⟩ a tsena, a mo hlohleletša go kgopela go ⟨את⟩ ntatae lefase; gomme a theoga godimo ga pitse ya tlhako; gomme Kalebe a re go yena: Go go tlweletše eng?",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0ff7fa6d42a6ad0ca6f77f228eb1f3af8844dc99a4757a1068f1fb621a29e13e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/1\/13-16.1792287177570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go direga"
+    },
+    {
+      "surface": "בבואה",
+      "gloss": "ge a tsena"
+    },
+    {
+      "surface": "ויתסיתהו",
+      "gloss": "a mo hlohleletša"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "go kgopela"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go ⟨את⟩"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ntatae"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ותצנח",
+      "gloss": "a theoga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "pitse ya tlhako"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לה",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:32:57.571244052Z",
+  "model": "glm-5.3"
+}

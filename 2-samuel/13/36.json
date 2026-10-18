@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 13:36",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mme go hlwa go tšwa fao",
+      "rationale": "'vayehi' narrative opener supplied as a Sepedi clause; Hebrew uses it as a bare discourse marker."
+    },
+    {
+      "kind": "idiom",
+      "subject": "וישאו קולם",
+      "rationale": "'They lifted their voice' — Hebrew idiom for wailing aloud; Sepedi 'go phahamisa modumo' keeps the literal picture."
+    }
+  ],
+  "translation": "Mme go hlwa go tšwa fao, ge a feditše go bolela, mme thwii — bana ba kgoši ba tšwa; mme ba phahamisa modumo wa wona, mme ba llela; le kgoši le ditšhanka tša yona ka moka di ile tsa llela — go llela go segolo kudu.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "df218d587396a14150eed8842031c02d6f264faf36d9e2c8a76d81c5503c82c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/13\/33-36.1792289099707.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "mme go hlwa go tšwa fao"
+    },
+    {
+      "surface": "ככלתו",
+      "gloss": "ge a feditše"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "mme thwii"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba tšwa"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "ba phahamisa"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "modumo wa wona"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ba llela"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ditšhanka tša yona ka moka"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ditšhanka"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "di ile tsa llela"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "go llela"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "go segolo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T02:04:59.708770196Z",
+  "model": "glm-5.3"
+}

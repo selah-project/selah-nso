@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikago tše phagamego",
+      "rationale": "ארמנותיך bolela ditora tša dipharabu le diphaposi tša bogoši — dikago tše phagamego ke tlhalošo ya sebopego."
+    }
+  ],
+  "translation": "A kagiso e be maragong a gago, mme khotso dikagong tše phagamego tša gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/122\/5-8.1792298980561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "A … e be"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "maragong a gago"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "khotso"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "dikagong tše phagamego tša gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:40.562706247Z",
+  "model": "glm-5.3"
+}

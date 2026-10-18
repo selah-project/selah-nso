@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 10:5",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועלתו",
+      "rationale": "'olah: sehlabelo sa go fišwa (JPS, YLT) kgahlanong le 'go namela ga gagwe' go ntlong ya Yahwe (KJV, ASV); moadi wa sebego se go fišwa o tšea bothupo bja go namela."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ולא היה בה עוד רוח",
+      "rationale": "Sefoko sa Seheberu 'ga se ka ba go e ruakh' — moya wa gagwe o ile wa tloga; phetolelo ya ka gods se ya sefoko-nngwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "ruakh e bolokwa ka modumo go ya ka D2 — e sego 'moya' fela."
+    }
+  ],
+  "translation": "le dijo tša tafole ya gagwe, le go dula ga bahanka ba gagwe, le maemo a ba a šomelago, le diaparo tša bona, le bao ba isešago go noa, le sehlabelo sa go fišwa seo a se segolago ka ntlong ya Yahwe; gomme ga se ka ba ⟨go⟩ ba le ruakh ⟨kgaufsi⟩ go feta moo go e",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "16bc6228d1d334220e56b8a85afcb5b76a73bc9f5c6d8ce01aeac43850a2ac44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/10\/5-8.1792289913191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאכל",
+      "gloss": "le dijo tša"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "tafole ya gagwe"
+    },
+    {
+      "surface": "ומושב",
+      "gloss": "le go dula ga"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bahanka ba gagwe"
+    },
+    {
+      "surface": "ומעמד",
+      "gloss": "le maemo a"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "ba a šomelago"
+    },
+    {
+      "surface": "ומלבשיהם",
+      "gloss": "le diaparo tša bona"
+    },
+    {
+      "surface": "ומשקיו",
+      "gloss": "le bao ba isešago go noa"
+    },
+    {
+      "surface": "ועלתו",
+      "gloss": "le sehlabelo sa go fišwa sa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "a se segolago"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ka ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga se ka ba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go e"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "go feta moo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-18T02:18:33.192510239Z",
+  "model": "glm-5.3"
+}

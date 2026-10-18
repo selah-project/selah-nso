@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 15:32",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כפה",
+      "rationale": "כפת — lekala la moupo, lentšu leo le sa bonwego kua Tanakh ka sebopego se se swanago."
+    },
+    {
+      "kind": "crux",
+      "subject": "בלא יומו תמלא",
+      "rationale": "Sengwalwa se sa hlaka: 'go tlatšwa ga se se seng selo letšatšing la gagwe'; ba fetoledi ba fapana — 'pele ga nako ya gagwe' (KJV) kgahlanong le 'e sego ka letšatši la gagwe' (YLT)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "letšatši la gagwe",
+      "rationale": "Go balwa nako ya bophelo bja motho yo mongwe le yo mongwe — letšatši la gagwe le ka se tlate."
+    }
+  ],
+  "translation": "E tla phethwa pele ga letšatši la gagwe, gomme lekala la gagwe le ka se le tale.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a8bcaa390c87ce71762439cbb59e98dc614e067ab78b1cb4c970a6b4c74fa02f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/15\/29-32.1792300324678.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלא",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "letšatši la gagwe"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "e tla phethwa"
+    },
+    {
+      "surface": "וכפתו",
+      "gloss": "gomme lekala la gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le ka se"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "le tale"
+    }
+  ],
+  "timestamp": "2026-10-18T05:12:04.679746391Z",
+  "model": "glm-5.3"
+}

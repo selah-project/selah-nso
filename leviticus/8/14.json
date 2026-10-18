@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ya sebe",
+      "rationale": "חטאת mo e bolela sehlabelo sa sebe, e sego sebe ka bosona; ke sehlabelo se se gagabago sebe."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויגש",
+      "rationale": "modiri ga a bolelwa — Moshe (setatimeng se se latelago) ke yena a atamisago."
+    }
+  ],
+  "translation": "Gomme a atamisa ⟨את⟩ phatla ya sebe, gomme Aharone le bana ba gagwe ba bea ⟨את⟩ diatla tša bona godimo ga hlogo ya phatla ya sebe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "582b690cadbf75d14b6fac46af90e84c73986e95429031cccc39a60853de1e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/8\/13-16.1792283705778.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "a atamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phatla"
+    },
+    {
+      "surface": "פר",
+      "gloss": "phatla"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya sebe"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "ba bea"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diatla tša bona"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "diatla tša bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "phatla"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:35:05.779265972Z",
+  "model": "glm-5.3"
+}

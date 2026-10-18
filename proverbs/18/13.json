@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "taba",
+      "rationale": "דבר e bolela gakašo 'lentšu' goba 'taba'; mo 'taba' e loka kudu gobane go araba taba, e sego lentšu le le tee"
+    },
+    {
+      "kind": "addition",
+      "subject": "pele a e theetša",
+      "rationale": "בטרם le ישמע di hlatlamana; 'a e' e okeditšwe gore go hlake ge motho a araba taba ye a sa šwe e theetše"
+    }
+  ],
+  "translation": "Yo a arafago ⟨את⟩ taba pele a e theetša — bobodu ke bjo go yena, le tšhogo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0caa280d11821f426c443f316129b619762aff88ad1807092ef6444b23708b50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/18\/13-16.1792299551738.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "yo a arafago"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "a theetša"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "bobodu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke ⟨e⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "gomme tšhogo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:59:11.739113014Z",
+  "model": "glm-5.3"
+}

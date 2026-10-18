@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "menogo",
+      "rationale": "מנוחה ke repose — phumulo ya go ralala, e sego fela kagiso"
+    },
+    {
+      "kind": "idiom",
+      "subject": "go phahamisa lentšu",
+      "rationale": "ונשאנה קולן — thwasa ya go lela ka modumo o mogolo, ka tsela e tšwago go Seheberu"
+    }
+  ],
+  "translation": "Yahwe a le nee, gomme le hwetše menogo, nkgolo le nkgolo legaeng la monna wa yena; gomme a di opa ka seana, gomme tša phahamisa ⟨את⟩ lentšu tša tšona, gomme tša lela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "11699d63f16aad11cdd437e11517fa1be8299682567cebab23a9610f9943d4ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ruth\/1\/9-12.1792301032390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "a le nee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "gomme le hwetše"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "menogo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "nkgolo le nkgolo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "legaeng"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "monna wa yena"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "gomme a di opa ka seana"
+    },
+    {
+      "surface": "להן",
+      "gloss": "go tšona"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "gomme tša phahamisa"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "lentšu tša tšona"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "gomme tša lela"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:52.390810613Z",
+  "model": "glm-5.3"
+}

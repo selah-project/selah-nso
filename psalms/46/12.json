@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "botshabelo",
+      "rationale": "משגב ka boemoši ke lehlaka la godimo goba lefelo le le sa fihlelwego; 'botshabelo' (refuge) ke sebopego se sengwe sa bokao, bophahamo bo nyamela ka mo go tee."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Selah e bolokwa e sa fetolwa — ke sesupo sa mmino, e sego lentšu la temošo."
+    }
+  ],
+  "translation": "Yahwe Tsebaote o na le rena; botshabelo bja rena ke Elohim wa Yaakobo. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4bb028f6c60e54043b340f871415b1dd75b009cf2e31c5010be783dc15d98f8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/46\/9-12.1792297768675.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוָה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "o na le rena"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "botshabelo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bja rena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:28.676343872Z",
+  "model": "glm-5.3"
+}

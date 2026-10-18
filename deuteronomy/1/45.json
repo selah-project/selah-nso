@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "theetše",
+      "rationale": "האזין ke 'go phafolosa tsebe' — seswantšho sa go etsa tsebe se se laetšago go theetša ka tlhokomelo."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Moshe o bolela ka go Yisraele ka bobedi — 'la lena' le 'go lena'."
+    }
+  ],
+  "translation": "Gomme le boela gomme le lla pele ga Yahwe, gomme Yahwe a sa utwe lentšu la lena, gomme a sa theetše go lena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8cccfbdff248723b53791e05221452b7ccd6d8aaafa2d3af531b9b69179958ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/1\/45-46.1792285481974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "gomme le boela"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "gomme le lla"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "utwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "lentšu la lena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "theetše"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "go lena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:04:41.975013842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sake",
+      "rationale": "בשק ke diaparo tše bošweu tša go tlotla; Sepedi ga e na lentšu la yona, ka gona lentšu la go amogelwa le šomišwa"
+    }
+  ],
+  "translation": "Gomme go diregile, ge kgoši Hiziqiyahu a kwa, a ka rogela ⟨את⟩ diaparo tša gage, gomme a ikarabile ka sake, a tsena ntleng ya Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fa7c2b83604e4475c7031ddbe0206dad3b1f567ffa09c04745d3fb2c86541665",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/19\/1-4.1792290936354.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go diregile"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ge a kwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiziqiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "a ka rogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tša gage"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "diaparo tša gage"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "a ikarabile"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "ka sake"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntleng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:35:36.354948228Z",
+  "model": "glm-5.3"
+}

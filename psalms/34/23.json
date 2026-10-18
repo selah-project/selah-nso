@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "nefesh ke 'go hema\/motho wa moya' — motho ka botlalo, e sego seo mantšu a mengwe a se bitsago moya wo a se nago mmeleng"
+    },
+    {
+      "kind": "crux",
+      "subject": "יאשמו",
+      "rationale": "'ba tla tlela molato' kgahlanong le 'ba tla hlongwa' — temana ye e boela morago go 34:22 ka modu o moono"
+    }
+  ],
+  "translation": "Yahwe o lokolla bophelo bja bachlanka ba gagwe; gomme ga go ⟨eo⟩ ya tla tlela molato gare ga ba kamoka ba ipshabelago go yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d36f55ed0d71b2f1a8e2e25a2781e79b4d6736842c3e68296853adf2636c3455",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/21-23.1792297527117.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "o lokolla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bachlanka ba gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ya tla tlela molato"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba kamoka"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "ba ipshabelago"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:27.118664174Z",
+  "model": "glm-5.3"
+}

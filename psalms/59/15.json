@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba lla",
+      "rationale": "המה ke modumo o mogolo ('hum') — go lla ga ntsa ke ponagalo ye nnošo, e sego taelo ya Sesotho 'howl'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהמו\/יסובבו",
+      "rationale": "Modumo wa go hlaka wa dinonyana tša mantšiboa o bopišwa le go dikala toropo — sebopego sa pesa"
+    }
+  ],
+  "translation": "Gomme ba boele ka mantšiboa, ba lla bjalo ka ntsa, gomme ba dikale toropo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/59\/13-16.1792297962049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "gomme ba boele"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ka mantšiboa"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "ba lla"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "bjalo ka ntsa"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "gomme ba dikale"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:42.049896880Z",
+  "model": "glm-5.3"
+}

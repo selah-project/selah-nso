@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 48:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "di diragetše",
+      "rationale": "ותבאנה literally 'and they came'; rendered as 'and they came to pass' to keep the sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הגדתי \/ ואשמיעם",
+      "rationale": "Two near-synonymous declaring verbs in parallel; the repetition intensifies and is flattened in translation."
+    }
+  ],
+  "translation": "Dilo tša mathomong go tšwa kgale ke di begile, gomme go mošwaneng wa ka di tšwele, gomme ke di tsebišitše; ka bonako fela ke di dirile, gomme di diragetše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cda11b13bf2b36aefddd31eb661cddcb70e94a82672595102bb5f19d6e0e5692",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/48\/1-4.1792292262988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "Dilo tša mathomong"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "go tšwa kgale"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ke di begile"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "gomme go mošwaneng wa ka"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "di tšwele"
+    },
+    {
+      "surface": "ואשמיעם",
+      "gloss": "gomme ke di tsebišitše"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ka bonako fela"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke di dirile"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "gomme di diragetše"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:42.989108066Z",
+  "model": "glm-5.3"
+}

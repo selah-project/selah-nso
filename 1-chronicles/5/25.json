@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 5:25",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba tsuena",
+      "rationale": "וימעלו ke go ralana ka tsela ya boikano — go tsuena ke kgonthe ya kgopolo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ba zenelela",
+      "rationale": "ויזנu bolela go phedisana — mo go bolela go latela medimo ya ditšhaba"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ba fetoga mahlong⟩",
+      "rationale": "Sepedi se nyaka tlhaloso pele ga go zenelela; Seheberu se se sa bolelwe"
+    }
+  ],
+  "translation": "Gomme ba tsuena Elohim ya bo-ntate bona, gomme ba fetoga mahlong, ba zenelela morago ga medimo ya setšhaba sa lefase, tšeo Elohim a di feditswego ka pele ga bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ce93ec6aad8cb122f665ee3a4d7668fbd661af3052938f22cc2120b1849a9913",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/5\/25-28.1792302956094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימעלו",
+      "gloss": "ba tsuena"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "ya bo-ntate bona"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "ba zenelela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ya setšhaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "a di feditswego"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ka pele ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:55:56.094541907Z",
+  "model": "glm-5.3"
+}

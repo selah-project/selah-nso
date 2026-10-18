@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "Moswere yo",
+      "rationale": "זה עני 'this poor one' — David himself or a general example; the demonstrative 'this' makes it pointed and personal, which the Sepedi keeps."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikgatello",
+      "rationale": "צרות is literally 'narrow\/tight places' (from צרר, to bind); rendered as 'oppressions\/pressures', the spatial picture of tightness is lost."
+    }
+  ],
+  "translation": "Moswere yo o ile a lla, gomme Yahwe a theetša, gomme o mo lokollotše go tšwa go dikgatello tša gabo ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/5-8.1792297542389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "moswere"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o ile a lla"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "gomme Yahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a theetša"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "go tšwa go … ka moka"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "dikgatello tša gabo"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "o mo lokollotše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:42.391147083Z",
+  "model": "glm-5.3"
+}

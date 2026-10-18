@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dipoelo tša go khutša",
+      "rationale": "שבתתי ke Shabata go ya ka D2, fela poledišano ya Sepedi 'dipoelo tša go khutša' e hlalosa; go šomišwa 'dipoelo tša go khutša tša me' e le leina le tlwaelegilego"
+    },
+    {
+      "kind": "alternative",
+      "subject": "Shabata tša me",
+      "rationale": "Go boloka leina ka modumo wa Seheberu go ya ka D2: 'le šome Shabata tša me, tša me le swanetše go di šireletša'"
+    },
+    {
+      "kind": "crux",
+      "subject": "תיראו",
+      "rationale": "'go tšhoga' (go tsoga mašedi) kgahlanong le 'go hlwarela' — Seheberu le bolela go tšhoga kudu, e sego tlhompho ya go bonya fela"
+    },
+    {
+      "kind": "you",
+      "subject": "go setšhaba sa Yisraele",
+      "rationale": "Taelo ye e arotše go setšhaba soṱhe sa Yisraele (morutišo wa setšhaba)"
+    }
+  ],
+  "translation": "Motho yo mongwe le yo mongwe o tšhoge mmagwe le tataye; le šome dipoelo tša me tša go khutša, ⟨את⟩ dipoelo tša go khutša tša me tše le swanetše go di šireletša: nna ke Yahwe Elohim ya lona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "37ba7efe264b872281cdaa3c0fb6515977c60b5b0daa822710022d809a8314cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/19\/1-4.1792284055206.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mmagwe"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "le tataye"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "le tšhoge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipoelo tša go khutša tša me"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "dipoelo tša go khutša tša me"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "le swanetše go di šireletša"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:40:55.207037658Z",
+  "model": "glm-5.3"
+}

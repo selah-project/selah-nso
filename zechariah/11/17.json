@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 11:17",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "האליל",
+      "rationale": "Ya bolela 'sešwantšho' goba 'yo a se nago mosola' — badumedi ba fapana: 'modisa yo mobe' kgathanong le 'modisa wa sešwantšho'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבוש תיבש \/ כהה תכהה",
+      "rationale": "Go bolediša ga lefoko le le tee ka marara (infinitive absolute + ya hlwa) go kgomaretša kgotlelo — go a ineela ka Sepedi ka 'ka botlalo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זרועו",
+      "rationale": "Zerowa ke seatla se se olletšwego; 'seatla' amošeletše sebopego sa sona sa maatla."
+    },
+    {
+      "kind": "you",
+      "subject": "modisa yo a se nago mosola",
+      "rationale": "Mošomo wo o bolela ka go kgošiša modisa yo mobe ka boomo — go laletša kahlolo godimo ga yena."
+    }
+  ],
+  "translation": "Mahlapa go modisa yo a se nago mosola, yo a tlogago ⟨את⟩ dinku le dipudi! Tšhoša godimo ga seatla sa gagwe le godimo ga leihlo la gagwe la go ja: seatla sa gagwe se tla oma ka botlalo, gomme leihlo la gagwe la go ja le tla fifala ka botlalo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e6952be46fe243d8f8ea3ded00844932559208cc63779b76dee6a6f29041b96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/11\/17-17.1792296945310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mahlapa"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "go modisa"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "yo a se nago mosola"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "yo a tlogago"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dinku le dipudi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "זרועו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "gomme godimo ga"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leihlo"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "la gagwe la go ja"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "יבוש",
+      "gloss": "se tla oma"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "gomme leihlo"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "la gagwe la go ja"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "le tla fifala"
+    },
+    {
+      "surface": "תכהה",
+      "gloss": "ka botlalo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:15:45.310721702Z",
+  "model": "glm-5.3"
+}

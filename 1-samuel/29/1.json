@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "metsing",
+      "rationale": "עין ke 'leihlo', gape 'metsi a tšwago' — sebopego sa leihlo se laetšo se se nyesego ka Sepedi"
+    }
+  ],
+  "translation": "Gomme Bafelešte ba kgoboketša ⟨את⟩ mahlaba a bona ohle go Afeka, gomme Yisraele o oma ka metsing woo o go Yizreeli.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/29\/1-4.1792288727900.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ba kgoboketša"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafelešte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahlaba a bona ohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "mahlaba a bona"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "go Afeka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "gomme Yisraele"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "o oma"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ka metsing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woo o"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "go Yizreeli"
+    }
+  ],
+  "timestamp": "2026-10-18T01:58:47.901628705Z",
+  "model": "glm-5.3"
+}

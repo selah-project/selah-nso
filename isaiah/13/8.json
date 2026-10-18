@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 13:8",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikgaba",
+      "rationale": "חבלים ka tlwaelo ke 'dithapo' — fela mo ke bohloko bja go belega, go swana le צירים; Sepedi 'kgaba' e swara kgaba ya mmele"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go hlolela",
+      "rationale": "יחילון ke 'go dikanyega, go potoloha' — lentšu le tee le dihlogwana tša go belega le go gogoga; Sepedi 'go hlolela' ke bokae fela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "malelapa a mollo",
+      "rationale": "להבים ke 'maflasho' — a ka ba ditlhasedi goba dinthla tša dibaya; 'lelapa la mollo' e tšea sebopego sa go fapana"
+    }
+  ],
+  "translation": "Mme ba tla tšhologa mahlatse; mahlatse a go belega le dikgaba di tla ba swara, ba hlolela bjalo ka mosadi wa go belega; motho o tla makala ka mogwera wa gagwe; difahlego tša bona di tla ba bjalo ka malelapa a mollo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f6410302172dcf66097e8343d4f9a4b3a9565c4c1b0e3894d06fe10605cb1ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/13\/5-8.1792291427510.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונבהלו",
+      "gloss": "Mme ba tla tšhologa mahlatse"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "mahlatse a go belega"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "le dikgaba"
+    },
+    {
+      "surface": "יאחזון",
+      "gloss": "di tla ba swara"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "bjalo ka mosadi wa go belega"
+    },
+    {
+      "surface": "יחילון",
+      "gloss": "ba hlolela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mogwera wa gagwe"
+    },
+    {
+      "surface": "יתמהו",
+      "gloss": "o tla makala"
+    },
+    {
+      "surface": "פני",
+      "gloss": "difahlego"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "bjalo ka malelapa a mollo"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "difahlego tša bona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:43:47.511492688Z",
+  "model": "glm-5.3"
+}

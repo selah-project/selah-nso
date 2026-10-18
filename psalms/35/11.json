@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bopaki bja tlhaselo",
+      "rationale": "עדי חמס ka moka — bopaki bja bobedi bjo bobe, e sego bopaki bja nnete"
+    }
+  ],
+  "translation": "Bopaki bja tlhaselo bo tla ema; seo ke sa se tsebego ba a se nkopa go nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/35\/9-12.1792297524781.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "bo tla ema"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bja tlhaselo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke se tsebego"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "ba a se nkopa go nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:24.782747900Z",
+  "model": "glm-5.3"
+}

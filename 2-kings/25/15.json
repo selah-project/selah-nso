@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זהב זהב · כסף כסף",
+      "rationale": "Go boelediwa ga leina ga bobedi go bolela 'gauta ya nnete, gauta yela' — phetolelo e boloka go boelediwa ka go boela gabedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moholo wa batabafo",
+      "rationale": "רב טבחים ka moya ke 'moholo wa batabafo' (molaodi wa masole a bolai); sebopego sa gona sa bokapedi se bolokwa."
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ diphae tša mollo le ⟨את⟩ dikhase — tša gauta, gauta yela; le tša silibera, silibera yela — moholo wa batabafo o di tšere.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c7cb550643f972caf7279dd9b8a8f82b3fc0403313a7b5a596b557930b8d142d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/25\/13-16.1792291183143.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diphae tša mollo"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "diphae tša mollo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikhase"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "dikhase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tša"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le tša"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o di tšere"
+    },
+    {
+      "surface": "רב",
+      "gloss": "moholo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa batabafo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:43.144504066Z",
+  "model": "glm-5.3"
+}

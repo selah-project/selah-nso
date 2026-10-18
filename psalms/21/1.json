@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "Leina la sebopego sa mmino — 'go ya go yo a laolang' — le fetotšwe ka go ba leina la maemo"
+    }
+  ],
+  "translation": "Go mokaedi. Pesalema ya Dafida.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/21\/1-4.1792297383828.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go mokaedi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pesalema"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:03.829328432Z",
+  "model": "glm-5.3"
+}

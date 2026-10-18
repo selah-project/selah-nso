@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ראשו\/קדקדו",
+      "rationale": "go rapaletša hlogo le pheletšo ya hlogo go bopa go swana ga sephetho, se se felang ka ditlhaka tše pedi tša go bontšha thoko e tee"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bobe",
+      "rationale": "עמל e bolela šoro le go hloka khotšo; 'bobe' ke karolo ya bokao fela"
+    }
+  ],
+  "translation": "Bobe bja gagwe bo tla boa godimo ga hlogo ya gagwe, gomme tlhaselo ya gagwe e tla theoga godimo ga pheletšo ya hlogo ya gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7efd8d651ed44c34e14a7d2f59f32fb178b9adaf08e6c355477f672820d439ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/7\/17-18.1792297099642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "e tla boa"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "bobe bja gagwe"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "godimo ga hlogo ya gagwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "gomme godimo ga"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "pheletšo ya hlogo ya gagwe"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "tlhaselo ya gagwe"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "e tla theoga"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:19.642442480Z",
+  "model": "glm-5.3"
+}

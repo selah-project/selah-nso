@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדקה e bolokwa go ya ka D2 — tsedeke, e sego 'toko' fela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ditšhelete tša go phuthwa",
+      "rationale": "אוצרות ke 'dikgobo'; 'ditšhelete tša go phuthwa ka go se loke' e hlalosa mehla ya dithoto"
+    }
+  ],
+  "translation": "Ditšhelete tša go phuthwa ka go se loke di ka se šome, gomme tsedeke e ntšha motho go lehu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/10\/1-4.1792299341664.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "di ka se šome"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "ditšhelete tša go phuthwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ka go se loke"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "gomme tsedeke"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "e ntšha"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "go lehu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:41.664958863Z",
+  "model": "glm-5.3"
+}

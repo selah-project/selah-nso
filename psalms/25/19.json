@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tšhu",
+      "rationale": "חמס ke 'tšhu\/kgohlano ya go gatea' — e sego fela maikutlo a mabe, eupša megwatla ya mmele le ya sechaba"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאת\/שנאוני",
+      "rationale": "Theko ya lentšu 'go hloya' ga raraana — go hloya ga bone go boela ka go ba nthloya; phetolelo e bolokile go boela ga lona"
+    }
+  ],
+  "translation": "Lebelele manaba a ka, ka gobane a mene, gomme ka go hloya ga tšhu ba nthloya.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/25\/17-20.1792297427753.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "lebelele"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "manaba a ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "a mene"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "gomme ka go hloya ga"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tšhu"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "ba nthloya"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:47.753937704Z",
+  "model": "glm-5.3"
+}

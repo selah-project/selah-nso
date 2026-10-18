@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meyunifele",
+      "rationale": "נפש ke se seng sa go hema\/moya wa bophelo, e sego moya wa bohlabela; 'meyunifele' e bitša pono ya Seheberu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Seheberu se na le kopanyo ka boyona; Sepedi se e nyaka."
+    },
+    {
+      "kind": "elision",
+      "subject": "יצילם",
+      "rationale": "Setlankana se ile sa lokollwa ka gare ga 'a ba ntšha' — se nang le setlankana sa seswantšho sa go hlabela ka maatla."
+    }
+  ],
+  "translation": "Lona bao le ratago Yahwe, le hloye sebe; ⟨o⟩ boloka meyunifele ya bao ba hlwekileng ba hae, a ba ntšha letsatsing la ba loko.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "927b376d02f29de565236965f5d916cc01d82418d9d6cdc0649839662faf4bae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/97\/9-12.1792298530286.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "bao le ratago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "le hloye"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "o boloka"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "meyunifele"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "bao ba hlwekileng ba hae"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "letsatsing la"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba loko"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "a ba ntšha"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:10.287497545Z",
+  "model": "glm-5.3"
+}

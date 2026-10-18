@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 17:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זרוע — lonaka",
+      "rationale": "Sepedi 'lonaka' (forearm) for zeroa, keeping body-part shape rather than abstract 'maatla'."
+    },
+    {
+      "kind": "crux",
+      "subject": "עמק רפאים",
+      "rationale": "Lewine la Refaima: leina fela, goba 'lewineng la bagolo' — leina le bolokwa."
+    }
+  ],
+  "translation": "Gomme go tla ba bjalo ka go kgoboka temo e emetšego, gomme lonaka lwa gagwe le kgeta mahudu; gomme go tla ba bjalo ka go lakantšha mahudu lewineng la Refaima.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "52e6cb3380af1ec67efd3a81b772f2034218a9db2763a00a4c5fac9cef6694d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/17\/5-8.1792291604894.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba"
+    },
+    {
+      "surface": "כאסף",
+      "gloss": "bjalo ka go kgoboka"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "temo"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "e emetšego"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "gomme lonaka lwa gagwe"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "mahudu"
+    },
+    {
+      "surface": "יקקצור",
+      "gloss": "le kgeta"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba"
+    },
+    {
+      "surface": "כמלקט",
+      "gloss": "bjalo ka go lakantšha"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "mahudu"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "lewineng la"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaima"
+    }
+  ],
+  "timestamp": "2026-10-18T02:46:44.895059836Z",
+  "model": "glm-5.3"
+}

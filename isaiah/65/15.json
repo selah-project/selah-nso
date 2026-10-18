@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 65:15",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשבועה",
+      "rationale": "'bjalo ka molato' (kutullo ya kgale, KJV 'for a curse') kgahlanong le 'bjalo ka sefofane' (YLT) — dikgopolo tše pedi tša ditoloko tše kgolo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bakgethwa",
+      "rationale": "בחירי — 'ba kgethwa' go ya ka go kgethwa ga go D2 sa קדש\/בחר."
+    }
+  ],
+  "translation": "Gomme le tla siea leina la lona bjalo ka molato go bakgethwa ba ka, gobale Adonai Yahwe o tla go bolaya, gomme go bakgalabjwa ba gagwe o tla bitša leina le lengwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "828310d5c80749125b1f7436b6e22b75e7083491fd67e71cef4c9def9115b608",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/65\/13-16.1792292651501.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנחתם",
+      "gloss": "gomme le tla siea"
+    },
+    {
+      "surface": "שמכם",
+      "gloss": "leina la lona"
+    },
+    {
+      "surface": "לשבועה",
+      "gloss": "bjalo ka molato"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "go bakgethwa ba ka"
+    },
+    {
+      "surface": "והמיתך",
+      "gloss": "gobale o tla go bolaya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "gomme go bakgalabjwa ba gagwe"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "o tla bitša"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "le lengwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:04:11.502502829Z",
+  "model": "glm-5.3"
+}

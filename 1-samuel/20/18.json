@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 20:18",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חדש",
+      "rationale": "חדש ke kgwedi e mpsha (letsatsi la pele la kgwedi), e sego fela 'kgwedi'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפקדת\/יפקד",
+      "rationale": "modu o mošwago wa go lekolwa o boletšwe gabedi — motho le boemo bja gagwe ka bobedi di lekolwa."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi se nyaka kopula ye Seheberu se sa e nago."
+    }
+  ],
+  "translation": "Gomme Yehonathane a mo bolelela: Maabane ke ngwaga-pedi ya kgwedi ⟨ke⟩ kgwedi e mpsha, gomme o tla lekolwa, gobane boemong bja gago go tla lekolwa.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e4cfe4ee3df579c78553424ad5dde8be4664a59c0308b79848c2fa263ee83192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/20\/18-19.1792304808144.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme o boleletše"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonathane"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "maabane"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ngwaga-pedi ya kgwedi e mpsha"
+    },
+    {
+      "surface": "ונפקדת",
+      "gloss": "gomme o tla lekolwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "go tla lekolwa"
+    },
+    {
+      "surface": "מושבך",
+      "gloss": "boemong bja gago"
+    }
+  ],
+  "timestamp": "2026-10-18T06:26:48.145620249Z",
+  "model": "glm-5.3"
+}

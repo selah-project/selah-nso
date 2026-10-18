@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 18:5",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "merafe ya gago (ka moka)",
+      "rationale": "מכל שבטיך phrase split across two glosses; 'ka moka' carried on מכל"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go šoma",
+      "rationale": "לשרת is cultic service (ministrasyon ya bohalaledi), 'go šoma' ke lentšu la general"
+    }
+  ],
+  "translation": "Ka gobane Yahwe Elohim wa gago o kgethile ⟨את⟩ yena go tšwa go merafe ya gago ka moka, go ema go šoma ka leina la Yahwe, yena le bana ba gagwe, matsatsi ka moka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d4f36b77386d4930422ae304e8b30a0bb4eee6c84b89fc106a55aca6020d6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/18\/5-8.1792285985366.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "o kgethile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go merafe ya gago ka moka"
+    },
+    {
+      "surface": "שבטיך",
+      "gloss": "merafe ya gago"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "go ema"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "go šoma"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-18T01:13:05.366867667Z",
+  "model": "glm-5.3"
+}

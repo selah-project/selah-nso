@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עקרת הבית",
+      "rationale": "Barren-of-the-house: KJV 'to keep house' vs ylt\/JPS reading עקרת as the barren woman and הבית as her home; Sepedi latela ylt."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopula; Seheberu ga se na yona."
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללו יה",
+      "rationale": "Taetšo ya go leboha e bitša babadi — Hallelu-Yah."
+    }
+  ],
+  "translation": "Yo a durafatša ⟨את⟩ ya se nago bana, ya mo gae, go ba ⟨ke⟩ mma wa bana yo a thabileng — lebohang Yah!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4dea4c503804498d51d5212b4c24b1f12ad4023e8a039e1d30fba7656bec96a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/113\/9-9.1792298680934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "Yo a durafatšago"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "ya se nago bana"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya mo gae"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mma"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "wa bana"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "yo a thabileng"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "lebohang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:40.935025019Z",
+  "model": "glm-5.3"
+}

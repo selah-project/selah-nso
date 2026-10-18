@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יארב…יחטף…עני ×2",
+      "rationale": "Go boela ga mafoko — o emetša\/o tšoša\/mouwane a phetišwa gabedi, sebopego se se fetotšwego se lahlegile."
+    },
+    {
+      "kind": "crux",
+      "subject": "בסכה",
+      "rationale": "Thari ya dikala goba lehaeng la tau; KJV 'den', BSB 'thicket'."
+    }
+  ],
+  "translation": "O emetša mo go utilwego, bjalo ka tau mo tharing; o emetša go tšoša mouwane; o tšoša mouwane, a mo gogela ka seething ya gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "69f62e88b52dde268b8a777f9383ad20cf58fde3d420c1357272749c9bc674a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/10\/9-12.1792297241109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "o emetša"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "mo go utilwego"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "bjalo ka tau"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "mo tharing"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "o emetša"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "go tšoša"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mouwane"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "o tšoša"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mouwane"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "a mo gogela"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "ka seething ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:41.110011829Z",
+  "model": "glm-5.3"
+}

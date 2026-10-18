@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Adonai",
+      "rationale": "אדני wa Modimo o bolokwa ka modumo — AOWA Morena"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨gore⟩",
+      "rationale": "כי ya bobedi e hlalosa; Sepedi e nyaka go"
+    },
+    {
+      "kind": "mystery",
+      "subject": "letšatši la gagwe",
+      "rationale": "letšatši la ba-bele — se se sa bolelwago ka botlalo"
+    }
+  ],
+  "translation": "Adonai o tla sekgahlela ⟨mo⟩; ka gobane o bonile ⟨gore⟩ letšatši la gagwe le tla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7f39e792d4f5efedebbc23dec149e1cf447459271ba0112cc11d05abe51312f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/37\/13-16.1792297602085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "o tla sekgahlela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mo⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "o bonile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨gore⟩"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "le tla"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "letšatši la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:42.086589419Z",
+  "model": "glm-5.3"
+}

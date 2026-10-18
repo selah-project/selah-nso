@@ -1,0 +1,201 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 6:32",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בן המרצח",
+      "rationale": "'morwa wa mpolai' — diphetho tše dingwe: 'morwa wa mpolai yo' kgathanong le 'mpolai yo' (BSB); Elisha o bolela ka kgoši, e sego tatagwe wa Elisha"
+    },
+    {
+      "kind": "elision",
+      "subject": "להסיר את ראשי",
+      "rationale": "Hebrew infinitive 'go fetola\/go ntšha hlogo ya ka' — Sepedi 'go ntšha hlogo' e pedi-diro tše nnyane tše tharo go Hebrew e tee"
+    },
+    {
+      "kind": "you",
+      "subject": "go bagolo",
+      "rationale": "Elisha o bolela ka go direla go bagolo — ditaelo tša go tswalela lebati le potšišo ya ka mafelelo a temana"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Lebelelang … tswalelang",
+      "rationale": "ditaeko tše pedi tša go laela bagolo di bitša mothumi go etsa"
+    }
+  ],
+  "translation": "Elisha a dutše ntleng ya gagwe, gomme bagolo ba dutše ⟨את⟩ naye; gomme kgoši a romela motho go tšwa pele ga yena; eupša pele moromiwa a fihla go yena, yena a re go bagolo: A le bone gore morwa wa mpolai yo o rometše go ntšha ⟨את⟩ hlogo ya ka? Lebelelang, ge moromiwa a fihla, tswalelang ⟨את⟩ lebati, gomme la ⟨את⟩ mo gata ka lebati. A ga go lentšu la maoto a mong wa yena ka morago ga yena?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5a46683d16cb1c94bb415f65bf1e56f315c8a2067167e163fd1d71a9cc4a6c4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/6\/29-32.1792290572734.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a dutše"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ntleng ya gagwe"
+    },
+    {
+      "surface": "והזקנים",
+      "gloss": "gomme bagolo"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "ba dutše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "go tšwa pele ga yena"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "moromiwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "הראיתם",
+      "gloss": "a le bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o rometše"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "המרצח",
+      "gloss": "wa mpolai"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yo"
+    },
+    {
+      "surface": "להסיר",
+      "gloss": "go ntšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlogo ya ka"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlogo ya ka"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "lebelelang"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ge a fihla"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "moromiwa"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "tswalelang"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "⟨את⟩ lebati"
+    },
+    {
+      "surface": "ולחצתם",
+      "gloss": "la mo gata"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "בדלת",
+      "gloss": "ka lebati"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ga go"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "la maoto"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "a mong wa yena"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka morago ga yena"
+    }
+  ],
+  "timestamp": "2026-10-18T02:29:32.736298958Z",
+  "model": "glm-5.3"
+}

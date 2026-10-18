@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 26:29",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "malapana",
+      "rationale": "בתים 'houses' — malapa a diphatla, e sego 'matlo' ka tlhaho"
+    },
+    {
+      "kind": "elision",
+      "subject": "mapanko",
+      "gloss": "הקרשים — dipanko tša Mishkane, e sego 'deck ya sekepe'"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ mapanko o di phuthela ka gauta, gomme ⟨את⟩ dikhukuri tša tšona o di dira ka gauta, malapana a diphatla tša tšona; gomme o phuthela ⟨את⟩ diphatla tša tšona ka gauta.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "cee55f4ad52656483c7fe027a68e5bfe107cbcee5e091cef579a7fe73ef0e4ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/26\/29-32.1792283034014.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "mapanko"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "mapanko"
+    },
+    {
+      "surface": "תצפה",
+      "gloss": "o di phuthela"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "dikhukuri tša tšona"
+    },
+    {
+      "surface": "טבעתיהם",
+      "gloss": "dikhukuri tša tšona"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o di dira"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "malapana"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "a diphatla tša tšona"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "gomme o phuthela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphatla tša tšona"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "diphatla tša tšona"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    }
+  ],
+  "timestamp": "2026-10-18T00:23:54.015122284Z",
+  "model": "glm-5.3"
+}

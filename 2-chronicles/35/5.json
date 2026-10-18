@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 35:5",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bokgethwa",
+      "rationale": "בקדש קדש e fetotšwe go ba lefelong la bokgethwa, e sego halalela ya Sesotho"
+    },
+    {
+      "kind": "you",
+      "subject": "Balefite",
+      "rationale": "Taello ye e tsenelela go Balefite — direto tša boikgethelo"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחלקת",
+      "rationale": "Bafofetoledi ba fapana: karolo ya lapo la bo-ntate (kjv) kgathanong le karolong bakeng sa ba ka moka ya Balefite (asv\/jps)"
+    }
+  ],
+  "translation": "Gomme le emeng lefelong la bokgethwa go ya ka dikarolo tša malapa a bo-ntate, bakeng sa baeno bana setšhaba, le karolong ya lapo la bo-ntate la Balefite.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "222e660984a6101e96b5e5262be30bf4f613f811e6ae2ec49640c1f5e66453e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/35\/5-8.1792304469959.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמדו",
+      "gloss": "gomme le eme"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "lefelong la bokgethwa"
+    },
+    {
+      "surface": "לפלגות",
+      "gloss": "go ya ka dikarolo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "a bo-ntate"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "bakeng sa baeno"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "וחלקת",
+      "gloss": "le karolong"
+    },
+    {
+      "surface": "בית",
+      "gloss": "lapo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "la bo-ntate"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "Balefite"
+    }
+  ],
+  "timestamp": "2026-10-18T06:21:09.959789465Z",
+  "model": "glm-5.3"
+}

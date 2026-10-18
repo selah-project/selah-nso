@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 53:10",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם תשים אשם נפשו",
+      "rationale": "KJV 'ge o bea moya wa gagwe sehlabelo sa sebe' (o mo nea) kgathanong le JPS 'ge moya wa gagwe o itsehlabela' — modiri wa sehlabelo motho ka nosi goba mošomiši ga a hlaka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maphelo",
+      "rationale": "נפש ke sello sa maphelo\/thothoro — e sego 'moya' wa ka mehla."
+    },
+    {
+      "kind": "crux",
+      "subject": "מי a hlotša",
+      "rationale": "Yahwe yo a mo hlotšago (KJV, ASV) goba 'o hlotšwe ka bolwetši' (JPS: 'crush him by disease') — modumo wa דכאו o hlakantšhwa ka tsela ya kgopolo."
+    }
+  ],
+  "translation": "Gomme Yahwe o ile a dumelela go mo hlotša, o mo babjera ka bokuli; ge a bea maphelo a gagwe bjalo ka sehlabelo sa sebe, o tla bona peu ya gagwe, o tla oketša matšatši a gagwe, gomme thato ya Yahwe e tla atlega ka seatla sa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/53\/9-12.1792292390766.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "gomme Yahwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "o ile a dumelela"
+    },
+    {
+      "surface": "דכאו",
+      "gloss": "go mo hlotša"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "go mo babjera ka bokuli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "sehlabelo sa sebe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "maphelo a gagwe"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o tla bona"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peu"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "o tla oketša"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matšatši"
+    },
+    {
+      "surface": "וחפץ",
+      "gloss": "gomme thato"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ka seatla sa gagwe"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "e tla atlega"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:50.767405844Z",
+  "model": "glm-5.3"
+}

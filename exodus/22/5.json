@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלם ישלם",
+      "rationale": "Infinitive-absolute + finite verb: 'lefа o tla lefa' — go tiisa, ka botlalo; phetišo ye e tlaleletšego e bolokwa ka 'ka botlalo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גדיש",
+      "rationale": "Teropo (stack ya dikoloto); Seheberu se bolela gape le lebitšo la mahloko — sebopego se bolokwa."
+    },
+    {
+      "kind": "measurement",
+      "subject": "go lefa ka botlalo",
+      "rationale": "Molao wa go lefa ka botlalo — kakaretšo ya molao wa sehlabelo."
+    }
+  ],
+  "translation": "Ge mollo o tšewa gomme o hwetša dinaka, gomme go jele teropo goba koro e tšemego goba lefase — o tla lefa ka botlalo yo a lofilеgo ⟨את⟩ tšhokgolo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0bf4f97fb15e47a8ec3938b11ffbccb02b4ca14c9c1fabdb7c30713c96a91bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/22\/5-8.1792282972063.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "o tšewa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "gomme o hwetša"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "dinaka"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "go jele"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "teropo"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "koro e tšemego"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "lefа"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o tla lefa ka botlalo"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "yo a lofilеgo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tšhokgolo"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "tšhokgolo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:22:52.063957116Z",
+  "model": "glm-5.3"
+}

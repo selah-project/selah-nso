@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bona",
+      "rationale": "Sepedi e nyaka serifi sa咋object, Seheberu se na le suffix -מו feela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "galefo",
+      "rationale": "אף ka botlalo ke nko\/ntšhitwana; \"ka galefo\" ke papetšo ya sebopego sa gare"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבהלמו",
+      "rationale": "go tšosa kgatlhanong le go ba tsereša; JPS \"affright\" kgatlhanong le KJV \"vex\""
+    }
+  ],
+  "translation": "Ka nako yeo o tla bolela le ⟨את⟩ bona ka galefo ya gagwe, gomme ka tutumo ya gagwe o tla ba tšosa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "780e99b9003d6a8cbb48b4c00d2ba0d664e906dbefaea84a48c723a4c19e5859",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/2\/5-8.1792297099338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ka nako yeo"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o tla bolela"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "le"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ka galefo ya gagwe"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "gomme ka tutumo ya gagwe"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "o tla ba tšosa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:19.338734899Z",
+  "model": "glm-5.3"
+}

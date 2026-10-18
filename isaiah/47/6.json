@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 47:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואתנם",
+      "rationale": "The suffix -ם 'them' is fused into ka fa ba; the suffix pronoun carries the direct object, not an aleph-tav marker."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mohau",
+      "rationale": "רחמים is plural of compassion, rooted in רחם 'womb'; mohau (singular) flattens the plural and the womb imagery."
+    }
+  ],
+  "translation": "Ke ile ka makala ka setšhaba sa ka, ka nyefola boswa bja ka, gomme ka fa ba matsogong a gago; ga o ba beele mohau; go bagolo o ile wa boadia poko ya gago kudu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "907573ff3d314b66abf3ee49a641c6fed5d20e777e0aa95f7a67dea234ff0132",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/47\/5-8.1792292325132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קצפתי",
+      "gloss": "Ke ile ka makala"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "חללתי",
+      "gloss": "ka nyefola"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "boswa bja ka"
+    },
+    {
+      "surface": "ואתנם",
+      "gloss": "gomme ka fa ba"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "matsogong a gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "o beele"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "הכבדת",
+      "gloss": "wa boadia"
+    },
+    {
+      "surface": "עלך",
+      "gloss": "poko ya gago"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T02:58:45.132973119Z",
+  "model": "glm-5.3"
+}

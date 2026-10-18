@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dikgapetla",
+      "rationale": "Sepedi e nyaka lentšu la 'dikgapetla' go hlalosa וינתח, go dismember"
+    },
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Sepedi e nyaka sebopego sa ⟨e⟩ bakeng sa poo; bo umaka sebopego fela ga setho"
+    }
+  ],
+  "translation": "Gomme a rulaganya ⟨את⟩ dikgwa, gomme a kgaola ⟨את⟩ poo dikgapetla, gomme a e bea godimo ga dikgwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e181a50c7be3ae0ddb4e3bbf164542da036ad17ed6af16a55e27f40751f2b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/18\/33-36.1792290282870.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "gomme a rulaganya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgwa"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dikgwa"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "gomme a kgaola dikgapetla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "poo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "poo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "gomme a e bea"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dikgwa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:24:42.871434309Z",
+  "model": "glm-5.3"
+}

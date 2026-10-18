@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mohlahlami",
+      "rationale": "חומץ ka bokao ya yona ya pele ke 'go ba wa mono\/sour' — ka ponagalo ya tatso e fošagetšego; 'yo a sotlago' ke khutlo ya semoya."
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Puo e lebeleletše Elohim ka boemo: 'Elohim wa ka'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מיד \/ מכף",
+      "rationale": "Mehlaperi ye mebedi ya seatla — letogo le letswaeng — e a ipša, go hlatlamana ga dikanoko tše pedi tša go tšwa maboteng."
+    }
+  ],
+  "translation": "Elohim wa ka, ntlošola seatlang sa molahlegi, seatlang sa yo a se nago toko le mohlahlami.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/71\/1-4.1792298076365.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ntlošola"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "seatlang sa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "molahlegi"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "seatlang sa"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "yo a se nago toko"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "le mohlahlami"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:36.366213192Z",
+  "model": "glm-5.3"
+}

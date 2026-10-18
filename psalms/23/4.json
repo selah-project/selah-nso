@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sešego sa lehu",
+      "rationale": "צלמות: 'sešego sa lehu' (צל+מות) kgahlanong le 'lefsifsi le le tseneletšego' (sethala sa צלמה); maswao a mantši a kgetha ya bobedi"
+    },
+    {
+      "kind": "you",
+      "subject": "o wena",
+      "rationale": "Mohlagisiši o fetolela go Yahwe ka boikakaretšo — sefoko se se bula go mmadi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעי \/ רע",
+      "rationale": "Ruti (23:1) le bobja (23:4) — modisa kgahlanong le bobja; ditemana tše pedi tše di kwano"
+    }
+  ],
+  "translation": "Gaele ge ke sepela mo phong ya sešego sa lehu, nka se tšhoge bobja, gobane o wena o le nna; sethlare sa gago le motana wa gago — tšona di a nkgomotša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/23\/1-4.1792297404168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Gaele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke sepela"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "mo phong ya"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "sešego sa lehu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nka se"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "tšhoge"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o wena"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "o le nna"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "sethlare sa gago"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "le motana wa gago"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tšona"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "di a nkgomotša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:24.171528830Z",
+  "model": "glm-5.3"
+}

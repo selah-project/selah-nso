@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "phaphatha ya molomo",
+      "rationale": "חך is the palate, the roof of the mouth, not the mouth generally."
+    },
+    {
+      "kind": "addition",
+      "subject": "wa ka \/ la ka",
+      "rationale": "Hebrew suffix pronouns rendered as possessives of 'my', required by Sepedi syntax."
+    }
+  ],
+  "translation": "Bonа bjale, o ile a bula molomo wa ka, lentšu laleme la ka le boletše ka phaphatheng ya molomo wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c95f0e869cbb0b60370b3167500d79a829f2ac3535c5bf511a253f5553f34934",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/33\/1-4.1792300650212.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "o ile a bula"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo wa ka"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "le boletše"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "lentšu laleme la ka"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "ka phaphatheng ya molomo wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:17:30.213006337Z",
+  "model": "glm-5.3"
+}

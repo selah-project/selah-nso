@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "טוב עין",
+      "rationale": "'sehlo se sebotse' — leruri le bolela mongwadiriši yo a bogago, e sego sehlo sa mmele"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לדל",
+      "rationale": "lentšu le bolela 'yo a nomo kgokologago', lahlile gore 'yo a hlogang'"
+    }
+  ],
+  "translation": "Yo a nago le sehlo se sebotse, yena o tla phošwa; ka gobane o file bogobe bja gage go yo a hlogang.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dca139fc669d7172cea04b3176c9b02025c356b8ca5589a93fef3714a6c1ff31",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/22\/9-12.1792299622896.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "se sebotse"
+    },
+    {
+      "surface": "עין",
+      "gloss": "sehlo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tla phošwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o file"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "bogobe bja gage"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "go yo a hlogang"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:22.896704267Z",
+  "model": "glm-5.3"
+}

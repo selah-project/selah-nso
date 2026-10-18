@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 31:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e swara moya le phefo ka gare ga lentšu le tee — ga se fetoletšwe, e ngwalwa ka modumo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na khopanyo — 'Mitsrayime motho, e sego El'; Sepedi se e nyaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עוזר\/עזר",
+      "rationale": "go thuša le go thušwa — mantšu a mabedi a modu o mofsa, sephephedi sa phatlalatšo"
+    }
+  ],
+  "translation": "Gomme Mitsrayime ke motho, e sego El; gomme dipere tša bona ke nama, e sego ruakh; gomme Yahwe o tla otlolla seatla sa gagwe, gomme mothuši a tlhohle, yo a thušwago a wa, gomme ba kopana ba ka moka ba fedile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f632ec8308c30b086a285f70b6e19320d059822ae3cb3da2015ceb73fa9b6cc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/31\/1-4.1792291930415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Gomme Mitsrayime"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e sego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וסוסיהם",
+      "gloss": "dipere tša bona"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e sego"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "gomme Yahwe"
+    },
+    {
+      "surface": "יטה",
+      "gloss": "o tla otlolla"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "a tlhohle"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "mothuši"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "a wa"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "yo a thušwago"
+    },
+    {
+      "surface": "ויחדו",
+      "gloss": "gomme ba kopana"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ba ka moka"
+    },
+    {
+      "surface": "יכליון",
+      "gloss": "ba fedile"
+    }
+  ],
+  "timestamp": "2026-10-18T02:52:10.416572391Z",
+  "model": "glm-5.3"
+}

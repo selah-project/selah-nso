@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sheole",
+      "rationale": "Leina la Seheberu le bolokwa — ga se 'dihele' goba 'lefsifsi'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא תשבענה ... לא תשבענה",
+      "rationale": "Poelelo ya modumo o tee ga gabedi — Sheole le mahlo, ka moka ga a tlale."
+    }
+  ],
+  "translation": "Sheole le tšhuwo ga di a tlala, gomme mahlo a motho ga a tlala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2840ef32a6fe4117536bd22a0a81525c5ecee1ea848f43839e422a5100d3ea99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/27\/17-20.1792299889628.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "le tšhuwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "di a tlala"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "gomme mahlo a"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "a tlala"
+    }
+  ],
+  "timestamp": "2026-10-18T05:04:49.629751813Z",
+  "model": "glm-5.3"
+}

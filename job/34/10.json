@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 34:10",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kutweng go nna",
+      "rationale": "Elihu o bitša banna ba pelo go kutla — taodišo ya ka ntle"
+    },
+    {
+      "kind": "you",
+      "subject": "banna ba pelo",
+      "rationale": "Molaetša o lebisitšwe go banna ba pelo, balatedi ba Elihu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "חללה",
+      "rationale": "Interjection ya Seheberu 'a se ke go ba le wona!' — e fetotšwe 'le gate'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעול",
+      "rationale": "Sepedi 'molato' (molato wa toka); lentšu le bolela go gotlwetša ga toka"
+    }
+  ],
+  "translation": "Ka gone, banna ba pelo, kutweng go nna: le gate go El go dira sebe, gomme go Shadai go dira molato.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3ffb375b8b937087dca96c982a7456ed856af0c4bcf2792f26d1c4f6c82c5b6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/34\/9-12.1792300732413.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka gone"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kutweng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "חללה",
+      "gloss": "le gate"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "go El"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "gomme Shadai"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "molato"
+    }
+  ],
+  "timestamp": "2026-10-18T05:18:52.413805941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תתקעו ולא תריעו",
+      "rationale": "Phapano gare ga go hlabja (taqa — modumo o motharo) le teruah (modumo o kgaotšego-kgaotšego): BSB 'long blasts, not short ones' kgathanong le KJV 'blow, but not sound an alarm'."
+    },
+    {
+      "kind": "addition",
+      "subject": "modumo wa tlhabelo",
+      "rationale": "Seheberu se bolela fela 'לא תריעו' — lentšu 'teruah' le okeditšwe go hlalosa phapano."
+    }
+  ],
+  "translation": "Ge go kakaretšwa ⟨את⟩ phuthego, lo tla hlabja, eupša ga lo na go leleka modumo wa tlhabelo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "717952d3133a016172b31818774583bfda892fd96fc9a19050f0f015b9883edd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/10\/5-8.1792284611332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "ge go kakaretšwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phuthego"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "lo tla hlabja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eupša ga lo na"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "go leleka modumo wa tlhabelo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:50:11.333595875Z",
+  "model": "glm-5.3"
+}

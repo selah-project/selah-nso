@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "e sego mehla ka moka",
+      "rationale": "אך לא כל הימים: 'fela e sego mehla ka moka' — dikgethi tše ntši di bolela 'e sego ka nako e sego mafelelo'; sebopego sa Seheberu se bolela mehla ka moka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "peu",
+      "rationale": "זרע peu — e bolela gape setšhaba sa morago, bana ba Dafida"
+    }
+  ],
+  "translation": "Gomme ke tla gatelela ⟨את⟩ peu ya Dafida ka baka la se; fela e sego mehla ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "20cf7c07f798e517e3acdffd5c6cf3dcb7ddd0c8536ac7f56d4b4cdcb9cd901f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/11\/37-40.1792290041960.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "gomme-ke-tla-gatelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "peu ya Dafida"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka-baka-la"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e-sego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka-moka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mehla"
+    }
+  ],
+  "timestamp": "2026-10-18T02:20:41.961698871Z",
+  "model": "glm-5.3"
+}

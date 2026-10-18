@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "את ya mo go Dafida–Edome ke lentšu la peleposition ('le'), e sego sesupi sa object; baduedi ba fapana ge ba e bala 'le' goba 'kgahlanong le'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "החללים",
+      "rationale": "החללים mo go leo 'ba ba bogilwego\/ba bolailwego' — ba bowetše mo ntweng; 'ba bolailwego' ke mokgwa wo o bakgolo go feta wa go utwala."
+    }
+  ],
+  "translation": "Gomme go bile go le bjalo ge Dafida a le ⟨את⟩ Edome, ge Yoabe, mookamedi wa madira, a namile go hlabela ⟨את⟩ ba bolailwego, a thula banna ka moka Edome.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/11\/13-16.1792289996793.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go bile"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "ge... a le"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edome"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "ge a nama"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "שר",
+      "gloss": "mookamedi"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "wa madira"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "go hlabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba bolailwego"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ba bolailwego"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a thula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "banna"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edome"
+    }
+  ],
+  "timestamp": "2026-10-18T02:19:56.794365575Z",
+  "model": "glm-5.3"
+}

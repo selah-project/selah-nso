@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na kopula; Sepedi se e nyaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שבע",
+      "rationale": "šova' 'kgonthe ya tšego' — pono ya go tlala ka dijo, e fetolegile go 'kgonthe'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "נצח",
+      "rationale": "'netšakh — 'phihlelo', 'sehlooho', gape 'naribohole'; mo go tšea bohwa bja go fihlela godimo"
+    }
+  ],
+  "translation": "O tla ntsebiša tsela ya bophelo; kgonthe ya mehlabahlabela ke ⟨את⟩ sefahleho sa gago; dilo tše monate ka go ja la gago, ka naribohole.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/16\/9-11.1792297255092.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "O tla ntsebiša"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya bophelo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "kgonthe"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "ya mehlabahlabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa gago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa gago"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "dilo tše monate"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ka go ja la gago"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ka naribohole"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:55.093473827Z",
+  "model": "glm-5.3"
+}

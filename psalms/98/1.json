@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "his right hand and his holy arm have gotten him the victory",
+      "rationale": "Seheberu se re: tshepho e dirilwe ke seatla sa go ja le letshwargo — go dira phološo; mantšu a Sepedi a bolokile sebopego sa go dira."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שירו ... שיר",
+      "rationale": "Go boela ga modumo wa go opela (širu, šir) — pego ya mmetse e timetše ka Sepedi."
+    },
+    {
+      "kind": "invitation",
+      "subject": "opelang",
+      "rationale": "Taollo ya go opela e bitša setšhaba ka moka."
+    }
+  ],
+  "translation": "Sefela sa go tletša ka diphala. Opelang go Yahwe sefela se swa, ka gobane o dire dilo tša makatsa; tshepho ya go phološa e mo go seatla sa gagwe sa go ja le letshwargo la gagwe la bokgethwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/98\/1-4.1792298546411.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "sefela sa go tletša ka diphala"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "opelang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "sefela"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "se swa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "dilo tša makatsa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dire"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "tshepho ya go phološa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "seatla sa gagwe sa go ja"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "gomme letshwargo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "la bokgethwa bja gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:26.412489462Z",
+  "model": "glm-5.3"
+}

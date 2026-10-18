@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 9:9",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "peu",
+      "rationale": "צרור ke poletlo yeo e patetšwego — kernel ya peo; KJV 'stone', Sepedi peu"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכברה",
+      "rationale": "sehlong — sehlodi sa go hlwekisa peo; lentšu le ka ba le bothata go Sepedi, le emetše tšebe"
+    }
+  ],
+  "translation": "Gobale bonang, nna ke laela, gomme ke tla rusunyetsa go ditšhaba ka moka ⟨את⟩ ntlo ya Yisraele, bjalo ka ge go rusunyetswa ka sehlong, gomme peu e ka se wage lefase.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f8267812af290365fb9bdbdf6006b6398bce3cd4105759b310e0b4fd1d4ca2e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/9\/9-12.1792296338979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobale"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ke laela"
+    },
+    {
+      "surface": "והנעותי",
+      "gloss": "gomme ke tla rusunyetsa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "go ka moka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yisraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "ינוע",
+      "gloss": "go rusunyetswa"
+    },
+    {
+      "surface": "בכברה",
+      "gloss": "ka sehlong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme e sego"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "e wage"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "peu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:05:38.980459575Z",
+  "model": "glm-5.3"
+}

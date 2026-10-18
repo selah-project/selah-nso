@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke moya\/bophelo — sehlogi sa go hema, e sego seswantšho sa ka morago ga lehu"
+    },
+    {
+      "kind": "crux",
+      "subject": "o kgomaretše",
+      "rationale": "דבקה: 'go kgomarela' kgathanong le 'go latela ka maatla' (KJV 'followeth hard')"
+    }
+  ],
+  "translation": "Moya wa ka o kgomaretše morago ga wena; ⟨o⟩ a nthekga ke seatla sa gago sa go ja.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a6bd11b0433fd2e8ac46bc2ccb62e89be14c7c212bf14565ba135586b13f9937",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/63\/9-12.1792297969323.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "o kgomaretše"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "morago ga wena"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "o a nthekga"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "seatla sa gago sa go ja"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:49.323871369Z",
+  "model": "glm-5.3"
+}

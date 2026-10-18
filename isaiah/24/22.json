@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 24:22",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואספו \/ אספה \/ אסיר",
+      "rationale": "Go bapisiša ga modumo wo o theilwego godimo ga אספ: bokellwa—bokello—bakgolegwa; sebopego se a timela ka Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "יפקדו",
+      "rationale": "'ba tla etelwa' — lentšu le le swanago le la setatimeng sa 21: kotlo, go sekasekwa, goba go etelwa ka mohola; mošomo o tee, ditsela tše tharo."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומרב ימים",
+      "rationale": "'ka bontši ba matsatsi' — ge e le nnete 'ka bontši jwa matsatsi', ka mehla e ranngwa 'matsatsi a matelele'."
+    }
+  ],
+  "translation": "Gomme ba tla bokellwa, bjalo ka bokello ya bakgolegwa mo sedibeng, gomme ba tla tswalelwa kgolegong; gomme ka morago ga matsatsi a matelele ba tla etelwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5bd407e41a4c5bcb7b224619115997a500d58beccf0366649f8bc4f8da970e05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/24\/21-23.1792291681197.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואספו",
+      "gloss": "gomme ba tla bokellwa"
+    },
+    {
+      "surface": "אספה",
+      "gloss": "bokello"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ya bakgolegwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בור",
+      "gloss": "sedibeng"
+    },
+    {
+      "surface": "וסגרו",
+      "gloss": "gomme ba tla tswalelwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מסגר",
+      "gloss": "kgolegong"
+    },
+    {
+      "surface": "ומרב",
+      "gloss": "gomme ka bontši"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ba matsatsi"
+    },
+    {
+      "surface": "יפקדו",
+      "gloss": "ba tla etelwa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:48:01.198408864Z",
+  "model": "glm-5.3"
+}

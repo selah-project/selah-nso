@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 10:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לשלל שלל ולבז בז",
+      "rationale": "Infinitive+noun pairs of the same root repeated — 'to-plunder plunder and to-seize spoil' — the doubling is flattened in Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חנף",
+      "rationale": "Literally 'soiled, impious' — rendered se se senyegilego (defiled) rather than a religious role-word."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Copula and subject pronouns supplied by Sepedi grammar, absent in the Hebrew participial clauses."
+    }
+  ],
+  "translation": "Kgahlanong le setšhaba se se senyegilego ke mo romela, gomme kgahlanong le setšhaba sa makgopho a ka ke mo laela, go utswa tša go utšwa le go tlola tša go tlošwa, gomme go dira se se tlolwago bjalo ka letswe la ditsela.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1bf88c8f9673091a43e9821128a813b6750fe47559d10dd0100fc90e6ea85183",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/10\/6-7.1792304950067.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגוי",
+      "gloss": "kgahlanong le setšhaba"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "se se senyegilego"
+    },
+    {
+      "surface": "אשלחנו",
+      "gloss": "ke mo romela"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "gomme kgahlanong le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "sa makgopho a ka"
+    },
+    {
+      "surface": "אצונו",
+      "gloss": "ke mo laela"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "go utswa"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "tša go utšwa"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "gomme go tlola"
+    },
+    {
+      "surface": "בז",
+      "gloss": "tša go tlošwa"
+    },
+    {
+      "surface": "ולשימו",
+      "gloss": "gomme go dira se"
+    },
+    {
+      "surface": "מרמס",
+      "gloss": "se se tlolwago"
+    },
+    {
+      "surface": "כחמר",
+      "gloss": "bjalo ka letswe"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "sa ditsela"
+    }
+  ],
+  "timestamp": "2026-10-18T06:29:10.068365656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gebere",
+      "rationale": "גבר ke gebere (monna wa maatla), e sego fela 'motho'"
+    }
+  ],
+  "translation": "Gebere yo weri o na le maatla, gomme monna wa tsebo o matifatša maatla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8320fc7b200d794ac86d2bb4d59068a7f94c81280b8edc7b4f516a72ab04e693",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/24\/5-8.1792299764587.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "gebere yo weri"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "weri"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "o na le maatla"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "gomme monna"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "wa tsebo"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "o matifatša"
+    },
+    {
+      "surface": "כח",
+      "gloss": "maatla"
+    }
+  ],
+  "timestamp": "2026-10-18T05:02:44.587747389Z",
+  "model": "glm-5.3"
+}

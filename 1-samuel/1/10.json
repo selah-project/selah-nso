@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke mokoko\/moho\/khumo ya bophelo — e sego \"moya\" ka botshepegi bja ka pelo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ובכה תבכה",
+      "rationale": "infinitive absolute — go bopeša ga go pheta, go laetša botelele bja go lela"
+    }
+  ],
+  "translation": "Gomme yena a ba botukong bja moya, a rapela go Yahwe, gomme a lela ka go lela thata.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3ce2494292e34820f4e727421f29ea59850c5f61fd5106972c371238012bbdcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/1\/9-12.1792287829287.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "gomme yena"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "botukong bja"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "a rapela"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "a lela"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "ka go lela thata"
+    }
+  ],
+  "timestamp": "2026-10-18T01:43:49.288817563Z",
+  "model": "glm-5.3"
+}

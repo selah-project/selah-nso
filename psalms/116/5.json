@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na le copula; maemo a Setho se a nyaka"
+    }
+  ],
+  "translation": "Yahwe ⟨ke⟩ wa mohau le wa tsedeke, gomme Elohim wa rena ⟨ke⟩ wa go hloriša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bf679b867d8ce0507218fe155fd981818a59f80f102dcfea0512928489773723",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/116\/5-8.1792298816145.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "wa mohau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "le wa tsedeke"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "gomme Elohim wa rena"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "wa go hloriša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:56.145530011Z",
+  "model": "glm-5.3"
+}

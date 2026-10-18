@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 3:2",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אכל (go ja)",
+      "rationale": "'Go ja' ka mollong — Seheberu se bolela gore sefahlego ga se a jewa ke mollong; 'go fišwa' e ka ba go se bonele gabotse."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירא \/ וירא",
+      "rationale": "Go boa ga lentšu 'go bona' ga bediri — go bona ga moelaedimane le go bona ga Moshe, dilo tše pedi tša go swana."
+    },
+    {
+      "kind": "hapax",
+      "subject": "סנה",
+      "rationale": "Sefahlego se se itšego sa morara — leina le theilwe Setsweng fela sebakeng se."
+    }
+  ],
+  "translation": "Gomme moelaedimane wa Yahwe a ea lebagana le yena ka lelabo la mollong, go tšwa gare ga sefahlego sa morara, gomme a bona, gomme lebee, sefahlego sa morara se fiša ka mollong, gomme sefahlego sa morara ga se a jea.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "957c52afa70c273d17869fcd10315c5804e9f2fb06bbacd54eee6014e6c112cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/3\/2-3.1792304624892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a ea lebagana le yena"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "moelaedimane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "lebagana le yena"
+    },
+    {
+      "surface": "בלבת",
+      "gloss": "ka lelabo la"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollong"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "go tšwa gare ga"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "sefahlego sa morara"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "gomme a bona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gomme lebee"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "sefahlego sa morara"
+    },
+    {
+      "surface": "בער",
+      "gloss": "se fiša"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollong"
+    },
+    {
+      "surface": "והסנה",
+      "gloss": "gomme sefahlego sa morara"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "a jea"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:44.893313480Z",
+  "model": "glm-5.3"
+}

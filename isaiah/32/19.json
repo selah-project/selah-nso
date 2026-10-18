@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברד\/ברדת · שפלה\/תשפל",
+      "rationale": "Go tloša mantšu: go theoga ga sehlaga (yarad) go boelediša le go wa ga mekulu (barad); šefela\/tišpola go bopa kgokagano ya mantsu a theogago — se se laleditšwego phetolelong"
+    },
+    {
+      "kind": "crux",
+      "subject": "motse o tla theogišwa fase",
+      "rationale": "Ba fetoleli ba fapana: ba bangwe ba re motse o tla hlwa ka šafeleng (ASV), ba bangwe ba re o tla theogela mothalong (JPS); sehlwa se bolela go theoga goba go tlaelwa"
+    }
+  ],
+  "translation": "Gomme mekulu e tla wa ge sehlaga se theoga, gomme sebakeng se se tlase motse o tla theogišwa fase.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "40a77b9aa53f19b877808e1aeb00c6b1037e72d126b03005ab66cebe2697f674",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/32\/17-20.1792291828667.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "Gomme mekulu e tla wa"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "ge … se theoga"
+    },
+    {
+      "surface": "היער",
+      "gloss": "sehlaga"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "gomme sebakeng se se tlase"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "o tla theogišwa fase"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motse"
+    }
+  ],
+  "timestamp": "2026-10-18T02:50:28.667865593Z",
+  "model": "glm-5.3"
+}

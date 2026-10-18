@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dika tša bosetsi",
+      "rationale": "Bosupi bja kahlolo bo hlahlamollwa kgorong — lefelo la kahlolo la setšhaba."
+    },
+    {
+      "kind": "addition",
+      "subject": "dika",
+      "rationale": "'dika' (tokens) tšehetša bosetsi go dira sebopego sa pele sa bosupi; בתולים ke sengwalwa se sengwe fela."
+    }
+  ],
+  "translation": "Gomme tatê wa ngwana wa mosetsana, le mmagwe, ba tla go di nkela ⟨את⟩ dika tša bosetsi tša ngwana wa mosetsana, ba di ntšha go baholwane ba toropo, kgorong.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0ebf874e02f770a54ec02abe03b2b8af099a467e4496750736318a7a2465d181",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/22\/13-16.1792286114152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ba tla go di nkela"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tatê wa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ngwana wa mosetsana"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "le mmagwe"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "ba di ntšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dika tša bosetsi"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "dika tša bosetsi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "tša ngwana wa mosetsana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "baholwane ba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "kgorong"
+    }
+  ],
+  "timestamp": "2026-10-18T01:15:14.153505571Z",
+  "model": "glm-5.3"
+}

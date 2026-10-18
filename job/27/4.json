@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 27:4",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Aowa",
+      "rationale": "אִם fela e ka se bontše go gana ka gobane Sepedi se nyaka 'aowa' bakeng sa boikano bjo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/הגה",
+      "rationale": "paralele: dirompa di bolela \/ leleme le beba — maboko a mabedi a swanago ka sebopego"
+    }
+  ],
+  "translation": "Aowa, ge dirompa tša ka di ka bolela bobe, gomme leleme la ka a le ke la beba maaka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d6412e9fc0059d6fe7bd8e695fbe47f8d2dc1094142e5433c7fbf63cd7dfb9da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/27\/1-4.1792300489566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "di ka bolela"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dirompa tša ka"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "gomme leleme la ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "a le ke la"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "beba"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "maaka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:14:49.567187073Z",
+  "model": "glm-5.3"
+}

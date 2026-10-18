@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "go laela setšhaba",
+      "rationale": "Setho sa go laela\/boela morago go ba dulo ba lefase ka moka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go tšhaba",
+      "rationale": "יראו le יגורu di swanetše go fapana — go tšhaba le go tlale ka mahlonoko, dumelelana ka mehla"
+    }
+  ],
+  "translation": "Lefase ka moka le tšhabe Yahwe; ba dulo ba lefase ka moka ba tlale ka mahlonoko ka gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/5-8.1792297519081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "le tšhabe"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ka gagwe"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ba tlale ka mahlonoko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba dulo ba lefase ka moka"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba dulo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:19.082307826Z",
+  "model": "glm-5.3"
+}

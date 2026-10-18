@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seka-hare",
+      "rationale": "קרב ke diphojo tša ka hare — diphapo, mala, le tše dingwe tša ka hare"
+    }
+  ],
+  "translation": "Le ⟨את⟩ letlalo la poo, le ⟨את⟩ nama ya yona ka moka, le hlogo ya yena, le maoto a yena, le seka-hare sa yena, le leswe la yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c21a666fa5d04805f516155a5295173a62db10644e0188ab5b80dc901a05221f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/4\/9-12.1792283640345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "letlalo la poo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "la poo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nama ya yona ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nama ya yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "le"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hlogo ya yena"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "maoto a yena"
+    },
+    {
+      "surface": "וְקִרְבּוֹ",
+      "gloss": "le seka-hare sa yena"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "le leswe la yena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:34:00.347052559Z",
+  "model": "glm-5.3"
+}

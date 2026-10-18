@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מתג האמה",
+      "rationale": "'thogo ya Ama' — phetolelo ya lentšu le lentšu kgahlanong le 'moteropo wa motheo' (ASV) goba leina fela Meteg-ʼAma (JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Bapalešiti",
+      "gloss_check": "maina a ditšhaba a bolokwa ka modumo wa Seheberu"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מתג",
+      "rationale": "lentšu le tšwa go 4965, le šomišwa ka tsela ye e kgethegilego fela mo."
+    }
+  ],
+  "translation": "Gomme ka morago ga se, Dafida a oka ⟨את⟩ Bapalešiti gomme a ba thibileng ka mangwalo, gomme Dafida a tšea ⟨את⟩ mathogo-a-ʼa-Ama go seatla sa Bapalešiti.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ea9f104a90429fb30e53e49e39483cd0d351f76a1e611f435127358209d57e50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/8\/1-4.1792288958117.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go bile"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "se"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a oka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bapalešiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapalešiti"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "a ba thibileng ka mangwalo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tšea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mathogo-a-ʼa-Ama"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "thogo"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ʼa-Ama"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "go seatla sa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapalešiti"
+    }
+  ],
+  "timestamp": "2026-10-18T02:02:38.118879019Z",
+  "model": "glm-5.3"
+}

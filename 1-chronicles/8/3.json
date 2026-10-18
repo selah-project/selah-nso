@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "go be go na le bana go",
+      "rationale": "Seheberu: ויהיו בנים לבלע 'mme bana ba be ba le go Bela' — go ba le bana, se se hlwahlwakago"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨go na le⟩",
+      "rationale": "polelo ya Sepedi e nyaka go ba le bakeng sa ויהיו"
+    }
+  ],
+  "translation": "Gomme go be go na le bana go Bela: Adara, le Gera, le Abihude.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "0f1e06e25412f021c74b48f1291d84477a5280bc83062d985c9da25bce5c2863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/8\/1-4.1792303028852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Gomme go be go na le"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "go Bela"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Adara"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "le Gera"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "le Abihude"
+    }
+  ],
+  "timestamp": "2026-10-18T05:57:08.853812317Z",
+  "model": "glm-5.3"
+}

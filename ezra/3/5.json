@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 3:5",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebego sa go fišwa",
+      "rationale": "עלת ke 'seo se tlago godimo' — sehlabelo se se fišwang ka mo go feletseng"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨sebego sa go fišwa⟩",
+      "rationale": "Seheberu se hloka sebopego sa polelo; sehlabelo se tsewa go temana ya 3:4"
+    }
+  ],
+  "translation": "Gomme ka morago ga seo, ⟨sebego sa go fišwa⟩ sa go tšwela pele, le tša dikgwedi tše mpshafatšwego, le tša mehla yohle ye e kgethwilwego ya Yahwe, le tša yo mongwe le yo mongwe yo a ithaopešago sehlabelo sa boithaopo go Yahwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "51a95af595ec64a53451fff6268b72a2a16b0354979a6905650df2c3a63407a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/3\/5-8.1792302290966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "gomme ka morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "sebego sa go fišwa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "sa go tšwela pele"
+    },
+    {
+      "surface": "ולחדשים",
+      "gloss": "le tša dikgwedi tše mpshafatšwego"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le tša mehla yohle"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "ye e kgethwilwego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המקדשים",
+      "gloss": "ye e kgethwilwego"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le tša yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "מתנדב",
+      "gloss": "yo a ithaopešago"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "sehlabelo sa boithaopo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:44:50.966958670Z",
+  "model": "glm-5.3"
+}

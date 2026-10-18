@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "'Fedisa maatla gomme tiepha' — laelwa ya Yahwe go Yehoshua, tlhago ya boetapele."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תנחיל",
+      "rationale": "Hifil wa נחל: go etsa baabelaodi; 'dira setšhaba se go šetša seabela' boloka sebopego sa boikarabelo seo Seheberu se se bontšhago."
+    }
+  ],
+  "translation": "Fedisa maatla gomme tiepha; ka gobane wena o tla dira setšhaba se go šetša seabela ⟨את⟩ lefase leo ke ikanetše go bo-ntate bona go se fa ⟨את⟩ bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "544bbaedbc370ceb3c029bd755cd863289c831915ff3aaed5326300ee819e378",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/1\/5-8.1792286549183.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "fedisa maatla"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "gomme tiepha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "o tla dira setšhaba se go šetša seabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba se"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba se"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ke ikanetše"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "go bo-ntate bona"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go se fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:22:29.184444494Z",
+  "model": "glm-5.3"
+}

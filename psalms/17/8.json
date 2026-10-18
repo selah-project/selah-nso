@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אישון",
+      "rationale": "'Monnyane wa leihlo' — lentšu le le tšwa go איש (monna); go bontšha sebono se se nyenyane se se bonago ka gare ga leihlo."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בת עין",
+      "rationale": "'Morwedi wa leihlo' — sebopego sa Seheberu sa go bolela sebono; ditlhopho tše dingwe di la tlase go 'monyanywa' fela (YLT e boloka sebopego)."
+    }
+  ],
+  "translation": "O nkgomaretše bjalo ka monyanywa, morwedi wa leihlo; ka moriti wa maphego a gago o tla nutila.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ed42e6203a2b00f92f88a775beee1b6eda610259e05f67698391a94bdb390549",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/17\/5-8.1792297282806.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "o nkgomaretše"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "bjalo ka monyanywa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwedi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leihlo"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ka moriti"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "maphego a gago"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "o tla nutila"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:22.808164386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דור בניך",
+      "rationale": "'Generation of your children' — KJv takes it as the faithful community betrayed by such talk; YLT and others read 'generation of your sons' as the wicked who are nonetheless God's sons; both readings are ancient."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בגד",
+      "rationale": "Verb literally 'to cover\/covert dealing', rendered 'go šititše' (deal treacherously); the garment-covering picture is lost."
+    }
+  ],
+  "translation": "Ge ke be ke re: Ke tla bolela bjalo — bonang, ke be ke šititše selamo sa bana ba gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/73\/13-16.1792298171768.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke be ke re"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ke tla bolela"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "דור",
+      "gloss": "selamo"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "sa bana ba gago"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "ke be ke šititše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:11.769329554Z",
+  "model": "glm-5.3"
+}

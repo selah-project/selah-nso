@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba gagwe",
+      "rationale": "Seheberu se se na le ⟨se⟩ sa gagwe; Sepedi se nyaka sesumo sa bana"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחם\/רחם",
+      "rationale": "Go boela ga lentšu la go rikhama gabedi, sebopego sa kopano se laleditšwe ka Sepedi ka go boela ga meseroko"
+    }
+  ],
+  "translation": "Bjalo ka ge Tate a hwetša meseroko go bana ba gagwe, gomme Yahwe o hwetša meseroko go bao ba mo sesofego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/103\/13-16.1792298529151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "bjalo ka ge o hwetša meseroko"
+    },
+    {
+      "surface": "אב",
+      "gloss": "tate"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "o hwetša meseroko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "bao ba mo sesofego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:09.152026599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 18:20",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמרת אך דבר שפתים",
+      "rationale": "Baphetoledi ba fapana: 'o re fela lentšu la diphengo' (KJV: mantsu a lefehla) kgotalo 'a re: a sego fela bothato le maatla' (JPS potšišo)."
+    },
+    {
+      "kind": "you",
+      "subject": "go Khizkeya",
+      "rationale": "Potšišo ya go šhabalala ye e beile lebitšong go Khizkeya — 'o tshepile mang?'"
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "'o tshepile mang' e tšala על ka go Sepedi; go sepelela ga lentšu le se nyake se ekeditšwe."
+    }
+  ],
+  "translation": "O re ⟨gore⟩ e sego fela lentšu la diphengo — bothato le maatla ke bakeng la ntoa? Bjale o tshepile mang, gobane o tsuetše le nna?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a317e603b7ceff9ebd3061d44c57cd0e19830940002e27803e38e1c9d12c1a74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/18\/17-20.1792290925697.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "O re"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "la diphengo"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "bothato"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "le maatla"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ke bakeng la ntoa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Bjale"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "o tshepile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "מרדת",
+      "gloss": "o tsuetše"
+    },
+    {
+      "surface": "בי",
+      "gloss": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-18T02:35:25.699500619Z",
+  "model": "glm-5.3"
+}

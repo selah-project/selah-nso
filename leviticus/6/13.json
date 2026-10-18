@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 6:13",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "e ktharo ya efa",
+      "rationale": "Palo ya dikelo: seripa sa lesome sa efa, karolo ya yona mesong le mantsiboa."
+    },
+    {
+      "kind": "crux",
+      "subject": "תמיד",
+      "rationale": "Ya go šišinyega (ya mehla) goba ya go ya ninari — bao ba kayago e le minkha ya letšatši-letšatši."
+    },
+    {
+      "kind": "elision",
+      "subject": "ביום המשח אתו",
+      "rationale": "Boemong bja Sepedi, go lokile go oketša ⟨go⟩ go hlalosa letšatši."
+    }
+  ],
+  "translation": "Se ke sehlabelo sa Aharone le bana ba gagwe, seo ba tla se hlabela go Yahwe ka letšatši la go mo tloditšwa ⟨את⟩: seripa sa lesome sa efa sa mminelo, minkha ya go šišinyega, seripa sa yona mesong le seripa sa yona mantsiboa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/6\/13-16.1792283603666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Se"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ba tla se hlabela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "la go tloditšwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "עשירת",
+      "gloss": "seripa sa lesome"
+    },
+    {
+      "surface": "האפה",
+      "gloss": "sa efa"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sa mminelo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ya go šišinyega"
+    },
+    {
+      "surface": "מחציתה",
+      "gloss": "seripa sa yona"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mesong"
+    },
+    {
+      "surface": "ומחציתה",
+      "gloss": "le seripa sa yona"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mantsiboa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:33:23.667185372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 6:1",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "go nyaka dihlokwana",
+      "rationale": "taelo ya go batla ditokumente tša bogologolo — tiro ya go hlwaya ditokumente tša bogoši bja Persia"
+    },
+    {
+      "kind": "substitution",
+      "subject": "taelo",
+      "rationale": "טעם (te'em) ka boelwa e re 'swarelo ya molomo'; 'taelo' ke sebopego sa kahlolo ya kgoši"
+    }
+  ],
+  "translation": "Ka nako yeo Darjaweshe, kgoši, o ile a bea taelo, gomme ba nyaka ka ntlong ya dibukwana ya diphemelo tše di ruilwego ko Babele.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "595d45e283f6e0427f6dd682868906ac09686f58d9c281b391173641c1fc8856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/6\/1-4.1792302329155.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "ka nako yeo"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darjaweshe"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o ile a bea"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "ובקרו",
+      "gloss": "gomme ba nyaka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlong ya"
+    },
+    {
+      "surface": "ספריא",
+      "gloss": "dibukwana"
+    },
+    {
+      "surface": "די",
+      "gloss": "ya"
+    },
+    {
+      "surface": "גנזיא",
+      "gloss": "diphemelo"
+    },
+    {
+      "surface": "מהחתין",
+      "gloss": "tše di ruilwego"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "ko"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Babele"
+    }
+  ],
+  "timestamp": "2026-10-18T05:45:29.156411664Z",
+  "model": "glm-5.3"
+}

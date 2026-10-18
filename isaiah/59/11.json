@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 59:11",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tshwarelo",
+      "rationale": "ישועה = thari, thušo — 'tshwarelo' ke Lentšu le botee la Sepedi bakeng sa 'go bolokwa'"
+    },
+    {
+      "kind": "addition",
+      "subject": "diphalafala tša lengau",
+      "rationale": "'diphalafala' e šumišwa go swantšha go gogoma ga kgodumodumo; diphôrôgô tša lengau di na le mantswe a magolo go swana le go gogoma ga motho"
+    }
+  ],
+  "translation": "Re gogometša ka mantswe a mabedi re tloga re bina bjalo ka diphalafala tša lengau le gape bjalo ka didiri tše di nago le mahlo a mabedi; re letetše kahlolo, gomme go se goba selo sa go fihla; re letetše tshwarelo, gomme yeo e kgauswi ntle le rena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3ca2fadf0b00a0d0aa1eb251b7e565ef40e5716d08d545072fa79a7fd47004bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/59\/9-12.1792292476141.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהמה",
+      "gloss": "re gogometša ka mantswe a mabedi"
+    },
+    {
+      "surface": "כדבים",
+      "gloss": "bjalo ka diphalafala tša lengau"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "re tloga re bina"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "bjalo ka didiri"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "re bobola"
+    },
+    {
+      "surface": "נהגה",
+      "gloss": "re bobola"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "re letetše"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme go se goba selo sa go fihla"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "tshwarelo"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "e kgauswi ntle le"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "rena"
+    }
+  ],
+  "timestamp": "2026-10-18T03:01:16.142362599Z",
+  "model": "glm-5.3"
+}

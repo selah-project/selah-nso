@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "במים",
+      "rationale": "Seheberu se re 'ka meetse' — phetolelo e oketša 'godimo ga' go fa botebo bja mmele"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עליותיו",
+      "rationale": "Diphapoši tša godimo — ponagalo ya ntlo ya kgosi ya magodimo, diphalsi godimo ga maru"
+    }
+  ],
+  "translation": "Yo a beago diphalsi tša diphapoši tša gagwe godimo ga meetse, yo a dirago maru kgombo ya gagwe, yo a sepelago godimo ga maphego a ruakh.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/1-4.1792298572697.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "yo a beago diphalsi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "godimo ga meetse"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "diphapoši tša gagwe"
+    },
+    {
+      "surface": "השם",
+      "gloss": "yo a dirago"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "kgombo ya gagwe"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "yo a sepelago"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "maphego a"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:52.698578035Z",
+  "model": "glm-5.3"
+}

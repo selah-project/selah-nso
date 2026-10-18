@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tše lesomepedi",
+      "rationale": "Palo — dikgomo tše lesomepedi ka fase ga lewatle."
+    },
+    {
+      "kind": "crux",
+      "subject": "lewatle",
+      "rationale": "הים (sea) ke leina la sebakela sa meetse sa thepilwe; go hlalositšwe bjalo ka 'lewatle' — e sego meetse a nnete."
+    }
+  ],
+  "translation": "le ⟨את⟩ lewatle le le tee, le ⟨את⟩ dikgomo tše lesomepedi ka fase ga lewatle.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/7\/41-44.1792289719752.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lewatle le le tee"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "le le tee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgomo tše lesomepedi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tše"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesomepedi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fase ga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    }
+  ],
+  "timestamp": "2026-10-18T02:15:19.753613698Z",
+  "model": "glm-5.3"
+}

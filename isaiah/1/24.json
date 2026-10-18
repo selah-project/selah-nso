@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אנחם",
+      "rationale": "נחם e ka kaya 'go ikhutša' goba 'go paulatla'; kgetho ya 'go ikhutša' e latela mokgwa wa kgopolo ya yona"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצרי",
+      "rationale": "mothalo ke 'ba ba nkgananego' (sekgoba se seomonoge); 'baba ba ka' ke sebopego sa bokgabane, phapano ya sekgoba e timetse"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אויב \/ אהב",
+      "rationale": "manaba (אויב, bao ba hloilwego) kgahlanong le ba ba ratago dikgopo temaneng ye e fetilego — kgahlano ya maledu"
+    }
+  ],
+  "translation": "Ke ka baka leo go bolela Adonai, Yahwe Tsebaote, Yo a Matla wa Yisraele: Ao! Ke tla ikhutša ka baba ba ka, gomme ke ipolele ka manaba a ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "68ff086ef7d29672bce62a38d974b7b0bb789a3e5bdcac2de4c320c88002fade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/1\/21-24.1792291113378.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ke ka baka leo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "Yo a Matla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Ao!"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "ke tla ikhutša"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "ka baba ba ka"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "gomme ke ipolele"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "ka manaba a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:38:33.379897449Z",
+  "model": "glm-5.3"
+}

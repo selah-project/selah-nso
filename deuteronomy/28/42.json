@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הצלצל",
+      "rationale": "Lentšu le dupile le le gogago (tseltsel) — modumo wa go gagaba; Sepedi 'sesepa' a se na sekgoba sa modumo woo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יירש",
+      "rationale": "'Go buma\/aganela' ga se e bile 'go nka'; Sepedi e šomiša 'go nka' go bontšha go laola ka mpho"
+    }
+  ],
+  "translation": "Sesepa se tla e nka mehlare ya gago ka moka le dithoto tša lefase la gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2956d3abc210f37e2d164b4fab7e31b71026f51a3d68b732e6893eb3bf862514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/28\/41-44.1792286250803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "mehlare ya gago"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "le dithoto"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "tša lefase la gago"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "se tla e nka"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "sesepa"
+    }
+  ],
+  "timestamp": "2026-10-18T01:17:30.804426667Z",
+  "model": "glm-5.3"
+}

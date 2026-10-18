@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "go bophelo",
+      "rationale": "לחי: KJV 'to him that liveth in prosperity' kgatlhanong le YLT 'To life!' — Sepedi e boloka sebopego sa pelwana: sefoko sa go electelletsa bophelo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kagiso ga raro",
+      "rationale": "שלום e bušwa gatee-tee ga raro (wena · ntlo · tšohle) — moralo o mongwa ka Sepedi ka go boella ga 'kagiso'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o nago le⟩",
+      "rationale": "Seheberu se se na le 'kagiso' fela — sekopanyi se hlokega go Sepedi."
+    }
+  ],
+  "translation": "Gomme le re bjalo: Go bophelo! gomme wena ⟨o nago le⟩ kagiso, le ntlo ya gago kagiso, le tšohle tšeo di go tšego kagiso.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d7b421baf077d7196740e308789e062aa0cdf7e6c22eadf11f1c018405a2d73e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/25\/5-8.1792288631729.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "le re bjalo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "go bophelo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "gomme wena"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "le ntlo ya gago"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "di go tšego"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    }
+  ],
+  "timestamp": "2026-10-18T01:57:11.730516277Z",
+  "model": "glm-5.3"
+}

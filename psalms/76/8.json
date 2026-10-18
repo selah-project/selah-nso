@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bogale",
+      "rationale": "אפך is literally 'nostril ya gago' — nose flaring = anger in Hebrew body language; picture lost."
+    },
+    {
+      "kind": "crux",
+      "subject": "מאז",
+      "rationale": "'from then\/once' — temporal ('once you are angry') vs causal ('therefore'), both attested."
+    },
+    {
+      "kind": "you",
+      "subject": "wena",
+      "rationale": "direct address to Elohim; the doubled 'thou, even thou' emphasizes the addressee."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ke mang ya ka emago",
+      "rationale": "rhetorical question addressed to the hearer, drawing the reader into the fear of Elohim."
+    }
+  ],
+  "translation": "Wena, ke wena a tšhogisago, gomme ke mang ya ka emago peling ya gago go tloga nako yeo ya bogale bja gago?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2a74c3ec15b03c54751aa2fb13eeaf047c52e9e4390a0d393c579c4d9caf67e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/76\/5-8.1792298223343.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "a tšhogisago"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ke wena"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "gomme ke mang"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ya ka emago"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "peling ya gago"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "go tloga nako yeo"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ya bogale bja gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:03.344066234Z",
+  "model": "glm-5.3"
+}

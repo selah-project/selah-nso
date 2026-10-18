@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hloleša",
+      "rationale": "חלל literally 'go boba\/go bula mošomo' — go dira se se kgethwago se ba se tlošego bokgethwa; 'hloleša' e tliša taba ya go dira se tloaelegilego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדשי \/ ונקדשתי \/ מקדשכם",
+      "rationale": "modu o mongwe wa k-d-š o phetišwa ga tharo ka mošemaneng: bokgethwa bja Yahwe, go kgethagatša ga gagwe, le go kgetha ga gagwe setšhaba"
+    }
+  ],
+  "translation": "Gomme le se ke la hloleša ⟨את⟩ leina la ka la bokgethwa; gomme ke tla kgethagatšwa gare ga bana ba Yisraele; ke Yahwe, yo a le kgethago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c51213c2d7568d84fef881947c4c0434cfe86726c1b9a578496989e3e1d3482a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/22\/29-32.1792284127151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme le se ke"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "la hloleša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la ka la bokgethwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "la bokgethwa bja ka"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "gomme ke tla kgethagatšwa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "yo a le kgethago"
+    }
+  ],
+  "timestamp": "2026-10-18T00:42:07.152644176Z",
+  "model": "glm-5.3"
+}

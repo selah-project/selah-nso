@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "motho",
+      "rationale": "מטה e bolela 'sehla\/thari' — Sepedi se bolela 'motho' wo o hlwahlwago, eupša 'sethara' goba 'thari' ke bothata bja semoya"
+    },
+    {
+      "kind": "crux",
+      "subject": "motho wa gago",
+      "rationale": "מטך: 'thari ya gago' kgahlanong le 'motho wa gago' — mantšu a mabedi a a dumelelwa ka Sepedi, 'motho' ke wa mošomo wa pele"
+    }
+  ],
+  "translation": "Gomme wena, tlhatlosa ⟨את⟩ motho wa gago, o otlolle ⟨את⟩ seatla sa gago godimo ga lewatle, o bo o sa hlama; gomme bana ba Yisraele ba tše go legareng ga lewatle ka mošiti.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "280da226a6c78ba4a7880abf89eef9febcf4d393baa7483d8272db05c9f22944",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/14\/13-16.1792282661245.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "gomme wena"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "tlhatlosa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motho wa gago"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "motho wa gago"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "o otlolle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gago"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "o bo o sa hlama"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "go legareng ga"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "ka mošiti"
+    }
+  ],
+  "timestamp": "2026-10-18T00:17:41.247345833Z",
+  "model": "glm-5.3"
+}

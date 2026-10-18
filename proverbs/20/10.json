@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבן ואבן \/ איפה ואיפה",
+      "rationale": "Go bulelwa ga lentšu ka lentšu go bontšha dikelo tše pedi tša go fapana; dipheto tše dingwe di akaretša 'dikelotše di fapanago' gomme poloko yeo e timetse"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dikelo",
+      "rationale": "Setermanko se maemo a go sesa le go ela — leswika la kelo le efa ya poone"
+    },
+    {
+      "kind": "substitution",
+      "subject": "leswika",
+      "rationale": "אבן mo ke leswika la kelo, e sego leswika la tlhago feela"
+    }
+  ],
+  "translation": "Leswika le leswika, efa le efa — se se kgopetšego go Yahwe, gape ka bobedi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0b57c84e8816b0afce4a7d833df3bcb143f9b89999e98825a6d957e7bb66b826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/20\/9-12.1792299609738.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "leswika"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "le leswika"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "le efa"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "se se kgopetšego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ka bobedi"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:09.738998568Z",
+  "model": "glm-5.3"
+}

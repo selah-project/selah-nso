@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka mo go swanago",
+      "rationale": "Sepedi comparison needs the explicit 'so likewise'; Hebrew כאשר...אעשה carries it implicitly."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nahnetše",
+      "rationale": "דמיתי is literally 'I compared\/devised'; 'I planned\/intended' is the idiomatic force here."
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraele",
+      "rationale": "Final threat addressed directly to Israel: what was planned for the nations will be done to you."
+    }
+  ],
+  "translation": "Gomme go tla ba gore, bjalo ka ge ke be ke nahnetše go dira go bona, ka mo go swanago ke tla dira go lona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "271d51b1c5efc2127a38b76c7f0b3edbb651f21fa81fb0fa4bab7239afca6321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/33\/53-56.1792285470943.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba gore"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "ke be ke nahnetše"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke tla dira"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:04:30.945084798Z",
+  "model": "glm-5.3"
+}

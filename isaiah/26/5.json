@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Sepedi e nyaka modiriši; Seheberu ga se na lentšu la modiriši polelong ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישפילנה ישפילה",
+      "rationale": "Go boela ga lentšu (repetition) go matlafatša tlaišo; boeletši bo bolokilwe ka 'o o tlaišitše, o a mo tlaiša'"
+    }
+  ],
+  "translation": "Gobane o theoheditše ⟨את⟩ ba ba duloletšego godimo, ⟨את⟩ motse wo mokoto; o o tlaišitše, o a mo tlaiša go fihla lefase, o a mo etša go fihla lerole.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "907c19acfe64c85a245e35a5d6bb455d7eea25d6ff3c86c7c1e4d8ca044875b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/26\/5-8.1792291695945.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "השח",
+      "gloss": "o theoheditše"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba ba duloletšego"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "godimo"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "motse"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "wo mokoto"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "o o tlaišitše"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "o a mo tlaiša"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "o a mo etša"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    }
+  ],
+  "timestamp": "2026-10-18T02:48:15.946183712Z",
+  "model": "glm-5.3"
+}

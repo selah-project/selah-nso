@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 80:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sefahleho",
+      "rationale": "פניך ke sefahleho, e sego 'tšhireletšo'; mo gogeng ya sefahleho sa Modimo e bolela kotlo ya go bona"
+    },
+    {
+      "kind": "alternative",
+      "subject": "o jele mollo",
+      "rationale": "šišupa lena la moumane la tšhupile (v.14–15); e fetoletšwe bjalo ka e tsejago ka lena"
+    },
+    {
+      "kind": "you",
+      "subject": "go Elohim",
+      "rationale": "tlhaganyo ye e lebegago go Yahwe, sefahleho sa gaga se gogela batho"
+    }
+  ],
+  "translation": "O jele mollo, o segilwe; mo gogeng ya sefahleho sa gago ba tla tima.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6d83465c25002a10c00071672b9e0500428c68a6fb2586f2190e797e97e2935d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/80\/17-20.1792298327478.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרפה",
+      "gloss": "o jele mollo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "mollong"
+    },
+    {
+      "surface": "כסוחה",
+      "gloss": "o segilwe"
+    },
+    {
+      "surface": "מגערת",
+      "gloss": "mo gogeng ya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa gago"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ba tla tima"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:47.479109420Z",
+  "model": "glm-5.3"
+}

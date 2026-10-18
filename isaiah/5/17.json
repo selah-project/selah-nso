@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 5:17",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כדברם",
+      "rationale": "Re tlošwa go דבר 'mohlang' — diphetolelo di fapana: 'ka mokgwa wa tšona' (KJV) kgahlanong le 'bjalo ka mohlang wa tšona' (JPS\/ASV)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחים",
+      "rationale": "Mašweledi a bolela 'ba nago le mafura' — a fetotšwe go ba 'ba boima' (ba humago), sebopego sa go ba le mafura se laetše botho."
+    }
+  ],
+  "translation": "Gomme dikwana di tla fula bjalo ka mohlang wa tšona, gomme mafelo a senyegilego a ba boima baeti ba tla a ja.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "baf20452bd2f2a0416bfba45f031160031ee39aaba601f0a6680bc2fd8d40970",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/5\/17-20.1792291296575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "gomme di tla fula"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "dikwana"
+    },
+    {
+      "surface": "כדברם",
+      "gloss": "bjalo ka mohlang wa tšona"
+    },
+    {
+      "surface": "וחרבות",
+      "gloss": "gomme mafelo a senyegilego"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "a ba boima"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "baeti"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba tla a ja"
+    }
+  ],
+  "timestamp": "2026-10-18T02:41:36.576117872Z",
+  "model": "glm-5.3"
+}

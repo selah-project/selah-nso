@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nama",
+      "rationale": "בשר ke 'nama'; sephetho sa 'motho yo mophelo' se se se nago sehlogo se ahlegile."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "hesede",
+      "rationale": "Sepedi ga se na lentšu le tee la חסד; hesede e dula e le lentšu la modumo wa Seheberu go latela D2."
+    }
+  ],
+  "translation": "O fa bogobe go nama ka moka, ka gobane hesede ya gagwe e dula ka narí e sa fela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b005a3986b7f0d63889d4132df88acbdf6a329a954a90888883bde5ceffe42ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/136\/25-26.1792298998608.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "O fa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ka moka"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka narí e sa fela"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:58.608878302Z",
+  "model": "glm-5.3"
+}

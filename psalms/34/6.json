@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונהרו",
+      "rationale": "Root נהר: 'to sparkle\/be radiant' (KJV 'were lightened', JPS 'were radiant') vs 'to flow\/stream' (Geneva 'runne to him', LXX ἐ illumined); the sheen of a running stream underlies both."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dipono",
+      "rationale": "פנים is literally 'faces' (the part that turns); rendered with the Sepedi plural of 'face\/visage', losing the Hebrew singular-of-majesty 'their face was not ashamed'."
+    }
+  ],
+  "translation": "Ba betetše go yena gomme ba khantšhitše, gomme dipono tša bona a di ke tša tshwarwa ke mahloni.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/5-8.1792297542389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Ba betetše"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "gomme ba khantšhitše"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "gomme dipono tša bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "di ke tša tshwarwa ke mahloni"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:42.390875658Z",
+  "model": "glm-5.3"
+}

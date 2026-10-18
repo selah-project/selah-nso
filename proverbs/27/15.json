@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סגריר",
+      "rationale": "Lentšu le le tlageha fela mo, pula e tuletseng kudu; dikgopolo tše dingwe tša Seheberu di e bala bjalo ka pula ya go se eme"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טורד",
+      "rationale": "Tiriso ya 'go lala' mo e sa tsejwego — BHS e bea טרד (go lala); sebopego sa go theoga ga meetse ka go seng mafelelo se bolokwa ka 'go seng mafelelo'"
+    }
+  ],
+  "translation": "Go theoga ga meetse go seng mafelelo ka letsatsi la pula e tuletseng, gomme mosadi wa dikganano — ba a swana.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4529e6ea2fd96df2dc4e91b60327ade49c1d130e16032ad6dc9ff19310329d16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/27\/13-16.1792299878677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "go theoga ga meetse"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "go seng mafelelo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "la pula e tuletseng"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "gomme mosadi"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "wa dikganano"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "ba a swana"
+    }
+  ],
+  "timestamp": "2026-10-18T05:04:38.678628303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lekgolo le masomepedi pedi",
+      "rationale": "Seheberu: lekgolo, pedi-lesome (šupa); Sepedi se bopa gore masomepedi-pedi (112)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "112",
+      "rationale": "palo ya bafeti"
+    }
+  ],
+  "translation": "Barwa ba Kharife, lekgolo le masomepedi pedi.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e43be7a4b9fe96d8f545352bcab581dbe7bbcfe06ced033d209a6ab571e9c80b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/7\/21-24.1792302580578.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "Kharife"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "masomepedi pedi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-10-18T05:49:40.579420825Z",
+  "model": "glm-5.3"
+}

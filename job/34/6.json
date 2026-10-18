@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 34:6",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אכזב",
+      "rationale": "diphuthelwano di fapana: 'na ke tsebjwa e le mofoši' (ASV\/JPS) kgathanong le potšišo 'naa ke bofoša?' (KJV); lentšu le ra go foša\/bogoshi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "ga se 'a sa folang' feela — le ra go bolaya, go fularela; 'o a bolaya' o boloka sebopego sa go bolaya ga mosebe"
+    },
+    {
+      "kind": "alternative",
+      "subject": "חצי",
+      "rationale": "חץ ke 'mosepodi'; e ka ra sefala kappele — 'mosebe' o boloka seswantšho sa go thunya"
+    }
+  ],
+  "translation": "Bakeng sa kahlolo ya ka ⟨ke⟩ lešano? mosebe wa ka o a bolaya, ntle le sebe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7f6ee47fd518beff898ee7d1dbb6a3cb2a864ea3644c6a9e6edb1641655b24cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/34\/5-8.1792300731638.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kahlolo ya ka"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "lešano"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "o a bolaya"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "mosebe wa ka"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:18:51.638610072Z",
+  "model": "glm-5.3"
+}

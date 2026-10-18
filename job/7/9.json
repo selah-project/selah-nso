@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כלה",
+      "rationale": "Mahuti a ka phetha go feta — kahlolo ya 'ho fihlella' e hlakilego ka Sepedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "Sheole",
+      "rationale": "Sheole go ya ka D2 — AOWA dihele goba lefsifsi"
+    }
+  ],
+  "translation": "Lefu (ka mehla) la ge le phethile, mahuti a a ya; bjalo le la theogago go Sheole ga le ke la boela godimo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "47739897109f69893f391a71de4f6bad46473a337a7876d61244a8041a03378c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/7\/9-12.1792300071863.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "la phethile"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "mahuti"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a a ya"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "la theogago"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "la boela godimo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:07:51.864403413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשו \/ יחסרו",
+      "gloss": "",
+      "rationale": "Seswantšho sa go hloka se bapala: ditau di hloka, bao ba nyakago ga ba hloka — khiažamo ya go fapana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ditau tše nnyane",
+      "rationale": "כפיר ke tau ya moswa, e nabilego e sa tsoa tloga; seswantšho sa maatla le tlala."
+    }
+  ],
+  "translation": "Ditau tše nnyane di hloka gomme di lapa; gomme bao ba nyakago Yahwe ga di ka go hloka se sengwe se sebotse.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "95135d11609701d8a44ef03261bde90c730b5875a370fa116b056eba0a669052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/9-12.1792297541674.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "Ditau tše nnyane"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "di hloka"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "gomme di lapa"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "gomme bao ba nyakago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "di ka go hloka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se sebotse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:41.675268005Z",
+  "model": "glm-5.3"
+}

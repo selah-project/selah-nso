@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 38:7",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ka thabo⟩",
+      "rationale": "וַיָּרִיעוּ bolela go gutša fela; 'ka thabo' ke tlaleletšo ya moo"
+    },
+    {
+      "kind": "crux",
+      "subject": "bana ba Elohim",
+      "rationale": "בְּנֵי אֱלֹהִים: dika tša khauṱhutlwa tša Elohim kgorong ya magodimo, e sego batho"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "dinaledi di bina",
+      "rationale": "Sefoko se sa moya: dineledi le bana ba Elohim ba bina mmogo; seswantšho se se laolwa ke tlhantšhago ya Sepedi"
+    }
+  ],
+  "translation": "Ge dinaledi tša mesong di bina mmogo, gomme bana ka moka ba Elohim ba ile ba gutša ka thabo?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1b6ff4033dcc7c04f564f7942d2fdd99d0f44f113868d45918e630005792372b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/38\/6-7.1792305395429.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברן",
+      "gloss": "di bina"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "dinale... tša"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mesong"
+    },
+    {
+      "surface": "ויריעו",
+      "gloss": "ba ile ba gutša"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:35.429793013Z",
+  "model": "glm-5.3"
+}

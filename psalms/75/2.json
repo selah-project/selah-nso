@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "hodinu hodinu",
+      "rationale": "go bušetšwa ga go dumelela ga gabedi — go tiilega ka Sepedi"
+    },
+    {
+      "kind": "addition",
+      "subject": "la gago",
+      "rationale": "Seheberu se na le šomo ya boong, Sepedi e nyaka 'la gago'"
+    }
+  ],
+  "translation": "Re go dumelela, wena Elohim, re go dumelela, gomme leina la gago le kgauswi; ba bolela ⟨את⟩ makgohlo a gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/75\/1-4.1792298203785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "re go dumelela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "re go dumelela"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "gomme le kgauswi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ba bolela"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "makgohlo a gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:43.786389255Z",
+  "model": "glm-5.3"
+}

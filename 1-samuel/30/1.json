@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "B-amalekite",
+      "rationale": "עמלקי e le bontši bja setšhaba — go hlasletše"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Tsiklage ga ga raraana",
+      "rationale": "leina le boeletšwe ga raro ka letemeng — phetolelo e boeletša ka botlalo"
+    }
+  ],
+  "translation": "Gomme go diregile, ge Dafida le banna ba gagwe ba fihla Tsiklage ka la boraro, gomme B-amalekite ba hlasletše go ya borwa le go ya Tsiklage, ba lle ⟨את⟩ Tsiklage ka gare gomme ba e fiša ka mollong.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c5a1cae895f30f68d8204c6f76e15ef79df17cc33d17bcd369bcea9b5c53f4ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/30\/1-4.1792288683489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go diregile"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "ge ba fihla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba gagwe"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklage"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka la"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "boraro"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "B-amalekite"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "ba hlasletše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go ya"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklage"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba lle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklage"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklage"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ba fiša"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "e (Tsiklage)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollong"
+    }
+  ],
+  "timestamp": "2026-10-18T01:58:03.490047447Z",
+  "model": "glm-5.3"
+}

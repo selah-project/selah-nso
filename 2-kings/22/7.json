@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הכסף",
+      "rationale": "silibera e tšewa e le tšhelete ya mešomo — lentšu le tee le bolela dilo tše pedi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על ידם",
+      "rationale": "šepešo sa Seheberu 'go matswala a bona' — go ra go ba filwe ka bona, e sego go swantšhwa ka seatla ka mo go la mmeleng."
+    }
+  ],
+  "translation": "Fela ga go balelwe ⟨את⟩ bona silibera yeo e filwego go matswala a bona, ka gobane ba dira ka botume.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a7b31c510590939885653d7304a6775ab28d3297de1941ad67cc96b6ac108acf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/22\/5-8.1792291028846.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "go balelwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "yeo e filwego"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "matswala a bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ka botume"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "dira"
+    }
+  ],
+  "timestamp": "2026-10-18T02:37:08.847895026Z",
+  "model": "glm-5.3"
+}

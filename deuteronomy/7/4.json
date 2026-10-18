@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "Sefapano sa Seheberu ke 'nko\/semorogo' — bofoša bogale; Sepedi se šomiša 'bogale' ka gobane 'nko' e ka tshwenya."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nna⟩",
+      "rationale": "'מאחרי' e bolela 'go tšwa ka morago ga nna' — sebopego sa ⟨nna⟩ se okeditšwe gore modumo o tšwele ka pelong."
+    },
+    {
+      "kind": "elision",
+      "subject": "יסיר — semanteme",
+      "rationale": "Seheberu se šomiša semanteme sa bong bo le tee ('o') le bontši ('ba šome') — dipolelo tša Sepedi di a di boloka bjalo ka ge di le."
+    }
+  ],
+  "translation": "Gore o tla rogela ⟨את⟩ morwa wa gago go latela ⟨nna⟩, gomme ba šome medimo ye mengwe; gomme bogale bja Yahwe bo tla fisa go lona, a tla le fedisa ka lebelo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/7\/1-4.1792285712743.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "o tla rogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa gago"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "go latela"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "gomme ba šome"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ye mengwe"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "bo tla fisa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bogale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "a tla le fedisa"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ka lebelo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:08:32.745282573Z",
+  "model": "glm-5.3"
+}

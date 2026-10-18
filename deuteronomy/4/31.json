@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 4:31",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le kopula; Sepedi se e nyaka"
+    },
+    {
+      "kind": "elision",
+      "subject": "go bona",
+      "rationale": "להם e setše go šuthišetšwa go ikannetseng ka gare ga thapo ya.bohla"
+    }
+  ],
+  "translation": "Ka gobane El yo a nago mohau ke Yahwe Elohim ya gago; ga a tla go o tlogela, gomme ga a tla go o senya, gomme ga a tla go lebala ⟨את⟩ kgwerano ya bo-ntateho, yeo a ba ikannetseng yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0b25d896c4e497a4504f96a72002ad8215795466d5205b861b7e368f8bd000c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/4\/29-32.1792285681936.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "yo a nago mohau"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "a tla go o tlogela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ישחיתך",
+      "gloss": "a tla go o senya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "a tla go lebala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgwerano ya bo-ntateho"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ya bo-ntateho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a ba ikannetseng"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:08:01.937364369Z",
+  "model": "glm-5.3"
+}

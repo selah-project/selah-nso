@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke moya\/mohau — throato, bophelo; go se 'moya' fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "זו",
+      "rationale": "lentšu le le sa hlakahalago: 'bao' kgotalo le 'yeo'; barutwedi ba fapana"
+    }
+  ],
+  "translation": "Go tšwa sefeng sa ba fošagetši, bao ba ntlodilego; manaba ⟨a ka⟩ ka moya ba dikantše go mpshetla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/17\/9-12.1792297227071.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "go tšwa sefeng"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba fošagetši"
+    },
+    {
+      "surface": "זו",
+      "gloss": "bao"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "ba ntlodilego"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "manaba"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ka moya"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "ba dikantše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go mpshetla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:27.072353734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 16:7",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Tiglate-Pelesere",
+      "rationale": "Ahaz's vassal message directly addresses the king of Ashur with imperatives."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Copula supplied; Hebrew is verbless ('your servant and your son I')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mo seatleng",
+      "rationale": "כף is literally 'hollow of the palm' — hand-shape kept via 'seatleng'."
+    }
+  ],
+  "translation": "Gomme A Khazhe a romela baromuwa go Tiglate-Pelesere, kgoši ya Ashure, a re: Mošomi wa gago le morwa wa gago ke nna; tlogo o sepele godimo, gomme o pholose nna mo seatleng sa kgoši ya Arame le mo seatleng sa kgoši ya Yisraele, bao ba emego kgahlanong le nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e8b90a5dce277b41538a13f38f3e909650aa19247dae68f9f35e0a9c2212ba3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/16\/5-8.1792290922418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gomme a romela"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "A Khazhe"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "baromuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "תגלת",
+      "gloss": "Tiglate-"
+    },
+    {
+      "surface": "פלסר",
+      "gloss": "Pelesere"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mošomi wa gago"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "le morwa wa gago"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "tlogo o sepele godimo"
+    },
+    {
+      "surface": "והושעני",
+      "gloss": "gomme o pholose nna"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "mo seatleng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa kgoši"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Arame"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "le mo seatleng"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "sa kgoši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "הקומים",
+      "gloss": "bao ba emego"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le nna"
+    }
+  ],
+  "timestamp": "2026-10-18T02:35:22.419386089Z",
+  "model": "glm-5.3"
+}

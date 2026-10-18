@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diketeng",
+      "rationale": "רבבot ke myriads — bontši bjo bo sa balwago; diketeng (difiketedi) e kwa go ya ntle ka mo go kaone"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא אירא",
+      "rationale": "go ganwa ga go tšhoga ga mphemong ya gagwe ga se go tšhaba fela — modu wa go fetoga ga mmele"
+    }
+  ],
+  "translation": "Ga ke tšhabo diketeng tša setšhaba, tšeo di mpotlakeletšego ka mahlakore ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a43733b68e64b37b82cce4fb8d247cd92049b1681b3861b9c48a700223ad8bb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/3\/5-8.1792297142167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ke tšhabo"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "diketeng"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tša setšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka mahlakore ka moka"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "di mpotlakeletšego"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨ngwana⟩ ga km — me"
+    }
+  ],
+  "timestamp": "2026-10-18T04:19:02.168621802Z",
+  "model": "glm-5.3"
+}

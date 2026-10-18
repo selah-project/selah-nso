@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelo",
+      "rationale": "נפש e atametše go 'mpho\/moya wa bophelo', e sego pelo ka mokgwa o mong"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "diterama tše hlano tša lenaba",
+      "rationale": "ארדף\/אשיג\/אחלק\/אריק\/תורישמו — go leleka ga mantsu a kopana a bontši, a phelagile ge a ba a phuthegela"
+    },
+    {
+      "kind": "crux",
+      "subject": "תורישמו",
+      "rationale": "מ yo a tšwa go ירש: 'go huduša' (go ba ntšha bokgoning) kgahlanong le 'go fediša' — maina a mabedi a dumelwa"
+    }
+  ],
+  "translation": "Lenaba le ile la re: Ke tla lelekela, ke tla ba fihlela, ke tla arola ⟨את⟩ dihlapa; e tla tlatšwa mo pelong ya ka ⟨ka bona⟩; ke tla ntšha tšhoša ya ka, seatla sa ka se tla ba huduša.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1ab465ffed77a72d930c0577bbcf47ead1e5b3eb2067358ed9b163c5cdf06dbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/15\/9-12.1792282748049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "la re"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lenaba"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "ke tla lelekela"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "ke tla ba fihlela"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "ke tla arola"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "dihlapa"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "e tla tlatšwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "ke tla ntšha"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "tšhoša ya ka"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "se tla ba huduša"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T00:19:08.049907886Z",
+  "model": "glm-5.3"
+}

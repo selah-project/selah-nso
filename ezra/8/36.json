@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 8:36",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba tšwetše pele",
+      "rationale": "ונשאו ka go tlwaetša ke go tloša; mo go bolela go tšwetša pele setšhaba le ntlo ya Elohim."
+    },
+    {
+      "kind": "addition",
+      "subject": "ba",
+      "gloss": "ba- tša Peresia",
+      "rationale": "basatrapo — lentšu la Peresia le tšwa ka tsela ya lona ka mehla."
+    }
+  ],
+  "translation": "Gomme ba fiše ⟨את⟩ melao ya kgoši go basatrapo ba kgoši le go balaodi ba mafelelo a noka, gomme ba tšwetše pele ⟨את⟩ setšhaba le ⟨את⟩ ntlo ya Elohim.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "836a8df18bf9ab0ad607c84dca2fd5b56646df5121f496d678825613f0d554f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/8\/33-36.1792302368305.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Gomme ba fiše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya kgoši"
+    },
+    {
+      "surface": "דתי",
+      "gloss": "melao"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgoši"
+    },
+    {
+      "surface": "לאחשדרפני",
+      "gloss": "go basatrapo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ba kgoši"
+    },
+    {
+      "surface": "ופחוות",
+      "gloss": "gomme go balaodi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ba mafelelo a"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "noka"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "gomme ba tšwetše pele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ya Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T05:46:08.306631952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mohlologolo",
+      "rationale": "שיבתו ke tlhako e tšweu — 'mohlologolo' — seswantšho sa motho yo mohlologolo, e sego feela 'bogolo bja mengwaga'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Sheole",
+      "rationale": "Sheole ga se 'dihele' goba 'lefsifsi' go ya ka D2 — ke lefelo la bafidifši, gomme ka mo go tlwaelegilego diphetolelo di fapana: 'wa gauta' kgatlhanong le 'Sheole'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אל תנקהו",
+      "rationale": "Dafida o kopa Sihlomo go se mo lokolle — tlhalošo ya 'go se mo lokolle' e tletše mo kgannyeng ya taelo ya go theola mohlologolo ka mading"
+    }
+  ],
+  "translation": "Gomme bjale o se ke wa mo lokolla, ka gobane wena ke motho yo a hlalefilego, gomme o tla tseba ⟨את⟩ seo o se ka go mo dira, gomme o tla theola ⟨את⟩ mohlologolo wa yena ka mading go Sheole.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3bf12a4814bfbedcdbebfbb452d0081439cd67cae8106ce59c8175d3d42dcb3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/2\/9-12.1792289549857.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "gomme bjale"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "wa mo lokolla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yo a hlalefilego"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "gomme o tla tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo o se ka go mo dira"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o se dira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "gomme o tla theola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mohlologolo wa yena"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "mohlologolo wa yena"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ka madi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "go Sheole"
+    }
+  ],
+  "timestamp": "2026-10-18T02:12:29.857851667Z",
+  "model": "glm-5.3"
+}

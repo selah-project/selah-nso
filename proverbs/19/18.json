@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "wa bopelela moya wa gago",
+      "rationale": "תשא נפשך: KJV 'let not thy soul spare' kgathanong le YLT\/JPS 'set not thy heart on his destruction'; tlhakoreng la bobedi le bolokwa mo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשך",
+      "rationale": "nefesh ke mokgwa wa botshelo\/thoho, e sego 'moya' ka ntle — eupša Sepedi e nyaka lentšu"
+    }
+  ],
+  "translation": "Hlokomološa ⟨את⟩ morwa wa gago, ka gobane go ⟨na⟩ tšhepo; gomme go mo bolaya o se ke wa bopelela moya wa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bad42d7a68c4700fffe7c247ac07c1e0cb354901859946ed401a490fc0e3ff7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/19\/17-20.1792299585131.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "hlokomološa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "יש",
+      "gloss": "go na"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "tšhepo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme go"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "go mo bolaya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "wa bopelela"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:59:45.132284848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "go tlhatlosa seatla",
+      "rationale": "`וישא ידו` — go ikana ka go tlhatlosa seatla; LXX le JPS di bolela `o ile a ikana` se ka sebopego se sengwe"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka modiri wa boemo; Seheberu ga se na `ויקול יהוה` mo temaneng ye"
+    },
+    {
+      "kind": "substitution",
+      "subject": "naganeng",
+      "rationale": "`במדבר` ke naga e bulegilego ya dikgomo, e sego lefase le legolo — sebopego se ile sa fenya"
+    }
+  ],
+  "translation": "Yahwe a tlhatlosa ⟨ke⟩ seatla sa gagwe kgahlanong le bona, go ba wetsa gore ba wèle naganeng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9e2c27acdd677f9603b73b40ade45a715b91d3d4e38c228eee366c54793a9204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/25-28.1792298666081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "a tlhatlosa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kgahlanong le bona"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "go ba wetsa gore ba wèle"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "naganeng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:26.081825109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 31:30",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hebele",
+      "rationale": "הבל ke mohuta wa moea o se nago boleng — 'go fela ga nako' kapa 'go se bonagale'; Sepedi e se nkwe ka 'bjo bo kaotšego'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תתהלל",
+      "rationale": "Hithpael: 'a ikotše' (YLТ) kapa 'a tšhišinywe' (KJV) — active kgathanong le passive."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kgopanyi ye Seheberu se sa e hlahisago."
+    }
+  ],
+  "translation": "Sephiri ke maaka, gomme botelele bjo bo kaotšego; mosadi yo a tšhabago Yahwe, yena o tla a tšhišinywa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "07edb7f87577324bea021f95e54fa2a37428de599886e4ee14f692a189de3177",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/31\/29-31.1792299979131.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "ke maaka"
+    },
+    {
+      "surface": "החן",
+      "gloss": "sephiri"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "gomme botelele"
+    },
+    {
+      "surface": "היפי",
+      "gloss": "bjo bo kaotšego"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "yo a tšhabago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "o tla a tšhišinywa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:19.131893089Z",
+  "model": "glm-5.3"
+}

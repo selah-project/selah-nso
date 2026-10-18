@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 37:1",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨e⟩",
+      "rationale": "Seheberu se bitsa sehlagiso fela (והיא); kopula ya Sepedi e oketšitšwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e bolela moya le phefo ka bobedi; lentšu le tee la Sepedi le se na le tekanyo, ka gobane le ngwalwa ka modumo wa Seheberu"
+    },
+    {
+      "kind": "mystery",
+      "subject": "sekgobo se tletše marapo",
+      "rationale": "Pono ye e swerwego — sebopego se se sa hlalosego se tla hlalosa ka moka ka tsela ye"
+    }
+  ],
+  "translation": "Seatla sa Yahwe se be se le godimo ga me, gomme Yahwe a ntšetše ka ruakh, a be a mpoma mo gare ga sekgobo, gomme ⟨e⟩ e tletše marapo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1c399e9c78506042a1113dc1c8c0a8868f76c6c7895890eefdd5d57653f05254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/37\/1-4.1792295520864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "e be e le"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga me"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויוצאני",
+      "gloss": "a ntšetše"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ka ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויניחני",
+      "gloss": "a mpoma"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "sekgobo"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "gomme ⟨e⟩"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tletše"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    }
+  ],
+  "timestamp": "2026-10-18T03:52:00.864784318Z",
+  "model": "glm-5.3"
+}

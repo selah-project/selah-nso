@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשע \/ רשעו",
+      "rationale": "Go boela ga modu wa ršʿ — mošubi le sebe sa gagwe — mothaling o mongwe le o mongwe, se se lalekago kgethišo."
+    },
+    {
+      "kind": "crux",
+      "subject": "בל תמצא",
+      "rationale": "'Ga o ka wa hwetša sepe' — go hwetša sebe go fihla go ya tee, goba go nyelela ga mošubi ka bobona?"
+    }
+  ],
+  "translation": "Roba seatla sa mošubi le sa yo phošo; batla sebe sa gagwe — ga se ka wa hwetša go se nago selo!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "549ce693d1e1b1e50f58625af352304a3c696adc998471ab71676bd3970e9b23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/10\/13-16.1792297239656.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "roba"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sa mošubi"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "le sa yo phošo"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "batla"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "sebe sa gagwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "a hwetša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:39.656970756Z",
+  "model": "glm-5.3"
+}

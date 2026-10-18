@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ארץ...ארץ",
+      "rationale": "Poelelo ya 'lefase' gateete-tee — sebopego sa biduo se sa fetogo"
+    },
+    {
+      "kind": "crux",
+      "subject": "דבש",
+      "rationale": "tatšokwe ya dinonyana goba sirapo ya mafura a mašemong — mehlaleng ye mmalwa e bolela sirapo"
+    }
+  ],
+  "translation": "Lefase la koro le barely, la muiri wa mphemaphego, la mosenyelela le la khukhunumunu; lefase la morara wa mafura le la tatšokwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c27dabee088dc1fb09f9df2aadcbfbf6da9496268d9d172abb055ed4a69efd83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/8\/5-8.1792285737401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "la koro"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "le barely"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "la muiri wa mphemaphego"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "la mosenyelela"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "la khukhunumunu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "זית",
+      "gloss": "la morara"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "wa mafura"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "le la tatšokwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:08:57.403028836Z",
+  "model": "glm-5.3"
+}

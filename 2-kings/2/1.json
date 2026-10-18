@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "go tlhatlogetša ga Eliya",
+      "rationale": "Eliya o tšewa ka phefo ye tsenelela — se sengwe se se sa hlalošwego, se swerwe ka lefsifsi mo Sungweng."
+    },
+    {
+      "kind": "substitution",
+      "subject": "phefo ye tsenelela",
+      "rationale": "סערה ke phefo ye maatla ye e phatlaganyago; Sepedi a se na lentšu le tee la yona."
+    }
+  ],
+  "translation": "Gomme go ile go direga, ge Yahwe a be a tšea ⟨את⟩ Eliya ka go mo tlhatlogetša magodimo ka phefo ye tsenelela, gomme Eliya a ya, yena le Eliša, go tšwa Gilgale.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "96b2e076d0d8ffb0b0b2c191b2a172cc2fa14dc4ac0be02c080f78ae9acb500c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/2\/1-4.1792290460106.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ile go direga"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "ge… a be a tšea ka go mo tlhatlogetša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliya"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "ka phefo ye tsenelela"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "gomme Eliša"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgale"
+    }
+  ],
+  "timestamp": "2026-10-18T02:27:40.106679894Z",
+  "model": "glm-5.3"
+}

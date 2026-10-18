@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 15:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na le kopula mo go 'ga se sa go ba gona'; Sepedi e e nyaka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חציר",
+      "rationale": "'sehlare' ke tlhaloso ya go loka; Seheberu se bolela sehlare se se omilego sa go foka (hay)."
+    }
+  ],
+  "translation": "Gobane meetse a Nimrime a tla ba lefša; gobane sehlare se omile, sehlare se seswa se phethegile — se se talago ga se sa ⟨ke⟩ go ba gona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3dfbb3397f71939422c7b906dc459b0655c140849e19e5db1379650f6cf01ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/15\/5-8.1792291589884.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "מי",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "a Nimrime"
+    },
+    {
+      "surface": "משמות",
+      "gloss": "a tla ba lefša"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "a tla ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "se omile"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "se phethegile"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "sehlare se seswa"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "se se talago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "היה",
+      "gloss": "go ba gona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:46:29.885612380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 15:24",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "did evil in the eyes of",
+      "rationale": "בעיני יהוה 'mahlong a Yahwe' — lentšu ka lentšu, sebopego sa Seheberu se bolokwa."
+    },
+    {
+      "kind": "elision",
+      "subject": "לא סר",
+      "rationale": "'A ka fologa ga se' — go ralala ga makgolo a go fega ga se polelo ya Sepedi; go fa modumo wa go gana."
+    }
+  ],
+  "translation": "Gomme a dira se boleo mahlong a Yahwe; a ka fologa ga se go dibe tša Yarobeamo mora Nebate, tšeo di dirilego gore ⟨את⟩ Yisraele e be le sebe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "74b205606fd25b1645b177ed4ffd7d06409f6cadca7dbf67b452fb7e3e935c08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/15\/21-24.1792290770728.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "se boleo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka"
+    },
+    {
+      "surface": "סר",
+      "gloss": "fologa"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "go dibe"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "di dirilego gore... e be le sebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:32:50.729511954Z",
+  "model": "glm-5.3"
+}

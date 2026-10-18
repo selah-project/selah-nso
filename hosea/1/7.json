@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tša kgoši ya ntwa",
+      "rationale": "חרב ke sediriši sa go sega — 'tša' ke lentšu la Sepedi le tlwaelegilego eupša ga se lentšu la Sesotho goba la Setswana"
+    },
+    {
+      "kind": "crux",
+      "subject": "dinaka tša diruiwa",
+      "rationale": "מלחמה e bolela ntwa; phetolelo ya motheo e swanetše go tliša 'ntwa' — go tšwa go Sepedi, 'ntwa' ke lentšu le lebotse"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "sefala",
+      "rationale": "קשת go 1:5 le mo — lekgamu la Yisraele le a phutlwa; Yehuda o bolokwa e sego ka sona"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ ntlo ya Yehuda ke e tla e rata ka tlhloko, ke tla ba boloka — ka Yahwe Elohim wa bona; e sego ka sefala, e sego ka tša kgoši ya ntwa, e sego ka dinaka tša diruiwa, e sego ka dikgomo — e sego ka dipedi tše di tšerego kgomo gape, go se ke go ba boloka ka ba kua ntle ga bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0815d649f9d8b549fc7f21c384dc54e6dd985d4fc56ed2d2e23f2328c3713344",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/1\/5-8.1792295944490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ke e rata ka tlhloko"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "ke tla ba boloka"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e sego ka"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "ke tla ba boloka"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "sefala"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "tša kgoši ya ntwa"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "dinaka tša diruiwa"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "dipedi tše di tšerego kgomo gape"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "go se ke go ba boloka ka ba kua ntle ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:59:04.491537703Z",
+  "model": "glm-5.3"
+}

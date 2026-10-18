@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 73:27",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זונה",
+      "rationale": "Lit. 'yo a dirago bohlale' — sebopego sa go hloka boikokobetši le go sephere ka Yahwe, se sa šomišwa bakeng sa go latela medimo e mengwe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רחקיך \/ ממך",
+      "rationale": "Phetolelo e bapisa bao ba kgolego le bao ba gaufu (v.28 'go atametša') — khutso ya psalme ye kaofela."
+    }
+  ],
+  "translation": "Ka gobane bonang, bao ba kgolego go wena ba tla lahlwa; o timetše ⟨את⟩ botlhe bao ba dirago bohlale go tšwa go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2cc8df8a4d01344a5592ca92d78a3473980c6b99e83385ee6a12ee5b76933da1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/73\/25-28.1792298173110.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "רחקיך",
+      "gloss": "bao ba kgolego go wena"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ba tla lahlwa"
+    },
+    {
+      "surface": "הצמתה",
+      "gloss": "o timetše ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "bao ba dirago bohlale"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "go tšwa go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:13.111753192Z",
+  "model": "glm-5.3"
+}

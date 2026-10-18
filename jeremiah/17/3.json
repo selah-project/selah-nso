@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 17:3",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mefoya ya gago — ka sebe",
+      "rationale": "במתיך בחטאת — 'mefoya ya gago bakeng sa sebe' (KJV) kgatlhanong le 'mefoya ya gago ka gobaka sa sebe' (ASV, JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mefoya",
+      "rationale": "במות ke mafelo a phagamo a badimo — lentšu la Sepedi le tliša seswantšho sa phagamo"
+    }
+  ],
+  "translation": "Thabeng ya ka nageng, maatla a gago le dipeo tša gago ka moka ke tla di nea go thopojwa; mefoya ya gago — ka sebe — molelwaneng wa gago ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c91a8fd4a3225649c2c2c64e033a6e488a52e30a749143f611eac9e072d89bc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/17\/1-4.1792293204524.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הררי",
+      "gloss": "thabeng ya ka"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nageng"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "maatla a gago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "אוצרותיך",
+      "gloss": "dipeo tša gago"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "go thopojwa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla di nea"
+    },
+    {
+      "surface": "במתיך",
+      "gloss": "mefoya ya gago"
+    },
+    {
+      "surface": "בחטאת",
+      "gloss": "ka sebe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka go"
+    },
+    {
+      "surface": "גבוליך",
+      "gloss": "molelwaneng wa gago ka moka"
+    }
+  ],
+  "timestamp": "2026-10-18T03:13:24.525752379Z",
+  "model": "glm-5.3"
+}

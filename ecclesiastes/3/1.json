@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go na le",
+      "rationale": "Sepedi e nyaka kopula; Seheberu ga e e na"
+    },
+    {
+      "kind": "substitution",
+      "subject": "selerupo",
+      "rationale": "חפץ ke bothabo le takatšo gape; 'selerupo' e tšerea karolo ya takatšo fela"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nako",
+      "rationale": "temana e ka moka ke go laola nako ya dilo ka moka"
+    }
+  ],
+  "translation": "Go dilo ka moka go na le nako, gomme go na le nako ya selerupo se sengwe le se sengwe ka fase ga magodimo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/3\/1-4.1792301354359.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "go dilo ka moka"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "nako"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "gomme nako"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya dilo ka moka"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "selerupo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fase ga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:29:14.360308421Z",
+  "model": "glm-5.3"
+}

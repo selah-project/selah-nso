@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 11:15",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mmolodi",
+      "rationale": "mmolodi wa lewatle = maleme a metsi a boima go ralala go lewatle (mmolodi ke 'tongue' — sebopego se sengwe sa metsi)"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעים",
+      "rationale": "hapax: 'ka maatla' (kojene) vs 'o makatšago\/mosesane' — barometri ba fapana"
+    },
+    {
+      "kind": "hapax",
+      "subject": "בעים",
+      "rationale": "lentšu le hwetšwa fela mo go Tanakh"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחלים \/ בנעלים",
+      "rationale": "sebopego sa mantswe a swanago (nachalim \/ ne'alim) — boitshwaro bjo bo se nago mo Sepeding"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tše šupa",
+      "rationale": "go bala dipitsa tše šupa — palo ya botlalo"
+    }
+  ],
+  "translation": "Gomme Yahwe o tla phunya ⟨את⟩ mmolodi wa lewatle la Mitsrayime, gomme o tla nyakolla seatla sa gagwe godimo ga noka ka maatla a moya wa gagwe o makatšago, gomme o tla e kgoba go ba dipitsa tše šupa, gomme o tla dumeša batho go e ralala ka dieta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9f61b4d71260feb10497706973338ffb27fa5354ddbb5a8b6c93c535b53fa45c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/11\/13-16.1792291456410.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחרים",
+      "gloss": "gomme o tla phunya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mmolodi wa lewatle"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "mmolodi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "wa lewatle"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "gomme o tla nyakolla"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "noka"
+    },
+    {
+      "surface": "בעים",
+      "gloss": "ka maatla"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "a ruakh ya gagwe"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "gomme o tla e kgoba"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "go ba dipitsa tše šupa"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "dipitsa"
+    },
+    {
+      "surface": "והדריך",
+      "gloss": "gomme o tla dumeša batho go ralala"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "ka dieta"
+    }
+  ],
+  "timestamp": "2026-10-18T02:44:16.411908386Z",
+  "model": "glm-5.3"
+}

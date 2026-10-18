@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-kings 8:47",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רָשַׁעְנוּ",
+      "rationale": "'ra dira boifi' — modumo wa ršʿ ke go dira bošula, go gagatša toka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נִשְׁבּוּ ... וְשָׁבוּ",
+      "rationale": "nišbu (ba tšerwego) kgahlanong le wašavu (ba boela) — modumo o swanago, ditlhaloganyo tše pedi; se se lahlilego"
+    }
+  ],
+  "translation": "Gomme ba boeleditše go pelo ya bona lefaseng woo ba tšerwego go lona gona, gomme ba boela gomme ba kgopela go wena lefaseng la ba ba ba tšerwego botšhabela, ba re: Re belege sebe, ra fofa, ra dira boifi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d6160e1ef828706a10b06127e43a290a55bfe81c2f2ce9f5db7bb2c0ca8b0b11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/8\/45-48.1792289841442.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשיבו",
+      "gloss": "gomme ba boeleditše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "pelo ya bona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woo"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "ba tšerwego botšhabela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "go lona gona"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ba boela"
+    },
+    {
+      "surface": "והתחננו",
+      "gloss": "ba kgopela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "שביהם",
+      "gloss": "la ba ba ba tšerwego"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "re belege sebe"
+    },
+    {
+      "surface": "והעוינו",
+      "gloss": "ra fofa"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "ra dira boifi"
+    }
+  ],
+  "timestamp": "2026-10-18T02:17:21.443665961Z",
+  "model": "glm-5.3"
+}

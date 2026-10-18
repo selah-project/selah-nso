@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 8:7",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בוז יבוזו",
+      "rationale": "Go nyatša-ga-go nyatšwa: infinitive le pego di kopana — go gatelega go nyatšwa ga mo reki."
+    },
+    {
+      "kind": "crux",
+      "subject": "ba tla mo nyatša",
+      "rationale": "Selo se se nyatšwang ke se sengwe goba motho: ba nyatša motho goba thelefole ya gagwe — baratuwa ba fapana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישטפוה",
+      "gloss": "phutholola",
+      "rationale": "Sephutho sa meetse se fetotšwe go 'phutholola' — leeme la mafolofolo a tletšego."
+    }
+  ],
+  "translation": "Meetse a mantsi a ka se kgone go tima ⟨את⟩ lorato, mafolofolo a ka se a phutholole; ge motho a ka neela thelefole ⟨את⟩ ka moka ya ntlo ya gagwe bakeng sa lorato, ba tla mo nyatša ka ntle le mo nyatša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b244f7cc331f718f75b8e819b7b1088800475fd6385ec8c5c2a748d018a24930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/8\/5-8.1792301109997.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "kgone"
+    },
+    {
+      "surface": "לכבות",
+      "gloss": "go tima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lorato"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "lorato"
+    },
+    {
+      "surface": "ונהרות",
+      "gloss": "gomme mafolofolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "ישטפוה",
+      "gloss": "a phutholole"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a ka neela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thelefole ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הון",
+      "gloss": "thelefole"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ya ntlo ya gagwe"
+    },
+    {
+      "surface": "באהבה",
+      "gloss": "bakeng sa lorato"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ba tla mo nyatša"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "mo nyatša"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:25:09.998380889Z",
+  "model": "glm-5.3"
+}

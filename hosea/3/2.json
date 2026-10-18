@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikelo",
+      "rationale": "Lesome le hlano a silibera, chomere le leteche ya mabele — kelo ya go reka Gomere."
+    },
+    {
+      "kind": "crux",
+      "subject": "chomere le leteche",
+      "rationale": "YLT 'homer and a letech' kgahlanong le KJV 'homer and a half-homer' — leteche e ka ba ge e le hafu ya chomere."
+    }
+  ],
+  "translation": "Ke mo rekile go nna ka silibera ye lesome le hlano, le chomere ya mabele, le leteche ya mabele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9d47e7184f112630e5685209087dd2f219885b067baed2ca42cc7b76cc1b463a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/3\/1-4.1792295923417.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "ke mo rekile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "le hlano"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "le chomere"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ya mabele"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "le leteche"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ya mabele"
+    }
+  ],
+  "timestamp": "2026-10-18T03:58:43.418050152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא כי",
+      "rationale": "'Aowa; go e na le moo' — literal 'gore aowa', ki e ngwang tlhaku-ka-thlaku 'no, but'."
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba se re go Yehošua",
+      "rationale": "Setšhaba se araba ka go bolela le Yehošua ka thwii."
+    }
+  ],
+  "translation": "Gomme setšhaba se re go Yehošua: Aowa; go e na le moo, Yahwe ⟨את⟩ re tla mo šomela.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "656e40c00bcdeb330245077ef1e00e5b8856548f5f4bb01fb5da60cc51fbd3af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/24\/21-24.1792287079527.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme se re"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehošua"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aowa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "go e na le moo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "re tla mo šomela"
+    }
+  ],
+  "timestamp": "2026-10-18T01:31:19.527885138Z",
+  "model": "glm-5.3"
+}

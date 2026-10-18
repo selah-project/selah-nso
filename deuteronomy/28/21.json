@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הדבר",
+      "rationale": "deber: 'sefsa' (mokgwa o bolayago) kgahlanong le 'lentšu\/taba' — kahlolo ya dikgethi e fapana."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "את ya setho ya bobedi (wena), e sego ⟨את⟩ ya sesupo sa object."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisraele",
+      "rationale": "Mantšibikwani a mabitšo a bolela go Yisraele ka boomo."
+    }
+  ],
+  "translation": "Yahwe o tlo go kgomaretša go ⟨את⟩ wena ⟨את⟩ sefsa, go fihla ge a go feletša go tšwa lefasing leo o tsenago go lona go e naga.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4b220c7b71648f3a82fdce1ff67afff678b2ce4e628ef399c09516313a8a3471",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/28\/21-24.1792286334995.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "go kgomaretša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefsa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "sefsa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "ge a go feletša"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefasing"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o tsenago"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "go e naga"
+    }
+  ],
+  "timestamp": "2026-10-18T01:18:54.996704415Z",
+  "model": "glm-5.3"
+}

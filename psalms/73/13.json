@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אך ריק",
+      "rationale": "Affirmation + emptiness collide: 'surely — vain!', the psalmist's bitter echo of verse 13 against his enviers' prosperity."
+    }
+  ],
+  "translation": "Ke nthwe fela — go se mohola! Ke hlwekeditše pelo ya ka, gomme ke hlatswatše matseba a ka ka bohlweki.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/73\/13-16.1792298171768.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ke nthwe fela"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "go se mohola"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "ke hlwekeditše"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "gomme ke hlatswatše"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ka bohlweki"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "matseba a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:11.769038291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 19:25",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתה",
+      "rationale": "Aleph-tav ya motswako e bolokilwe bjalo ka ⟨את⟩, e swaya yona (toropokgolo ya Ashur)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גלים",
+      "rationale": "'Dikgobo tša maswika' — Seheberu se bolela dilo tše di kgokologetšego, dikgobo"
+    },
+    {
+      "kind": "crux",
+      "subject": "למרחוק",
+      "rationale": "'Go tšwa lebile' (YLT) kgahlanong le 'kgalitego' (KJV\/JPS); mašwa a šupa nako, e sego sekgoba fela"
+    }
+  ],
+  "translation": "A-ga o utše go tšwa lebile? ⟨את⟩ yona ke e dirile go tšwa mafokgolo a kgalitego, gomme ke e hlagile; bjale ke e tlišitše, gomme e bile go timetša — dikgobo tša maswika, metse e matifaditšwego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "63ded7348a99fe4696a2b5655ff89ec7f7853b1224e015346bb4c080e667b82b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/19\/25-28.1792290995034.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a-ga"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "o utše"
+    },
+    {
+      "surface": "למרחוק",
+      "gloss": "go tšwa lebile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke e dirile"
+    },
+    {
+      "surface": "למימי",
+      "gloss": "go tšwa mafokgolo a"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kgalitego"
+    },
+    {
+      "surface": "ויצרתיה",
+      "gloss": "gomme ke e hlagile"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "הביאתיה",
+      "gloss": "ke e tlišitše"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "gomme e bile"
+    },
+    {
+      "surface": "להשות",
+      "gloss": "go timetša"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "dikgobo tša maswika"
+    },
+    {
+      "surface": "נצים",
+      "gloss": "tše di tlhwaeditšwego"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "e matifaditšwego"
+    }
+  ],
+  "timestamp": "2026-10-18T02:36:35.034911456Z",
+  "model": "glm-5.3"
+}

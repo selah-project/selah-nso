@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke motho yo a hemago — mafoko a botšohatši, a mpshafatšo; moya wa Sepedi ga o belege botlalo bjale, eupša o kgauswi kudu go feta 'moya' wa kgopolo ye nngwe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רב…רבת",
+      "rationale": "Go boela ga lentšu la 'rab' (kudu) mo le mehlaleng ye mebedi (123:3, 123:4) — go gatelela ga go tlala ga setšhaba."
+    }
+  ],
+  "translation": "Kudu e tlailwe moya wa rena — ka go tloša-mahlo ga ba dule-ka-kagiso, le ka nyenyefatšo ya ba leonago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/123\/1-4.1792298990266.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "e tlailwe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨go⟩ yena"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "moya wa rena"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "go tloša-mahlo ga"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "ba dule-ka-kagiso"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "nyenyefatšo ya"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "ba leonago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:50.268049469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ברוך",
+      "rationale": "Literally 'go tlama leoto go rapela' — kneeling\/blessing; rendered as blessing formula."
+    }
+  ],
+  "translation": "Tšhireletšego a be Yahwe, ka gobane o utwile lentšu la mekubele ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/28\/5-8.1792297474626.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Tšhireletšego a be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o utwile"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "mekubele ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:34.627187404Z",
+  "model": "glm-5.3"
+}

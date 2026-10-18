@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 17:7",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ba⟩",
+      "rationale": "Seheberu se na le אתם fela; sebopego sa Sepedi se nyaka sefetogi sa lentšu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba tšaba",
+      "rationale": "ירא e bolela go tšaba le go tšhaba mmogo — go tšaba fela ga sego peomantšu ka moka"
+    },
+    {
+      "kind": "elision",
+      "subject": "medimo ye mengwe",
+      "rationale": "Elohim ya ditšhaba tše dingwe e phetolelwa ka ditlhaka tše nnye go ya ka D1"
+    }
+  ],
+  "translation": "Gomme go diregile gobane bana ba Yisraele ba dirile sebe go Yahwe, Elohim wa bona, yo a ba ntšhitšego go tšwa lefaseng la Mitsrayime, ka mo o mongwe ga seatla sa Farao, kgoši ya Mitsrayime, gomme ba ile ba tšaba medimo ye mengwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "852fdb5e274ddf0ff9bd6a76950809d0986685b149ff09802316f767e645441d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/17\/5-8.1792290861130.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go diregile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ba dirile sebe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    },
+    {
+      "surface": "המעלה",
+      "gloss": "yo a ba ntšhitšego"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go tšwa lefaseng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ka mo o mongwe ga"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla sa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši ya"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ba ile ba tšaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ye mengwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:34:21.131325406Z",
+  "model": "glm-5.3"
+}

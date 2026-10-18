@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרך \/ נתיבה",
+      "rationale": "Dintlha tše pedi tša tsela — tsela e kgolo le tselana e tlwaetšwego; go swana le tsela ya Exodo ka lewatleng."
+    },
+    {
+      "kind": "elision",
+      "subject": "הנותן",
+      "rationale": "Seheberu se re 'yo a abetšego' (the-one-who-gives) — kjv e fetoša go 'yo a dirago' (maketh); re boloka modu wa go abela."
+    }
+  ],
+  "translation": "Bjalo a bolela Yahwe, yo a abetšego lewatleng tsela, le meetse a matla — tselana.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a025a3c1177220ce017b475ab165d8d4b78e00be61537f3e97ad32d620f83671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/43\/13-16.1792292121540.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "yo a abetšego"
+    },
+    {
+      "surface": "בים",
+      "gloss": "lewatleng"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "le meetse a"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "matla"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "tselana"
+    }
+  ],
+  "timestamp": "2026-10-18T02:55:21.541259649Z",
+  "model": "glm-5.3"
+}

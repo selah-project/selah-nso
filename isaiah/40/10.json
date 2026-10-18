@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mo⟩",
+      "rationale": "לו (bakeng sa gagwe) e nyaka sehlakahlaka sa Sesotho sa Leboa; Seheberu se bolela fela ‘bakeng sa gagwe’"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משלה",
+      "rationale": "polelo ye e tšwa go משל (go buša) — lelae la Adonai le buša, selo se se nago maatla se ka se fele ka Lentšu la Seisemane le le botse fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "אתו",
+      "rationale": "e ka ba kokwana ya go swana le (‘le gagwe’) goba lesupa la shelang la ⟨את⟩; go na le dikakgelo tše pedi"
+    }
+  ],
+  "translation": "Bonang, Adonai Yahwe o tla ka maatla a nonofetše, gomme lelae la gagwe le buša ⟨mo⟩; bonang, moputso wa gagwe o le ⟨את⟩, gomme mošomo wa gagwe o pele ga gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2b45e05ca91f290114752edbe6c4ea89335c575badc0098a7398ad28ad321a5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/40\/9-12.1792292110582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "ka maatla a nonofetše"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o tla"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "gomme lelae la gagwe"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "le buša"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mo⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "moputso wa gagwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ o le",
+      "marks": "moputso wa gagwe"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "gomme mošomo wa gagwe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:55:10.583014927Z",
+  "model": "glm-5.3"
+}

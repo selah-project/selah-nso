@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "letogo",
+      "rationale": "זרוע (zero-ʿayin) ke letogo, e sego peu (זרע) — ditlhaka tša bobedi di swana, tlhaka ya ʿayin e faposa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tharo ya leina–seatla–letogo",
+      "rationale": "tatelano ya boraro: leina, seatla, letogo — pego ya maatla a Yahwe ka go nyakolla"
+    }
+  ],
+  "translation": "ka gobane ba tla utwa ⟨את⟩ leina la gago le legolo le ⟨את⟩ seatla sa gago se matla, le letogo la gago le le otleditšwego, gomme a tla, a thapela go ntlo ye;",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ab4b6a7cdf6d99444742646c80488fa8f5c51650af67be0d7781aeea194e6b57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/8\/41-44.1792289957049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "ba tla utwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la gago"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "le legolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "seatla sa gago"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "se matla"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "le letogo la gago"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "le le otleditšwego"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "gomme a tla"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "a thapela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-10-18T02:19:17.050413342Z",
+  "model": "glm-5.3"
+}

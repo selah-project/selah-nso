@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מגבע",
+      "rationale": "Geba kgahlanong le Gibeon (BSB, LXX); sephuthelwana sa ditlhaka se swanetše go lokišwa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "באך",
+      "rationale": "Seheberu se re 'go fihla go tsena ga gago' — lentšu la bobedi la motho le fetotšwe go ba setšhaba."
+    }
+  ],
+  "translation": "Gomme Dafida a dira bjalo, bjalo ka ge Yahwe a mo laeditše; gomme a o ra ⟨את⟩ Balefisthea go tšwa Geva go fihla ⟨ge⟩ o fihla Gozere.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "fe3348510aa32cc7b523d3b233e1619043b4f6343b232c2108f2ee8da47a8feb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/5\/25-25.1792288896711.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "a mo laeditše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a o ra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balefisthea"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Balefisthea"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "go tšwa Geva"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ge o fihla"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gozere"
+    }
+  ],
+  "timestamp": "2026-10-18T02:01:36.712305036Z",
+  "model": "glm-5.3"
+}

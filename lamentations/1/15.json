@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 1:15",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סלה",
+      "rationale": "Modu wa go kgetha: 'o tlogetše' (ASV) kgahlanong le 'o gatile fase' (KJV, go tšwa go ditemana tše di latelago tša setei)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מועד",
+      "rationale": "E bolela kahlolo ya moletlo ka mehla — kgobokano ya go ithabisa e fetohetše kgobokano ya kgahlolo; tlhakanetšo ye e timetše"
+    },
+    {
+      "kind": "idiom",
+      "subject": "setei sa morumo",
+      "rationale": "Go gatišwa bjalo ka diamorumo go seteini — setšhaba se tšewa bjalo ka morumo wo o gatišwago"
+    }
+  ],
+  "translation": "Adonai o tlogetše bohle ba ba maatla ba ka ka gare ga ka; o lateditše kgobokano kgahlanong le ka, go phutlha mahlogana a ka; Adonai o gatile setei sa morumo, bakeng sa mosetwana, morwadi wa Yuda.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2a9503cc05034d0f9c2404080a9adf1b4e12f4c546ee3ad2033a04e5bb4de7ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/1\/13-16.1792301238706.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סלה",
+      "gloss": "o tlogetše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "ba ba maatla ba ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ka gare ga ka"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o lateditše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le ka"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kgobokano"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "go phutlha"
+    },
+    {
+      "surface": "בחורי",
+      "gloss": "mahlogana a ka"
+    },
+    {
+      "surface": "גת",
+      "gloss": "setei sa morumo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "o gatile"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "לבתולת",
+      "gloss": "bakeng sa mosetwana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yuda"
+    }
+  ],
+  "timestamp": "2026-10-18T05:27:18.707129396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bokgethwa",
+      "rationale": "קדשו bolela bokgethwa bjwe — go swana le 'go kgethagatša' go ya ka D2, e sego 'halalela' ya Sesotho"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba",
+      "rationale": "Sefoko se se bolela ka rena — setšhaba se se bolelago le Yahwe"
+    }
+  ],
+  "translation": "Ka gobane ka go eena pelo ya rena e a thaba, ka gobane ka leina la bokgethwa bjwe ka re tshepile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a916f9d90cad1c57c489438c97d4795a397d2217c582100b666eb5e16c7c782b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/21-22.1792297511724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka go eena"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "e a thaba"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "pelo ya rena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina la"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "bokgethwa bjwe"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "re tshepile"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:11.724607052Z",
+  "model": "glm-5.3"
+}

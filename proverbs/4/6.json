@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Sepedi e nyaka mošomi wa seswantšho — Seheberu se mošomi o mokyashe wa seswantšho go חכמה go tšwa temaneng ye e fetilego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go hlwafera",
+      "rationale": "שׁמר ke go hlwafera ka legodi — kutollo ya ka ntle e sego ya sephiri"
+    }
+  ],
+  "translation": "O se ke wa e tlogela, gomme e tla go hlwafera; e rata, gomme e tla go šireletša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd9419f502958688fd0ea0b697c6bad33ee7ca2b6d4e0b770f35d3df457c15c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/4\/5-8.1792299227649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "wa e tlogela"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "gomme e tla go hlwafera"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "e rata"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "gomme e tla go šireletša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:53:47.650375961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 22:35",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונחת קשת נחושה",
+      "rationale": "KJV: 'a bow of steel is broken by mine arms'; JPS\/ASV: 'mine arms do bend a bow of brass' — go thao goba go kgoboketša?"
+    },
+    {
+      "kind": "substitution",
+      "subject": "moporo",
+      "rationale": "נחושה ke moporo (copper), e sego tšhipi — KJV 'steel' ke phošo ya nako ya yona"
+    }
+  ],
+  "translation": "O rutisha matsogo a ka ntoa, gomme o kgoboketša ⟨את⟩ uta wa moporo ka mangwanalo a ka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "013663028b1bfc4424564e97a8027c9f5a3467f858a19734a0e3aefd70617ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/22\/33-36.1792289434674.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "o rutisha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matsogo a ka"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "gomme o kgoboketša"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uta"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "wa moporo"
+    },
+    {
+      "surface": "זרעתי",
+      "gloss": "mangwanalo a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:10:34.675556723Z",
+  "model": "glm-5.3"
+}

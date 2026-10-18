@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 17:11",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefesh ke bophelo\/moya wa go hema, e sego 'me'e' — mo e šomišwa ka mokgwa wa 'bophelo'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בנפש יכפר",
+      "rationale": "'a hlwekišago ka bophelo' — badoloki ba dumedellana: kaphar e dirwa ke madi, goba ka ntlha ya bophelo bo mading"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לכפר",
+      "rationale": "kaphar e tlhaku-ka-tlhaku 'go khupetša\/boya' — 'go hlwekiša' ke go atametša, go se go fetole ka botlalo"
+    }
+  ],
+  "translation": "Ka gobane bophelo bja nama bo gare ga madi, gomme nna ke se file lona godimo ga aletare, go hlwekiša diphoso tša meele ya lona; ka gobane ke madi a hlwekišago ka bophelo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/17\/9-12.1792284053466.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "bja nama"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "bo gare ga madi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ke se file"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "go hlwekiša"
+    },
+    {
+      "surface": "על",
+      "gloss": "diphoso tša"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "meele ya lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ke madi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ka bophelo"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "a hlwekišago"
+    }
+  ],
+  "timestamp": "2026-10-18T00:40:53.467403684Z",
+  "model": "glm-5.3"
+}

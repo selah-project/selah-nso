@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 12:25",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba dumela",
+      "rationale": "משש ke go feteka ka diatla go nyaka tsela — go sepela sefifing go ka fetolelwa ka go 'nyaka tsela ka go feteka'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשך \/ אור",
+      "rationale": "phelelano ya sefifi le seetlaelo — go se nago seetlaelo ke lefela la kutlo, se se laeditšego tlholo ya magoshi a senyegilego"
+    }
+  ],
+  "translation": "Ba dumela sefifing, e sego seetlaelong, gomme o ba tseeditše bjalo ka mogodiwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8b6c88dbbd31dc821cb5b3a5eae4c625f073233f719df55bebf5b2845d76e953",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/12\/25-25.1792300172173.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימששו",
+      "gloss": "ba dumela"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "sefifing"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e sego"
+    },
+    {
+      "surface": "אור",
+      "gloss": "seetlaelong"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "gomme o ba tseeditše"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "bjalo ka mogodiwa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:32.173793612Z",
+  "model": "glm-5.3"
+}

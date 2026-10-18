@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 32:18",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "matlo",
+      "rationale": "בתינו is literally 'our houses'; 'homes' idiom rendered as houses-dwellings, keeping the concrete picture."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moses",
+      "rationale": "Continuation of the tribes' pledge spoken to Moses."
+    }
+  ],
+  "translation": "Re ka se boele matlong a rena, go fihlela bana ba Yisraele ba amogetše boswa, motho yo mongwe le yo mongwe boswa la gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3bf25416e13566a7fe89994856c4ab055f8e0ac42ff067642f9c3bd922b86ea9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/32\/17-20.1792285332530.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "re ka se"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "boele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "matlong a rena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "התנחל",
+      "gloss": "ba amogetše boswa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "boswa la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:02:12.531091564Z",
+  "model": "glm-5.3"
+}

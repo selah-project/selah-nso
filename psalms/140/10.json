@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מסבי",
+      "rationale": "Plural wa מסב — o tšwele ka bophara mo Psalms, sepheo se bolela bao ba nanela ka ntle."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ka⟩",
+      "rationale": "Seheberu se na le suffix ya bontši fela; Sepedi e nyaka go tseba ke mang a dikologilwego."
+    },
+    {
+      "kind": "idiom",
+      "subject": "dipounama tša bona bo di kwale",
+      "rationale": "Pono ya Seheberu: sebopego se tšwa dipounameng tša bona se boela go bona ka bowe; Sepedi e bolokile sebopego."
+    }
+  ],
+  "translation": "Hlogo ya bao ba dikologilego ka ntle ga ⟨ka⟩ — bothoko bja dipounama tša bona bo di kwale.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/140\/9-12.1792299041277.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "ba dikologilego ka ntle ga ka"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bothoko"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "dipounama tša bona"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "bo di kwale"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:41.279079835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 22:37",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קרסול",
+      "rationale": "Rare word for ankle-joint; rendered simply as 'maoto a ka' (my feet)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maoto",
+      "rationale": "Hebrew has ankles, not feet; whole-verse parallel (Ps 18:36) reads 'feet'."
+    }
+  ],
+  "translation": "O phihleleditše mogato wa ka ka mošomo wa ka, gomme maoto a ka ga a ka a phaphogela.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "abe65d50f23095a10692a5a12f58212eca0c83f56f7c6c44ffc7d51e56b587f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/22\/37-40.1792289427938.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרחיב",
+      "gloss": "o phihleleditše"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "mogato wa ka"
+    },
+    {
+      "surface": "תחתני",
+      "gloss": "ka mošomo wa ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "מעדו",
+      "gloss": "a phaphogela"
+    },
+    {
+      "surface": "קרסלי",
+      "gloss": "maoto a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:10:27.938501143Z",
+  "model": "glm-5.3"
+}

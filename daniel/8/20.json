@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "tše pedi",
+      "rationale": "קרנים ke dual — dinala tše pedi di ngwalwa ka botlalo, go swana le Seheberu"
+    },
+    {
+      "kind": "mystery",
+      "subject": "pono",
+      "rationale": "Tebelelo ya pono e hlalosa: poo ya nku = dikgoši tša Media le Persia"
+    }
+  ],
+  "translation": "Poo ya nku yeo o e bonego, ye e nago dinaka tše pedi, ke dikgoši tša Media le Persia.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b79ab87780cf7b9f740bd9afe9a8f5a3b37948d8fddfb1eaf173642ba8edb2b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/8\/17-20.1792301966083.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "poo ya nku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "o e bonego"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mong wa"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "dinaka tše pedi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgoši tša"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Media"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "le Persia"
+    }
+  ],
+  "timestamp": "2026-10-18T05:39:26.084488760Z",
+  "model": "glm-5.3"
+}

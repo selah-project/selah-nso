@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩ e be",
+      "rationale": "Seheberu ga se na copula — 'nna, mong wa ka, tlolo' fela; Sepedi e nyaka e be"
+    },
+    {
+      "kind": "idiom",
+      "subject": "בי",
+      "rationale": "Selaodi sa go kopa ka pela — 'ke kopa' e sego ka fao-ka-fao 'go ka nna'"
+    },
+    {
+      "kind": "you",
+      "subject": "Dafida",
+      "rationale": "Abigale a bolelela Dafida ka go mo bitša 'mong wa ka' ka go ithaopa"
+    }
+  ],
+  "translation": "Gomme a wa go maoto a gagwe, a re: ke kopa, mong wa ka, tlolo ⟨ke⟩ e be go nna; gomme o kgotsofetše, mošomi wa gago wa mosadi a bolele ka ditsebeng tša gago, gomme o theetše ⟨את⟩ mantsu a mošomi wa gago wa mosadi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e5f6e5097240e80c2f77db70cbb33114dfb26b5dee2f116c70cf3eb7afbc373b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/25\/21-24.1792288577756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "Gomme a wa"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maoto a gagwe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa ka"
+    },
+    {
+      "surface": "העון",
+      "gloss": "tlolo"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "a bolele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "o kgotsofetše"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "mošomi wa gago wa mosadi"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "ka ditsebeng tša gago"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "gomme o theetše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantsu a mošomi wa gago"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantsu a"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "mošomi wa gago wa mosadi"
+    }
+  ],
+  "timestamp": "2026-10-18T01:56:17.757839194Z",
+  "model": "glm-5.3"
+}

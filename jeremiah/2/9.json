@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אריב … אריב",
+      "rationale": "go ganela ga bopele kgauswi — modumo o mobo o boeledwa, o a hlonga ka bobedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נאם",
+      "rationale": "םאם ke oracle; go ya le D3 go šomišwa 'go bolela Yahwe'"
+    }
+  ],
+  "translation": "Ka gobane, ka moka gape ke tla ganela ⟨את⟩ le lona, go bolela Yahwe, gomme ⟨את⟩ bana ba bana ba lona ke tla ganela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f8a8b594808cb0bcbe0ae0cb80c701b365c199291cbf096bd07c0c4e8a948bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/2\/9-12.1792292601354.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ka moka gape"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ke tla ganela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "le lona ⟨את⟩"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "bana ba bana ba lona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bana ba lona"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ke tla ganela"
+    }
+  ],
+  "timestamp": "2026-10-18T03:03:21.355550313Z",
+  "model": "glm-5.3"
+}

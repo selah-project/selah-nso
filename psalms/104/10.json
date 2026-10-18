@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dinoka",
+      "rationale": "נחלים ke dinoka tša selemo tše di elelago ka nako ya pula, e sego noka e tlogoletšego"
+    }
+  ],
+  "translation": "Yo a romelago mediba mehlareng ya dinoka, gare ga dithaba di a sepela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "80d3b1a0234660459e982c38d9a0f6f7a7384580134b29da2afea89f572060ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/9-12.1792298557999.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "yo a romelago"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "mediba"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "mehlareng ya dinoka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "di a sepela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:37.999732858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 16:11",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ואעדך \/ עדי",
+      "rationale": "go khantšha ka dikhantšho — botee bja modu bja עדה\/עדי bo bolokwa ka go boela ka go khantšha\/dikhantšho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גרון",
+      "rationale": "Seheberu se bolela 'momogwana' (morogwana wa go metsa); Sepedi se šomiša molala wa gago"
+    }
+  ],
+  "translation": "Gomme a go khantšha ka dikhantšho, gomme a bea disele tša matogo go matogo a gago, le thapo ya molala go molala wa gago.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5000062a34842ac1148ed3b8e430637f20abed22fb92b9f03c7d0d13e0b3ab74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/16\/11-12.1792305161375.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעדך",
+      "gloss": "gomme a go khantšha"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ka dikhantšho"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "gomme a bea"
+    },
+    {
+      "surface": "צמידים",
+      "gloss": "disele tša matogo"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "matogo a gago"
+    },
+    {
+      "surface": "ורביד",
+      "gloss": "le thapo ya molala"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "גרונך",
+      "gloss": "molala wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T06:32:41.376289932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Seheberu se se na sebopego sa mošomi, Sepedi se se nyaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "אצמית",
+      "rationale": "tsamaiso ya lefoko: 'go fedisa' goba 'go nyenyefatša go se bolele' — mofetoledi o fapana"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ורחב",
+      "rationale": "'pelo e sephara' goba 'pelo e atolositswego' — rekhoto e bolela bophara"
+    }
+  ],
+  "translation": "Yo a nyefolago moširi wa gagwe ka sephiring, o tla moo ke mo fedise; wa mahlo a phahame le wa pelo e sephara, ⟨o⟩ nka se mo kele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/101\/5-8.1792298594286.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "yo a nyefolago"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka sephiring"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "moširi wa gagwe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "yo a nyefolago moširi wa gagwe ka sephiring"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ke tla mo fedise"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "a phahame"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "e sephara"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wa mahlo a phahame le wa pelo e sephara"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nka mo kele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:14.287449347Z",
+  "model": "glm-5.3"
+}

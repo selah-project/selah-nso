@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu ga se na kopula; Sepedi e nyaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עברה",
+      "rationale": "e kudu e bolela go furega\/kgalothlakane, e sego thubakgale fela"
+    }
+  ],
+  "translation": "Nna ke ⟨ke⟩ motho yo a bonilego ⟨את⟩ bohlelwa ka sefoka sa go furega ga gagwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/3\/1-4.1792301145099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a bonilego"
+    },
+    {
+      "surface": "עני",
+      "gloss": "bohlelwa"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ka sefoka"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "go furega ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:25:45.100001860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "Ba fetoleli ba fapana: 'ka gobane ke bolela' (KJV), 'le ge ke bolela' (JPS), goba 'gore ke bolele' (ASV) — sebopego sa Seheberu se dumelela tša ka moka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האמנתי\/אדבר",
+      "rationale": "Paulo o šomiša lantšu le le ka moka go 2 Bakorinte 4:13; kgolagano ya go tshepa le go bolela e bolokwa"
+    }
+  ],
+  "translation": "Ke tshepile, ka gobane ke bolela; nna ke hlorišitšwe kudu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9f58a11b1cc15e365db798881c68fda07224e8dec0b6059f3be84b87af347ac0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/116\/9-12.1792298759901.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke bolela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ke hlorišitšwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:59.902295582Z",
+  "model": "glm-5.3"
+}

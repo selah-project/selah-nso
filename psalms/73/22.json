@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mo⟩",
+      "rationale": "עם ke 'le'; 'mo go wena' e oketša sephuthi sa lefelo seo Seheberu se se sa se bontšhago ka botlalo"
+    },
+    {
+      "kind": "crux",
+      "subject": "בהמות",
+      "rationale": "KJV\/JPS: 'bjalo ka phoofolo' (ka kgethišano); ylt: 'ke be ke le phoofolo e ntle' — go se go kgethišano go hlaka ka go sepelelana"
+    }
+  ],
+  "translation": "Gomme nna ke be ke se nego tshedimošo; ke be ke le bjalo ka phoofolo ya naga ⟨mo⟩ go wena",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e00f4daa04ca29ea4052336dc5fca6306a2c0b5fb5c272cb95eccb282aae391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/73\/21-24.1792298165309.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ke se nego tshedimošo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ke sa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "tseba"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "phoofolo ya naga"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke be ke le"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "mo go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:05.310312480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בשכבך",
+      "rationale": "Ledika la Seheberu 'go robala' le hlalosa go efoga bosigo; Sepedi se bolela 'go robetše'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תשיחך",
+      "rationale": "שיח ke go nagana ka gago goba go bolela ka modumo; Sepedi 'go bolela le wena'"
+    }
+  ],
+  "translation": "Ge o sepela, e tla go hlahleletša ⟨את⟩ wena; ge o robetše, e tla go hlokomela godimo ga gago; gomme ge o tsogile, yona e tla bolela le wena.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9f59bd0f4f68feb43307b7d40899fa23bd1e3dfc43acee0c3cc410a0d6f9b7d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/6\/22-23.1792305327220.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "ge o sepela"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "e tla go hlahleletša"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "ge o robetše"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "e tla go hlokomela"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "godimo ga gago"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "gomme ge o tsogile"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "e tla bolela le wena"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:27.220721697Z",
+  "model": "glm-5.3"
+}

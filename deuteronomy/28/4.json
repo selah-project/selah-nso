@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועשתרות",
+      "rationale": "Lentšu le tsewa e le 'menate\/oketšego' (KJV 'increase'), eupša le swana le leina la modimo wa semošwi Ashtarote — baithuti ba ntšha phapano."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שגר",
+      "rationale": "'Tše di tswalwago' — lentšu le bolela peo ya mpa yeo e tswaletšwego, e sego ka boomo 'manenyane'."
+    }
+  ],
+  "translation": "E phošohile pele ya mpa ya gago, le pele ya lefase la gago, le pele ya diruiwa tša gago, tše di tswalwago tša dikgomo tša gago tše kgolo, le menate ya dinku le dipudi tša gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "21703a1de4c5c76889f90533aabee9bce3b6a78509f504cbd8998e0c2c42a2d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/28\/1-4.1792286301387.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "e phošohile"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "pele ya"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "mpa ya gago"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "le pele ya"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "lefase la gago"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "le pele ya"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "diruiwa tša gago"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "tše di tswalwago"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "dikgomo tša gago tše kgolo"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "le menate ya"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "dinku le dipudi tša gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:18:21.388343004Z",
+  "model": "glm-5.3"
+}

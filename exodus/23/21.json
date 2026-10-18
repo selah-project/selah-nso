@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 23:21",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תמר",
+      "rationale": "From מרר 'to be bitter': 'make bitter against him' (fellisa) vs traditional 'provoke' or 'rebel' (JPS)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ישא לפשעכם",
+      "rationale": "'Lift\/bear your rebellion' — 'pardon' (KJV) vs 'bear with\/tolerate' (YLT); rendered 'a tloša' (take away)."
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraele",
+      "rationale": "Second-person imperatives and prohibitions addressed to Israel about the messenger."
+    },
+    {
+      "kind": "mystery",
+      "subject": "leina la ka le ka go ena",
+      "rationale": "The Name hidden within the messenger — identity deliberately withheld."
+    }
+  ],
+  "translation": "Hlokomela pele ga gagwe, o theetše ka lentšu la gagwe; o se ke wa mo fellisa, gobane ga ⟨ke⟩ wena a tlošago go se mmatla ga lona; gobane leina la ka le ka go ena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/23\/21-24.1792282898175.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Hlokomela"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pele ga gagwe"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "o theetše"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ka lentšu la gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "wa mo fellisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "a tloša"
+    },
+    {
+      "surface": "לפשעכם",
+      "gloss": "go se mmatla ga lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "leina la ka"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ka go ena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:38.176821382Z",
+  "model": "glm-5.3"
+}

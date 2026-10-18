@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 17:15",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sefosego",
+      "rationale": "Toeba ke selo se se nyefsegago kudu; 'sefosego' se swara moya wa lentšu, eupša se ka fokotša boima bja go hloilega."
+    },
+    {
+      "kind": "addition",
+      "subject": "pela ga",
+      "rationale": "Seheberu se bolela 'toebat Yahwe' ka kopanyo fela; Sepedi se oketša sebopego sa lefelo."
+    }
+  ],
+  "translation": "Yo a lokafetšago molatu le yo a fosafetšago yo a lokilego — bobedi bjona ke sefosego pele ga Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "49cf30c49e5983802515b6efae6cbbe4f2e20687998b92c56f49e8cf74c39b79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/17\/13-16.1792299512829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצדיק",
+      "gloss": "yo a lokafetšago"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "molatu"
+    },
+    {
+      "surface": "ומרשיע",
+      "gloss": "le yo a fosafetšago"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a lokilego"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "sefosego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bobedi bjona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:58:32.830563810Z",
+  "model": "glm-5.3"
+}

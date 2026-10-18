@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Seheberu se se nago artikhle ya kopelwa; Sepedi se e nyaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עורה\/אעירה",
+      "rationale": "Poelelo ya modu o mošoletšwego le go mo tsoša — modu o mongwe o dirišwa gabedi, se se laelwa Sepeding ka 'tsoga\/tloša'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "dithlaka tša mmino",
+      "rationale": "Taetso ya go tsoša dithlaka le moso — sefokodi se bitša sephego se se tlogago se robetše"
+    },
+    {
+      "kind": "crux",
+      "subject": "ke tla tsoša moso",
+      "rationale": "אעירה שחר: 'ke tla tloša moso' (moso o dirišwa bjalo ka selo se ka tlošwang) kgahlanong le 'ke tla tsoša ka bosasa'"
+    }
+  ],
+  "translation": "Tsogang, nevela le kinora; ke tla tsoša ⟨e⟩ moso.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/108\/1-4.1792298706445.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Tsogang"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nevela"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "le kinora"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ke tla tsoša"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "moso"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:06.446265541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a le",
+      "rationale": "Seheberu se se na kopulatao; Sepedi e e nyaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיני\/אזניו",
+      "rationale": "Go swana ga go hlama: mahlo le ditsebe, ka bobedi di nea godimo ga ba lokilego le sehu sa bona"
+    }
+  ],
+  "translation": "Mahlo a Yahwe a le go ba lokilego, gomme ditsebe tša gage go sehu sa bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9340de93813714082aaab1a58bdd9d43402dc62fe41600dabae2cb99405cc1f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/13-16.1792297531234.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Mahlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a le go"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokilego"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "gomme ditsebe tša gage"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "sehu sa bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:31.235260621Z",
+  "model": "glm-5.3"
+}

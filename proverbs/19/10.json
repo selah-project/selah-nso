@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "Sepedi e nyaka go gana ga lentšu pele ga lediri; Seheberu se na le לא fela."
+    },
+    {
+      "kind": "crux",
+      "subject": "אף כי",
+      "rationale": "Bamphetoli ba fapana: 'ga go lebelega' kgatlhanong le 'go feta fela' — mo go tsenelela go nyakega."
+    }
+  ],
+  "translation": "Boitumediso ga bo lokela sephohli; goba le go feta, go mohlanka go busa dikgoši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/19\/9-12.1792299605061.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "bo lokela"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "sephohli"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "boitumediso"
+    },
+    {
+      "surface": "אף",
+      "gloss": "goba le"
+    },
+    {
+      "surface": "כי",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "go mohlanka"
+    },
+    {
+      "surface": "משל",
+      "gloss": "go busa"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "dikgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:05.062671847Z",
+  "model": "glm-5.3"
+}

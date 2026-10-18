@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "copula",
+      "rationale": "Seheberu ga se na copula; Sepedi le yona e hlama ka go thoma ka maina feela."
+    },
+    {
+      "kind": "crux",
+      "subject": "חנון ורחום",
+      "rationale": "Mefuta ya kgwerano: mohau le mohlokomedi — mantšu a mabedi a Sekwalele sa go se fetoge ka mehla a šomišwa mmogo."
+    }
+  ],
+  "translation": "O dirile segopotšo sa dilo tša makgowetša tša gage; mohau le mohlokomedi Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "214c851a847b085d4938cf9420e56880088b55bcd38b91a349e9806e26cac0fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/111\/1-4.1792298728831.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "segopotšo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "לנפלאותיו",
+      "gloss": "sa dilo tša makgowetša tša gage"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "gomme mohlokomedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:28.832679998Z",
+  "model": "glm-5.3"
+}

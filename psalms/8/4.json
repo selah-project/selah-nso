@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lebelela",
+      "rationale": "ראה ke 'go bona'; 'go lebelela' go fa maikutlo a go ineela go se nene go feta seo Seheberu se se rego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמיך\/אצבעתיך",
+      "rationale": "Go segelela ga mmala o motala godimo ga lewatle le mo lewatleng — go bontšha botona bja magodimo kgahlanong le go nyenyana ga motho, go fela ka 'ke eng motho?'"
+    },
+    {
+      "kind": "you",
+      "subject": "go yena Yahwe",
+      "rationale": "Sefoko se se bolelela go Yahwe ka boweni — 'magodimo a gago, menwana ya gago'"
+    }
+  ],
+  "translation": "Ge ke lebelela ⟨את⟩ magodimo a gago, mošomo wa menwana ya gago, kgwedi le dinaledi tše o di theilego",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f02cf0c06e3b971edcaeea97401c11c58d73c9670bd7e8683efb0c084611dc0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/8\/4-4.1792305174668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ke lebelela"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "magodimo a gago"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mošomo wa"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "menwana ya gago"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "le dinaledi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "o di theilego"
+    }
+  ],
+  "timestamp": "2026-10-18T06:32:54.669187964Z",
+  "model": "glm-5.3"
+}

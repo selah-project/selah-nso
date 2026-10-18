@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "boithoto",
+      "rationale": "דומה ke go thothomela le lehu ka moka; e hlobokantšwe bjalo ka lefelo la go theoga, e sego Sheole ka noši"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהללו \/ הללו",
+      "rationale": "lentšu la go keteka le boela gatee-gatee ga hlogo (115:17–18) — phapang ye e sego gona ka Sepedi"
+    }
+  ],
+  "translation": "Bafu ga ba keteki Yah, le e sego ba ka moka ba theogago boithotong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7662961dd3dedde7f9f6b6bc6210fd78de76748a34b1961e1c014666ddffab1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/115\/17-18.1792298769586.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "bafu"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ba keteki"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le e sego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba ka moka"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ba theogago"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "boithotong"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:09.586949525Z",
+  "model": "glm-5.3"
+}

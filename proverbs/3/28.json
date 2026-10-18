@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "selayo",
+      "rationale": "ויש אתך ga se bolele selo se se botšego; 'go na le selayo le wena' — se okeditšwe go dira taba e utolago."
+    },
+    {
+      "kind": "you",
+      "subject": "morwa yo a rutwago",
+      "rationale": "Taelo ya go se diege go nea mogwera se se lego matsogong."
+    }
+  ],
+  "translation": "O se ke wa re go mogwera wa gago: Eya, o boele gomme ka moso ke tla go nea, ge go na le selayo le wena ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0c2e9554bbf6365b297f5c3177d32bd650b4985fcba4a58c168db6864d96bc5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/3\/25-28.1792299231462.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "wa re"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "go mogwera wa gago"
+    },
+    {
+      "surface": "לך",
+      "gloss": "eya"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "o boele"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "gomme ka moso"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla go nea"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ge go na le"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le wena ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T04:53:51.463875651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השרד",
+      "rationale": "hapax e sa tsejwego gabotse: 'go theletša' (LXX, JPS) kgathanong le 'diaparo tša mošomo' (KJV) — lentšu le bolela go hloma ka nonyane."
+    },
+    {
+      "kind": "hapax",
+      "subject": "שרד",
+      "rationale": "lentšu le le la teng fela mo Tanakheng."
+    },
+    {
+      "kind": "elision",
+      "subject": "לכהן",
+      "rationale": "infinitive construct 'go šoma bjalo ka moperisita' — go thekgišitšwe gore e bolela mošomo wa baperisita."
+    }
+  ],
+  "translation": "le ⟨את⟩ diaparo tša go dirilwe ka go theletša, le ⟨את⟩ diaparo tša bokgethwa bakeng sa Aharone moperisita, le ⟨את⟩ diaparo tša bana ba gage go šoma bjalo ka baperisita.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "342dd9ee00b279c8c1ecf5504d9a640b93b0d9bc8e62ebf9bf8dcb9564112143",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/31\/10-11.1792304665854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diaparo tša go theletša"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "tša go theletša"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diaparo tša bokgethwa"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "bakeng sa Aharone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diaparo tša bana ba gage"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gage"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "go šoma bjalo ka moperisita"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:25.855190693Z",
+  "model": "glm-5.3"
+}

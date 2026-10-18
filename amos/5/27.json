@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "amos 5:27",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu ga se na kopula; Sepedi e e nyaka."
+    },
+    {
+      "kind": "crux",
+      "subject": "מהלאה לדמשק",
+      "rationale": "'go tloga mo go le kgakala go ya Damaseke' — kgotalo 'go feta Damaseke'; מהלאה e bolela bokgole, e sego tlhako ya mothathombo."
+    }
+  ],
+  "translation": "Gomme ke tla go tswalela le ka ntle, go tloga mo go le kgakala go fihla ka ntle ga Damaseke, go bolela Yahwe — Elohim wa Tsebaote ⟨ke⟩ leina la gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "402c01821f7679efb7279b49e24d96dd6bfdae8161a426316d1488e183ef2ad8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/5\/25-27.1792296275265.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגליתי",
+      "gloss": "gomme ke tla go tswalela le ka ntle"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "go tloga mo go le kgakala"
+    },
+    {
+      "surface": "לדמשק",
+      "gloss": "go fihla ka ntle ga Damaseke"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:04:35.266831313Z",
+  "model": "glm-5.3"
+}

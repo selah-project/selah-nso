@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין שומע לך מאת המלך",
+      "rationale": "'ga go na mo kgoši yo a beilwego go go theetša' kganelo 'ga go na yo a go theetšago go tšwa go kgoši' — YLT e ya kganelo ya peleng"
+    },
+    {
+      "kind": "you",
+      "subject": "Absalome o bolela le mohlanka wa kgetsi",
+      "rationale": "polelo ya go kgothaletša: 'Bona, ditaba tša gago...'"
+    }
+  ],
+  "translation": "Gomme Absalome a re go yena: Bona, ditaba tša gago di bobotse gomme di nepagetše, eupša ga go na yo a go theetšago go tšwa go ⟨את⟩ kgoši.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "201f4dd1f5cdecb50786c1c5aaef4ab79a5359058b0639d0182326c31740a719",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/15\/1-4.1792289256553.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalome"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ditaba tša gago"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "di bobotse"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "gomme di nepagetše"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "go theetša"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yo a go"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tšwa go ⟨את⟩",
+      "marks": "kgoši"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T02:07:36.554866848Z",
+  "model": "glm-5.3"
+}

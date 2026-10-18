@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 24:14",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למחנה",
+      "rationale": "kampu ke lentšu la khothši; מחנה ke phuthego ya ditente tša setšhaba"
+    },
+    {
+      "kind": "you",
+      "subject": "go Moshe",
+      "rationale": "taaelo yeo e bolelwa go Moshe, gomme ka yena go setšhaba"
+    }
+  ],
+  "translation": "NTšhwa ⟨את⟩ mometši ka ntle ga kampu; gomme ba kwa gohle ba be diatla tša bona godimo ga hlogo ya gagwe; gomme setšhaba sothe se mo thwaye maswika.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2a67669dd2498a209861ab6443f3a40175ed9f58b1df0152939da521fa82efb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/24\/13-16.1792284213850.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוצא",
+      "gloss": "NTšhwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mometši"
+    },
+    {
+      "surface": "המקלל",
+      "gloss": "mometši"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ga kampu"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "gomme ba be"
+    },
+    {
+      "surface": "כל",
+      "gloss": "gohl"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "ba kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diatla tša bona"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "diatla tša bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hlogo ya gagwe"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "gomme se mo thwaye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mometši"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T00:43:33.851198283Z",
+  "model": "glm-5.3"
+}

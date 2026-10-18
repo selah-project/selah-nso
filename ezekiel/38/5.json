@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba se na",
+      "rationale": "Seheberu se se na sebopego sa ‘go ba le’ — se okeditšwe go Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "segwera sa hloga",
+      "rationale": "כובע ke segwera se se arching sa hloga; hlaloso e hlagile ka gobane Sepedi ga se na lentšu la tlwaelegilego la helmet"
+    }
+  ],
+  "translation": "Perese, Kushe le Pute ⟨את⟩ bona; bohle ba se na khala le segwera sa hloga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f9e60814802c096c07d8ad82e12253fd3bfb7ca9300c222feafa13fcfec886ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/38\/5-8.1792295482961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Perese"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushe"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "le Pute"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "khala"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "le segwera sa hloga"
+    }
+  ],
+  "timestamp": "2026-10-18T03:51:22.963914015Z",
+  "model": "glm-5.3"
+}

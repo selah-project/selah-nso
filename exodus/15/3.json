@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Kopula e okeditšwe; Seheberu ga se na yona."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהוה ... יהוה",
+      "rationale": "Go bulela ga leina ka gatelelo — kgomarelo ya go boelediwa ga Leina."
+    }
+  ],
+  "translation": "Yahwe ⟨ke⟩ monna wa ntoa; Yahwe ⟨ke⟩ leina la gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "bdfb3a96fc3cb785010d36ed133e28ef776ab7e63c92c2856664559acd0cb367",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/15\/1-4.1792282677759.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wa ntoa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:17:57.764492970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 33:53",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ירש",
+      "rationale": "Root yarash frames the verse: opening verb and closing purpose-clause echo each other, lost in Sepedi."
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraele",
+      "rationale": "Verse addresses Israel directly in second-person plural commands."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke ne ke",
+      "rationale": "Past-tense auxiliary supplied; Sepedi needs it where Hebrew perfect נתתי stands alone."
+    }
+  ],
+  "translation": "Gomme le tlo ba ⟨את⟩ lefase, gomme le dule go lona; ka gobane ke ne ke le file ⟨את⟩ lefase, gore le e be le yona ⟨את⟩ yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "271d51b1c5efc2127a38b76c7f0b3edbb651f21fa81fb0fa4bab7239afca6321",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/33\/53-56.1792285470943.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והורשתם",
+      "gloss": "le tlo ba lefase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "gomme le dule"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke file"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "go e ba le yona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona (lefase)"
+    }
+  ],
+  "timestamp": "2026-10-18T01:04:30.944404139Z",
+  "model": "glm-5.3"
+}

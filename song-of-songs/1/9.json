@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "pere",
+      "rationale": "סוסה ke pere ya tšhepedi; dikoloi tša Farao di beilwe go diega ka banna, ka gona bapetšo bja pere bo bolela bothabo bja go gogwa — baphetoleli ba fapana go e bolela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mogwera wa ka",
+      "rationale": "רעיתי ke 'mogwera wa ka wa pele' (mokgweši); 'mogwera wa ka' o swara kgauswi."
+    }
+  ],
+  "translation": "Go pere ya ka, gare ga dikoloi tša Farao, ke go bapetše, mogwera wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/1\/9-12.1792300881734.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לססתי",
+      "gloss": "go pere ya ka"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "gare ga dikoloi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "ke go bapetše"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mogwera wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:21:21.735448759Z",
+  "model": "glm-5.3"
+}

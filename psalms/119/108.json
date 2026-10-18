@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 108,
+  "ref": "psalms 119:108",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נדבות פי",
+      "rationale": "'mahlabelo a boithaopo a molomo' — dumelelano: dipraisedi tša go bolelwa (dithapelo, taušo) bakeng sa sehlabelo se se sa bonago sebegong."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kahlolo",
+      "rationale": "משפטיך e bolela ditaelo tša kahlolo tša Yahwe; 'kahlolo' e swara sebopego sa lentšu, e sego tlwaelo ye kgolo fela."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke kopa ⟨wena⟩",
+      "rationale": "נא ke kopano ya go kopa; ⟨wena⟩ e okeditšwe gore sekopiso se be bontši."
+    },
+    {
+      "kind": "invitation",
+      "subject": "go Yahwe",
+      "rationale": "Temana ke sekopiso se se begago kua Yahwe ka go kopa gore a amogele gomme a rutše."
+    }
+  ],
+  "translation": "Mahlabelo a boithaopo a molomo wa ka, a amogele, ke kopa ⟨wena⟩, Yahwe, gomme kahlolo tša gago o m rutše.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "20bc2632aa7a2277175377bf7b5f6abdaa9aa24495701e2757d087aadb978b5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/108-108.1792305310388.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נדבות",
+      "gloss": "mahlabelo a boithaopo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a molomo wa ka"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "a amogele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפטיך",
+      "gloss": "gomme kahlolo tša gago"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "o m rutše"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:10.388450293Z",
+  "model": "glm-5.3"
+}

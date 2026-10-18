@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ga se moyapuo; ke moya wa bophelo, moya o tswelago pele"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Poko ye e lebella Yahwe ka tlhamalalo — kopo ya pholoso"
+    }
+  ],
+  "translation": "Yahwe, o phološe bophelo bja ka go dipounama tša mafeke, le go lolome la bošoro.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/120\/1-4.1792298899566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "o phološe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja ka"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "go dipounama tša"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mafeke"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "le go lolome la"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bošoro"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:19.567490908Z",
+  "model": "glm-5.3"
+}

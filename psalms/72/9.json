@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ציים",
+      "rationale": "Kganetšo magareng ga 'ba ba dulago lefaseng la naga' (banomadi), 'diphoofolo tša naga' le 'ba ba dulago lefaseng' (KJV) — lentšu le bolela mahuudi a naga."
+    },
+    {
+      "kind": "idiom",
+      "subject": "lerole ba tla le nama",
+      "rationale": "'Go nama lerole' ke pontšo ya go nyamela ka pele ga kgoši — e lokollotšwe kabote ka gobane seswantšho se bolokwa."
+    }
+  ],
+  "translation": "Pele ga gagwe ba ba dulago lefaseng la naga ba tlo go ikokobetša; gomme manaba a gagwe lerole ba tla le nama.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/72\/9-12.1792298099697.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "pele ga gagwe"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "ba tlo go ikokobetša"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "ba ba dulago lefaseng la naga"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "gomme manaba a gagwe"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "ba tla le nama"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:59.697623810Z",
+  "model": "glm-5.3"
+}

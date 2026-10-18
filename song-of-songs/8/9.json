@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טירת",
+      "rationale": "'thapo\/turret' kgahlanong le 'phapošana' goba 'legae la kgwerano' — diphetoledi di fapana (KJV 'palace', JPS 'turret')"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na sekopanyi; ⟨ke⟩ se okeditšwe go Sepedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חומה \/ דלת",
+      "rationale": "Papiso ya phapoša le lebati e tšwela pele ka temaneng ya 10 — moya wa temana o swanetše go bolokwa"
+    }
+  ],
+  "translation": "Ge e le phapoša, re a mo agela godimo ga yena thapo ya silibera; gomme ge e le lebati, re a mo tswalela ka phane ya mokgurela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/8\/9-12.1792301034399.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge e le"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "phapoša"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ke⟩ yena"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "re a mo agela"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "godimo ga yena"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "thapo ya"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge e le"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "lebati"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ke⟩ yena"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "re a mo tswalela"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "godimo ga yena"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "phane ya"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "mokgurela"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:54.400013453Z",
+  "model": "glm-5.3"
+}

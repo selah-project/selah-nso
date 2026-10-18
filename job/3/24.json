@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפני לחמי",
+      "rationale": "'pele ga bogobe bja ka' kgahlanong le JPS 'kgetla ya bogobe bja ka' — לפני e ka bolela nako goba boemong"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שאגתי",
+      "rationale": "שאגה ke modumo wa tau — 'go hlabela' go swara sekhoholeto; modumo wa mahu a tšela bjalo ka meetse"
+    }
+  ],
+  "translation": "ka gobane pele ga bogobe bja ka, dipoo tša ka di tsena; gomme mahlabelo a ka a tšhelwa bjalo ka meetse",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "22a88e790012bdb87235cb39bbcf7ca653f93382488a821ac417baca27629b2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/3\/21-24.1792299988926.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "bogobe bja ka"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "dipoo tša ka"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "di tsena"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "a tšhelwa"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "bjalo ka meetse"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "mahlabelo a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:28.927332570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מהקרקע עד הקרקע",
+      "rationale": "'Go tšwa saheng go ya saheng' — go tšwa fase go fihla godimo (KJV 'from one side of the floor to the other') kgahlanong le 'floor to floor'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישפט \/ המשפט",
+      "gloss": "modu wa go ahlaula o boa go ahlaula — kgokagano ya mafoko ka Seheberu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "poroko ya kahlolo",
+      "rationale": "Tlhaloso ya moago wa setulo sa kahlolo."
+    }
+  ],
+  "translation": "Gomme poroko ya setulo, yeo a ahlaudungo gona, poroko ya kahlolo, o e dirile; gomme o e tsebile ka morara go tšwa saheng go fihla saheng.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "80774aa0fc9c3e3325445f167fc38a2066a4e349aecdf7eb791a0d16eb22e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/7\/5-8.1792289775887.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "gomme poroko"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "ya setulo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "a ahlaudungo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "poroko"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "ya kahlolo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o e dirile"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "gomme o e tsebile"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "ka morara"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "go tšwa saheng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "saheng"
+    }
+  ],
+  "timestamp": "2026-10-18T02:16:15.888865116Z",
+  "model": "glm-5.3"
+}

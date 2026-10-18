@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 46:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mogodimo",
+      "rationale": "משגב ke lelapa la lesweka leo le phagamego, le sego bonolo go fihlela — 'mogodimo' bo bontšha phagamo fela"
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "tshwayo ya mmino ya go ema; e bolokwa e sa fetolwa"
+    }
+  ],
+  "translation": "Yahwe Tsebaote o na le rena; mogodimo wa rena ke Elohim wa Yaakobo. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cb68144b53611ae5fffcd48d5663c80d179f8bc221b6909b7282ed527f016b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/46\/5-8.1792297790540.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "o na le rena"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "mogodimo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "wa rena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:50.541933217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרחה השמש עליו",
+      "rationale": "'Ge letsatsi le hlabile mo go yena' — baithuti ba bangwe ba e utlwa ka go hlaka ga pelošo ('go bonala gabotse'), ba bangwe ka nako ya bosigo go ya mesong."
+    },
+    {
+      "kind": "idiom",
+      "subject": "דמים לו",
+      "rationale": "'Madi a bakeng sa yena' = botsuodi bja madi bja mmolediwa; sehlare sa moya se sebolela kudu."
+    }
+  ],
+  "translation": "Ge letsatsi le hlabile mo go yena, go na le madi bakeng sa yena; o tla lefola ka botlalo; ge a se na selo, o tla rekišwa ka baka la phutlo ya yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/22\/1-4.1792282960528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "le hlabile"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go yena"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bakeng sa yena"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o tla lefola"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אין",
+      "gloss": "a se na"
+    },
+    {
+      "surface": "לו",
+      "gloss": "selo"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "o tla rekišwa"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "ka baka la phutlo ya yena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:22:40.528985473Z",
+  "model": "glm-5.3"
+}

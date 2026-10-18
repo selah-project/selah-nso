@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 29:10",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חרב",
+      "rationale": "חרב fela ke go oma le tshenyego (chorev), e sego tšhoša — diphetholelo tše dintši di hlanya ka 'tšhoša'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לחרבבות\/חרב",
+      "rationale": "Go bušiša ga חָרְבוֹת\/חֹרֶב (lefši\/go oma) — moko o tee wa medumo, o lahlegile ka Sepedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "go kgahlanong",
+      "rationale": "הנני אליך ga e bue 'kgahlanong' ka botlalo — 'ke go wena' ke sengwe sa mabapi; diphetholelo di oketša maikwelo a go gana."
+    },
+    {
+      "kind": "crux",
+      "subject": "ממגדל סונה",
+      "rationale": "Migdole le Sevene: LXX e bala 'go tloga Migdole go ya Syene' eupša T-M e ka ba 'toara ya Sevene' (מגדל bjalo ka toara)."
+    }
+  ],
+  "translation": "Ka gobane, bona, ke go wena le go dinoka tša gago, gomme ke tla bea ⟨את⟩ lefase la Mitsrayime go ba lefši, leo le omilego, tshenyego, go tloga Migdole go ya go Sevene, le go fihla mollwaneng wa Kushe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7909f02b930119710cd8768d77b87b567faf72747e4a2b4c00063afe1fc34741",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/29\/10-11.1792305147761.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bona, ke"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme go"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "dinoka tša gago"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "gomme ke tla bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase la Mitsrayime"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "go ba lefši"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "leo le omilego"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "tshenyego"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "go tloga Migdole"
+    },
+    {
+      "surface": "סונה",
+      "gloss": "go ya go Sevene"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go fihla"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mollwaneng"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "wa Kushe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:32:27.761891556Z",
+  "model": "glm-5.3"
+}

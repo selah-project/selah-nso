@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וימרו",
+      "rationale": "KJV\/JPS 'provoked' (hlakahlaka) kgahlanong le ASV 'rebelled' (hlokofatšo); tlhaku e bolela go hlwa ka molomo, go hlokofatša."
+    },
+    {
+      "kind": "elision",
+      "subject": "bja",
+      "rationale": "Seheberu se na le construct עדותיו fela; lentšu la boemedi le okeditšwe ka Sepedi."
+    }
+  ],
+  "translation": "Ba leka gomme ba hlokofatša ⟨את⟩ Elohim wa godimo-ka-botlalo, gomme bopaki bja gagwe ga ba a bja boloka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5b6cc0dd0571a9f90c8ee271e6d3049d56e572d2f8d71196888beb0778502bbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/56-56.1792305252158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "ba leka"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ba hlokofatša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim wa godimo-ka-botlalo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "wa godimo-ka-botlalo"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "bopaki bja gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ba boloka"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:12.159016647Z",
+  "model": "glm-5.3"
+}

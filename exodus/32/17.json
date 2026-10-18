@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ברעה",
+      "rationale": "lentšu la go goga modumo — crash\/shout; Seheberu se bolela modumo wa go thunya, e sego fao."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mo⟩",
+      "rationale": "kampe e nyaka sekgoba; ga go ⟨mo⟩ go ngwalwa ka gobane Sepedi ga se na article"
+    }
+  ],
+  "translation": "Gomme Yehoshua a kwa ⟨את⟩ lentšu la setšhaba ge ba goga modumo, a bolela go Moshe: Lentšu la ntoa kampe!",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "cff607322605c9c984e162cb98a6b84bb49d83a375f9b50d2c00781276694261",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/32\/17-20.1792283221425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a kwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "la setšhaba"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ge ba goga modumo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "la ntoa"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "kampe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:27:01.426249811Z",
+  "model": "glm-5.3"
+}

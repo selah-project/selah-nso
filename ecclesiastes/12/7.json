@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "ruakh e bolokwa ka modumo (D2) — e bolela moya, phefo le go hema ka lentšu le tee; phetolelo ya 'moya' fela e ne e tla la bolela karolo e tee."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישב \/ תשוב",
+      "rationale": "boitumelo bja modu: 'boa' gomme gape 'boa' — lerole le ruakh ka bobedi di boa; se se laetša se sengwe le se sengwe se boelang moo se tšwago."
+    }
+  ],
+  "translation": "Gomme lerole le tla boa go lefase, bjalo ka ge le be le le gona, gomme ruakh e tla boa go Elohim yo a e filwego.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "99bb107c3ddb5ec46020dbb91c063417abc421a294aea445d0421aa115bf71cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/12\/5-8.1792301585273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "gomme le tla boa"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "bjalo ka ge le be le le gona"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "gomme ruakh"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "e tla boa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "a e filwego"
+    }
+  ],
+  "timestamp": "2026-10-18T05:33:05.274469626Z",
+  "model": "glm-5.3"
+}

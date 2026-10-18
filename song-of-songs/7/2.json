@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 7:2",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "morwadie wa kgoši",
+      "rationale": "nadibe e bolela 'yo a fa ka bonolo \/ mogolo wa moya'; 'morwadie wa kgoši' ke sekgoba sa kahlolo, e sego khopi ya kgale"
+    },
+    {
+      "kind": "crux",
+      "subject": "חמוקי",
+      "rationale": "Bareki ba fapana: 'go phuthega ga me rope' kgahlanong le 'dikhompo' — bophara bja mothaladi bo bonolo go bo bala ka bobedi"
+    },
+    {
+      "kind": "addition",
+      "subject": "Ee",
+      "rationale": "Ma e le sedumo sa maikutlo a makgoši; ma Aforika a nyaka se sengwe se se mo tšea sereteng sa bolaelelo"
+    }
+  ],
+  "translation": "Ee, mehato ya gago e ntle ka dinaeleng, morwadie wa kgoši! Phuthego ya me rope ya gago e bjalo ka dipopa tša go kgabisa, mošomo wa matsogo a setsebi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/7\/1-4.1792301035283.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "e ntle"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "mehato ya gago"
+    },
+    {
+      "surface": "בנעלים",
+      "gloss": "ka dinaeleng"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadie"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "wa kgoši"
+    },
+    {
+      "surface": "חמוקי",
+      "gloss": "phuthego ya me rope"
+    },
+    {
+      "surface": "ירכיך",
+      "gloss": "ya gago"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "e bjalo ka"
+    },
+    {
+      "surface": "חלאים",
+      "gloss": "dipopa tša go kgabisa"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wa matsogo"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "a setsebi"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:55.283987894Z",
+  "model": "glm-5.3"
+}

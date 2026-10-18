@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 25:32",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עולם",
+      "rationale": "'go sa fele' (jwale le ka mehla, KJV 'at any time') kgathanong le 'ya go sa fele ka bosirobongwa' — modumo wa עולם o šetše o bušwa ke dikgaolo tše mpsha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "boswa",
+      "rationale": "אחזה ke 'se se swerwego' — boagi bjo bo kgomaretšego, bjo bo sa tswalelwago bjalo ka tšimo."
+    },
+    {
+      "kind": "addition",
+      "subject": "go tla ba",
+      "rationale": "Seheberu se se na le kopula ya ⟨ke⟩; תהיה ke 'e ba\/e naga', e sego ntle le go oketša."
+    }
+  ],
+  "translation": "Mme metse ya Balefi — dintlo tša metse ya boswa wa bjona — go reka boela go sa fele go tla ba go Balefi.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "526cb5119d32d51ff2ef09a5fda0ce712d3fc107e540bf9b514d5c919dbcbdda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/25\/31-32.1792304709099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וערי",
+      "gloss": "mme metse"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ya Balefi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "dintlo"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ya metse"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "ya boswa wa bjona"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "go reka boela"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "go sa fele"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go tla ba"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "go Balefi"
+    }
+  ],
+  "timestamp": "2026-10-18T06:25:09.100215484Z",
+  "model": "glm-5.3"
+}

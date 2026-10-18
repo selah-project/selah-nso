@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יטש\/יעזב",
+      "rationale": "mantšu a mabedi a Seheberu a fapana — go tloša (נטש) le go logelotša (עזב); Sepedi se šomiša lentšu le tee go tloša gabedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא...לא",
+      "rationale": "go gana ga bobedi go diega ka go swana, se bofišago setšhaba le boswa"
+    }
+  ],
+  "translation": "Ka gobane Yahwe ga a ka a tloša setšhaba sa gagwe, gomme boswa bja gagwe ga ⟨a⟩ bo tlošwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c9a08e5c29c1506f3893aaf998809516621aba1058ba6867a065c6c93e25ca0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/94\/13-16.1792298506340.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "a tloša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setšhaba sa gagwe"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "gomme boswa bja gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "bo tlošwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:46.341448587Z",
+  "model": "glm-5.3"
+}

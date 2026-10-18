@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 28:22",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sa yona",
+      "rationale": "Hebrew שמעה lacks a possessive; 'sa yona' (of it, i.e. of wisdom) supplied from context"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמענו שמעה",
+      "rationale": "verb 'we heard' and noun 'a hearing\/report' share the root שמע; Sepedi loses the sound-echo"
+    },
+    {
+      "kind": "secret",
+      "subject": "Abadone le lehu",
+      "rationale": "the deepest hidden realms themselves possess only a rumor of wisdom — personification of the concealed world"
+    }
+  ],
+  "translation": "Abadone le lehu di re: ka masweng a rena re kwele ⟨segaonthati⟩ sa yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6837f6c3e11bcc2dfd6eb84a9f511893cee697ba4a8645f5e2ea501c450ab297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/28\/21-24.1792300513088.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבדון",
+      "gloss": "Abadone"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "le lehu"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "di re"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ka masweng a rena"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "re kwele"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "⟨segaonthati⟩ sa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:15:13.088768888Z",
+  "model": "glm-5.3"
+}

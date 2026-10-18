@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ה- (article ya Seheberu)",
+      "rationale": "Sepedi ga se na article; המלחמה le העם di fetwa ka go se ngwale selo."
+    }
+  ],
+  "translation": "Gomme go tla ba ge le atametše go ntwa, moperisita a atamela a bolela le setšhaba.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2ba94508e25b7e333030e7181e72cd544ec4105870041f07d14ce3b4ea974a51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/20\/1-4.1792286044812.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Gomme go tla ba"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "ge le atametše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "a atamela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T01:14:04.813324492Z",
+  "model": "glm-5.3"
+}

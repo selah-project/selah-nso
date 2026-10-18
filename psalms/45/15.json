@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "basetsana",
+      "rationale": "בתולה ke mosetsana yo a sa nyalwago, e sego lentšu la thwala — 'basetsana' bo swara sebopego sa lona."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תובל \/ מובאות",
+      "rationale": "Boelelo bja modu o mongwe (יבל \/ בוא) go hlalosa molato wa barwedi — bo sehlole ka ntle Sepedi."
+    }
+  ],
+  "translation": "O tlišwa go kgoši ka diaparo tše di ranollwago ka mebala; basetsana ba mo latelago, dika tša gagwe, di tlišwa go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "93c3c4f42fc18c2bacbe957f23f284e141d83dbd9849018b792aac39529388e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/45\/13-16.1792297772168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "ka diaparo tše di ranollwago ka mebala"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "o tlišwa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go kgoši"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "basetsana"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "ba mo latelago"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "dika tša yena"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "di tlišwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:32.169201369Z",
+  "model": "glm-5.3"
+}

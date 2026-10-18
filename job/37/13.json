@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 37:13",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesede",
+      "rationale": "חסד e bolokwa ka modumo wa yona go ya le D2 — e sego 'botho' fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "אם...אם...אם",
+      "rationale": "dikhudu tše tharo: 'ge e le... goba... goba' kgahlanong le go di kanganya go ba potšišo e tee"
+    }
+  ],
+  "translation": "Ge e le bakeng sa moswari, goba bakeng sa lefase la gagwe, goba bakeng sa hesede, o e dira gore e tle.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8f2d6ac9930f7c890f8d93283c82a9027694557f29b444edcd63cf91a1d23f62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/37\/13-16.1792300737514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge e le"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "bakeng sa moswari"
+    },
+    {
+      "surface": "אם",
+      "gloss": "goba"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "bakeng sa lefase la gagwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "goba"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "bakeng sa hesede"
+    },
+    {
+      "surface": "ימצאהו",
+      "gloss": "o e dira gore e tle"
+    }
+  ],
+  "timestamp": "2026-10-18T05:18:57.515377647Z",
+  "model": "glm-5.3"
+}

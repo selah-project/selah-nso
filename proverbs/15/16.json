@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "sekamoto se se bogolo",
+      "rationale": "Sepedi se nyaka go hlalosa — mošomo wa go bapanya o sa bolelwe ka botlalo ka Seheberu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב ... רב",
+      "rationale": "Go bapanya ga mokuologo: botse bja gonyenyane kgatlhanong le bontši bja sekamoto — mošomo wa go gana bontši."
+    }
+  ],
+  "translation": "Go botse gonyenyane ka go tsaba ⟨את⟩ Yahwe, go feta sekamoto se se bogolo le tšhakgolo ka gare ga sona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "096826e76ce652f65dd270adddec3aa85bf9fb6dcb4d683f10abe207de8b1aef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/15\/13-16.1792299500214.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go botse"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "gonyenyane"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ka go tsaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "go feta sekamoto"
+    },
+    {
+      "surface": "רב",
+      "gloss": "se se bogolo"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "le tšhakgolo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka gare ga sona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:58:20.215017697Z",
+  "model": "glm-5.3"
+}

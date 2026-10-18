@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 99:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "poetic suffix 'to them' absorbed into the noun phrase; Sepedi keeps it as object 'a ba o filedše'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maru",
+      "rationale": "ענן singular thunder-cloud; Sepedi class-6 plural 'maru' used as the natural cloud word"
+    }
+  ],
+  "translation": "Mo sethaleng sa maru o be a bolela le bona; ba ile ba swara bopaki bja gagwe, le molao woo a ba o filedše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9c29dcd4b95be0f2df3d95f849a38c88835405d3fc8b3bf7d39bf94943a5617a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/99\/5-8.1792298542464.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעמוד",
+      "gloss": "mo sethaleng"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "sa maru"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o be a bolela"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ba ile ba swara"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "bopaki bja gagwe"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "le molao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a ba o filedše"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨go bona⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:22.465703952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zephaniah 1:17",
+  "book": "zephaniah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "matlakala",
+      "rationale": "גללים ke dikgobolo tša leswe la diphoofolo; matlakala ke lentšu la kgauswi la Sepedi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Sepedi e nyaka modiredi wa mokgwa wo Seheberu o sa o rego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כעפר...כגללים",
+      "rationale": "Tshwantšho ya go swana: lerole le leswe, dilo tše pedi tše di hlongwago ka ntle — go tšhaba ga yona ga ka felela"
+    }
+  ],
+  "translation": "Gomme ke tla dira nyetla go batho, gomme ba tla sepela bjalo ka bafifi, ka gobane ba letseditše Yahwe sebe; gomme madi a bona ⟨a⟩ tla tšhelwa bjalo ka lerole, le nama ya bona bjalo ka matlakala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a9de43d14f3b5d3b640c983198563c7e76fa6c75cad4b22e3bdaa795f9eccf35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zephaniah\/1\/17-18.1792296734153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והצרתי",
+      "gloss": "gomme ke tla dira nyetla"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "go batho"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "gomme ba tla sepela"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "bjalo ka bafifi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ba letseditše sebe"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "gomme e tla tšhelwa"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "madi a bona"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "bjalo ka lerole"
+    },
+    {
+      "surface": "ולחמם",
+      "gloss": "le nama ya bona"
+    },
+    {
+      "surface": "כגללים",
+      "gloss": "bjalo ka matlakala"
+    }
+  ],
+  "timestamp": "2026-10-18T04:12:14.154511902Z",
+  "model": "glm-5.3"
+}

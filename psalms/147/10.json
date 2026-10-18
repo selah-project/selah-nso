@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יחפץ\/ירצה",
+      "rationale": "ditative tše pedi tša go hloka go rata di agarana ka tsela e bopago mehlaling ya mašupedigading — thlarabo e sa fetoge"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maoto",
+      "rationale": "שוקי ke masele a maoto a mo tlase, a mogogi — maoto a bolokile seswantšho"
+    }
+  ],
+  "translation": "Ga a ikwe bose ka maatla a pitseng, ga a rate maoto a monna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/147\/9-12.1792299093873.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ka maatla a"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "pitseng"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "a ikwe bose"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "maoto a"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "a rate"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:33.874028384Z",
+  "model": "glm-5.3"
+}

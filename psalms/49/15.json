@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 49:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sheole",
+      "rationale": "Sheole ga se dihele ya kotlo; ke lefelo la bao ba hwilego — leina le bolokwa (D2)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירעם\/כצאן",
+      "rationale": "Ra'ah (go leisa) le tson (dinku) — lefu e le moleisi; sejatadiswana se sa bonale Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "מזבל לו",
+      "rationale": "Go ya ka mafoko: Sheole e lega legae la wona (ba bogoši bja mafoko); ASV\/JPS: 'gore e sego legae la sona' — kganetšo ya kgolokwe."
+    }
+  ],
+  "translation": "Bjalo ka dinku, ba beilwe go ya Sheole; lefu le ba leisa; gomme ba lokilego ba tla ba laela mesong; gomme sebopego sa bona se tla fifala go Sheole, mo e lego legae la wona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/49\/13-16.1792297797105.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כצאן",
+      "gloss": "Bjalo ka dinku"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "go ya Sheole"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ba beilwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "le ba leisa"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "gomme ba laela"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba lokilego"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "mesong"
+    },
+    {
+      "surface": "וצירם",
+      "gloss": "gomme sebopego sa bona"
+    },
+    {
+      "surface": "לבלות",
+      "gloss": "se tla fifala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "go Sheole"
+    },
+    {
+      "surface": "מזבל",
+      "gloss": "legae"
+    },
+    {
+      "surface": "לו",
+      "gloss": "la wona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:57.106711816Z",
+  "model": "glm-5.3"
+}

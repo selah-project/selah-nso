@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 10:19",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ba fa seatla sa bona",
+      "rationale": "Seheberu ויתנו ידם — kanamiso ya go ikana ka go fana ka seatla; e bolokilwe ka mokgwa wa yona."
+    },
+    {
+      "kind": "substitution",
+      "subject": "איל",
+      "rationale": "'ramo' — איל ke tonametja e nonnego ya sehlabelo, e sego ramo le ge e le ka mo go loka."
+    }
+  ],
+  "translation": "Gomme ba fa seatla sa bona sa go ntšha basadi ba bona, gomme bao ba nelwego sebe ba ile ba fa ⟨את⟩ ramo wa dinku le dipudi bakeng sa sebe sa bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "32c703d9edb2e7b06e18d9a534e27769f8117fe78ad8db436a511f81e74fbb06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/10\/17-20.1792302326604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ba fa"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "seatla sa bona"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "sa go ntšha"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "basadi ba bona"
+    },
+    {
+      "surface": "ואשמים",
+      "gloss": "bao ba nelwego sebe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ramo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "wa dinku le dipudi"
+    },
+    {
+      "surface": "על",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "אשמתם",
+      "gloss": "sebe sa bona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:45:26.605593346Z",
+  "model": "glm-5.3"
+}

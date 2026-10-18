@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וימרו",
+      "rationale": "go tloga goENTA go ba noba — 'ba ganetše' kgahlanong le 'ba hlohleletše' goba 'ba ile ba fokoza moya'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בים סוף",
+      "rationale": "'lewatle la Sufu' (la mokgoši wa phepo ya reidi) kgahlanong le 'Lewatle le Sotho' — lentšu la motheo le bolokwa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מרה\/ים",
+      "rationale": "modu o a utollwa ka go {מרר} 'go baba' — go hloka lewatle, go se tsamaisane le Lentšu"
+    }
+  ],
+  "translation": "Boholo ba rena ba Mitsrayime ga ba a utlisisa dimakgwa tša gago, ga ba a gopola ⟨את⟩ bontši bja hesede ya gago, ba ganetše lewatleng, lewatleng la Sufu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/5-8.1792298655862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "boholo ba rena"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ba Mitsrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ba a"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "utlisisa"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dimakgwa tša gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ba a"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "gopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bontši bja hesede ya gago"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bontši bja"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "ba ganetše"
+    },
+    {
+      "surface": "על",
+      "gloss": "lewatleng"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "בים",
+      "gloss": "lewatleng la"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Sufu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:15.863680204Z",
+  "model": "glm-5.3"
+}

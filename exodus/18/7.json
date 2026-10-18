@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 18:7",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tša⟩",
+      "rationale": "Sepedi e nyaka sehlodi sa go tsena; Seheberu se se na sona"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לשלום",
+      "rationale": "go botša \"ka kagiso\" — šalom ke botšhabotše le kagiso; go lebjwa ka gore o kae"
+    }
+  ],
+  "translation": "Moshe a tšwa go ya go dumelela molekane wa gagwe; a phofotla, a mo iota; motho o botša yo mongwe gore o kae; ba tsena ka go ⟨tša⟩ tente.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1462f57dd45120a449fc42a0966db636b332ad3bdc9f0379665d15af46473121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/18\/5-8.1792282785085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tšwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "go ya go dumelela"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "molekane wa gagwe"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a phofotla"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "a mo iota"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "ba botšana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "yo mongwe"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "gore o kae"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "ka go tente"
+    }
+  ],
+  "timestamp": "2026-10-18T00:19:45.087027737Z",
+  "model": "glm-5.3"
+}

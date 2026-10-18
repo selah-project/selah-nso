@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 12:26",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתר",
+      "rationale": "Kgotlollo: šaḥor 'yo a lokilego o feta mogwera wa gagwe' (KJV) kgathanong le tur 'o lebeletša\/laetša mogwera wa gagwe' (ASV, YLT); raero ya 'laetša' e latela mahlakore a mabedi a sekepe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mogwera",
+      "rationale": "רעהו ke mohlokomedi wa kgauswi, e sego yo a mo swanago mohlomongwe"
+    }
+  ],
+  "translation": "Yo a lokilego o laetša mogwera wa gagwe, gomme tsela ya ba fošagetšego e a ba fosoša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9136c9714744cef947660639869b61fd6356ef824be8fe041eb9c9a3cf58a2fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/12\/25-28.1792299416832.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "o laetša"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "mogwera wa gagwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a lokilego"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "gomme tsela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya ba fošagetšego"
+    },
+    {
+      "surface": "תתעם",
+      "gloss": "e a ba fosoša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:56:56.833875506Z",
+  "model": "glm-5.3"
+}

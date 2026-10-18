@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 28:18",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וכפר",
+      "rationale": "Ba-beledi ba fapana: 'e tla bušwa' (go fedišwa) kgahlanong le 'e tla phedišwa' (go phethwa ga bokgoni bja yona ka bophara)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוט\/שוטף",
+      "rationale": "Go tšwakana ga modumo wo o swanago — mošwi o kgweditšego — go latelwa gape ka 28:19; se se la se kele Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pono",
+      "rationale": "חזות ke 'pono' ya boprofeta; ba-beledi ba bangwe ba ngwala 'tumelano' go tšwa go pono."
+    }
+  ],
+  "translation": "Gomme kgwerano ya lena le ⟨את⟩ lehu e tla fedišwa, gomme pono ya lena le ⟨את⟩ Sheole ga e tla ema; mošwi o kgweditšego, ge o feta, le tla ba ⟨go sona⟩ go gatišwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "563527911eb4b23a3bfb7c5fa929a0397404754fe8d07b026afcf81162a5bffa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/28\/17-20.1792291786793.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "e tla fedišwa"
+    },
+    {
+      "surface": "בריתכם",
+      "gloss": "kgwerano ya lena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lehu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lehu"
+    },
+    {
+      "surface": "וחזותכם",
+      "gloss": "pono ya lena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheole"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "e tla ema"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "mošwi"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "o kgweditšego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "o feta"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "le tla ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go sona"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "go gatišwa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:49:46.794160362Z",
+  "model": "glm-5.3"
+}

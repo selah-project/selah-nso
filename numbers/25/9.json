@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sehu (magolegole)",
+      "rationale": "מגפה ke bolwetši bjo bo anegago — sehu goba magolegole; mo go bolela phoko ya Yahwe"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dipalo",
+      "rationale": "Palo e hlaka ya bao ba hwilego: masomepedi le nne dikete (24 000)"
+    },
+    {
+      "kind": "crux",
+      "subject": "masomepedi le nne dikete",
+      "rationale": "Dipalo 25:9 e bolela 24 000, mola 1 Bakorinte 10:8 e bolela 23 000 — phapang ye tsebjago gare ga ba fetoleli"
+    }
+  ],
+  "translation": "Gomme bao ba hwilego ka sehu (magolegole) e bile mane, masomepedi le nne dikete.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5e916ef93f7e884982bcef20abff83d1610798a5030fdb0d14822d914b9d9b97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/25\/9-12.1792285029096.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "gomme e bile"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "bao ba hwilego"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "ka sehu (magolegole)"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "nne"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "le masomepedi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    }
+  ],
+  "timestamp": "2026-10-18T00:57:09.096856294Z",
+  "model": "glm-5.3"
+}

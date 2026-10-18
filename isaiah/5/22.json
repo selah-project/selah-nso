@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 5:22",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sekaka",
+      "rationale": "שכר ke seo se nang le marogo a magolo — 'sekaka' ke lentšu la Sepedi le hwetšago se mo gare ga beine le marogo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבורים\/חיל",
+      "rationale": "'Ba maatla' go beine — go hlokahala go tloša dijo ka Sepedi, mafoko a mabedi a Sepedi bakeng sa 'gibborim' le 'anshei khayil'"
+    }
+  ],
+  "translation": "Mahlomola go ba maatla a go nwa beine, le go banna ba maatla a go tloša sekaka!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d58ec96a7d2900cba89cb8bf81c6479fafabe8a79bb33a2d3f7b6f053dbbd1e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/5\/21-24.1792291317541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mahlomola go"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "ba maatla"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "a go nwa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "beine"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "le go banna ba"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "a go tloša"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sekaka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:41:57.541918805Z",
+  "model": "glm-5.3"
+}

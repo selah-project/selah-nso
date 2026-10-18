@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go na le",
+      "rationale": "Seheberu se se na le lefoko la go ba gona; Sepedi se se nyaka mo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רב…רב \/ יוסיף…יוסיף",
+      "rationale": "Go bušetšwa ga mafoko (bontši…bontši; o oketša…o oketša) — sebopego se bolokwa ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כעס",
+      "rationale": "kaʿas e bolela bothatakga\/masetlapelo; 'tshwenyo' e tšwa go tlhago ya lentšu"
+    }
+  ],
+  "translation": "Ka gobane bontši bja bohlale bontši bja tshwenyo ⟨go na le⟩; gomme yo a oketšago tsebo o oketša bohloko.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f8e4ddfd134e2f66f9d8524b8f85e73840c15349004a8d0c64adcb76e939e5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/1\/17-18.1792301319469.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "bontši bja"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "רב",
+      "gloss": "bontši bja"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "tshwenyo"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "gomme yo a oketšago"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "o oketša"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "bohloko"
+    }
+  ],
+  "timestamp": "2026-10-18T05:28:39.470801294Z",
+  "model": "glm-5.3"
+}

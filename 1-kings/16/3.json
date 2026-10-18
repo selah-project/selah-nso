@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אחרי",
+      "rationale": "KJV\/geneva ba e hlalosa 'posterity' (masekodi); JPS\/BSB 'ka boyena' — 'after Baasha' e bolela se se latelago, masekodi a gagwe"
+    },
+    {
+      "kind": "you",
+      "subject": "go Baasha",
+      "rationale": "Taelo ya kahlolo e bolelwa go Baasha ka bobedi ba bomorwa"
+    }
+  ],
+  "translation": "Bonang, ke fiša ka boyena Baasha le ntlo ya gagwe, gomme ke tla nea ⟨את⟩ ntlo ya gago bjalo ka ntlo ya Yeroboamo mora Nebate.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "649cb9efe163ae281cf525e2068d4e20a29567394a874796b7d4d7b273f8b217",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/16\/1-4.1792290178896.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "bonang, ke"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "ke fiša ka boyena"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka boyena"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "gomme ka boyena"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagwe"
+    },
+    {
+      "surface": "וונתתי",
+      "gloss": "gomme ke tla nea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya gago"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya gago"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "bjalo ka ntlo ya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboamo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebate"
+    }
+  ],
+  "timestamp": "2026-10-18T02:22:58.897510591Z",
+  "model": "glm-5.3"
+}

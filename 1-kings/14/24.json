@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 14:24",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדש",
+      "rationale": "Kadese — motho yo a ithekisetšago go modimo wa ditempelo; KJV 'sodomites', YLT 'whoremonger'"
+    },
+    {
+      "kind": "addition",
+      "subject": "gona",
+      "rationale": "Seheberu se re 'kadese e be e le lefaseng'; ke go na le e mo lefaseng"
+    }
+  ],
+  "translation": "Gomme gape kadese e be e le gona lefaseng; ba dira bjalo ka dilo tše nyakisago tšohle tša ditšhaba tše Yahwe a di ntešitsengo pele ga bana ba Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cfb75b040cc44eb66a820c664b6ae3386fedad67c4b6a69c1544477fe06a5426",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/14\/21-24.1792290210820.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Gomme gape"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kadese"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e be e le"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bjalo ka dilo tše nyakisago tšohle"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "tša ditšhaba"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "a di ntešitsengo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:23:30.822108830Z",
+  "model": "glm-5.3"
+}

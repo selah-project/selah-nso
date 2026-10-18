@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 18:14",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "taba",
+      "rationale": "Seheberu se re 'naa ye e makatšago go Yahwe' fela — ⟨taba⟩ e okeditšwe go hlalosa"
+    },
+    {
+      "kind": "crux",
+      "subject": "כעת חיה",
+      "rationale": "'nako ya botshelo' — dikgati di fapana: 'ka ngwaga' (BSB) kgatlhanong le 'ka tshepedišo ya nako' (ASV\/JPS)"
+    },
+    {
+      "kind": "invitation",
+      "subject": "potšišo",
+      "rationale": "Potšišo ya go botšiša: 'Naa go na le se sengwe se se makatšago go Yahwe?' e bitša molediši go araba"
+    }
+  ],
+  "translation": "Naa go na le ⟨taba⟩ ye e makatšago go Yahwe? Ka nako ye e kgethilwego ke tla boela go wena, go swana le nako ya botshelo, gomme Sara ⟨o⟩ tla ba le morwa.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5915ce414145a177ee44a90973685ccd16735ddb740b006e1014b04b94a8b43f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/18\/13-14.1792304574673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היפלא",
+      "gloss": "naa go na le ye e makatšago"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ka nako ye e kgethilwego"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ke tla boela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "go swana le nako"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ya botshelo"
+    },
+    {
+      "surface": "ולשרה",
+      "gloss": "gomme go Sara"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:54.674424931Z",
+  "model": "glm-5.3"
+}

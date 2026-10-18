@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dinako tša go kgethwa",
+      "rationale": "מועד ke nako ya go kgethwa ya kopano, e sego fela \"moletlo\""
+    }
+  ],
+  "translation": "Gomme Moshe a bolela ⟨את⟩ dinako tša go kgethwa tša Yahwe go bana ba Yisraele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d1b6a9ef5a7434d3bcd68141cbbafa241fac0cd0ae29cd8505abf6465b79ebb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/23\/41-44.1792284192610.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "gomme a bolela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinako tša go kgethwa tša Yahwe"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "dinako tša go kgethwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "tša Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T00:43:12.611666979Z",
+  "model": "glm-5.3"
+}

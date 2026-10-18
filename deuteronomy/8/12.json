@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושבעת",
+      "rationale": "E boelediša mantsu a mogaleding wa 8:10 (o jele, o tletše) — tsweletšo ya go se ke ga lebala, e bolokilwe ka go boelediša."
+    },
+    {
+      "kind": "addition",
+      "subject": "gona",
+      "rationale": "Sepedi e nyaka lefelo-la-pronoun 'gona' bakeng sa וישבת; Seheberu se se na sona."
+    }
+  ],
+  "translation": "Gore o se ke wa jele gomme wa tletše, le go aga matlo a botse gomme wa dula gona,",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "81c8c2dfd8856795cd331c2af1ca27e223e19b83ede43042cf8d33aaf20f5a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/8\/9-12.1792285723134.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "gore o se ke wa"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jele"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "gomme wa tletše"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "matlo"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "a botse"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "gomme wa dula gona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:08:43.135182232Z",
+  "model": "glm-5.3"
+}

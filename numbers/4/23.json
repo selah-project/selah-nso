@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 4:23",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "palo ya mengwaga",
+      "rationale": "Temana e bala mengwaga ye masometharo go fihla ye masomehlano bakeng sa mošomo wa ntlwana ya kopano."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לצבא צבא",
+      "rationale": "Mogoa wa go bolela-gape wa lento le le tee (tsava tsava) — go šoma mošomo; mogoa o a wa ka Sepedi."
+    },
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "Aleph-tav e kgomaretše sehlatswalswa; e hlaphilwe bjalo ka 'ba' go ba lekole."
+    }
+  ],
+  "translation": "Go tšwa go ngwana wa mengwaga ye masometharo le go feta, go fihla go ngwana wa mengwaga ye masomehlano, o ⟨את⟩ ba lekole; yo mongwe le yo mongwe yo a tsenago go direla mošomo, go šoma mošomo ka ntlwaneng ya kopano.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e94d01c9d221e307949f7b3c723e1b5cd0001415070e4b7801114b8a01ec223b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/4\/22-23.1792304687840.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "Go tšwa go ngwana wa"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "masometharo"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "le go feta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngwana wa"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masomehlano"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "o ba lekole"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "yo a tsenago"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "go direla mošomo"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "go šoma"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ka ntlwaneng"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:47.841422760Z",
+  "model": "glm-5.3"
+}

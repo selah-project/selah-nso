@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 21:26",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba",
+      "rationale": "Seheberu se na le sebopego sa go hlabetša se se sa laetšo go ya ka motho — ba ba etsago sebopego ba oketšwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לגאַבורי",
+      "rationale": "Sepedi ga se na lentšu le tee le le swanago le seroma; mo go šomišitšwe mo bohaleng ba gagwe go swantšha sebopego sa go ba mo lefelong la motho yo mongwe."
+    }
+  ],
+  "translation": "Gomme ba mo hlabetše ⟨את⟩ legaeng la gagwe ka serapeng sa Uza, gomme Yošiya mora wa gagwe a busa mo bohaleng ba gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8a29acf34cc518ac714dd084c01051221e966a05afad21062631685d583a0224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/21\/25-26.1792290962631.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "gomme ba mo hlabetše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mora Amona"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "legaeng la gagwe"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "ka serapeng"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "sa Uza"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "gomme a busa"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Yošiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa gagwe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "mo bohaleng ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:36:02.632590152Z",
+  "model": "glm-5.3"
+}

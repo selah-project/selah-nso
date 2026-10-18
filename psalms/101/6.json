@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנאמני",
+      "rationale": "setho sa 'aman' — 'ba ineelo' goba 'ba tiilego' goba 'ba dumelelwanago'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ישרתני",
+      "rationale": "šeret ke go šoma bjalo ka mohlanka wa ntlo; 'go šoma' ka tsela ye ntsi e lahlegile"
+    }
+  ],
+  "translation": "Mahlo a ka a lebelela ba ineelo ba lefase, gore ba dule le nna; yo a sepelago ka tsela ya botlalo, yena o tla šoma go nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/101\/5-8.1792298594286.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "ba ineelo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba lefase"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "gore ba dule"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yo a sepelago"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ya botlalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "o tla šoma go nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:14.287650856Z",
+  "model": "glm-5.3"
+}

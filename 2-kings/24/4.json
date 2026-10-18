@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דם הנקי \/ דם נקי",
+      "rationale": "go bušetšwa ga 'madi a se nago sebe' ga bedi fela — kgethišo e bolokilwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a se nago sebe",
+      "rationale": "נקי 'yo a se nago sebe' — Lentšu la Seheberu le bolela 'innocent\/clean'; hlalošo e šomišitšwe go fa boikhethelo"
+    }
+  ],
+  "translation": "Le gape madi a se nago sebe ao a a tšegilego; gomme a tlatša ⟨את⟩ Yerushalayime ka madi a se nago sebe; gomme Yahwe a se ke a tshwara maikaelelo a go tshwarela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "567e3f789d38c95868f25ae4f9cfc7b22c9d5f37bb7b79e92a7853089d7a5164",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/24\/1-4.1792291198096.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Le gape"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "a se nago sebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "a a tšegilego"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "a tlatša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ka madi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "a se nago sebe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a se ke"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "a tshwara maikaelelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "a go tshwarela"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:58.097893533Z",
+  "model": "glm-5.3"
+}

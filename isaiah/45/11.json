@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 45:11",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שאלוני...תצוני",
+      "rationale": "Dikgethwa tše dingwe (KJV\/JPS) di a kwala 'mpotšišang...le ntaelang'; BSB e bala go se loka 'le ka nkganetša ka bana ba ka?' — kgwerano ya bofelo e kgahlanong le taelo ya pele ka ntle le leswiki."
+    },
+    {
+      "kind": "elision",
+      "subject": "האתיות",
+      "rationale": "Seheberu se theoga feela se se sa elego sepe — '⟨ka⟩ dilo tša tlang' se kopantšwe le lentšu la go botšiša."
+    }
+  ],
+  "translation": "Go bolela Yahwe, yo a kgethwago wa Yisraele, le Mmopi wa yena: Dilo tša tlang — mpotšišang ka bana ba ka, gomme ka mošomo wa diatla tša ka le ntaelang.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/45\/9-12.1792292321123.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Go bolela"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "yo a kgethwago"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "le Mmopi wa yena"
+    },
+    {
+      "surface": "האתיות",
+      "gloss": "dilo tša tlang"
+    },
+    {
+      "surface": "שאלוני",
+      "gloss": "mpotšišang"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba ka"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "gomme ka"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wa diatla tša ka"
+    },
+    {
+      "surface": "תצוני",
+      "gloss": "le ntaelang"
+    }
+  ],
+  "timestamp": "2026-10-18T02:58:41.125196746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "go fewa",
+      "rationale": "רצח: KJV e bolela 'sword', JPS 'crushing' — lentšu le amana le go goga\/kgotha; go fewa ga marapo ke karolo ya bokao bjo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איה אלהיך",
+      "rationale": "dipotšišo tša bajalefa di boela ka mehla go tšwa baruta bafsa (Ps 42:4, 11; 79:10; 115:2) — mafoko a boleloa a nyaka go hlotša"
+    }
+  ],
+  "translation": "Bjoalo ka go fewa marapo a ka, manaba a ka a kgopa me, ge ba re go nna letsatsi le ka moka: Elohim wa gago o kae?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/42\/9-12.1792297708034.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "bjoalo ka go fewa"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "marapo a ka"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "a kgopa me"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "manaba a ka"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "ge ba re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "le ka moka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "o kae"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:28.035662071Z",
+  "model": "glm-5.3"
+}

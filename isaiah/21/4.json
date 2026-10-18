@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mašemong",
+      "rationale": "נשף ke phefo ya mantšiboa — 'mašemong' (nšhono) e swanetše, ka gobane Sepedi ga se na lentšu la go fetisa phefo-ya-nšhono"
+    },
+    {
+      "kind": "elision",
+      "subject": "o",
+      "rationale": "Mokgwa wa go dira (o a beile) ga o kwale go Seheberu; ⟨go ka⟩ e bontšha sego sa lentšu"
+    }
+  ],
+  "translation": "Pelo ya ka e khokotše, tšhohi e tšhogitše ka; ⟨את⟩ mašemong a kgahlo ya ka o a beile go ba tšhogo go ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "75ad1e40dba5f69429b035087f8bd8929945858256804858b38a0d6746d47e1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/21\/1-4.1792291625908.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "e khokotše"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "tšhohi"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "e tšhogitše ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mašemong a kgahlo ya ka"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "mašemong"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "a kgahlo ya ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o a beile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go ka"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "go ba tšhogo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:47:05.909848790Z",
+  "model": "glm-5.3"
+}

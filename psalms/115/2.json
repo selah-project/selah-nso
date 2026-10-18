@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le kopula — potšišo ya moo e nyaka sona ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim ya tšona",
+      "rationale": "ditšhaba di botšiša ka Elohim ya nnete — modimong wa tšona ka medimo, eupša polelo ya verše e a bolela"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "poko ye e ka fa pele ga Yahwe — potšišo ya ditšhaba e begwa go yena"
+    }
+  ],
+  "translation": "Ke eng gore ditšhaba di tla re: Moo ⟨ke⟩ Elohim ya tšona, kajanong?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/115\/1-4.1792298742216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ke eng gore"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "di tla re"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "איה",
+      "gloss": "moo ke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kajanong"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim ya tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:42.216993780Z",
+  "model": "glm-5.3"
+}

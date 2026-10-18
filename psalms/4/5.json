@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רגזו",
+      "rationale": "'Go thothoma\/tšhaba' kgathanong le 'galefa' (LXX: orgizesthe, ba hlagišeditšwe ke Efese 4:26); Sepedi e tšerea go thothoma."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Tšhupetšo ya mmino — e bolokwa bjalo ka 'Selah', ga e fetolelwe."
+    },
+    {
+      "kind": "invitation",
+      "subject": "go letšatši-ke-ng?",
+      "rationale": "Boela ka ditaelo tše nne go sešuti — go bitšwa sediredi."
+    }
+  ],
+  "translation": "Thothomang, gomme le se dire sebe; bolelang dipelong tša lona, godimong ga mo go robalego gona, gomme le didimetše. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a3bd87c48661f56309d6a35bebae66b06a6ceb9024570ce214dcf6a4d178f119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/4\/5-8.1792297147869.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Thothomang"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme le se"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "dire sebe"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bolelang"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "dipelong tša lona"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimong ga"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "mo go robalego gona"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "gomme le didimetše"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:19:07.870029702Z",
+  "model": "glm-5.3"
+}

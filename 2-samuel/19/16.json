@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את הירדן",
+      "rationale": "את ya bobedi e šala selo se se fetiwago (noka), e sego karolo ya go fetiša — e bolokilwe bjalo ka ⟨את⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "go fihla go",
+      "rationale": "עד e bolela 'go fihla go' — go bopeletšwe go hlakantšha sephetho"
+    }
+  ],
+  "translation": "Gomme kgoši ya boela, ya fihla go fihla go Yoredane; gomme Yuda ya tla go Gilgala go ya go kopana le kgoši, go fetiša ⟨את⟩ kgoši go feta ⟨את⟩ Yoredane.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e5b8ed1afdc95732665fdb2e7b2180debf2b559016d4fc85d84a7071c324b87e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/19\/13-16.1792289295153.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ya boela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ya tla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla go"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredane"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "gomme Yuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ya tla"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "go Gilgala"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "go kopana le"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "go fetiša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgoši"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoredane"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredane"
+    }
+  ],
+  "timestamp": "2026-10-18T02:08:15.155032146Z",
+  "model": "glm-5.3"
+}

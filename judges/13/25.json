@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 13:25",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפעמו",
+      "rationale": "'Go kgoma ka dinako tše dingwe' (KJV) kgathanong le 'go mo matifatša' (Geneva) — modu ke go beta, go hlohleletša ka mehla."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחנה",
+      "rationale": "'Megwahong' — machane a šomišwa bjalo ka lefelo la go hlabanya, e sego mophato."
+    }
+  ],
+  "translation": "Gomme ruakh ya Yahwe ya thoma go mo kgoma ka dinako tše dingwe ka megwahong ya Dane, gare ga Tsorea le gare ga Eštaole.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e79da95a215a2f3eee2705ac82865cfaa277ccae0b63d158c82537f647cbe204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/13\/25-25.1792287507222.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחל",
+      "gloss": "e thoma"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לפעמו",
+      "gloss": "go mo kgoma ka dinako tše dingwe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ka megwahong"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dane"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsorea"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le gare ga"
+    },
+    {
+      "surface": "אשתאל",
+      "gloss": "Eštaole"
+    }
+  ],
+  "timestamp": "2026-10-18T01:38:27.223368051Z",
+  "model": "glm-5.3"
+}

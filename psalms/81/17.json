@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bohlare bja bogobe",
+      "rationale": "מחלב bolela 'mafura, se sengwe se se gogego kudu' — e sego botee bja lehlabathe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bogobe",
+      "rationale": "חטה ke lehlabathe (koro); bogobe ke sejo sa sona sa mehla ka mehla go ya ka D4"
+    },
+    {
+      "kind": "crux",
+      "subject": "go fapana ga botee",
+      "rationale": "Seheberu se fetotše go tšwa go bona ('a mo feditša') go ya go wena ('nka go tletša') — dikgati tša mehlwa di fetola sebopego sa sefoko"
+    }
+  ],
+  "translation": "Gomme a mo feditša ka bohlare bja bogobe, gomme ka linotši tša leswika nka go tletša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f17a751f62b004dc4f2d422c1e60b272b76d4dcecbeb206ea71fdef412e26ff1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/81\/17-17.1792298247710.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "gomme a mo feditša"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ka bohlare bja"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "gomme ka leswika"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "linotši"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "nka go tletša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:27.710819256Z",
+  "model": "glm-5.3"
+}

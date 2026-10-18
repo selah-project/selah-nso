@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mekgolokošo ya mobu",
+      "rationale": "Sebalwa sa sephethephethe sa naga yeo e laolwago: mošutu, Yoredene, bochabela, lewatle, Pigise."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mošutu",
+      "rationale": "ערבה ke sekgoba se se omileng, se se nesego go feta mošutu wo o nago le tlhaloso ya 'go phaphamala'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "dikgobotlo tša Pigise",
+      "rationale": "אשדת ka KG e feta ka mošutu; LXX\/ASV\/JPS di šomiša 'dikgobotlo' ka ge Moše o bušetša kgopolo go diphologolo."
+    }
+  ],
+  "translation": "le gomme le mošutu o mongwe le o mongwe wa bocha go Yoredene, ka bochabela, go fihla lewatleng la mošutu, tlase ga dikgobotlo tša Pigise.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b0aae1d560b7461da2acbdb04026c4c42f23b2b49c82b0fa1f3f8d2a8fb9e1c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/4\/49-49.1792285604051.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "gomme ... ka moka"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "mošutu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "bocha ga"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ka bochabela"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "la mošutu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "tlase ga"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "dikgobotlo"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "tša Pigise"
+    }
+  ],
+  "timestamp": "2026-10-18T01:06:44.052273923Z",
+  "model": "glm-5.3"
+}

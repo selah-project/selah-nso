@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "poeletlo",
+      "rationale": "Mutlhale o tee o boeledwa ka botlalo — Elohim\/Yahwe, boka\/lentšu — sebopego sa mmino seo phetolelo e se bolokago."
+    },
+    {
+      "kind": "crux",
+      "subject": "lentšu",
+      "rationale": "דבר: 'lentšu la gagwo' (geneva\/kjv) kgathanong le 'lentšu' ka kakaretšo (ylt); Sepedi se boloka go sa ikakanya."
+    }
+  ],
+  "translation": "Ka Elohim ke tla boka lentšu; ka Yahwe ke tla boka lentšu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/56\/9-12.1792297872078.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "ka Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ke tla boka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ka Yahwe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ke tla boka"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:12.079219145Z",
+  "model": "glm-5.3"
+}

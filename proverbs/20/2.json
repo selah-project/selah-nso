@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "motho wa gabo",
+      "rationale": "נפש ה Feyenoord ga se 'moya'; ke go hema\/maphelo — 'motho wa gabo' goba 'bophelo bja gabo'"
+    },
+    {
+      "kind": "crux",
+      "subject": "tau e nnyane",
+      "rationale": "כפיר: 'tau e nnyane' kgathanong le 'tau'; lentswe le bolela tau e sa golego"
+    }
+  ],
+  "translation": "Go kgoboketša ga tau e nnyane ke tšogo ya kgoši; yo a mo tsenyeletsago o dira sebe ⟨ke⟩ motho wa gabo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/20\/1-4.1792299605308.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "go kgoboketša ga"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "tau e nnyane"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "tšogo ya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "yo a mo tsenyeletsago"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "o dira sebe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "motho wa gabo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:05.309450073Z",
+  "model": "glm-5.3"
+}

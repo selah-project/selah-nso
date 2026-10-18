@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Hebrew lacks copula before הוא"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "direct address calling Israel to trust"
+    },
+    {
+      "kind": "invitation",
+      "subject": "tshepela",
+      "rationale": "imperative summoning trust in Yahwe"
+    }
+  ],
+  "translation": "Yisraele, tshepela go Yahwe — ⟨ke⟩ yo mohlagaseši wa bona le thebe ya bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/115\/9-12.1792298759272.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "tshepela"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "mohlagaseši wa bona"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "gomme thebe ya bona"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:59.272624431Z",
+  "model": "glm-5.3"
+}

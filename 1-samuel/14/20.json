@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 14:20",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויזעק",
+      "rationale": "'a ruma' (modumo) lekgolong la bjale eupša 'a bitlelwa\/a kgoboketšwa' (kjv: assembled); ntlhatheo ya Šaul e dupa go bitša setšhaba ka yena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מהומה",
+      "rationale": "go tšhakga ga dilo — tšaša ye ntsi ya kgobokano, e sego go thulaganya"
+    }
+  ],
+  "translation": "Gomme Saule le setšhaba ka moka se nago ⟨את⟩ le yena ba ruma, ba fihla go ya ntlong ya nto; gomme ona, tšhoša ya mongwe le mongwe e be e le go molwanegwa wa yena — go tšhakga go kgolo kudu.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a6e45712dfa6c9e3f46ed50c988debd5f85a489e537b23b72a746f7962ab498c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/14\/17-20.1792288306557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "ba ruma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saule"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le setšhaba ka moka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se nago"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le yena",
+      "marks": "Saule"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "nto"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gomme ona"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e be e le"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya mongwe le mongwe"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "go molwanegwa wa yena"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "go tšhakga"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "go kgolo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T01:51:46.558875398Z",
+  "model": "glm-5.3"
+}

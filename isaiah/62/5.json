@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mosetsana",
+      "rationale": "בתולה ke mosetsana ye a sa nyalwago; 'mosetsana' fela ga swara botlalo ka botlalo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ba tla go nyala",
+      "rationale": "בניך 'bana ba gago ba tla go nyala' kgathanong le YLT 'Ba ba agago ba go nyala' — ketekanyo ya motho"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבעל\/יבעלוך",
+      "rationale": "go boela ga lefsa la go nyala, karolo ya tshwanelo ya mafoko a mabedi, se se laolang seripa sa lenyalo"
+    }
+  ],
+  "translation": "Gore bjalo ka moshomana a nyala mosetsana, bana ba gago ba tla go nyala; gomme bjalo ka boitumoso bja monyadiwa ka monyadiwa-ya-mosadi, Elohim wa gago o tla ithaba ka wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3b03ad39445de22f7af6a26e7badd6b2ccbc55373114397fd9f31073ccd950c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/62\/5-8.1792292600588.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "a nyala"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "moshomana"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "mosetsana"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "ba tla go nyala"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana ba gago"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "gomme boitumoso"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "monyadiwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "monyadiwa-ya-mosadi"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "o tla ithaba"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T03:03:20.588942628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke mokgwa wa go hema\/motho wa maphelo, e sego moya wo a sa bonwego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר",
+      "rationale": "Sesupo sa go šireletša se boela ka gatee ga diphuti tše peli tše di latelanago"
+    }
+  ],
+  "translation": "Yahwe o tla go šireletša go tšwa go bobe ka moka; o tla šireletša ⟨את⟩ bophelo bja gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f95f567b911d2f62c715c4d81895daa8baa9c04b89ec0e0baea6fcc293a459b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/121\/5-8.1792298917065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ייהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "o tla go šireletša"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tšwa … ka moka"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "o tla šireletša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo bja gago"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bophelo bja gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:37.066873821Z",
+  "model": "glm-5.3"
+}

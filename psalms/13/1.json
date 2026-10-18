@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "Leina la go ba mokaletši wa mmino wa tempole; sephetho se feletšego sa Sepedi ga se nale tee."
+    }
+  ],
+  "translation": "Go mokaletši. Pesaleme ya Dafida.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/13\/1-4.1792297273465.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go mokaletši"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pesaleme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:13.465685975Z",
+  "model": "glm-5.3"
+}

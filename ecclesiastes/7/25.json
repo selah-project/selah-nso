@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bošula",
+      "rationale": "כסל ka bo nnete bo re 'bofodi' (leswe la serope); mo bo ra bošula — seswantšho sa bofodi se se laetšago go se na tlhaloganyo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "le go nyaka-nyaka",
+      "rationale": "ולתור bo goabela ka mefuta-futa; 'go nyaka-nyaka' e bontšha goabela ga go fetoga-fetoga"
+    }
+  ],
+  "translation": "Ke maledika, ina le pelo ya ka, go tseba le go nyaka-nyaka, le go batla bohlale le sehlalo, le go tseba sebe sa bošula, le bosemoroto bja bologe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "d10cf694c491d26d7496a3266004acd3fea6c11b8eab06b1f90af8188bb92511",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/7\/25-28.1792301478942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "Ke maledika"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "gomme pelo ya ka"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "go tseba"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "le go nyaka-nyaka"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "le go batla"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "le sehlalo"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "le go tseba"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "bošula"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "le bosemoroto"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "bologe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:31:18.942937299Z",
+  "model": "glm-5.3"
+}

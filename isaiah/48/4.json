@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Hebrew has no verb 'to be'; the two metaphors are bare juxtapositions, copula ⟨ke⟩ supplied."
+    },
+    {
+      "kind": "substitution",
+      "subject": "o thata",
+      "rationale": "קשה 'hard\/severe'; versions render 'obstinate\/stubborn' — the physical hardness picture is kept here."
+    },
+    {
+      "kind": "you",
+      "subject": "wena",
+      "rationale": "Yahwe addresses the stubborn house of Jacob directly in second person."
+    }
+  ],
+  "translation": "Go tšwa tsebong ya ka gore wena o thata, molala wa gago ⟨ke⟩ mmeba wa tšhipi, gomme phaphatana ya gago ⟨ke⟩ mokgaro.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cda11b13bf2b36aefddd31eb661cddcb70e94a82672595102bb5f19d6e0e5692",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/48\/1-4.1792292262988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Go tšwa tsebong ya ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "o thata"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "mmeba"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "tšhipi"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "molala wa gago"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "phaphatana ya gago"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "mokgaro"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:42.989251532Z",
+  "model": "glm-5.3"
+}

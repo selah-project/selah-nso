@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "thipa ya goabela",
+      "rationale": "המאכלת ke sela sa go ja ka sona, se bolela thipa — mme Sesotho sa Bibele se re *thipa ya go bola*; mo go šomišitšwe thipa ya goabela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשחט",
+      "rationale": "go hlabela — lentšu le tšwago go šoma ya diperisi tša sehlabelo; Abrahama o tšea thipa bakeng sa sehlabelo sa Sebego sa go fišwa."
+    }
+  ],
+  "translation": "Gomme Abrahama a katolla ⟨את⟩ seatla sa gage, a tšea ⟨את⟩ thipa ya goabela, go hlabela ⟨את⟩ morwa wa gage.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "8818842e27b2a7e4d0ee315ed3c1d797aad532173b30795305f2d702cdb1fbe3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/22\/10-11.1792304551589.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a katolla"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gage"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gage"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thipa ya goabela"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "thipa ya goabela"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "go hlabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa gage"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gage"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:31.590141579Z",
+  "model": "glm-5.3"
+}

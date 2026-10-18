@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הוי אחי",
+      "rationale": "selaodi sa Sephedi sa go lla: 'Aowa, moledi wa ka' — mo go sa tswalwe le go lla ga ma Sephedi"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "Hebheru ga e na lentšu la go re pele ga polelo ya boila — 'ba re' le okeditšwe"
+    }
+  ],
+  "translation": "Gomme a bea ⟨את⟩ setopo sa gagwe modirong wa gagwe, gomme ba lla mo, ba re: Aowa, moledi wa ka!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e3d70f42bfbcf1883f82828c8d12b31042d91561aac6ab6665f2b47ea5b7007f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/13\/29-32.1792290035278.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setopo sa gagwe"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "setopo sa gagwe"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "modirong wa gagwe"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ba lla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Aowa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "moledi wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:20:35.279245751Z",
+  "model": "glm-5.3"
+}

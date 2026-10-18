@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Thapelo e rulagantšwe go Elohim ka moka — pela-pela ya kgoši ya psalme ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "ya ka",
+      "rationale": "Seheberu se šomiša suffix -i (thapelo ya ka); Sepedi e e hlatloloditše ka lentšu le tee"
+    }
+  ],
+  "translation": "Theetša, Elohim, thapelo ya ka; o se ke wa ipolaitša ka kopego ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/55\/1-4.1792297902600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Theetša"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "omme o se ke wa"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "ipolaitša"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "ka kopego ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:42.600790308Z",
+  "model": "glm-5.3"
+}

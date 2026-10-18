@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o latola",
+      "rationale": "טעם ke go latola ka molomo; fa se bolela go bona ka taba — 'o latola' bolokela ponagalo e tutuetšego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "thekgo",
+      "rationale": "סחר ka bona ke kgwebo ya mahlakore; thekgo ke sephethwa sa yona"
+    }
+  ],
+  "translation": "O latola gore thekgo ya gagwe e lokile; lesedi la gagwe ga le timala bosigo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b8ecc8c7cdb16eddb51b1cf67c059b1a094747296deda200af374ae0c7e97984",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/31\/17-20.1792299967179.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "o latola"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e lokile"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "thekgo ya gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "le timala"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "lesedi la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:07.179699983Z",
+  "model": "glm-5.3"
+}

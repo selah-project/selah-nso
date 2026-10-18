@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 5:9",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ka gare⟩",
+      "rationale": "וביתה o bolela ka mo go ya ka gare ga toropo; Sepedi se nyaka mantšu a mabedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "וביתה",
+      "rationale": "ba-hlathollo ba fapana: 'le gare' kgatlhanong le 'go ya le gae' (go ya ka ntlo)"
+    }
+  ],
+  "translation": "Gomme Dafida a dutša kgaugeleng, a e bitša toropo ya Dafida; gomme Dafida a aga ka go dikologa, go tšwa Mollo go ya ⟨ka gare⟩.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "549176226441194a42801fe28ea342aed0748070d7b875a313077a9fe0e36192",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/5\/9-12.1792288928975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a dutša"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "במצדה",
+      "gloss": "kgaugeleng"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitša"
+    },
+    {
+      "surface": "לה",
+      "gloss": "e"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dafida"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a aga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka go dikologa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Mollo"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "go ya ⟨ka gare⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T02:02:08.976388932Z",
+  "model": "glm-5.3"
+}

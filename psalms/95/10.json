@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ka hloile",
+      "rationale": "אקוט (root קוט) bolela 'go hloile\/go kgopelwa ke selo'; dikgatišo tše dintši di re 'ke ile ka hloka boiketlo' goba 'ka galefala'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke sona",
+      "rationale": "Seheberu se diriša הם go kgamaretša; Sepedi se nyaka kopanyo 'ke sona'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mengwaga ye masome-nne",
+      "rationale": "Palo ya mengwaga e hlalosa nako ya mahlatse a lefase la Setšhaba."
+    }
+  ],
+  "translation": "Mengwaga ye masome-nne ke ile ka hloile ⟨את⟩ dalore ye, gomme ka re: Setšhaba se dipego pelo ke sona, gomme bona ga ba tsebe ditsela tša ka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "467d620d567a1688305a2cb8a2f79343e69a1ab4b867957c8c75f414d92f02d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/95\/10-11.1792305292239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "masome-nne"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ka hloile"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "dalore ye"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "gomme ka re"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "se dipego"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke sona"
+    },
+    {
+      "surface": "והם",
+      "gloss": "gomme bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba tsebe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela tša ka"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:52.239640122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 2:5",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בכים",
+      "rationale": "Leina le tšwa go go lela ga setšhaba (Bokime = bao ba lelago); sephetho se ya ba leina la lefelo, se lalela ka Sepedi."
+    },
+    {
+      "kind": "elision",
+      "subject": "hlabela",
+      "rationale": "Seheberu se re go betha sehlabelo fela; go Yahwe se feletše go latela ka tsela yeo e sa hlageng."
+    }
+  ],
+  "translation": "Gomme ba bitša leina la lefelo leo Bokime, gomme ba hlabela moo go Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c12529aa5ffa8cb5530be64c22e0e44dc0a87fb9b0be368a4fd2301ce81987c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/2\/5-8.1792287100658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ba bitša"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "la lefelo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "Bokime"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "gomme ba hlabela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:31:40.659639155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רב",
+      "rationale": "Ka gare ga dipolelo tše dintši: 'a bula dipetlo' (KJV) kgahlanong le 'dipetlo tše dintši' (YLT) — lentšu le ka bopa botho."
+    },
+    {
+      "kind": "substitution",
+      "subject": "a di tshikinyetše",
+      "rationale": "ויהמם le bolela go tshikinya ka maatla a magolo, go phutlhama; go tshikinya ke karolo ya go fihlela ya yona."
+    }
+  ],
+  "translation": "Gomme o romile dinepe tša gagwe gomme a di phatlalatša, dipetlo tše dintši, gomme a di tshikinyetše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/18\/13-16.1792297348515.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romile"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "dinepe tša gagwe"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "a di phatlalatša"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "dipetlo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "tše dintši"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "a di tshikinyetše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:28.516521175Z",
+  "model": "glm-5.3"
+}

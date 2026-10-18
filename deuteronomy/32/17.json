@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 32:17",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "shedime",
+      "rationale": "שדים — medimo ya mabe, e sego 'madimoni' ka mokgwa wo mošwi"
+    },
+    {
+      "kind": "crux",
+      "subject": "מקרב באו",
+      "rationale": "'ba tšwa kgauswi ba tlile' — kgauswi nakong (ba mpsha kudu) goba sebakašeng; diphetolelo di fapana"
+    }
+  ],
+  "translation": "Ba hlabela shedime, e sego Eloha; go Elohim bao ba sa ba tsebego, ba mpsha bao ba tšwago kgauswi ba tlilego, bao bo-ntate ba gago ba sa ba tšabego.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9802b5cbc434c865019bf5cf55a1ba659a653328bc8124098fe7c4eef0bae27c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/32\/17-20.1792286417992.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזבחו",
+      "gloss": "ba hlabela"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "shedime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e sego"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "ba tsebego ba bone"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ba mpsha"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "bao ba tšwago kgauswi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba tlilego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "שערום",
+      "gloss": "ba tšabego ba bone"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bo-ntate ba gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:20:17.993004306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 51:7",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "setšhaba se nago Torah pelong",
+      "rationale": "Theolang go nna — go laediwa ga setšhaba ka boomo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "motho yo a swafago — lentšu la Seheberu le bontšha go swa ga motho, e sego batho ka kakaretšo"
+    }
+  ],
+  "translation": "Theolang go nna, lona ba tsebago tsedeke, setšhaba se nago Torah ya ka pelong ya sona; se tsabe nyatšo ya batho ba swafago, gomme go rolokwa ga bona go se fenye.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9a4f1e9926828b5cac6f5d4d9ddee63d7f948302d226de0add5e940bec40d0e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/51\/5-8.1792292362530.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "theolang"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "lona ba tsebago"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah ya ka"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "pelong ya sona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tsabe"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "nyatšo ya"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "batho ba swafago"
+    },
+    {
+      "surface": "ומגדפתם",
+      "gloss": "gomme go rolokwa ga bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go se"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "fenye"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:22.531318413Z",
+  "model": "glm-5.3"
+}

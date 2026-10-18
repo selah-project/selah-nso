@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 59:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "toko",
+      "rationale": "צדק — 'tsedeke' e ka ba gona; 'toko' ya Sepedi e tšere legoro"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go se nago sepe",
+      "rationale": "תהו — lentšu la Genesi 1:2, lefeela le sa țiago sepe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הרו\/הוליד",
+      "rationale": "papiso ya go ima le go belega — sebopego se tšwelago pele se.Isaia 59:5 (manogo a noga)"
+    }
+  ],
+  "translation": "Ga go yo a bitšago ka toko, gomme ga go yo a ahlologo ka nnete; ba itšetšitše go se nago sepe, gomme ba bolela leshano; ba imile bohlatse, mme ba belegile šhabo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/59\/1-4.1792292521780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ga go yo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a bitšago"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka toko"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme ga go yo"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "a ahlologo"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ka nnete"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "ba itšetšitše"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "se nago sepe"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "gomme ba bolela"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "leshano"
+    },
+    {
+      "surface": "הרו",
+      "gloss": "ba imile"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bohlatse"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ba belegile"
+    },
+    {
+      "surface": "און",
+      "gloss": "šhabo"
+    }
+  ],
+  "timestamp": "2026-10-18T03:02:01.781495290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lekha dumiyah tehilla",
+      "rationale": "Phetolelo tše dingwe: 'thoriso e emetše go wena' (KJV) kgahlanong le 'go wena, pholoko ⟨ke⟩ thoriso' (YLT); sebopego sa Seheberu se sa hlaka"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopula ye Seheberu se se nago yona gare ga dumiyah le tehilla"
+    },
+    {
+      "kind": "you",
+      "subject": "go Elohim",
+      "rationale": "Sepoko se bolela go Elohim ka go lebanya"
+    }
+  ],
+  "translation": "Go wena pholoko ⟨ke⟩ thoriso, Elohim, go Tsiyone, gomme go wena kanelo e tla phethwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d3aff8c50347acb0f564b73a480599286c9e131652b5fb885b167de99e50ebde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/65\/1-4.1792297947339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "pholoko"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "thoriso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "go Tsiyone"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "gomme go wena"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "e tla phethwa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "kanelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:27.340532184Z",
+  "model": "glm-5.3"
+}

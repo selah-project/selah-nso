@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 2:3",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תפוח",
+      "rationale": "'Apole' kgahlanong le 'citron' goba 'quince' — sebopego sa mmušo se sa tsewe ka botlalo; apole ke lentšu la go kgwebiša"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lehlakole",
+      "rationale": "לחך ke palate (lehlakole), e sego 'tatso' ka kakaretšo"
+    }
+  ],
+  "translation": "Bjalo ka apole gare ga mehlare ya naga, go swana le mohlovedi wa ka gare ga banna. Ka moriti wa gagwe ke ile ka kgahlwa gomme ka dula, gomme peo ya gagwe e monate go lehlakole la ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a249487e7f0e977185b8543ab57c0aea4734d4a9d97a0b452287e0b1db5958a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/2\/1-4.1792300909717.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתפוח",
+      "gloss": "bjalo ka apole"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "gare ga mehlare"
+    },
+    {
+      "surface": "היער",
+      "gloss": "ya naga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "go swana le"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "mohlovedi wa ka"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "בצלו",
+      "gloss": "ka moriti wa gagwe"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "ke ile ka kgahlwa"
+    },
+    {
+      "surface": "וישבתי",
+      "gloss": "gomme ka dula"
+    },
+    {
+      "surface": "ופריו",
+      "gloss": "gomme peo ya gagwe"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "e monate"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "go lehlakole la ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:21:49.718685493Z",
+  "model": "glm-5.3"
+}

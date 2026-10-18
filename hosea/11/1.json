@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "e be lesea",
+      "rationale": "כי נער: 'ge Yisraele e be lesea' (KJV\/JPS) kgahlanong le 'Yisraele ke lesea gomme ke a mo rata' ya gone bjale (YLT); Sepedi e dumelela bobedi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כי",
+      "rationale": "כי e ka bolela gape 'ge' — 'Ge Yisraele e be lesea, ke a mo rata' bjalo ka KJV."
+    }
+  ],
+  "translation": "Ka gobane Yisraele e be lesea, gomme ke a mo rata, gomme go tšwa Mitsrayime ke bitšitše morwa wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c81d79e57dac57173e550a82528b1d1ea86adb547d7436ec63417f9789559a87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/11\/1-4.1792296036974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "נער",
+      "gloss": "lesea"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "gomme ke a mo rata"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "gomme go tšwa Mitsrayime"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ke bitšitše"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "morwa wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:00:36.975420542Z",
+  "model": "glm-5.3"
+}

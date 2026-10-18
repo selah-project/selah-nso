@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nofo ya ka",
+      "rationale": "נפש šupa moya-phelo, seswantšho sa bophelo; 'moya' goba 'mele' ga se phapanyetsano e nnetefaditšwego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תערג\/תערג",
+      "rationale": "go bušetšwa ga lentšu 'go nyaka' gabedi, phuti le nofo ka moka di nyaka"
+    }
+  ],
+  "translation": "Bjalo ka phuti ye e nyakago meetse a dinoka, bjalo ke nofo ya ka ye e nyakago go wena, Elohim.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/42\/1-4.1792297688230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "bjalo ka phuti"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ye e nyakago"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "meetse a dinoka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nofo ya ka"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "e nyakago"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:08.231668095Z",
+  "model": "glm-5.3"
+}

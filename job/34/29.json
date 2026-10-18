@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 34:29",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישקט",
+      "rationale": "BSB 'he remains silent' vs KJV\/JPS 'he giveth quietness' — root means repose\/quiet, Ephraim's speech is about God's stillness."
+    },
+    {
+      "kind": "crux",
+      "subject": "ירשע",
+      "rationale": "'condemn' vs 'make trouble\/declare wrong' — same root as רשע (wicked)."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi copula supplied for the nominal phrase ka mokgwa o tee."
+    }
+  ],
+  "translation": "Gomme yena ge a khutša, ke mang yo a ka phosošago? Gomme ge a ebetša sefahlego, ke mang yo a ka mo bonago? Go setšhaba le go motho, ⟨ke⟩ ka mokgwa o tee.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/34\/29-32.1792300736914.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "gomme yena"
+    },
+    {
+      "surface": "ישקט",
+      "gloss": "a khutša"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "ירשע",
+      "gloss": "a ka phosoša"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "ge a ebetša"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefahlego"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "ישורנו",
+      "gloss": "a ka mo bona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "go"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ka mokgwa o tee"
+    }
+  ],
+  "timestamp": "2026-10-18T05:18:56.914721043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa gagwe wa bophelo",
+      "rationale": "נפש ke moya wa bophelo\/khutlo ya go hema, e sego \"moya\" wa semoya fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גנב\/יגנוב",
+      "rationale": "go boeletša modu wa go utswa (ganav\/yignov), se se laetšo ke go bapetša ga lefoko le le tee"
+    }
+  ],
+  "translation": "Ga ba mo nyatše yo a utswago, ge a utswa a tlatša moya wa gagwe wa bophelo, ge a fenšwa ke tlala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "88b811d010d6f28758a290bf59429bd169b81d6cb63faa7f4d3ab66fd0970cd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/6\/29-32.1792299323980.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "ba mo nyatše"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "yo a utswago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "a utswa"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "a tlatša"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa gagwe wa bophelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "a fenšwa ke tlala"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:23.981656863Z",
+  "model": "glm-5.3"
+}

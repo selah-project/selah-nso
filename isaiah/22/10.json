@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "go bala malapa",
+      "rationale": "ספרתם — go bala, go balela malapa, molato wa Yerusalema"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go nonotša",
+      "rationale": "לבצר ka boitšoaro ke go phemela, go dira leboto le nonofile"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ malapa a Yerushalayime le a balile, gomme la theohetša malapo go nonotša leboto.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a8df3a0bd92b14c5d595ea3309762a66406f5ac26837093517551adb04537708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/22\/9-12.1792291607010.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "malapa a Yerushalayime"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "le a balile"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "gomme la theohetša"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "malapo"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "go nonotša"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "leboto"
+    }
+  ],
+  "timestamp": "2026-10-18T02:46:47.011452849Z",
+  "model": "glm-5.3"
+}

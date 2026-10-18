@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na le kopula; Sepedi se e nyaka gabedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדק\/צדקה e swanetše go dula bjalo ka 'tsedeke' go ya ka tafola D2"
+    }
+  ],
+  "translation": "Tsedeke ya gago ⟨ke⟩ tsedeke go ya phakahlego, gomme Torah ya gago ⟨ke⟩ nnete.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1c2157d7ff2e5881feaa9c174cea9b86260ba53b51d8368de75113181b382ee4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/141-144.1792298850136.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "tsedeke ya gago"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya phakahlego"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "gomme Torah ya gago"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nnete"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:30.137697163Z",
+  "model": "glm-5.3"
+}

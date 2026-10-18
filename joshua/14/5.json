@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "moo",
+      "rationale": "Sepedi e nyaka mogopolwa wo Seheberu o sa o nago ka fa tlase ga כן"
+    }
+  ],
+  "translation": "Bjalo ka ge Yahwe a laeditše ⟨את⟩ Moshe, bjalo ka moo bana ba Yisraele ba dirilego, gomme ba arola ⟨את⟩ lefase.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3228cea5e9ee0d13a6e61600ceb225fd217f8feaabfe4a73ff4c017facdb59bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/14\/5-8.1792286824072.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laeditše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo ka moo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dirilego"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "gomme ba arola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T01:27:04.073435702Z",
+  "model": "glm-5.3"
+}

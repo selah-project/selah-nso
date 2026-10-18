@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשאים",
+      "rationale": "'maru a go eseletša' kgathanong le 'bakgosi' — pentateukhi ya kgang e kgetha maru"
+    },
+    {
+      "kind": "substitution",
+      "subject": "diphogelo",
+      "rationale": "אוצרות 'diphogelo tša meetse' — Selah e boloka seswantšho sa polokelo"
+    }
+  ],
+  "translation": "Yo a golagolago maru go tšwa mafelong a lefase, yo a dirago mapitši bakeng sa pula, yo a ntšhago ruakh go tšwa diphogelong tša gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/135\/5-8.1792298965766.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "yo a golagolago"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "maru"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "go tšwa mafelong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "a lefase"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "mapitši"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "bakeng sa pula"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo a dirago"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "yo a ntšhago"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "go tšwa diphogelong tša gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:25.768826771Z",
+  "model": "glm-5.3"
+}

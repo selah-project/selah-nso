@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "atamisa",
+      "rationale": "ויקרב ke go atamisa go tšwa kua go swanang — setšo se re 'a tlisa', eupša sebopego ke go atamisa"
+    }
+  ],
+  "translation": "Gomme Moshe a atamisa ⟨את⟩ Aharone le ⟨את⟩ bana ba gagwe, gomme a ba tlhatswa ka meetse.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "79a5c207485bc6a3e6543ae785f7e83747b87d26801b80b684c6fd4c3eda13bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/8\/6-7.1792304712593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a atamisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "a ba tlhatswa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "Aharone le bana ba gagwe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T06:25:12.593622321Z",
+  "model": "glm-5.3"
+}

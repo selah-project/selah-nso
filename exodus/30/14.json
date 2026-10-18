@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 30:14",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sehlabelo",
+      "rationale": "תרומה ke sehlago sa go hlatlamollwa (heave-offering); sehlabelo ke lentšu la kgoro, eupša Sepedi ga se na lentšu le tee"
+    },
+    {
+      "kind": "measurement",
+      "subject": "go tšwa go morwa wa mengwaga ye masomepedi",
+      "rationale": "palo ya mengwaga — sekalo sa batho ba balwego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yo a fetago",
+      "rationale": "העבר literally 'go feta' — go bala ga batho go go bontšha go feta godimo ga tlhako, e sego go tsena feela"
+    }
+  ],
+  "translation": "Mang le mang yo a fetago go ba ba balwego, go tšwa go morwa wa mengwaga ye masomepedi le go feta, o tla fa sehlabelo sa Yahwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f4bf03318c17def3df82f0c87640d04d73a7e7f0050f7474e5f08288a88f8a14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/30\/14-15.1792304611833.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "mang le mang"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "yo a fetago"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "ba ba balwego"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "go morwa wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masomepedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "le go feta"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o tla fa"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "sehlabelo sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:31.833802907Z",
+  "model": "glm-5.3"
+}

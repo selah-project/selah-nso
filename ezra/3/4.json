@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ka palo",
+      "rationale": "Sehlabelo se fišwa ka palo e laetšwego — במספר, go bala go ya ka taelo ya Numbers 29"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום ביום ... יום ביומו",
+      "rationale": "Go buseletša ga 'letšatši ka letšatši ... ka letšatšing la sona' — khutsofatšo ye e itšego ya Seheberu"
+    }
+  ],
+  "translation": "Gomme ba dira ⟨את⟩ moletlo wa dikuku bjalo ka ge go ngwalwa, le dibeego tša go fišwa tša letšatši ka letšatši ka palo, go ya ka kahlolo, taba ya letšatši ka letšatšing la sona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/3\/1-4.1792302240983.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "gomme ba dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moletlo"
+    },
+    {
+      "surface": "חג",
+      "gloss": "moletlo"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "wa dikuku"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "bjalo ka ge go ngwalwa"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "le dibeego tša go fišwa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "tsa letšatši"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ka palo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "go ya ka kahlolo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ya letšatši"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ka letšatšing la sona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:44:00.984849142Z",
+  "model": "glm-5.3"
+}

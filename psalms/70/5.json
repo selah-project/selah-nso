@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישישו\/ישמחו",
+      "rationale": "go thaba ga mafoko a mabedi a tswalanang (שוש\/שמח), sephetho se gotšwa ke go di kopanya"
+    },
+    {
+      "kind": "elision",
+      "subject": "ba ratago polokego ya gago ba re",
+      "rationale": "Seheberu se bea אהבי ישועתך ka mafelelo bjalo ka sepetho; Sepedi se di hlagisa pele go nepa"
+    }
+  ],
+  "translation": "A thabe gomme a ikgantše go wena bohle ba go nyakago, gomme ba ratago polokego ya gago ba re go sa fologe: Elohim a kgološwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/70\/5-6.1792298046513.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "a thabe"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "gomme a ikgantše"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "ba go nyakago"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "gomme ba re"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "go sa fologe"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "a kgološwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "ba ratago"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "polokego ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:06.514238966Z",
+  "model": "glm-5.3"
+}

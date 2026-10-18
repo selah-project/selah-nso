@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארך אפים",
+      "rationale": "Sefouta sa go balea pelo — se bolela 'go nago le dipounama tša go balea'; 'go balea pelo' ke sefouta sa Sepedi se se swanago."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חסד",
+      "rationale": "Hesede ga se fela 'mohau' — ke tsela ya go rata yeo e theilwego godimo ga kgwerano; e bolokwa ka lentšu la Sesotho sa go bitsa ka modumo wa Seheberu."
+    }
+  ],
+  "translation": "Yo a nago mohau le khwebo, Yahwe, ka go balea pelo, gomme o nago hesede ye ntsi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "76921e225b98ec9ed64292986f687e5ad0aa90daadad06d654cd0993598f9e85",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/103\/5-8.1792298529275.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "yo a nago mohau"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "le khwebo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ka go balea"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "gomme o nago"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede ye ntsi"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:09.275966604Z",
+  "model": "glm-5.3"
+}

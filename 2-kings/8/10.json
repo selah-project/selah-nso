@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא חיה תחיה",
+      "rationale": "mantšu a mangwe a mageba a bala לא ('go se phela o tla phela'), KJV\/JPS a a tloša — Elisha o botša sephetho se se fapanego le seo a bolelgo go se bolela"
+    },
+    {
+      "kind": "elision",
+      "subject": "go se",
+      "rationale": "לא ga e na phetolelo ye e hlakang ge mantšu a mageba a senyegile; e tlošitšwe ka boikgethelo go latela KJV\/JPS"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חיה תחיה · מות ימות",
+      "rationale": "go boela ga leina ka go se fele (infinitive absolute + finite) — 'phela o tla phela', 'swa o tla swa' — dithulaganyo tša go tiisa"
+    }
+  ],
+  "translation": "Gomme Elisha a mo re: Tsena, o re ⟨mo⟩: Phela o tla phela ⟨ruri⟩; gomme Yahwe o mponžitše gore o tla swa ruri.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ef3e1dd3ad2524176cd96db34c2bf7bee4578bd8e1282a9356eebfe0349daf89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/8\/9-12.1792290708775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tsena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨go se⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "phela"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "o tla phela"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "gomme o mponžitše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מות",
+      "gloss": "swa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o tla swa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:31:48.776257282Z",
+  "model": "glm-5.3"
+}

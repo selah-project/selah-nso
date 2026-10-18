@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מאן ימאן",
+      "rationale": "Go buša ga infinitive-absolute ('a gana ka botlalo') go kgamela maemo a go gana ka botlalo."
+    },
+    {
+      "kind": "crux",
+      "subject": "הבתולת",
+      "rationale": "Bontši bja Seheberu bakeng sa setšhaba e tee — 'basetšhaba ka moka'; di-phethollo tše dingwe di boloka se sene fela."
+    }
+  ],
+  "translation": "Ge a gana ka botlalo — ge ruri a gana — ntatae go mo muela yena, o tla leka silibera go ya ka sekgwera sa basetšhaba.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "57cdef0b78de270ed3687dfa7e23590e74078ea5ff1416de90b4673c87098a52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/22\/16-16.1792304596021.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "a gana"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "a gana ka botlalo"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ntatae"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "go mo muela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "o tla leka"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "go ya ka sekgwera"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "sa basetšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:16.022430099Z",
+  "model": "glm-5.3"
+}

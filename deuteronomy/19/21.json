@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nephesh ke moya\/bophelo — motho wa go hema, e sego 'moya' wa semoya fela; mo go bolela bophelo go ya le bophelo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מידה כנגד מידה",
+      "rationale": "go bolela gape ga mantšu ka go šoma (nefesh benefesh, ayin beayin) — sebopego sa botegeneng se se sa bolokwago ka botlalo ka Sepedi"
+    },
+    {
+      "kind": "you",
+      "subject": "go setšhaba sa Yisraele",
+      "rationale": "maelelo a go se kwelwe mohau a a rometšwe setšhabeng ka bophara"
+    }
+  ],
+  "translation": "Gomme leloko la gago le se ke la kwelwa mohau: moya go ya le moya, leloko go ya le leloko, meno go ya le meno, seatla go ya le seatla, leoto go ya le leoto.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "edbabdf5da33fdfb17351659669753377b0ecdf07b7c498ce0af80c7dc64517b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/19\/21-21.1792285962743.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme … se ke"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "la kwelwa mohau"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "leloko la gago"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "go ya le moya"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leloko"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "go ya le leloko"
+    },
+    {
+      "surface": "שן",
+      "gloss": "meno"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "go ya le meno"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "go ya le seatla"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "leoto"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "go ya le leoto"
+    }
+  ],
+  "timestamp": "2026-10-18T01:12:42.744383009Z",
+  "model": "glm-5.3"
+}

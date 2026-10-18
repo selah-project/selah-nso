@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Moemedi o bolela le Yahwe ka mo go tlwaelegilego, ka lebitšo la thapelo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "makgapha \/ tlaso",
+      "rationale": "בקצף (bohlapori bja molomo) le חמה (bodutu bja molala) — dithupo tše pedi tša makgapha, di tetemeditswe ka Sepedi ka mantšu a mabedi"
+    }
+  ],
+  "translation": "Yahwe, o se ke wa nkganela ka makgapha a gago, gomme o se ke wa ntaetša ka tlaso ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/38\/1-4.1792297661382.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "ka makgapha a gago"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "wa nkganela"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "gomme ka tlaso ya gago"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "wa ntaetša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:41.383370542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 44:29",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה e ngwalwa ka modumo wa yona go ya ka D2; e sego mpho"
+    },
+    {
+      "kind": "addition",
+      "subject": "sehlabelo sa",
+      "rationale": "Sepedi e nyaka lentšu la sehlabelo go kgobotla diphuthelwana tša חטאת le אשם"
+    }
+  ],
+  "translation": "Minkha, le sehlabelo sa sebe, le sehlabelo sa sehlagi — bona ba a di ja; gomme se sengwe le se sengwe se se kgethwego go Yisraele se tla ba ⟨se⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a0020cf29c55be5c802e510c0a792fca910fa60a8bef0dbc05f65ccddd27f134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/44\/29-31.1792295761452.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "והחטאת",
+      "gloss": "gomme sehlabelo sa sebe"
+    },
+    {
+      "surface": "והאשם",
+      "gloss": "le sehlabelo sa sehlagi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "יאכלום",
+      "gloss": "ba a di ja"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme se sengwe le se sengwe"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "se se kgethwego"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tla ba"
+    }
+  ],
+  "timestamp": "2026-10-18T03:56:01.452595941Z",
+  "model": "glm-5.3"
+}

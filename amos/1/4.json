@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "o tla ja",
+      "rationale": "'akhal ke go ja — mo e šomišwa bjalo ka 'go fediša ka mollo'; 'go ja' bo semmušo bo bolokwa"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Sepedi e nyaka kgatišo ya 'ka' pele ga ntlo; Seheberu se na le ב fela"
+    }
+  ],
+  "translation": "Gomme ke tla romola mollo ka ntlong ya Hazaele, gomme o tla ja masaka a Beni-Hadade.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "556b396dade6b4c5de378a20456f8a43db9a81aca80b568114318f8b13d623cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/1\/1-4.1792296235582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "gomme ke tla romola"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlong"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaele"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "gomme o tla ja"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "masaka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Beni-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadade"
+    }
+  ],
+  "timestamp": "2026-10-18T04:03:55.584052602Z",
+  "model": "glm-5.3"
+}

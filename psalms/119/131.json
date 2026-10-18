@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פערתי ואשאפה",
+      "rationale": "go butša nomo le go hema — sesupo sa tlhokelo ye tsenelego, se phethwa ka mo go tlwaelegilego 'ka tlhokomelo ye kgolo'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "יאבתי",
+      "rationale": "lemma יאב e hlaga ga nnyane kudu go Tanakh — lentšu la tlhokelo le le bolokilwego"
+    }
+  ],
+  "translation": "Nomo ya ka e butšwe, ke hema ka tlhokomelo ye kgolo; ka gobane ke nyaka ditaelo tša gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "14fb96d2bba7a8d018963f500c60e710da2940fd73813fb890d4b06315b51527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/129-132.1792298833752.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "nomo ya ka"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "e butšwe"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "ke hema ka tlhokomelo ye kgolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "ditaelo tša gago"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "ke nyaka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:13.753722974Z",
+  "model": "glm-5.3"
+}

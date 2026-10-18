@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 63:18",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קדשך",
+      "rationale": "Seheberu ga se na lentšu la 'go ba le' mo — se bolela fela 'setšhaba sa bokgethwa bja gago se ile sa rua'; khwakhwatšo e theogile mekgwa ya Sepedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Sepedi se nyaka seanalelo sa 'e' — Seheberu se se sa sona."
+    },
+    {
+      "kind": "crux",
+      "subject": "למצער",
+      "rationale": "'Ka nako e khutšo' — ba bangwe ba balwa ba re 'e nyenyane' goba 'hoo e nyane eo'."
+    }
+  ],
+  "translation": "Ka nako e khutšo setšhaba sa bokgethwa bja gago se ile sa ba le ⟨⟨e⟩⟩: manaba a rena a e khwakhwatša sebakgethwa sa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5abccc8168b5837426df27545478b9006d2d108aa0078c06d47e1bb0ceb92666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/63\/17-19.1792292492462.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למצער",
+      "gloss": "ka nako e khutšo"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "sa ba le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "sa bokgethwa bja gago"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "manaba a rena"
+    },
+    {
+      "surface": "בוססו",
+      "gloss": "a e khwakhwatša"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "sebakgethwa sa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T03:01:32.463090967Z",
+  "model": "glm-5.3"
+}

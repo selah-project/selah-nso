@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "maatla",
+      "rationale": "נצחי literally 'my perpetuity\/end-goal': rendered 'strength' (KJV) vs 'future\/that which endures' (HALOT)"
+    },
+    {
+      "kind": "elision",
+      "subject": "tshepo",
+      "rationale": "the verb אבד governs both nouns; Sepedi repeats the sense implicitly, Hebrew states the verb only once"
+    }
+  ],
+  "translation": "Gomme ka re: maatla a ka o timetše, gomme tshepo ya ka go tšwa go Yahwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5434ad4564492120d9dac1ac58a516bb98fcdbbfa5c631b72b52eda56d30439e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/3\/17-20.1792301175085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "gomme ka re"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "o timetše"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "maatla a ka"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "gomme tshepo ya ka"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "go tšwa go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:26:15.085862650Z",
+  "model": "glm-5.3"
+}

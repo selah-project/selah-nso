@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zephaniah 3:9",
+  "book": "zephaniah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leleme",
+      "rationale": "שפה ke sepelwa ka boono — 'leleme' ke lentedu; e swana le potego ya leo"
+    },
+    {
+      "kind": "crux",
+      "subject": "motsha o tee",
+      "rationale": "שכם אחד: 'ka motsha o tee' (YLT) kgahlanong le 'ka tumelano e tee' (KJV\/JPS) — sebopego sa mmele se laetše go šoma ka marena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go mo šoma",
+      "rationale": "לעבדו e bolela go šoma\/go šumela Yahwe; mo- o elantšwe sehlabelong"
+    }
+  ],
+  "translation": "Ka gobane ka nako yeo ke tla fetola go ya go ditšhaba leleme le hlwekileng, gore ba le ka moka ba bitše ka leina la Yahwe, go mo šoma ka motsha o tee.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "347d5c9c62fbd7f714dec636ba516060211290c361390daea79dbe3de5fba12b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zephaniah\/3\/9-12.1792296733780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ka nako yeo"
+    },
+    {
+      "surface": "אהפך",
+      "gloss": "ke tla fetola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "leleme"
+    },
+    {
+      "surface": "ברורה",
+      "gloss": "le hlwekileng"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "gore ba bitše"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ba le ka moka"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעבדו",
+      "gloss": "go mo šoma"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ka motsha"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o tee"
+    }
+  ],
+  "timestamp": "2026-10-18T04:12:13.780646673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "metsi a bosigo",
+      "rationale": "טל ke khokolo ya metsi a bosigo a theoga go dimela; Sepedi ga se na lentšu la yona la molao"
+    },
+    {
+      "kind": "alternative",
+      "subject": "e tla otla go tuma",
+      "rationale": "ויך bolela 'go otla'; dipheto tše ntšhi di fetoša go ba 'go tuma\/aprula' — modu o otla lefase ka go tuma"
+    }
+  ],
+  "translation": "Ke tla ba bjalo ka metsi a bosigo go Yisraele; o tla thunya bjalo ka lente, gomme medu ya gagwe e tla otla go tuma bjalo kua Lebhanone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/14\/5-8.1792296077778.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "Ke tla ba"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "bjalo ka metsi a bosigo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "o tla thunya"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "bjalo ka lente"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "gomme e tla otla"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "medu ya gagwe"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "bjalo kua Lebhanone"
+    }
+  ],
+  "timestamp": "2026-10-18T04:01:17.779256019Z",
+  "model": "glm-5.3"
+}

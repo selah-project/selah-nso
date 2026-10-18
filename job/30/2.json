@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כלח",
+      "rationale": "Botša\/letšatši la maatla: KJV 'old age was perished', YLT 'old age perished on them' — lentšu le le ka bolela kamoso ya bophelo; nna ke bolela 'botša' (prime of life)."
+    },
+    {
+      "kind": "addition",
+      "subject": "phumulo",
+      "rationale": "Seheberu se se na sephuthelwana; potšišo e tletše fela — 'ke eng go nna?' — ke oketšile 'phumulo' bakeng sa kgodišo."
+    }
+  ],
+  "translation": "Le maatla a matsogo a bona — ke eng a ka ⟨go⟩ nna ⟨le⟩ phumulo? Go bona botša bo timetše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/30\/1-4.1792300647291.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Le"
+    },
+    {
+      "surface": "כח",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "a matsogo a bona"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "bo timetše"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "botša"
+    }
+  ],
+  "timestamp": "2026-10-18T05:17:27.292373803Z",
+  "model": "glm-5.3"
+}

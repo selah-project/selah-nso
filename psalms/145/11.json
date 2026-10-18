@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba",
+      "rationale": "Karolo ya go bolela ga e gona ka Seheberu — 'ba' (mešomo le bao ba nago le botho) e hlalošwa go tšwa v10"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יאמרו \/ ידברו",
+      "rationale": "Mefuta ye mebedi ya go bolela e theilwe mo tlhakoreng — Sepedi se e thekga ka 'bolela' le 'bolele'"
+    }
+  ],
+  "translation": "Ba tla bolela seriti sa bogoši bja gago, gomme ba bolele ka maatla a gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/145\/9-12.1792299103434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "seriti"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "bogoši bja gago"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba tla bolela"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "gomme maatla a gago"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "ba bolele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:43.435560497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke motho wa go hema — sekgoba se legolo se se sa rwalelwego ke Sepedi, 'bophelo' ke karolo ya wona fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "צפור",
+      "rationale": "'nonyana' — e ka ba kgalalelo ya motho yo a balelago ('bjalo ka nonyana') goba seboledišo go ba bolelelago ('nonyana, balesela!')"
+    },
+    {
+      "kind": "addition",
+      "subject": "go yela",
+      "rationale": "Seheberu se sa ngwale go ya ka Sepedi, se sa bontšha fela 'thabeng'"
+    }
+  ],
+  "translation": "Go etelele. Pšamo ya Dafida. Go Yahwe ke tshepile; ke baka o re bophelong bja ka: Balesela, nonyana, go yela thabeng ya lona?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/11\/1-4.1792297299479.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go etelele"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ke baka"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "o re"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "bophelong bja ka"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "balesela"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "thabeng ya lona"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "nonyana"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:39.480155180Z",
+  "model": "glm-5.3"
+}

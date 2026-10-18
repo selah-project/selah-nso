@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריבה\/יריבי · לחם\/לחמי",
+      "rationale": "go botsa le lentšu le tee le boela: ganetša\/ba-ganetšago, lwa\/ba-lwego — phetišano ya mantšu e laetše gore Yahwe o arabela baba ka mokgwa wa bona mme o fetola o mo against."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Dafida o bolela kgauswi le Yahwe ka go mo kgothaletša go lwa nno."
+    }
+  ],
+  "translation": "Ya Dafida. Ganetša, Yahwe, ⟨את⟩ bao ba mphapanago; lwa ⟨את⟩ bao ba mphedeng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/35\/1-4.1792297571571.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dafida"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Ganetša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bao ba mphapanago"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "bao ba mphapanago"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bao ba mphedeng"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "bao ba mphedeng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:11.571792132Z",
+  "model": "glm-5.3"
+}

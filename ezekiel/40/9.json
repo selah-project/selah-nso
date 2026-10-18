@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 40:9",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "diama tše seswai le tše pedi",
+      "rationale": "Kabelo ya phorogo le dikoto ya kgoro, ka diama."
+    },
+    {
+      "kind": "crux",
+      "subject": "מהבית",
+      "rationale": "KJV\/JPS 'ka gare' kgathanong le ASV 'go ya ntlong' — go tšwa le ka ntle ga ntlo goba go bega ka yona."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אילים",
+      "rationale": "E bolela maatla (ayil) — dipilara tša maatla tša kgoro; 'dikoto' e lahleletše seswantšho sa Seheberu."
+    }
+  ],
+  "translation": "A ka ela ⟨את⟩ phorogo ya kgoro, diama tše seswai; le dikoto tša yona, diama tše pedi; gomme phorogo ya kgoro e le ka gare ⟨go ya⟩ ntlong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "76f5ee42bbef492dccbfc26f2ce9efabf819932a6a42836847267b2fe2080f5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/40\/9-12.1792295636035.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "a ka ela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phorogo ya kgoro"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "phorogo"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ya kgoro"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "tše seswai"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "diama"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "le dikoto"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tše pedi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "diama"
+    },
+    {
+      "surface": "ואלם",
+      "gloss": "gomme phorogo"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ya kgoro"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ka gare go ya ntlong"
+    }
+  ],
+  "timestamp": "2026-10-18T03:53:56.035769177Z",
+  "model": "glm-5.3"
+}

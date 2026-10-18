@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 17:4",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הבנים",
+      "rationale": "phahiši ya בין (gare): 'monna wa gare-ga-mabedi' — yo a emego sekgobeng gare ga sesole tše pedi; AOWA 'mošomi wa sesole' goba 'mofenyi', ka gobane seo ke maemo, e sego sebopego sa lentšu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dihlatla tše tshela le lephaphatlo",
+      "rationale": "palo ya botelele: dihlatla (ama, dikelo tša lenaeng go ya seatleng) tše tshela le phaphatlo ya menwana — dikelwa tša Sesemane tše pedi tša Seheberu."
+    },
+    {
+      "kind": "hapax",
+      "subject": "זרת",
+      "rationale": "lephaphatlo (pharologantšho ya monwana wo mogolo go ya wo monyenyane) — lentšu la go raloka lenti mo Tanakeng le le bontšhago kelo ye nnye kudu gare ga botelele."
+    }
+  ],
+  "translation": "Mme a tšwa monna wa gare-ga-mabedi go maswao a Ba-Pelishti — Goliate lebitso la gagwe, wa Gotha — botelele bja gagwe dihlatla tše tshela le lephaphatlo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "13c0d90dfc27e96373041401212a137764c7d1f1e04a8c12f5d75bb21134eedc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/17\/1-4.1792288344859.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a tšwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "wa gare-ga-mabedi"
+    },
+    {
+      "surface": "ממחנות",
+      "gloss": "go maswao"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "a Ba-Pelishti"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "Goliate"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "lebitso la gagwe"
+    },
+    {
+      "surface": "מגת",
+      "gloss": "wa Gotha"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "botelele bja gagwe"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tše tshela"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "dihlatla"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "le lephaphatlo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:52:24.860184137Z",
+  "model": "glm-5.3"
+}

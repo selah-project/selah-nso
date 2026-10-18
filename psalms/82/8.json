@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "mothanong",
+      "rationale": "mošomo wa go kgopela: 'Emo, Elohim' —polelo yeo e bitšago modiredi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תנחל",
+      "rationale": "'o tla rua' goba 'o tla di rua' — go rua boswa goba go laola; YLT e re 'o na le boswa gare ga ditšhaba'"
+    }
+  ],
+  "translation": "Emo, Elohim, o ahlole lefase, gobane wena o tla rua ditšhaba ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/82\/5-8.1792298300332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "emo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "o ahlole"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "o tla rua"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:20.332944715Z",
+  "model": "glm-5.3"
+}

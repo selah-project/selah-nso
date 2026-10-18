@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikgoro tša gago",
+      "rationale": "שעריך šupile „dikgoro tša gago“ — ke mogwera wa setšhaba ka moka, e sego sekgoba fela."
+    },
+    {
+      "kind": "addition",
+      "subject": "go e nngwe",
+      "rationale": "Seheberu se re „go tee ya dikgoro tša gago“ — go feletša go laediša sehlabelo se sengwe le se sengwe."
+    }
+  ],
+  "translation": "Ga o kgoni go hlabela ⟨את⟩ Paseka go e nngwe ya dikgoro tša gago, tšeo Yahwe Elohim ya gago a di fileng go wena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "372e101a9a74e67a9df470aec489afe0032cb493c2df1a0aea2b351cb9dc7d65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/16\/5-8.1792285919782.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "o kgoni"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "go hlabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Paseka"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "go e nngwe"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ya dikgoro tša gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a di file"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:11:59.783466672Z",
+  "model": "glm-5.3"
+}

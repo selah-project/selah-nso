@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ימים",
+      "rationale": "Matsatsi — Seheberu se re 'matsatsi' fela, e sego 'matsatsi a mantsi'; kahlolo ya bophara e tlišwa ke sebopego."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mosadi⟩",
+      "rationale": "Sepedi se nyaka selo se se šomago sefahleho; Seheberu se tlogela modiredi wa seswantšho."
+    }
+  ],
+  "translation": "Gomme ⟨mosadi⟩ a ya, a dira bjalo ka lentšu la Eliya; gomme a ja, yena le yena ⟨mosadi⟩ le ba ntlong ya hae, matsatsi a mantsi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "abd7c02b3ec8f488cdcb15d5b438955f1e3c3beb632ddba858b5d1e3a10c924f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/17\/13-16.1792290177771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "gomme-a-ya"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "a-dira"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "bjalo-ka-lentšu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "la-Eliya"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "gomme-a-ja"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "le-yena"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "le-ba-ntlong-ya-hae"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-18T02:22:57.772700600Z",
+  "model": "glm-5.3"
+}

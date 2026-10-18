@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Beliyale",
+      "rationale": "בליעל e bolela 'yo a se nago mosola\/bosubudi' — ba bangwe ba e fetolela 'ba bohora' (KJV), ba bangwe ba e tloša ka botlalo; go e boloka e le leina go boloka seswantšho sa Seheberu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dinoka",
+      "rationale": "נחלי ke dinoka tša selemo tše di holago — 'ditsebi tša metsi'; Sesotho sa Leboa se a di bontšha bjalo ka dinoka tše di tletšego."
+    }
+  ],
+  "translation": "Dithapo tša lehu di nthadile, gomme dinoka tša Beliyale di ntšhošetše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ba9860e17bc2d3b95092939356ff36087dcf98587ed75d1aacf106c838a4c4fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/18\/5-8.1792297377556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "di nthadile"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "dithapo tša"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lehu"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "gomme dinoka tša"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyale"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "di ntšhošetše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:57.557401134Z",
+  "model": "glm-5.3"
+}

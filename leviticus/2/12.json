@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ראשית",
+      "rationale": "'maswa a mathomo' goba 'dithologanya' — konokono ke tša mathomo tša kgoro"
+    },
+    {
+      "kind": "you",
+      "subject": "go Israele",
+      "rationale": "taelo ye e kwaletšwe setšhaba sa Israele ka go lebana"
+    }
+  ],
+  "translation": "E le sehlabelo, maswa a mathomo le ka a tlisa ⟨את⟩ go Yahwe; eupša go aletare ga a swanela go namelela e le seba se se nabilego.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/2\/9-12.1792283539331.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "maswa a mathomo"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "le ka a tlisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "maswa a mathomo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "eupša go"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "a namelele"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "e le seba"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "se se nabilego"
+    }
+  ],
+  "timestamp": "2026-10-18T00:32:19.333318816Z",
+  "model": "glm-5.3"
+}

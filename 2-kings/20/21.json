@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 20:21",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "a robala le batswadi ba gagwe",
+      "rationale": "'וישכב עם אבתיו' — go robala le batswadi, se bolela go swa; Sepedi ga se na sephetho se se swanago ka botlalo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "batswadi",
+      "rationale": "אבתיו ke 'babo ba gagwe' ka go lebanya, fela mo gare ga sephetho se bolela batswadi\/bokgabo bja kgoši"
+    }
+  ],
+  "translation": "Gomme Khizkiyahu o ile a robala le bao ba bego e le batswadi ba gagwe, gomme Moshashe mora wa gagwe a buša moelong wa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dce5569d8e3bac142e9a422053987d24ca09544294824208fc26656d3773203d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/20\/21-21.1792290957531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "batswadi ba gagwe"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a buša"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Moshashe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa gagwe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "moelong wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:35:57.532107067Z",
+  "model": "glm-5.3"
+}

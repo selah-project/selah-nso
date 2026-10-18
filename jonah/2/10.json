@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na copula; ⟨ke⟩ e oketšwa go 'polotšo ke ya Yahwe'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תודה",
+      "rationale": "Moelelo wa pele ke 'go ololla seatla'; fela 'tebogo' ke mokgwa o tsebahalogo wa Sepedi."
+    }
+  ],
+  "translation": "Eupša nna ke tla hlabela ka lentšu la tebogo go wena; seo ke se tshepitšego ke tla se phetha — polotšo ke ya Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c0185075573a7f2bead5b05d96400c70f8d5d06e53f47636c94444909da0fb8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jonah\/2\/9-11.1792296389381.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "eupša nna"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka lentšu"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "la tebogo"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "ke tla hlabela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "ke se tshepitšego"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "ke tla se phetha"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "polotšo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ke ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:06:29.382656842Z",
+  "model": "glm-5.3"
+}

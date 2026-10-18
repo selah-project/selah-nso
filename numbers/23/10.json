@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 23:10",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "go bala lerole",
+      "rationale": "potšišo ya palo — lerole la Yaakobo le karolo ya bone ya Yisraele ga di ka ke di balelwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "רבע",
+      "rationale": "'karolo ya bone' (khamphase e nngwe ya sesole ya Israele, Num 2) kgatlhanong le 'bontši' (JPS 'stock')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "gloss": "pelo ya ka",
+      "rationale": "נפש ke moya-botšego\/thoho, e sego pelo ka nnete — lentšu la Sepedi le sebelitšwe go tliša modumo o swanago"
+    }
+  ],
+  "translation": "Ke mang yo a ka balago lerole la Yaakobo, gomme go bala ⟨את⟩ karolo ya bone ya Yisraele? A e fe lehu pelo ya ka — lehu la ba lokilego — gomme mafelelo a ka a be bjalo ka a bona!",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4d821b17d7ed8203e5c315bec57a0ddb536cbfea9a7357d220f4778193576097",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/23\/9-12.1792285052498.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "a ka balago"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ומספר",
+      "gloss": "gomme go bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "karolo ya bone ya Yisraele"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "karolo ya bone"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "תמת",
+      "gloss": "a e fe lehu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lehu"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "la ba lokilego"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a be"
+    },
+    {
+      "surface": "אחריתי",
+      "gloss": "mafelelo a ka"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "bjalo ka a bona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:57:32.498859108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "'bohlelere' — lentšu le bolela se nago selo gape le phapang; mo go šomišwa bakeng sa sebe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חדל",
+      "rationale": "'o kgethile' — ka nnete e bolela 'go ema go dira' (go hlakanela); go kgethwa ke sebopego sa phetolelo"
+    }
+  ],
+  "translation": "Mantšu a molomo wa gagwe ke bohlelere le bofoše; o kgethile go hlakanela go hlaokega le go dira botse.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "56927c43cecf8b25b70b732c1a04dced4b8ded1889b4e181f9041d2f23ee6fd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/36\/1-4.1792297569729.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "molomo wa gagwe"
+    },
+    {
+      "surface": "און",
+      "gloss": "bohlelere"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "bofoše"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "o kgethile"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "go hlakanela"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "go dira botse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:09.730761790Z",
+  "model": "glm-5.3"
+}

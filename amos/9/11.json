@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 9:11",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "phuphu",
+      "rationale": "סוכה ke hutlwana ya nako; phuphu e pata sebopego sa kago ye nnyane ye e welago"
+    },
+    {
+      "kind": "elision",
+      "subject": "a khale",
+      "rationale": "כימי עולם — malatsi a khale a go sa fele; 'go sa fele' se oketšitšwe go hlalosa עולם"
+    }
+  ],
+  "translation": "Malatsing ao ke tla emiša ⟨את⟩ phuphu ya Dafida e welago, gomme ke tla koša ⟨את⟩ mekgoba ya yona, gomme tše theohilego tša yona ke tla di emiša, gomme ke tla e aga bjalo ka malatsi a khale a go sa fele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f8267812af290365fb9bdbdf6006b6398bce3cd4105759b310e0b4fd1d4ca2e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/9\/9-12.1792296338979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "malatsing"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ao"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ke tla emiša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phuphu ya Dafida e welago"
+    },
+    {
+      "surface": "סכת",
+      "gloss": "phuphu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "הנפלת",
+      "gloss": "e welago"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "gomme ke tla koša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mekgoba ya yona"
+    },
+    {
+      "surface": "פרציהן",
+      "gloss": "mekgoba ya yona"
+    },
+    {
+      "surface": "והרסתיו",
+      "gloss": "tše theohilego tša yona"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ke tla di emiša"
+    },
+    {
+      "surface": "ובניתיה",
+      "gloss": "gomme ke tla e aga"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "bjalo ka malatsi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a go sa fele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:05:38.980973370Z",
+  "model": "glm-5.3"
+}

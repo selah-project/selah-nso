@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 1:11",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "5400",
+      "rationale": "Palo ya kakaretšo e 5400, e sa swanago le palo ya ditemana tše pedi tše di fetilego (2499) — pharologantšho yeo bafofedi ba e bolelago."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "העלה\/העלות",
+      "rationale": "Go boutšiwa ga lentšu עלה gabedi — 'go isa godimo' ga dilo le 'go namwa' ga batshwarwa; ka Sepedi phetolelo e a theoga e sego e boutšwa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הגולה",
+      "rationale": "'batshwarwa' — e bolela ba ba ilego ba hudugwa ka phošo, setšhaba sa go tšwa Yuda se ilego sa lelekwa Babilona."
+    }
+  ],
+  "translation": "Didirišwa ka moka tša gauta le tša silibera di be dikgolo tše hlano le dikgolo tše nne; tšohle Sheshbatsare o ile a di isa godimo le go namwa ga batshwarwa go tšwa go Babilona go ya Yerushalayime.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/1\/9-11.1792302128076.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "didirišwa"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "tša gauta"
+    },
+    {
+      "surface": "ולכסף",
+      "gloss": "le tša silibera"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "tše hlano"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikgolo tše"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "le"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "dikgolo tše nne"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "o ile a di isa godimo"
+    },
+    {
+      "surface": "ששבצר",
+      "gloss": "Sheshbatsare"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "go namwa ga"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "batshwarwa"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "go tšwa go Babilona"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "go ya Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T05:42:08.077349890Z",
+  "model": "glm-5.3"
+}

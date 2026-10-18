@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 13:24",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובניהם",
+      "rationale": "Seheberu se re 'mabana a bona' (בניהם) — dipheto tše ntši di se di bolela mantšu a bona; mongwalo o bolokilwe bjalo ka ge o le."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חצי",
+      "rationale": "Seka — hara ya mabana a bolela Ashdodi gomme hara ga e bolele polelo ya Juda."
+    }
+  ],
+  "translation": "Mantšu a bona a sego a se nngwe a bolela seka polelo ya Ashdodi, gomme ba se na go tseba go bolela seJuda, eupša bjalo ka polelo ya setšhaba le setšhaba.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "cd18fcc176b4eeeb5e4ab34152ffb3c20abc02e6e0a01008732d9b6abd9587db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/13\/21-24.1792302826931.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהם",
+      "gloss": "Mantšu-a-bona"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "a-sego-a-se-nngwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "a-bolela"
+    },
+    {
+      "surface": "אשדודית",
+      "gloss": "polelo-ya-Ashdodi"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "ba-se-na"
+    },
+    {
+      "surface": "מכירים",
+      "gloss": "go-tseba"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go-bolela"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "seJuda"
+    },
+    {
+      "surface": "וכלשון",
+      "gloss": "bjalo-ka-polelo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ya-setšhaba"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "le-setšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T05:53:46.934176845Z",
+  "model": "glm-5.3"
+}

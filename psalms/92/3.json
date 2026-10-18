@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "mesong\/dibosigong",
+      "rationale": "Sebopego sa go fapana: hesede—mesong, tšepahalo—dibosigong; sebokego se a bolokwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tšepahalo",
+      "rationale": "אמונה bolela botlase le go tiile ga pelo — e sego tumelo fela"
+    }
+  ],
+  "translation": "Go bolela hesede ya gago mesong, le tšepahalo ya gago dibosigong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/92\/1-4.1792298496791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mesong"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "le tšepahalo ya gago"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "dibosigong"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:36.792878974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידרכון קשת",
+      "rationale": "go kgoma ka maoto — Seheberu se šomiša 'go sepela' bakeng sa go kgoma dithunya ka maoto, seswantšho se se theilwego mošomong wa nnete"
+    },
+    {
+      "kind": "hapax",
+      "subject": "יתר",
+      "rationale": "mo e bolelang thapo ya dithunya — lentšu le ra 'se se oketšegilego, se se salago', mo le šumišwa ka go swana le mo mošomonong wa dithunya"
+    }
+  ],
+  "translation": "Ka gobane bonang, ba-bebe ba kgoma ka maoto dithunya tša bona, ba ahome mesele tša bona go thapo, go thunya ka lefsifsi bao ba lokoago pelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/11\/1-4.1792297299479.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ba-bebe"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "ba kgoma ka maoto"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "dithunya"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "ba ahome"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "mesele tša bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "thapo"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "go thunya"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "bao ba lokoago"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:39.480349354Z",
+  "model": "glm-5.3"
+}

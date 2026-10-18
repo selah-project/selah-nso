@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka seatla sa",
+      "rationale": "ביד מmele ka seatla — "
+    },
+    {
+      "kind": "addition",
+      "subject": "wa gagwe",
+      "rationale": "Seheberu se na le עבדו fela; seabi sa Sepedi se okeditšwe"
+    }
+  ],
+  "translation": "Gomme ba mo hlabela ⟨את⟩, gomme Yisraele ka moka ba mo llela, go ya ka lentšu la Yahwe leo a le boletšego ka seatla sa mohlanka wa gagwe Ahiya moprofeta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b613fb4a69e6e61f087c9a29523fdc040470c246717ed8d162307ed9a82ccb64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/14\/17-20.1792290109771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "ba hlabela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "ba llela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "go ya ka lentšu la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a le boletšego"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mohlanka wa gagwe"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Ahiya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moprofeta"
+    }
+  ],
+  "timestamp": "2026-10-18T02:21:49.772294822Z",
+  "model": "glm-5.3"
+}

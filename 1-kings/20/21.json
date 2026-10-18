@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikoloi",
+      "rationale": "הרכב se ka bolela dikoloi goba balaodi ba dikoloi; mo go tšewa bjalo ka dikoloi tša ntwa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מכה גדולה",
+      "rationale": "go boelediša modu wa go otla (ויך · והכה · מכה) ga ga fetolwa ka botlalo ka Sepedi"
+    }
+  ],
+  "translation": "Gomme kgoši ya Yisraele a tšwa, a otla ⟨את⟩ dipere le ⟨את⟩ dikoloi, gomme a otla Arame ka go otla kgolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "889dae7ce904527d9eaaf6e39f9b90c8f263e676245d73c310d8510a07336956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/20\/21-24.1792290285096.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "gomme a tšwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipere"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "dipere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikoloi"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "dikoloi"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "gomme a otla"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "ka go otla"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "kgolo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:24:45.096563436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census list",
+      "rationale": "Count of returnees, 1254."
+    },
+    {
+      "kind": "crux",
+      "subject": "yo mongwe",
+      "rationale": "אחר 'the other' — marks second Elam clan distinct from Elam in v.7."
+    }
+  ],
+  "translation": "Ba bana ba Elame yo mongwe, sekete makgolo a pedi masomehlano le nne.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a014fb8a5a030dc83f370f3a023c1406f6883c2cf8cc8359cd378208b35084cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/2\/29-32.1792302102621.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ba bana ba"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elame"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yo mongwe"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "makgolo a pedi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masomehlano"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "le nne"
+    }
+  ],
+  "timestamp": "2026-10-18T05:41:42.622118329Z",
+  "model": "glm-5.3"
+}

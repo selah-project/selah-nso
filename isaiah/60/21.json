@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 60:21",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדיקים ka lekhubu la tsedeke go ya le D2, e sego lentšu la Sepedi le bolelago 'ba lokilego' fela"
+    },
+    {
+      "kind": "addition",
+      "subject": "e tla ba",
+      "rationale": "Seheberu se se na kopula; go nyakega ke Sepedi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mošolo",
+      "rationale": "נצר e ka boela e bolele 'latolano\/moswa' — mošolo (selo se se tšwago go setlare) ke seswantšho sa motheo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "go ya le lekatšho",
+      "rationale": "לעולם bolela nako yeo e sa bopelwago — go hlakantšha palo ya nako"
+    }
+  ],
+  "translation": "Gomme setšhaba sa gago ka bophara e tla ba batho ba tsedeke, go ya le lekatšho ba tla ruša lefase; ba šala bjalo ka mošolo wa go talwa ga me, mošomo wa diatla tša ka, gore ke ipašiše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fb7108b4f69f7d3a7bf06b03d9fc21ca27a2a6eb29965b2bda7f0825b097292f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/60\/21-22.1792292471701.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועמך",
+      "gloss": "gomme setšhaba sa gago"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ka bophara"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "batho ba tsedeke"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le lekatšho"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "ba tla ruša"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "mošolo"
+    },
+    {
+      "surface": "מטעו",
+      "gloss": "wa go talwa ga me"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wa diatla tša ka"
+    },
+    {
+      "surface": "להתפאר",
+      "gloss": "gore ke ipašiše"
+    }
+  ],
+  "timestamp": "2026-10-18T03:01:11.702351748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mošomo wa go robala",
+      "rationale": "משכבי אשה ke poelo ya kama — 'dipoelo tša go robala le mosadi' e boloka sebopego sa bontši sa go aga."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopula; Seheberu se e hloka."
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ monna o se ke wa robala mošomo wa go robala le mosadi — se sengwe se se hlonišwago ke ⟨ke⟩ sona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6d461c2b5031aba06a10c5fb7516bd1edc5782b69c67e7ca1c7918f84e3ed068",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/18\/21-24.1792283965715.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "go robala"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "dipoelo tša go robala le"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "se sengwe se se hlonišwago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke sona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:39:25.716634100Z",
+  "model": "glm-5.3"
+}

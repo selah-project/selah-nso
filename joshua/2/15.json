@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 2:15",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yena",
+      "rationale": "Sepedi se nyaka moledi; Seheberu se theohetša ka go diriša ותורדם fela"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ka mpong wa sekorong",
+      "rationale": "בקיר החומה — »ka mpong wa sekorong« goba »ka thoko ya sekorong«; mpongo ke lefelo la go hloma sekorong"
+    }
+  ],
+  "translation": "Yena a ba theohetša ka thogo ka gare ga lešatlelo, gobane ntlo ya gae e be e le ka mpong wa sekorong, gomme o be a dutše ka sekorong.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "63373f8dddbe3773b4d3b96054d551194ce89e272db505046d3ad8edfbe62511",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/2\/13-16.1792286583058.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותורדם",
+      "gloss": "Yena a ba theohetša"
+    },
+    {
+      "surface": "בחבל",
+      "gloss": "ka thogo"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ka gare ga"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "lešatlelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ntlo ya gae"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ka mpong wa"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "sekorong"
+    },
+    {
+      "surface": "ובחומה",
+      "gloss": "gomme ka sekorong"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "a dutše"
+    }
+  ],
+  "timestamp": "2026-10-18T01:23:03.059760571Z",
+  "model": "glm-5.3"
+}

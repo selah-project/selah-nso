@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bakrube",
+      "rationale": "כרובים ke leina la Seheberu la bophelo bja kgorokgatho; le fetotšwe ka tsela ya ngwao"
+    }
+  ],
+  "translation": "Yahwe o buša; dišhaba di thotheka; o dutše godimo ga bakrubeng; lefase le thotheka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/99\/1-4.1792298520795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o buša"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "di thotheka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "dišhaba"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o dutše"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "godimo ga bakrubeng"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "le thotheka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:00.796352663Z",
+  "model": "glm-5.3"
+}

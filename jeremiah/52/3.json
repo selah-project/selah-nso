@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 52:3",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "על אף",
+      "rationale": "Sefapano sa Seheberu — 'godung ga nko' — se bolela bolale; ka Sepedi 'ka bolale bja'."
+    },
+    {
+      "kind": "addition",
+      "subject": "gomme",
+      "rationale": "Copula e okeditšwego pele ga 'Tsidkiyahu a ganetša'; Seheberu se e senyeditše ka wayyiqtol."
+    }
+  ],
+  "translation": "Ka gobane ka bolale bja Yahwe go diregetše go Yerushalayime le go Yehuda, go fihla a ba a di lahla kgolelego le sefahlego sa gagwe; gomme Tsidkiyahu a ganetša kgoši ya Babel.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ee63cec80bc7787ee7ba87ba6f8918cf90a2296d933781515bf74d13fbb3fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/52\/1-4.1792294353870.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bolale bja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "go diregetše"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "go Yerushalayime"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "le go Yehuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "השליכו",
+      "gloss": "a ba a di lahla"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime le Yehuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kgolelego le"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahlego sa gagwe"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "a ganetša"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kgoši ya"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    }
+  ],
+  "timestamp": "2026-10-18T03:32:33.873521364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "Seheberu se re 'nose\/leinose' ya Yahwe — ke sebopego sa tlhohlo; Sepedi se hlalosa ka 'tlhohlo' ka gobane 'nose ya Yahwe' e ka tshosa ka nnete."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "gloss-note": "",
+      "rationale": "על אף e šoma bjalo ka sekopanyi se tee ('ka baka la tlhohlo ya') — על a ba hlapa mo go bolelwa."
+    }
+  ],
+  "translation": "Ka gobane tlhohlo ya Yahwe e be e le gare ga Yerushalayime le go Yuda, go fihla ge a ba hlaoletša ⟨את⟩ bona go tšwa sefahlegong sa gagwe; gomme Tsedekiahu a ipelaedi kgahlanong le kgoši ya Babilona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9f82d92d5ea9cf66f9541c3c4d8fbe100e2a2d7e75ae80c3ebcf3db8231733ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/24\/17-20.1792291143899.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tlhohlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "e be e le gare"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ga Yerushalayime"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "le go Yuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla ge"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "a ba hlaoletša"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "Yerushalayime le Yuda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "go tšwa godimo ga"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahlego sa gagwe"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "a ipelaedi kgahlanong le"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsedekiahu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Babilona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:03.900698032Z",
+  "model": "glm-5.3"
+}

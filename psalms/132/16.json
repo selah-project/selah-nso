@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pholoso",
+      "rationale": "ישע ke pholoso\/tokoloho — seaparo sa pholoso ke seswantšho, e sego selo sa mmatota."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רנן ירננו",
+      "rationale": "Go boelediša infinitive absolute go matifatša go opela; Sepedi o boelediša ka go feletša."
+    }
+  ],
+  "translation": "Gomme baperisita ba yona ke tla ba apesa pholoso, gomme bakgethwa ba yona ba tla opela ka thabo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/132\/13-16.1792298916607.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "gomme baperisita ba yona"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ke tla ba apesa"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "pholoso"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "gomme bakgethwa ba yona"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "ba tla opela ka thabo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "opela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:36.609455799Z",
+  "model": "glm-5.3"
+}

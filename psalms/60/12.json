@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Elohim",
+      "rationale": "direct address to God with vocative Elohim twice"
+    },
+    {
+      "kind": "crux",
+      "subject": "tense of זנחתנו",
+      "rationale": "past 'you have rejected us' vs KJV relative 'who hadst cast us off'"
+    }
+  ],
+  "translation": "A ga wena, Elohim, wa re gana, gomme ga o tšwago, Elohim, le masole a rena?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c02e51728684459ebb22d1877dc862e70799cfd34f5b52f77423e5fc6312d32d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/60\/9-12.1792298020244.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a ga ... na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "wa re gana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "o tšwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "le masole a rena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:40.245462511Z",
+  "model": "glm-5.3"
+}

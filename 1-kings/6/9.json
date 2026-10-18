@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גבים",
+      "rationale": "Beams\/logs vs. 'vaults' (Geneva) vs. 'back of the house' — word here rendered literally as hewn logs (maphologlo)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ושדרת",
+      "rationale": "Rows\/ranks of cedar planking — architectural ordering term for the ceiling structure."
+    }
+  ],
+  "translation": "A ka gona a aga ⟨את⟩ ntlo gomme a e phetha; a kgokgola ⟨את⟩ ntlo ka maphologlo le methalo ya dikherute.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b291258192b9064879a8291a92eedb88d5b66afdef0b548eeb45d4d9e83554b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/6\/9-12.1792289686811.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "a ka gona a aga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "gomme a e phetha"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "a kgokgola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "maphologlo"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "methalo"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "ya dikherute"
+    }
+  ],
+  "timestamp": "2026-10-18T02:14:46.812178718Z",
+  "model": "glm-5.3"
+}

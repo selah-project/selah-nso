@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רחמה \/ לא רחמה",
+      "rationale": "Leina la ngwana Lo-Rukhamá (e sa ruamolwago) le fedišwa mo — ruamolo e boa go yena yena; phetišo ya Sepedi e boloka leina ka hyphen."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמי \/ לא עמי",
+      "rationale": "Go gana le go amogela ga leina Lo-Ami (e sego setšhaba sa ka) — go bolelwa gate-gate, kgwerano e bušwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "וזרעתיה",
+      "rationale": "'Ke tla mo hlakela' — kgetsi: go hlakela mosadi (Yisraele) bjalo ka mobu, goba go hlakela peo ya batho; goba go hlakela yena bjalo ka peo; diphetholelo tše tharo di le gona."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨wa ka⟩",
+      "rationale": "Seheberu se re אלהי fela (Elohim wa ka) — sekopanyi se okeditšwe go fa pene ya boikokobetši."
+    }
+  ],
+  "translation": "Gomme ke tla mo hlakela go nna lefaseng, gomme ke tla ruamola ⟨את⟩ Lo-Rukhamá ⟨yo a sa ruamolwago⟩, gomme ke tla re go Lo-Ami ⟨e sego setšhaba sa ka⟩: Setšhaba sa ka ke wena; gomme yena o tla re: Elohim ⟨wa ka⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6fec8fedddb02aaf41659331e6ab37dadc165c57a0d9da86dba00d845b119ec8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/2\/25-25.1792295859196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "gomme ke tla mo hlakela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefasing"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "gomme ke tla ruamola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Rukhamá"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo- (e sego)"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rukhamá (yo a ruamolwago)"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "gomme ke tla re"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "go Lo- (go e sego)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami (setšhaba sa ka)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ke wena"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "gomme yena"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o tla re"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T03:57:39.197266317Z",
+  "model": "glm-5.3"
+}

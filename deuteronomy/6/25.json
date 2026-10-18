@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 6:25",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדקה e swanetše go dula e le tsedeke ka moo D2 — e sego tokelo fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "KJV 'if' kgathanong le 'when\/for' — ge e le maemo goba lebaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדקה\/צונו",
+      "rationale": "Go tšwela pele ga modu wa ts (tsedeke, taelo) — go se dule go Sepedi"
+    }
+  ],
+  "translation": "Gomme tsedeke e tla ba ⟨go⟩ rena, ge re šireletša go dira ⟨את⟩ tšohle tša taelo ye, pemafatšeng ga Yahwe Elohim wa rena, bjalo ka ge a re laetše.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "61eb7d50b67b102def9a9a4cd84464eebc53118bdacc023ad6634e93a63dd5d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/6\/25-25.1792285602538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדקה",
+      "gloss": "Gomme tsedeke"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "re šireletša"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tšohle tša taelo ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pemafatšeng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rena"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "צונו",
+      "gloss": "a re laetše"
+    }
+  ],
+  "timestamp": "2026-10-18T01:06:42.539022325Z",
+  "model": "glm-5.3"
+}

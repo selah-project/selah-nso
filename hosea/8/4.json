@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 8:4",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "di",
+      "rationale": "kopanyi e okeditšwe go 'tseba' le 'dira' ka gobane Sepedi e nyaka sehlaka sa bontši"
+    },
+    {
+      "kind": "crux",
+      "subject": "ba tlošwe",
+      "rationale": "יכרת: 'go tlošwa' (cut off) goba 'go fediwa' ka mafelelo — sebopego se se sa bonagalago"
+    }
+  ],
+  "translation": "Ba dirile dikgoši, e sego go tšwa go nna; ba dirile balaodi, gomme nna ga ke a di tseba. Silibera ya bona le gauta ya bona ba di dirile diswantšho go bona, gore ba tlošwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/8\/1-4.1792296053089.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המליכו",
+      "gloss": "ba dirile dikgoši"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e sego"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tšwa go nna"
+    },
+    {
+      "surface": "השירו",
+      "gloss": "ba dirile balaodi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke a di tseba"
+    },
+    {
+      "surface": "כספם",
+      "gloss": "silibera ya bona"
+    },
+    {
+      "surface": "וזהבם",
+      "gloss": "gomme gauta ya bona"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dirile"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "diswantšho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "ba tlošwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:00:53.090528308Z",
+  "model": "glm-5.3"
+}

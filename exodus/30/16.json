@@ -1,0 +1,134 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 30:16",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go fedisa sebe",
+      "rationale": "כפר literally 'go kwala\/go bataka' (cover); 'go fedisa sebe' ke bokao, seane sa go kwala se laetšwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "meya",
+      "rationale": "נפש ke 'morogo wa moya\/theko ya bophelo' — sehlogi sa go hema le bophelo, e sego moea wa ka ntle"
+    },
+    {
+      "kind": "measurement",
+      "subject": "silibera ya go fedisa sebe",
+      "rationale": "temana e šoma ka sekelo sa silibera seo setšhaba se se lekanago ka sona"
+    },
+    {
+      "kind": "elision",
+      "subject": "אוהל מועד",
+      "rationale": "'tende ya kopano' — מועד bolela 'nako yeo e kgethilwego', kopano ke karolo ya yona fela"
+    }
+  ],
+  "translation": "Gomme o tla tšea ⟨את⟩ silibera ya go fedisa sebe go tšwa ⟨את⟩ go barena ba Yisraele, gomme o e bea go mošomong wa tende ya kopano; gomme e tla ba bakgopolo go barena ba Yisraele ka pele ga Yahwe, go fedisa sebe bakeng sa meya ya gago.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ddd46e40fea0815559b9a4f2e49d587d0bf11e2b269c5eea15f1dc0cdfe9f595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/30\/16-16.1792304621579.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "gomme o tla tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silibera"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "הכפרים",
+      "gloss": "ya go fedisa sebe"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tšwa ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "go barena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "gomme o e bea"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "silibera"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "mošomong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "teng ya"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "kopano"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme e tla ba"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go barena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "bakgopolo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "go fedisa sebe"
+    },
+    {
+      "surface": "על",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "meya ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:41.580079248Z",
+  "model": "glm-5.3"
+}

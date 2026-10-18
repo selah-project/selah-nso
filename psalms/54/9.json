@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עיני",
+      "rationale": "Sepedi e ngwalwa ka 'pelo' fela — 'e bone ka pelo' (e bone pelo-ya-ka), e sego 'pelo-ya-ka' ka mošomo o tee."
+    },
+    {
+      "kind": "crux",
+      "subject": "go hlaba ka pelo",
+      "rationale": "'Gomme pelo-ya-ka e bone manaba a ka' — e ka ba 'e bone' goba 'e bone sephiri seo se nyakilwego' — Hebreu o bolela fela go hlaba ka pelo, ka gobane e bolela 'e bone manaba a ka'."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "Ka bobedi bja diphetho, go bonala gore 'e bone ⟨go⟩ manaba' — ⟨go⟩ e hlakile ka bobedi bja mehlala."
+    }
+  ],
+  "translation": "Gobane o ntšhitše go tšwa go bothata bohle; gomme pelo-ya-ka e bone manaba a ka!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "826d8d16dd036ec13b32673ff7576212e0192b305b959f59d0736afb05f11d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/54\/9-9.1792297828198.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go bothata bohle"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "bothata"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "o ntšhitše"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "gomme manaba a ka"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "e bone"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "pelo-ya-ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:28.199327449Z",
+  "model": "glm-5.3"
+}

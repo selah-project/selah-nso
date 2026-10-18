@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נָזֹרוּ",
+      "rationale": "From זור 'to be estranged\/foreign' — 'they are estranged' (ASV) vs 'they have turned away' (KJV 'gone away backward'); I read separation-estrangement with backward motion."
+    },
+    {
+      "kind": "crux",
+      "subject": "קָדוֹשׁ יִשְׂרָאֵל",
+      "rationale": "'The Holy One of Israel' — construct pair rendered as 'Yo a kgethwang ga Yisraele' keeping -kgethwa root, not a title."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כֶּבֶד עָוֺן",
+      "rationale": "Literally 'heavy of iniquity' — weight picture kept with 'go tletše bodumo bjo bo bokoto'."
+    }
+  ],
+  "translation": "Mokgwa! Setšhaba sa sebe, batho ba diketekete tša go tletše bodumo bja bona bjo bo bokoto, peu ya bao ba bološago dibe, bana ba senyago dilo! Ba tlogetše ⟨את⟩ Yahwe, ba hloniphile ka tshego ⟨את⟩ Yo a kgethwang ga Yisraele, ba fokotše magoro, ba boela ka morago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6beb105412b3d0f341ff93a7b970e93c6ed9f7caf9493d7e48af5de34a864aa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/1\/1-4.1792291163873.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mokgwa"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "Setšhaba"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sa sebe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ba diketekete tša go tletše"
+    },
+    {
+      "surface": "עון",
+      "gloss": "bodumo bja bona bjo bo bokoto"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peu ya"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "bao ba bološago dibe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "ba senyago dilo"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Ba tlogetše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "ba hloniphile ka tshego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yo a kgethwang ga Yisraele"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Yo a kgethwang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ga Yisraele"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ba fokotše magoro"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ba boela ka morago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:23.874380695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מצור",
+      "rationale": "Seheberu se bolela go tswalelwa ka mokgoro; 'ya phemelo' ke seswantšho sa mabotlo le mabati"
+    },
+    {
+      "kind": "hapax-lite",
+      "subject": "דלתים",
+      "rationale": "D4: דלת = lebati (mabati), e sego mantšu a Sesarwa"
+    }
+  ],
+  "translation": "Gomme a aha ⟨את⟩ Beti-Khorone ya godimo le ⟨את⟩ Beti-Khorone ya tlase, metse ya phemelo, ka mabotlo, mabati le ditlhago.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "0cd70edb6853391723cb2988f4c5aaba27d706b0e18de56ecae86812517c383d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/8\/5-8.1792303845538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "gomme a aha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Beti-Khorone ya godimo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khorone"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "ya godimo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "Beti-Khorone ya tlase"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Khorone"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "ya tlase"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "metse"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ya phemelo"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ka mabotlo"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "mabati"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "gomme ditlhago"
+    }
+  ],
+  "timestamp": "2026-10-18T06:10:45.539302799Z",
+  "model": "glm-5.3"
+}

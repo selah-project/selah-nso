@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "עצביהם ke diswantšho tša bokgopolo bjo fošagetšego — 'medimo' ka ditlhaka tše nnyane go ya ka D1"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le kopula — thwii, 'medimo ya tšona ke silibera le gauta'"
+    }
+  ],
+  "translation": "Medimo ya tšona ke silibera le gauta, mošomo wa matsogo a motho.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "80ac09966d24a74ffa4fcbea3480205d886b56e155f1cf2c46148ec88c69fb48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/115\/1-4.1792298742216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "medimo ya tšona"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wa matsogo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a motho"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:42.217273727Z",
+  "model": "glm-5.3"
+}

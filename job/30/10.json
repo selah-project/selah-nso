@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא חשכו רוק",
+      "rationale": "mothalo o tlwaelegilego: 'ba sa kwale go thuša ledadwa' — ka mo go tlwaelegilego 'ba sa kwale' go ra 'ba sa thwalela'"
+    },
+    {
+      "kind": "addition",
+      "subject": "pela ga",
+      "rationale": "sefahlego sa ka se okeditšwe go hlalosa ומפני ('go tšwa pele ga')"
+    }
+  ],
+  "translation": "Ba a nkgetholla, ba phamokile go tšwa go nna, gomme ba sa kwale go thuša ⟨⟨את⟩⟩ ledadwa pele ga sefahlego sa ka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5f0153dd18d773e011828fed1b0ffa7ee396034e6a1f8a95a34c555a0ed36fa8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/30\/9-10.1792305373203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "ba a nkgetholla"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ba phamokile"
+    },
+    {
+      "surface": "מני",
+      "gloss": "go tšwa go nna"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "gomme pele ga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "go se"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ledadwa"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:13.204080938Z",
+  "model": "glm-5.3"
+}

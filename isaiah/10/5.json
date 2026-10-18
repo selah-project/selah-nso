@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "motse wa go gafiša",
+      "rationale": "šebeṭ ke motse wa go gafiša, seka ya kahlolo; 'motse' o tšewa ka bophara bjalo ka seswantšho sa bocta"
+    },
+    {
+      "kind": "crux",
+      "subject": "בידם",
+      "rationale": "'matsogong a bona' — a bona ke a mang? Balaodi ba fapafapana: ba ya go Ashure ka boyona goba setšhaba se se hlaselwago"
+    }
+  ],
+  "translation": "Masete a mahloni a Ashure, motse wa go gafiša wa bokgalefo bja ka, gomme sediriwa se se lego matsogong a bona ke bohaso bja ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "72a4b3ba927cd8fca3378ed039270af7912f4756d2bef4ce077f09bd8f6979eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/10\/5-8.1792291376189.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "masete a mahloni"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "motse wa go gafiša"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "bokgalefo bja ka"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "gomme sediriwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "matsogong a bona"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "bohaso bja ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:42:56.189852053Z",
+  "model": "glm-5.3"
+}

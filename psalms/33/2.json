@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "lebohang ... opelang",
+      "rationale": "Sefoko sa go laela sa go leboha le go opela ka diphuputlo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mela e lesome",
+      "rationale": "עשור e bala mela e lesome ya sebinwa — palo e bolokwa ka botlalo."
+    }
+  ],
+  "translation": "Lebohang Yahwe ka kinora; opelang go yena ka nevele ya mela e lesome.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f9ffe45fb34d931b0cbbb06d4112e266f1b27b006bca2088bcc7503e8e40fae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/1-4.1792297544980.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "lebohang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kinora"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ka nevele"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ya mela e lesome"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "opelang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:44.981221058Z",
+  "model": "glm-5.3"
+}

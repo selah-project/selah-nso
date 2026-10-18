@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lefsifsi",
+      "rationale": "חשך ke lefsifsi\/sefsifsi; ga se Sheole (D2)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "digagabi tša naga",
+      "rationale": "חיתו יער — diphoofolo tša naga (D4b), tše di gagabago (רמש)"
+    },
+    {
+      "kind": "addition",
+      "subject": "go sona",
+      "rationale": "בו — sephephedi se okeditšwe go hlaloša gore bosigo ke sona"
+    }
+  ],
+  "translation": "O bea lefsifsi, gomme e ba bosigo; go sona digagabi ka moka tša naga di gagaba.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "6f816bd3a769faf315649daa0d0f319923606ac96573d8515d07bd9e970f60ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/20-20.1792305250188.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "O bea"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "gomme e ba"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go sona"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "di gagaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "digagabi tša naga"
+    },
+    {
+      "surface": "יער",
+      "gloss": "naga"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:10.188611542Z",
+  "model": "glm-5.3"
+}

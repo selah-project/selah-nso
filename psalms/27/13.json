@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ge e sego",
+      "rationale": "לולא e bolela 'ge e sego' fela — diphetholelo tše mmalwa di oketša 'nka be ke hlokile' seo Seheberu se sa se rego."
+    },
+    {
+      "kind": "alternative",
+      "subject": "lefaseng la ba phelago",
+      "rationale": "E ka boela e re 'lefaseng la bophelo' — בארץ חיים ke lefase la ba phelago, e sego lefatshe la lehu."
+    }
+  ],
+  "translation": "Ge e sego, ke be ke dumeletše go bona ⟨את⟩ botse bja Yahwe lefaseng la ba phelago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7279dd61c31884fd87504f0892046dbd010a32df671d465ed354dd2a9719f65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/27\/13-14.1792297410510.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "ge e sego"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ke dumeletše"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "botse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ba phelago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:30.510744892Z",
+  "model": "glm-5.3"
+}

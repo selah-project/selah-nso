@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כי בא כי בא",
+      "rationale": "Poeletšo ya go baakanya: 'ka gobane o a tla, ka gobane o a tla' — go tiiletša boetelo, e bolokilwe ka botlalo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדק e bolokwa bjalo ka tsedeke go ya ka D2, e sego 'toko'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lefase lefsa",
+      "rationale": "תבל ke lefase le nang le badudi; 'lefase lefsa' e bontšha phapano le הארץ."
+    },
+    {
+      "kind": "crux",
+      "subject": "באמונתו",
+      "rationale": "'boikanyego bja gagwe' kgathanong le 'nnete ya gagwe' (KJV); emunah e bolela botlhaga le tshepo ka nako e tee."
+    }
+  ],
+  "translation": "Pele ga Yahwe, ka gobane o a tla, ka gobane o a tla go ahlola lefase; o tla ahlola lefase lefsa ka tsedeke, gomme ditšhaba ka boikanyego bja gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7608e0ee44926bb4a0ac680cae1383f608f02699b88e5e1ea78d579a01d91da7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/96\/13-13.1792298427139.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o a tla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "o a tla"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "go ahlola"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o tla ahlola"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefase lefsa"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "gomme ditšhaba"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "ka boikanyego bja gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:27.139642336Z",
+  "model": "glm-5.3"
+}

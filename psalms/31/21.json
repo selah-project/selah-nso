@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 31:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רֻכְסֵי",
+      "rationale": "KJV e bolela 'boikakabetši' (linking to רָםַס?), fela modu wa lentšu ke 'diphapano tše di kgomaretšego' — meala ya motho."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בְּסֻכָּה",
+      "rationale": "Seheberu se bolela sekhukhwi\/ntlo ya nakwana (sukkah); 'phemelo' ke karolo ya seswantšho fela."
+    }
+  ],
+  "translation": "O ba uta ka sephiring sa sefahleho sa gago, go tšwa diphapanong tša motho; o ba fitlha ka phemelong, go tšwa kganetšong ya dilofu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "68cb93ed3f4736f9409d2fa87775ae44f66645454f61aa0c138273ed22712673",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/31\/21-24.1792297588558.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תַּסְתִּירֵ֤ם",
+      "gloss": "o ba uta"
+    },
+    {
+      "surface": "בְּסֵ֥תֶר",
+      "gloss": "ka sephiring"
+    },
+    {
+      "surface": "פָּנֶיךָ֮",
+      "gloss": "sa sefahleho sa gago"
+    },
+    {
+      "surface": "מֵֽרֻכְסֵ֫י",
+      "gloss": "go tšwa diphapanong tša"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "motho"
+    },
+    {
+      "surface": "תִּצְפְּנֵ֥ם",
+      "gloss": "o ba fitlha"
+    },
+    {
+      "surface": "בְּסֻכָּ֗ה",
+      "gloss": "ka phemelong"
+    },
+    {
+      "surface": "מֵרִ֥יב",
+      "gloss": "kganetšong"
+    },
+    {
+      "surface": "לְשֹׁנֽוֹת",
+      "gloss": "ya dilofu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:28.559606903Z",
+  "model": "glm-5.3"
+}

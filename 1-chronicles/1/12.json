@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tšwa go ba-Kaslukhime",
+      "rationale": "Mongwalo wa Seheberu o re Pelishtime le ba-Khaftorime ka bobedi ba tšwa go ba-Kaslukhime; Amose 9:7 o re Pelishtime ba tšwa Khaftore — ba-fetoledi ba hlakanya ka gore ke bao."
+    },
+    {
+      "kind": "measurement",
+      "subject": "lenane la maina",
+      "rationale": "Go tšweletšwa maina a ditšhaba tša Mitsrayime."
+    }
+  ],
+  "translation": "le ⟨את⟩ ba-Pathrusime, le ⟨את⟩ ba-Kaslukhime, bao go tšwa go bona Pelishtime ba ile ba tšwa gona, le ⟨את⟩ ba-Khaftorime.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/1\/9-12.1792302784353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba-Pathrusime"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "ba-Pathrusime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba-Kaslukhime"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "ba-Kaslukhime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ba ile ba tšwa"
+    },
+    {
+      "surface": "משם",
+      "gloss": "go tšwa gona"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Pelishtime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba-Khaftorime"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "ba-Khaftorime"
+    }
+  ],
+  "timestamp": "2026-10-18T05:53:04.355123372Z",
+  "model": "glm-5.3"
+}

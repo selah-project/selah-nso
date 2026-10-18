@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "la bošupa la kgwedi",
+      "rationale": "Palo ya letšatši la kgwedi ya tlala ye maatla."
+    },
+    {
+      "kind": "elision",
+      "subject": "kgwedi ya bone",
+      "rationale": "Seheberu se se ra 'la bošupa la kgwedi' fela; 'ya bone' (KJV) e tšwa go Jeremia 52:6."
+    }
+  ],
+  "translation": "Ka la bošupa la kgwedi, tlala e ile ya nonotšha toropong, gomme go be go se na bogobe bakeng sa setšhaba sa lefase.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "793c1b79d6a46f73a9d80ef205e48a6527eba2c2b3bdf4185fe617aa96db5e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/25\/1-4.1792291212914.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "ka la bošupa"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ya nonotšha"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme … go se"
+    },
+    {
+      "surface": "היה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "bakeng sa setšhaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T02:40:12.915037943Z",
+  "model": "glm-5.3"
+}

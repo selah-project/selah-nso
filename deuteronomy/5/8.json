@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "magodimo\/lefase\/meetse",
+      "rationale": "Thaloso ya mahlakoretharo: godimo-tlase, lefaseng-meetse-ka tlase ga lefase — sebopego sa boraro se a bolokwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "meetse",
+      "gloss": "במים — meetse ka mehla go ya ka D4b; AOWA metsi"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Taelo ya bobedi ya maswao e rwalelwa setšhaba ka moka"
+    }
+  ],
+  "translation": "O se ke wa ipa sešwantšho, goba sebopego sa selo se sengwe le se sengwe se lego magodimong ka godimo, le se lego lefaseng ka tlase, le se lego meetse ka tlase ga lefase.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1ab2b47b3bedfc51dff3f23060f3249dcc99b48e3c942b5e8b93855b84089811",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/5\/5-8.1792285642577.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wa dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena (ip-)"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "sešwantšho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "goba sepele sa"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "sebopego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se lego"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "magodimong"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ka godimo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le se lego"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ka tlase"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le se lego"
+    },
+    {
+      "surface": "במים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ka tlase"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ga lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T01:07:22.578373175Z",
+  "model": "glm-5.3"
+}

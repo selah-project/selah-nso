@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsaraata",
+      "rationale": "צרעת e ngwalwa ka modumo wa Seheberu — e akaretša mahlagare a letlalo, e sego bosenyi fela"
+    },
+    {
+      "kind": "you",
+      "subject": "to the priest",
+      "rationale": "Taelo ye e bolela moperisita bjalo mošebiši wa molao wa go hlweka"
+    }
+  ],
+  "translation": "Mohlagare wa tsaraata ge o ka ba mothong, o tlaiswa go moperisita.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "bf112fd9d88e557a50c7eefe5f66867285070aa8f1b078b92fe30de7d213cd86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/13\/9-12.1792283866217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "mohlagare"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o ka ba"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "mothong"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "o tlaiswa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    }
+  ],
+  "timestamp": "2026-10-18T00:37:46.217949003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "matsogo a gago",
+      "rationale": "ערב... תקעת כפיך ke go o ka matsogo — go bakwa sebopego sa go o ka; go itwala ke puo ya kgwerano"
+    },
+    {
+      "kind": "idiom",
+      "subject": "תקעת כפיך",
+      "rationale": "'go o ka matsogo' — seka ya kgwerano ya Seheberu, go o ka ka matsogo go tiša tumalano"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ערבת \/ ערב",
+      "rationale": "go itwala le go kopanya (go braiša) — lentšu le tee la go kopanya sephiri"
+    },
+    {
+      "kind": "you",
+      "subject": "morwa wa ka",
+      "rationale": "go leletšwa morwa ka tlhamalalo — thaloso ya mofetoledi ya go mo laela"
+    }
+  ],
+  "translation": "Morwa ⟨wa⟩ ka, ge o ile wa itwala bakeng sa mogwera wa gago, ge wa o ka matsogo a gago le ⟨את⟩ mošwi,",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "22e60ea6b269e151b357a08a77079e7bcef97a35cbe3fd86b6e914bf7c1873d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/6\/1-2.1792305325462.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "morwa ⟨wa⟩ ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "wa itwala"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "bakeng sa mogwera wa gago"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "wa o ka matsogo a gago"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "le"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "⟨את⟩ mošwi"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:25.462869175Z",
+  "model": "glm-5.3"
+}

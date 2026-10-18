@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebe",
+      "rationale": "דבר רע — 'taba ye mpe'; sebe e swara bothata bja setho"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ga a tla go tseba",
+      "rationale": "goba 'ga a ikwe'; ידע דבר רע = go ikwa seo se mpe"
+    }
+  ],
+  "translation": "Yo a hlolkago taelo ga a tla go tseba sebe, gomme nako le kahlolo pelo ya sehlodi e a di tseba.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "56a3026b6825d76560ccd71f2baf9a4a0c548ba5efe2520948e03917e6f3f2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/8\/5-8.1792301479272.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "yo a hlolkago"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a tla go tseba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "gomme nako"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le kahlolo"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "e a di tseba"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ya sehlodi"
+    }
+  ],
+  "timestamp": "2026-10-18T05:31:19.273148154Z",
+  "model": "glm-5.3"
+}

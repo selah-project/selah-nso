@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 55:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba",
+      "rationale": "sehlodi sa bontši se okeditšwe — Seheberu se ntšha sehlodi (יסובבה) fela, mokgobo le 'yona' ke mošomo wa seswantšho"
+    }
+  ],
+  "translation": "Mosegare le mosegare le bosigo ba e dikologa godimo ga mokgobo wa yona, gomme bošula le phenyegi di gare ga yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ac333cb8fe8857c295668f5ef1a8d7060fe07603a3495b294a1e96f891a7827b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/55\/9-12.1792297871542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "mosegare le mosegare"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "gomme bosigo"
+    },
+    {
+      "surface": "יסובבה",
+      "gloss": "ba e dikologa"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "חומתיה",
+      "gloss": "mokgobo wa yona"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "gomme bošula"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "gomme phenyegi"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "gare ga yona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:11.543289080Z",
+  "model": "glm-5.3"
+}

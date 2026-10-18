@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "modumo wa Seheberu 'ka molomo wa tšhoša' — kgwantšhi ya Sepedi e ka re 'ka maatla a tšhoša', fela sebopego sa molomo se bolokwa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משפחתו",
+      "rationale": "lapa la yena — sephetho sa lotso, e sego lapa fela."
+    }
+  ],
+  "translation": "Gomme a ba bontšha ⟨את⟩ mošeno wa motse, mme ba otla ⟨את⟩ motse ka molomo wa tšhoša; mme ⟨את⟩ monna le ⟨את⟩ lapa la yena ka moka ba ba romile kgole.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "7b2804b92da97afeeff116791ab6cc0e7326b5c49a1af8fe63bb969c9907a670",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/1\/25-28.1792287135070.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "a ba bontšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mošeno wa motse"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "mošeno"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "motse"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "molomo wa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "monna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "lapa la yena ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "lapa la yena"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ba ba romile kgole"
+    }
+  ],
+  "timestamp": "2026-10-18T01:32:15.071052530Z",
+  "model": "glm-5.3"
+}

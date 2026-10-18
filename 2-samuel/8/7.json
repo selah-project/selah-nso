@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dithebe",
+      "rationale": "שלט hapax ebeditšwego — 'thebe' kgahlanong le 'diaparo tša go iphimola'; thebe e boloka motho"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שלטי",
+      "rationale": "šele e tšwa go lemma šele fela, mabapi le go šireletša"
+    }
+  ],
+  "translation": "Gomme Dafida a tšea ⟨את⟩ dithebe tša gauta tšeo di bego go mehlanka ya Hadadezere, a di isitše Yerushalayime.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "25fcba5ea5436c48696b93dc5e4836f1ca700ab725e9fb0d8576aa72734df495",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/8\/5-8.1792288961686.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tšea"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithebe tša gauta"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "dithebe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "tša gauta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di bego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mehlanka"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ya Hadadezere"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "a di isitše"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T02:02:41.687605276Z",
+  "model": "glm-5.3"
+}

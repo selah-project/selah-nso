@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "manaba",
+      "rationale": "שטני ke 'ba molaedi' (go satan: go anga), fela molaedi o ganwa D2 — manaba o šomišitšwe bjalo ka khutšollo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש e atametšego 'moya\/bophelo\/theko' — e sego 'moya' wa saense ya ka morago."
+    },
+    {
+      "kind": "elision",
+      "subject": "פעלת",
+      "rationale": "'Mošomo\/sephetho' — lentšu le bolela sehlolo sa go šoma, se feditšwe ka 'sephetho'."
+    }
+  ],
+  "translation": "Se ke sephetho sa manaba a ka, go tšwa go ⟨את⟩ Yahwe, le ba bolelago bobe ka bophelo bja ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d726760e8ad24e053ef4fc3d09ef9a0423cca03724ff79bba4bf68ea5f67ffa7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/109\/17-20.1792298734823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "sephetho sa mošomo"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "manaba a ka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tšwa go ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "le ba bolelago"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:34.824674461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ga motho",
+      "rationale": "Seheberu se re go feta letšatši la go belegwa — mmadi o nyaka gore ke wa mang."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב ... טוב",
+      "rationale": "Phetišo e phetišwa gabedi — sebotse sa leina le sebotse sa oli; sebopego se a swara sona."
+    }
+  ],
+  "translation": "Go botse leina go feta oli e botse, gomme letšatši la lehu go feta letšatši la go belegwa ⟨ga motho⟩.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/7\/1-4.1792301464045.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go botse"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "go feta oli"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e botse"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "gomme letšatši"
+    },
+    {
+      "surface": "המות",
+      "gloss": "la lehu"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "go feta letšatši"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "la go belegwa ga motho"
+    }
+  ],
+  "timestamp": "2026-10-18T05:31:04.046174966Z",
+  "model": "glm-5.3"
+}

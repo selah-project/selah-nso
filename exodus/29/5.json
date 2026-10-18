@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 29:5",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אפוד\/ואפדת",
+      "rationale": "Root ephod repeats: you gird on (veafadta) the ephod with the ephod's band — a threefold sound-play lost in Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "חשן",
+      "rationale": "Ḥoshen: 'pocket' vs 'breastplate' — the word's own meaning is uncertain; khošene keeps it as a proper term."
+    },
+    {
+      "kind": "addition",
+      "subject": "ya go hlaka",
+      "rationale": "בחשב is literally 'woven band'; 'go hlaka' supplied to keep the picture, bracketed."
+    }
+  ],
+  "translation": "Gomme o tla tšea ⟨את⟩ diaparo, gomme o apesa ⟨את⟩ Aharone ka ⟨את⟩ kutone, le ⟨את⟩ meila ya efode, le ⟨את⟩ efode, le ⟨את⟩ khošene; gomme o mo kgotła ka thapo ⟨ya go hlaka⟩ ya efode.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e0b179099b0afd145625d1f19bd8acc874ef4663746197638099005a56b00c0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/29\/5-8.1792283104888.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "gomme o tla tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "gomme o apesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kutone"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "kutone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "meila"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "meila"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ya efode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "efode"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "khošene"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "khošene"
+    },
+    {
+      "surface": "ואפדת",
+      "gloss": "gomme o mo kgotła"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "ka thapo"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ya efode"
+    }
+  ],
+  "timestamp": "2026-10-18T00:25:04.889625421Z",
+  "model": "glm-5.3"
+}

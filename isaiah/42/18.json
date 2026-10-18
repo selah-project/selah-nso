@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "melaetša ya go kweela le go lebelela",
+      "rationale": "Ditaetso tše pedi tša go bitša ba sa kweeng le ba sa bonego"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Mongwalo o bitša setšhaba se se sa kweeng le se sa bonego ka go se kwe, go swana le Duteronomio 6:4"
+    }
+  ],
+  "translation": "Ba sa kweeng, kweelang; gomme ba sa bonego, lebelang gore le bone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b678dd2df6f7c0ac58d4511db3366d559637e647432391461db891ed456b6121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/42\/17-20.1792292138656.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "ba sa kweeng"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kweelang"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "gomme ba sa bonego"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "lebelang"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "gore le bone"
+    }
+  ],
+  "timestamp": "2026-10-18T02:55:38.657526096Z",
+  "model": "glm-5.3"
+}

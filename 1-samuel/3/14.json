@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יתכפר",
+      "rationale": "ke 'go khupetša' (kafar) — 'hlwekišwa' ke go dumelelwa; tlhago ya lentšu ke go khupetša sebe."
+    },
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "אם mo e sa botše potšišo eupša e tiša koloi ya go ikana: 'se ka se hlwekišwa ka mehla'.",
+      "note": "colloquial particle in oath"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "אם (ge e le ka mo) e hlagišitšwe ka 'se ka se' go bontšha go ikana."
+    }
+  ],
+  "translation": "Gomme ka gobane mo, ke ile ka ikana go ntlo ya Eli: sebe sa ntlo ya Eli se ka se hlwekišwa ka sehlabelo le ka minkha, go fihla bosibela.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6be9d30d54d0c5465046f4359c8277051c27800fa5fa082cc075ef720b31d282",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/3\/13-16.1792287938004.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "gomme ka gobane mo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ke ile ka ikana"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "go ntlo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ya Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "se ka se"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "hlwekišwa"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sa ntlo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ya Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ka sehlabelo"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "le ka minkha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "bosibela"
+    }
+  ],
+  "timestamp": "2026-10-18T01:45:38.005643807Z",
+  "model": "glm-5.3"
+}

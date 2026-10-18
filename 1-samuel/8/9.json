@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 8:9",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העד תעיד",
+      "rationale": "Poelelo ya modu: hagah-ceed\/taceed — go bolelela ka go boeletša; Sepedi o boeletša ka goena"
+    },
+    {
+      "kind": "crux",
+      "subject": "משפט המלך",
+      "rationale": "tlwaelo (mokgwa) kgahlanong le kahlolo (ditectšo tša kgoši); YLT: custom, KJV: manner"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ka gobane⟩",
+      "rationale": "כי fela e hokga kgauswi; Sepedi e nyaka sekopanyi"
+    }
+  ],
+  "translation": "Gomme bjale, theetša ka lentšu la bona; fela o se ka wa lebala go ba bolelela ka pelonolo, gomme o ba bolelele tlwaelo ya kgoši yeo e tla busago godimo ga bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "00ed4f9e203c4225df3114edbf866bf95f425e3a7ec6d77d95346c7180b51cb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/8\/9-12.1792287934796.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "gomme bjale"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "theetša"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "ka lentšu la bona"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ka gobane⟩"
+    },
+    {
+      "surface": "העד",
+      "gloss": "bolelela ka pelonolo"
+    },
+    {
+      "surface": "תעיד",
+      "gloss": "o tla bolelela ka pelonolo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "והגדת",
+      "gloss": "gomme o ba bolelele"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "tlwaelo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgoši"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "e tla busago"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "godimo ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:45:34.797002251Z",
+  "model": "glm-5.3"
+}

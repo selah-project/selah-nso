@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 2:13",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tlwaelo",
+      "rationale": "משפט ke 'kahlolo' mme mo e bolela tlwaelelo ya go dira, e sego kahlolo ya toka"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מזלג",
+      "rationale": "mosele wa meno — lentšu le le bonagalago fela mo Tanakh go 1 Samuele 2:13–14"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זבח\/זבח",
+      "rationale": "go ehabela sehlabelo — modu o tšweletšwa gabedi, go hlatha ka gore sehlabelo se dirwa ka go ehabela"
+    }
+  ],
+  "translation": "Gomme tlwaelo ya baperisita le setšhaba e be e le ye: ge motho a ehabela ⟨את⟩ sehlabelo, mosa wa moperisita a tla, ge nama e sa butšwa, a na le mosele wa meno ye tharo seatleng sa gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a66a902cbb32e94b06154aa409551a1a4108a20f827696d55518340d7eabdf4a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/2\/13-16.1792287907705.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "tlwaelo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ya baperisita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ofe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "a ehabela"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mosa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "wa moperisita"
+    },
+    {
+      "surface": "כבשל",
+      "gloss": "ge e butšwa"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "והמזלג",
+      "gloss": "le mosele"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "meno"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "seatleng sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:45:07.706390308Z",
+  "model": "glm-5.3"
+}

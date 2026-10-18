@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לאמה",
+      "rationale": "'אמה' is a single feminine noun, 'female slave'; Sepedi needs the phrase 'mohlanka wa mosadi'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ימכר",
+      "rationale": "'a rekhisa' — some read selling into slavery, others selling in marriage (BDB lists both); context 21:8-9 supports betrothal."
+    }
+  ],
+  "translation": "Gomme ge motho a rekhisa ⟨את⟩ morwadi wa gagwe gore e be mohlanka wa mosadi, o ka se tšwe bjalo ka go tšwa ga mehlanka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/21\/5-8.1792282918095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "a rekhisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwadi wa gagwe"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "morwadi wa gagwe"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "gore e be mohlanka wa mosadi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ka se"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "tšwe"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "bjalo ka go tšwa ga"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "mehlanka"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:58.096501344Z",
+  "model": "glm-5.3"
+}

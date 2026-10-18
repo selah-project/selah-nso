@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 4:9",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כעם ככהן",
+      "rationale": "Poleloana ya Seheberu — 'bjalo ka setšhaba, bjalo ka moperisita' — e bolela gore kahlolo e tla ba leka-leka go bao ka moka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "etela",
+      "rationale": "פקד e bolela 'go etela' ka boomo (ka maikemišetšo a mabapi goba a molemo); 'go kotlo' ke tšhutšheletšo fela."
+    }
+  ],
+  "translation": "Gomme go tla ba bjalo — setšhaba se swana le moperisita; gomme ke tla mo etela ka ditsela tša gage, gomme mediro ya gage ke e mo busetša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/4\/9-12.1792295880642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba bjalo"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "bjalo ka setšhaba"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "bjalo ka moperisita"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "gomme ke tla etela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ditsela tša gage"
+    },
+    {
+      "surface": "ומעלליו",
+      "gloss": "gomme mediro ya gage"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ke e busetša"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-18T03:58:00.643169763Z",
+  "model": "glm-5.3"
+}

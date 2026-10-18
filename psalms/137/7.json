@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ערו ערו",
+      "rationale": "boeletši bja lefoko la go senya — modumo o hlologa, Sepedi se boeletša 'e senye, e senye'"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "boeletši bjo bo ya go Yahwe — kgopelo ya go gopola boikgopo bja Edome"
+    }
+  ],
+  "translation": "Gopola, Yahwe, kgahlanong le bana ba Edome ⟨את⟩ letšatši la Yerushalayime, ba ba reng: E senye, e senye, go fihla motheong wa yona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2f860cf1b77c29b4e1c3fd8c38405fef88f50f1c978324282733922bc8dbcca0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/137\/6-7.1792305326346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Gopola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kgahlanong le bana ba"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letšatši la Yerushalayime"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "la Yerushalayime"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ba ba reng"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "E senye"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "e senye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "motheong"
+    },
+    {
+      "surface": "בה",
+      "gloss": "wa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:26.346972042Z",
+  "model": "glm-5.3"
+}

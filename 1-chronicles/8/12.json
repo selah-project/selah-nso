@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בנותיה",
+      "rationale": "E bolela 'dikgoro tša yona tše nnyane' (diporofase) — lentšu 'banana' le šomišwa ka go boa go dimelo, e sego batho."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ושמד",
+      "rationale": "Sepedi se ka bja Šemere (š) go ya le modumo wa Seheberu Shemer; mongwalo wo o tee."
+    }
+  ],
+  "translation": "Gomme bana ba Elpaa ba ne ba le Evere, le Mishame, le Shemere. Yena o agile ⟨את⟩ Ono le ⟨את⟩ Lode le diporofase tša yona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1f9824ca169078305df306c3abe3fe36f41e6227c7b51f04824fc1b3e64167e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/8\/9-12.1792302994011.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "gomme bana ba"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Evere"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "le Mishame"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "le Shemere"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "o agile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Lode"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lode"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "le diporofase tša yona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:56:34.012080018Z",
+  "model": "glm-5.3"
+}

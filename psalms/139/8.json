@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sheole",
+      "rationale": "שאול ke lefelo la bafodi; ga se dihele ya kotlo — leina le bolokwa bjalo ka 'Sheole'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ya ka",
+      "rationale": "Sefoko se se bolela phapo ya sepodi, se tsegeditšwe go feeša kutollo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "magodimo le Sheole",
+      "rationale": "Tatelano ya bobedi — godimo le tlase — e bopa sekgoba sa lefase ka moka seo Yahwe a se swago."
+    }
+  ],
+  "translation": "Ge ke ka namela magodimo, o gona moo; gomme ge ke ka aphaletša phapo ya ka go Sheole, bona, o gona moo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/139\/5-8.1792299026707.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ke ka namela"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o gona"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "gomme ke ka aphaletša phapo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "bona, o gona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:26.708475327Z",
+  "model": "glm-5.3"
+}

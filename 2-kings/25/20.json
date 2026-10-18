@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "רבלתה",
+      "rationale": "Setho sa go rulaganya -ה sa bofefo (lebiša-Ribleta) se hlotše ka 'go' ka Sepedi; Seheberu se bolela 'go ya Ribleta' ka lefoko le tee."
+    }
+  ],
+  "translation": "Gomme Nebuzaradane, molaodi wa bahlabi, a ba tšea ⟨את⟩, gomme a ba isiela go kgoši ya Babele, go Ribleta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/25\/17-20.1792291232834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gomme a ba tšea"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Serajaya le setlhopha sa go tšeuwa"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nebuzaradane"
+    },
+    {
+      "surface": "רב",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa bahlabi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gomme a ba isa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "Serajaya le setlhopha sa go tšeuwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Babele"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "go Ribleta"
+    }
+  ],
+  "timestamp": "2026-10-18T02:40:32.836018719Z",
+  "model": "glm-5.3"
+}

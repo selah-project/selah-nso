@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "daa le aya",
+      "rationale": "הדאה le האיה: 'kite' le 'falcon\/hawk' — maina a dinonyana a sa feleletšego, a hlailwe ka megolo ya lona."
+    }
+  ],
+  "translation": "le ⟨את⟩ daa, le ⟨את⟩ aya, go ya ka mohuta wa yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/13-16.1792283725434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "daa"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "daa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "aya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "aya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "go ya ka mohuta wa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:35:25.435537599Z",
+  "model": "glm-5.3"
+}

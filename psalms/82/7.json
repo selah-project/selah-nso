@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 82,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השרים",
+      "rationale": "sar = balaodi; dikgoši goba dikgoši-kgoši — mokgwa wa 'princes' wa KJV"
+    }
+  ],
+  "translation": "Ka nnete, bjalo ka batho le tla huwa, gomme bjalo ka mongwe wa dikgoši le tla wa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6f972571f395cfa69c2527edd4cb4ba091101b8c270fb4620dab6a5222be85bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/82\/5-8.1792298300332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "ka nnete"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "bjalo ka batho"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "le tla huwa"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "gomme bjalo ka mongwe"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "wa dikgoši"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "le tla wa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:20.332819758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go na le",
+      "rationale": "Seheberu se šoma ka ויהי fela; Sepedi se nyaka kopula ya go ba gona."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשלם",
+      "rationale": "Shaleme — leina la bogologolo la Yerushalayime, goba 'kagiso' (šalem); ba fetoleli ba fapana."
+    }
+  ],
+  "translation": "Gomme go Shaleme go na le tente ya gagwe, le boné la gagwe go Tsiyone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/76\/1-4.1792298187524.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme ⟨go na le⟩"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "go Shaleme"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "tente ya gagwe"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "le boné la gagwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "go Tsiyone"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:27.525523703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go lokollotše",
+      "rationale": "ויושיעם 'a ba lokolla \/ a ba hwetša sephetho' — go tloša gatelete-tele ya maemo a kotsi, e seng fela 'go lokolla'"
+    }
+  ],
+  "translation": "Eupša o ba lokollotše bakeng sa leina la gagwe, go tsebisa ⟨את⟩ maatla a gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/5-8.1792298655862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "omme o ba lokollotše"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "go tsebisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maatla a gagwe"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "maatla a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:15.863829886Z",
+  "model": "glm-5.3"
+}

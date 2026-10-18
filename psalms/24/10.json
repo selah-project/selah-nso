@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מי הוא זה",
+      "rationale": "Potsotšo ye e boeleditšwego (24:8 le 24:10) e bopa karabelo-ya-potso; thapo ya bofelo bo boela go potšo ya mathomo."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Selah e hweditšwe bjalo ka yena — seka sa mmino, ga se lentšu la taba."
+    },
+    {
+      "kind": "you",
+      "subject": "potsotšo",
+      "rationale": "Potsotšo e bitša setšhaba gopholosa, karabelo e tletša bjalo ka mokete wa go tsena ga Areke."
+    }
+  ],
+  "translation": "Ke mang yena, yena kgoši ya kgethwa? Yahwe Tsebaote — yena ke kgoši ya kgethwa. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/24\/9-10.1792297409423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ya kgethwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ya kgethwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:29.423809855Z",
+  "model": "glm-5.3"
+}

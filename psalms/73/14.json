@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "לבקרים",
+      "rationale": "Plural 'mornings' rendered distributively 'mesong ka moka' (every morning); singular reading 'each morning' also possible."
+    }
+  ],
+  "translation": "Gomme ke bethwa letsatsi lohle, gomme tokiso ya ka e tla mesong ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "43ec00c0195ae3f2ab7e08027a3c2ccb4931ea329e79132d461e46f9401a9d72",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/73\/13-16.1792298171768.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "gomme ke bile"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "yo a bethwago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "gomme tokiso ya ka"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "e tla mesong ka moka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:11.769199498Z",
+  "model": "glm-5.3"
+}

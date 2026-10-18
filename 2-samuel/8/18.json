@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 8:18",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨e be molaodi⟩",
+      "rationale": "Seheberu se se bolele 'moruti wa' Kere-Peleti; 'molaodi' o hlodutšwe go tšwa temaneng ya pele"
+    },
+    {
+      "kind": "crux",
+      "subject": "barwa ba Dafida ba be moperisita",
+      "rationale": "כהנים: 'moperisita' (KJV ya mathomo 'rulers') kgahlanong le 'baaruti ba kgolo' — lentšu le bolela moperisita ka tatellano"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הכרתי והפלתי",
+      "rationale": "Kereti le Peleti — maboko a badiredi ba Dafida, a sa tallego ka botlalo"
+    }
+  ],
+  "translation": "Gomme Benayahu mora Yehoyadha ⟨e be molaodi⟩ wa Kereti le Peleti; gomme barwa ba Dafida ba be moperisita.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "36f1517263a9e3607e8592cd122ca3fb6028a6e94f6467e09c9ba512c956412d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/8\/17-18.1792288901985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Gomme Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyadha"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "le Kereti"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "le Peleti"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "gomme barwa ba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba be"
+    }
+  ],
+  "timestamp": "2026-10-18T02:01:41.985734549Z",
+  "model": "glm-5.3"
+}

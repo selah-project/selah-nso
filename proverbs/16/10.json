@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קסם",
+      "rationale": "'qeseme' (borapodi): KJV ' divine sentence' e bolela lentšu la Modimo; YLT 'oath'; kapa 'borapodi' ka tsela ya go nyaza — Sepedi se boloka lentšu ka modumo wa lona."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ימעל",
+      "rationale": "מעל e bolela go šišinywa ka tsela ya boikhano — 'go gane tšhomo' go ya le tafola D3."
+    }
+  ],
+  "translation": "Qeseme e le godimo ga sephego sa kgoši; ka kahlolo molomo wa yena ga o gane ⟨tšhomo⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "664f084f18761986a56461539626a6999bee459edca9fec0b4c559562beebcd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/16\/9-12.1792299482422.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "qeseme"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "sephego sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ka kahlolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "o gane"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "molomo wa yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:58:02.423539995Z",
+  "model": "glm-5.3"
+}

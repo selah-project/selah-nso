@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "barumuwa maru",
+      "rationale": "Tatelano ya Seheberu: 'o dira barumuwa ba gagwe maru' (barumuwa ke maru) goba 'o dira maru barumuwa ba gagwe' — KJV le LXX ka Helberiu 1:7 di fapana"
+    },
+    {
+      "kind": "elision",
+      "subject": "להט",
+      "rationale": "Lentšu le bolela go nama ga mollо bjalo ka go loma — 'wa go fisa' e phutheletše ponagalo"
+    }
+  ],
+  "translation": "Yo a dirago barumuwa ba gagwe maru, balebeli ba gagwe mollо wa go fisa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "80e8b39750f89be9c4df9e4cea0680088468ffdd09e59397ae433aeecdae158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/1-4.1792298572697.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yo a dirago"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "barumuwa ba gagwe"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "maru"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "balebeli ba gagwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollо"
+    },
+    {
+      "surface": "להט",
+      "gloss": "wa go fisa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:52.698710605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 118:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se ke",
+      "rationale": "Sepedi e nyaka copula; Seheberu se na le זה fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "tsela ya go tsena",
+      "rationale": "KJV: 'Sekgoro seo ba lokilego ba tla sena go sona' kgahlanong le ASV\/JPS 'ba tla tsena go sona' — both from same Hebrew; gloss follows plain reading"
+    }
+  ],
+  "translation": "Sekgoro se ke sa Yahwe; ba lokilego ba tla tsena go sona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/118\/17-20.1792298801448.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "השער",
+      "gloss": "sekgoro"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sa Yahwe"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokilego"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ba tla tsena"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go sona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:41.449818312Z",
+  "model": "glm-5.3"
+}

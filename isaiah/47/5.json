@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 47:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "morwadi wa Kasdi",
+      "rationale": "Direct address to Babylon, personified as daughter of the Chaldeans."
+    },
+    {
+      "kind": "substitution",
+      "subject": "musi",
+      "rationale": "גברת is feminine 'mistress'; Sepedi musi loses the feminine shape."
+    }
+  ],
+  "translation": "Dula o didimetše, gomme tsena lefsifsi, morwadi wa Kasdi; ka gobane ga o sa tlola ba go bitša musi wa dibogoši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "907573ff3d314b66abf3ee49a641c6fed5d20e777e0aa95f7a67dea234ff0132",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/47\/5-8.1792292325132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבי",
+      "gloss": "Dula"
+    },
+    {
+      "surface": "דומם",
+      "gloss": "o didimetše"
+    },
+    {
+      "surface": "ובאי",
+      "gloss": "gomme tsena"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "wa Kasdi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תוסיפי",
+      "gloss": "o sa tlola"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ba go bitša"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גברת",
+      "gloss": "musi"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "wa dibogoši"
+    }
+  ],
+  "timestamp": "2026-10-18T02:58:45.132767629Z",
+  "model": "glm-5.3"
+}

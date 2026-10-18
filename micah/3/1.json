@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Theetšang",
+      "rationale": "Sebiasedi se bitša ba reeditši ka tlhamalalo go kua go diphetolho tša setšhaba."
+    },
+    {
+      "kind": "you",
+      "subject": "ditlogo tša Yaakobo",
+      "rationale": "Pušo ya tlhamalalo go dihlogo le baetapele ba ntlo ya Yisraele."
+    },
+    {
+      "kind": "substitution",
+      "subject": "baetapele",
+      "rationale": "קציני e hlalosa baahlamedi\/dibaetapele; 'baetapele' ke lentšu le atilego la Sepedi bakeng sa ofisi ye."
+    }
+  ],
+  "translation": "Gomme ka re: Theetšang, ke kopa, ditlogo tša Yaakobo, le baetapele ba ntlo ya Yisraele: a go sego go lona go tseba ⟨את⟩ kahlolo?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b1247595a3912c275f7cccfc69e32e4f17afe2b8f52d0f14d15ed00c1af87eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/micah\/3\/1-4.1792296506972.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "gomme ka re"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "theetšang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ditlogo tša"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "gomme baetapele ba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a go sego"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "go tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahlolo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:08:26.973626100Z",
+  "model": "glm-5.3"
+}

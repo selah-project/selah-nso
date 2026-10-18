@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sa gago",
+      "rationale": "Hebrew suffix -ך carried by sekgokgo alone; possessive repeated in Sepedi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "morwa wa ka",
+      "rationale": "father summons son to hear — direct address, imperative"
+    },
+    {
+      "kind": "you",
+      "subject": "go morwa",
+      "rationale": "addressee is the son being instructed"
+    }
+  ],
+  "translation": "Morwa wa ka, sekeleng bohlale bja ka; ikokotletše ⟨gago⟩ sekgokgo go kutullošo bja ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b1e6ea5b569940579bb87cb85b03bae997f4e737367cd044479011bfb1390459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/5\/1-4.1792299252926.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "morwa wa ka"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "bohlale bja ka"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "sekeleng"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "kutullošo bja ka"
+    },
+    {
+      "surface": "הט",
+      "gloss": "ikokotletše"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sekgokgo ⟨sa gago⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T04:54:12.927236749Z",
+  "model": "glm-5.3"
+}

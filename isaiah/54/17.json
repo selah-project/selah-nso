@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 54:17",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרשיעי",
+      "rationale": "KJV 'thou shalt condemn' (you declare guilty) go kgahlanong le BSB 'you will refute'; modu wa Seheberu ke go phethagatša gore manaba ke manaba kahlolong."
+    },
+    {
+      "kind": "substitution",
+      "subject": "כלי",
+      "rationale": "'Sešoma' (instrument) — dikgethi tše dintši di bolela 'weapon', eupša lentšu la Seheberu le bolela sešoma se sengwe le se sengwe se se bopilwego."
+    },
+    {
+      "kind": "addition",
+      "subject": "go nna",
+      "rationale": "מאתי ke 'from with me' — Sepedi e nyaka 'go nna' bakeng sa sekopanyi se kopantšwego."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yerushalayime \/ setšhaba",
+      "rationale": "Sefoko se se bitša motho yo a bolelwago ka wena ka ponyo ('kgahlanong le wena', 'o tla le ganela')."
+    }
+  ],
+  "translation": "Sešoma se sengwe se se bopilwego kgahlanong le wena se ka se atlega; gomme lentšu le le lengwe leo le tlogo ema kgahlanong ⟨את⟩ le wena, kahlolong o tla le ganela. Se ke boswa ba bahlanka ba Yahwe, gomme tsedeke ya bona e tšwa ⟨את⟩ go nna, go bolela Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2178fea51be3d5201ddd8d1c454e9c59e6b4984d26f5cdb4220484866b2976bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/54\/17-17.1792292343209.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "se sengwe le se sengwe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "sešoma"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "se se bopilwego"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kgahlanong le wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "se ka se atlega"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme lentšu le le lengwe le le lengwe"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "leo le tlogo ema"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena",
+      "marks": "kgahlanong le wena"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "kahlolong"
+    },
+    {
+      "surface": "תרשיעי",
+      "gloss": "o tla le ganela"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ke boswa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ba bahlanka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וצדקתם",
+      "gloss": "gomme tsedeke ya bona"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ go nna",
+      "marks": "e tšwa go nna"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:03.209926538Z",
+  "model": "glm-5.3"
+}

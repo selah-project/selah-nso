@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 7:2",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ובל יאמרו",
+      "rationale": "JPS e e bala bjalo ka taedišo ('a se ke ba re'); KJV\/ASV bjalo ka boikaketsi ('ga ba akanye') — bobedi bo dumelelwa ke mongwalo."
+    },
+    {
+      "kind": "addition",
+      "subject": "sa ka",
+      "rationale": "Sepedi se nyaka mongwaledi wa sefahlego; Seheberu se bolela פני fela."
+    }
+  ],
+  "translation": "Gomme ga ba bolelele pelong ya tšona gore bobe bja tšona ka moka ke se se kgopolwego; bjale ditiro tša tšona di ba shefile, di le pele ga sefahlego sa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/7\/1-4.1792295978723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "gomme ga ... fela"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba bolelele"
+    },
+    {
+      "surface": "ללבבם",
+      "gloss": "pelong ya tšona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "bobe bja tšona"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "ke se se kgopolwego"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "סבבום",
+      "gloss": "di ba shefile"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ditiro tša tšona"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlego"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di le"
+    }
+  ],
+  "timestamp": "2026-10-18T03:59:38.724162454Z",
+  "model": "glm-5.3"
+}

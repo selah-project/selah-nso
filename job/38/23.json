@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 38:23",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mathata",
+      "rationale": "צר ke 'se se tsweletšego' — lefelo le sephethephethe, ka moka ga maemong a mabe"
+    },
+    {
+      "kind": "secret",
+      "subject": "moruru o bolokilwego",
+      "rationale": "yahwe o boloka dibele tša letsufi tša go šomišwa letšatšing la ntwa fela"
+    }
+  ],
+  "translation": "seo ke se bolokilego bakeng sa nako ya mathata, bakeng sa letšatši la ntwa le go lwa?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7f3bcddf8957dfa69d99b4fcd933a31116a69114508ac44a828cc81783f1928b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/38\/21-24.1792300770425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "חשכתי",
+      "gloss": "ke se bolokilego"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "bakeng sa nako"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ya mathata"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bakeng sa letšatši"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "la ntwa"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "le go lwa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:19:30.426225080Z",
+  "model": "glm-5.3"
+}

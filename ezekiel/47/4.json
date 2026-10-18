@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 47:4",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "go ela sekete gabedi",
+      "rationale": "palo ya go ela gape ga gabedi — sekete ya bobedi le ya boraro"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mala",
+      "rationale": "מתנים ke ‹mala› — sekgoba sa magare ga mmela, e sego ‹lesika› la Setswana"
+    }
+  ],
+  "translation": "Gomme a ela sekete, a ntsephasa meetse — meetse a fihla maswao. Gomme a ela sekete, a ntsephasa meetse — meetse a fihla mala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "33d5f964440d1f610a6303e2c451905f677c6ecee1e243f70dc4650a389bba87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/47\/1-4.1792295809894.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "a ela"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "ויעברני",
+      "gloss": "a ntsephasa"
+    },
+    {
+      "surface": "במים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "a fihla maswao"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "a ela"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "ויעברני",
+      "gloss": "a ntsephasa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "a fihla mala"
+    }
+  ],
+  "timestamp": "2026-10-18T03:56:49.895986999Z",
+  "model": "glm-5.3"
+}

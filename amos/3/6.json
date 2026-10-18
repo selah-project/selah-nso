@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bobe",
+      "rationale": "רעה: 'bobe' ka botlalo goba 'mahlatse\/masego' (calamity) bjalo ka BSB — Amose o bolela mahlatse a kahlolo, e sego bobe bošoro ka moya."
+    },
+    {
+      "kind": "substitution",
+      "subject": "shofara",
+      "rationale": "שופר ke lentšu la tlhago sa Seheberu; le bolokwa ka modumo, ga le fetolwe go 'kgarumo'."
+    }
+  ],
+  "translation": "Ge shofara e bina motseng, gomme setšhaba se ka se tšoge? Ge go le bobe motseng, gomme Yahwe a sa se dira ⟨sona⟩?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5278dad65ec42f62a4820413957b847f57262566b203969b2f96c46f03918c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/3\/5-8.1792296218043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "e bina"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "shofara"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "gomme setšhaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ka se"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "tšoge"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go le"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "gomme Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dira"
+    }
+  ],
+  "timestamp": "2026-10-18T04:03:38.043794155Z",
+  "model": "glm-5.3"
+}

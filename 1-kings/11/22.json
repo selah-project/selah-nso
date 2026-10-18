@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 11:22",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלח תשלחני",
+      "rationale": "infinitive absolute + ya boela — «o ntloše, o ntloše ka mo go feletseng»; kgomologo ya go boela-godimo e lahlegile"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Eupsa⟩",
+      "rationale": "ki ya karollo e swanetšego ke Sepedi, Seheberu se se na le yona"
+    }
+  ],
+  "translation": "Gomme Farao a mo botša: Go se eng o se tlaeletsago le nna, gomme bona, o nyaka go ya lefaseng la gago? Gomme a re: Aowa; eupsa o ka moka o ntloše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "50e44149a296b467b4feaeb0da6958188ba239c2641611acbd37e758cbc065c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/11\/21-24.1792290091098.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Gomme a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨Eupsa⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Go se eng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "o"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "o se tlaeletsago"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "והנך",
+      "gloss": "gomme bona"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "o nyaka"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "la gago"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Gomme a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Aowa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "eupsa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o ka moka o ntloše"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "o ntloše"
+    }
+  ],
+  "timestamp": "2026-10-18T02:21:31.099627245Z",
+  "model": "glm-5.3"
+}

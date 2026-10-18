@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהום אל תהום",
+      "rationale": "poelelo ya go boela morago botebo-bo-bitša-botebo, go swana ga mantšu ao a sa tšwago pele go Sepedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "צנוריך",
+      "rationale": "litšo tše fapanego: 'melaetši ya meetse' (waterfalls) kgahlanong le 'mephomo ya meetse' (waterspouts) goba 'mokgodi wa meetse'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משבריך וגליך",
+      "rationale": "mantšu a mabedi a mawele — mephureletšo le mawele, kopano ya difahlego tša lewatle"
+    }
+  ],
+  "translation": "Botebo bo bitša botebo go modumo wa melaetši ya gago ya meetse; mephureletšo ya gago ka moka le mawele a gago a ntšwetše godimo ga nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/42\/5-8.1792297711482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "botebo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bo bitša"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "botebo"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "bo bitša"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "go modumo"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "wa melaetši ya gago ya meetse"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "mephureletšo ya gago"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "gomme mawele a gago"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga nna"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "a ntšwetše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:31.483342755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למלאת",
+      "rationale": "'go lokiša' (go tsenya maswika) kgathanong le 'go tlatsa' — ba fetoleli ba sa swana: 'for settings' vs 'to fill'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מלאכה",
+      "rationale": "Seheberu se bolela mošomo wa bokgoni (deputyship\/employment), e sego feela mošomo."
+    }
+  ],
+  "translation": "le go rupa maswika bakeng sa go lokiša, le go rupa mohlare go dira mošomo ka moka wa bokgoni.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ab0aac9159f03ddc7a5f585b187148160817e71b381f5d3c797b694af0b804f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/31\/5-8.1792283166181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "le go rupa"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "maswika"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "bakeng sa go lokiša"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "le go rupa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mohlare"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mošomo wa bokgoni"
+    }
+  ],
+  "timestamp": "2026-10-18T00:26:06.185595407Z",
+  "model": "glm-5.3"
+}

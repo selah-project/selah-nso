@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopu ya go baya leina; Seheberu ga e e na"
+    },
+    {
+      "kind": "crux",
+      "subject": "yo a humago",
+      "rationale": "שוע: 'yo a humago' (YLt) kgathanong le 'yo a phathalago\/moholo' (JPS) — lentšu le bolela botho bobedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבל\/נדיב",
+      "rationale": "go tlhatlhagana ga modumo gare ga ga-naval (semaite) le nadiv (yo a phathalago), se se sephiring ka Sepedi"
+    }
+  ],
+  "translation": "Go semaite ga go sa tšeelwe go bitšwa ⟨ke⟩ yo a phathalago ka seatla, gomme go mojale ga se sa bolelwe gore ⟨ke⟩ yo a humago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "53d23cbd994253d13f78c38678c077e527f1ab8c0ae2b2241a0adedc88dff514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/32\/5-8.1792291918497.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "go bitšwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "go semaite"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "yo a phathalago ka seatla"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "gomme go mojale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "go bolelwa"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "yo a humago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:51:58.497773503Z",
+  "model": "glm-5.3"
+}

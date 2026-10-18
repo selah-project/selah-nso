@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שואה ... בשואה",
+      "rationale": "Go boelela ga lentšu la tshenyo go koala pesalema ka kgolokwe — sefoka se se tšerwago se bušetšwa go se romiši"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tshenyo",
+      "rationale": "שואה ka_boelathari e bolela sefofane\/mogote wa lewatle, ka mogopo go tshenya; tsela ya thari e phophoretše"
+    }
+  ],
+  "translation": "Tshenyo e mo fihle, a se tsebe; gomme rusu ya gagwe yeo a e hlwileng e mo thwe; o wela ⟨mo go yona⟩ ka tshenyo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/35\/5-8.1792297581207.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "e mo fihle"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "tshenyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "gomme rusu ya gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "a e hlwileng"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "e mo thwe"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "ka tshenyo"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "o wela"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go yona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:21.208992523Z",
+  "model": "glm-5.3"
+}

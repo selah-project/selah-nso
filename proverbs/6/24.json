@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "boithekgo",
+      "rationale": "חלקה ke go thekgahala — boithekgo bja go gotletša; JPS e dula go 'smoothness'"
+    },
+    {
+      "kind": "crux",
+      "subject": "נכריה",
+      "rationale": "nokeriya: 'ya sego ya sehlakahlaka' goba 'mosadi wa khomana'; mo ke mosadi wa mabe wa kantle"
+    }
+  ],
+  "translation": "Go go šireletša go tšwa go mosadi wa mabe, go tšwa go boithekgo bja leleme la sehlabelo-tšhaba.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f8b0882fc8e0441560d4a2d5a1f6809c46f13f490b42d3c7d13513f112c73a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/6\/24-24.1792305305969.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "go go šireletša"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "go tšwa go mosadi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "wa mabe"
+    },
+    {
+      "surface": "מחלקת",
+      "gloss": "go tšwa go boithekgo"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "bja leleme"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "la sehlabelo-tšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:05.969726850Z",
+  "model": "glm-5.3"
+}

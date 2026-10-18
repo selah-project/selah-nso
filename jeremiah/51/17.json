@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 51:17",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נסכו",
+      "rationale": "lenene se šupa sešwantšhong sa go dutšwa, e sego sehlabelong; 'sešwantšho sa go dutšwa' boloka sebopego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בער",
+      "rationale": "בער e bolela ka noši go fišwa\/diela — mo e šoma go bontšha go hloka tsebo; modu o tee o phethagatša karolo ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "na",
+      "rationale": "Sepedi e nyaka 'go na' go aga polelo ya go gana; Seheberu o tlwaetše go re ולא רוח בם fela"
+    }
+  ],
+  "translation": "Motho yo mongwe le yo mongwe o setlhwadi ka tsebo ya gagwe; mokgethi yo mongwe le yo mongwe o hlokofaditšwe ka sešwantšho; ka gobane sešwantšho sa gagwe sa go dutšwa ke maaka, gomme ga go na ruakh mo go bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cf9a1d39d2238a4a95e95340c9bf70b477e3612427efcd7035651205cc338f14",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/51\/17-20.1792294261396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבער",
+      "gloss": "o setlhwadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מדעת",
+      "gloss": "ka tsebo ya gagwe"
+    },
+    {
+      "surface": "הביש",
+      "gloss": "o hlokofaditšwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "צרף",
+      "gloss": "mokgethi"
+    },
+    {
+      "surface": "מפסל",
+      "gloss": "ka sešwantšho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ke maaka"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "sešwantšho sa gagwe sa go dutšwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga go na"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "בם",
+      "gloss": "mo go bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:31:01.396647573Z",
+  "model": "glm-5.3"
+}

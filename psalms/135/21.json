@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka mohlami; Seheberu ga se na o"
+    },
+    {
+      "kind": "crux",
+      "subject": "מציון",
+      "rationale": "'go tšwa go Tsiyone' kgahlano le 'ya Tsiyone' — barwaedi ba fapana"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Dumelang Yah",
+      "rationale": "Taello ya go dungwaletša boipeegelo bjalo karolo ya tšhišinyo"
+    }
+  ],
+  "translation": "Go a gakologwa ⟨ke⟩ Yahwe go tšwa go Tsiyone, yo a dulago Yerushalayime. Dumelang Yah!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "10072aa7bab679e1cb7defa042c8456358e8ab948dd74b8e78f7f79bbbec6d4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/135\/21-21.1792298995954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "go a gakologwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "go tšwa go Tsiyone"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "yo a dulago"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dumelang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:55.954883594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לשלום",
+      "rationale": "'Go botšiša ka kagiso' — ask of your welfare — ke mokgwa wa Seheberu wa go keteka, e sego potšišo ya nnete."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחם",
+      "rationale": "Bogobe — lentšu le bolela boholo bja dijong, fela mo le bolela bogobe."
+    },
+    {
+      "kind": "addition",
+      "subject": "a bona",
+      "rationale": "Seheberu se re 'go tšwa matsogong' fela — ⟨a bona⟩ se okeditšwe go hlaloša ba amegago."
+    }
+  ],
+  "translation": "Gomme ba tla go botšiša ka kagiso, gomme ba tla go fa bogobe bjo pedi, gomme o tla bo amogela go tšwa matsogong a bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "4f3f79d28c02d1da323b511445de08b733d88b8202da607e258341b72a4a4ab8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/10\/4-4.1792304793484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "gomme ba tla go botšiša"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ka kagiso"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "gomme ba tla go fa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "bjo pedi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "gomme o tla amogela"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "go tšwa matsogong a bona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:26:33.484461134Z",
+  "model": "glm-5.3"
+}

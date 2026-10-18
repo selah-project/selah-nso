@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "sod — lekunyano ya bofikiri, se seswailwego; leina la sephiring mo Tanakeng"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lekunyano",
+      "rationale": "סוד e bolela kgobokano ya boithaopo, e fetotšwe go ba 'lekunyano' go swanela botegi bja yona"
+    }
+  ],
+  "translation": "O mpethe go tšwa lekunyanong ya ba dirago bobe, le go tšwa phudung ya ba šomago bobe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/64\/1-4.1792297997739.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "o mpethe"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "go tšwa lekunyanong"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ya ba dirago bobe"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "le go tšwa phudung"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ya ba šomago"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:17.740053213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "kgoši Selomo",
+      "rationale": "Narrative report of the king's order; no direct address."
+    },
+    {
+      "kind": "substitution",
+      "subject": "a mo tlwaela",
+      "rationale": "ויפגע literally 'he impinged\/fell upon him', rendered as 'he struck him down'."
+    }
+  ],
+  "translation": "Gomme kgoši Selomo a romela ka seatla sa Benayahu mora wa Yehoyada, gomme a mo tlwaela gomme a hwala.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b5214810363284f83c04fc9d0eeb1a94acc59dcea7eb9e9ae870a4c5ba566b38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/2\/25-28.1792289602810.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "a mo tlwaela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "a hwala"
+    }
+  ],
+  "timestamp": "2026-10-18T02:13:22.810669828Z",
+  "model": "glm-5.3"
+}

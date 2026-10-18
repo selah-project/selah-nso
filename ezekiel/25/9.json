@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 25:9",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כתף",
+      "rationale": "'sefuba' (chest\/flank) se šomišwa bakeng sa 'sehlogo' (shoulder) — kahlolo ya sebopego: sefuba ke lehlakore le sebegilego"
+    },
+    {
+      "kind": "elision",
+      "subject": "צבי",
+      "rationale": "'khanya' (splendor) e fa mafelelo a 'noble cities' tša diphetoše tša kgale — lentšu le ile la hlatlamoa"
+    }
+  ],
+  "translation": "Ke gona, bona, ke gona, ke tla bogolola ⟨את⟩ sefuba sa Moaba go tšwa ditoropong, go tšwa ditoropo tša yena, go thoko ya yena; khanya ya lefase, Betše-Yešimoto, Baale-Meaone le Kirjathayime.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d97118e3b6fca6f0ec5d0dc03c86237b93eb74212fc9add6c852de3f2efb3136",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/25\/9-12.1792295055760.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ke gona"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bona, ke gona"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ke tla bogolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefuba sa Moaba"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "sefuba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "go tšwa ditoropong"
+    },
+    {
+      "surface": "מעריו",
+      "gloss": "go tšwa ditoropo tša yena"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "go thoko ya yena"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "khanya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betše-"
+    },
+    {
+      "surface": "הישימת",
+      "gloss": "Yešimoto"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baale-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Meaone"
+    },
+    {
+      "surface": "וקריתמה",
+      "gloss": "le Kirjathayime"
+    }
+  ],
+  "timestamp": "2026-10-18T03:44:15.761530362Z",
+  "model": "glm-5.3"
+}

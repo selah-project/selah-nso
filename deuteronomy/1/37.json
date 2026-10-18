@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a ikgoha",
+      "rationale": "התאנף ka moya ke 'go hema thata' — go ikgoha ke sekamano sa go galefa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם ... גם",
+      "rationale": "go bušetšwa ga 'gam' ('le ka nna... le wena') go bopa sekhutšwana se se tlwaelegilego"
+    }
+  ],
+  "translation": "Le Yahwe o ile a ikgoha ka nna ka baka la lona, a re: Le wena o ka se tsene moo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5ec63513b929aed0e2a2943707b534b72172f738d9b31a4de4b8bd3f85eebce6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/1\/37-40.1792285491231.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "a ikgoha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "ka baka la lona"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ka se"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "o tsene"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:04:51.231651228Z",
+  "model": "glm-5.3"
+}

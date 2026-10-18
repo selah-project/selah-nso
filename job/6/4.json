@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 6:4",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "boloi",
+      "rationale": "חמה ke 'borutho\/mohlobo' eupša mo e bolela boloi bja mosebi; lentšu le tee le na le ditlhaka tše pedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "bo nwa ruakh",
+      "rationale": "KJV: 'poison drinketh up my spirit' kgahlanong le ASV: 'my spirit drinketh up' — mo go tšewa gore boloi bo nwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e hlalositšwe bjalo ka ruakh go ya le D2 — moya\/wena\/moya wa go hema ka lentšu le tee"
+    }
+  ],
+  "translation": "Ka gobane mesebi ya Shadai e le gona go nna; boloi bja yona bo nwa ruakh ya ka; ditšošo tša Eloha di hlotšiwa kgahlanong le nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "44b7843de4c716c309f2ab5718dd17e7424319d2ab823c76e2ca82a48c8823b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/6\/1-4.1792300103662.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "mesebi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "e le gona go nna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "חמתם",
+      "gloss": "boloi bja yona"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "bo nwa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya ka"
+    },
+    {
+      "surface": "בעותי",
+      "gloss": "ditšošo"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "יערכוני",
+      "gloss": "di hlotšiwa kgahlanong le nna"
+    }
+  ],
+  "timestamp": "2026-10-18T05:08:23.663463066Z",
+  "model": "glm-5.3"
+}

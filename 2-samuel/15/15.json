@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 15:15",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mong wa ka",
+      "rationale": "אדני ya motho e fetwa 'mong wa ka' go ya le D1 — e sego 'Morena', leo le boloketseng Leina fela"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se sa bolela modupi; Sepedi se o nyaka"
+    }
+  ],
+  "translation": "Gomme bahlanka ba kgoši ba re go kgoši: Bjalo ka tšohle seo mong wa ka kgoši se kgethago — bonang, ke bahlanka ba gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/15\/13-16.1792289221269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bahlanka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ba kgoši"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bjalo ka tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "se kgethago"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bahlanka ba gago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:07:01.270686153Z",
+  "model": "glm-5.3"
+}

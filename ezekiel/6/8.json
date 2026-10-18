@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 6:8",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mafatšeng",
+      "rationale": "used 'mafatšeng' habit-error; D4 fixes ארץ as 'lefase' — must read 'mafaseng'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והותרתי",
+      "rationale": "'I will leave a remnant' (KJV\/JPS) vs hiphil 'I will cause to remain\/spare' — kept as sparing"
+    }
+  ],
+  "translation": "Mme ke tla tloša batho ba seswai, go ba le ba ba bilago tšhošeng gare ga ditšhaba, ge le sa phatlalatšwa mafatšeng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ff8ef4e60a891e2b5ad546b2ca22b976be2285ce1d7afd100ea97d45a04f0419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/6\/5-8.1792294422373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והותרתי",
+      "gloss": "Mme ke tla tloša batho ba seswai"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "go ba le"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "פליטי",
+      "gloss": "ba ba bilago"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhošeng"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gare ga ditšhaba"
+    },
+    {
+      "surface": "בהזרותיכם",
+      "gloss": "ge le sa phatlalatšwa"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "mafatšeng"
+    }
+  ],
+  "timestamp": "2026-10-18T03:33:42.374909327Z",
+  "model": "glm-5.3"
+}

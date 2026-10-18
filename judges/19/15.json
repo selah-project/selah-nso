@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 19:15",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "⟨את⟩ ya go swana le — ba — e hlakantšhwa fela, e sego e fetoletšwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mothalading",
+      "rationale": "רחוב ke sekgoba se se pharologago (broad place); mothaladi ke kholo ya Sepedi"
+    }
+  ],
+  "translation": "Ba furalela moo go tsena go robala bosigo ka Gibea; gomme a tsena, a dutša mothalading wa toropo, gomme go se na motho yo a ba kgoboketsago ⟨את⟩ hlagoreng go robala bosigo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "26878f60e183d9b8844bb88e2b9af0f88b3a38f74be6821d52ba23aae5cc29b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/19\/13-16.1792287750240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסרו",
+      "gloss": "ba furalela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "go tsena"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "go robala bosigo"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "ka Gibea"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dutša"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "mothalading"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "wa toropo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme go se na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מאסף",
+      "gloss": "yo a kgoboketsago"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "hlagoreng"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "hlagoreng"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "go robala bosigo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:42:30.241660924Z",
+  "model": "glm-5.3"
+}

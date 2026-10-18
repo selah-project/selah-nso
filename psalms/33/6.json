@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e tsepeditšwe bjalo ka ruakh go ya le D2 — moya, phefo, go hema ka lentšu le tee"
+    },
+    {
+      "kind": "substitution",
+      "subject": "madira",
+      "rationale": "צבאם ke madira (diphalane, didirišwa) — e sego merafe ya madira go ya le Yahwe Tsebaote"
+    }
+  ],
+  "translation": "Ka lentšu la Yahwe magodimo a dirilwe, gomme ka ruakh ya molomo wa gagwe madira a wona ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/5-8.1792297519081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "ka lentšu la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "a dirilwe"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "gomme ka ruakh ya"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "molomo wa gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "madira a wona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:19.081913400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 17:18",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/אבשה · יחתו\/אחתה",
+      "rationale": "Kgobokano ya bobedi ka go boeletša — ba nšaletši kgahlanong le nna — sebopego se se sa fetolego ka botlalo go Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "ומשנה",
+      "rationale": "'E ka gabedi' (KJV\/ASV: double destruction) kgahlanong le 'la bobedi' (YLT: a second time)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חתת",
+      "gloss": "tšošetšwa",
+      "rationale": "Lentšu le bolela 'go wa ka mahlong \/ go phutuhala' — go tšošetšwa ke karolo ya thalo ye nnofo fela."
+    }
+  ],
+  "translation": "A ba diile bao ba nšaletšego, gomme nna nke ke ka ila; a ba tšošetšwe bona, gomme nna nke ke ka tšošetšwa; tliša go bona letšatši la mabe, gomme o ba phutlhe ka phutuhlo e ka gabedi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c5f3a97e9fd36d4cafd0ae33144cdf0145dbdc9b61d5b9e07560777f8d777984",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/17\/17-20.1792293239625.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "a ba diile"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "bao ba nšaletšego"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme nke ke"
+    },
+    {
+      "surface": "אבשה",
+      "gloss": "ka ila"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "a ba tšošetšwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme nke ke"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "ka tšošetšwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "tliša"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "la mabe"
+    },
+    {
+      "surface": "ומשנה",
+      "gloss": "gomme e ka gabedi"
+    },
+    {
+      "surface": "שברון",
+      "gloss": "phutuhlo"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "o ba phutlhe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:13:59.626579078Z",
+  "model": "glm-5.3"
+}

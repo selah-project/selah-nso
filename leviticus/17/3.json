@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Seheberu ga se na sedirišwa sa go hlabile; Sepedi se e nyaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אישׁ אישׁ",
+      "rationale": "Go boelediwa ga motho-motho go gatelela go ya ga motho ka noši, se se laolwago ka Sepedi ka ye mong le ye mong"
+    }
+  ],
+  "translation": "Motho ye mong le ye mong wa ntlo ya Yisraele, yo a hlabago kgomo goba kwana goba pudi ka phemong, goba yo a hlabago ⟨e⟩ ntle le phemo,",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "099d492f34fa04e734d9a1ad81d559d49e38d47b540d08250c582873476ab5ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/17\/1-4.1792283989803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Motho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ye mong le ye mong"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wa ntlo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "a hlabago"
+    },
+    {
+      "surface": "שור",
+      "gloss": "kgomo"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "עז",
+      "gloss": "pudi"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ka phemong"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "a hlabago"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "phemo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:39:49.804795049Z",
+  "model": "glm-5.3"
+}

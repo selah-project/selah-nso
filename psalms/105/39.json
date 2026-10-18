@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "go pharolla",
+      "rationale": "פרש le bolela 'go pharolla\/go atasa'; taelo ya sethefu bjalo ka sephethego (Exodo 13:21)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sephethego",
+      "rationale": "מסך ke sekgokgo\/sephethego — sengwe le sengwe se khupago, e sego 'sekeresete' feela."
+    }
+  ],
+  "translation": "O pharolla sethefu bakeng sa sephethego, gomme mollo wa go khantšha bošego.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c5d33962d6d2f6faaf4f018479afd0fd18ecbf4f48a96142d53c8984e2f645e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/39-40.1792305267979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "o pharolla"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "sethefu"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "bakeng sa sephethego"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "gomme mollo"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "wa go khantšha"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bošego"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:27.979965757Z",
+  "model": "glm-5.3"
+}

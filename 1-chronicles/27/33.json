@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o be⟩",
+      "rationale": "Seheberu se se na sekopanyi; Sepedi se se nyaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "molaedi",
+      "rationale": "יועץ ke motho ya a gomotšago ka mokgwa wa go etapele — molaedi o swara sebopego sa lentšu"
+    },
+    {
+      "kind": "crux",
+      "subject": "רע המלך",
+      "rationale": "'mogwera wa kgoši' — e ka ba botho bja botsebi, e sego mogwera fela"
+    }
+  ],
+  "translation": "Gomme Akitofele ⟨o be⟩ molaedi wa kgoši, gomme Hushai, motšwa-Araki, ⟨o be⟩ mogwera wa kgoši.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5eae05505eef4b078990407a3196fcce766f50adad8ad18822d34166d5022c29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/27\/33-34.1792303457847.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "Gomme Akitofele"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "molaedi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "wa kgoši"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "gomme Hushai"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "motšwa-Araki"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mogwera"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wa kgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T06:04:17.847955774Z",
+  "model": "glm-5.3"
+}

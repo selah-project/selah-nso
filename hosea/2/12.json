@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tšhologo",
+      "rationale": "נבלות ke mafofole a sesadi le tšhohi; 'tšhologo' e laetša se sengwe se se sa kwalelagog — e ka ba 'mafofole a hlogo' goba lentšu le tee la Sepedi le tlwaelegilego."
+    },
+    {
+      "kind": "elision",
+      "subject": "אגלה",
+      "rationale": "To denude\/expose — go tlogela se seswadilwego; Sepedi: go tlogela, eupša 'go hlweka' go ka ba tlwaelo e nngwe."
+    }
+  ],
+  "translation": "Gomme bjale ke tla tlogela ⟨את⟩ tšhologo ya yena go peleng ya bao a ba ratago; gomme motho o ka se mo lokollolwe go seatla sa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a5b9ecf0a915385564d2ff1a1d95e85d132ef0aabaf0a3ba46b7c5c8bc9857d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/2\/9-12.1792295881010.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "gomme bjale"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ke tla tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tšhologo ya yena"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "tšhologo ya yena"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "go peleng ya"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "bao a ba ratago"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "gomme motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "mo lokollolwe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "go seatla sa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T03:58:01.011684341Z",
+  "model": "glm-5.3"
+}

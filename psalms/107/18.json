@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa bona",
+      "rationale": "נפש e atametše go 'momoro\/maphelo' — sephophi sa go hema, e sego moya ka bohole."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "dikgoro tša lehu",
+      "rationale": "Psalme 107:16 o bolela dikgoro tše phameng — mo bafoleki ba fihla go tšona; khomagano ya mahlakore."
+    }
+  ],
+  "translation": "Dijo ka moka di a di hloya moya wa bona, gomme ba fihla go dikgoro tša lehu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/107\/17-20.1792298677253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dijo"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "di a di hloya"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moya wa bona"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "gomme ba fihla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tša lehu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:37.254684999Z",
+  "model": "glm-5.3"
+}

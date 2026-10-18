@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na kopula; Sepedi se e nyaka go hlalosa gore Yahwe ke Elohim wa setšhaba seo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "serapa",
+      "rationale": "נחלה ke se swa ka boswa; 'serapa sa gagwe' se jwa boswa, e sego polasi fela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשר...אשר",
+      "rationale": "Go boela ga אשer gabedi go kgomaretša mahlakore a mabedi a thapo; go se sweu ka Sepedi."
+    }
+  ],
+  "translation": "Mahlogonolo setšhaba seo Elohim wa sona ⟨ke⟩ Yahwe — setšhaba seo a se kgethilego go ba serapa sa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/9-12.1792297524217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "mahlogonolo"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wa sona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "a se kgethilego"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "go ba serapa sa gagwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:24.218517503Z",
+  "model": "glm-5.3"
+}

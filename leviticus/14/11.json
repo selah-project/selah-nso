@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kaofela",
+      "rationale": "ואתם — 'tšona' bošwa sehlabelong sa moetulo; ⟨kaofela⟩ e bontšha sebopego sa bontši"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ohela ya kopano",
+      "rationale": "אהל מועד — 'ohela ya kopano\/tšhupamantšu'; D2 e ganna 'tabarenakele'"
+    }
+  ],
+  "translation": "Gomme moperisita yo a hlokgago a tla emiša ⟨את⟩ monna yo a hlokgago le ⟨את⟩ tšona kaofela pele ga Yahwe, mo lebateng la ohela ya kopano.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/14\/9-12.1792283840156.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "a tla emiša"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yo a hlokgago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna yo a hlokgago"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "yo a hlokgago"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "le ⟨אתם⟩",
+      "marks": "tšona kaofela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "mo lebateng"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ya ohela"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-18T00:37:20.157538098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נזירך",
+      "rationale": "'sehlare sa go sa išwa pele' (unpruned vine) kgahlanong le go bala e le 'Nazirite' — sehlare se sa se išwa ke lebaka la lentšu le tee"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ספיח",
+      "rationale": "lentšu le ra go melang ka noši ge o se sa le bala — 'tše di melago ka noši'"
+    }
+  ],
+  "translation": "⟨את⟩ tše di melago ka noši tša kgele ya gago ga di ke tša go sega, gomme ⟨את⟩ dinomoro tša sehlare sa gago sa go sa išwa pele ga di ke tša go di raka; ngwaga wa Shabata ya khutšo o tla ba wa lefase.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a41bade2eac609d4621619da794c6d8244eac84883d27511db8ea86e6074f80d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/25\/5-8.1792284229933.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tše di melago ka noši tša kgele"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "tše di melago ka noši"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "kgele ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "tša go sega"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dinomoro tša sehlare sa gago"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "dinomoro"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "sehlare sa gago sa go sa išwa pele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "tša go raka"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ngwaga wa"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "Shabata ya khutšo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "wa lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T00:43:49.933818888Z",
+  "model": "glm-5.3"
+}

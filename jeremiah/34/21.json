@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 34:21",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke moya\/bophelo — sephiring sa go nyaka bophelo ba motho, e sego sehlabelo sa Sesotho sa 'moya'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "dikgoši tša gage",
+      "rationale": "שריו gape e ka ba 'balaodi ba gagwe' — diprince tša kgoši, fela dikgoši ke khetho ya go swana le sebopego"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ Tsidekiyahu kgoši ya Yuduta le ⟨את⟩ dikgoši tša gage ke tla di fa seatleng sa manaba a tšona, le seatleng sa bao ba nyakago ⟨את⟩ moya wa tšona, le seatleng sa sesole sa kgoši ya Babele, se se tlolago godimo ga lena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4712c5b8bef20a79dd83c10b7f47fb5ffd0394c79b648bdc855551ec31050022",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/34\/21-22.1792293654016.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "Tsidekiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidekiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuduta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgoši tša gage"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "dikgoši tša gage"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla di fa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "seatleng sa"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "manaba a tšona"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "le seatleng sa"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "bao ba nyakago"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moya wa tšona"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "le seatleng sa"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babele"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "se se tlolago"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "godimo ga lena"
+    }
+  ],
+  "timestamp": "2026-10-18T03:20:54.017463204Z",
+  "model": "glm-5.3"
+}

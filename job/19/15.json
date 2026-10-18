@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 19:15",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e le",
+      "rationale": "copula ye Sepedi e e nyakago, Seheberu ga e na yona"
+    },
+    {
+      "kind": "crux",
+      "subject": "גרי ביתי",
+      "rationale": "'ba bago ntlong ya ka' (ba bago ka nako) kgahlanong le 'badiri ba ntlo' — KgV 'they that dwell', YLT 'sojourners'"
+    }
+  ],
+  "translation": "Ba bago ntlong ya ka le makgarebe a ka ba ntheka ⟨e le⟩ mošwi; ke fetohile mošwi wa ntle mahlong a tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c85719a68e869bd0c59a723cbe55fe2d1147611f66c00202299e5d1c329fe7da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/19\/13-16.1792300328079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גרי",
+      "gloss": "ba bago"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ntlong ya ka"
+    },
+    {
+      "surface": "ואמהתי",
+      "gloss": "le makgarebe a ka"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "mošwi"
+    },
+    {
+      "surface": "תחשבני",
+      "gloss": "ba ntheka"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "mošwi wa ntle"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke fetohile"
+    },
+    {
+      "surface": "בעיניהם",
+      "gloss": "mahlong a tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:12:08.079934052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨gagwe⟩",
+      "rationale": "Seheberu se se na sebopego sa go bea magoro; gouta ya Sepedi e nyaka mongwalo wo"
+    },
+    {
+      "kind": "crux",
+      "subject": "יפקיד",
+      "rationale": "paqad: 'go bea magoro' (KJV 'laid up his carriages') kgahlanong le 'go lekolwa \/ go hlapanya' (YLT 'looketh after')"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עית",
+      "rationale": "Sefoko se se ntšha pele — Ayata, lefelo le se nago mantswe a mangwe boletšwego"
+    }
+  ],
+  "translation": "O ile a tla go Ayata, o ile a feta ka Migrone; go Mikhimasha o beile magoro a hlogo ya ⟨gagwe⟩ dikahere tša gagwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "77f255d35c5947bc7610194376c418906f5e300dc5200ae30d811104dc740d7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/10\/28-28.1792305024130.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "o ile a tla"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "עית",
+      "gloss": "Ayata"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "o ile a feta"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "ka Migrone"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "go Mikhimasha"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "o beile magoro"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "dikahere tša gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:30:24.130473107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "metšhiti",
+      "rationale": "העצים plural of tree; rendered 'trees' as felled timber"
+    }
+  ],
+  "translation": "Gomme a ya ⟨את⟩ le bona; gomme ba fihla go ya go Yoredene, gomme ba kgaola metšhiti.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ec4418d02451f2c11171621883be98d05d20a2646d11941f87f9b0c06bdf6039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/6\/1-4.1792290535087.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "gomme a ya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gomme ba fihla"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "go ya go Yoredene"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "gomme ba kgaola"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "metšhiti"
+    }
+  ],
+  "timestamp": "2026-10-18T02:28:55.088848631Z",
+  "model": "glm-5.3"
+}

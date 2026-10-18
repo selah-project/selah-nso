@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדקה e šumišwa bjalo ka tsedeke go ya ka D2, e sego tokela-kamoo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רשע \/ רשעתו",
+      "rationale": "yo a fošagetšego o wa ka sebe sa gagwe — modumo o mongwa o mobo o mobo, sephetho se sa bontšhwa ka botlalo"
+    }
+  ],
+  "translation": "Tsedeke ya yo a phethagetšego e a lololla sephatong sa gagwe; gomme ka sebe sa gagwe yo a fošagetšego o tla wa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f062b502b3555d788633c3c73d1110edcf11ed908c5e08e65ccb17fc3c76daac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/11\/5-8.1792299361421.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ya yo a phethagetšego"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "e a lololla"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sephatong sa gagwe"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "gomme ka sebe sa gagwe"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "o tla wa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yo a fošagetšego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:56:01.422856745Z",
+  "model": "glm-5.3"
+}

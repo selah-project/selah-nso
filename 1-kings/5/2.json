@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikoro",
+      "rationale": "כר ke kelo — dikoro tše masometharo le tše masomepedi ka letšatši le tee"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sotle \/ bupi",
+      "rationale": "סלת ke bupi bjo bo hlwekileng bja godimo; קמח ke bupi bja kamehelo"
+    }
+  ],
+  "translation": "Gomme bogobe bja Šelomoh bja letšatši le tee e be e le dikoro tše masometharo tša sotle, le dikoro tše masomepedi tša bupi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "53a5300943b37a034dac9ae92d281bfc4ab2f8fb0dd50e11fd3579b949c184b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/5\/1-4.1792289776489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Gomme ... e be e le"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "bja Šelomoh"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bja letšatši"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le tee"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "tše masometharo"
+    },
+    {
+      "surface": "כר",
+      "gloss": "dikoro"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "tša sotle"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "le tše masomepedi"
+    },
+    {
+      "surface": "כר",
+      "gloss": "dikoro"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "tša bupi"
+    }
+  ],
+  "timestamp": "2026-10-18T02:16:16.490454766Z",
+  "model": "glm-5.3"
+}

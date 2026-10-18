@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 129,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרשו חרשים",
+      "rationale": "setsokotsi sa modumo o tee — go lima\/balimi — se se laletšago go bapetša; Sepedi se boloka go lima\/balimi"
+    },
+    {
+      "kind": "hapax",
+      "subject": "למענותם",
+      "rationale": "lentšu le le tšwa Tanakh ka moka fela mo, Psaleme 129"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mokotla wa ka wa ka morago",
+      "rationale": "גב ke 'mosela wa mokotla'; seka ya go lomišwa ke balimi e hlalosa kotlo ya mošomo"
+    }
+  ],
+  "translation": "Balimi ba ile ba lima godimo ga mokotla wa ka wa ka morago, ba ile ba oketša boleele bja dikala tša bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "58285c11522c46da220725c3eb2919fded4da33396d06c57f96d1c2ceab1b499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/129\/1-4.1792298933259.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "godimo-ga"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "mokotla-wa-ka-wa-ka-morago"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "ba-ile-ba-lima"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "balimi"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "ba-ile-ba-oketša-boleele"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "dikala-tša-bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:53.259983724Z",
+  "model": "glm-5.3"
+}

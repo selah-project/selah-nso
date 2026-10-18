@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתך",
+      "rationale": "את ya go swana le את H854 (le\/wena), e sego mošupi wa selo; gomme ⟨את⟩ e bolokwa go ya ka molao wa Selah"
+    },
+    {
+      "kind": "substitution",
+      "subject": "כי",
+      "rationale": "כי mo e šomišwa bjalo ka theetšo ya kgalalelo — 'ka nnete', e sego 'gore'"
+    }
+  ],
+  "translation": "Gomme tša re go yena: Ka nnete re tla boa ⟨את⟩ le wena, go setšhaba sa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "11699d63f16aad11cdd437e11517fa1be8299682567cebab23a9610f9943d4ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ruth\/1\/9-12.1792301032390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "gomme tša re"
+    },
+    {
+      "surface": "לה",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka nnete"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena",
+      "marks": "le wena"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "re tla boa"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "go setšhaba sa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:52.390973217Z",
+  "model": "glm-5.3"
+}

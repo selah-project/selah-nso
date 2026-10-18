@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "go feta",
+      "rationale": "Seheberu se bolela fela go kgethwa go esita le sehlabelo; go feta se okeditšwe go hlalosa teko"
+    }
+  ],
+  "translation": "Go dira tsedeke le kahlolo, go kgethilwe ke Yahwe go feta aletare.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d15a74477e7c58955ab6ab793fa2ebbba0f84de4f11c6e53b95476b1ae291ec7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/21\/1-4.1792299595406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "gomme kahlolo"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "go kgethilwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ke Yahwe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "go feta aletare"
+    }
+  ],
+  "timestamp": "2026-10-18T04:59:55.407260719Z",
+  "model": "glm-5.3"
+}

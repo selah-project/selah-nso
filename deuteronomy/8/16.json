@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mana",
+      "rationale": "מן linked to the question מן הוא ('ke eng?' — Exodus 16:15); the wordplay 'what is it?' is lost in Sepedi."
+    },
+    {
+      "kind": "you",
+      "subject": "Israele",
+      "rationale": "Verse continues the direct second-person address to Israel begun in Deut 8:11."
+    }
+  ],
+  "translation": "yo a go fepago mana naganeng, ye batsadi ba gago ba sa e tsebago, gore a go fenye, gomme gore a go leke, go go direla botse mafelelong a gago;",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "dd6fbb2a5ed679a18fc009a8b9828b2fe39d80c1b2a6f547c759f1104f1e8e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/8\/13-16.1792285721033.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "yo a go fepago"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mana"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "naganeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "ba e tsebago"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "batsadi ba gago"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore a"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "go fenye"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "gomme gore a"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "go leke"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "go go direla botse"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "mafelelong a gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:08:41.035946966Z",
+  "model": "glm-5.3"
+}

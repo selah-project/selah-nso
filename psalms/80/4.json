@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 80,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השיבנו",
+      "rationale": "Ka gatelela go re busetša (go boela mabjaneng) goba go fetoša lehumo la gago go re; diphetholelo tše pedi di a hlwaya"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ונושעה",
+      "rationale": "Poloko ya psalemo ye e boela gatee ga tharo (vs 4, 8, 20) — kopano ya lentsu la go polokega"
+    }
+  ],
+  "translation": "Elohim, re busetša, gomme o phadimetše sefahlego sa gago, gomme re tla polokega.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8e910a471fd8d26e668a5dc44d3ba682eddc44a533ef86a6ca147406d912f26d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/80\/1-4.1792298316936.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "re busetša"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "gomme o phadimetše"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahlego sa gago"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "re tla polokega"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:36.937900455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 54:10",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ימושו \/ תמוטנה \/ ימוש \/ תמוט",
+      "rationale": "dimaoka tše pedi tša go gotloga (מושׁ le מוט) di phethwa ka khomophete — dithaba di ka gotloga, eupša hesede le kgwerano ga di gotle."
+    },
+    {
+      "kind": "you",
+      "subject": "go Sione",
+      "rationale": "mošomo wo o bolela le motho wa kelagohle wa mosadi (Sione), o bitšwago ka ditlhotšo tsa sesadi go isaya 54."
+    },
+    {
+      "kind": "elision",
+      "subject": "מאתך",
+      "rationale": "את mo ke karolo ya sebaledi sa H854 ('go tšwa go'), e swarilwe ka ⟨את⟩ go boloka lesupa."
+    }
+  ],
+  "translation": "Ka gobane dithaba di ka tlošwa, gomme dipiti di ka gotloga; eupša hesede ya ka e tlo ⟨את⟩ go go wena ga e yi, gomme kgwerano ya kagiso ya ka ga e gotle — go bolela Yahwe, yo a go šegetšego sehlobo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b119c6431051b02e1ac2863b70b1d9a0e8f4dddb0bdfe5efd40691395e95d655",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/54\/9-12.1792292379867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ימושו",
+      "gloss": "di ka tlošwa"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "gomme dipiti"
+    },
+    {
+      "surface": "תמוטנה",
+      "gloss": "di ka gotloga"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "gomme hesede ya ka"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ go go wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ימוש",
+      "gloss": "e yi"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "gomme kgwerano"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "ya kagiso ya ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "e gotle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "מרחמך",
+      "gloss": "yo a go šegetšego sehlobo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:39.868233742Z",
+  "model": "glm-5.3"
+}

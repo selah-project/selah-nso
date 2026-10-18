@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa bophelo",
+      "rationale": "נפש ke thogo\/moya wa bophelo, e sego 'moya' fela"
+    },
+    {
+      "kind": "alternative",
+      "subject": "le tla hwetša",
+      "rationale": "Seheberu se re 'o tla hwetša' ka botee, eupša polelo ya pele e bontši"
+    }
+  ],
+  "translation": "Gomme go tšwa moo le tla nyaka ⟨את⟩ Yahwe Elohim ya lona, gomme le tla hwetša, ge le mo nyaka ka pelo ya lona ka moka le ka ⟨את⟩ moya wa bophelo wa lona ka moka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0b25d896c4e497a4504f96a72002ad8215795466d5205b861b7e368f8bd000c6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/4\/29-32.1792285681936.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "gomme le tla nyaka"
+    },
+    {
+      "surface": "משם",
+      "gloss": "go tšwa moo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ya lona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "gomme le tla hwetša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "le mo nyaka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ka pelo ya lona"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka moka"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya wa bophelo wa lona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:08:01.936991456Z",
+  "model": "glm-5.3"
+}

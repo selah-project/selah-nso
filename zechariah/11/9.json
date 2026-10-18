@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המתה תמות · תכחד תכחד",
+      "rationale": "Infinitive-absolute repetition: 'dying let-die, perishing let-perish' — the doubling intensifies and cannot be kept in Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "רעותה",
+      "rationale": "'mošwi wa yena' (her\/its companion) vs 'yo a mongwe' (another): each eats the flesh of its companion."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "gloss": "⟨את⟩ lena — prefixed aleph-tav on the pronoun."
+    }
+  ],
+  "translation": "Gomme ka re: Nka se badise ⟨את⟩ lena; yo a hwago, a hwe; gomme yo a fediwago, a fediwe; gomme ba salego ba je, mongwe le mongwe ⟨את⟩ nama ya mošwi wa yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4d1b8e903065145ef7ada6ed44d23635c6329c7b863c8a4462c2c85c186b88d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/11\/9-12.1792296989207.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "gomme ka re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nka se"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "badise"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lena",
+      "marks": "lena"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "yo a hwago"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "a hwe"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "gomme yo a fediwago"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "a fediwe"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "gomme ba salego"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "ba je"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nama"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "mošwi wa yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:16:29.208578300Z",
+  "model": "glm-5.3"
+}

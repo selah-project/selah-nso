@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 26:17",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "matogo",
+      "rationale": "ידות ke 'matogo' ka Seheberu — di šomišwa bjalo ka ditenone tša panke; sebopego sa lentšu ke 'letogo'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אשה אל אחתה",
+      "rationale": "Idyomo ya Seheberu: 'mosadi go kgaetšadi wa gagwe' — go bolela e tee go e nngwe, e sego go bolela batho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "go dirwa ga mapanka",
+      "rationale": "Taelo ya go ela ga dikarolo tša Mishkane — palo le sebopego sa tlhago"
+    }
+  ],
+  "translation": "Matogo a mabedi go panke e tee, a kopantšwe, ⟨e tee⟩ go ⟨e nngwe⟩; bjalo o tla dira go mapanka ohle a Mishkane.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4ba5905649043316d4b06920bdb369035029294b469f1c0299e63a9592c289f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/26\/17-20.1792283082340.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "ידות",
+      "gloss": "matogo"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "go panke"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "e tee"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "a kopantšwe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "e tee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla dira"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ohle"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "mapanka"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "a Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-18T00:24:42.341656062Z",
+  "model": "glm-5.3"
+}

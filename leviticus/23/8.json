@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 23:8",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שה",
+      "rationale": "אשה ke sehlabelo sa go fišwa mollong — 'sehlabelo sa go fišwa', e sego fela 'sehlabelo'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "matsatsi a šupa; la bošupa",
+      "rationale": "Palo ya malatsi a sehlabelo le a phuthego"
+    },
+    {
+      "kind": "you",
+      "subject": "le tla gapeletša \/ le se ke la",
+      "rationale": "Bolelo go Yisraele"
+    }
+  ],
+  "translation": "Gomme le tla gapeletša ⟨קרבן⟩ sehlabelo sa go fišwa go Yahwe matsatsi a šupa; letšatšing la bošupa phuthego ya bokgethwa; mošomo ka moka wa go šoma le se ke la wa dira.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "aaddea67b567a03f02648c5bab695ddf236514b61cd15164fc86a80f7f406873",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/23\/5-8.1792284187043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקרבתם",
+      "gloss": "gomme le tla gapeletša"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sehlabelo sa go fišwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a šupa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letšatšing"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "la bošupa"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ya bokgethwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "wa go šoma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "la wa dira"
+    }
+  ],
+  "timestamp": "2026-10-18T00:43:07.044320716Z",
+  "model": "glm-5.3"
+}

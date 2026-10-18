@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 1:7",
+  "book": "nahum",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨e le⟩",
+      "rationale": "Sepedi e nyaka kopula ye Seheberu se se se nago"
+    },
+    {
+      "kind": "substitution",
+      "subject": "setšireletšo",
+      "rationale": "מעוז semologo ke lephaka la mašaka; 'setšireletšo' ke kgetho ya go šireletša"
+    }
+  ],
+  "translation": "Yahwe o botse, e le setšireletšo letšatšing la masetlapelo, gomme o tseba ba ba ipšhereletšago go yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2753e24e13d4cfac7b4006ad05314ad699fbf76baec817c473e4a5a738a79613",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nahum\/1\/5-8.1792296649314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "o botse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למעוז",
+      "gloss": "e le setšireletšo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letšatšing la"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "masetlapelo"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "gomme o tseba"
+    },
+    {
+      "surface": "חסי",
+      "gloss": "ba ba ipšhereletšago"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:10:49.315239222Z",
+  "model": "glm-5.3"
+}

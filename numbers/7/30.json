@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ela",
+      "rationale": "Sepedi e nyaka lentšu la sesupo ge mongwalo o se wa o nea"
+    },
+    {
+      "kind": "measurement",
+      "subject": "la bone",
+      "rationale": "go bala matšatši a dikgoši tša hlabela — letsatsi la bone"
+    },
+    {
+      "kind": "elision",
+      "subject": "פעל ההקרבה",
+      "rationale": "mongwalo o se wa bolela 'o ile a hlabela' — mokgwa wa di-verses tša molao wa di-12"
+    }
+  ],
+  "translation": "Ka la bone, kgoši ya bana ba Reubene: Elitsure, morwa wa Shedewure.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ac7dece286d1d88ce78e8e99ad7953941de6778744787fe13133774503074d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/7\/29-32.1792284568515.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka la"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "la bone"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsure"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedewure"
+    }
+  ],
+  "timestamp": "2026-10-18T00:49:28.515989328Z",
+  "model": "glm-5.3"
+}

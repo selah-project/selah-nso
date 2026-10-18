@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 38:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כבד \/ יכבדו",
+      "rationale": "Root כבד repeated: 'heavy' and 'they are heavy' — Sepedi keeps it with 'boima \/ boima'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "go feta naga ya ka",
+      "rationale": "ממני literally 'from me', i.e. 'too heavy for me' — rendered as exceeding me."
+    }
+  ],
+  "translation": "Ka gobane mebe ya ka e feta tlase ga hlogo ya ka, e le bjalo ka morwalo o boima, e a boima go feta naga ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/38\/5-8.1792297630898.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "mebe ya ka"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "e feta"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlogo ya ka"
+    },
+    {
+      "surface": "כמשא",
+      "gloss": "e le bjalo ka morwalo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "o boima"
+    },
+    {
+      "surface": "יכבדו",
+      "gloss": "e a boima"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go feta naga ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:10.899418318Z",
+  "model": "glm-5.3"
+}

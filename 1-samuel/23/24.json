@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ימין",
+      "rationale": "'ja ngele' (north\/south) — Seheberu se bolela 'letshatshi la go ja'; BSB: 'south'."
+    },
+    {
+      "kind": "hapax-note",
+      "subject": "הישימון",
+      "rationale": "Leina la lefelo le la Jeshimone le hlamile 'place ya lefase leo le se nago bjang' — lefile go ntšha leina."
+    }
+  ],
+  "translation": "Gomme ba theoga ba sepela ba-Zife pele ga Šaule; fela Dafida le banna ba gagwe ba be ba le naganeng ya Maone, go Arabe, go la ja ngele ya Jeshimone.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c0ed6fcac6cc2e16d43ce6e198d650ed6fd7955df1ee1f8b15fb8c3c19e47b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/23\/21-24.1792288525036.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "ba theoga"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba sepela"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "ba-Zife"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaule"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le banna ba gagwe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "naganeng ya"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Maone"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "go Arabe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go la"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ja ngele"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "Jeshimone"
+    }
+  ],
+  "timestamp": "2026-10-18T01:55:25.037581663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "masomeseswai le lekgolo la matsatsi (180)",
+      "rationale": "Palo ya matsatsi a moletlo — 180."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tekanyo",
+      "rationale": "יקר bolela boleng\/maphelo a tlhago e kgethegilego; 'tekanyo' (boleng) e laetše gore ga se maphelo feela."
+    }
+  ],
+  "translation": "Ge a bontšha ⟨את⟩ maphelo a kganyogo ya bogoši bja gagwe le ⟨את⟩ tekanyo ya bohlale bja bogolo bja gagwe, matsatsi a mantsi — masomeseswai le lekgolo la matsatsi.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "8d74a11ea25af1db6bcf72b20acef22d1170627026705392d9fbad140ced0df0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/1\/1-4.1792301617415.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "ge a bontšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maphelo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "maphelo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "a kganyogo"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ya bogoši bja gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "tekanyo"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "tekanyo"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ya bohlale"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "bja bogolo bja gagwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "masomeseswai"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "le lekgolo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "la matsatsi"
+    }
+  ],
+  "timestamp": "2026-10-18T05:33:37.416878310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ונתעודד",
+      "rationale": "Hitpael ya עוד e hlaga fela mo go Tanakh; modumo wa go ipola ka go boelela — 're itlama ka maoto'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרעו\/נפלו kgahlanong le קמנו\/ונתעודד",
+      "rationale": "Pharologantšho ya go wa kgahlanong le go tsoga — sepheo se se bolokegitše ka go Sepedi"
+    }
+  ],
+  "translation": "Bona, ba nametše gomme ba wile, eupša re tsogile gomme re eme ka maoto.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "818e6ed0e344f179ad700476c5a46fa027c8d31a3544aa3c03a89f5a27c8839e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/20\/9-10.1792297315481.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Bona"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ba nametše"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "gomme ba wile"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "eupša re"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "re tsogile"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "gomme re eme ka maoto"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:55.481951737Z",
+  "model": "glm-5.3"
+}

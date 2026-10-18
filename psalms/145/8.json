@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארך אפים",
+      "rationale": "'botala bja mafofolo' — e sego nako e botala, eupša mafofolo a botala; idiom ya Seheberu ya go halefa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesede",
+      "rationale": "hesede — lentšu la Seheberu le sa fetolelwago; botebong bja lona: mohau, kgwerano, botho mmogo"
+    },
+    {
+      "kind": "addition",
+      "subject": "copula",
+      "rationale": "Sepedi e nyaka mokgwa wa go hlalosa; Seheberu se nale mabitšo fela, go se na sehlengwa"
+    }
+  ],
+  "translation": "Mohau Yahwe, mohau le tlhokomelo, botala bja mafofolo go halefa, gomme hesede hlogo godimo",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4e6a216089b2dccb24e04e3faf03ddae0a90834c58010e66ec559eb1a503a58e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/145\/5-8.1792299090333.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Mohau <add>Mohau<\/add>"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "mohau le tlhokomelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "botala bja"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "mafofolo"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "gomme ... hlogo godimo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:30.334672125Z",
+  "model": "glm-5.3"
+}

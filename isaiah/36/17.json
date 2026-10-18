@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תירוש",
+      "rationale": "moroto motala wa merara o sa nago go lebega goba tnwšo; mo tnwšo ya merara"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארץ ×3",
+      "rationale": "go bušetša ga 'lefase' ga tharo ga kgatha, sebopego sa boipiletšo"
+    }
+  ],
+  "translation": "go fihlela ke tla gomme ke tsea ⟨אתכם⟩ go ya lefase leo le swanago le lefase la lena, lefase la poone le tnwšo ya merara, lefase la bogobe le merara.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8881f14b30031a125d43260bb96bd7300760a5d2775bf4b6cd091b70ec8f92c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/36\/17-20.1792291969520.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ke tla"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "gomme ke tsea"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "lenа — lentšu la bobedi bja bontši"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "leo le swanago le lefase la lena"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "la poone"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "gomme tnwšo ya merara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "la bogobe"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "gomme merara"
+    }
+  ],
+  "timestamp": "2026-10-18T02:52:49.521134150Z",
+  "model": "glm-5.3"
+}

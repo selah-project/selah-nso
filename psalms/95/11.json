@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a ba se ke",
+      "rationale": "אם ya ikano ya Seheberu e rula go nyatša ka go se bue; Sepedi e nyaka gore goba a ba se ke ba tsena."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bolalelo",
+      "rationale": "באפי semmuso ke 'nosefeng ya ka' — Sesotho sa Seheberu se bolela bolalelo ka selaodi se; 'nosefeng' bo be bo tletše."
+    }
+  ],
+  "translation": "gore ke ile ka ikana ka bolalelo bja ka ⟨a ba se ke⟩ ba tsena boikhutšong bja ka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "467d620d567a1688305a2cb8a2f79343e69a1ab4b867957c8c75f414d92f02d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/95\/10-11.1792305292239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ke ile ka ikana"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ka bolalelo bja ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨a ba se ke⟩"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "boikhutšong bja ka"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:52.239839117Z",
+  "model": "glm-5.3"
+}

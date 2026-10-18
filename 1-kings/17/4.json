@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערבים",
+      "rationale": "'Dikokwa' (direbavui) kgahlanong le 'Baarabu' goba 'ba ba tšwago mafolobotha' — mafelelo a fapafapano a dirišwa ke diphetoledi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרית \/ כרת",
+      "rationale": "Leina la nako ya Kerite e tšwana le go 'kgaola' — sekošo se ka se fetolelwe."
+    }
+  ],
+  "translation": "Gomme e tla ba gore o tla nwela go meetse a nako yeo, gomme ⟨את⟩ dikokwa ke laetše go go fepa mo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bdbf93178e807a081979c543dea798b3abe00eb771bbc55599859ae788ef2d11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/17\/1-4.1792290167170.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "gomme e tla ba gore"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "go meetse a nako yeo"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "o tla nwela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikokwa"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "dikokwa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ke laetše"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "go go fepa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:22:47.171982861Z",
+  "model": "glm-5.3"
+}

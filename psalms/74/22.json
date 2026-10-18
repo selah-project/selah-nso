@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ריבה ריבך",
+      "rationale": "Go boelela ga modumo o tee (riva rivkha — lwa kgetho ya gago) — sefoko se se tswelelapelago ga se ka se bolokwa ka botlalo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נבל",
+      "rationale": "'senyaka' — nabal e bolela yo a sa hlalosago, yo a imilwego ka bobula, e sego fela yo a fošago."
+    }
+  ],
+  "translation": "Tsoha, Elohim, lwa kgetho ya gago; gopola nyefatšo ya gago go tšwa go senyaka, letšatši lohle.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/74\/21-23.1792298237826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Tsoha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "kgetho ya gago"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gopola"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "nyefatšo ya gago"
+    },
+    {
+      "surface": "מני",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "senyaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letšatši"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:17.826795087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bošhuthi",
+      "rationale": "בצר ke 'go šhuthišetša, lefelo le le septhilego' — bothata bjalo ka sebopego sa lefelo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "lešeo",
+      "rationale": "רנה e ka ba sego sa thabo goba sa bodišo; mo sego sa bodišo sa setšhabo se šhuthišetšwego"
+    }
+  ],
+  "translation": "Gomme a bona bošhuthi bja bona, ge a kwa ⟨את⟩ lešeo la bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "206ba5401ff66f1485eb19441b5c0051f28ac7fc76cf7993e049589aac1b2b5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/44-44.1792305314998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gomme a bona"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "bošhuthi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bja bona"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "ge a kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lešeo la bona"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "lešeo la bona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:14.999072552Z",
+  "model": "glm-5.3"
+}

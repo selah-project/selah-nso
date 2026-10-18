@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "daniel 8:11",
+  "book": "daniel",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרים",
+      "rationale": "roota רום: 'ha tlošwa' (sa tlošwa go yena — JPS, ASV) kgotalo le 'la ikgodisa' (Geneva); KJV e ka se hlale ka botlalo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "התמיד",
+      "rationale": "'sa mehlakana' — Lentšu le le botse ke 'sa go tselafala'; sehlabelo sa mehlakana ke sehlakahlaka sa go fišwa sefišwa"
+    }
+  ],
+  "translation": "Gomme la ikgodisa go fihla go molaodi wa mading; gomme go tšwa go yena sehlabelo sa mehlakana se ile sa tlošwa, gomme lefelo la bokgethwa bja gage le ile la lašwa.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "376d211f1867062096337b7cbfcea7e76fc90344c2da29136bc265ad31e1cd16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/8\/9-12.1792301974607.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "gomme go fihla go"
+    },
+    {
+      "surface": "שר",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "wa mading"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "la ikgodisa"
+    },
+    {
+      "surface": "וממנו",
+      "gloss": "gomme go tšwa go yena"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "sa tlošwa"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "sehlabelo sa mehlakana"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "le ile la lašwa"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "la bokgethwa bja gage"
+    }
+  ],
+  "timestamp": "2026-10-18T05:39:34.608773559Z",
+  "model": "glm-5.3"
+}

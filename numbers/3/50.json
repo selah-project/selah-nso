@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "1365",
+      "rationale": "Palo e feletšego ya mashekele — sekete, makgolo a mararo, masometharo le hlano — e balwa ka botlalo go swana le Seheberu."
+    },
+    {
+      "kind": "elision",
+      "subject": "shekele ya bokgethwa",
+      "rationale": "הקדש e šumišwa bjalo ka lebitso la bokgethwa bja bogareng bja bokgethwa — e sego fela 'bokgethwa bja kgobotlo'."
+    }
+  ],
+  "translation": "Go tšwa go ⟨את⟩ ba ba tšwago pele ga bana ba Yisraele, o tšeile ⟨את⟩ tšhelete — sekete le makgolo a mararo le tše masometharo le tše hlano — ka shekele ya bokgethwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "eb4a102b2ff5adce76a5147be0262aabb9346578e3ad8b592b57124e3db6c1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/3\/49-51.1792284402083.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "go tšwa go ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ba ba tšwago pele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o tšeile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tšhelete"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "tšhelete"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "le tše hlano"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "le tše masometharo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "le makgolo a mararo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ka shekele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya bokgethwa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:46:42.084841806Z",
+  "model": "glm-5.3"
+}

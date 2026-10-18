@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 16:20",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חמור לחם",
+      "rationale": "Literally 'an ass of bread' — an ass laden with bread; the loading is implicit in the construct, not stated in Hebrew."
+    },
+    {
+      "kind": "elision",
+      "subject": "ביד",
+      "rationale": "'by the hand of' is literal; some versions shorten to 'by David', but the Hebrew keeps the hand — preserved as ka seatla sa."
+    }
+  ],
+  "translation": "Gomme Yishai a tšea phuthi ya bogobe, le mosese wa vein, le kwana ya podi ye tee, a romela ka seatla sa Dafida morwa wa gagwe go Shaule.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2deb5f0605a2be5a59ac1ecad8774917a9104b4e82509b18668e822de2f95417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/16\/17-20.1792288313724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tšea"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishai"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "phuthi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ya bogobe"
+    },
+    {
+      "surface": "ונאד",
+      "gloss": "mosese"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wa vein"
+    },
+    {
+      "surface": "וגדי",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ya podi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ye tee"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    }
+  ],
+  "timestamp": "2026-10-18T01:51:53.725474074Z",
+  "model": "glm-5.3"
+}

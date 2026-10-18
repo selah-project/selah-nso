@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na copula; Sepedi se e nyaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "מצפון זהב",
+      "rationale": "KJV 'mohola o mobotsweu wa leboa' kgahlanong le mantšu a mabedi a lokametšego: 'go tšwa leboa, gauta e a tla'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Eloha",
+      "rationale": "Bogolo bja Eloha bo tlatša sephiring — motho a ka se bo hwetše ka botlalo"
+    }
+  ],
+  "translation": "Go tšwa leboa go tla ka gauta; go Eloha ⟨ke⟩ bogolo bjo bo tšhabisago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "81d9625d85a0db5579533b0c0301a5775d9dd41ad51b038d83e146813a492fd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/37\/21-24.1792300769171.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "go tšwa leboa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "go tla"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "bjo bo tšhabisago"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "bogolo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:19:29.172267227Z",
+  "model": "glm-5.3"
+}

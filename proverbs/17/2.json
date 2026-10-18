@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mo⟩",
+      "rationale": "Seheberu se šomiša ב־ (b-) ya go laela; Sepedi se nyaka ⟩mo⟨ pele ga morwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "יחלק נחלה",
+      "rationale": "KJV 'o tla hwetša karolo ya bojwale' kgahlanong le YLT 'o arola bojwale'; חלק ka mekoko e bedi — go arola goba go hwetša karolo."
+    }
+  ],
+  "translation": "Mohlanka wa go hlalosa o tla busa ⟨mo⟩ morwa yo a dienyago, gomme gare ga bana ba bagoši o tla arola bojwale.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a4a6ac4f9a499f64129053a89dbef8434d73903c1126f2fa50528d16e8a6236f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/17\/1-4.1792299532930.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "mohlanka"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "wa go hlalosa"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "o tla busa"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "yo a dienyago"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "gomme gare ga"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bana ba bagoši"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "o tla arola"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "bojwale"
+    }
+  ],
+  "timestamp": "2026-10-18T04:58:52.931732471Z",
+  "model": "glm-5.3"
+}

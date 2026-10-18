@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 2:8",
+  "book": "micah",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמי לאויב",
+      "rationale": "Setšhaba sa ka se tlhatlogile bjalo ka lenaba — kganetšo e botse gare ga batho ba Modimo le baba ba bona."
+    },
+    {
+      "kind": "crux",
+      "subject": "שובי מלחמה",
+      "rationale": "Ba boelago ba tloga ntweng (ba phološitšwe) goba ba ineela go tloga ntweng (KJV\/YS)? — ditsela tše pedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maabane",
+      "rationale": "ואתמול e bolela maabane — ka mo go tlwaelegilego \"ka thomong ya nako e fetilego\"."
+    }
+  ],
+  "translation": "Gomme maabane setšhaba sa ka se tlhatlogile bjalo ka lenaba; go se bapetša le kgobotša seaparo se segolo go ba ba sepelago ka kgethišo, ba boelago ba tloga ntweng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "647b80723728cdd5af2dbf66ff73331d07ceffe88b1393f0179c442382098790",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/micah\/2\/5-8.1792296449963.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתמול",
+      "gloss": "Gomme maabane"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "lenaba"
+    },
+    {
+      "surface": "יקומם",
+      "gloss": "se tlhatlogile"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "go se bapetša"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "seaparo"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "se segolo"
+    },
+    {
+      "surface": "תפשטון",
+      "gloss": "le kgobotša"
+    },
+    {
+      "surface": "מעברים",
+      "gloss": "ba ba sepelago"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ka kgethišo"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "ba boelago"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntweng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:07:29.964860874Z",
+  "model": "glm-5.3"
+}

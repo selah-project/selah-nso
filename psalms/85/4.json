@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sehuba",
+      "rationale": "אף ke 'nose\/nostril' — tlhahlo ya Sepedi e šumiša 'sehuba' go swana le bofelo bja Sesotho sa 'nose'; tsela ya Sesotho ya go bolela ka gale"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עברה\/אף",
+      "rationale": "nose le boika-fošo di kopane — Sesotho\/sa Sepedi 'boika-fošo' le 'sehuba' di swana le 'nose\/boika-fošo' tša Seheberu"
+    }
+  ],
+  "translation": "O kokobeditše makgopelo ka moka a gago, o boeditše go tšwa go tukisho ya sehuba sa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/85\/1-4.1792298343646.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "o kokobeditše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "makgopelo a gago"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "o boeditše"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "tukisho"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "sehuba sa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:03.647298560Z",
+  "model": "glm-5.3"
+}

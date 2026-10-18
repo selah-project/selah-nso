@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי עד צדק ישוב משפט",
+      "rationale": "sephetho se se gabago: 'kahlolo e tla boela go tsedeke' — goba 'tsedeke e tla boela go kahlolo'; Lentšu la Seheberu le dumelela ka bobedi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואחריו",
+      "rationale": "'gomme ba thwii ba pelo ba tla e latela' — pukwana ya go latela e fa godimo ga go ba gare"
+    }
+  ],
+  "translation": "Ka gobane kahlolo e tla boela go tsedeke, gomme ka morago ga yona kamoka ba thwii ba pelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c9a08e5c29c1506f3893aaf998809516621aba1058ba6867a065c6c93e25ca0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/94\/13-16.1792298506340.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "e tla boela"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "gomme ka morago ga yona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kamoka"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ba thwii"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ba pelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:46.341589678Z",
+  "model": "glm-5.3"
+}

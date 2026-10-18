@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לביתך",
+      "rationale": "'gae' — Lentšu la Sepedi le nyaka go oketša 'a gago' go bolela gore ke gae ga mang; Seheberu se na le sehlogi"
+    },
+    {
+      "kind": "you",
+      "subject": "go mosadi wa Yarovhamo",
+      "rationale": "boeledi bjo bo bolella mosadi wa Yarovhamo a le tekoong ya botshilo"
+    }
+  ],
+  "translation": "Gomme wena, o tloge, o ye gae; ge maoto a gago a tsena motšomong, ngwana o tla hwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dbb17bd20bd454ab7a3d724cff54c7efa4af5f2a2f4fed7112991115887b66e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/14\/9-12.1792290068462.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme wena"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "o tloge"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "o ye"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "gae"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "ge a tsena"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "maoto a gago"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "motšomong"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "o tla hwa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ngwana"
+    }
+  ],
+  "timestamp": "2026-10-18T02:21:08.463411563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 32:32",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Copula supplied; Hebrew juxtaposes without verb"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רוש",
+      "rationale": "Poisonous plant (perhaps poppy) rendered 'boloi' (poison); species uncertain"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ענבמו \/ ענבי",
+      "rationale": "Grape-upon-grape repetition frames the bitter-cluster climax"
+    }
+  ],
+  "translation": "Ka gobane muiri wa bona ⟨ke⟩ wa muiri wa Sedome, le wa masimong a Amorha; palešana ya bona ke palešana ya boloi, dikgoba tša kunu go bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c67d672c8a66b2a780ff34c83280611977e93f49a47615fc86b87202d50a5d1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/32\/29-32.1792286368162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "wa muiri wa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedome"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "muiri wa bona"
+    },
+    {
+      "surface": "ומשדמת",
+      "gloss": "le wa masimong a"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amorha"
+    },
+    {
+      "surface": "ענבמו",
+      "gloss": "palešana ya bona"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "palešana ya"
+    },
+    {
+      "surface": "רוש",
+      "gloss": "boloi"
+    },
+    {
+      "surface": "אשכלת",
+      "gloss": "dikgoba"
+    },
+    {
+      "surface": "מררת",
+      "gloss": "ta kunu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "go bona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:19:28.163778673Z",
+  "model": "glm-5.3"
+}

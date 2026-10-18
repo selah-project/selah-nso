@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Peletšo ya kgutšo e lebela go Yahwe ka boema — 'o se ke wa ntlogela'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד מאד",
+      "rationale": "Idiomo ya Seheberu — 'go fihla kudu' — e diretšwe bjalo ka 'go feleletša kudu', e sego ka nako fela."
+    }
+  ],
+  "translation": "⟨את⟩ melao ya gago ke e tlhapela; o se ke wa ntlogela go feleletša kudu!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "98bb0e9185f46b87e351d62541c78edc3e05053bb5c705a5a6612adebae06563",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/5-8.1792298764049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya gago"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melao ya gago"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ke e tlhapela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "wa ntlogela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go feleletša"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:04.050637885Z",
+  "model": "glm-5.3"
+}

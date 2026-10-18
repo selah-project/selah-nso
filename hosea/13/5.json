@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תלאבות",
+      "rationale": "lentšu le rarane go laka; le swantšha \"kome\" — lefase la go omilego ka mo go tseneletseng"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני ידעתיך",
+      "rationale": "go thoma ka \"Ke nna\" go nea maemo godimo ga tshekamelo ya go tseba ya Yahwe, se se sa bontšhago ka botlalo ka Sepedi"
+    }
+  ],
+  "translation": "Ke nna, ke ile ka go tseba ka naganeng, lefaseng la kome.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9fee155d666b1e2ca38a83d490d1ce3a728632f5e355bc5c9c8a7573409201d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/13\/5-6.1792305208079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ke nna"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "ke ile ka go tseba"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ka naganeng"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "la kome"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:28.079850185Z",
+  "model": "glm-5.3"
+}

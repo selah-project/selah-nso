@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ערב\/זאב",
+      "rationale": "Maina a dikgoši tša Midiane: Oreb ('kgogo') le Zeeb ('phiri') — maina a diphoofolo a ka se fetolwe"
+    },
+    {
+      "kind": "invitation",
+      "subject": "O beise",
+      "rationale": "Kgopelo ya go laela Yahwe go dira bjalo ka dikgotelelo tša pelaelo tša manaba"
+    }
+  ],
+  "translation": "O beise dihlogo tša bona bjalo ka Oreb le bjalo ka Zeebe, gomme bjalo ka Zebakh le bjalo ka Tsalmuna, dikgoši tša ka moka tša bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/83\/9-12.1792298301441.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "O beise"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "dihlogo tša bona"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "bjalo ka Oreb"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "le bjalo ka Zeebe"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "gomme bjalo ka Zebakh"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "le bjalo ka Tsalmuna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tša ka moka"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "dikgoši tša bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:21.442119748Z",
+  "model": "glm-5.3"
+}

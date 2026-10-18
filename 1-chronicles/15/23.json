@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba be",
+      "rationale": "Seheberu ga se na kopula; Sepedi e nyaka 'ba be' go swantšha go le gona"
+    },
+    {
+      "kind": "substitution",
+      "subject": "areka",
+      "rationale": "ארון ke 'lepokisi'; 'areka' ke lentšu le tee leo le šomišwago ka mehla bakeng sa arka ya kgwerano"
+    }
+  ],
+  "translation": "Gomme Berekja le Elkana ⟨ba be⟩ balebeledi ba kgoro bakeng sa ⟨את⟩ areka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9585ce95641fb4e46a48c5194594fc259a99cb193d368b5fe583f9ea5a87d89a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/15\/23-24.1792305439374.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "gomme Berekja"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "le Elkana"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "balebeledi ba kgoro"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "bakeng sa areka"
+    }
+  ],
+  "timestamp": "2026-10-18T06:37:19.375215802Z",
+  "model": "glm-5.3"
+}

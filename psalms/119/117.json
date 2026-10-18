@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go",
+      "rationale": "Seheberu se se na le setlabelo sa infinitive, Sepedi se nyaka ⟨go⟩"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואשעה",
+      "rationale": "'go lebelela ka tshepo ya thušo' kgahlanong le 'go tlogela kgahlanong le' — ke go lebelela ka thuso"
+    }
+  ],
+  "translation": "O seketše ⟨o⟩ nna, gomme ke tla pholwa, gomme ke tla lebelela ⟨go⟩ melawana ya gago ka mehla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a4883c5a39ebe37aec8aa6c88f09eda5e0a94d92f61eb925fce7ea87fbecaee4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/117-120.1792298880872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "O seketše ⟨o⟩ nna"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "gomme ke tla pholwa"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "gomme ke tla lebelela"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "⟨go⟩ melawana ya gago"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka mehla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:00.872893820Z",
+  "model": "glm-5.3"
+}

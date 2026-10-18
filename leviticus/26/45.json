@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 26:45",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראשנים",
+      "rationale": "Literal 'ya mathomo' (the first\/former covenant); KJV\/JPS read 'ya maloko' (of their ancestors) — the word is 'first ones', not 'fathers'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתם",
+      "rationale": "Aleph-tav with 3mp suffix attached; the ⟨את⟩ marker points at 'go tšwa lefaseng la Mitsrayime'."
+    }
+  ],
+  "translation": "Gomme ke tla kgopola bona kgwerano ya mathomo, yeo ke ntšhitšego bona ⟨את⟩ go tšwa lefaseng la Mitsrayime, mahlong a ditšhaba, gore ke be Elohim wa bona; nna ke Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "80c72a2b405ad72c60fa7b22a60c77ca4bfc5f1ba4012414a4af45de1b68cc98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/26\/45-46.1792284307779.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "ke tla kgopola"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "ya mathomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ke ntšhitšego"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "go tšwa lefaseng la Mitsrayime"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "להית",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:45:07.780042951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Hesede",
+      "rationale": "חסד e bolokwa bjalo ka hesede ka D2; ga go na lentšu le tee la Sepedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "חסדי",
+      "rationale": "'hesede ya ka' goba 'yo a lentšweng go ka': barutwii ba fapana — e le thoko ya go itshepiša goba theetšollo ya Modimo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka sehlodi se se tletšego lenanong la maina"
+    },
+    {
+      "kind": "alternative",
+      "subject": "phapošo",
+      "rationale": "ומצודתי e ka boela e ra 'leme la go tšwara'; kgetho ya bobedi: lebothiba la ka"
+    }
+  ],
+  "translation": "Hesede ya ka le phapošo ya ka, phahamo ya ka le mosireledi wa ka; ⟨ke⟩ tšhego ya ka, gomme ka yona ke tshepile; yo a laolang setšhaba sa ka ka fase ga ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/144\/1-4.1792299067426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Hesede ya ka"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "le phapošo ya ka"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "phahamo ya ka"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "le mosireledi wa ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ya ka⟩"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "tšhego ya ka"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "gomme ka yona"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "yo a laolang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ka fase ga ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:07.427402133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 102:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "pelo ya ka",
+      "rationale": "Seheberu se re 'e betšwe' ka ntle le lengolo la pelo — pelo e tšwa temaneng ya 4"
+    }
+  ],
+  "translation": "Pelo ya ka e betšwe, ya oma bjalo ka hloko; ka gobane ke lebilwe go ja bogobe bja ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/102\/5-8.1792298554840.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוכה",
+      "gloss": "e betšwe"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "bjalo ka hloko"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ya oma"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ke lebilwe"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "go ja"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "bogobe bja ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:34.841301351Z",
+  "model": "glm-5.3"
+}

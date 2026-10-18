@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "חשמנים",
+      "rationale": "Sefoko se se bolelang bao ba nago le seriti \/ ba maatla se hlaga fela mo."
+    },
+    {
+      "kind": "idiom",
+      "subject": "תריץ ידיו",
+      "rationale": "Sefoko sa Seheberu 'go dira diatla tša yena go ela' = go tšwela pele ka lebelo; Sepedi: 'o tla gotša ka lebelo diatla'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "Mitsrayime le Kushi",
+      "rationale": "Maina a mafelo a MENATE a dietšhabang a tšwelago pele golokwa ka modumo wa Seheberu."
+    }
+  ],
+  "translation": "Bao ba nago le seriti ba tla go tšwa Mitsrayime; Kushi o tla gotša ka lebelo diatla tša yena go Elohim.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2370dfcffe6a436facc24f2f75ec82f5be09e01dc89cb952d8319197ecf0aca4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/68\/29-32.1792298077016.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "bao ba nago le seriti"
+    },
+    {
+      "surface": "מני",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushi"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "o tla gotša ka lebelo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "diatla tša yena"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:37.017495792Z",
+  "model": "glm-5.3"
+}

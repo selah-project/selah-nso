@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צפה\/הצפית",
+      "rationale": "Pun between the verb 'watch' and 'the watch(er)' — same root twice, kept as lebeletše\/molebeleli."
+    },
+    {
+      "kind": "crux",
+      "subject": "צפה",
+      "rationale": "Root can mean 'to plate with metal' (JPS: 'they light the lamps' \/ BSB: 'lay out a carpet'); rendered here as 'watch' after the watchtower context."
+    },
+    {
+      "kind": "you",
+      "subject": "dikgoši",
+      "rationale": "Sudden imperative address to the princes amid third-person description."
+    }
+  ],
+  "translation": "Beang tafola, lebeletše molebeleli, jang, nwang: emang, dikgoši, di-lotše thebe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b7182f630223fbd1087c8365412220fe075068049971970cb37fb53b34df13a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/21\/5-8.1792291614145.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "beang"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "tafola"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "lebeletše"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "molebeleli"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "jang"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "nwang"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "emang"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "di-lotše"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "thebe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:46:54.145756489Z",
+  "model": "glm-5.3"
+}

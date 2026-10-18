@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "lamo…lamo",
+      "rationale": "go bolela ga boeletši bja prep. לְמוֹ ('go bona' gabedi) — mokgwa wa molomo o weleng ka ntle"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחזקו למו דבר רע",
+      "rationale": "'ba ikemetše tabeng ya be' (KJV) kgathanong le 'ba e tiisetsa go bona' — object e a ganwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dihemela",
+      "rationale": "מוקשים ke dihemela tša go tšasa diphooofolo — seswantšho se bolokwa"
+    }
+  ],
+  "translation": "Ba tiisa bolekwa bja go uta dihemela; ba bolela ka go uta tšona ka sephiring; ba re: Ke mang yo a ka di bonago?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/64\/5-8.1792297991796.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "ba tiisa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bja go bona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "bolekwa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bja be"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ba bolela"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "go uta ka sephiring"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "dihemela"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "yo a ka di bonago"
+    },
+    {
+      "surface": "למו",
+      "gloss": "di"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:11.797658136Z",
+  "model": "glm-5.3"
+}

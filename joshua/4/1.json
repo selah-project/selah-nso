@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "setšhaba",
+      "rationale": "הגוי mo e le setšhaba sa Yisraele, e sego ditšhaba tša dinaga"
+    },
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "go bolela-go re ka Seheberu; go hlakile ka Sepedi"
+    }
+  ],
+  "translation": "Gomme go bile bjalo ge setšhaba ka moka se phethile go feta ⟨את⟩ Yoretane ya Yoridane, Yahwe a bolela go Yehoshua a re:",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "302add0f9dd61a390f8ff10f9c6e7521801e07ce2c4614323c71999dbfbaea87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/4\/1-4.1792286526880.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go bile bjalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ge"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "se phethile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoridane"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoridane"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-18T01:22:06.881380089Z",
+  "model": "glm-5.3"
+}

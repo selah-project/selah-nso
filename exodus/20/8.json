@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "gopolang",
+      "rationale": "taelo ya go gopola — pitšo ya go bala setšhabeng sa Yisraele"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bokgethwa",
+      "rationale": "קדש e fetolelwa ka motheo wa -kgethwa, e sego halalela ya Sesotho"
+    }
+  ],
+  "translation": "Gopolang ⟨את⟩ letšatši la Shabata, go le kgethwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "41308f4f23a599796d492e03516d43c737d999f9f820f748a94e8c79ab307c7c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/20\/5-8.1792282889118.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "gopolang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letšatši la Shabata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Shabata"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "go le kgethwa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:29.119823439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 7:10",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "דובב",
+      "rationale": "Lentšu le tla feela mo go Tanakh — go thethabetsa ka bonolo, go fifaditswe"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישנים",
+      "rationale": "'Ba balalelego' (KJV) kgathanong le 'ba bahologolo' (LXX) — ditlhopho tše pedi tša motheo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bja gago⟩",
+      "rationale": "Seheberu se na le sebopego se tsamailwego, lentšu la kgethišo le okeditšwe go Sepedi"
+    }
+  ],
+  "translation": "Gomme letego la gago le bjalo ka bjalwa bjo bobotse, se sepelago go ratoa wa ka ka boteka, se hlohleletšago molomo wa ba balalelego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2184022e642cde1860baa9f1e65f0b069d3fd6eddbb4bfcea15fdffc0da6ce1d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/7\/9-12.1792301035551.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחכך",
+      "gloss": "gomme letego la gago"
+    },
+    {
+      "surface": "כיין",
+      "gloss": "le bjalo ka bjalwa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "bjo bobotse"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "se sepelago"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "go ratoa wa ka"
+    },
+    {
+      "surface": "למישרים",
+      "gloss": "ka boteka"
+    },
+    {
+      "surface": "דובב",
+      "gloss": "se hlohleletšago"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomo wa"
+    },
+    {
+      "surface": "ישנים",
+      "gloss": "ba balalelego"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:55.552120985Z",
+  "model": "glm-5.3"
+}

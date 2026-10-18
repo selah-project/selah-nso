@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נקלה",
+      "rationale": "'Scorched\/toasted' — KJV 'loathsome disease', JPS 'burning'; the picture is internal burning heat."
+    }
+  ],
+  "translation": "Ka gobane serope sa ka se tletše go fišwa, gomme go sego boiphediso ka nameng ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e0e4481c66985f76af9c5f6a00308d3b84c548b2b59255c12da3f9d044e2080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/38\/5-8.1792297630898.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "serope sa ka"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "se tletše"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "go fišwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme go sego"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "boiphediso"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "ka nameng ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:10.899902776Z",
+  "model": "glm-5.3"
+}

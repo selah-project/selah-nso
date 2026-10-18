@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 24:14",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelo",
+      "rationale": "נפש ke moya wa bophelo, mpsha fela; 'pelo' ke karolo ya motho ya go nyaka le go iketla."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tshepo",
+      "rationale": "תקוה ka boelega ke thapo ya go gogiswa — tebogo ya bokamoso."
+    },
+    {
+      "kind": "crux",
+      "subject": "אחרית",
+      "rationale": "'bokamoso' kgahlanong le 'mokgabo' goba 'maswao' — dikgethi tša ba fetoleli."
+    }
+  ],
+  "translation": "Bjalo, tseba bokgabi go ⟨pelo⟩ ya gago; ge o se o hwetše ⟨e⟩, gomme go tla ba le bokamoso, gomme tshepo ya gago e ka se reelwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "df8f5789cc2fc7e8ad7ccdf54fc09b2aa73ad435dd0b112bc89e8ba8f5c41659",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/24\/13-16.1792299833101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Bjalo"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "tseba"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bokgabi"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "go pelo ya gago"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "o hwetše"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "gomme go tla ba le"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "bokamoso"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "gomme tshepo ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ka se"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "e reelwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:03:53.102584746Z",
+  "model": "glm-5.3"
+}

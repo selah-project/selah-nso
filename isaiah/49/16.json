@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חקתיך",
+      "rationale": "'ke go khutlhile' — ba fetoleli ba bangwe ba re 'ke go ngwadile'; sebopego ke sa go khutlha ka seswantšho"
+    },
+    {
+      "kind": "elision",
+      "subject": "חומותיך",
+      "rationale": "dikgoro tša Sione — sebopego se ra 'dikgoro tša go šireletša', se laelwa ka go se bontšhe ka botlalo"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הן",
+      "rationale": "'Bonang' — go bitsa mahlo a mmadi go lebelela seswantšho"
+    }
+  ],
+  "translation": "Bonang, go mangwaneng a diatla tša me ke go khutlhile ⟨את⟩ wena; dikgoro tša gago di dula pele ga me ka mehla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f8507b5336344870947ea6223c7afe9be6f6e98ab0819e3bb7226b34166eec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/49\/13-16.1792292259500.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "mangwaneng a diatla tša me"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "ke go khutlhile ⟨את⟩ wena"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "dikgoro tša gago"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "pele ga me"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka mehla"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:39.501909528Z",
+  "model": "glm-5.3"
+}

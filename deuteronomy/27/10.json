@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "melao",
+      "rationale": "מצות ke melaometoro ya go laela; Torah e sa kopanywa le 'molao' fela ka Sepedi"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Yisraele",
+      "rationale": "Temana e bolela le motho wa mongwe le mongwe wa Yisraele ka go 'o'"
+    }
+  ],
+  "translation": "Gomme o theeletše lentšu la Yahwe Elohim wa gago, gomme wa dira ⟨את⟩ melao ya gagbo le ⟨את⟩ dipeakanyo tša gagbo, tšeo ke go laelago ka letšatši le.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9d70b4d773e48f1567a6bef18fb9e284d975454ae2e813c4f8f4d505f95f6c7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/27\/10-11.1792304731976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Gomme o theeletše"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentšu la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "gomme wa dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya gagbo"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "melao ya gagbo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "dipeakanyo tša gagbo"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "dipeakanyo tša gagbo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "go laelago"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ka letšatši le"
+    }
+  ],
+  "timestamp": "2026-10-18T06:25:31.977002935Z",
+  "model": "glm-5.3"
+}

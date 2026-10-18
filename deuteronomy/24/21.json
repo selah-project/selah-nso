@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se se setseng",
+      "rationale": "Seheberu ga se bolele selo se se šomišwago ka לא תעולל; se okeditšwe go hlalosa"
+    },
+    {
+      "kind": "elision",
+      "subject": "אחריך",
+      "rationale": "\"ka morago ga gago\" — mošomo wa go kgoboketša ka morago o šumišitšwe go potologa"
+    }
+  ],
+  "translation": "Ge o boka serapeng sa moupane wa gago, o se ke wa boela morago go kgoboketša se se setseng: se tla ba la mošeti, la lehlogonolo le la mohlokolodi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "54f27ec52a52efc26e7dbccea8931f2ea49373bd2da1bf30f54911b64667de07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/24\/21-22.1792286087140.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "o boka serapeng sa moupane"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "moupane wa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "boela morago go kgoboketša"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ka morago ga gago"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "la mošeti"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "la lehlogonolo"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "le la mohlokolodi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tla ba"
+    }
+  ],
+  "timestamp": "2026-10-18T01:14:47.140994196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גבהו...גבהו",
+      "rationale": "go boletšwa gabedi go bopa tekano ya tharo — magodimo\/ditsela\/mehlahlami — seo se lostetšwe Sepeding ka go boeletša mehuta ya go phahama"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mehlahlami",
+      "rationale": "מחשבה ke dithapo tša mogopola le maikemišetšo, e sego fela mehlahlami; lentšu la Sepedi le swara khurumetšo e nnyane"
+    }
+  ],
+  "translation": "Ka gobane magodimo a phahama go feta lefase, bjalo gape ditsela tša ka go phahama go feta ditsela tša lona, le mehlahlami ya ka go feta mehlahlami ya lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "707efe8e388b8ae14e06693c42ae6d0dfa4746f3c02ea6ebe683db593e287ae2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/55\/9-12.1792292395136.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "a phahama"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go feta lefase"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo gape"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "go phahama"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela tša ka"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "go feta ditsela tša lona"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "le mehlahlami ya ka"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "go feta mehlahlami ya lona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:55.137200024Z",
+  "model": "glm-5.3"
+}

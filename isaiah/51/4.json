@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Mphê tlhokomelo ... eutelel",
+      "rationale": "Imperative double summons — attend and incline the ear"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa ka",
+      "rationale": "Direct address to Yahwe's people and nation"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארגיע",
+      "rationale": "Modu wa רועע o fapana: 'ka tla di phumolla' (give rest), 'ka tla e tliša ka bonako' (act suddenly) — KJV 'rest', JPS 'on a sudden'"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאתי",
+      "rationale": "מן + את; ⟨את⟩ e bolokwa ka boomo go swana le molao"
+    }
+  ],
+  "translation": "Mphê tlhokomelo, setšhaba sa ka, le morafe wa ka, eutelel go nna; gobane Torah e tla tšwa ⟨את⟩ go nna, gomme kahlolo ya ka e tla ba seetša sa ditšhaba; ka tla di phumolla ka bonako.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "675be70d2c4c8aaa0725e5f4bb12a3e6d3ed66f349d95d30edd7c69e1964864e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/51\/1-4.1792292449612.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Mphê tlhokomelo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "le morafe wa ka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "eutelel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ go nna",
+      "marks": "Torah"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "e tla tšwa"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "gomme kahlolo ya ka"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "seetša sa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "ka tla di phumolla ka bonako"
+    }
+  ],
+  "timestamp": "2026-10-18T03:00:49.614251529Z",
+  "model": "glm-5.3"
+}

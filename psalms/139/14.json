@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נפליתי \/ נפלאים",
+      "rationale": "modumo o swanago wa pele — go hlakantšwa le go makatsa go bopilwe ka lentšu le tee; se a laelwa ka go theoga ga Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke moya\/mafi a bophelo, e sego seedi se se kgethegileng"
+    }
+  ],
+  "translation": "Ke tla go leboga, ka gobane ka tshego le makatsa o mpšhatlatšitše; mesebetsi ya gago e a makatsa, gomme moya wa ka o a e tseba kudu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bd8cf0abb86d16d029c777106342ac609397bad25d7305e4109303327bfc8581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/139\/13-16.1792299053968.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ke tla go leboga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ka tshego"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "o mpšhatlatšitše"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "le makatsa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mesebetsi ya gago"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "gomme moya wa ka"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o a e tseba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:53.969066432Z",
+  "model": "glm-5.3"
+}

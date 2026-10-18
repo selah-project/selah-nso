@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומי אביהם",
+      "rationale": "potšišo ya 'ke mang tata wa bona?' — bangwadi ba sa dumelane gore e bolela baprofeta (Eliša?) goba bana ba Kishe"
+    },
+    {
+      "kind": "elision",
+      "subject": "למשל",
+      "rationale": "משל e bolela 'seano se nang le seswantšho' — 'seano' fela ga e fe botlalo bja lentšu"
+    }
+  ],
+  "translation": "Mme monna a go tšwa foo a araba a re: gomme ke mang tata wa bona? Ka lebaka leo seano se ile sa ba: Na le Saulo o gare ga baprofeta?",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a004ae1c86ab7e71dd760a3915358d6eaee7b31d1e41006ebb8fd68290b4adc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/10\/9-12.1792288168234.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "משם",
+      "gloss": "a go tšwa foo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "gomme ke mang"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "tata wa bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lebaka leo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "se ile sa ba"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "seano"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "na le"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saulo"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "gare ga baprofeta"
+    }
+  ],
+  "timestamp": "2026-10-18T01:49:28.235682522Z",
+  "model": "glm-5.3"
+}

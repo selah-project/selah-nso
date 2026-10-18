@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke mmogo-ya-bophelo, sehuba, sepheo — e sego 'moya' ka boikgetho"
+    },
+    {
+      "kind": "elision",
+      "subject": "עד נפש",
+      "rationale": "'go fihla moya' — e kotsing ya go nwowa ke meetse"
+    }
+  ],
+  "translation": "Ntloholola, Elohim, ka gobane meetse a tsene go fihla ⟨את⟩ moya.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/69\/1-4.1792298072941.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "ntloholola"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "באו",
+      "gloss": "a tsene"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨את⟩ moya",
+      "marks": "moya"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:32.941857370Z",
+  "model": "glm-5.3"
+}

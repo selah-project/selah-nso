@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 16:5",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya-pelo",
+      "rationale": "נפש e atametše go 'moya-pelo\/theko ya bophelo', e sego 'moya' wa kereke"
+    },
+    {
+      "kind": "you",
+      "subject": "go Jerusalem",
+      "rationale": "Ezekiele 16 ke polelo ya go ragana le Jerusalem, e kaelwa bjalo ka mosadi"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתך",
+      "rationale": "Mošupi wa ⟨את⟩ o hweditšwe karolwaneng ya go tšolwa; Sepedi o nyaka sengwe la go objekte"
+    }
+  ],
+  "translation": "Ga go leihlo leo le bego le kwelelago bohloko go wena, go go dira e tee ya dilo tše, go go šofa go wena; gomme o lahlwa sefahlegong sa pese, ka go hloilega moya-pelo wa gago, ka letšatši leo o bego o tšolwa ⟨את⟩ go wena ka lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5f2c743630629212a8765fbd70db0e6e73ebf6930ac5cba5bdb2daaaf065710a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/16\/5-8.1792294777014.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "חסה",
+      "gloss": "kwelela bohloko"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "עין",
+      "gloss": "leihlo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e tee"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ya dilo tše"
+    },
+    {
+      "surface": "לחמלה",
+      "gloss": "go šofa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ותשלכי",
+      "gloss": "gomme o lahlwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlego"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "sa pese"
+    },
+    {
+      "surface": "בגעל",
+      "gloss": "ka go hloilega"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya-pelo wa gago"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši"
+    },
+    {
+      "surface": "הלדת",
+      "gloss": "go tšolwa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T03:39:37.015512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רב טבחים",
+      "rationale": "Seterata sa Seheberu ke 'molaodi wa bahlabi' (balaodi ba go bolaya); KJV 'captain of the guard' e tloša seswantšho sa go hlaba."
+    },
+    {
+      "kind": "elision",
+      "subject": "הסף",
+      "rationale": "'Mošima wa lebati' (threshold); ka Sepedi re šomiše 'lebati' fela — mošima o a tlošwa."
+    }
+  ],
+  "translation": "Gomme molaodi wa bahlabi a tšea ⟨את⟩ Serajaya, moperisita wa hlogo, le ⟨את⟩ Tsefanjahu, moperisita wa bobedi, le ⟨את⟩ babelaetši ba bararo ba lebati.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f3e6f30233979fe242ff0f2f16cab7868083b443f5e777e8e69adf2a90cbc644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/25\/17-20.1792291232834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "gomme a tšea"
+    },
+    {
+      "surface": "רב",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa bahlabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajaya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajaya"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "wa hlogo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tsefanjahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanjahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "babelaetši ba bararo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "bararo"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "babelaetši ba"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "lebati"
+    }
+  ],
+  "timestamp": "2026-10-18T02:40:32.835594047Z",
+  "model": "glm-5.3"
+}

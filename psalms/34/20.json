@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "dibe",
+      "rationale": "רעות e ka bolela le ditlametlo\/diphapang; 'dibe' e dumelelwa ka gobane ke bontši bja רע (sebe)"
+    },
+    {
+      "kind": "addition",
+      "subject": "di wetše",
+      "rationale": "Seheberu se hlalosa fela bontši; Sepedi se nyaka sebopego sa thwii"
+    }
+  ],
+  "translation": "Dibe tše ntši di wetše lokileng, eupša Yahwe o mo lokollotše go tšwa go tšona ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "deacfc4a563e0f4dbb1bc795bbc0156b1a79fc87098c7cd4335ebe683ef5b97d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/17-20.1792297540804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "tše ntši"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "lokileng"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "eupša go tšwa go tšona ka moka"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "o mo lokollotše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:40.805685583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na sekopanyi pele ga maele; Sepedi se se nyaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "דליו",
+      "rationale": "'go dula\/go omile' — dipego di fapana: 'di tswaletšwe' (KJV e kgale) kgatlhanong le 'di nonetše ka tatelano ya go sa šome' (ASV\/JPS)"
+    }
+  ],
+  "translation": "Maoto a dutše a sa šome go wa maoto a gobilego, gomme ⟨ke⟩ maele a ka molomong wa masilo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "75d48ab1bd013f5bd106e5b070039e47079f81c2deef9c24b655f1c01f12447b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/26\/5-8.1792299814186.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "a dutše a sa šome"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "Maoto"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "go wa maoto a gobilego"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "gomme ⟨ke⟩ maele"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "a ka molomong wa"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "masilo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:03:34.187022029Z",
+  "model": "glm-5.3"
+}

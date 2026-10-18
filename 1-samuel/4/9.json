@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 4:9",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "והיו לאנשים",
+      "rationale": "'go ba banna' — idiom ya Seheberu ya go ikemiša bjalo ka monna; ka Sepedi go bolokwa sebopego sa go 'ba banna'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פן",
+      "gloss_context": "",
+      "rationale": "'gore le se' — פן e bolela 'go se direge'; go nyakwa tlhalošo ya go gana."
+    }
+  ],
+  "translation": "Ikatologelang, gomme le be banna, laka Ba-Pelisita, gore le se šome Bahebere, bjalo ka ba le šometseng lona; gomme le tla ba banna, gomme le lwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "16d7b78cf09d5dabfc13c340a9784c7649c459da851a287886b199f3d0ab3824",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/4\/9-12.1792287969988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התחזקו",
+      "gloss": "Ikatologelang"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "gomme le be"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "laka Ba-Pelisita"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore le se"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "šome"
+    },
+    {
+      "surface": "לעברים",
+      "gloss": "Bahebere"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "ba šometseng"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "gomme le tla ba"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "ונלחמתם",
+      "gloss": "gomme le lwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:46:09.988964322Z",
+  "model": "glm-5.3"
+}

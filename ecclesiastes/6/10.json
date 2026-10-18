@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopula; Seheberu ga se na"
+    },
+    {
+      "kind": "crux",
+      "subject": "מה שהיה",
+      "rationale": "'Se se bego se le gona' (se se tlago) kgahlanong le 'ke eng seo se bego se le gona?' — potšišo goba sephetho"
+    },
+    {
+      "kind": "alternative",
+      "subject": "yo a matla go feta yena",
+      "rationale": "Ba bantsi ba balwa gore ke Elohim yo a matla; mongwalo o bolela fela 'yo a matla go feta yena'"
+    }
+  ],
+  "translation": "Se se bego se le gona — leina la sona le biditšwe ⟨ke⟩ kgale, gomme go a tsebja gore ke motho; gomme a ka se kgolwe go ganela le yo a matla go feta yena.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7b2ee050b7df818e3b5001d8517439e25169e440cbb9e234d9e9440c229e7ac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/6\/9-12.1792301515903.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "se se"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "se bego se le gona"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kgale"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "le biditšwe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la sona"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "gomme go a tsebja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a ka se"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kgolwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "go ganela"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "yo a matla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go feta yena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:31:55.903883773Z",
+  "model": "glm-5.3"
+}

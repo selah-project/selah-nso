@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 30:9",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "seko",
+      "rationale": "נגינתם e ka bolela seko goba seletšo sa di-instrument; diphetošo tše dintši di re 'song'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "seka",
+      "rationale": "למלה ke 'lentšu' ka go toboketswa; 'seka' (taba ya go thotšwa ka motho) e swarana le 'byword'"
+    }
+  ],
+  "translation": "Gomme bjale ke bile seko sa bona, gomme ke le seka go bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5f0153dd18d773e011828fed1b0ffa7ee396034e6a1f8a95a34c555a0ed36fa8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/30\/9-10.1792305373203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "gomme bjale"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "seko sa bona"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke bile"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "gomme ke le"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "למלה",
+      "gloss": "seka"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:13.203869021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 29:12",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopanyo yeo Seheberu se se sa e hlago"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עני",
+      "rationale": "עני ke 'yo a hlogafetšego, yo a sekametšego' — moswi ke ka fa go swi kgantšheng"
+    }
+  ],
+  "translation": "Gobane ke be ke lokollotše moswi yo a goago ka thuso, le lesele, le yo a nago le ⟨ke⟩ mohlakanelwa wa thuso.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "212d995a7bbfa5fb3c2a6c51ca66265eb8bbf9ea6845649296e03e758b484579",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/29\/9-12.1792300505253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gobane"
+    },
+    {
+      "surface": "אמלט",
+      "gloss": "ke lokollotše"
+    },
+    {
+      "surface": "עני",
+      "gloss": "moswi"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "yo a goago ka thuso"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "le lesele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "go sego ga gona"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mohlakanelwa wa thuso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ke⟩ wa gagabo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:15:05.254286829Z",
+  "model": "glm-5.3"
+}

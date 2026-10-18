@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 28:5",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maatla",
+      "rationale": "חיל (ḥel) bolela maatla, mabitla goba tšhelete; 'maatla' ke tharollo e tee ya lentšu le le nang le mabaka a mmalwa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חילך\/בחילך",
+      "rationale": "Go bušetša ga חיל gabedi (go oketša maatla → pelo e godimo ka maatla) go a tsebwa gomme ga se phetolelong."
+    }
+  ],
+  "translation": "Ka bontši bja bohlale bja gago, ka kgwebo ya gago o oketšitše maatla a gago, gomme pelo ya gago ya godimo ka maatla a gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c6d64305b394125e266ebc9c699602790a8c614fbf09aa73164c54f213c801e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/28\/5-8.1792295185627.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ka bontši bja"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "bohlale bja gago"
+    },
+    {
+      "surface": "ברכלתך",
+      "gloss": "ka kgwebo ya gago"
+    },
+    {
+      "surface": "הרבית",
+      "gloss": "o oketšitše"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "maatla a gago"
+    },
+    {
+      "surface": "ויגבה",
+      "gloss": "gomme ya godimo"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ka maatla a gago"
+    }
+  ],
+  "timestamp": "2026-10-18T03:46:25.627682054Z",
+  "model": "glm-5.3"
+}

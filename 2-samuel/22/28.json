@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se se hlorilego",
+      "rationale": "עני — 'yo a hlorilego', go swana le 'yo a foletšego'; ke bothata bja moya le serapa se sennyane, e sego lehu fela"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ setšhaba se se hlorilego o se phologaša; gomme mahlo a gago a le godimo ga ba ba phagamego, a ba thubagantša.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8040045032bfc76d7a954cd620260dace12facd92735e82bebef3fda3a6a6bcb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/22\/25-28.1792289420747.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "setšhaba se se hlorilego"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "עני",
+      "gloss": "se se hlorilego"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "o se phologaša"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "gomme mahlo a gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "ba ba phagamego"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "a ba thubagantša"
+    }
+  ],
+  "timestamp": "2026-10-18T02:10:20.748891198Z",
+  "model": "glm-5.3"
+}

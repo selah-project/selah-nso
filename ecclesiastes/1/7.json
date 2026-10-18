@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go sona",
+      "rationale": "Sepedi e nyaka sehlodi seo Seheberu se se sa se rego ka peleng ga שהנחלים."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלכים…הלכים",
+      "rationale": "Go boelwa ga 'di elago' gabedi go bontšha go se fele ga go elela ga dinoka."
+    }
+  ],
+  "translation": "Dinoka ka moka di ela lewatleng, gomme lewatle ga le tlatšwe; go lefelo leo dinoka di elago go sona, gona di boa go ela.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/1\/5-8.1792301392384.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "dinoka"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "di elago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "והים",
+      "gloss": "gomme lewatle"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "le tlatšwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "leo dinoka"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "di elago"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "הם",
+      "gloss": "di"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "boago"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go ela"
+    }
+  ],
+  "timestamp": "2026-10-18T05:29:52.385240123Z",
+  "model": "glm-5.3"
+}

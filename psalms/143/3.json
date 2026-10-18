@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "botshelo bja ka",
+      "rationale": "נפשי ke mafu\/thlarogo — botshelo ke karolo ye kgolo, eupša sešišo sa 'mokoko wa thlarogo' se la lekaeng."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bophelo bja ka",
+      "rationale": "חייתי lentšu le tee le נפשי — dipheto tše pedi di swana kudu ka Sepedi, phapano ya Seheberu e nyametše."
+    }
+  ],
+  "translation": "Gobane lenaba le latediše botshelo bja ka, le kgwathitše go lefase bophelo bja ka, le ntše go didimadiša ka lefsifsi, bjalo ka ba hlokofetšego ya khale.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/143\/1-4.1792299086182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "le latediše"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lenaba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "botshelo bja ka"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "le kgwathitše"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "go lefase"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "bophelo bja ka"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "le ntše go didimadiša"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ka lefsifsi"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "bjalo ka ba hlokofetšego"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya khale"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:26.183423521Z",
+  "model": "glm-5.3"
+}

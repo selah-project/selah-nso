@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "karolo ya lesome \/ tša thotho",
+      "rationale": "Compound Sepedi phrases supplied where Hebrew uses single nouns (עשר 'tithe', חמור 'ass')."
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ bahlanka ba gona, le ⟨את⟩ bahlanka-basadi ba gona, le ⟨את⟩ bathommyane ba gona tše dibotse, le ⟨את⟩ dipitse tša gona tša thotho o tla di tšea, a di dira mošomong wa gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "23b143ef79b8b28a06835b93331d0e8cc9f9d5ab43b3fc136c9d9dd7ee694a55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/8\/13-16.1792287949794.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bahlanka ba gona"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "bahlanka ba gona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bahlanka-basadi ba gona"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "bahlanka-basadi ba gona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bathommyane ba gona tše dibotse"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "bathommyane ba gona"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "tše dibotse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dipitse tša gona tša thotho"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "dipitse tša gona tša thotho"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o tla di tšea"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a di dira"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "mošomong wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:45:49.796063996Z",
+  "model": "glm-5.3"
+}

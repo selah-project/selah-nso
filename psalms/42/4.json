@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "dikeledi di fetohile bogobe",
+      "rationale": "Sepedi se nyaka 'di fetohile'; Seheberu se re dikeledi 'e bile' bogobe — tšhedimošo ya go ja lerumo"
+    },
+    {
+      "kind": "you",
+      "subject": "O kae Elohim wa gago",
+      "rationale": "poleso ya manaba ye e lebišitšwe mošomong wa psalme"
+    }
+  ],
+  "translation": "Dikeledi tša me di fetohile bogobe bosasa le bošego, ge ba mpotšiša letsatsi ka moka ba re: O kae Elohim wa gago?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/42\/1-4.1792297688230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "di fetohile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tša me"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "dikeledi tša me"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "bosasa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le bošego"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "ge ba re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "o kae"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:08.231957610Z",
+  "model": "glm-5.3"
+}

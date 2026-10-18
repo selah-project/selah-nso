@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke 'yo a hemago' — maphelo, o se mo o noši; ke karolo ya botši bja motho"
+    },
+    {
+      "kind": "crux",
+      "subject": "והות",
+      "rationale": "Crux: 'dinyakwa\/di-hlahlo' (ya ASV, JPS) kgahlanong le 'dithoto' (ya KJV); הות e ka bolela dinyakwa goba tšhenyago"
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Seheberu se se na copula; Sepedi se e nyaka"
+    }
+  ],
+  "translation": "Yahwe ga a dumele moya wa yo lokilego go lapa lerala, eupša dinyakwa tša ba fošagetšego o di ganna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/10\/1-4.1792299341664.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "a dumele go lapa lerala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wa yo lokilego"
+    },
+    {
+      "surface": "והות",
+      "gloss": "gomme dinyakwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "tša ba fošagetšego"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "o di ganna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:41.665108265Z",
+  "model": "glm-5.3"
+}

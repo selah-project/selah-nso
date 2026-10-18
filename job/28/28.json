@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 28:28",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go tšhaba",
+      "rationale": "יראת e ate go feta go tšhaba — e akaretša go tlotla le go sesega pele ga Adonai"
+    },
+    {
+      "kind": "you",
+      "subject": "go motho",
+      "rationale": "polelo ye e nea motho kgorokgoro — sephetho sa sephetho sa Job 28"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "copula ye Seheberu se sa e nago, Sepedi se e nyaka go hlantšha kgokgolo"
+    }
+  ],
+  "translation": "Gomme a re go motho: Bona, go tšhaba Adonai — ke kgokgolo ya go sepela, le go fokoga mpe — ke kutšego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "09c05d7896406b54fcd6bc1e3d974545d24802afc21fb0a1318dbb421e429958",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/28\/25-28.1792300542193.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "go motho"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bona"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "go tšhaba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "kgokgolo ya go sepela"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "le go fokoga"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "mpe"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "kutšego"
+    }
+  ],
+  "timestamp": "2026-10-18T05:15:42.194258335Z",
+  "model": "glm-5.3"
+}

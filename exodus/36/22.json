@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "matogo",
+      "rationale": "יָדֹת ke lentšu la 'seatla' le šomišitšwego bakeng sa diphego tša tlase tša boto; 'matogo' a boloka sebopego sa lentšu."
+    },
+    {
+      "kind": "crux",
+      "subject": "מְשֻׁלָּבֹת",
+      "rationale": "'go kopana' (KJV 'equally distant') kgathanong le 'go tsenya mo go e nngwe' (Geneva 'set in order as the feet of a ladder')."
+    }
+  ],
+  "translation": "Matogo a mabedi a boto ye tee, a kopantšwego a tee go e nngwe; bjalo a dirile bakeng sa diboto ka moka tša Mishkane.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e09a55b2f5ec0d7b0f425cea38dd27e262edd4ca4b854680ba38f5cd458fee44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/36\/21-24.1792283437574.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "matogo"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "a boto"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ye tee"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "a kopantšwego"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "a tee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dirile"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa ka moka"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "diboto"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "tša Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-18T00:30:37.575492606Z",
+  "model": "glm-5.3"
+}

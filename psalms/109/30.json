@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa ka",
+      "rationale": "Seheberu se re 'ka molomo' fela; possession e okeditšwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אודה\/אהללנו",
+      "rationale": "Go leboga le go tšhoka — dika tše pedi tša go boka ka molomo, dikgopolo tša go boa le go boa"
+    }
+  ],
+  "translation": "Ke tla leboga Yahwe ka mo go tseneletseng ka molomo wa ka, gomme gare ga bontši ke tla mo tšhoka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c42f5d874f9618809df20fc2570b4cb2ddf2e164b7ffbf1999091ddcfb74a7bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/109\/29-31.1792298719334.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ke tla leboga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ka mo go tseneletseng"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ka molomo wa ka"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "gomme gare ga"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bontši"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ke tla mo tšhoka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:19.335292976Z",
+  "model": "glm-5.3"
+}

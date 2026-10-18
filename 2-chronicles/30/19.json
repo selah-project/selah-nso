@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 30:19",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקדש",
+      "rationale": "'go hlwekišwa ga bokgethwa' — diphetho tše pedi: bokgethwa bjalo ka selo se kgethwago (BSB) goba lefelo la bokgethwa (JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bokgethwa",
+      "rationale": "קדש ka D2 — '-kgethwa', e sego 'halalela' ya Sesotho"
+    }
+  ],
+  "translation": "— yohle yo a išeletseng pelo ya gagwe go nyaka Elohim, Yahwe, Elohim wa bo-ntate-bagolo ba gagwe, le ge a sa hlwekišwa go ya ka go hlwekišwa ga bokgethwa.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "fad44f8a5d360335bf114b94f5a252b2905c33a0c9ad4300b1bf6de7e5f2baf3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/30\/17-20.1792304281901.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a išeletseng"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "go nyaka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "bo-ntate-bagolo ba gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le ge a sa"
+    },
+    {
+      "surface": "כטהרת",
+      "gloss": "go ya ka go hlwekišwa ga"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bokgethwa"
+    }
+  ],
+  "timestamp": "2026-10-18T06:18:01.902746814Z",
+  "model": "glm-5.3"
+}

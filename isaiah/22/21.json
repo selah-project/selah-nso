@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 22:21",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seaparo",
+      "rationale": "כתנת ke kakanao — seaparo se sa tšwela pele, sehlwa se tee sa Sepedi se sa lekanyetša mohuta wa diaparo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se re 'o tla ba go ntlo... ntate' — sekopanyi sa Sepedi se okeditšwe"
+    }
+  ],
+  "translation": "Gomme ke tla mo apara ka seaparo sa gago, gomme ka thukgo ya gago ke tla mo tiisa, gomme bogoši bja gago ke tla go neela seatleng sa gagwe; gomme o tla ba go ntlo ya ntatae ⟨ke⟩ ntate go ba ba dutileng Yerushalayime le go ntlo ya Yahuda.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "901114603bf688e6ecfab1fa184dbae5a9652b4996eb2a942a311725a196bd76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/22\/21-24.1792291706951.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלבשתיו",
+      "gloss": "gomme ke tla mo apara"
+    },
+    {
+      "surface": "כתנתך",
+      "gloss": "ka seaparo sa gago"
+    },
+    {
+      "surface": "ואבנטך",
+      "gloss": "gomme ka thukgo ya gago"
+    },
+    {
+      "surface": "אחזקנו",
+      "gloss": "ke tla mo tiisa"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "gomme bogoši bja gago"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla go neela"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "seatleng sa gagwe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme o tla ba"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "⟨ke⟩ ntate"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "go ba ba dutileng"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "le go ntlo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    }
+  ],
+  "timestamp": "2026-10-18T02:48:26.952434014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tšhetšego",
+      "rationale": "כסל semantikeng ke 'mafura\/mala' — lefelo la maatla; 'tšhetšego' e aba taba yeo e sego sebopego sa lentšu"
+    }
+  ],
+  "translation": "Gomme ba be tšhetšego ya bona go Elohim, gomme ba se ke ba lebala mešomo ya El, eupša ba hlomile mitšhelo ya gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2149cee6f13cc441aeedddc44382796a7489691504cdf8736fb1dcc788b90e77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/5-8.1792298239706.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "gomme ba be"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "tšhetšego ya bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba se ke"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "ba lebala"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "mešomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "gomme mitšhelo ya gagwe"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ba e hlomile"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:19.707305967Z",
+  "model": "glm-5.3"
+}

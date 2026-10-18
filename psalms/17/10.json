@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mafura",
+      "rationale": "חלב leterala 'mafula'; JPS e šomiša 'pelo e boleta' — mafura ke sebopego sa mantšu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tswaletše",
+      "rationale": "go tswalelwa ke mafura — setshwantsho sa go ikutša o lokile, sephetheng se se sa felelago"
+    }
+  ],
+  "translation": "Mafura a wona a ba tswaletše; ka molomo wa wona ba boletše ka kgodumo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1051d1864eb3c2253e73aeb6880d5cfcb51971bf845197d87d89482d38a35f2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/17\/9-12.1792297227071.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "mafura a wona"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "a ba tswaletše"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "molomo wa wona"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ba boletše"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ka kgodumo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:27.072590654Z",
+  "model": "glm-5.3"
+}

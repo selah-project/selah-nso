@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה ka mehla e tlišwa bjalo ka minkha — sehlabelo sa go fišwa; ga se mpho fela"
+    },
+    {
+      "kind": "elision",
+      "subject": "go lela",
+      "rationale": "se sengwe se okeditšwe go hlalosa והנה — 'go lela' se sengwe se se neng se se ga go gona mo Seheberung"
+    }
+  ],
+  "translation": "Gomme go hlwa ka mesong, ge minkha e namile, go ile gwa lela — bona, meetse a tla ka tsela ya Edome; gomme lefase la tlatšwa ⟨את⟩ meetse.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/3\/17-20.1792290473960.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go hlwa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ka mesong"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "ge e namile"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "באים",
+      "gloss": "a tla"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ka tsela ya"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "gomme la tlatšwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meetse"
+    },
+    {
+      "surface": "המים",
+      "gloss": "meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T02:27:53.961570418Z",
+  "model": "glm-5.3"
+}

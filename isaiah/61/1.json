@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 61:1",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "baswetši",
+      "rationale": "ענוים ke 'bao ba phogilego mo mešomong le mo pelaong' — ba hloka tšhireletšo, e sego fela batho ba se nago tšhelete"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "משח",
+      "rationale": "Leina la Mashiakh le tšwa thutong ye — 'o tloditše' ke modu o tee le Mashiakh"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לחבש לנשברי לב",
+      "rationale": "Seswantšho sa ngaka: 'go hlama pelo e robetšego' — go bopa se se robetšego, e sego go alafa feela"
+    }
+  ],
+  "translation": "Ruakh ya Adonai Yahwe ⟨e⟩ godimo ga nna; ka gobane Yahwe o tloditše ⟨את⟩ nna go tsebiša baswetši ditaba tše botse, o nthomile go hlama bao ba nago le pelo e robetšego, go laela ba-šhorelelwa tokologo, le bao ba kgokgoletšwego go bulwa ga dikgolego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9110b8a18c681086226b48e2c25f4b2f116eb1a40fad64a7d4925090a2db74e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/61\/1-4.1792292568987.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga nna"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "משח",
+      "gloss": "o tloditše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "go tsebiša ditaba tše botse"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "baswetši"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "o nthomile"
+    },
+    {
+      "surface": "לחבש",
+      "gloss": "go hlama"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "bao ba robetšego"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "go laela"
+    },
+    {
+      "surface": "לשבוים",
+      "gloss": "ba-šhorelelwa"
+    },
+    {
+      "surface": "דרור",
+      "gloss": "tokologo"
+    },
+    {
+      "surface": "ולאסורים",
+      "gloss": "le bao ba kgokgoletšwego"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "go bulwa"
+    },
+    {
+      "surface": "קוח",
+      "gloss": "dikgolego"
+    }
+  ],
+  "timestamp": "2026-10-18T03:02:48.988542943Z",
+  "model": "glm-5.3"
+}

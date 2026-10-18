@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 30:11",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba bolailwego",
+      "rationale": "חלל ke 'ba-ruilwego', ba robetšego ka thipa — 'ba bolailwego' ke karolo ya bokao"
+    },
+    {
+      "kind": "crux",
+      "subject": "עריצי גוים",
+      "rationale": "'bahlalefi ba ditšhaba' goba 'ba tlhoditšego mesifa ya ditšhaba' — bapetoleli ba ganana gore ke tlhajo goba setlhopha se itseng"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Sepedi e nyaka 'ka' pele ga sehlatišwa sa go tlatša; Seheberu se sa se bontšha"
+    }
+  ],
+  "translation": "Yena le setšhaba sa gagwe ⟨את⟩ le yena — bahlalefi ba ditšhaba — ba tlišwa go senya lefase; gomme ba tla ntšha dietšhoša tša bona go Mitsrayime, gomme ba tla tlatša ⟨את⟩ lefase ka ba bolailwego.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1954d23f8e9582c215a0eb3006754423a14df7a203baca48efbd2b2a0a771a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/30\/10-11.1792305140111.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Yena"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "le setšhaba sa gagwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le yena",
+      "marks": "Nebukadretsare"
+    },
+    {
+      "surface": "עריצי",
+      "gloss": "bahlalefi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ba ditšhaba"
+    },
+    {
+      "surface": "מובאים",
+      "gloss": "ba tlišwa"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "go senya"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "והריקו",
+      "gloss": "gomme ba tla ntšha"
+    },
+    {
+      "surface": "חרבותם",
+      "gloss": "dietšhoša tša bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "gomme ba tla tlatša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ba bolailwego"
+    }
+  ],
+  "timestamp": "2026-10-18T06:32:20.112356316Z",
+  "model": "glm-5.3"
+}

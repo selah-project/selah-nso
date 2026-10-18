@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפש e atametše go 'moya\/thoho ya bophelo', e sego soul ya Sekriste"
+    },
+    {
+      "kind": "crux",
+      "subject": "tokoloho ya sefahegogo sa ka",
+      "rationale": "ישועת פני: 'tokoloho ya sefahlego' (KJV 'health of my countenance', BSB 'my Savior') — phetolelo ya mo go yo e sa tšwago pele"
+    },
+    {
+      "kind": "you",
+      "subject": "moya wa ka",
+      "rationale": "mmosi o bolela le moya wa gagwe ka bowena, pele ga mmadi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ema o lebile Elohim",
+      "rationale": "taelo go moya wa ka: go tshwara tsholofelo"
+    }
+  ],
+  "translation": "Ke ka baka la eng o ikhutsafaditše, moya wa ka, gomme ke ka baka la eng o duma go ka? Ema o lebile Elohim, ka gobane ke sa tla go dumelela yena, tokoloho ya sefahlego sa ka, le Elohim wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "837f2af0f1bd6d7958787686d09c697c8516a7cf41c36480b13976ea83772543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/43\/5-5.1792297649638.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ke ka baka la eng"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "o ikhutsafaditše"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "gomme ke ka baka la eng"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "o duma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go ka"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "ema o lebile"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa tla"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ke tla go dumelela yena"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "tokoloho ya"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlego sa ka"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "gomme Elohim wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:29.638768781Z",
+  "model": "glm-5.3"
+}

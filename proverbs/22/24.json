@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תתרע",
+      "rationale": "רָעָה go dumedisa ka mehla e ra 'go badisa'; fano baphetoleli ba fapana: 'go bapala le' kgahlanong le 'go itšhireletša le'"
+    },
+    {
+      "kind": "addition",
+      "subject": "le yena",
+      "rationale": "Seheberu se re 'o se ke wa tsena' fela; 'le yena' se okeditšwe go hlakantšha"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": " את ya mathomo ke H854 ('le'), e sego letšwaopupu la H853; ya bobedi ⟨את⟩ ke H853 ka booma"
+    },
+    {
+      "kind": "you",
+      "subject": "go mo ithutego",
+      "rationale": "taeletšo ye e lebela mothalading mothong yo a balago"
+    }
+  ],
+  "translation": "O se ke wa bapala le ⟨את⟩ mong wa pelo-tena, gomme le ⟨את⟩ monna wa pelo e fiso o se ke wa tsena le yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7191a4cd079789256875c6d53c0ddd0ea3b9f157776e2217f308ffd5ff543a77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/22\/21-24.1792299773093.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "go bapala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ le"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mong wa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "pelo-tena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna wa"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "pelo e fiso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "go tsena le yena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:02:53.094821179Z",
+  "model": "glm-5.3"
+}

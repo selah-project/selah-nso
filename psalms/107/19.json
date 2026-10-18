@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בצר\/ממצקות",
+      "rationale": "Lebothutu le le tee — 'go tswalelwa' (bonyenyi) le 'dinyenyi' — mafoko a mabedi a tšwa modung o tee, kgahlano le יושיע 'go bula\/go lokolla'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "יושיעם",
+      "rationale": "Go ka ba 'o ba lokolla' goba 'o ba pholosa' — modu wa motheo ke go bula, go tšwa mo go tswaletšwego."
+    }
+  ],
+  "translation": "Ba llela go Yahwe lehlohlellong la bona, mme o ba lokolla go dihlohlello tša bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1e577dc82f5be701837c6c340edddc98eb479b6e24012baef21928cfe320d6c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/107\/17-20.1792298677253.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "ba llela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "lehlohlellong"
+    },
+    {
+      "surface": "להם",
+      "gloss": "la bona"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "go dihlohlello tša bona"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "o ba lokolla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:37.254814565Z",
+  "model": "glm-5.3"
+}

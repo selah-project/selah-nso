@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 68:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שפתים",
+      "rationale": "'malapa a dikgomo' (kgoro ya dikgomo, ASV\/JPS) kgahlano le 'dikgoro' (KJV 'pots') kgahlano le 'mellwana a mebala' (root שפת)"
+    },
+    {
+      "kind": "crux",
+      "subject": "חרוץ",
+      "rationale": "lentšu le sa tšwago go go ruma — 'gauta' (KJV) kgahlano le 'yo e segilwego' (root חרץ, go sega)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בירקרק",
+      "rationale": "motalatala (mohuta wa motala wa tala-otala) o tlišwa gore pono ya mmala e bolokwe"
+    }
+  ],
+  "translation": "Ge le lala gare ga malapa a dikgomo, e ka ba bjalo ka mephego ya leotlhae e kweditšwego ka silibera, gomme dikwalwa tša yona ka gauta e motalatala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/68\/13-16.1792298103997.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "תשכבון",
+      "gloss": "le lala"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "malapa a dikgomo"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "mephego"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "leotlhae"
+    },
+    {
+      "surface": "נחפה",
+      "gloss": "e kweditšwego"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ka silibera"
+    },
+    {
+      "surface": "ואברותיה",
+      "gloss": "gomme dikwalwa tša yona"
+    },
+    {
+      "surface": "בירקרק",
+      "gloss": "ka gauta e motalatala"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "gauta"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:03.998713489Z",
+  "model": "glm-5.3"
+}

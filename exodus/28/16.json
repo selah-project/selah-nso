@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "phoka",
+      "rationale": "Bophara bja letsogo go mengwana ya mono go ya go wa mokgotlo — phoka e tee botelele, phoka e tee bophara; khošene ke sekwere."
+    },
+    {
+      "kind": "alternative",
+      "subject": "e phuthilwe gabedi",
+      "rationale": "כפול e ka bolela 'e rakantswe gabedi' goba 'e phuthilwe gabedi' — diphetolelo di fapana."
+    }
+  ],
+  "translation": "E tla ba ya manaba a mane, e phuthilwe gabedi; phoka e tla ba botelele bja yona, le phoka bophara bja yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8af7dc851610b916a89b57dd3ef42c14ba9c1516a86a119b5e95285705d9b81f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/28\/13-16.1792283084834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "ya manaba a mane"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "e phuthilwe gabedi"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "phoka"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "botelele bja yona"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "le phoka"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara bja yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:24:44.835924637Z",
+  "model": "glm-5.3"
+}

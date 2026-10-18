@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 14:7",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Yehonatane",
+      "rationale": "Mosha o araba ka boomo go Yehonatane ka ditaelo tša bobedi bja motho: 'dira', 'ema o tlalele'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלבבך \/ כלבבך",
+      "rationale": "Puo e boeletša 'pelo' gabedi — pelo ya botho le yona mo phetolelong; botsweleke bja mofuta bo bolokwa."
+    }
+  ],
+  "translation": "Gomme yo a rwago didirišiwa tša gagwe a mo re: Diratše tšohle tšeo di lego ka pelong ya gago; ema o tlalele; bona, ke na le wena go ya ka pelo ya gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8c12ceb12aa27484046b689bc581ca37953665bbfdb0f1554390b27fc9e21e2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/14\/5-8.1792288189897.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme … a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "yo a rwago"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "didirišiwa tša gagwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "di lego ka pelong ya gago"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "ema o tlalele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bona, ke"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "na le wena"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "go ya ka pelo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:49:49.898371579Z",
+  "model": "glm-5.3"
+}

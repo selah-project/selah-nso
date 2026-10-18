@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "di-sego-Torah",
+      "rationale": "Relative אשר with לא refers to the pits (KJV 'which are not') or to the proud (ASV 'who are not') — Sepedi follows the pits reading."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כרו",
+      "rationale": "'dig' (כרה) doubles as 'plot\/intrigue' in Hebrew; the literal digging picture is kept, the figurative layer lost."
+    }
+  ],
+  "translation": "Ba kgalemo ba khaḥetše diphapo go nna, tšeo di sego go swana le Torah ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8e03f311bbb937ffcb1e3d0c3a65cc4b4fa53d2c47c61faebecb9f7bbf051b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/85-88.1792298841522.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ba khaḥetše"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "ba kgalemo"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "diphapo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "di sego"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "go swana le Torah ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:21.522713856Z",
+  "model": "glm-5.3"
+}

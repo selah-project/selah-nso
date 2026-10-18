@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikgoši tša dikete le makgolo",
+      "rationale": "Go laetša sebopego sa sesole ka dikarolo tša sekete le lekgolo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "a lekola",
+      "rationale": "פקד e bolela kabo go ya ka dikepe tša sesole — 'go lekola setšhaba' goba 'go hlopha sesole'"
+    }
+  ],
+  "translation": "Gomme Dafida a lekola ⟨את⟩ setšhaba seo se lego le ⟨את⟩ yena, gomme a bea godimo ga bona dikgoši tša dikete le dikgoši tša makgolo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c4ed79bcfc5e7bf4f572444922e534972c207ff6cff72c88b5b61a9131597514",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/18\/1-4.1792289257485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "a lekola"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "le ⟨את⟩ yena"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "godimo ga bona"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tša dikete"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le dikgoši"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "tša makgolo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:07:37.486541486Z",
+  "model": "glm-5.3"
+}

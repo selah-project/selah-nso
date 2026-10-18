@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 10:25",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחתו ke minkha ka modumo wa Seheberu go swana le D2, e sego mpho goba motšhelo"
+    },
+    {
+      "kind": "crux",
+      "subject": "דבר שנה בשנה",
+      "rationale": "'taba ya ngwaga ka ngwaga' — KJV 'a rate year by year' e hlapoletše tlhalošo ya thekgo; Seheberu se re 'daba ya ngwaga'"
+    }
+  ],
+  "translation": "Gomme ba be ba di ba hlabolla minkha ya wona ya ngwaga, motho yo mongwe le yo mongwe: dilo tša silibera, dilo tša gauta, diaparo, dibetsa, diphatswa, dipere le dikama, taba ya ngwaga ka ngwaga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c8171e20d8316bc2cbb3fae2224e3cb7849598c946e5d9c0df32e23b56b911ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/10\/25-28.1792289832692.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "gomme bona"
+    },
+    {
+      "surface": "מבאים",
+      "gloss": "ba di ba hlabolla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "minkha ya wona"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dilo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tša silibera"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "dilo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tša gauta"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "diaparo"
+    },
+    {
+      "surface": "ונשק",
+      "gloss": "dibetsa"
+    },
+    {
+      "surface": "ובשמים",
+      "gloss": "diphatswa"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "dipere"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "dikama"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ya ngwaga"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ka ngwaga"
+    }
+  ],
+  "timestamp": "2026-10-18T02:17:12.693321560Z",
+  "model": "glm-5.3"
+}

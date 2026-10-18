@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 2:9",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se-gopotšo",
+      "rationale": "אזכרתה ke 'se-gopotšo' — karolo ya sehlabelo yeo e gopotšago mofapedi ka botlalo"
+    },
+    {
+      "kind": "elision",
+      "subject": "minkha",
+      "rationale": "מנחה e bolokilwe ka modumo — 'sehlabelo sa bogo' e ka se phethalle modumo o tee"
+    }
+  ],
+  "translation": "Mmoperisita o tla rolola go tšwa minkhong ⟨את⟩ se-gopotšo sa yona, a se fiše go aletare — e le sehlabelo sa mollo, seba se se nabilego go Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "144bcf371a4a9b6f0310814f2135b7f2aa7b5a2eec824b06de461ab233121cc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/2\/9-12.1792283539331.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרים",
+      "gloss": "a tla rolola"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkhong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se-gopotšo sa yona"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "se-gopotšo sa yona"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a se fiše"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "go aletare"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sehlabelo sa mollo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "seba"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "se se nabilego"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:32:19.332666866Z",
+  "model": "glm-5.3"
+}

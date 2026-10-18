@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "molomo wa bona",
+      "rationale": "Seheberu se re 'ka molomo wa hae' (wa mmopi yo aši), mo e bonagalang e bolela merero ya bona ya bobedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יברכו\/יקללו",
+      "rationale": "Phapano ya go hlahlaja ka ntle le go nyefola ka pelong — sebopego sa mafoko a mabedi a fapanego"
+    }
+  ],
+  "translation": "Fela go tšwa godimo ga gagwe ba rerile go mo lahlela; ba rata maaka; ka molomo ba hlahlaja, gomme ka pelong ya bona ba nyefola. Sela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9d537e38c3eadc5d9a4de41c5fbc35229e0dddf0d45f491a5a72fa908c571301",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/62\/5-8.1792297993684.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Fela"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "godimo ga gagwe"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "ba rerile"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "go mo lahlela"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "ba rata"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "maaka"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ka molomo wa bona"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "ba hlahlaja"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "gomme ka pelong ya bona"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "ba nyefola"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:13.684914901Z",
+  "model": "glm-5.3"
+}

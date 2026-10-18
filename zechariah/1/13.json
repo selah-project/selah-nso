@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דברים...דברים",
+      "rationale": "Repetition of 'mantsu' frames the pair of adjectives; the doubling is kept."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moromiwa",
+      "rationale": "מלאך ke 'yo a romilwego' — moromiwa, e sego 'moelaedi' goba 'ngaka'."
+    }
+  ],
+  "translation": "Gomme Yahwe a araba ⟨את⟩ moromiwa yo a bolelago ka me — mantsu a mabotse, mantsu a kgothalletšo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "32cc0405ad97c6ba5174b41c527738d84b0e81657eb18a26080b5262c3059c20",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/1\/13-16.1792296874664.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "gomme a araba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moromiwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "moromiwa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "yo a bolelago"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka me"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mantsu"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "a mabotse"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mantsu"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "a kgothalletšo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:14:34.665571913Z",
+  "model": "glm-5.3"
+}

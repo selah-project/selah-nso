@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דרכו",
+      "rationale": "'derakhu' go tšwa go דרך — 'ba tlogetše metholo' (go kwala gase ka go e gata) goba 'ba laetše'; KJV e oketša 'go bula gase'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חץ\/דבר מר",
+      "rationale": "motholo ke lentšu — sebopego sa go thunya lentšu le bogale; diphetho tša Saere di aparetšwe ka mothalo o mongwe"
+    }
+  ],
+  "translation": "Ba ba bohileng leleme la bona bjalo ka tšhoša, ba laetše metholo ya bona — lentšu le bogale.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f1ca18f044131ba021af68da3551d15de2fde9f46c864ce6e3a910ae8788107a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/64\/1-4.1792297997739.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ba ba"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "bohileng"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "bjalo ka tšhoša"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "leleme la bona"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ba laetše"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "metholo ya bona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "מר",
+      "gloss": "le bogale"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:17.740241241Z",
+  "model": "glm-5.3"
+}

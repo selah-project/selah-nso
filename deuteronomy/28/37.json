@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 28:37",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "makgakgapha",
+      "rationale": "לשמה ke 'se se tlaišago\/se se fosagetšego' — sekanegwana le tlhaešo di tšwa go למשל ולשנינה"
+    },
+    {
+      "kind": "addition",
+      "subject": "tšona",
+      "rationale": "Sepedi e nyaka somaedi ge sehlatishi se ka moka se latela 'gona'"
+    }
+  ],
+  "translation": "Gomme o tla ba makgakgapha, sekanegwana le tlhaešo gare ga ditšhaba ka moka, tšeo Yahwe a tla go isa gona tšona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "da17e54fe72a791fff7f04ebcc914d98e01e379006b161e353d656818a22526e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/28\/37-40.1792286287862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "gomme o tla ba"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "makgakgapha"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "sekanegwana"
+    },
+    {
+      "surface": "ולשנינה",
+      "gloss": "le tlhaešo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "ינהגך",
+      "gloss": "a tla go isa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "gona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:18:07.862902716Z",
+  "model": "glm-5.3"
+}

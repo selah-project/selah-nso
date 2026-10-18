@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "footstool of his feet",
+      "rationale": "להדם רגליו is a double construct — 'footstool of-his-feet'; Sepedi keeps both pieces with 'sa maoto a gagwe'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Godisang… o inkgotlaretšeng",
+      "rationale": "plural imperatives summoning the congregation to exalt and prostrate"
+    },
+    {
+      "kind": "substitution",
+      "subject": "o kgethwa",
+      "rationale": "קדוש rendered with D2 stem -kgethwa, not Sesotho 'halalela'"
+    }
+  ],
+  "translation": "Godisang Yahwe Elohim wa rena, gomme o inkgotlaretšeng go sethala sa maoto a gagwe; o kgethwa yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9c29dcd4b95be0f2df3d95f849a38c88835405d3fc8b3bf7d39bf94943a5617a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/99\/5-8.1792298542464.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Godisang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rena"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "gomme o inkgotlaretšeng"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "go sethala sa maoto"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maoto a gagwe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "o kgethwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:22.465360584Z",
+  "model": "glm-5.3"
+}

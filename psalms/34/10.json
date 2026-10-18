@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Bowang Yahwe",
+      "rationale": "Taere ya go laela go bakgethwa ba Yahwe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יראו \/ ליראיו",
+      "rationale": "Modu o a boela: bowang … bao ba mo bowago — seoletšo se boela ka lentšu le le tee."
+    },
+    {
+      "kind": "elision",
+      "subject": "אין",
+      "rationale": "Go sego se hlalositšwe ka sebopego sa kopanyo; lentšu la go gana le tšeela ka go sego."
+    }
+  ],
+  "translation": "Bowang ⟨את⟩ Yahwe, bakgethwa ba gagwe; gobane go sego phokotšo go bao ba mo bowago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "95135d11609701d8a44ef03261bde90c730b5875a370fa116b056eba0a669052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/9-12.1792297541674.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "Bowang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "bakgethwa ba gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go sego"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "phokotšo"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "go bao ba mo bowago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:41.675083120Z",
+  "model": "glm-5.3"
+}

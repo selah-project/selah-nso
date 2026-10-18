@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na sekopanyi; Sepedi se a se nyaka."
+    },
+    {
+      "kind": "idiom",
+      "subject": "lenaka",
+      "rationale": "קרן 'lenaka' ke seswantšho sa matla le tokologo; sebonagalo sa lenotlo la phoofolo se bolokwa."
+    }
+  ],
+  "translation": "Ka gobane wena ⟨ke⟩ tlotlo ya matla a bona, gomme ka thato ya gago o godiša lenaka la rena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1efec28f885b7bd897d6f0e74718914e24a473b6970ea360972fcb3ff2b9e72d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/17-20.1792298384556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "tlotlo"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "ya matla a bona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "gomme ka thato ya gago"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "o godiša"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "lenaka la rena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:44.557301497Z",
+  "model": "glm-5.3"
+}

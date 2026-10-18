@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ימינם ימין",
+      "rationale": "go boetša ga 'letogo la go ja' — kgolokwe ya go se loka go tiile, e dutše e le ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "letogo la go ja",
+      "rationale": "ימין ke letogo la go ja — maatla le kanetšo; 'la leshano' e bolela kanetšo ya maaka"
+    }
+  ],
+  "translation": "Bao molomo wa bona o bolelago lefeela, gomme letogo la bona la go ja e le letogo la leshano.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3823681dd95ba4e8da74844860cec153bb0ccfe1195e43e232858978f5b1f86d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/144\/5-8.1792299138693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "molomo wa bona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o bolelago"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "lefeela"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "gomme letogo la bona la go ja"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "letogo la go ja"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "la leshano"
+    }
+  ],
+  "timestamp": "2026-10-18T04:52:18.694333132Z",
+  "model": "glm-5.3"
+}

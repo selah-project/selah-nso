@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "metswalle",
+      "rationale": "משבריך: 'breakers' tša lewatle — metswalle, seswantšho sa mathata a tlang ka mokgwa o mongwe le o mongwe."
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "סלה e bolokilwe ka yona — a e sa fetolelwa, e hlakile ka Seheberu."
+    }
+  ],
+  "translation": "Bogale bja gago bo nthwetše godimo ga nna; gomme ka metswalle ya gago ka moka o nkotšeditše. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4986458f8f31a4cb2e7082312e24ed0960421b2a4032994f54e840e23fe000d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/88\/5-8.1792298407729.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga nna"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "bo nthwetše"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "bogale bja gago"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme ka moka"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "metswalle ya gago"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "o nkotšeditše"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:07.730626187Z",
+  "model": "glm-5.3"
+}

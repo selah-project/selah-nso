@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "masomešupa\/masomeseswai",
+      "rationale": "numbered lifespan: seventy years, or eighty by strength"
+    },
+    {
+      "kind": "crux",
+      "subject": "גז",
+      "rationale": "'cut off' (like shearing) vs 'pass away' — rendered as being carried off swiftly"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ra fofa re a tlošwa",
+      "rationale": "ונעפה means fly\/faint — flying away added to capture the fleeing sense"
+    }
+  ],
+  "translation": "Matsatsi a mengwaga ya rena ka gona ke masomešupa a mengwaga; gomme ge e le ka matla, masomeseswai a mengwaga; gomme bodidiri bja wona ke mošomo le lefeela, ka gobane o a kopšwa ka lebelo, gomme ra fofa re a tlošwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/90\/9-12.1792298434214.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi a"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "mengwaga ya rena"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka gona"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "masomešupa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a mengwaga"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge e le"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "ka matla"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "masomeseswai"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "a mengwaga"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "bodidiri bja wona"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "le lefeelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "גז",
+      "gloss": "o a kopšwa"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "ka lebelo"
+    },
+    {
+      "surface": "ונעופה",
+      "gloss": "ra fofa re a tlošwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:34.215277284Z",
+  "model": "glm-5.3"
+}

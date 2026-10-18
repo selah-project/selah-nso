@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke beile",
+      "rationale": "חטאתי ke bontši bja go dira; Sepedi e nyaka mohlala — 'ke beile sebe' go bolela sebopego sa tirišo."
+    },
+    {
+      "kind": "secret",
+      "subject": "tsedeke",
+      "rationale": "צדק e bolokilwe bjalo ka tsedeke go ya le D2; ga go a fetolwa go 'toka' fela."
+    }
+  ],
+  "translation": "Go wena, o le nosi fela, ke beile sebe, gomme ke dirile bobe mahlong a gago; gore o tla ba tsedeke ka mantšu a gago, o tla hlwekala ge o a ahlole.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0e766f8045ad1ee404c5cb4d09eb034c4e86bb35eb7569190358b3c6579dca1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/51\/5-8.1792297845385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "o le nosi fela"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ke beile sebe"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "gomme bobe"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "mahlong a gago"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke dirile"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "o tla ba tsedeke"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "ka mantšu a gago"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "o tla hlwekala"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "ge o a ahlole"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:45.386625855Z",
+  "model": "glm-5.3"
+}

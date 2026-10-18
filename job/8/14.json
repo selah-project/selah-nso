@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 8:14",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "יקוט",
+      "rationale": "קטט (go kgoma, go senya) — lentšu le boima kudu ka Sepedi; 'tlhaologo' ke go fihlelela fela."
+    },
+    {
+      "kind": "crux",
+      "subject": "כסלו",
+      "rationale": "כסל ke serope (lefelo la maatla); literal 'serope sa gagwe' kgathanong le 'boikgantšho' — JPS e gapa 'gossamer'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "legora la segokgo",
+      "rationale": "Seheberu se re 'ntlo ya segokgo' — lesaka la silky la segokgo, e sego 'thapo fela'."
+    }
+  ],
+  "translation": "yo boikgantšho bja gagwe bo tlo tlhaologo, gomme boiketlo bja gagwe bo tla ba yago legora la segokgo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1fbb6e9064788810727e4e0f96ccd6f54c98634d3b252371107e7a33bc4756d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/8\/13-16.1792300128987.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יקוט",
+      "gloss": "bo tlo tlhaologo"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "boikgantšho bja gagwe"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "gomme ... legora la"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "segokgo"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "boiketlo bja gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:08:48.987961013Z",
+  "model": "glm-5.3"
+}

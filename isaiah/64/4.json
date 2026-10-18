@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 64:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהם עולם",
+      "rationale": "KJV: 'ka ditseleng tšeo go dula gosopel' (continuance); JPS e bala 're dula ka ditseleng tšeo' — bothata bja kgopanyo ya mananeo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yo a itumelelago",
+      "rationale": "שש ke go itumelela \/ go nyakafala; JPS e bala 'wa tlosa' go tloga go פגע — mo go bopiwa bjalo ka kopano e tletseng"
+    }
+  ],
+  "translation": "O kopane le ⟨את⟩ yo a itumelelago le go dira tsedeke; ditseleng tša gago ba go gopola. Bonang, wena o ile wa galefa, gomme re dirile dibe; ka ditseleng tšeo re dula ka nako e telele, gomme re tla phologwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fe4dfc82da3d97c8f4d128d680314a8745bc027acab1784efe46624721794721",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/64\/1-4.1792292538314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פגעת",
+      "gloss": "O kopane le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo a itumelelago le go dira tsedeke"
+    },
+    {
+      "surface": "שש",
+      "gloss": "yo a itumelelago"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "gomme go dira"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "ditseleng tša gago"
+    },
+    {
+      "surface": "יזכרוך",
+      "gloss": "ba go gopola"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "o galefa"
+    },
+    {
+      "surface": "ונחטא",
+      "gloss": "gomme re dira dibe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka ditseleng tšeo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka nako e telele"
+    },
+    {
+      "surface": "ונושע",
+      "gloss": "gomme re tla phologwa"
+    }
+  ],
+  "timestamp": "2026-10-18T03:02:18.315414165Z",
+  "model": "glm-5.3"
+}

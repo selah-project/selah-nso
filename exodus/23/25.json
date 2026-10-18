@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bogobe",
+      "rationale": "לחם ke bohlale bja dijo, kudu bogobe — ke lentšu le tee la Sepedi leo le bolelago dijo tša mošomo."
+    },
+    {
+      "kind": "addition",
+      "subject": "ya lona",
+      "rationale": "ם- ya kopanyo go אלהיכם e botša bja bobedi bja setšhaba ka bophara."
+    }
+  ],
+  "translation": "Gomme le tla šoma ⟨את⟩ Yahwe Elohim ya lona, gomme o tla lokofatša ⟨את⟩ bogobe bja gago le ⟨את⟩ meetse a gago, gomme ke tla ntšha bolwetši gare ga gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/23\/25-28.1792282880951.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "gomme le tla šoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ya lona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "gomme o tla lokofatša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogobe bja gago"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "bogobe bja gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "meetse a gago"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "meetse a gago"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "gomme ke tla ntšha"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "bolwetši"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "gare ga gago"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:20.951758814Z",
+  "model": "glm-5.3"
+}

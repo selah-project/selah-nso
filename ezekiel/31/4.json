@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 31:4",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גדלוהו \/ בגדלך",
+      "rationale": "גדל go mo godimetša ga sekelara e kwetša le גדלך ‘bogolo bja gago’ ya temana ya 2 — karabelo ya meetse godimo ga potšišo ya Farao."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tehome",
+      "rationale": "תהום ke molambo o tebileng wa meetse a mahlano; ‘tehome’ e boloka modumo, e sego ‘lewatle’ fela."
+    }
+  ],
+  "translation": "Meetse a mo godimetše, tehome e mo phašaletše; ⟨את⟩ dinoka tša yona di sepela sekgoba sa seetwa sa yona, gomme o rometše ⟨את⟩ dikgethi tša yona go ditlare ka moka tša nageng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "147d0a3e5bfa848bd890fb61c1fb846a5a606227ee4aa0c3966a02036f4d8999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/31\/1-4.1792295312862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "Meetse"
+    },
+    {
+      "surface": "גדלוהו",
+      "gloss": "a mo godimetše"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehome"
+    },
+    {
+      "surface": "רממתהו",
+      "gloss": "e mo phašaletše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinoka tša yona"
+    },
+    {
+      "surface": "נהרתיה",
+      "gloss": "dinoka tša yona"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "di sepela"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "sekgoba sa"
+    },
+    {
+      "surface": "מטעה",
+      "gloss": "seetwa sa yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "dikgethi tša yona"
+    },
+    {
+      "surface": "תעלתיה",
+      "gloss": "dikgethi tša yona"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "o rometše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ditlare"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tša nageng"
+    }
+  ],
+  "timestamp": "2026-10-18T03:48:32.866758837Z",
+  "model": "glm-5.3"
+}

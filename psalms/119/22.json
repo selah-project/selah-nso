@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "גל מעלי",
+      "rationale": "Mantšu a Seheberu a re go rolola ka godimo ga; Sepedi a re tloša go ka nna."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Psalmo ya 119 e bolela go Yahwe ka boši e sa bitseng leina."
+    }
+  ],
+  "translation": "Tloša go ka nna manyantlhiso le go hloniwa; ka gobane bopaki bja gago ke bja bolokile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "11871cdc9e699b814fcbc08edbcce91960f48c1032e665dfded39717e628f884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/21-24.1792298813318.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "tloša"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "go ka nna"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "manyantlhiso"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "gomme go hloniwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "bopaki bja gago"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ke bja bolokile"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:53.319431851Z",
+  "model": "glm-5.3"
+}

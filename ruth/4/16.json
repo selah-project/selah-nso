@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sa yena",
+      "rationale": "gobane Sepedi ga se na article, se nyaka pronoun ya borena"
+    }
+  ],
+  "translation": "Gomme Naomi a tšea ⟨את⟩ lesea, a se bea sehubeng sa yena, gomme a ba mooki wa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "74b037ff52ec3203f9f2992878e3a2ae3e68d7cc88ba64ad214b7c9b6f428b46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ruth\/4\/13-16.1792301060081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "a tšea"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lesea"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "lesea"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "a se bea"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "sehubeng sa yena"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "a ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa gagwe"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "mooki"
+    }
+  ],
+  "timestamp": "2026-10-18T05:24:20.082809414Z",
+  "model": "glm-5.3"
+}

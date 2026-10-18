@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כאבנים \/ כשקמים",
+      "rationale": "Papiso tše pedi tša go lekana: silibera bjalo ka maswika, dikedare bjalo ka mokgwa — sebopego se se swanago se bolokwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שקמים",
+      "rationale": "Mokgwa (mohlare wa mokgwa) — Sepedi ga se na lentšu le tee la sycamore-fig"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויתן",
+      "rationale": "'A dira' e latela tlhalošo ya KJV 'made'; literally 'a fa' — go ne go diragala ka mo go tseneletseng"
+    }
+  ],
+  "translation": "Gomme kgoši a dira ⟨את⟩ silibera le ⟨את⟩ gauta go ba bjalo ka maswika go Yerushalayime, gomme ⟨את⟩ mehlare ya dikedare a e dira go ba bjalo ka mokgwa woo o lego mafase a fase, ka bontši.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b522cde81c7d4a1fae2e0916c314ca6b3c0a090920620ba3779150bcae1ea46d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/1\/13-16.1792303530361.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silibera"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "gauta"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "go Yerushalayime"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "bjalo ka maswika"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "mehlare ya dikedare"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "mehlare ya dikedare"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a e dira"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "bjalo ka mokgwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woo o lego"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "mafase a fase"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ka bontši"
+    }
+  ],
+  "timestamp": "2026-10-18T06:05:30.362892854Z",
+  "model": "glm-5.3"
+}

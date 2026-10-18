@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bogobe",
+      "rationale": "לחם ke bogobe ka mehla go ya le D4; mo e bolela dijo ka bophara, e sego bogobe fela"
+    },
+    {
+      "kind": "alternative",
+      "subject": "dikwala",
+      "rationale": "ערב ke kwala ya go tala — e ka ba 'nonyana e ntšo' ge lentšu le sa tsejwe"
+    }
+  ],
+  "translation": "O fa diruiwa bogobe bja tšona, le bana ba dikwala bao ba letšago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2e9f803065a108849f0e10ecd8bdcca073963c32aaa21cb0542e9d4cfd08cb3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/147\/9-12.1792299093873.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "o fa"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "diruiwa"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "bogobe bja tšona"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "dikwala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ba letša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:33.873840009Z",
+  "model": "glm-5.3"
+}

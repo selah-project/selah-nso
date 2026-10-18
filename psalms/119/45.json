@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sekgoba se se pharologago",
+      "rationale": "ברחבה ke 'se se pharologago' — sepetlele sa kelelho; 'tokologo' ke tlhaloso, e sego sebopego sa lentšu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ke nyeletše",
+      "rationale": "דרשתי ke go nyalela\/nyeletša ka tsela e tswelelago pele — go sepelela pele ga go bonya go feta 'go nyaka ga tee'."
+    }
+  ],
+  "translation": "Gomme ke tla sepela sekgobeng se se pharologago, ka gobane ke nyeletše ditaelo tša gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e1e9edb61584885156890815718eff87acc05ffed81ce85e53bed441f5f4cfe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/45-48.1792298816046.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "gomme ke tla sepela"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "sekgobeng se se pharologago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "ditaelo tša gago"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ke nyeletše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:56.047406511Z",
+  "model": "glm-5.3"
+}

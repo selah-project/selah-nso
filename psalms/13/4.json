@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אישן המות",
+      "rationale": "'Robalo la lehu' — kgetsišo e sa fetogego ya Seheberu (mošomo); ba mofetoledi ba bangwe ba hlaloša e le 'robala go swana le lehu' eupša sebopego se hlamilwego se bolokwa."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi se nyaka temelana e tee yeo Seheberu se e sa e ngwalago."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe Elohim wa ka",
+      "rationale": "Peto ya ka ntle go Yahwe."
+    }
+  ],
+  "translation": "Lebelela, araba ⟨ke⟩, Yahwe Elohim wa ka; fodisa mahlo a ka, gore ke se ke wa robala robalo la lehu;",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/13\/1-4.1792297273465.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "lebelela"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "araba ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "fodisa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore... se ke"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ke robale"
+    },
+    {
+      "surface": "המות",
+      "gloss": "robalo la lehu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:13.466189850Z",
+  "model": "glm-5.3"
+}

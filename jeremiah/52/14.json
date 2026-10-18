@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 52:14",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רב טבחים",
+      "rationale": "kahlolo ya motheo ke 'mogolo wa batlhabiši\/bapholotši'; 'mogolo wa badiredi' e tšea maemo, e sego senepe sa lentšu la Seheberu."
+    },
+    {
+      "kind": "elision",
+      "subject": "את (H854)",
+      "rationale": "go latela רב leina, sona seka sa go ba kgauswi; se hlakantšhwe bjalo ka 'a nago le'."
+    }
+  ],
+  "translation": "Mme masole ka moka a Bakasdi, ao a nago le mogolo wa badiredi, a theola mabota ka moka a Yerushalayime go dikologa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "147537507fc136d2a289e7cf3030d02b180097892482214ddc60f25bb2116285",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/52\/13-16.1792294299108.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "mabota ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "mabota"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayime"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "a theola"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "masole"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "a Bakasdi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "את",
+      "gloss": "a nago le ⟨את⟩",
+      "marks": "mogolo wa badiredi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa badiredi"
+    }
+  ],
+  "timestamp": "2026-10-18T03:31:39.109307755Z",
+  "model": "glm-5.3"
+}

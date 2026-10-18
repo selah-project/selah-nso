@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 142,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפש ke mokgoho\/bophelo, e sego moya (ruakh); Sepedi ga se na lentšu le tee la yona"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yo⟩",
+      "rationale": "Seheberu ga se na lentšu la motho; go oketšwe go hlalosa gore go bušwa ka mang"
+    }
+  ],
+  "translation": "Leba ka letlhagodi, o bone, gomme ga go ⟨yo⟩ a nthutšego; sepholoho se phetlhile go tšwa go nna; ga go yo a batlago moya wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ae674d83557acf8694250d0bbacfd6bdc9e0175bad776174ee6071f57e9f6862",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/142\/5-8.1792299065307.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "leba"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ka letlhagodi"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "gomme o bone"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme ga go"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "yo a nthutšego"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "se phetlhile"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "sepholoho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tšwa go nna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "yo a batlago"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "moya wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:05.308285287Z",
+  "model": "glm-5.3"
+}

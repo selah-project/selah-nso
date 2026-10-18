@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 48:33",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הידד הידד לא הידד",
+      "rationale": "Mongwalo o boela gate-gate ka lentšu la heydade ga raro; mokgwa o wa go bua ga o phethwe ka botlalo go Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "heydade",
+      "rationale": "הידד ke modumo wa go thaba ge ba tšha merebe; o ngwalwa ka modumo wa lona ka gobane ga se lentšu la Sepedi."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויין מיקבים השבתי",
+      "rationale": "Seheberu se re 'beere go didiba ke ile ka e emiša' — Lentšu la Sepedi le oketša 'tša yona' go hlatholla."
+    }
+  ],
+  "translation": "Gomme boitumelo le moyoyo di tlo kgobokwa go sefala le go lefase la Moaba; gomme beere ke ile ka e emiša go didiba tša yona; ga go yo a tla tšhago ka heydade; heydade ga se heydade.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "57163ed55904db948701e9c08562a34c4d7d8b336cf9da856f1f11600a5523d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/48\/33-36.1792294113559.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונאספה",
+      "gloss": "di tlo kgobokwa"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "le moyoyo"
+    },
+    {
+      "surface": "מכרמל",
+      "gloss": "go sefala"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "le go lefase"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "וגין",
+      "gloss": "gomme beere"
+    },
+    {
+      "surface": "מיקבים",
+      "gloss": "go didiba tša yona"
+    },
+    {
+      "surface": "השבתי",
+      "gloss": "ke ile ka emiša"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go yo"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "a tla tšhago"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "ka heydade"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "heydade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "הידד",
+      "gloss": "heydade"
+    }
+  ],
+  "timestamp": "2026-10-18T03:28:33.560232800Z",
+  "model": "glm-5.3"
+}

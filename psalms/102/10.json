@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sekgolodilwego",
+      "rationale": "בבכי ke go sekgolola (tšhuša); 'mokgwa wa me a fa mo' o betša ka mo go šomilego."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מסכתי",
+      "rationale": "Sepedi se nyaka 'mokgwa wa go se tliša mmogo' bakeng sa moralo wo o tee wa Seheberu."
+    }
+  ],
+  "translation": "Ka gobane lerole ke jele bjalo ka bogobe, gomme se a nwegago ke je se tseetše ka sekgošešego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0227110c390adaaa7c5e2a70efd5b076ef0c501814819534098c7735f020551f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/102\/9-12.1792298536214.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "bjalo ka bogobe"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ke jele"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "gomme se a nwegago"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ka sekgolodilwego"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ke se tseetše ka go se tliša mmogo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:16.215576674Z",
+  "model": "glm-5.3"
+}

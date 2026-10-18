@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mollomo",
+      "rationale": "Palo ya melelwane: go tšwa Arnone go fihla Yaboke, go tšwa nageng go fihla Yoredene"
+    },
+    {
+      "kind": "substitution",
+      "subject": "naga",
+      "rationale": "מדבר e bolela lefelo le le sa hlakago; \"naga\" ke lentšu la Sepedi le kgauswi le lona"
+    }
+  ],
+  "translation": "Ba boutša ⟨את⟩ mollomo ka moka wa Baemorite, go tšwa go Arnone go fihla go Yaboke, le go tšwa nageng go fihla go Yoredene.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "392848abc3df1bcd4c2519dad73afc454bcf86b689baa7463272e55eacac7c01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/11\/21-24.1792287534399.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "ba boutša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mollomo ka moka wa Baemorite"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mollomo"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "wa Baemorite"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "go tšwa go Arnone"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla go"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "Yaboke"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le go tšwa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "nageng"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla go"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    }
+  ],
+  "timestamp": "2026-10-18T01:38:54.400302146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח ke moya, phefo le go hema ka lentšu le tee — ga se fela 'moya wa ka'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פקיד",
+      "rationale": "אפקיד (go beha\/go laetša) le פדית (go ntsholola) — modumo o tšwago o tšwa, se se lahlegilgo ka Sepedi"
+    }
+  ],
+  "translation": "Go seatla sa gago ke beha ruakh ya ka; o ntsholotše ⟨את⟩ nna, Yahwe, El wa nnete.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "321aab05eaa32e5b93f1892e7168168f80579fbe726107436a18f8a237a6a21d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/31\/5-8.1792297474045.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "go seatla sa gago"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "ke beha"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya ka"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "o ntsholotše"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "wa nnete"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:34.046220353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimo ye mengwe",
+      "rationale": "אלהים אחרים ka ditlhaka tše nnyane ka D1 — medimo ya ditšhaba, e sego Elohim"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עזבוני \/ למעשי ידיהם",
+      "rationale": "Ba tlogetše Mmopi go ikhupama go dišomo tša diatla tša bona — phapano ya go tlogela kgathanong le go ikhupama"
+    }
+  ],
+  "translation": "Gomme ke tla bolela dikahlolo tša ka ⟨את⟩ tšona godimo ga bo bobe bja tšona ka moka, ka gobane ba tlogetše nna, gomme ba fišitše mohlolo go medimo ye mengwe, gomme ba ikhupame go dišomo tša diatla tša tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd14288c05d776619a7cc3bc340265350d7167a44280452a7504a686752aa6d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/1\/13-16.1792292672867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "gomme ke tla bolela"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo tša ka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ tšona",
+      "marks": "dikahlolo tša ka godimo ga bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "bo bobe bja tšona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "ba tlogetše nna"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "gomme ba fišitše mohlolo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ye mengwe"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "gomme ba ikhupame"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "go dišomo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "tša diatla tša tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:04:32.868698111Z",
+  "model": "glm-5.3"
+}

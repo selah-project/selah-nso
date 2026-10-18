@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "masome a tshela · masome a seswai",
+      "rationale": "Pale ya dikgosigadi (60) le dipilageshe (80) — go balelwa ka thwii go swana le Seheberu"
+    },
+    {
+      "kind": "elision",
+      "subject": "המה",
+      "rationale": "sefokwana sa go kgomaretša se fetotšwe 'ke tšona' — ga se na boemong bja tlwaelo ka Sepedi"
+    }
+  ],
+  "translation": "Go na le dikgosigadi tše masome a tshela, le dipilageshe tše masome a seswai, le basetsana ba se nago ⟨palo⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "36292d4b89e0dfd1a4ec0aa458b5decbc7de40bf44a48e8138a18a5c9181c858",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/6\/5-8.1792300936978.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "tše masome a tshela"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ke tšona"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "dikgosigadi"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "le tše masome a seswai"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "dipilageshe"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "le basetsana"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ba se nago"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:22:16.979085304Z",
+  "model": "glm-5.3"
+}

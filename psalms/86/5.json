@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hesede",
+      "rationale": "חסד e bolokwa ka modumo go ya le D2 — e sego 'botho' fela"
+    },
+    {
+      "kind": "elision",
+      "subject": "ya gago",
+      "rationale": "Sepedi se nyaka mongodi wa hesede; Seheberu se mo e le construct רב־חסד"
+    }
+  ],
+  "translation": "Ka gobane wena, Adonai, o botse gomme o lebogela, gomme hesede ya gago e ntsi go ba ka moka bao ba go bitšago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "133a5716555a948c169a21ead9202567d83ea7b4b64b79463ae64f1592b09734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/86\/5-8.1792298386954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "o botse"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "gomme o lebogela"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "gomme e ntsi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ba ka moka"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "bao ba go bitšago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:46.954774443Z",
+  "model": "glm-5.3"
+}

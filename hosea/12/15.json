@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 12:15",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a hlohleletša",
+      "rationale": "הכעיס ke 'go dira gore a harege'; motho yo a hlohleletšwego ga a ngwalwa go Seheberu — Yahwe ke yena (kgauswi le difoko tša setopo)"
+    },
+    {
+      "kind": "crux",
+      "subject": "תמרורים",
+      "rationale": "Lentšu le ka bolela 'bohloko' goba 'meuta e phahameng' (bamah tamrurim); KJV 'bitterly' kgahlanong le Geneva 'high places'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יטוש",
+      "rationale": "נטש le ka bolela 'go tlogela' (madi a gagwe a tla tlogelwa go yena) goba 'go hlatswa\/thuntšha' — diphetolelo di fapana"
+    },
+    {
+      "kind": "elision",
+      "subject": "sehlogo",
+      "rationale": "חרפה ke sehlogo\/senyišo ya leina — mafelelong a moporofeta wa Hosea"
+    }
+  ],
+  "translation": "Efrayime o ile a hlohleletša bohloko bjo bogolo; gomme madi a gagwe a tla bea go yena, gomme Adonai wa gagwe o tla bušetša sehlogo sa gagwe go yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "46b4d4b6dc765202222b342c48e87a245e42046b168da7cd2e16064f8115b9b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/12\/13-15.1792295995525.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכעיס",
+      "gloss": "o ile a hlohleletša"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "תמרורים",
+      "gloss": "bohloko bjo bogolo"
+    },
+    {
+      "surface": "ודמיו",
+      "gloss": "gomme madi a gagwe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "a tla bea"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "gomme sehlogo sa gagwe"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "o tla bušetša"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "Adonai wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:59:55.526726300Z",
+  "model": "glm-5.3"
+}

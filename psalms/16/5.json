@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na copula; polelo ya Sepedi e e nyaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנת\/חלקי\/כוסי\/גורלי",
+      "rationale": "Dintlha tše nne tša kabelo ka moka — go arobilwego, kabelo, sekompe, methalokabelo — tatelano ya go bapana ye e theilwego go dikabelo tša lefase"
+    }
+  ],
+  "translation": "Yahwe ⟨ke⟩ karolo e arobilwego ya kabelo ya ka, le sekompe sa ka; ⟨wena⟩ o thekgile kabelo ya ka ya go thwala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a9f0d1e529c35e65de466de47729a13b0b3b55bc594c731717a1207842378a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/16\/5-8.1792297275681.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "karolo e arobilwego"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ya kabelo ya ka"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "le sekompe sa ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "o thekgile"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "kabelo ya ka ya go thwala"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:15.682617594Z",
+  "model": "glm-5.3"
+}

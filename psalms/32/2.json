@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakhu",
+      "rationale": "רוח e swara moya, phefo le mošomo wa ka gare — 'ruakh' ka mehla, go se ka ga go fetola"
+    },
+    {
+      "kind": "crux",
+      "subject": "mo balago",
+      "rationale": "יחשב gape e ka bolela 'go bala' goba 'go hlahisa dikakanyo' — ba fetoleli ba fapana"
+    }
+  ],
+  "translation": "Mahumo a motho yo Yahwe a sa mo balago mokgofolo, gomme go se selo se mafebo ruakhu ya gage.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "597c22f8483057877c4c741b33466b7b61002057e18ba7a0843808bc5ed6349b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/32\/1-4.1792297589758.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mahumo a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "mo balago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mo⟩"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mokgofolo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme go se selo"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ruakhu ya gage"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "mafebo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:29.758677845Z",
+  "model": "glm-5.3"
+}

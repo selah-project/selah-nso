@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 7:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le kopula; Sepedi se e nyaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאמינו\/תאמנו",
+      "rationale": "Go ralana ga modu — go duma le go tišega, bothupo bjo bo se nago kankere go Sepedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "tišegwe",
+      "rationale": "תאמנו: 'go tišega' kgatlhanong le 'go dula'; ditlhopho tša ditlhopho tša bafoledi di fapana"
+    }
+  ],
+  "translation": "Gomme hlogo ya Efrajime ke Shomerona, gomme hlogo ya Shomerona ⟨ke⟩ morwa wa Remaljahu. Ge le ka se dume, le ka se tišegwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c98f078f313b73a8784c949650af5c89516139d3e118f10f31c027a8ad8ee195",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/7\/9-12.1792291257386.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראש",
+      "gloss": "gomme hlogo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ya Efrajime"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomerona"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "gomme hlogo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ya Shomerona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "wa Remaljahu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "le ka se dume"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "תאמנו",
+      "gloss": "le ka se tišegwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:40:57.386556102Z",
+  "model": "glm-5.3"
+}

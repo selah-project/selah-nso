@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "declaring the end from the beginning",
+      "rationale": "Yahwe announces the future before it exists — withheld knowledge revealed."
+    },
+    {
+      "kind": "addition",
+      "subject": "O",
+      "rationale": "Participle מגיד needs a subject pronoun in Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sebopego",
+      "rationale": "עצה is counsel\/plan; 'sebopego' keeps the sense of a determined design."
+    }
+  ],
+  "translation": "⟨O⟩ tsebisha mafelelo go tloga mathomong, le dilo tše sa dirwanggo go tloga bogologolo; a re: sebopego sa ka se tla ema, gomme thato ya ka yela ke e dira.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8555de819c89b8125b99c8ab018794a5c6154e0a44f7933e68869a4a3433192a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/46\/9-12.1792292195099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "tsebisha"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "go tloga mathomong"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "mafelelo"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "go tloga bogologolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "dirwago"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "sebopego sa ka"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "se tla ema"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme thato ya ka"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "yela"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke e dira"
+    }
+  ],
+  "timestamp": "2026-10-18T02:56:35.100331106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דכית",
+      "rationale": "dika ga e ṱoale go fapana: 'o a robilego' kgathanong le 'o a dipotšego' — mmele wa go putwa, e sego go thuthupa fela"
+    }
+  ],
+  "translation": "Mpotše takatšo le thabo, gore marapo ao o a robilego a thabe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/51\/9-12.1792297843129.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "mpotše"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "takatšo"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "gomme thabo"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "a thabe"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "marapo"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "ao o a robilego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:43.129748986Z",
+  "model": "glm-5.3"
+}

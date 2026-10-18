@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צלצל",
+      "rationale": "Whirring\/clatter of wings vs 'shadowing with wings' (KJV) vs 'buzzing' (JPS); 'sefofane sa maphego' e boloka sebopego sa modumo."
+    },
+    {
+      "kind": "hapax",
+      "subject": "צלצל כנפים",
+      "rationale": "Sebopego se sa go kopantšhwa ga mantšu a mekae kudu — mo e šomišwa ka go rapalala ga maphego fela."
+    },
+    {
+      "kind": "invitation",
+      "subject": "הוי",
+      "rationale": "Go hlahlama la bofi go bitša mmadi go reêlwa lefaseng leo."
+    }
+  ],
+  "translation": "Mahloko! lefase la sefofane sa maphego, leo le lego ka molemong wa dinoka tša Kushe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "09e49299305836eb392ba88b85b98d89ff37106566c1a06010df6da0936bf95f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/18\/1-4.1792291656191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mahloko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "sefofane"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "sa maphego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ka molemong"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "wa dinoka"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "tša Kushe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:47:36.191709001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kaporete",
+      "rationale": "הכפרת ke sephuthwego sa Aroni; go be go ka fetolelwa 'sephethwe sa go fega', fela leina le bolokwa ka modumo wa lona."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moshe",
+      "rationale": "Taaelo ye e aroganela Moshe ka go dira tabernakele."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נתת\/תתן\/אתן",
+      "rationale": "Thuti ya go fega gape e hlalosa sephethwe sa go fega (kaporete) — modumo o tšwago go kafar, go fega."
+    }
+  ],
+  "translation": "Gomme o be o bea ⟨את⟩ kaporete ka godimo ga Aroni, gomme go Aroni o tla bea ⟨את⟩ bopaki bjo ke tla go fego sona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8f3da9a96ded92aff1e44a51f99980d11128af44174d87290a1ce7edbc9ce615",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/25\/21-24.1792283015122.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "o be o bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kaporete"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporete"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka godimo ga"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ka godimo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme go"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "Aroni"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "o tla bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bopaki"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bjo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla go fego"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sona go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:23:35.123359402Z",
+  "model": "glm-5.3"
+}

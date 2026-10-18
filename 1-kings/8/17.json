@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ntate wa ka",
+      "rationale": "Sepedi requires the possessive 'wa ka' where Hebrew has bare אבי ('father')"
+    },
+    {
+      "kind": "idiom",
+      "subject": "היה עם לבב",
+      "rationale": "Sebopro 'e bile le pelo' — rendered 'go ya ka pelo', the Hebrew idiom for intention"
+    }
+  ],
+  "translation": "Gomme go bile go ya ka pelo ya Dafida, ntate wa ka, go aga ⟨⟨ntlo⟩⟩ go Leina la Yahwe, Elohim wa Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/8\/17-20.1792289856954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go bile"
+    },
+    {
+      "surface": "עם",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ya Dafida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntate wa ka"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "go Leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:17:36.955318591Z",
+  "model": "glm-5.3"
+}

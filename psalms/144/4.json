@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "phefumelo",
+      "rationale": "הבל ke moya\/mmušo woo o fago, e sego 'bohlebole'; janelo ya moporofeta EaSetshe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דמה \/ אדם",
+      "rationale": "Go swana ga motho le hebel: go bapetša go šupa go fela ga motho"
+    }
+  ],
+  "translation": "Motho o swana le phefumelo yeo e fago; matsatsi a ka bjalo ka sekatana se se fago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b848aaeb70d75a694dd113c3d6f32b61b389fbc5a64c1624f2576f7f0a946101",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/144\/1-4.1792299067426.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Motho"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "le phefumelo yeo e fago"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "o swana"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "matsatsi a ka"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "bjalo ka sekatana"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "se se fago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:07.427709946Z",
+  "model": "glm-5.3"
+}

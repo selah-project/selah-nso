@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "פרחח",
+      "rationale": "Lentšu le le tlageha fela mo go Tanakh — 'sehlaha', bana ba batho ba batla ba le fashe."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויסלו",
+      "rationale": "'ba bopeletša' (cast up, ASV\/JPS — go aga mmušo wa go lwantšha) kgahlanong le 'ba tsea maoto' (push away, KJV) — bothata bja modu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלחו ... שלחו",
+      "rationale": "פסוק 11 le 12 ka bobedi di fedile ka שלחו — go lahlwa ga renthane le go lahlwa ga maoto, sebopego seo se pholilego ka Sepedi."
+    }
+  ],
+  "translation": "Ka letsogong la go ja la ka sehlaha se ema, ba lahla ⟨את⟩ maoto a ka, gomme ba bopeletša kgahlanong le nna ditsela tša masetlapelo a tšona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "75a70caf4ccd6f425cf387fb39eb79f96f7ac916c21935104bdab5f4b727e861",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/30\/11-12.1792305414043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "letsogong la go ja la ka"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "sehlaha"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "se ema"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ba lahla"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "gomme ba bopeletša"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ditsela"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "masetlapelo a tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:54.044358099Z",
+  "model": "glm-5.3"
+}

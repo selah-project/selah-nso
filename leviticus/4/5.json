@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yona",
+      "rationale": "Sepedi e nyaka bothati bja sehlabelo; Seheberu se na le אתו fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "yo a tloditšwego",
+      "rationale": "המשיח: 'yo a tloditšwego' (sekama sa go tlodisa mafura) kgahlanong le 'Mashiakh' sa semorago"
+    }
+  ],
+  "translation": "Gomme moperisita yo a tloditšwego a tšea moo go tšwa go mading a paara, gomme a tsenya ⟨את⟩⟨yona⟩ go tente ya go kopana.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "01074193af48863409aefde2dee522f4ce8d0e82d82ab34c8eae0a19360a99f9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/4\/5-8.1792283651753.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "gomme a tšea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "yo a tloditšwego"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "moo go tšwa go mading"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "a paara"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "gomme a tsenya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya go kopana"
+    }
+  ],
+  "timestamp": "2026-10-18T00:34:11.754587622Z",
+  "model": "glm-5.3"
+}

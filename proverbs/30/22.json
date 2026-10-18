@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mogwera wa ntsa",
+      "rationale": "נבל ke 'yo a sa naganego, yo bocifi' — e sego fela 'sefofu'"
+    },
+    {
+      "kind": "crux",
+      "subject": "לחם",
+      "rationale": "bogobe (D4) kgahlanong le 'dikobo tša nama' — go tletša ka dijo"
+    }
+  ],
+  "translation": "ka ga moahlanka ge a busa, gomme mogwera wa ntsa ge a tletša bogobe",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4841c54df7fd4f5681a1b1284dca724e8416c6bae76d1966b51c19a59c9da69d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/30\/21-24.1792299903905.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "moahlanka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "gomme mogwera wa ntsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "a tletša"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:03.906691638Z",
+  "model": "glm-5.3"
+}

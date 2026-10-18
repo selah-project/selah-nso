@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go bolela Yahwe",
+      "rationale": "נאם\/אמר יהוה ka mehla go bolela Yahwe, go ya le D3"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bakeng sa⟩",
+      "rationale": "Sepedi e nyaka lentedu la target, Seheberu se na le ל- fela"
+    }
+  ],
+  "translation": "Gomme gape go tšwa go bona ke tla tšea ⟨bakeng sa⟩ boperisita le ⟨bakeng sa⟩ baLevi, go bolela Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c7cb31dee7c5e9cb74f5df22e3b64dab2f239bdf6478085968ff9012172b26d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/66\/21-24.1792292649531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Gomme gape"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "go tšwa go bona"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ke tla tšea"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "⟨bakeng sa⟩ boperisita"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "⟨bakeng sa⟩ baLevi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:04:09.532451761Z",
+  "model": "glm-5.3"
+}

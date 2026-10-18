@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 89:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sa bogoši",
+      "rationale": "setulo sa kgosi — Sepedi se nyaka sesupi sa bogoši go hlatholla כסא"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקדמו פניך",
+      "rationale": "'ba go pele ga sefahlego sa gago' kgatlhanong le 'ba go amogela' (go kopana le, ka go hafasa) — baefi ba fapana"
+    }
+  ],
+  "translation": "Tsedeke le kahlolo ke motheo wa setulo sa gago sa bogoši; hesede le nnete di tla go pele ga sefahlego sa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/13-16.1792298407545.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "gomme kahlolo"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "wa setulo sa gago"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "gomme nnete"
+    },
+    {
+      "surface": "יקדמו",
+      "gloss": "di tla go pele"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ga sefahlego sa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:07.546228620Z",
+  "model": "glm-5.3"
+}

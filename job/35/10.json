@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 35:10",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Sepedi e nyaka modiri wa karolo; Seheberu se mo hlatholla ka mokgwa wa puo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dipina",
+      "rationale": "זמרות ke dipina tše di lomago ka dibaka tša mmino; 'dipina' fela ga a tlalelele sebaka sa mmino"
+    },
+    {
+      "kind": "crux",
+      "subject": "yo a fileng dipina bošegong",
+      "rationale": "Baithuti ba fapana: go ya ka ba bangwe ke 'dipina ka nako ya bošego' (thabo gare ga seatla), go ya ka ba bangwe ke 'dipina bakeng sa bošego' (khotsofasthong)"
+    }
+  ],
+  "translation": "Gomme ⟨o⟩ ga a re: Eloha o kae, mmopi wa ka, yo a fileng dipina bošegong?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "efe0cb4157b082ad044a9266f11ac4aadacd983ffe1215dd72d39a23ea7dc314",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/35\/9-12.1792300686939.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme ⟨o⟩ ga"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "איה",
+      "gloss": "o kae"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "mmopi wa ka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yo a fileng"
+    },
+    {
+      "surface": "זמרות",
+      "gloss": "dipina"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bošegong"
+    }
+  ],
+  "timestamp": "2026-10-18T05:18:06.940766302Z",
+  "model": "glm-5.3"
+}

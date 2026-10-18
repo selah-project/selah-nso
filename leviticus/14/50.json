@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka gare ga",
+      "rationale": "אל fela ke go ya go sela; Sepedi se nyaka sebopego sa setshelo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "meetse a phelago",
+      "rationale": "חיים ke bophelo; meetse a phelago e sego a a fulago fela"
+    }
+  ],
+  "translation": "A be a betha ⟨את⟩ nonyana ye tee ka gare ga setshelo sa letsopa, godimo ga meetse a phelago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "40d35f14f2a96ee4d1e5992fa4ad20c76471b4c87d68286aad855c925eca8384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/14\/49-52.1792283844063.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "a be a betha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nonyana ye tee"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "nonyana"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ye tee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka gare ga"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "setshelo"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "sa letsopa"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "a phelago"
+    }
+  ],
+  "timestamp": "2026-10-18T00:37:24.064758259Z",
+  "model": "glm-5.3"
+}

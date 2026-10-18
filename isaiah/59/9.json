@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 59:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדקה e bolokwa ka modumo wa Seheberu go ya le D2"
+    },
+    {
+      "kind": "elision",
+      "subject": "על כן",
+      "rationale": "Ditoke tše pedi tša Seheberu di hlakantšhwa ka lentšu le tee la Sepedi 'ka gobane'"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Isaele",
+      "rationale": "Puo ya go lla ga setšhaba ka bontši, molaetša o bolelwa pele ga Yahwe"
+    }
+  ],
+  "translation": "Ka gobane kahlolo e ile mokgoba go tšwa go rena, gomme tsedeke e ka se re fihlele; re letetše kganya, gomme bonang, lefsifsi; re letetše go khanya, eupša re sepela sefsifsing se se loku.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3ca2fadf0b00a0d0aa1eb251b7e565ef40e5716d08d545072fa79a7fd47004bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/59\/9-12.1792292476141.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "e ile mokgoba"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tšwa go rena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme e ka se"
+    },
+    {
+      "surface": "תשיגנו",
+      "gloss": "e re fihlele"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "re letetše"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "kganya"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gomme bonang"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "לנגהות",
+      "gloss": "go khanya"
+    },
+    {
+      "surface": "באפלות",
+      "gloss": "sefsifsing se se loku"
+    },
+    {
+      "surface": "נהלך",
+      "gloss": "re sepela"
+    }
+  ],
+  "timestamp": "2026-10-18T03:01:16.142007217Z",
+  "model": "glm-5.3"
+}

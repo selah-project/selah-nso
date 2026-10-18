@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "Eloha",
+      "rationale": "botšišo jo bo sa arabegegago — motho a ka se nyake Eloha go fihlela bofelo bja gagwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמצא ... תמצא",
+      "rationale": "go buletšwa gape ga lentšu la go hwetša — pego ya leeme, e laetša go se kgone go fihla"
+    }
+  ],
+  "translation": "Na o ka hwetša ⟨ka⟩ go nyaka ga Eloha? Goba go fihlela bofelo bja Shadai — na o a ka bo hwetša?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ee13c2c189a8dc22359355045e8953618a04de69ccc54542c572e284d181c291",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/11\/5-8.1792300250383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "go nyaka"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "o ka hwetša"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na goba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "bofelo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "o a bo hwetša"
+    }
+  ],
+  "timestamp": "2026-10-18T05:10:50.384318326Z",
+  "model": "glm-5.3"
+}

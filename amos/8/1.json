@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sefate",
+      "rationale": "כלוב ke sefate sa go tšwa sehlabelo, goba le sefofane; e sego sefate fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קיץ\/קץ",
+      "rationale": "poledišano gare ga qaits (sehlabelo sa selemo) le qets (mafelelo) go Amose 8:2 — e lahlegile go Sepedi"
+    },
+    {
+      "kind": "mystery",
+      "subject": "pontšho",
+      "rationale": "Adonai Yahwe a bontšha sefete le ho hlahisa tlhaloso ya sona ka bokgoni"
+    }
+  ],
+  "translation": "Bjalo Adonai Yahwe a nthomiletše go lebelela, gomme ta gore, bonang, sefate sa sehlabelo sa selemo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "10ec73eb39d32b7962da45acc33df79fcc10d9761653ff1086b4565ed91f7928",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/8\/1-4.1792296301272.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "a nthomiletše go lebelela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gomme ta gore"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "sa sehlabelo sa selemo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:05:01.272849308Z",
+  "model": "glm-5.3"
+}

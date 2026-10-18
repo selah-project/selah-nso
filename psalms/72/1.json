@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשלמה",
+      "rationale": "'Ya Shelomoh' (ngwaotaollo ya Shelomoh) kgahlanong le 'bakeng sa Shelomoh' — mehlala ya kgale e a fapana."
+    },
+    {
+      "kind": "addition",
+      "subject": "ya",
+      "rationale": "Seheberu se na le ל־ fela; 'ya' ya go bopa sehlakana se okeditšwe ka Sepedi."
+    }
+  ],
+  "translation": "Ya Shelomoh. Elohim, o neele dikahlolo tša gago go kgoši, le tsedeke ya gago go morwa wa kgoši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a48fef1a85418dbb54979a0547751fddc0df576b4ea71bd982194e4e10d4ed60",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/72\/1-4.1792298100807.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "ya Shelomoh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikahlolo tša gago"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go kgoši"
+    },
+    {
+      "surface": "תן",
+      "gloss": "o neele"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "gomme tsedeke ya gago"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "go morwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa kgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:00.808263879Z",
+  "model": "glm-5.3"
+}

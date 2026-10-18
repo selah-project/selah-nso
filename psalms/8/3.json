@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "maatla",
+      "rationale": "עז 'maatla'; LXX e fetolela ka 'thoko' — polelo yeo e tšerwego gape ditemaneng tša ka morao"
+    },
+    {
+      "kind": "substitution",
+      "subject": "molahli",
+      "rationale": "ומתנקם ke 'yo a ipusoretšago' — yo a ipolosago ka lahlo; 'molahli' e swara sebopego sa go lahla"
+    }
+  ],
+  "translation": "Mo go mlomo wa bana ba banyenyane le ba ba namang o theile maatla, bakeng sa ba ba go loago, gore o emiše lenaba le molahli.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c312715747babd4542f4e1e3d30dfd0588d703237998de6f5adefea83c970ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/8\/2-3.1792305203202.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "mo go mlomo wa"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "bana ba banyenyane"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "le ba ba namang"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "o theile"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "ba ba go loago"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "gore o emiše"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lenaba"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "le molahli"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:23.202928762Z",
+  "model": "glm-5.3"
+}

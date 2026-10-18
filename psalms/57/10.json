@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "בל",
+      "rationale": "בל ke lentšu la bodiredi la puo, le phetološitšwe bjalo ka 'gare ga' fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עמים \/ לאמים",
+      "rationale": "Diphetho tše pedi tša go swana (ditšhaba \/ merafe), sebopego sa sesupo se a timetse"
+    }
+  ],
+  "translation": "Ke tla go dumelela gare ga ditšhaba, Adonai; ke tla go opela gare ga merafe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/57\/9-12.1792297869414.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ke tla go dumelela"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "gare ga ditšhaba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ke tla go opela"
+    },
+    {
+      "surface": "בל",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "merafe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:09.416010461Z",
+  "model": "glm-5.3"
+}

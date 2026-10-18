@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 5:14",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba be ba",
+      "rationale": "Sepedi e nyaka sebopego sa go fetoga; Seheberu se na le wayyiqtol fela."
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "H854 (go tšwa go) e phethagetšwe ka ⟨את⟩ go latela molao wa maraka."
+    }
+  ],
+  "translation": "Gomme ba be ba tšwa go ditšhaba tšohle go kwa ⟨את⟩ bohlale bja Solomone, go tšwa ⟨את⟩ go dikgoši tšohle tša lefase, tše di kileng tša kwa ⟨את⟩ bohlale bja gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "091eae413b81795a8880bd1629e238b4cd8255c27c67c079ab4685478a08b2ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/5\/13-16.1792289735118.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "gomme ba be ba tšwa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tšohle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "go kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohlale bja Solomone"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bohlale bja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tšwa ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tša lefase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše di"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "kileng tša kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohlale bja gagwe"
+    },
+    {
+      "surface": "חכמתו",
+      "gloss": "bohlale bja gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:15:35.119524798Z",
+  "model": "glm-5.3"
+}

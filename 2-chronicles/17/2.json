@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 17:2",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "masole",
+      "rationale": "חיל is literally 'force\/might' (army, wealth, strength); 'masole' narrows it to troops."
+    },
+    {
+      "kind": "substitution",
+      "subject": "masole a sepaka",
+      "rationale": "נציבים is literally 'standing things' — stationed posts\/garrisons; rendered descriptively."
+    }
+  ],
+  "translation": "Gomme a bea masole dipolasing tšohle tša Yehuda tše di matifaditšwego, gomme a bea masole a sepaka lefasing la Yehuda le dipolasing tša Efrayime, tšeo Asa, papa wa gagwe, a begileng tšona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7b5ea309d59084b46c53454c6192c384d8fb9f88ad74e00382ed9d09a604a8db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/17\/1-4.1792303892850.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gomme a bea"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "masole"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "dipolasing tšohle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dipolasing tša"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "tše di matifaditšwego"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "gomme a bea"
+    },
+    {
+      "surface": "נציבים",
+      "gloss": "masole a sepaka"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefasing la"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ובערי",
+      "gloss": "le dipolasing tša"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "a begileng"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "papa wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:11:32.850775045Z",
+  "model": "glm-5.3"
+}

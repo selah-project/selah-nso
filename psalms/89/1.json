@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "muenzi wa Zeraḥ",
+      "rationale": "האזרחי: 'wa kgaano ya Zeraḥ' (moloko wa Zeraḥ) kgatlhanong le 'motho wa lefase leo a belegwago kagare' — tlhaešo e mene ya mošomo"
+    },
+    {
+      "kind": "elision",
+      "subject": "משכיל",
+      "rationale": "Seheberu se bolela fela sebopego sa poele ya thuto; Sepedi se oketša 'sefoko' bjalo ka leina"
+    }
+  ],
+  "translation": "Sefoko se se rutago, sa Eitane muenzi wa Zeraḥ.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/1-4.1792298381556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "se se rutago"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "sa Eitane"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "muenzi wa Zeraḥ"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:41.556602264Z",
+  "model": "glm-5.3"
+}

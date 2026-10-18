@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את פני",
+      "rationale": "KJV: 'bohlale bo pele ga' vs mehla ye mengwe: 'bohlale bo sehlebihleng' — leina את le šumišwa bjalo ka lediri la boemo, e sego selo se se dirwago"
+    },
+    {
+      "kind": "idiom",
+      "subject": "bоhlale bo pele ga",
+      "rationale": "'Bohlale bo pele ga yo a kwešisago' — sebopego sa Seheberu sa go ba gaufi le selo"
+    }
+  ],
+  "translation": "Pele ga yo a kwešisago ⟨את⟩ sehlare ke bohlale, gomme mahlo a lesilo a le mafelelong a lefase.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a0340a5198c891f57e666575f8d848db113868bbd78eff4185e348cede8b17d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/17\/21-24.1792299500134.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pele ga yo a kwešisago"
+    },
+    {
+      "surface": "פני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "yo a kwešisago"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "gomme mahlo a"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "lesilo"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "a le mafelelong a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:58:20.135741894Z",
+  "model": "glm-5.3"
+}

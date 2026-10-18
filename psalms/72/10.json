@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ישיבו",
+      "rationale": "'Di tla busetša' (šuv — go bušetša) kgahlanong le 'di tla nea' — Seheberu se bolela go busetša mpho bjalo ka tebogo ya motšhelo."
+    },
+    {
+      "kind": "crux",
+      "subject": "Sheba le Seba",
+      "rationale": "Maina a mabedi a a swanago ka morumo — Sheba ya Borwa (Sabaea) le Seba ya Kushi; ba bangwe ba a tlhakantšha."
+    }
+  ],
+  "translation": "Dikgoši tša Tarshishe le tša mabitwa di tla busetša minkha; dikgoši tša Sheba le tša Seba di tla hlatlama eshkare.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "63f0d56d1d04716c83a1a61f91f75b1d1f3ec7aedc1192ba97e512b5c85cdda1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/72\/9-12.1792298099697.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "dikgoši tša"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarshishe"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "gomme mabitwa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "di tla busetša"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgoši tša"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "le Seba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "eshkare"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "di tla hlatlama"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:59.697865132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tše hlano le tše tshela",
+      "rationale": "Go arola dihanging: 5 le 6 ka dinosi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבד … לבד",
+      "rationale": "Poeletšo ya 'ka nosi … ka nosi' e bontšha go arolana ga dihanging tše pedi"
+    }
+  ],
+  "translation": "Gomme a kopanya ⟨את⟩ dihanging tše hlano ka nosi, le ⟨את⟩ tše tshela ka nosi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b46bd315484deba74de6d1fc9234a8bc94a5ae719a16fd824c31004095fc5754",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/36\/13-16.1792283340355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "gomme a kopanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dihanging tše hlano"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "tše hlano"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dihanging"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ka nosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "dihanging tše tshela"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tše tshela"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "dihanging"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ka nosi"
+    }
+  ],
+  "timestamp": "2026-10-18T00:29:00.357081995Z",
+  "model": "glm-5.3"
+}

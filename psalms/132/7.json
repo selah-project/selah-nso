@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "a re tseneng",
+      "rationale": "Dikopanyi tša go bitša setšhaba go tsena go rapela"
+    },
+    {
+      "kind": "idiom",
+      "subject": "setulong sa maoto",
+      "rationale": "הדם רגליו — 'setulo sa maoto' — sesupo sa bogoši; ya kgwathilwe e tlale go bona"
+    }
+  ],
+  "translation": "A re tseneng go Mishkaneng ya gagwe, a re phogofaleng go setulong sa maoto a gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/132\/5-8.1792298919482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "a re tseneng"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "go Mishkaneng ya gagwe"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "a re phogofaleng"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "go setulong sa maoto"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:39.483575739Z",
+  "model": "glm-5.3"
+}

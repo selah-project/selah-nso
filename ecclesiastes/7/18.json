@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יצא את כלם",
+      "rationale": "'o tla ntšha tšohle tšona' (come forth of them all) — JPS 'discharge himself', BSB 'follow both warnings': go tšwa ga maphutu a magareng"
+    },
+    {
+      "kind": "addition",
+      "subject": "tšona",
+      "rationale": "Sepedi e nyaka sebopego sa kelohumo, Seheberu se na le bofelo bja -ם fela"
+    }
+  ],
+  "translation": "Go botse go swara se sengwe le se sengwe sa se: gomme le go tšwa go se, o se ke wa ntšha ⟨את⟩ seatla sa gago; ka gobane yo a tšhabago Elohim o tla ntšha ⟨את⟩ tšohle tšona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/7\/17-20.1792301441165.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go botse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "go"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "go swara"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "se sengwe se"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "gomme le"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "go se"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "wa ntšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gago"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yo a tšhabago"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tla ntšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tšohle tšona"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tšohle tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:30:41.166582956Z",
+  "model": "glm-5.3"
+}

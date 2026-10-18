@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se re 'Elohim le li' — lentšu la kopanyo le hlohleleditšwe ke Sepedi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זה ידעתי",
+      "rationale": "Go bontšha kgodišo: 'se ke ka se tsebjago' — sefokodi sa go netefatša se tiišetša tshepo ya mopedi."
+    }
+  ],
+  "translation": "Mošemong woo manaba a ka a tla boa morago ge ke bitša; se ke ka se tsebjago, gore Elohim ke wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5ff76c2cb034a988f47868058ac67641d6da77698813e0a4ab6e6d8602138b8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/56\/9-12.1792297872078.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "mošemong woo"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "a tla boa"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "manaba a ka"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morago"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke bitša"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke ka se tsebjago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:12.079075469Z",
+  "model": "glm-5.3"
+}

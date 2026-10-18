@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 1:17",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחת\/אחתך",
+      "rationale": "Root חתת repeated — 'shattered by their faces, lest I shatter you before them' — the same verb both sides, wordplay lost in most renderings."
+    },
+    {
+      "kind": "alternative",
+      "subject": "פן אחתך",
+      "rationale": "KJV\/ASV\/JPS read 'lest I dismay thee' (God as subject); YLT reads 'lest I affright thee' likewise — Sepedi follows God-as-subject reading 'ke go tšhabatšha'."
+    }
+  ],
+  "translation": "Gomme wena, kgetha seala sa gago, o phaphame, o bolele go ba ⟨את⟩ tšohle seo ke go laelago; o se ke wa tšhoka pele ga difahlogo tša bona, gore ke se ke wa go tšhabatšha pele ga bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "01911bf39988c42a8df8d7d7c506888bfa260d4a0c6098784f68fbb19416463d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/1\/17-19.1792292624105.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "gomme wena"
+    },
+    {
+      "surface": "תאזר",
+      "gloss": "o kgetha"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "seala sa gago"
+    },
+    {
+      "surface": "וקמת",
+      "gloss": "o phaphame"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "o bolele"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tšohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "go laelago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "wa tšhoka"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "pele ga difahlogo tša bona"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אחתך",
+      "gloss": "ke go tšhabatšha"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pele ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:03:44.105750424Z",
+  "model": "glm-5.3"
+}

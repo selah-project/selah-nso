@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "misgav",
+      "rationale": "mosgav: thaba godimo \/ lefifthei la maatla — 'lefifthei' (refuge) kgahlanong le 'thaba' (cliff)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mosgav",
+      "rationale": "mosgav ga o fete ga bobedi — maripa a mabedi a bontšha go šupa maatla; Sepedi ga se kgone go boela ka lentšu le le tee fela ka mehla"
+    }
+  ],
+  "translation": "Gomme Yahwe o tla ba lefifthei la yo a dikišitšwego, lefifthei la mafelelong a bokgonoke.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9a0855fdb81753b149b2408f8975a12bebd5998c0a8072e84db230f89537978c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/9\/9-12.1792297229089.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme o tla ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "lefifthei"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "la yo a dikišitšwego"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "lefifthei"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "la mafelelong"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "a bokgonoke"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:29.089740310Z",
+  "model": "glm-5.3"
+}

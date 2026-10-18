@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 6:35",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מישר על המחקה",
+      "rationale": "KJV 'fitted upon the carved work' vs YLT 'straightened gold the graved work' — gauta e bolokilwe go se sengwadilwego ka mo go loka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תמורות",
+      "rationale": "dikokō — sefate sa morula sa boagi, e sego kokō ya nnete, thuto ya popagoho"
+    }
+  ],
+  "translation": "Gomme a kgopha bakarube, le dikokō, le manaledi a bulago, gomme a di phutha ka gauta — e bolokilwe ka go loka go ya ka sengwalwa se sengwadilwego.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b25c9ed274b22d760f116411b721134b066bfbefbe0b0a52ebc6cb48fd133eb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/6\/33-36.1792289731518.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקלע",
+      "gloss": "gomme a kgopha"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "bakarube"
+    },
+    {
+      "surface": "ותמרות",
+      "gloss": "le dikokō"
+    },
+    {
+      "surface": "ופטרי",
+      "gloss": "le manaledi a"
+    },
+    {
+      "surface": "צצים",
+      "gloss": "a bulago"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "gomme a di phutha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "ka go loka"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "המחקה",
+      "gloss": "sengwalwa se sengwadilwego"
+    }
+  ],
+  "timestamp": "2026-10-18T02:15:31.519621799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך שתים",
+      "rationale": "'only do not do two things' (KJV\/ASV negative) vs YLT 'only two things do with me' (positive request) — particle אך allows both"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "direct second-person address to God begins here, continuing through v. 28"
+    }
+  ],
+  "translation": "Fele setee fela o se ke wa ntiragetša ⟨ke⟩; fela ge go le bjalo, sefahlegong sa gago nke ka itxetxa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "af8155e1ebacaefae083116b7972d514a09ef593f1a17cd829fbf19eda2cc4e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/13\/17-20.1792300197252.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "dilo tše pedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "o ntiragetša"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "אז",
+      "gloss": "fela ge go le bjalo"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "sefahlegong sa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nke ka"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "itxetxa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:57.254341232Z",
+  "model": "glm-5.3"
+}

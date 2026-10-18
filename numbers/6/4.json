@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זג",
+      "rationale": "Lentšu le le tšwa fela mo temaneng ye ya Tanakh yotše; le bolela letlalo la noka."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרצנים\/זג",
+      "rationale": "Kganetšo: JPS 'dinokana tše kgobilwego go ya go poo ya noka' kgahlanong le KJV 'dipoeu go ya go lekatana'; זג ke letlalo, חרצנים ke dipoeu\/dinoka tše bogale."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mehla yotše",
+      "rationale": "Tema e ka mehla ya boitlhantšho — go lekanya nako ya kanego."
+    }
+  ],
+  "translation": "Mehla yotše ya boitlhantšho bja gagwe, se sengwe le se sengwe seo se dirwago go tšwa mokurung wa veine — go tšwa dipoeung go fihla go letlalo — ga se ka se ja.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "743e64924af960efb46e38b43799081fa4ad958eb3537626317e0b8d19f08eab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/6\/1-4.1792284582299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yotše"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "mehla"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "ya boitlhantšho bja gagwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "se sengwe le se sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "se dirwago"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "go tšwa mokurung"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wa veine"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "go tšwa dipoeung"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla go"
+    },
+    {
+      "surface": "זג",
+      "gloss": "letlalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a je"
+    }
+  ],
+  "timestamp": "2026-10-18T00:49:42.300416623Z",
+  "model": "glm-5.3"
+}

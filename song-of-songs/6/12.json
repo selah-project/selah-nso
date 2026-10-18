@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפש ke 'theko\/mafiya\/maphelo' — go feta 'moya' fela, eupša 'moya' ke karolo ya dilo tše tharo tša ruakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mo⟩",
+      "rationale": "Maemo a sebopego a Sepedi a oketša karolo ya lefelong; Seheberu se na le construct fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "עמי נדיב",
+      "rationale": "KJV e beba 'Amminadib' bjalo ka leina la motho; JPS 'setšhaba sa ka sa magoro' — נדיב e ka ba leina goba sehlotšo"
+    }
+  ],
+  "translation": "Ga ke a tseba; moya wa ka o ntšhitše ⟨mo⟩ dikoloi tša ntwa tša setšhaba sa ka sa magoro.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/6\/9-12.1792300920633.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke a tseba"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "o ntšhitše"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "dikoloi tša ntwa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "sa magoro"
+    }
+  ],
+  "timestamp": "2026-10-18T05:22:00.634092008Z",
+  "model": "glm-5.3"
+}

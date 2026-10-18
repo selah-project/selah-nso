@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 13:11",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a ile a llela go ikana",
+      "rationale": "נשבע ka go lebaka ge go agwa leina la Elohim, 'go ikana'"
+    },
+    {
+      "kind": "addition",
+      "subject": "go",
+      "rationale": "Sepedi e nyaka lefelo la go amogela phetišo"
+    }
+  ],
+  "translation": "Gomme go tla ba gore ge Yahwe a go tlisa lefaseng la Mokanana, bjalo ka ge a ile a llela go ikana go wena le go bo-ntate wa gago, a go e fa ⟨go⟩ wena —",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4049d8ad094d0133afa0bd7845caab51ad8f79d6d6be687d3261d2b662c440e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/13\/9-12.1792282647425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יבאך",
+      "gloss": "a go tlisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "la lefase — go fetoga: lefaseng la"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanana"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a ile a ikana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ולאבתיך",
+      "gloss": "le go bo-ntate wa gago"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "a go e fa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:17:27.426466604Z",
+  "model": "glm-5.3"
+}

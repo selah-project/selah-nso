@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "setulong sa go rolana",
+      "rationale": "מסבו ke setulo se se rolago (divan) leo batho ba gogilego go sona ka ntle; 'setulong sa go rolana' e boloka sebopego."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נרדי \/ נתן",
+      "rationale": "narte\/natefalo — modumo o tšwago o mongwe le o mongwe ka go ruta ke ge go phethilwe lentšu, o lahlegile go Sepedi."
+    }
+  ],
+  "translation": "Go fihla ge kgoši e dutše setulong sa yone sa go rolana, narte ya ka e file ⟨את⟩ monko wa yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/1\/9-12.1792300881734.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "go fihla ge"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "e dutše setulong sa yone sa go rolana"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "narte ya ka"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "e file"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "monko wa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:21:21.735978338Z",
+  "model": "glm-5.3"
+}

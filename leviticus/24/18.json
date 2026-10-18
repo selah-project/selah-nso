@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש fela — moya wa bophelo, gomme mo e šupa phoofolo ya gae"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נפש תחת נפש",
+      "rationale": "Molao wa lex talionis: 'moya bakeng sa moya' — go bušwa ka go lekana"
+    }
+  ],
+  "translation": "Yoo a otlang ⟨את⟩ moya wa phoofolo ya gae o tla e lefa — moya bakeng sa moya.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "eb6af1bfa56ffa5d9cb8971dfa10b84923673b11e7455c74754d0018e56990da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/24\/17-20.1792284202352.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "yoo a otlang"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "wa phoofolo ya gae"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "o tla e lefa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    }
+  ],
+  "timestamp": "2026-10-18T00:43:22.353026430Z",
+  "model": "glm-5.3"
+}

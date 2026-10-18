@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se ntšha kopulamo — 'El Yahwe' e tletše sefapano; Sepedi se e nyaka."
+    },
+    {
+      "kind": "crux",
+      "subject": "אסרו חג בעבתים",
+      "rationale": "Bafoleodi ba fapana: 'kgokaganya sehlabelo ka dikgokaganyo' (KJV) kgahlanong le 'hlokomela moka ya moletlo ka dikala' (JPS); חג e ka ba sehlabelo goba moletlo ka noši."
+    },
+    {
+      "kind": "hapax",
+      "subject": "עבתים",
+      "rationale": "Lentšu le ka noši le le tšwago — diphuthelwana tše di kgokaganego — le feleletše mo lefokong le le tee."
+    }
+  ],
+  "translation": "El ⟨ke⟩ Yahwe, gomme o re φahleditše seetši; kgokaganya ⟨את⟩ sehlabelo ka dikgokaganyo, go fihla dinokeng tša aletare.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "423fcb5bb7c63838a43f11f8960499c7c60d08c01731e006547b6ef3b81f10a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/118\/25-28.1792298814958.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "gomme o re fahleditše seetši"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "kgokaganya"
+    },
+    {
+      "surface": "חג",
+      "gloss": "sehlabelo sa moletlo"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "ka dikgokaganyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "dinokeng tša"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:54.959435311Z",
+  "model": "glm-5.3"
+}

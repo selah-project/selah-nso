@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lenaka",
+      "rationale": "קרן e bolela lenaka la phoofolo, e šomišwa bjalo ka seswantšho sa maatla; mabitšo ka botlalo a dula le sebopego sa lenaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מואב\/למואב",
+      "rationale": "go bolelwa ga Mowabe ka bobedi fela mo temaneng ye go bontšha go hloka tšhwetšo ya yena"
+    }
+  ],
+  "translation": "Lenaka la Mowabe le kgaotšwe, gomme letsogo la lona le thubilwe, go bolela Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bca79b071df106451b80923773fb8a450588942ebaac4da452a0fffc96bea939",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/48\/25-28.1792294104453.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "le kgaotšwe"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "lenaka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabe"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "gomme letsogo la lona"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "le thubilwe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:28:24.453894953Z",
+  "model": "glm-5.3"
+}

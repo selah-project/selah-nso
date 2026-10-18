@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "le wena",
+      "rationale": "אתך: 'with you' (KJV\/JPS) vs 'against you' (ASV) — same Hebrew preposition"
+    },
+    {
+      "kind": "substitution",
+      "subject": "molokolohi",
+      "rationale": "גואל is the kinsman-redeemer of kinship law, not a generic savior"
+    }
+  ],
+  "translation": "Gobale molokolohi wa bona o matla, yena o tla lwa ⟨את⟩ kgetsi ya bona ⟨את⟩ le wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "163f80a11410ec688886cc1d187c62b1cc5b53f47fd0af5a1f0e9c49520cf34f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/23\/9-12.1792299780795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gobale"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "molokolohi wa bona"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "o matla"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "o tla lwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgetsi ya bona"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "kgetsi ya bona"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:03:00.796395247Z",
+  "model": "glm-5.3"
+}

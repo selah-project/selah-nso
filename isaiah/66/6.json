@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 66:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קול... קול... קול",
+      "rationale": "Go bolediša ga lentoa ga 'modumo' ga tharo ka tatelano — phetolelo e boloka go boela ga lentšu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "manaba",
+      "rationale": "אויב — 'manaba' ka Sepedi (go swana le d3: שנאים)."
+    }
+  ],
+  "translation": "Modumo wa tlhaolele o tšwa motse, modumo o tšwa tempeleng — modumo wa Yahwe, o dušetša mokgwa go manaba a gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9115260a30574c085e54eade4b05e5ee2cc9ca490471155f1905873e5b5f0e25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/66\/5-8.1792292608226.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "tlhaolele"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "o tšwa motse"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "o tšwa tempeleng"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "o dušetša"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "mokgwa"
+    },
+    {
+      "surface": "לאיביו",
+      "gloss": "go manaba a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:03:28.227653841Z",
+  "model": "glm-5.3"
+}

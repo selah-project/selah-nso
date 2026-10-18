@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "wa lahla lentšu ka morago",
+      "rationale": "Go latela mokgwa wa Seheberu: go hlokomologa tlhamo ya Yahwe; v17 le v18 di hlantšwa ke mokgwa o tee wa go utswa."
+    },
+    {
+      "kind": "crux",
+      "subject": "וַתִּרֶץ",
+      "rationale": "Bo-nnetе 'o duma le yena' kgahlanong le 'o matha le yena' (tšwela go רוץ); KJV 'o dumelelana le yena' e hlalosa gore o dumelela."
+    }
+  ],
+  "translation": "Ge o bona lešoro, o duma le yena, gomme karolo ya gago e le le bao ba dirago bonyatsi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "15aed668552cc575206c6f0a43fb01428f4be214646cd9253294d44b31bc9138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/50\/17-20.1792297797102.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "o bona"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "lešoro"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "o duma le yena"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le yena"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "gomme... le"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "bao-ba-dirago-bonyatsi"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "karolo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:57.103131110Z",
+  "model": "glm-5.3"
+}

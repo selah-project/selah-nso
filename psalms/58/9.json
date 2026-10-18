@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שבלול",
+      "rationale": "šebolole — snail\/slug, e ftšhegile fela mo Tanakheng; setšo se re e fele ka mminelo wa yona."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תמס",
+      "rationale": "go nyorwa \/ go tudufala — lente ye e sego ya kgwedi e mphya fela mo."
+    },
+    {
+      "kind": "crux",
+      "subject": "יהלך",
+      "rationale": "KJV 'let him pass away' (jussive, thapelo) kgahlanong le YLT 'he goeth on' (description); Sepedi e tšere bohlaleng bjalo ka thapelo ya go se tšwele pele."
+    }
+  ],
+  "translation": "Bjalo ka šebolole yeo e nyorwago, e tswele pele e fela; bjalo ka e tlošwa ya mosadi, e se ke ya bona letšatši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/58\/9-12.1792297885629.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "šebolole"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "go nyorwa"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "e tswele pele"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "e tlošwa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ya mosadi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "e se ke"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ya bona"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letšatši"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:25.630330910Z",
+  "model": "glm-5.3"
+}

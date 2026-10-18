@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 1:21",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu ga se na kopula; e okeditšwe ka Sepedi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "46 500",
+      "rationale": "Pallo ya sesole ya setšhaba sa Roubene"
+    }
+  ],
+  "translation": "Ba ba lekweditšwego go setšhaba sa Roubene ⟨ke⟩ dikete tše masomenné le tshela, le makgolo a hlano.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ccd59394e672eddb47fe23a0c8b31bc99ea2818c754a57d9682b7e903b9b2bcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/1\/21-24.1792284385357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ba ba lekweditšwego"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "go setšhaba sa"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Roubene"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "le tshela"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "masomenné"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "hlano"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:46:25.358405964Z",
+  "model": "glm-5.3"
+}

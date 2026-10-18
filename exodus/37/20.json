@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go na le⟩",
+      "rationale": "Seheberu se se na le kerole ya 'go ba gona'; Sepedi se e nyaka"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tše nne",
+      "rationale": "palo ya dikomane tše nne tša menora ka boyona"
+    }
+  ],
+  "translation": "Gomme menoreng ⟨go na le⟩ dikomane tše nne tša go swana le ma-amande, dikhomo tša yona le malokwane a yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1be6a48f030e1765a42aa3f6ca55e68eba7fb9b4d199ca69f1ef9db5da16775b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/37\/17-20.1792283441837.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "gomme menoreng"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "tše nne"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "dikomane"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "tša go swana le ma-amande"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "dikhomo tša yona"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "malokwane a yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:30:41.838427120Z",
+  "model": "glm-5.3"
+}

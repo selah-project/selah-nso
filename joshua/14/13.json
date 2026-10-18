@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויברכהו",
+      "rationale": "barakh e bolela go thabela gape go go betla leoto — thabelo ke mošomo wa pelo, e sego fela ya molomo"
+    },
+    {
+      "kind": "addition",
+      "subject": "e le",
+      "rationale": "Seheberu ga se na kopula pele ga le-nachalah; Sepedi se e nyaka"
+    }
+  ],
+  "translation": "Gomme Yehoshua a mo thabela, gomme a fa Kalebe, mora wa Jefune, ⟨את⟩ Khebrone e le bohwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c3af06b3b67f6277ccb847fa5281b0f7d04c4209833b5c65a5dab075a2d42358",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/14\/13-15.1792286765686.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "a mo thabela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Khebrone"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khebrone"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Kalebe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefune"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "e le bohwa"
+    }
+  ],
+  "timestamp": "2026-10-18T01:26:05.687022156Z",
+  "model": "glm-5.3"
+}

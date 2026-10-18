@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבער \/ בעירה \/ ובער",
+      "rationale": "Sefoko le le tee sa modu: 'go fediša' (בער) le 'diruiwa' (בהמה\/בעיר) di phapanagantšwe — setopwa se se latelago se sa bontšhwa ka mo go feletseng ka Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בעירה",
+      "gloss-rationale": "Sepedi 'diruiwa tša yena' — bontši bja go šumišwa bja dikgomo, eupša lentšu la Seheberu le bolela diruiwa ka moka."
+    }
+  ],
+  "translation": "Ge motho a fediša seala goba serapa sa mewa, gomme a romela ⟨את⟩ diruiwa tša yena, di fediša sealeng sa motho yo mongwe, o tla lefola go tšwa go se se gaisago seala sa yena le se se gaisago serapa sa mewa sa yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/22\/1-4.1792282960528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "a fediša"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "seala"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "serapa sa mewa"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "gomme a romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diruiwa tša yena"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "diruiwa tša yena"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "di fediša"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "sealeng"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa motho yo mongwe"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "go tšwa go se se gaisago"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "seala sa yena"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "le se se gaisago"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "serapa sa mewa sa yena"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o tla lefola"
+    }
+  ],
+  "timestamp": "2026-10-18T00:22:40.529367114Z",
+  "model": "glm-5.3"
+}

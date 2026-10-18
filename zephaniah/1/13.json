@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zephaniah 1:13",
+  "book": "zephaniah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go ona",
+      "rationale": "Seheberu se re fela 'ba sa dule' — sebopego se okeditšwe ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bogobe-ya-divai",
+      "rationale": "כרמים = serapa sa divai; 'masimo a divai' ke tlhahlo ya Sesotho-sa-Leboa ye e sa nago lentšu la kgethišo"
+    }
+  ],
+  "translation": "Gomme dithoto tša bona di tla tšwarwa bjalo ka phošo, gomme malapa a bona a tla senyega; ba tla aga malapa gomme ba sa dule go ona, ba tla loma masimo a divai gomme ba sa nwe ⟨את⟩ divai ya ona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8532b2b8d05c9dfa0e3dd984f1be876615c18e8d9b766f9163a516123cedb9eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zephaniah\/1\/13-16.1792296784711.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "dithoto tša bona"
+    },
+    {
+      "surface": "למשסה",
+      "gloss": "bjalo ka phošo"
+    },
+    {
+      "surface": "ובתיהם",
+      "gloss": "gomme malapa a bona"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "go senyega"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "ba tla aga"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba sa"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "dule go ona"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "ba tla loma"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "masimo a divai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba sa"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "nwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "divai ya ona"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "divai ya ona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:13:04.712678847Z",
+  "model": "glm-5.3"
+}

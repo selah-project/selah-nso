@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "o bea molomo magodimong",
+      "rationale": "KJV\/JPS: 'ba bea molomo wa bona kgahlanong le magodimo'; YLT: 'ba bea molomo wa bona magodimong' — go se gona 'kgahlanong' ka Seheberu."
+    },
+    {
+      "kind": "idiom",
+      "subject": "letheka le sepela",
+      "rationale": "Idioma ya Seheberu: letheka la bona 'le sepela' lefatšheng — go hlohleletša go bolela ga bontši."
+    }
+  ],
+  "translation": "O bea molomo wa bona godimo magodimong, gomme letheka la bona le sepela lefatšeng ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "76b9dbbdc790bd624493e24736de2792cb7d9b78b74ca3d8c08d3434ef6ddea3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/73\/9-12.1792298160822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "o bea"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "magodimong"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "molomo wa bona"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "gomme letheka la bona"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "le sepela"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatšeng ka moka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:00.823253506Z",
+  "model": "glm-5.3"
+}

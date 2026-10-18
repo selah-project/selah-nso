@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 112,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "טוב איש",
+      "rationale": "Bolelo bja sebopego: 'go botse go motho' (motho ke yo a botse) goba 'motho yo a botse' — diphetholelo tša kgale di fapana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dilo tša gage",
+      "rationale": "דבריו e bolela 'mantšu a gagwe \/ merero ya gagwe'; Sepedi e nyaka 'dilo' go hlalosa kgathišo e atilego."
+    }
+  ],
+  "translation": "Go botse go motho yo a nabelago gomme a kolwago; o hlwaletša dilo tša gage ka kahlolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b6e5f5b129f94340d5130f68a428bb84e541129fd2314fa92815802ec9651309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/112\/5-8.1792298763609.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go botse"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "yo a nabelago"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "gomme a kolwago"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "o hlwaletša"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "dilo tša gage"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ka kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:03.610232170Z",
+  "model": "glm-5.3"
+}

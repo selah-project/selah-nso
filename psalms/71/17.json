@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dilo tše makgolokgolo",
+      "rationale": "nifleot — dilo tše makgolokgolo, tša makgopwa; go swana le dipoelo tša go tšwa go Elohim"
+    },
+    {
+      "kind": "addition",
+      "subject": "bja ka",
+      "rationale": "suffix -ני ya pele e raetše ba bolela, e hlatsošitšwe ka pronoun"
+    }
+  ],
+  "translation": "Elohim, o ntsepsitše go tloga bokgwanenyane bja ka, gomme go fihla le gona bjale ke tla bolela dilo tša gago tše makgolokgolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0118286a10e1e46bee30527964de21356cbc3893839826f74c7f2befec4d037f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/71\/17-20.1792298120956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "o ntsepsitše"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "go tloga bokgwanenyane bja ka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gomme go fihla"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "gona bjale"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ke tla bolela"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "dilo tša gago tše makgolokgolo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:20.957263214Z",
+  "model": "glm-5.3"
+}

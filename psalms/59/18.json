@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go raloka dithaka",
+      "rationale": "זמר ke go tlapa dithaka tša sehlati — 'go opela' e la modu wa go swara sebinwa; go raloka dithaka ke sebopego sa lentšu"
+    },
+    {
+      "kind": "crux",
+      "subject": "עזי",
+      "rationale": "'Maatla a ka' bjalo leina la go bitša Elohim — Lentšu la Sesotho le rego 'my strength' le suma Adonai fela; motho wa Sepedi o a se ke wa se raša"
+    },
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "kopanyo ya Sepedi ya go hlalosa kamano ya bo-nkoka — Seheberu se e hlagisa ka sebopego sa bo-nkoka fela"
+    }
+  ],
+  "translation": "Maatla a ka, go wena ke tla raloka dithaka, ka gobane Elohim ke lewapisong la ka, Elohim wa hesede ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "92db15f142b0c9afd42cf02ab6b79365ec523970a97251b92e8960f528c1abfb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/59\/17-18.1792297933594.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "maatla a ka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla raloka dithaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "lewapisong la ka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "hesede ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:13.595303369Z",
+  "model": "glm-5.3"
+}

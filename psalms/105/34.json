@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "go se na palo",
+      "rationale": "מספר — go bala go hanngwa: bontši bjo bo sa balwego"
+    },
+    {
+      "kind": "crux",
+      "subject": "yelek",
+      "rationale": "ילק: locust ya maswabi go ya le diphetoletšo — 'cankerworm', 'young locust', 'caterpillar'"
+    }
+  ],
+  "translation": "O boletše, gomme a tšwa locust le yelek, go se na palo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "77b3ed9027d522006bc10ae414041d047e16e9edbf970b2cf9a33791f180ac42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/33-36.1792298628425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "O boletše"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "gomme a tšwa"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "locust"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "yelek"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "go se na"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:48.426539568Z",
+  "model": "glm-5.3"
+}

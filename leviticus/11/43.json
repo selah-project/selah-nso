@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 11:43",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meoya",
+      "rationale": "נפש e atametše go 'thlogo ya moya \/ bophelo' — sela se se hema go le gona; 'moya' ke sekaetšo se sengwe."
+    },
+    {
+      "kind": "you",
+      "subject": "go Israele",
+      "rationale": "Taello ya go se hlwekge e lebela setšhaba sa Israele ka mo go tiilego."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונטמתם",
+      "rationale": "Mananeo a mangwe a a fa bjalo ka sephetho ('gore le se tle la hlweka'), a mangwe bjalo ka boitemogelo; Sepedi se fa sephetho."
+    }
+  ],
+  "translation": "Le se ke la išonya ⟨את⟩ meoya ya lona ka digagabi ka moka tše di gagabago, gomme le se ke la iphlweka ka tšona, gore le se tle la iphlweka ka tšona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "7b4d210d5793c08495c8e54945a539d24a0a45922915dc4af6935680cbe5b0b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/41-44.1792283808960.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "la išonya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meoya ya lona"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "meoya ya lona"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka … ka moka"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "digagabi"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "tše di gagabago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme le se ke"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "la iphlweka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka tšona"
+    },
+    {
+      "surface": "ונטמתם",
+      "gloss": "gore le se tle la iphlweka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ka tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:36:48.961351366Z",
+  "model": "glm-5.3"
+}

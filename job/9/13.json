@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 9:13",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "phela ya gagwe",
+      "rationale": "אף ke nko\/sefahlogo, eupša e bolela bogale — phela ya Sepedi e swara moka mego ka bobedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "Rahabe",
+      "rationale": "רהב: leina la sehlabelo sa lewatle sa setšo goba leina la mohubedu; kgethollo ya diphetholelo — 'ba ba thusago Rahabe' kgathanong le 'ba ba matla go feta teo'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אלוה לא ישיב",
+      "rationale": "ga go kopanyi 'ge' — sepego sa Seheberu se bolela ka tsela e sa tsejwago gore Eloha ga a phaphaletša phela"
+    }
+  ],
+  "translation": "Eloha ga a phaphaletša phela ya gagwe; ba ba thusago Rahabe ba phafogile ka motlolong ga gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "952cdf15cb2e6947895a0b9c0d0a6e64c187489bb14951bb2eee8be558634ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/9\/13-16.1792300145885.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "a phaphaletša"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "phela ya gagwe"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "ka motlolong ga gagwe"
+    },
+    {
+      "surface": "שחחו",
+      "gloss": "ba phafogile"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ba ba thusago"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Rahabe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:05.885520057Z",
+  "model": "glm-5.3"
+}

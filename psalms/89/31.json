@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Torah",
+      "rationale": "תורה ga e fetolwe go 'molao' — leina le bolokwa ka modumo wa lona"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba se ke",
+      "rationale": "negation ya Sepedi e hlagisa thušo ya go se dire"
+    }
+  ],
+  "translation": "Ge bana ba gagwe ba lahla ⟨את⟩ Torah ya ka, gomme ka dikahlolo tša ka ba se ke ba sepela,",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "44a1fb6ceed65330fbf0723690a502908ac14a1f7b1fd6423dc9f4c14cb0a934",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/31-32.1792305278201.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "ba lahla"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah ya ka"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "gomme ka dikahlolo tša ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ba sepela"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:38.201911428Z",
+  "model": "glm-5.3"
+}

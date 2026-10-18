@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא פדה יפדה",
+      "rationale": "infinitive ya go kgodiša e ra 'go lokolla ga go ka ke ga go lokolla ka motheo' — go gateletšwe ka mo go feletseng"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sekhupetšo",
+      "rationale": "כפר ke sekhupetšo sa moya — theko ya go duela bophelo; 'expiation' ya KJV e boletše ka thwii"
+    }
+  ],
+  "translation": "Mogolo ka mong ga a ka ke a lokolla mokgwenyane, motho ga a fe Elohim sekhupetšo sa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/49\/5-8.1792297740862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "mokgwenyane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a ka ke a"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "go lokolla"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "a lokolla"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "fe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "sekhupetšo sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:00.863026646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 27:15",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lehu",
+      "rationale": "במות: 'lehu' (KJV) kgatlhanong le 'sefeke' (JPS, go bapetša le שבע-מות)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "basadi ba tlhokofetšego",
+      "rationale": "אלמנות ke lentšu le tee la Seheberu; Sepedi le hloka mantsu a mane"
+    }
+  ],
+  "translation": "Ba mo feditšego ba tla bolokwa lehu; gomme basadi ba gagwe ba tlhokofetšego ga ba ka llela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ed7f2830669d749005b9095f1a28f5a0640e4340e318d35472884227d66f219b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/27\/13-16.1792300493976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרידו",
+      "gloss": "ba mo feditšego"
+    },
+    {
+      "surface": "במות",
+      "gloss": "lehu"
+    },
+    {
+      "surface": "יקברו",
+      "gloss": "ba tla bolokwa"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "gomme basadi ba gagwe ba tlhokofetšego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ba ka"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "llela"
+    }
+  ],
+  "timestamp": "2026-10-18T05:14:53.977052795Z",
+  "model": "glm-5.3"
+}

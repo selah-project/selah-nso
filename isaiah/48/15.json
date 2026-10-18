@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אני אני",
+      "rationale": "Poelelo ya \"nna, nna\" — kgobotlo e hlohleletšago ya boipolelo bja Modimo, e swanetšego go hlala ka botlalo."
+    },
+    {
+      "kind": "crux",
+      "subject": "והצליח דרכו",
+      "rationale": "Nako e sa bonagale e hlakile: \"gomme tselae ya gagwe e atlegile\" (kgokolokhele ya ye e fetilego) kgahlanong le \"o tla dira tselae ya gagwe e atlege\" (taelo); Sepedi se kgopola kgokolokhele ya ye e fetilego."
+    },
+    {
+      "kind": "elision",
+      "subject": "אף",
+      "rationale": "Lentšu la go oketša le fetošeditšwe go \"gomme letona\" go swana le sehlakahlaka sa 13."
+    }
+  ],
+  "translation": "Nna, nna ka boela ka bolela; gomme letona ka mo bitša; ka mo tliša, gomme tselae ya gagwe e atlegile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fb6b37790ddbdd36f90e076088f9c277694119a0ab4ff6ffbd4ea24fd9b2828c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/48\/13-16.1792292238724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ka bolela"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gomme letona"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ka mo bitša"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "ka mo tliša"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "gomme e atlegile"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tselae ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:18.725041572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דומיה",
+      "rationale": "du-mi-ya e agilwe ka modu wa domi (khutšo), e phethagatša go homa ga pelo; segori se timetse ka Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "מטוב",
+      "rationale": "'go tšwa sebotse' (ke go se bolele le seo se botse) kgathanong le 'go tšwa seo se ntšhitšego' bjalo ka ge diphetošo tše dingwe di gatelela."
+    }
+  ],
+  "translation": "Ke ile ka homa, ke khutša se se nang lentšu; ke ile ka khutufetša go tšwa le sebotse, gomme bohloko bja ka bo ile bwa rušwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/39\/1-4.1792297675173.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ke ile ka homa"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ke khutša se se nang lentšu"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ke ile ka khutufetša"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "go tšwa le sebotse"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "gomme bohloko bja ka"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "bo ile bwa rušwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:55.174454141Z",
+  "model": "glm-5.3"
+}

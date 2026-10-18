@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e ile",
+      "rationale": "Seheberu se se na le kopula ya nakwana; Sepedi e e nyaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "רתת",
+      "rationale": "'tšhogo e ile ya wa' goba 'boifo bo ile bja hlongwa' — ba fetoleli ba fapana: go thunya goba go tšhoga"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויאשם",
+      "rationale": "'a ešwa' (a le molato gomme a o lokiša) — lentšu le tee le ra 'go ba molato' le 'go fenwa'"
+    },
+    {
+      "kind": "you",
+      "subject": "Efrayime",
+      "rationale": "Taba ye e bolela ka Efrayime, e sego go moalafi"
+    }
+  ],
+  "translation": "Ge Efrayime a bolela, tšhogo e ile ya wa; o ile a rotošwa go Yisraele; eupša ge a ešwa go Baale, o ile a hwetša lehu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/13\/1-4.1792296109823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "Ge a bolela"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "tšhogo"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "o ile a rotošwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "eupša ge a ešwa"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "go Baale"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "o ile a hwetša lehu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:01:49.824263360Z",
+  "model": "glm-5.3"
+}

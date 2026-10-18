@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 39:7",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קדוש בישראל",
+      "rationale": "'The Holy One IN Israel' (location) vs 'OF Israel' (possessive) — Hebrew preposition ב supports 'go Yisraele' (in)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אחל",
+      "rationale": "I read 'ga ke sa lokela go nyefola' (I will not profane); KJV reads causatively 'I will not let THEM profane'"
+    },
+    {
+      "kind": "elision",
+      "subject": "עוד",
+      "rationale": "'ga dipele' covers 'any more' — adverb of continuance folded into the negation"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ leina la bokgethwa bja ka ke tla le tsebiša gare ga setšhaba sa ka, Yisraele; gomme ga ke sa lokela go nyefola ⟨את⟩ leina la bokgethwa bja ka ga dipele, gomme ditšhaba di tla tseba gore nna ke Yahwe, yo a kgethwago, go Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "772630f52476ff9fa725625d5c7816880788f4446f00e25fe9c72bc5534c4074",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/39\/5-8.1792295521818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "leina la bokgethwa bja ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "la bokgethwa bja ka"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ke tla le tsebiša"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "אחל",
+      "gloss": "ke sa lokela go nyefola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la bokgethwa bja ka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "la bokgethwa bja ka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ga dipele"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "gomme di tla tseba"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ke Yahwe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "yo a kgethwago"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "go Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T03:52:01.820152306Z",
+  "model": "glm-5.3"
+}

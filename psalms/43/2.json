@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "למה ... למה",
+      "rationale": "phrasetšo ya 'ke ka baka la eng' e boela gabedi, kgetsišo ya moprofeta; e bolokwa ka go boella"
+    },
+    {
+      "kind": "crux",
+      "subject": "קדר",
+      "rationale": "mantšu a mengwalo a fapana: 'go ba le mokgopo\/leswisi' (thwii) kgantši 'go lla' (ka phogo); re ile ra hlantšwa ka 'go hlabetše phogo'"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "polelo ye e lebella Elohim ka bowena, potšišo ya bothata"
+    }
+  ],
+  "translation": "Ka gobane wena ke Elohim wa maatla a ka; ke ka baka la eng o nkgethile ka thoko? ke ka baka la eng ke tsamaya ke hlabetše phogo ka tlase kgatelelo ya lenaba?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ea60248c98ca88ad29eb8a85272f836e213b55a87ff4466d7e8ea7957e57b9ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/43\/2-3.1792305209809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "maatla a ka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke ka baka la eng"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "o nkgethile ka thoko"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke ka baka la eng"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ke hlabetše phogo"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ke tsamaya"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ka tlase kgatelelo"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ya lenaba"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:29.810146167Z",
+  "model": "glm-5.3"
+}

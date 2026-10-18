@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 36:23",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mabati",
+      "rationale": "דלתות literally 'doors\/leaves' of the scroll — columns; kept as 'mabati' to preserve the picture"
+    },
+    {
+      "kind": "crux",
+      "subject": "yo a segago",
+      "rationale": "Hebrew verb has no explicit subject — king (ASV\/BSB) vs Jehudi vs unspecified 'he'; left subjectless"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרע \/ ויקרא",
+      "rationale": "reading (קרא) and tearing (קרע) near-homophones alternate through the verse; untranslatable"
+    }
+  ],
+  "translation": "Gomme go ba gorefetse ge Yehudi a bala mabati a mararo goba a mane, a o sega ka thipa ya mongwadi, gomme a o lahlela go mollo woo o lego sefolong, go fihlela mogala ka moka o feditše go mollo woo o lego sefolong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "86d03ae8ab9bc3b09ac53cbf84b66bfc26cd53d09f9762864c2dda1a6cc57ba0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/36\/21-24.1792293877657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go ba gorefetse"
+    },
+    {
+      "surface": "כקרוא",
+      "gloss": "ge a bala"
+    },
+    {
+      "surface": "יהודי",
+      "gloss": "Yehudi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "mabati"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "goba a mane"
+    },
+    {
+      "surface": "יקרעה",
+      "gloss": "a o sega"
+    },
+    {
+      "surface": "בתער",
+      "gloss": "ka thipa ya"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mongwadi"
+    },
+    {
+      "surface": "והשלך",
+      "gloss": "gomme a o lahlela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "האש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woo o lego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "האח",
+      "gloss": "sefolong"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "תם",
+      "gloss": "o feditše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "mogala"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "האש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woo o lego"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "האח",
+      "gloss": "sefolong"
+    }
+  ],
+  "timestamp": "2026-10-18T03:24:37.658319609Z",
+  "model": "glm-5.3"
+}

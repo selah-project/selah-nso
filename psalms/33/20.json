@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "kopula ye Sepedi e e nyakago"
+    },
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke bophelo\/mokoko, e sego moya ka botlalo"
+    }
+  ],
+  "translation": "Moya wa rena o letetše Yahwe; ⟨ke⟩ yena thušo ya rena le khuponelo ya rena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "807dad4e0ae498344a0a1c7e24ffe96f648a79a9ec0832cee397d0bd538c4880",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/17-20.1792297533633.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "moya wa rena"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "o letetše"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "thušo ya rena"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "le khuponelo ya rena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:33.634817155Z",
+  "model": "glm-5.3"
+}

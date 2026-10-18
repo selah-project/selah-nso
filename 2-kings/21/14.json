@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 21:14",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לבז ולמשסה",
+      "rationale": "mantšu a mabedi a go hwarwa a theilwego godimo — mokgwa wa Seheberu wa go godiša kgwerano, se sa feleletša ka tsela e tee ka Sepedi"
+    },
+    {
+      "kind": "addition",
+      "subject": "di",
+      "rationale": "Sepedi e nyaka boemedi bja palindrome go šala go buiša setšhaba se se botši"
+    }
+  ],
+  "translation": "Gomme ke tla tloša ⟨את⟩ maswao a boswa bja ka, gomme ke tla di fa ka seatla sa manaba ba tšona, gomme ba tla ba phuduhušo le hwarwa go manaba ba tšona ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "88c24e69ede526c5b4b07cb4783e65b1762db9d70c74801d1321c8d1c9766fbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/21\/13-16.1792290992470.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונטשתי",
+      "gloss": "ke tla tloša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maswao a boswa bja ka"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "maswao"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "boswa bja ka"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "gomme ke tla di fa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "manaba ba tšona"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "gomme ba tla ba"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "phuduhušo"
+    },
+    {
+      "surface": "ולמשסה",
+      "gloss": "le hwarwa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ... ka moka"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "manaba ba tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:36:32.471819625Z",
+  "model": "glm-5.3"
+}

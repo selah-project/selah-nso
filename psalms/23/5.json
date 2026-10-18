@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o tlatšitše",
+      "rationale": "דשנת le bolela go tefolla\/go nonya; tlwaelo ke 'go tlhoma ka mafura', seswantšho sa bothapo se timetše"
+    },
+    {
+      "kind": "crux",
+      "subject": "רויה",
+      "rationale": "'e tletše go feta' kgathanong le 'e tletše feela' — lentšu le bolela tlatšo\/khomotlo, e sego go ela thoko"
+    },
+    {
+      "kind": "elision",
+      "subject": "ka",
+      "rationale": "Sepedi se nyaka moemedi wa modiri 'o' yeo Seheberu se e senyago ka ditlhaka tše tharo"
+    }
+  ],
+  "translation": "O rulaganya pele ga ka ⟨את⟩ tafola, go lebane le manaba a ka; o tlatšitše hlogo ya ka ka mafura; kompo ya ka e tletše go feta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "437b3805d8dd14efde3cf52258f186cd44e8aaff39de9897338cf7b3111e3449",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/23\/5-6.1792297420759.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "o rulaganya"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga ka"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tafola"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "go lebane le"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "manaba a ka"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "o tlatšitše"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlogo ya ka"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "kompo ya ka"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "e tletše go feta"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:40.760313851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "השמים",
+      "rationale": "'magodimo' — bontši bja Seheberu (šamayim) bo bolokwa ka 'magodimo'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "gloss": "",
+      "rationale": "Sepedi e nyaka 'ke' ya phasalatšo (passive) yeo Seheberu se se senago"
+    }
+  ],
+  "translation": "Gomme banna bao ba sa swego ba bethwa ke diphukwane; gomme kokošo ya toropo ea namelela magodimo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "214fd0f7fd546aa03b1d5dd98ee4687b20e957345e093901c10e93d51f380221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/5\/9-12.1792287996824.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "Gomme banna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "swego"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "ba bethwa"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ke diphukwane"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "ea namelela"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "kokošo ya"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:46:36.826188153Z",
+  "model": "glm-5.3"
+}

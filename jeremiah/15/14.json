@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 15:14",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והעברתי",
+      "rationale": "'Go feta\/ go ntšha' — KJV\/ASV: 'ke tla go dira go feta le manaba'; BSB: 'ke tla go tšea bokgoboketši go manaba'; Sepedi a latela go feta ga batho."
+    },
+    {
+      "kind": "substitution",
+      "subject": "nko ya ka",
+      "rationale": "באפי ke 'ka nko ya ka' — Sesotho sa Leboa se tseba gore bohwaso ke boko bja tshwaro; mantšu a mengwe a fetolela 'makgopolo\/kgalalelo'."
+    }
+  ],
+  "translation": "Gomme ke tla go fetsa ⟨את⟩ manaba a gago ba ye lefaseng leo o sa le tsebego; ka gobane mollu o tukile ka nko ya ka, go lona o tla fiša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bf44da90949b574866251e893d608753e57f1e78ad6bf3b7fe2cdcb921691d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/15\/13-16.1792293162195.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעברתי",
+      "gloss": "gomme ke tla go fetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaba a gago"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "manaba a gago"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o sa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o le tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollu"
+    },
+    {
+      "surface": "קדחה",
+      "gloss": "o tukile"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ka nko ya ka"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "o tla fiša"
+    }
+  ],
+  "timestamp": "2026-10-18T03:12:42.196475081Z",
+  "model": "glm-5.3"
+}

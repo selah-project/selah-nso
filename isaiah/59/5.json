@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 59:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "קורי",
+      "rationale": "lemma ya webo ya segodi — e hlaga fela mo go Tanakh, ga e na lentšu le ingwe la Sepedi le tlwaelegilego."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקעו \/ תבקע",
+      "rationale": "modumo o tee o boela ka mafelelo a temana — go bea le go bitoga, ga o bolokege ka botlalo go Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "והזורה תבקע אפעה",
+      "rationale": "go bantši ga go saeni — 'woo a bolokileng o tla ba noga' kgathanong le 'seo se bolokilwego se bitoga go ba noga'."
+    }
+  ],
+  "translation": "Mae a noga e boloi a beilwe, gomme mapa a segodi a lomagantšwe; yo a jemago a tšwa mabeng a wona o tla hlokala, gomme woo a bolokileng o tla ba noga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e6cadf105f81a8450ef9f254f281feaf64de37bc378f7a5da325cd77893e7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/59\/5-8.1792292568862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביצי",
+      "gloss": "mae"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "noga e boloi"
+    },
+    {
+      "surface": "בקעו",
+      "gloss": "a beilwe"
+    },
+    {
+      "surface": "וקורי",
+      "gloss": "gomme mapa"
+    },
+    {
+      "surface": "עכביש",
+      "gloss": "a segodi"
+    },
+    {
+      "surface": "יארגו",
+      "gloss": "a lomagantšwe"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "yo a jemago"
+    },
+    {
+      "surface": "מביציהם",
+      "gloss": "a tšwa mabeng a wona"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "o tla hlokala"
+    },
+    {
+      "surface": "והזורה",
+      "gloss": "gomme woo a bolokileng"
+    },
+    {
+      "surface": "תבקע",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "noga"
+    }
+  ],
+  "timestamp": "2026-10-18T03:02:48.862894063Z",
+  "model": "glm-5.3"
+}

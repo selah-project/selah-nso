@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Ayielet ha-Shakhare",
+      "rationale": "Leina la koša: 'Pudi ya Mesong' — go ea ka seqo, goba leina la selaodi sa mmino seo se sa tsejwago."
+    }
+  ],
+  "translation": "Go molaodi, ka Pudi ya Mesong, pina ya Dafida.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/22\/1-4.1792297355486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Go molaodi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Pudi"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ya Mesong"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pina"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:35.487394551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מה",
+      "rationale": "Interrogative 'how much?' used as an exclamation of intensity: 'how I love!'; rendered as a strong declaration with causal expansion"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שיחתי",
+      "rationale": "שיחה is musing, reflection, or audible recitation; 'ke ehlela' captures the reflective sense but drops the sense of speaking aloud"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka gore ke ithuta go tswa go yona",
+      "rationale": "Supplied a reason to make the exclamation flow in Sepedi, not in Hebrew"
+    }
+  ],
+  "translation": "Ge e ka lebaka leo, ke rata Torah ya gago ka gore ke utlwa ka yona. Ke dula ke ehlela ka yona letsatsi lohle, ka gore ke ithuta go tswa go yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/97-100.1792298869577.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ge e ka lebaka leo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ke rata"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah ya gago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lohle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "ke dula ke ehlela ka yona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:49.578408718Z",
+  "model": "glm-5.3"
+}

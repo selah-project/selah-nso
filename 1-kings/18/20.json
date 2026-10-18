@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "מאות — dipalo",
+      "rationale": "se itemo se se latelago se sa bale dipalo tša baprofeta; Sepedi ga se a di oketša"
+    }
+  ],
+  "translation": "Gomme Ahaba a romela go bana bohle ba Yisraele, a ba kgopeletša ⟨את⟩ baprofeta go thoko ya Thabeng ya Karmele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/18\/17-20.1792290244909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "go bana bohle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "a ba kgopeletša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baprofeta"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "baprofeta"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Thabeng"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "ya Karmele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:24:04.910724290Z",
+  "model": "glm-5.3"
+}

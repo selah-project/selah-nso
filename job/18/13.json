@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 18:13",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Sepedi e nyaka serapa; Seheberu se se na sona — se tšwa kontekeding ya mmoleng wa 12"
+    },
+    {
+      "kind": "crux",
+      "subject": "dikarolo tša letlago",
+      "rationale": "בדי עורו: 'dikarolo tša letlago' (BSB) kgathanong le 'maatla a letlago' (KJV); בד e bolela karolo ya mmele, e sego maatla"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יאכל … יאכל",
+      "rationale": "go boela ga 'go ja' ga ka moka; kgethollo ye e a bolokwa ka 'e ja … e ja'"
+    }
+  ],
+  "translation": "E ja dikarolo tša letlago la gagwe; tlogologolo ya lefu e ja dikarolo tša gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4c21c97e0e3f769364baf790ca4100270aa0cfc9e9ec601ab23cda20209ccfcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/18\/13-16.1792300300327.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאכל",
+      "gloss": "e-ja"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "dikarolo-tša"
+    },
+    {
+      "surface": "עורו",
+      "gloss": "letlago-la-gagwe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "e-ja"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dikarolo-tša-gagwe"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "tlogologolo-ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu"
+    }
+  ],
+  "timestamp": "2026-10-18T05:11:40.328186880Z",
+  "model": "glm-5.3"
+}

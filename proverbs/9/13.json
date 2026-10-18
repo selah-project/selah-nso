@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אשת כסילות",
+      "rationale": "'Mosadi wa bofoleke' — mosadi wa setho\/personification ya bofoleke, go swana le 'the woman Folly' ya JPS\/BSB."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסילות \/ פתיות",
+      "rationale": "Mantšu a mabedi a fapana a bofoleke ka temaneng e tee — bofoleke bja go hana kgatlhanong le bobabaletši bja go latela batho; diphapanyetšo tša parallelism di ya Lahla."
+    },
+    {
+      "kind": "crux",
+      "subject": "המיה",
+      "rationale": "'Clamorous' (KJV) kgatlhanong le 'riotous' (JPS); modumo wa go lelela goba go phela bophara bja lerato la sephiri."
+    }
+  ],
+  "translation": "Mosadi wa bofoleke o hlala a lelela ka modumo o mokolo, o babadišegaka, gomme ga a tsebe ⟨se⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b14cef59dd9bebb59506f6b958ba93e9573ab01bfd2b0f1dd7cc70c35a5df399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/9\/13-16.1792299318481.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "wa bofoleke"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "o hlala a lelela ka modumo"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "o babadišegaka"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "a tsebe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨se⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:18.482402435Z",
+  "model": "glm-5.3"
+}

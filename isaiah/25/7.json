@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 25:7",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הלוט\/הלוט",
+      "rationale": "Leina (sephuthi) le sebopego sa leina leo (se phuthetšwego) tselana — go bina ga lentšu le tee, go bolokilwe ka go boela ga 'sephuthi\/se phuthetšwego'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "molla",
+      "rationale": "בלע ke 'go molla' ka molomo — ponagalo ya go ja e bolokilwe, e sego 'go fedisa' ka mo go sa bonagago."
+    },
+    {
+      "kind": "mystery",
+      "subject": "sephuthi",
+      "rationale": "Sephuthi se sa hlathollwago se phuthetšwego merabe ka moka — sengwe se sa utollwago se tla senyegela thabeng ye."
+    }
+  ],
+  "translation": "Gomme o tla se molla thabeng ye: sefahlego sa sephuthi se phuthetšwego go merabe ka moka, le sekgokgo se kgokilwego go ditšhaba ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "37da0810a92eda810ba0118502593c87eb368b9bc2b2975b94b8f4c1321f3e5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/25\/5-8.1792291782223.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "gomme o tla se molla"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlego"
+    },
+    {
+      "surface": "הלוט",
+      "gloss": "sa sephuthi"
+    },
+    {
+      "surface": "הלוט",
+      "gloss": "se phuthetšwego"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "merabe"
+    },
+    {
+      "surface": "והמסכה",
+      "gloss": "le sekgokgo"
+    },
+    {
+      "surface": "הנסוכה",
+      "gloss": "se kgokilwego"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T02:49:42.224151610Z",
+  "model": "glm-5.3"
+}

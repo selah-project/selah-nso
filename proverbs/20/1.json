@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mwala wa ribulu",
+      "rationale": "היין ke mokoloko wa mašemong; 'ribulu' e hlatsetše go etsa borofši bja mowa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "se nang tlase ke sona",
+      "rationale": "שכר e bolela senwelo se nang tlase ka mehla; 'tlase' ke modumo wa lentswe ka ntle"
+    },
+    {
+      "kind": "crux",
+      "subject": "mmoki",
+      "rationale": "לץ: ba banegi ba bangwe ba ngwala 'mojakwi' goba 'mošabi'; 'mmoki' e bolokwa go fa Letšeng la Ditšhaba tše dingwe le tše dingwe"
+    }
+  ],
+  "translation": "Mmoki wa mwala wa ribulu, gomme se nang tlase ke sona se h labelago; eupša yo feditšwego ke wona, ga a hlalefa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/20\/1-4.1792299605308.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "mmoki"
+    },
+    {
+      "surface": "היין",
+      "gloss": "mwala wa ribulu"
+    },
+    {
+      "surface": "המה",
+      "gloss": "se h labelago"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "se nang tlase ke sona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "yo feditšwego"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ke wona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "a hlalefa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:05.309288238Z",
+  "model": "glm-5.3"
+}

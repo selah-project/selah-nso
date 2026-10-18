@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 6:18",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨la⟩",
+      "rationale": "Sepedi e nyaka 'la' go bopa 'ka Leina la Yahwe Tsebaote'; Seheberu se na le šupa fela."
+    },
+    {
+      "kind": "you",
+      "subject": "go setšhaba",
+      "rationale": "Dafida o baga setšhaba sa Yisraele ka bobedi bja bolelo bjo."
+    }
+  ],
+  "translation": "Gomme Dafida a phetha go fiša sebego sa go fišwa le dibegeo tša kagiso, gomme a baga ⟨את⟩ setšhaba ka Leina la Yahwe Tsebaote.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8fd54b01415e98187f2d320feb29492eb76cbf1f7a18737c714cfdf79942dac8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/6\/17-20.1792288966677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "a phetha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "go fiša"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "sebego sa go fišwa"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "dibegeo tša kagiso"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "a baga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka Leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    }
+  ],
+  "timestamp": "2026-10-18T02:02:46.677968593Z",
+  "model": "glm-5.3"
+}

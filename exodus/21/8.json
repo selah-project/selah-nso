@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 21:8",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשר לא יעדה",
+      "rationale": "Famously ambiguous: 'whom he has not designated (as wife)' — subject may be the master or the daughter; JPS takes master, others the daughter's refusal."
+    },
+    {
+      "kind": "crux",
+      "subject": "יעדה",
+      "rationale": "'from יעד — to appoint\/betroth: 'designated her (for himself)' vs 'betrothed her (to his son, v.9)'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "רעה בעיני",
+      "rationale": "'bad in the eyes of' — literally displeasing; rendered 'e le mpe ka mahlong a'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "בבגדו בה",
+      "rationale": "Literally 'in his dealing treacherously with her' — verbal noun of בגד; rendered as causal clause 'ka gobane o ile a mo qhekella'."
+    }
+  ],
+  "translation": "Ge e le mpe ka mahlong a morena wa yena, yeo a sa mo laelago, a mo lokollotše; go setšhaba sa sego sa gae ga a swanela go buša ka go mo rekhisa, ka gobane o ile a mo qhekella.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/21\/5-8.1792282918095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "e le mpe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ka mahlong a"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "morena wa yena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "mo laelago"
+    },
+    {
+      "surface": "והפדה",
+      "gloss": "a mo lokollotše"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "go setšhaba sa"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "sego sa gae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a swanela"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "go buša"
+    },
+    {
+      "surface": "למכרה",
+      "gloss": "ka go mo rekhisa"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "ka gobane o ile a mo qhekella"
+    },
+    {
+      "surface": "בה",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:58.096657661Z",
+  "model": "glm-5.3"
+}

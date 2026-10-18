@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joel 2:27",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Israele",
+      "rationale": "'Le tla tseba' — bolelo ka mo go lebanyeng go setšhaba sa Israele."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na copula go 'אני' — Sepedi se e nyaka go 'nna ke'."
+    },
+    {
+      "kind": "elision",
+      "subject": "עוד",
+      "rationale": "'Go se nago mo ka mong' — עוד e bolela 'go bega gape \/ ka mošo'; e tsejwa ka sehlakahlaka se se okeditšwego."
+    }
+  ],
+  "translation": "Gomme le tla tseba gore mo gare ga Yisraele ⟨ke⟩ nna, gomme nna ke Yahwe Elohim ya lena, gomme go se nago ⟨mo ka mong⟩; gomme setšhaba sa ka se tla ka nyenyega go fihla lekatleho.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "85b29dad6f984164a19f15b8721e300f0de7b4e577c1fa996cde3579d63f923c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/2\/25-27.1792296152512.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "gomme le tla tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "mo gare ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lena"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme go se nago"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨mo ka mong⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme se tla ka"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "nyenyega"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla lekatleho"
+    }
+  ],
+  "timestamp": "2026-10-18T04:02:32.513950437Z",
+  "model": "glm-5.3"
+}

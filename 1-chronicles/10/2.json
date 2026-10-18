@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba latedžitše morago",
+      "rationale": "וידבקו e re 'ba kgomile' — ba ile ba latedža ka kgonthe, ba sa mo tlogele"
+    }
+  ],
+  "translation": "Gomme Ba-Pelishtime ba latedžitše morago ga Shaule le morago ga bana ba gagwe, gomme Ba-Pelishtime ba bolaya ⟨את⟩ Yonathane le ⟨את⟩ Abinadabe le ⟨את⟩ Malki-Shua, bana ba Shaule.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5af08338117be119e983160416ce7a695d5be80c90fbcc42497ccfa5951866f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/10\/1-4.1792303149531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "Gomme ba latedžitše morago"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Pelishtime"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "le morago ga"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "gomme ba bolaya"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Pelishtime"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yonathane"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Yonathane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Abinadabe"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Abinadabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Malki-Shua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ba Shaule"
+    }
+  ],
+  "timestamp": "2026-10-18T05:59:09.532495537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גוי\/גוי, ממלכה\/עם אחר",
+      "rationale": "Dipetlelelano tša go fetoga tša setšhaba–bogoši–setšhaba; go fetoga ga potego go bontšha bohamolula ba go se na seabe"
+    }
+  ],
+  "translation": "Gomme ba tsamaya le go feta go tšwa setšhabeng sengwe go ya go sengwe, go tšwa bogošing go ya go setšhabang se sengwe;",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9bcd5fa945c956f216e73e64353d732b6dd67505ae7714aa05e78c7dc51889dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/13-16.1792298635348.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "gomme ba tsamaya le go feta"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "go tšwa setšhabeng sengwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setšhaba se sengwe"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "go tšwa bogošing"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "se sengwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:55.349350450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 41:13",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke go hema\/thogo ya maphelo, e sego `moya` fela; fa e bontšha moya wa go hema wa Lefiata"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תלהט",
+      "rationale": "lemma e bolela go nama ka leleme — dikhalo di nama ke moya wa gagwe bjalo ka ge leleme le nama"
+    }
+  ],
+  "translation": "Moya wa gagwe o tsepamisa dikhalo, gomme mollo o a tšwa go mmala wa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c30f1dea12210883d408ee492ac8a002a524d8612a35025de15d1a8ec7781d95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/41\/13-16.1792300851852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa gagwe"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "dikhalo"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "o tsepamisa"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "gomme mollo"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "go mmala wa gagwe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o a tšwa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:20:51.852942670Z",
+  "model": "glm-5.3"
+}

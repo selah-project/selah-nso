@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "manoga a lewatle",
+      "rationale": "תנינים: diphoofolo tše dikgolo tša lewatle (KJV 'dragons', JPS 'sea-monsters') goba manoga a naga; lešika la lentšu le swara ka moka."
+    }
+  ],
+  "translation": "Keteketšang ⟨את⟩ Yahwe go tšwa lefaseng, manoga a lewatle le bodibye bja meetse ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8a1ea9d970a6a07ae02a25b9c0c437023422c34240da20f834533a7ee05463f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/148\/5-8.1792299136682.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Keteketšang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "manoga a lewatle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... ka moka"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "bodibye bja meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:52:16.683129171Z",
+  "model": "glm-5.3"
+}

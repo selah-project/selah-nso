@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Aleph-tav ya morutišwa o kopantšwego le -ם; e hlagišwa e le ⟨את⟩ fela ka gobane a hlalosa e šetše e le gona ka 'tšohle'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמן\/המשחה\/וימשח",
+      "rationale": "Modu o tšwelelapeleng: mafura–go tlodiswa–a tlodisa; mantšu a Šepedi a a hlaola ka mehla a boloda kopano ye."
+    }
+  ],
+  "translation": "Gomme Moshe a nyaka ⟨את⟩ mafura a go tlodiswa, gomme a tlodisa ⟨את⟩ Mishkane le ⟨את⟩ tšohle ye e lego go sona, gomme a di kgethwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d225b7f9d93d930b325d629cb983ee9a4039735740fcce60835895c47e971b01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/8\/9-12.1792283714194.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a nyaka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a go tlodiswa"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "a tlodisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tšohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ye e lego"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go sona"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "a di kgethwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tšohle le tše di lego go Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-18T00:35:14.195742638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 53:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kgotso",
+      "rationale": "שלומנו ke kgotso\/kagisano — bophelo bjo bo phelwang ka kagisano, e sego thulaganyo fela; 'kgotso' ga e swaragane ka botlalo le botebo bja lentšu."
+    },
+    {
+      "kind": "crux",
+      "subject": "ובחברתו",
+      "rationale": "Bahlalosi ba fapana: 'dintlha' (methapo ya go hlwaya) kgathanong le 'go bolokwa mmogo' (from חבר); mabapi a a ntšhitšwego ke a bothata ka gobane seripa se sa hlalosa sehlwayo sa mmeleng."
+    },
+    {
+      "kind": "substitution",
+      "subject": "teko",
+      "rationale": "מוסר bolela teko ya go laetša le go kgutlhisa — sephetho sa teko, e sego kotlo fela."
+    }
+  ],
+  "translation": "Gomme yena o ile a robega ka diphapang tša rena, a phutlhwa ka meala ya rena; teko ya kgotso ya rena e be mo go yena, gomme ka dintlha tša gagwe re fodišitšwe ⟨re⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4d63df52a4df18b1a31bd66c289fd2d65278892628aab788f92367315dd1bdfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/53\/5-8.1792292443354.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "gomme yena"
+    },
+    {
+      "surface": "מחלל",
+      "gloss": "o ile a robega"
+    },
+    {
+      "surface": "מפשענו",
+      "gloss": "ka diphapang tša rena"
+    },
+    {
+      "surface": "מדכא",
+      "gloss": "a phutlhwa"
+    },
+    {
+      "surface": "מעונתינו",
+      "gloss": "ka meala ya rena"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "teko"
+    },
+    {
+      "surface": "שלומנו",
+      "gloss": "ya kgotso ya rena"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go yena"
+    },
+    {
+      "surface": "ובחברתו",
+      "gloss": "gomme ka dintlha tša gagwe"
+    },
+    {
+      "surface": "נרפא",
+      "gloss": "re fodišitšwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    }
+  ],
+  "timestamp": "2026-10-18T03:00:43.354994963Z",
+  "model": "glm-5.3"
+}

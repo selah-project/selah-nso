@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go wena",
+      "rationale": "לך e hlalosa motho wa go amega; Sepedi e nyaka 'go wena' ka ntle le sebopego sa konteraka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tše mafura",
+      "rationale": "מחים ka go lebanya ke 'mafura' — diphologolo tše mafuta, e sego thulaganyo ya go kgetha"
+    }
+  ],
+  "translation": "Dibege tša go fišwa tša diphoofolo tše mafura ke tla go di isa ⟨go wena⟩ mmogo le mokgethwa wa dinare; ke tla dira dikgomo mmogo le dipodi tša naka. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ce51aa0c7d8c513297c772cd0cae23854a57a1d85e0edc23e6c70d37ad62e0f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/66\/13-16.1792298007478.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "dibege tša go fišwa"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "tša diphoofolo tše mafura"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ke tla go di isa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨go wena⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "mokgethwa"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "wa dinare"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ke tla dira"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "dipodi tša naka"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:27.479089366Z",
+  "model": "glm-5.3"
+}

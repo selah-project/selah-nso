@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 13:14",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke mofsu\/moyo-motho (thogo\/moya wa bophelo), e sego 'moya' ka boemo bja רוח."
+    },
+    {
+      "kind": "idiom",
+      "subject": "go bea moya seatleng",
+      "rationale": "Sefoko sa Seheberu 'go iša nama ka menwane' — go itšea risky, sahlwa ka sefoko sengo le sengo."
+    }
+  ],
+  "translation": "Ke tla be ke iša nama ya ka ka menwaneng ya ka, gomme moya wa ka ke beoe seatleng sa ka?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "28a9d59e20e9fa2f8b6eb4b022750e0e8b03bccd4db98c27e95d5ef6662d1868",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/13\/13-16.1792300224868.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ke tla iša"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nama ya ka"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "ka menwaneng ya ka"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "gomme moya wa ka"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ke beoe"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "seatleng sa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:10:24.869498122Z",
+  "model": "glm-5.3"
+}

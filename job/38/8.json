@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 38:8",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Jobo",
+      "rationale": "Potsi ye e ka lebanya go Jobo — Yahwe o botšiša gore ke mang yo a dirago se (tempo ya pego e feditše go temana ya 4)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bina-bina go tšwa ka maatla",
+      "rationale": "בגיחו ke go tšwa ka maatla bjalo ka meetse a gokgo; kgetho ya bobedi: 'ge le be le tšwa ka gokgo'"
+    },
+    {
+      "kind": "elision",
+      "subject": "gomme",
+      "rationale": "Seheberu se na le ו ya go kopanya le kgopolo; 'gomme' e bontšha sebopego sa potso ye e latelago"
+    },
+    {
+      "kind": "alternative",
+      "subject": "dimaryego",
+      "rationale": "דלתים ke dual — 'dimaryego tše pedi' bolokwa; bontši bja kamehla bo tlatša dual"
+    }
+  ],
+  "translation": "Gomme o tswaletše lewatle ka dimaryego tše pedi, ge le ne le bina-bina go tšwa ka maatla, le tšwa mpopeng?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c8670db4aae4a73b68b029137775414f663c0b98d804f56e9062900b6ea783a6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/38\/8-8.1792305367536.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסך",
+      "gloss": "gomme o tswaletše"
+    },
+    {
+      "surface": "בדלתים",
+      "gloss": "ka dimaryego tše pedi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "בגיחו",
+      "gloss": "ge le bina-bina go tšwa ka maatla"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mpopeng"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "le tšwa"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:07.536538347Z",
+  "model": "glm-5.3"
+}

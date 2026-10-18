@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מים",
+      "rationale": "'Yam' = lewatle, euphemism ya bodikela (west); KJV\/ASV 'west', YLT 'sea' — Sepedi o tseretše 'lewatle' ka mo go tlwaelegilego"
+    },
+    {
+      "kind": "crux",
+      "subject": "סינים",
+      "rationale": "Naga ya Sine — Aswan ya Egepeta go ya le ba bangwe, goba Sereseng; leina ga le fetolelwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנה … והנה … ואלה",
+      "rationale": "Go boeledwa ga 'bonang' ga tharo go aga mokgwa wa go bontšha — phedišo e bolokile go boela ga lentsu"
+    }
+  ],
+  "translation": "Bonang, ba ba tšwa kgole; gomme bonang, ba ba tšwa leboa le lewatle; gomme ba ba tšwa lefaseng la ba-Sine.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7f4086d9c5a2a6125499986a54837830c95fae4f1cf39a2f3997a8c37f02a3cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/49\/9-12.1792292264594.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "tšwa kgole"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gomme bonang"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "tšwa leboa"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "le lewatle"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "gomme ba"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "tšwa lefaseng la"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "ba-Sine"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:44.595389195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maphelo a ka",
+      "rationale": "נפש e atametše go 'mokgokolo\/mesemo\/maphelo' — e sego 'moya woo o sa fego'; 'maphelo' ke botee bja wona bjo bo botse."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואת",
+      "rationale": "Mo e sego aleph-tav ya sehlabelo (H853) — e tšwa go אתה (H859), 'gomme wena'; ka gobana ga go na ⟨את⟩ ya go swanela mo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבהלה",
+      "rationale": "Ledano le le tšwelago pele le mpša 3:4 (נבהלו עצמי → נבהלה נפשי) — go tšhaba go aname go tšwa marapong go ya maphelong; se se laolwa ke mphologolo wa mantšu."
+    }
+  ],
+  "translation": "Gomme maphelo a ka a tshwenyegile kudu; gomme wena, Yahwe — go fihla nako e kae?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/6\/1-4.1792297111823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "gomme maphelo a ka"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "a tshwenyegile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nako e kae"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:31.824290797Z",
+  "model": "glm-5.3"
+}

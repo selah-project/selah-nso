@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משחך אלהים אלהיך",
+      "rationale": "'Elohim, Elohim wa gago, o go tloditše' — kgoši e bitswa Elohim (mo e sa fetelweng) gomme yena a tloditšwa ke Elohim wa gagwe; maina ka moka a bolokwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mafura a nyakallo",
+      "rationale": "שמן ששון = 'mafura a takatso\/nyakallo' — mafura a tloditšo a boperisita"
+    }
+  ],
+  "translation": "O ratile tsedeke, gomme o hlotše sefošo; ka gobane Elohim, Elohim wa gago, o go tloditšwe ka mafura a nyakallo, go feta balekane ba gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/45\/5-8.1792297821180.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "o ratile"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "gomme o hlotše"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sefošo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "o go tloditšwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "a nyakallo"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "go feta balekane ba gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:21.182008519Z",
+  "model": "glm-5.3"
+}

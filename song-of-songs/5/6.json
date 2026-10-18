@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 5:6",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke moya\/bophelo — go swana le throat le mafikifiki; e sego 'moya' fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "בדברו",
+      "rationale": "'ka lentšu la hago' (ka ge a bolela) kgotalo 'ka ge a bolela' — mehuta ya diphetolelo e fapana"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ולא מצאתיהו \/ ולא ענני",
+      "rationale": "bobedi bja dikgopolo tše dingwalo tše pedi tša go hloka, kgwešo ya sebopego"
+    }
+  ],
+  "translation": "Ke butšitše go mohlapetši wa ka, eupša mohlapetši wa ka o ile a fologa, a feta; moya wa ka o tšwa ka lentšu la hago; ke mo šišinye, gomme ka se ka wa mo hwetša; ka mo bitsa, gomme ga a araba",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b4111710938a3607345c034ee20276c6407f36ae66f274aae2594f83da376343",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/5\/5-8.1792300979732.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתחתי",
+      "gloss": "ke butšitše"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "go mohlapetši wa ka"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "gomme mohlapetši wa ka"
+    },
+    {
+      "surface": "חמק",
+      "gloss": "o ile a fologa"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "o tšwa"
+    },
+    {
+      "surface": "בדברו",
+      "gloss": "ka lentšu la hago"
+    },
+    {
+      "surface": "בקשתיהו",
+      "gloss": "ke mo šišinye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "מצאתיהו",
+      "gloss": "ka se ka wa mo hwetša"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ka mo bitsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "a araba"
+    }
+  ],
+  "timestamp": "2026-10-18T05:22:59.732984494Z",
+  "model": "glm-5.3"
+}

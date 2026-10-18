@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 26:21",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרי",
+      "rationale": "Hapax legomenon; diphthong raša: 'hostile encounter\/contrariness' (walk at random with, in opposition) vs. 'walk casually\/indifferently' (Rashi)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "ševaʿ",
+      "rationale": "Sevenfold count of plagues — the seven-fold escalation structure runs through verses 18, 21, 24, 28."
+    }
+  ],
+  "translation": "Gomme ge le sepela le nna ka go ganwana, gomme le sa dumelelago go theetša le ka: ke tla oketša go lena tlaišo ya nako ye šupa, go ya ka mebe ya lena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/26\/21-24.1792284311674.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "le sepela"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "ka go ganwana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme le sa"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "dumelelago"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "go theetša"
+    },
+    {
+      "surface": "לי",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "ke tla oketša"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "go lena"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "tlaišo"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ya nako ye šupa"
+    },
+    {
+      "surface": "כחטאתיכם",
+      "gloss": "go ya ka mebe ya lena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:45:11.675387751Z",
+  "model": "glm-5.3"
+}

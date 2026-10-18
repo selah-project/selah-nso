@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 51:23",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa gago",
+      "rationale": "נפש e atametše go seatla\/bophedi\/mafoko — moya ke sefoko se se atametšego eupša se sa bontšhe sefoko sa 'mohlala'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מוגיך",
+      "rationale": "sefoko sa יגה sa 'go utwesa bohloko' se hwetšwa fela mo go Tanakh — diphetho tše dingwe di se bitša 'ba go hlotšego'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mokwatla",
+      "rationale": "גוך = mokwatla goba bogareng — KJV ya ntšha 'mokwatla' ka botlalo ('thine body'), JPS ya o bea"
+    }
+  ],
+  "translation": "gomme ke tla e bea seatleng sa bao ba go utwetšego, bao ba bolelago go moya wa gago: Inama, re fete; gomme o beile mokwatla wa gago bjalo ka lefase, le bjalo ka ntle, bakeng sa ba fetago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ea1cae1a9ab72cde94bab4ce7a9eb67e0c51f79dbbaddd37ba3a341b9bc30d92",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/51\/21-23.1792292353422.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתיה",
+      "gloss": "gomme ke tla e bea"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "seatleng sa"
+    },
+    {
+      "surface": "מוגיך",
+      "gloss": "bao ba go utwetšego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba bolelago"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "go moya wa gago"
+    },
+    {
+      "surface": "שחי",
+      "gloss": "inama"
+    },
+    {
+      "surface": "ונעברה",
+      "gloss": "re fete"
+    },
+    {
+      "surface": "ותשימי",
+      "gloss": "gomme o beile"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "bjalo ka lefase"
+    },
+    {
+      "surface": "גוך",
+      "gloss": "mokwatla wa gago"
+    },
+    {
+      "surface": "וכחוץ",
+      "gloss": "le bjalo ka ntle"
+    },
+    {
+      "surface": "לעברים",
+      "gloss": "bakeng sa ba fetago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:13.423486834Z",
+  "model": "glm-5.3"
+}

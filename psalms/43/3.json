@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Romela lesedi la gago",
+      "rationale": "taelo ya go kgopela ye e lebella Yahwe ka bowena"
+    },
+    {
+      "kind": "elision",
+      "subject": "המה",
+      "rationale": "sebopego sa boikitšego sa 'tšona' se feletšego se šumišwa go tlaleletša boikgantšho bja balaodi, se sa tswalwe le 'ke tšona'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "lesedi\/nnete",
+      "rationale": "diphetho tše pedi di dira balaodi ba motho; go se nwele ga tšona go bolokwa ka go boella ga 'tšona'"
+    }
+  ],
+  "translation": "Romela lesedi la gago le nnete ya gago; tšona ke tšona tše di ka ntata, di nkise go thabeng ya bokgethwa bja gago le go di-Mishkane tša gago.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ea60248c98ca88ad29eb8a85272f836e213b55a87ff4466d7e8ea7957e57b9ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/43\/2-3.1792305209809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Romela"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "lesedi la gago"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "le nnete ya gago"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tšona"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "di ka ntata"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "di nkise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya bokgethwa bja gago"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "di-Mishkane tša gago"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:29.810370377Z",
+  "model": "glm-5.3"
+}

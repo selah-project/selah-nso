@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חלמיש",
+      "rationale": "Sela se se thata — 'leswika le thata'; Sepedi ga se na lentšu le tee le tlwaelesegilego bakeng sa flint"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מים...מים",
+      "rationale": "'meetse' tše pedi ka mafelelo a temana — sebopego sa go feta ka mokgwa o swanago"
+    }
+  ],
+  "translation": "Yo a fetolang ⟨את⟩ leswika go ba serapa sa meetse, ⟨את⟩ leswika le thata go ba mohlodi wa meetse.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "94de7dada0975aece852f59cb693a0c1413570e1594ab4acc430d500999295e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/114\/5-8.1792298737725.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "yo a fetolang"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "leswika"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "serapa sa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "leswika le thata"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "go ba mohlodi wa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:37.726746458Z",
+  "model": "glm-5.3"
+}

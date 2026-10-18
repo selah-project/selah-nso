@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 28:23",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba tsegeditše ka thata",
+      "rationale": "ויפרצו בו literatimore 'ba gagabetše go yena' (go búa ga פרץ); diphetholelo tše ngwadišago di bolela 'ba mo kgomoretše'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויפרצו בו",
+      "rationale": "Diphetholelo di fapana: 'compelled' (KJV) kgatlhanong le 'urged' (JPS) — pulpuletšo e sego go phekola"
+    }
+  ],
+  "translation": "Gomme a gana, a re: Ke sa je. Gomme bahlaña ba gabo ba tsegeditše go yena ka thata, le mosadi, a theetša lentšung la bona, a tšoga lefasing, a dula setulong sa boroko.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e5a2cc75600b19ff486a0f12983903878d85de0fc9edf0bdedf3b1d9da4a1729",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/28\/21-24.1792288722146.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "a gana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ke je"
+    },
+    {
+      "surface": "ויפרצו",
+      "gloss": "ba tsegeditše go yena ka thata"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bahlaña ba gabo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "a theetša"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "lentšung la bona"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "a tšoga"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "lefasing"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "setulong sa boroko"
+    }
+  ],
+  "timestamp": "2026-10-18T01:58:42.147215324Z",
+  "model": "glm-5.3"
+}

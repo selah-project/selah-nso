@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 2:2",
+  "book": "haggai",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Zerubbabel, Joshua, and the remnant",
+      "rationale": "The command names its addressees explicitly: the governor, the high priest, and the remnant of the people."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Softening particle 'I pray\/now' with no single Sepedi word; rendered as bracketed ⟨bjale⟩."
+    }
+  ],
+  "translation": "Bolela ⟨bjale⟩ go Zerubabele mora Šealtiele, mmusi wa Yehuda, le go Yehoshua mora Yehotsadake, moperisita mogolo, le go maswitšo a setšhaba, go re:",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "01340037bd01252d22378c24a6a5c1c10ccdb5fe639e0a3182431e0d81b03b9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/haggai\/2\/1-4.1792296813756.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Bolela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨bjale⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubabele"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "שלתיאל",
+      "gloss": "Šealtiele"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "mmusi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wa Yehuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Yehotsadake"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "maswitšo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "a setšhaba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go re:"
+    }
+  ],
+  "timestamp": "2026-10-18T04:13:33.757022749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 63:10",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועצבו",
+      "rationale": "'ba tshwenye' (KJV 'vexed', YLT 'grieved') kgathanong le 'ba kgobile' — lešika la tlhago la עצב ke go raga, go kgoma."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "ruakh e bolokwa ka modumo wa Seheberu go ya ka molao; 'moya' o la tsewa."
+    }
+  ],
+  "translation": "Gomme bona ba gwerile, ba tshwenye ⟨את⟩ ruakh ya bokgethwa bja gagwe; ka fao a fetoga go bona go ba lenaba, yena a lwana le bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bbdab2a86cd87b5b6ec99e36b4b7fc50cf5f43ab9a05a0e3102c13b9ed6189aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/63\/9-12.1792292510529.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "gomme bona"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ba gwerile"
+    },
+    {
+      "surface": "ועצבו",
+      "gloss": "ba tshwenye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya bokgethwa bja gagwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ya bokgethwa bja gagwe"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "ka fao a fetoga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "go ba lenaba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "a lwana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "le bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:01:50.530346357Z",
+  "model": "glm-5.3"
+}

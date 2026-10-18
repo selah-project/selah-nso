@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 26:24",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תאמים \/ תמים",
+      "rationale": "תֹאֲמִים (diphuthi, tše di swanago ka bobedi) go fapana le תַמִּים (ka botlalo); KJV 'coupled together' ya tše pedi, YLT 'pairs' — mo diphuthego tša go swana di a bolokwa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאמים\/תמים",
+      "rationale": "Go lebelela ga mantšu a mabedi a go swana (t-win) ka gare ga temana — se sa utolwa ka Sepedi."
+    },
+    {
+      "kind": "measurement",
+      "subject": "khapo e tee",
+      "rationale": "Go laelwa ga sebopego: khapo e tee, dikgonthi tše pedi."
+    }
+  ],
+  "translation": "Gomme di tla ba diphuthi ka tlase, gomme di tla kopana ka botlalo godimo ga hlogo ya yona go ya khapong e tee; ka mo go swanago go tla ba bakeng sa tšona ka bobedi; di tla ba bakeng sa dikgonthi tše pedi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9adc01df8a0dc59b933c85a15f4d4d634222922ff17ba516ddd47f98782d39ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/26\/21-24.1792283022308.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "gomme di tla ba"
+    },
+    {
+      "surface": "תאמים",
+      "gloss": "diphuthi"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "ka tlase"
+    },
+    {
+      "surface": "ויחדו",
+      "gloss": "gomme di kopana"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "di tla ba"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hlogo ya yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "khapong"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e tee"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka mo go swanago"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go tla ba"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "bakeng sa tšona ka bobedi"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "bakeng sa tše pedi"
+    },
+    {
+      "surface": "המקצעת",
+      "gloss": "dikgonthi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "di tla ba"
+    }
+  ],
+  "timestamp": "2026-10-18T00:23:42.308961569Z",
+  "model": "glm-5.3"
+}

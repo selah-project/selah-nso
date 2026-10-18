@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 40:14",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתך",
+      "rationale": "Ke lentsu la go ba kgauswi (את H854), e sego sesupi sa sehlakahlaka; se tšweletšwa bjalo ka 'le wena' ka ⟨את⟩."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ייטב לך",
+      "rationale": "Sesupo sa Seheberu 'e tla ba e botse go wena' — dilo di tla go šega ka wena."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Serapa sa go kgopela sa Seheberu se fetoletšwe 'go kgopela'."
+    }
+  ],
+  "translation": "Efela ge o ntšwetše pelong ⟨את⟩ le wena, ge dilo di šego go wena, gomme o dire hesede go nna, go kgopela, gomme o ntšeboletše go Farao, gomme o ntšhe mo ntlong ye.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ce49e5c43e7b7b3c12d03ac47671be29d26995e9d912060dd01b0b1cbfaa2260",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/40\/14-15.1792304577328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "efela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "זכרתני",
+      "gloss": "o ntšwetše pelong"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le wena ⟨את⟩",
+      "marks": "le wena"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ge"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "dilo di šego"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "gomme o dire"
+    },
+    {
+      "surface": "נא",
+      "gloss": "go kgopela"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "והזכרתני",
+      "gloss": "gomme o ntšeboletše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "והוציאתני",
+      "gloss": "gomme o ntšhe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:57.328759272Z",
+  "model": "glm-5.3"
+}

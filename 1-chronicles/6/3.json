@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Kopula ya Sepedi ye Seheberu se se se nago yona"
+    },
+    {
+      "kind": "crux",
+      "subject": "Khebrone",
+      "rationale": "חברור mo ke leina la motho, e sego la toropo ya Khebrone, le ka le tshwana"
+    }
+  ],
+  "translation": "Gomme barwa ba Kehathe: Amrame, Yitshhare, Khebrone, le Uziyele.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f58c106bd707b7e1e1544f436b6674ac016de478aa40c3e4ee95b3d456778c5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/6\/1-4.1792302928631.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "gomme barwa"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ba Kehathe"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amrame"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "Yitshhare"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Khebrone"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "le Uziyele"
+    }
+  ],
+  "timestamp": "2026-10-18T05:55:28.632350353Z",
+  "model": "glm-5.3"
+}

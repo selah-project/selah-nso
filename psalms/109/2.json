@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פי...ופי",
+      "rationale": "Poeletšo ya 'molomo... molomo' e bopa go lekana go tšwa le go boa; Sepedi se e bolokile ka go boela gape."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "אתי fela ke lešala la go ba kgauswi (H854), e sego sesupo sa sehlare sa go etsa; e hlagišitšwe bjalo ka 'le nna' ka ⟨את⟩."
+    }
+  ],
+  "translation": "Gobane molomo wa molato le molomo wa bofoša ba butše go nna; ba boletše le nna ⟨את⟩ leleme la maaka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4e93a87331292423e31d0b6e0900e868c52634e2c0ed0f8b730ebf095603344d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/109\/1-4.1792298740469.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wa molato"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "gomme molomo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "wa bofoša"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ba butše"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ba boletše"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "le nna ⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "leleme"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "la maaka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:40.470533607Z",
+  "model": "glm-5.3"
+}

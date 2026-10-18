@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 57:13",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "o tla la lefase",
+      "rationale": "go la lefase — sebopego sa Sepedi sa 'inherit the land', se kara go ja le go e la lefase"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lefela",
+      "rationale": "הבל ke 'moya\/mohuta o tlang o fete' — go fetelela ka lefela fela go la tlase"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yona⟩",
+      "rationale": "Sepedi e nyaka senotlolo pele ga 'thaba' — Seheberu se se sena"
+    }
+  ],
+  "translation": "Ge o lelea, a go boloke ditoko tša gago; gomme ruakh e tla isa ⟨את⟩ še ka moka, lefela le tla tšea; gomme yo a šeretšego go nna o tla la lefase, gomme o tla ba le yona thaba ya bokgethwa bja ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "01a735f0436826aec3f77325945b48a8c7e8a4e93dc89f1ca6e10e07b1bfca5a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/57\/13-16.1792292501212.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בזעקך",
+      "gloss": "ge o lelea"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "a go boloke"
+    },
+    {
+      "surface": "קבוציך",
+      "gloss": "ditoko tša gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "še ka moka"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "še ka moka"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "e tla isa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "le tla tšea"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "lefela"
+    },
+    {
+      "surface": "והחוסה",
+      "gloss": "gomme yo a šeretšego"
+    },
+    {
+      "surface": "בי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "o tla la"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "gomme o tla ba le yona"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "ya bokgethwa bja ka"
+    }
+  ],
+  "timestamp": "2026-10-18T03:01:41.213035830Z",
+  "model": "glm-5.3"
+}

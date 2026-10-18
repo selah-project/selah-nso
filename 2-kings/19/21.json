@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 19:21",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Senakeribe",
+      "rationale": "lentšu le a mo lebiša, ka ge le bolela ka ga yena (v20)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ya sa nyaliwang",
+      "rationale": "בתולת: 'morwadi ya sa nyaliwang' goba 'mosadi wa pele'; Lentšu la Seheberu le bolela morwadi yo moswa yo a sa nyaliwang"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "morwadi",
+      "rationale": "״morwadi ya Tsiyone״ le ״morwadi wa Yerushalayime״ — mokgwa wa Seheberu wa go bitša setšhaba bjalo ka morwadi, ka go dihela ga mantšu"
+    }
+  ],
+  "translation": "Ye ke lentšu leo Yahwe a boletšego ka ga yena: O nyantšhitše wena, o tšegile wena, morwadi ya sa nyaliwang ya Tsiyone; o šikinyetše hlogo ka morago ga gago, morwadi wa Yerushalayime.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ae3696727f4a4e40ae520358119b4ab3d68c5252949e0ba2c15e4d643d892830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/19\/21-24.1792291001647.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ye"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ke lentšu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a boletšego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka ga yena"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "O nyantšhitše"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לעגה",
+      "gloss": "o tšegile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "ya sa nyaliwang"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ka morago ga gago"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "הניעה",
+      "gloss": "o šikinyetše"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T02:36:41.648633281Z",
+  "model": "glm-5.3"
+}

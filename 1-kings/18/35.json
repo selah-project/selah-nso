@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Seheberu se sa umake modiri wa מלא; Sepedi e nyaka ⟨o⟩ (Elijahu)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mokala",
+      "rationale": "התעלה ke sedikwa\/moila wa meetse go lwantšha le aletare — 'mokala' ke moila wa meetse"
+    }
+  ],
+  "translation": "Gomme meetse a tšwa go dikologa aletare, gomme ⟨o⟩ tlatša ⟨את⟩ mokala gape ka meetse.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e181a50c7be3ae0ddb4e3bbf164542da036ad17ed6af16a55e27f40751f2b4d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/18\/33-36.1792290282870.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "Gomme a tšwa go"
+    },
+    {
+      "surface": "המים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "gomme gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mokala"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "mokala"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "o tlatša"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ka meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T02:24:42.871787386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 20:4",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "העלם יעלימו",
+      "rationale": "Infinitive absolute le polelo ya yona: 'go uta ba uta' — modu o bedišitšwego o theilwego godimo ga modu o tee, wo o lahelwego ka go bontšha kgotlelelo."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "Verse e fela ka mokgwa o sa tseego — polelo ya godimo (20:5) e tšwela pele; sephetho se latela kgauswi."
+    }
+  ],
+  "translation": "Gomme ge setšhaba sa lefase se uta ⟨את⟩ mahlo a tšona go motho yoo, ge a neela peo ya gagwe go Molekhe, gore se sa mo bolae ⟨את⟩—",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "cee23beb50facc4104b773d04b158c429ebd13766ce2148a0d1f3bbbd858d18a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/20\/1-4.1792284120164.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "go uta"
+    },
+    {
+      "surface": "יעלימו",
+      "gloss": "se uta"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahlo a tšona"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "mahlo a tšona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "בתתו",
+      "gloss": "ge a neela"
+    },
+    {
+      "surface": "מזרעו",
+      "gloss": "peo ya gagwe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go Molekhe"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "gore se sa"
+    },
+    {
+      "surface": "המית",
+      "gloss": "mo bolae"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "motho yoo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:42:00.165684729Z",
+  "model": "glm-5.3"
+}

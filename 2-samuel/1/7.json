@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go nna⟩",
+      "rationale": "אלי ke sekopanyi se tlwaetšego sa go petša; Sepedi se se nyaka tlhaloso ya motho yo a petšwago."
+    },
+    {
+      "kind": "idiom",
+      "subject": "הנני",
+      "rationale": "Motheo wa Seheberu 'ke gona' — karabo ya molatedi ge a bitšwa; 'Ke gona' e beile modumo wa Karabo ya Seheberu."
+    }
+  ],
+  "translation": "Gomme a boela ka morago, a mpona, a mpetša, gomme ke re: Ke gona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c476351f5def21ffec551967f1b26038fecbc77b69890d6e05e269c2b2848297",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/1\/6-7.1792304884993.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "gomme a boela"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka morago"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "a mpona"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a mpetša"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨go nna⟩"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "gomme ke re"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ke gona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:28:04.994347055Z",
+  "model": "glm-5.3"
+}

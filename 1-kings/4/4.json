@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 4:4",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Kopula ya Sepedi ye e okeditšwego go laetša boemo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sesole",
+      "rationale": "הצבא e bolela 'madira a kgobokantšwego' — sesole ke yona tlhalošo ye e bitšwago"
+    }
+  ],
+  "translation": "Gomme Benajahu morwa wa Yehojadae godimo ga sesole; gomme Tsadoke le Ebjatare ⟨ke⟩ baperisita.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ab78f783e35bff0ad0c28134b9875f340daa485b0f0fa08f818a35ad6726c74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/4\/1-4.1792289602867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Gomme Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehojadae"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "le Tsadoke"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "le Ebjatare"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "baperisita"
+    }
+  ],
+  "timestamp": "2026-10-18T02:13:22.868025268Z",
+  "model": "glm-5.3"
+}

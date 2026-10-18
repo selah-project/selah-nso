@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 17:31",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "אלה ya ditšhaba tše di fetšwego — medimo ka ditlhaka tše nnyane go ya le D1"
+    },
+    {
+      "kind": "hapax",
+      "subject": "Nibkhaze le Taratake",
+      "rationale": "maina a medimo a ba-Ava a hwetšwa fela mo, go sa lebale gore lentšu le na le bothata"
+    },
+    {
+      "kind": "crux",
+      "subject": "אלה ספרים",
+      "rationale": "go ka ba 'medimo ya Sefaravaye' (ya Adrammeleke le Anammeleke) goba yaentšhi ya borapedi bjo bo tshotšwego temaneng ye"
+    }
+  ],
+  "translation": "Gomme ba-Ava ba dira ⟨את⟩ Nibkhaze le ⟨את⟩ Taratake, gomme ba-Sefaravaye ba fiša bana ba bona ka mollo bakeng sa Adrammeleke le Anammeleke, medimo ya Sefaravaye.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "26f136897e2cdc9e4642f6327a58d20648e1fdc34664f372f9675baf2de7d23c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/17\/31-32.1792304965582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "gomme ba-Ava"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "נבחז",
+      "gloss": "Nibkhaze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Taratake"
+    },
+    {
+      "surface": "תרתק",
+      "gloss": "Taratake"
+    },
+    {
+      "surface": "והספרוים",
+      "gloss": "gomme ba-Sefaravaye"
+    },
+    {
+      "surface": "שרפים",
+      "gloss": "ba fiša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba bona"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bana ba bona"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "לאדרמלך",
+      "gloss": "bakeng sa Adrammeleke"
+    },
+    {
+      "surface": "וענמלך",
+      "gloss": "le Anammeleke"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "medimo ya"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "Sefaravaye"
+    }
+  ],
+  "timestamp": "2026-10-18T06:29:25.582804107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mesifa ya tlaleletšo",
+      "rationale": "שב ke motho yo a nago le mesifa ye meso — sebopego se fetotšwe go sedirišišwa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ka mengwaga",
+      "rationale": "palo ya mengwaga e bopiša tšhomišano ya bophago"
+    }
+  ],
+  "translation": "Le go ba ba nago le mesifa ya tlaleletšo le baholwane ba bagolo go rena, ba mogolo go tlase ga ntate wa gago ka mengwaga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fd16c8df6de2fc29ffa637e766b9dbd57924df8595451e80566920157cbd83d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/15\/9-12.1792300267845.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שב",
+      "gloss": "go ba ba nago le mesifa ya tlaleletšo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "baholwane ba bagolo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "go rena"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "ba mogolo go tlase ga"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "ntate wa gago"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ka mengwaga"
+    }
+  ],
+  "timestamp": "2026-10-18T05:11:07.846066282Z",
+  "model": "glm-5.3"
+}

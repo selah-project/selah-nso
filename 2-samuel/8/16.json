@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 8:16",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨e be⟩ \/ ⟨o⟩",
+      "rationale": "Seheberu ga se na copula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mogokgopotši",
+      "rationale": "מזכיר ke 'yo a gopotsago' — ba-mofetoledi ba bangwe ba ngwala 'recorder' (mošomo, sebopego se la hlongwa)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lenaneo la bohleba",
+      "rationale": "Temana ye ke lenaneo la badudi ba bogoši ba Dafida"
+    }
+  ],
+  "translation": "Gomme Yoabe mora Tseruyah a be ⟨o⟩ le godimo ga madira; gomme Yehoshafate mora Akhilude ⟨e be⟩ mogokgopotši.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b2397c22a6f80c23246aa41e86c3364927bfff8acfe37b351598d744a6b32810",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/8\/16-16.1792304866280.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tseruyah"
+    },
+    {
+      "surface": "על",
+      "gloss": "le godimo ga"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "madira"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Yehoshafate"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Akhilude"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "mogokgopotši"
+    }
+  ],
+  "timestamp": "2026-10-18T06:27:46.282196135Z",
+  "model": "glm-5.3"
+}

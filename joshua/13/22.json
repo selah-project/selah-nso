@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 13:22",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הקוסם",
+      "rationale": "mokgethi wa masego (diviner) kgahlanong le 'moprofeta' — Tanakh e mo bitša mokgethi fela go mošomo wo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba mo",
+      "rationale": "Seheberu se dirisa ⟨את⟩ feela; pronoun ya gohlakala e okeditšwe go fa Bileama"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ Bileama, mora wa Beora, mokgethi wa masego, ba mo bolaye bana ba Yisraele ka tšhoša, gare ga ba ba bolailwego ba bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1e40b2b2ecabc68850feffe9029de7d0556398db8a4973938d2d009a0f203185",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/13\/21-24.1792286777641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "Bileama"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beora"
+    },
+    {
+      "surface": "הקוסם",
+      "gloss": "mokgethi wa masego"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ba mo bolaye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tšhoša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "חלליהם",
+      "gloss": "ba ba bolailwego ba bona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:26:17.642516749Z",
+  "model": "glm-5.3"
+}

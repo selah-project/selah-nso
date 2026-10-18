@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 3:6",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "letšatši la pele la kgwedi ya bošupa",
+      "rationale": "Palo ya nako: letšatši le kgwedi di balwa ka botlalo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tempole",
+      "gloss": "היכל ke ntlo ya kgolo ya borena goba ya Modimo; lentšu la go binoa"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨e sa le⟩",
+      "rationale": "Sepedi se nyaka hlatha ya nako yeo e sa go se ye; Seheberu se e hloka"
+    }
+  ],
+  "translation": "Go tloga letšatšing la pele la kgwedi ya bošupa, ba thoma go isa dibegeo tša go fišwa go Yahwe; eupša tempole ya Yahwe ga e sa le go theilwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "51a95af595ec64a53451fff6268b72a2a16b0354979a6905650df2c3a63407a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/3\/5-8.1792302290966.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיום",
+      "gloss": "go tloga letšatšing"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "la pele"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "la kgwedi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya bošupa"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "ba thoma"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "go isa"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "dibegeo tša go fišwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "והיכל",
+      "gloss": "eupša tempole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "e sa le go theilwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:44:50.967158851Z",
+  "model": "glm-5.3"
+}

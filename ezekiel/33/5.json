@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 33:5",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke thogo\/mafi\/motho wa moya — se phišaletše 'moya' gomme se se na 'moya wa tlhago' ya Segerika"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נזהר\/נזהר",
+      "rationale": "go boela ga lentšu la go hlwaeditšwa ga raro, se theilwego godimo ga mošomo wa mmoledi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "והוא נזהר",
+      "rationale": "ASV\/JPS: 'ge a ka hlwaeditšwa' (maemo a kanego) kgathanong le KJV 'gomme yena a hlwaeditšwe' — Seheberu se dumelela bobedi"
+    }
+  ],
+  "translation": "⟨את⟩ lentšu la tlala a le kwa, gomme a sa hlwaeditšwe — madi a gagwe a tla ba go yena; gomme yena a hlwaeditšwe, o ile a phologisa ⟨את⟩ moya wa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "93c1420a8aa16092c628d057cf0b4c9b61ad17c606882d695c9f534f5e788ac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/33\/5-8.1792295413132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "la tlala"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a le kwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "hlwaeditšwe"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a gagwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a tla ba"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "gomme yena"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "a hlwaeditšwe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa gagwe"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "o ile a phologisa"
+    }
+  ],
+  "timestamp": "2026-10-18T03:50:13.133781945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אם",
+      "rationale": "'Ge\/ge e ba' — ya bolela goba ya kgonthe; e sego 'if' fela"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ושחרו",
+      "rationale": "go 'dawn\/bohlabela' — go nyaka kgauswi le bohlabela, seswantšho se se se nago tekanyo ka Sepedi"
+    }
+  ],
+  "translation": "Ge a ba bolaya, ba mo nyaka, gomme ba boa, gomme ba nyaka El ka matsatsi a mathomo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/33-36.1792298253565.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "a ba bolaya"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "ba mo nyaka"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "gomme ba boa"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "ba nyaka ka matsatsi a mathomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:33.565836865Z",
+  "model": "glm-5.3"
+}

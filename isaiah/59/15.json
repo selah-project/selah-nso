@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משתולל",
+      "rationale": "from שׁלל 'plunder': the one departing from evil becomes plunder\/prey himself — KJV 'maketh himself a prey'; Sepedi renders 'o ipela sehubeng' (he makes himself loot)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירא \/ וירע",
+      "rationale": "saw-and-it-was-evil: near-identical roots ראה\/רעע, sound echo lost in Sepedi."
+    }
+  ],
+  "translation": "Gomme nnete e bile ye e sielego, gomme yo a fologago bosenyi o ipela sehubeng; gomme Yahwe a bona, gomme go ba mpe ka mahlong a gagwe, gobane go se na kahlolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "206f249565ec8a57458fe3fb49d77446b3cf1344ccab4ab18c4bb7298c24f998",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/59\/13-16.1792292498868.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "gomme e bile"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "nnete"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "ye e sielego"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "gomme o ikgogela"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "bosening"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "go ripa sehubeng"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "gomme a bona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "gomme go ba mpe"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ka mahlong a gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go se gona"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-18T03:01:38.869242250Z",
+  "model": "glm-5.3"
+}

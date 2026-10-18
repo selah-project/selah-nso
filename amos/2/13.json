@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 2:13",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מעיק",
+      "rationale": "Bolelo bja go hatla (עוק) bo hwetšwa fela mo letlakaleng le la Tanakh."
+    },
+    {
+      "kind": "crux",
+      "subject": "mmedi",
+      "rationale": "עמיר: 'mmedi wa po' (bunch of grain) kgahlanong le 'mokgwa wo o phuthilwego' — kahlolo ya diphetolelo e fapana."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Yahwe a bolela ka kotlolo go setšhaba sa Yisraele, se se meeleng ya botšhotšho."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yona⟩",
+      "rationale": "Seheberu se na le נגד preposition fela; Sepedi se nyaka lentšu le hlalosago."
+    }
+  ],
+  "translation": "Bonang, nna ke tla go hatla ka tlase ga lona, bjalo ge koloi ye e tletše mmedi e hatla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3400542624ddd8f06834b2537a23ae028b6fbca21d99a829049939fc0db559ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/2\/13-16.1792296147916.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מעיק",
+      "gloss": "ke tla go hatla"
+    },
+    {
+      "surface": "תחתיכם",
+      "gloss": "ka tlase ga lona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ge"
+    },
+    {
+      "surface": "תעיק",
+      "gloss": "e hatla"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "koloi"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "ye e tletše"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨yona⟩"
+    },
+    {
+      "surface": "עמיר",
+      "gloss": "mmedi"
+    }
+  ],
+  "timestamp": "2026-10-18T04:02:27.917525567Z",
+  "model": "glm-5.3"
+}

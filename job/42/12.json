@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 42:12",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "palobakeng ya disworkspace",
+      "rationale": "Direkoto tša khumo ka dipalo: 14 000 dinku, 6 000 dikamela, 1 000 diphere tša dikgomo, 1 000 ditonki tše tšadi — palo e le ka bobedi bja mathomong."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dinku",
+      "rationale": "צאן ke lentšu la kopano la dinku le dipudi; Sepedi o beile 'dinku' fela."
+    }
+  ],
+  "translation": "Gomme Yahwe o ile a thabetša ⟨את⟩ mafelelo a Iyobe go feta mathomong a gagwe; gomme go be go le go yena dikete tše lesome-nne tša dinku, le dikete tše tshela tša dikamela, le tše sekete tša diphere tša dikgomo, le tše sekete tša ditonki tše tšadi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a960b02eaf6dc25d26ec0a01424a845c6203eeb4c868bb9eeb53f1e88252881e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/42\/9-12.1792300982247.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Gomme Yahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "o ile a thabetša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafelelo a Iyobe"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "mafelelo a"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobe"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "go feta mathomong a gagwe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go be go le"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "nne"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "le tše tshela"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "גמלים",
+      "gloss": "dikamela"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "le tše sekete"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "diphere"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "le tše sekete"
+    },
+    {
+      "surface": "אתונות",
+      "gloss": "ditonki tše tšadi"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:02.248668630Z",
+  "model": "glm-5.3"
+}

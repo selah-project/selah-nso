@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "האתה זה",
+      "rationale": "Seheberu se re 'wena — yo mongwe?', potšišo ya go ngangišana; e phetološitšwe bjalo ka potšišo ya tlhagafatšo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עכר",
+      "rationale": "mantšu a mantšu a Sesotho: 'go tshwenya' — עכר ke go fodiša meetse, go fetola taelo ya sebopego sa ngwao"
+    },
+    {
+      "kind": "you",
+      "subject": "to Eliya",
+      "rationale": "Ahaba a bolela go Eliya ka bowena, potšišo ya go mo lebanya"
+    }
+  ],
+  "translation": "Gomme go direga ge Ahaba a bona ⟨את⟩ Eliya, Ahaba a mmuela a re: Ee, wena ke wena yo a tshwenyago Yisraele?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "504816e03c8e004468c2349f92b3c1f16f5a1ea567f4874d490f3afaf7fa58c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/18\/17-20.1792290244909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go direga"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ge a bona"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliya"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a mmuela"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ee, wena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ke wena"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "yo a tshwenyago"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:24:04.910091266Z",
+  "model": "glm-5.3"
+}

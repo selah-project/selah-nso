@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke boleng",
+      "rationale": "Sepedi e nyaka sehlaganyo, Seheberu se tlogela go se nago selo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צדיק",
+      "rationale": "toko — go ya ka D2, tsedeke e šomišwa bakeng sa tsedeke; mo ke tlhaka ya sehlabelo sa leina"
+    }
+  ],
+  "translation": "Lelomo la toko ke silibera ya go kgethwa; pelo ya bafosegi e nyenyane ⟨ke⟩ boleng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6004be6665a2f45108881f2f64729fd60c8ae796fc115f9b8e4f5324dc1b2616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/10\/17-20.1792299348643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ya go kgethwa"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lelomo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "la toko"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya bafosegi"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "e nyenyane ⟨ke⟩ boleng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:48.646121551Z",
+  "model": "glm-5.3"
+}

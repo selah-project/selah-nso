@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e swanetše go dula bjalo ka ruakh — moya, phefo le go hema ka lentšu le tee"
+    },
+    {
+      "kind": "idiom",
+      "subject": "boso la gagwe bo fiša",
+      "rationale": "ויחר אפו — bokao bo tlwaelegilego 'mafiša a gagwe': לחר אף, thabo ya go tuka; Sepedi o bolokitše sebopego sa 'boso'"
+    }
+  ],
+  "translation": "Gomme ruakh ya Elohim e ile ya tuma ka maatla go Shaele ge a kwa ⟨את⟩ mantšu a, gomme boso la gagwe bo ile ba fiša kudu.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d1fdf19e0aec7b7a0182e32cbe18bab4225c670421f3abaf49ea7f0b3759d005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/11\/5-8.1792288157917.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "gomme e ile ya tuma ka maatla"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaele"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "ge a kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantšu a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantšu a"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "gomme bo fiša"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "boso la gagwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T01:49:17.918708460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יום ליום · לילה ללילה",
+      "rationale": "puo e boeleditšwego ya 'letšatši go letšatši, bošego go bošego' — seboeledgo sa Sesemu se a bolokwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יביע",
+      "gloss": "'le nea' — נבע e ra go tšwa gohla ka mong wa meetse; ponagalo ya mahlwehla e fokotšegile"
+    }
+  ],
+  "translation": "Letšatši le ile la go letšatši le nea lentšu, gomme bošego go bošego le bontšha tsebo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d8287053d8f596e0214dd1b5c0435b86ff9547bcd3bbb54b7e30a0f6ab64ac4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/19\/1-4.1792297356443.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "go letšatši"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "le nea"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "gomme bošego"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "go bošego"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "le bontšha"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:36.444756362Z",
+  "model": "glm-5.3"
+}

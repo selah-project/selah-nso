@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עשהו",
+      "rationale": "Mothehi\/Mmopi — go swana le mothehi, eupša ke go tšwa go 'o dirile'"
+    },
+    {
+      "kind": "crux",
+      "subject": "היכלות",
+      "rationale": "Dipolase kgahlanong le matematempole — KJV 'temples', JPS 'palaces'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ארמנתיה",
+      "rationale": "Bopelana bja seboleki — KJV 'thereof' (ya yona), YLT 'their palaces'; Seheberu se bolela 'matlokwa a yona'"
+    }
+  ],
+  "translation": "Gomme Yisraele o ile a lebala ⟨את⟩ Mmopi wa gagwe, gomme a aga diheikale; gomme Yahuda o okeditše dioporofesi tše di tiilego; gomme ke tla romela mollo mererong ya yona, gomme o tla ja di-armone tša yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d532d7ad060efe1ecd558a908edcfab5e23df5d0d59e92a736c475e2f71b1fab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/8\/13-14.1792295982040.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "gomme o ile a lebala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mmopi wa gagwe"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "Mmopi wa gagwe"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "gomme a aga"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "diheikale"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "gomme Yahuda"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "o okeditše"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "diprofense"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "tše di tiilego"
+    },
+    {
+      "surface": "וישלחתי",
+      "gloss": "gomme ke tla romela"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "mererong ya yona"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "gomme o tla ja"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "di-armone tša yona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:59:42.041958262Z",
+  "model": "glm-5.3"
+}

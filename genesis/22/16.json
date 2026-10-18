@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בי",
+      "rationale": "Lit. 'in myself' — idiom 'by myself'; Yahwe swears by himself since there is none greater (cf. the oath formulary)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשבעתי",
+      "rationale": "Root שבע 'to seven oneself' — swearing as if repeating seven times; the number-pun is lost in Sepedi 'go ikana'."
+    },
+    {
+      "kind": "elision",
+      "subject": "כי יען",
+      "rationale": "Doubled causal 'because-since' of Hebrew collapsed into one Sepedi causal chain."
+    },
+    {
+      "kind": "you",
+      "subject": "to Abrahama",
+      "rationale": "The oracle directly addresses Abraham about his own act and son."
+    }
+  ],
+  "translation": "A re: Ka nna ka noši ke ikanne, go bolela Yahwe, gobane ka ge o dirile ⟨את⟩ taba ye, gomme o sa kgotle ⟨את⟩ morwa wa gago, ⟨את⟩ yo a nngwe fela.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "59a637f38ea4886c8d9765dc68a94f4f54d0dccffe142a53e679fe3362eeeb18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/22\/16-16.1792304539922.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna ka noši"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ke ikanne"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ka ge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba ye"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o sa"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "kgotle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa gago"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo a nngwe fela"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "yo a nngwe fela"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:19.922613864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מגוי",
+      "rationale": "'go tšwa go setšhaba' — e hlalosa go nyepešwa ga setšhaba ka botlalo."
+    },
+    {
+      "kind": "you",
+      "subject": "ba re: tlogelang",
+      "rationale": "Pušo ya manaba ya go bitša molao wa go nyepeša — invitation ya go kotula."
+    }
+  ],
+  "translation": "Ba re: Tlogelang, re di nyepe tša go se be setšhaba, gomme leina la Yisraele le se tlogelwe go gopola ⟨⟨ke⟩⟩ ka nako e oketšegago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "02b742150d4ccef43bc15a48940308aed19a29ffbbb711be031338dc81698646",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/83\/5-8.1792298291226.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "tlogelang"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "gomme re di nyepe"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "go tšwa go setšhaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme e sego"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "go gopola"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ka nako e oketšegago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:11.227128478Z",
+  "model": "glm-5.3"
+}

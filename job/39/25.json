@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 39:25",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go luma ga dikgoši",
+      "rationale": "רעם ke modumo wa phefo ya go luma; 'thunder of the captains' ke sekanami — fa se phetološitšwe bjalo ka go luma fela, se kwala gore dikgoši di luma ka lentšu."
+    },
+    {
+      "kind": "crux",
+      "subject": "בדי",
+      "rationale": "Badiši ba fapana: 'ge go pletša motšhoro' kgatlhanong le 'gare ga dihloropetšwa tša motšhoro' (kjv 'among the trumpets')."
+    }
+  ],
+  "translation": "Ge motšhoro o pletša, o re: Heaha! Gomme o nnuša ntoa kgole — go luma ga dikgoši le sehoe sa ntoa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2434cbbe391d2d827f50cab2df87e543657c7a0f3c5297e730cd3716553b6a8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/39\/25-28.1792300863999.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "motšhoro"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Heaha!"
+    },
+    {
+      "surface": "ומרחוק",
+      "gloss": "gomme kgole"
+    },
+    {
+      "surface": "יריח",
+      "gloss": "o nnuša"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "go luma"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ga dikgoši"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "gomme sehoe sa ntoa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:21:03.999980710Z",
+  "model": "glm-5.3"
+}

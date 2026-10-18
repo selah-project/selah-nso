@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 21:30",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונירם",
+      "rationale": "Dikgopolo tše pedi: 're ba thuntšhitše' (KJV\/ASV, go tšwa go yrh 'go thuntšha') kgahlanong le 'bolwetši bja bona bo timetše' (Wycliffe, go tšwa go ניר 'joke' le -ם)."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונשים",
+      "rationale": "Go tšwa go nshm 'go num\/fa go se tutue': 're ba senyeditše' goba 're ba rile gore ba se tutue' — ditšhaba di a fapana."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Cheshbone e timetše",
+      "rationale": "Mokgwa wa borutišo: go ka ba 'kegone ya Cheshbone e timetše' — abeletši ga a hlakang."
+    }
+  ],
+  "translation": "Re ba thuntšhitše; Cheshbone e timetše go fihla go Dibone, gomme re senyeditše go fihla go Nofake, woo o welago go fihla go Medeba.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1abd7f8370200f36086738e98cdeb118e69499015c65b1e1ba0dfb5932ee5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/21\/29-32.1792284961805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונירם",
+      "gloss": "Re ba thuntšhitše"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "e timetše"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Cheshbone"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla go"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Dibone"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "re senyeditše"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla go"
+    },
+    {
+      "surface": "נפח",
+      "gloss": "Nofake"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woo o welago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla go"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "Medeba"
+    }
+  ],
+  "timestamp": "2026-10-18T00:56:01.806115220Z",
+  "model": "glm-5.3"
+}

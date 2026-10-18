@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Tlogang, bana",
+      "rationale": "Mongwadi o laela bana gore a ba rute — sebakanyana sa thuto seo se latela."
+    },
+    {
+      "kind": "you",
+      "subject": "bana",
+      "rationale": "Puo e tobilego go bana, bao ba bitšwago go theeletša."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke tla",
+      "rationale": "Sebopego sa se tlang se nyaka mošomo wa go ba gona; Seheberu se bolela go ruta ka seswantšho sa go laela."
+    }
+  ],
+  "translation": "Tlogang, bana, theeletšang le ka; go bowa ga Yahwe ke tla le ruta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "95135d11609701d8a44ef03261bde90c730b5875a370fa116b056eba0a669052",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/9-12.1792297541674.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Tlogang"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "theeletšang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "go bowa ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ke tla le ruta"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:41.675452052Z",
+  "model": "glm-5.3"
+}

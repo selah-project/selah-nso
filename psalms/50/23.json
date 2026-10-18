@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושם דרך",
+      "rationale": "'go bea mokgwa' kgahlanong le 'go lokiša mokgwa' — Seheberu se re 'a beile mokgwa', go swana le go bea leoto tseleng."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Ga go את mo temaneng ye; sehlabelo sa tebogo se se šumišwa go ela hloko gore tebogo ke e kgolo."
+    }
+  ],
+  "translation": "Yo a hlabeleditšego tebogo o nkgodisa, gomme yo a beileng mokgwa wa gagwe ka go loka, ke tlo mo bontšha tokolohelo ya Elohim.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "36f95caf4e7529b958f44dff04393a274d778a2b4135969277f422c071f1cb07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/50\/21-23.1792297770214.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "yo a hlabeleditšego"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "tebogo"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "o nkgodisa"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "gomme yo a beileng"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "mokgwa wa gagwe"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ke tlo mo bontšha"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "tokolohelo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:30.215093508Z",
+  "model": "glm-5.3"
+}

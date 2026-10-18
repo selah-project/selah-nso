@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "molomo",
+      "rationale": "שפה ke sepheng; 'molomo' ke bokao bja yona bja tlwaelegilego"
+    },
+    {
+      "kind": "crux",
+      "subject": "לא כן",
+      "rationale": "'ga ya swana le bjalo' kgathanong le 'ga e lokela'; כה ו כן e hlakantšha go se swane le seo banegare ba se dirago"
+    }
+  ],
+  "translation": "Molomo wa banegare o hlahlanya tsebo; gomme pelo ya masetlae ga ya swana le bjalo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "37c8f20d94c77a270694137ac827fa8a9cf240f9f27269f655d367465573d74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/15\/5-8.1792299474666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "molomo wa"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "banegare"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "o hlahlanya"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "gomme pelo ya"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "masetlae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ya swana le bjalo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:57:54.669861754Z",
+  "model": "glm-5.3"
+}

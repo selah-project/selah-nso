@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diphao",
+      "rationale": "מוט ke phao ya go rwala araka; Seheberu se bolela ka diphao tše di nago le araka, e sego selo se sengwe"
+    },
+    {
+      "kind": "alternative",
+      "subject": "godimo ga yona",
+      "rationale": "עליהם e ka bo e bolela 'godimo ga bona' (balevi) goba 'godimo ga yona' (diphao); mo ke diphao"
+    }
+  ],
+  "translation": "Gomme bana ba balevi ba rwala ⟨את⟩ araka ya Elohim, bjalo ka ge Moshe a laetše, go ya ka lentšu la Yahwe, ka mangana a bona ka diphao, godimo ga yona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b8073f9fa50b217e2e00023ce5b3b97105c09693393778f51113af28c011ffb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/15\/14-15.1792305447940.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "ba rwala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araka"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "araka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laetše"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "go ya ka lentšu la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "ka mangana a bona"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "ka diphao"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "godimo ga yona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:37:27.941709366Z",
+  "model": "glm-5.3"
+}

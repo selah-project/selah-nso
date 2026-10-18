@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bakgolekwa",
+      "rationale": "הגולה — bagolekwa, ba ba kgolekiloeng Babilona; Sepedi ga se na lentšu le tee le fodilego ka botlalo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Seheberu se se hlaolela fela — yo a bonago — se sa ngwale sekopi"
+    },
+    {
+      "kind": "crux",
+      "subject": "bakgolekwa",
+      "rationale": "Diphetošo tše ntši di re 'ba ba warwego botšhabela'; Sepedi o šomiša 'bakgolekwa' — go swana le seripa sa gešo (tshepedišo e sego ya boitemogelo)"
+    }
+  ],
+  "translation": "Gomme ka moya woo o boleletšego go bakgolekwa mantšu ⟨את⟩ ka moka a Yahwe, ao ⟨o⟩ nthomilego go kgona go a bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3d5671995db213a02d1481b8dbfcf826876dadfe8014fbcfb11b17d127748886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/11\/25-25.1792294520918.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "gomme ka moya woo o boleletšego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "bakgolekwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantšu ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "⟨o⟩ nthomilego go kgona go a bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:35:20.918568199Z",
+  "model": "glm-5.3"
+}

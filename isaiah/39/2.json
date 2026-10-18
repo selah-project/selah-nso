@@ -1,0 +1,191 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 39:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכתה",
+      "rationale": "Seswantšho seo se sa tsejwago ka botlalo: 'dithoto' (KJV) kgotalo 'kgodišo ya nkhu' (YLT) — lentšu le tšwa go Nili, la kgwebišano"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בית ... בית",
+      "rationale": "Boemo bja 'ntlo' bo boeletšwa gate-gate — ntlo ya dithoto, ntlo ya didiriswa, ntlo ya gagwe — go bopa boitsipa bja temana"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נכתה",
+      "rationale": "Lentšu le tšwelela fela mo tanakeng"
+    },
+    {
+      "kind": "substitution",
+      "subject": "באצרתיו",
+      "rationale": "Sepedi se ntšha 'ditshololo' (mahlong a dintho tše dintši) go tšwa go 'bokgoba bja go boloka' bja Seheberu"
+    }
+  ],
+  "translation": "Gomme Khizkiyahu a thaba ka bona, a ba bontšha ⟨את⟩ ntlo ya dithoto tša gagwe: ⟨את⟩ silibera le ⟨את⟩ gauta le ⟨את⟩ dikgodišo tša nkhu le ⟨את⟩ mafura a mabotse, le ⟨את⟩ ntlo yohle ya didiriswa tša gagwe, le ⟨את⟩ tšohle tšeo di hweditšwego go ditshololo tša gagwe; ga go ra go ba le selo seo Khizkiyahu a sa ba bontšhago sona ka ntlong ya gagwe le mo bogošing ba gagwe ka boboši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "92cf5a8618657adb8e6650f5fc5d2d46d3593d873834521b4e7e0bd18ae2b604",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/39\/1-4.1792292056529.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "a thaba"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka bona"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "ויראם",
+      "gloss": "a ba bontšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya dithoto tša gagwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "dithoto"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "silibera"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "gauta"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgodišo tša nkhu"
+    },
+    {
+      "surface": "הבשמים",
+      "gloss": "dikgodišo tša nkhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura a mabotse"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "a mabotse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo yohle ya didiriswa tša gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "didiriswa tša gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tšohle tšeo di hweditšwego go ditshololo tša gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "di hweditšwego"
+    },
+    {
+      "surface": "באצרתיו",
+      "gloss": "go ditshololo tša gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "היה",
+      "gloss": "go ba le"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "selo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "ba bontšhago sona"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ka ntlong ya gagwe"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le mo bogošing ba gagwe ka boboši"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-18T02:54:16.530726207Z",
+  "model": "glm-5.3"
+}

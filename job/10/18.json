@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 10:18",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Nka be",
+      "rationale": "Seheberu se bolela fela 'ke hwile' (אגוע); sekopanyi sa kgethollo se okeditšwe go bontšha sephiri"
+    },
+    {
+      "kind": "crux",
+      "subject": "אגוע",
+      "rationale": "'Ke hwile' (boammaruri bja bjale, bjalo ka YLT) kgahlanong le sephiri 'e be o ka be o hwile' (KJV\/JPS); palešo ya Sepedi e latela sephiri ka gobane mafoko a 19 a latela"
+    }
+  ],
+  "translation": "Gomme ke ka baka la eng ge o ntšhitše mošompeng? ⟨Nka be⟩ ke hwile, gomme leihlo le ka se mpona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e8a6ecc5774c7140cc2e484883a4506ff4d668d72e36e24b7afc34da4346605f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/10\/18-19.1792305369581.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "Gomme ke ka baka la eng"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "mošompeng"
+    },
+    {
+      "surface": "הצאתני",
+      "gloss": "o ntšhitše"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ke hwile"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "gomme leihlo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se ke"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "la mpona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:09.582380972Z",
+  "model": "glm-5.3"
+}

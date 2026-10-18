@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 35:34",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שכן",
+      "rationale": "Root שכן twice — 'ke dulago gare ga yona … yo o dulago gare ga bana ba Yisraele' — Yahwe's dwelling among His people grounds the prohibition; root of Mishkane."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hlotša",
+      "rationale": "טמא (ceremonial defilement) and חניף (v33, moral pollution) both rendered hlotša; Sepedi needs one defilement verb where Hebrew keeps two distinct roots."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yisraele",
+      "rationale": "Negative imperative addressed to Israel, grounded in Yahwe's own presence in their midst."
+    }
+  ],
+  "translation": "Gomme le se ke la hlotša ⟨את⟩ lefase leo le lego go dula go yona, leo nna ke dulago gare ga yona; ka gobane nna ke Yahwe, yo o dulago gare ga bana ba Yisraele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c16118f94e46841ff816556e2762e266ae5912dda079e968e4ab17236057de89",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/35\/33-34.1792285427483.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme le se ke"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "la hlotša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "dulago"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go yona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ke dulago"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "gare ga yona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "yo o dulago"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T01:03:47.484372704Z",
+  "model": "glm-5.3"
+}

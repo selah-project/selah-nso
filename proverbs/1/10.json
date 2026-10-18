@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨le bona⟩",
+      "rationale": "Mohlahlami wa Sepedi o ngwalwa go hlathlaga gore o dumelelana le mang"
+    },
+    {
+      "kind": "you",
+      "subject": "morwa",
+      "rationale": "Puo e bušetšwa morweng — khalefo ya buka ye ka moka"
+    }
+  ],
+  "translation": "Morwa wa ka, ge bao ba direlang dibe ba go hlohleletša, o se ke wa dumelelana ⟨le bona⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9af6714ea55aa2485d349f22dda7c26a72b486da40a0a9b437c2a392860c255b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/1\/9-12.1792299148452.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Morwa wa ka"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ba go hlohleletša"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "bao ba direlang dibe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "dumelelana"
+    }
+  ],
+  "timestamp": "2026-10-18T04:52:28.452887562Z",
+  "model": "glm-5.3"
+}

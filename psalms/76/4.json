@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 76,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Sehlophi sa kgwaro se hlathwa ka sebopego sa tseleng — Seheberu se se tlogela ka go se bolele."
+    },
+    {
+      "kind": "crux",
+      "subject": "רשפי קשת",
+      "rationale": "Raspe — 'dihlohleletši\/mesebe ye e fofago' ya uta; ba fetoleli ba re 'mesebe' goba 'dihlohleletši tša mollo'."
+    }
+  ],
+  "translation": "Go moo ⟨o⟩ roletše mesebe ya uta, sesirhego le tšhoša le ntwa. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b3e6e4f83a5e7d21d280372508095ffecc2ba31fd50f2a769e20d4e3637ccd97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/76\/1-4.1792298187524.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "go moo"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "⟨o⟩ roletše"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "mesebe"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ya uta"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "sesirhego"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "le tšhoša"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "le ntwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:27.525656831Z",
+  "model": "glm-5.3"
+}

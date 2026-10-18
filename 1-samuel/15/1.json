@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 15:1",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Šaule",
+      "rationale": "Samuele o bolela ka go kgoši Šaule ka boomo, go mo laetša taelo ya Yahwe."
+    },
+    {
+      "kind": "addition",
+      "subject": "go ba",
+      "rationale": "Seheberu se re go tloditša go kgoši; go ba se okeditšwe gore Sepedi se lokie."
+    },
+    {
+      "kind": "crux",
+      "subject": "לקול דברי",
+      "rationale": "lentšu la mantsu — go theetša lentšu goba go obamela mantsu; diphetošebo tše ntši di fenya lentšu."
+    }
+  ],
+  "translation": "Gomme Samuele a bolela go Šaule: ⟨את⟩ nna Yahwe o ntšomile go go tloditša go ba kgoši godimo ga setšhaba sa gagwe, godimo ga Yisraele; gomme bjale theetša lentšu la mantsu a Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/15\/1-4.1792288230514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme … a bolela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaule"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o ntšomile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למשחך",
+      "gloss": "go go tloditša"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go ba kgoši"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setšhaba sa gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "gomme bjale"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "theetša"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "lentšu la"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantsu a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:50:30.515178149Z",
+  "model": "glm-5.3"
+}

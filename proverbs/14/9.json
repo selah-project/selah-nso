@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יליץ אשם",
+      "rationale": "Bolelo bo bofle: 'fools mock guilt' kgathanong le 'guilt mocks fools' (ASV); masilo e hlekisa sebe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "baboroko",
+      "rationale": "רצון ke bothabo bja go amogelwa, e sego fela 'favour'."
+    }
+  ],
+  "translation": "Masilo a hlekisa ⟨את⟩ sebe, gomme gare ga ba tolego go dula ⟨go⟩ baboroko.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "69afcab67d2b04cc3d035ddcb405694f97d806bcedb7294861e5089950dca0ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/14\/9-12.1792299390187.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Masilo"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "a hlekisa"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "gomme gare ga"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ba tolego"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "baboroko"
+    }
+  ],
+  "timestamp": "2026-10-18T04:56:30.188438165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 21:14",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "makgalelo",
+      "rationale": "אף ke nko\/notho ya kgalalelo — 'sefofosa' ke 'go kgoba nko', lentšu la Sepedi le lahlehetšwe ke seswantšho"
+    },
+    {
+      "kind": "crux",
+      "subject": "שחד",
+      "rationale": "'mpho ya go reka toka' kgahlanong le 'mpho' fela — Seheberu se bolela mpho yeo e rekago, e sego mpho ya botho"
+    }
+  ],
+  "translation": "Mpho ka sephiring e fofotša makgalelo; gomme mpho se kwetšwego sephuduhweng e fofotša bolalelo bjo bo maatla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "595f9d1f5eb61752745a8e1002f1ca541d2571cd0cf7d31fe1fa5c4c53caa88b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/21\/13-16.1792299606209.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ka sephiring"
+    },
+    {
+      "surface": "יכפה",
+      "gloss": "e fofotša"
+    },
+    {
+      "surface": "אף",
+      "gloss": "makgalelo"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "gomme mpho"
+    },
+    {
+      "surface": "בחק",
+      "gloss": "se kwetšwego sephuduhweng"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "bolalelo"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "bjo bo maatla"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:06.209834120Z",
+  "model": "glm-5.3"
+}

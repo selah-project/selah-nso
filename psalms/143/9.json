@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כסתי",
+      "rationale": "'O ile a ntšha sekgoba' vs 'o ile a ihlaola': go bapetšwa ga Searoma go dumelela bobedi; Sepedi se latela go ihlaola ('ke itshetšile')."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Pitšo ya ka kgauswi go Yahwe."
+    }
+  ],
+  "translation": "Ntšha me go manaba a ka, Yahwe; go go wena ke itshetšile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/143\/9-12.1792299071424.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ntšha me"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "go manaba a ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go go wena"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "ke itshetšile"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:11.424746264Z",
+  "model": "glm-5.3"
+}

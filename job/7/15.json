@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 7:15",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mafoko",
+      "rationale": "נפש ke moya wa bophelo, mphefu — e sego 'moya' woo o se nago leme kapa bona mmele fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "go feta marapo a ka",
+      "rationale": "מעצמותי — 'go feta bophelo bja ka' (LXX, KJV ya sesa) le 'go feta marapo a ka' (yatla) goba 'go feta sebopego se' — sephepho se sa go tsepamisa se sa tšwago go bona"
+    }
+  ],
+  "translation": "gomme mafoko a ka a kgethile go thlogotlologwa, a kgetha lehu go feta marapo a ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd39044740d7c572944c9015716ef9bbfe7dc89afba146913a7981b150cd6e07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/7\/13-16.1792300086854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבחר",
+      "gloss": "a kgethile"
+    },
+    {
+      "surface": "מחנק",
+      "gloss": "go thlogotlologwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mafoko a ka"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lehu"
+    },
+    {
+      "surface": "מעצמותי",
+      "gloss": "go feta marapo a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:08:06.855123158Z",
+  "model": "glm-5.3"
+}

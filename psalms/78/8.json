@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את אל",
+      "rationale": "aleph-tav mo go swaya El; ba bangwe ba bala 'e sego ya nnete go El' (את e swaya) kgahlanong le 'e sego ya nnete ya El' (את e tshepediša)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דור ... דור",
+      "rationale": "go bušetša ga 'dikologo' ga gabedi go bopa go se ye ntle; go dutše go le gona phetolelong"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח ruakh — moya\/phefo\/go hema; e sa fetolwe go 'moya' fela"
+    }
+  ],
+  "translation": "Gomme ba se ke ba ba bjalo ka bo-ntate ba bona, dikologo tše di ikantšago le tše di ganago; dikologo tšeo di sa lokisago pelo ya tšona, gomme ruakh ya tšona e sego ya nnete ⟨go⟩ ⟨את⟩ El.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2149cee6f13cc441aeedddc44382796a7489691504cdf8736fb1dcc788b90e77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/5-8.1792298239706.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba se ke"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba ba bjalo"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "bjalo ka bo-ntate ba bona"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dikologo"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "tše di ikantšago"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "gomme tše di ganago"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dikologo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e sa"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "lokisa"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya tšona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme e sego"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "ya nnete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh ya tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:19.707541980Z",
+  "model": "glm-5.3"
+}

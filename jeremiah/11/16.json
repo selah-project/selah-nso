@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 11:16",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "morara",
+      "rationale": "זית ke morara wa mokgoa — morara ke yona sepego sa Sepedi, eupša ga se morara wa dompse"
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Sepedi se nyaka modiredi wa nako go ṱišetša go tjentšha mollo"
+    },
+    {
+      "kind": "hapax",
+      "subject": "המולה",
+      "rationale": "Modumo wa phuthego, lentšu le lennyane le le sa bonwego kae kae kua Tanakh"
+    }
+  ],
+  "translation": "Morara o motala, o mobotse ka pono, o ntle ka mmušo wa one — Yahwe o bitšitše leina la gago. Ka modumo wa go bišana go segolo o tjentšhitše mollo o godimo ga wona, gomme mahlare a wona a senyegile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7bdac5e801bb1f575c2f497218be8354f3a51ad9294f89707edaf50c88a0fb93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/11\/13-16.1792293013947.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זית",
+      "gloss": "Morara"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "o motala"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "o mobotse"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ka mmušo"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "ka pono"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o bitšitše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ka modumo"
+    },
+    {
+      "surface": "המולה",
+      "gloss": "wa go bišana"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "go segolo"
+    },
+    {
+      "surface": "הצית",
+      "gloss": "o tjentšhitše"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "o godimo ga wona"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "gomme a senyegile"
+    },
+    {
+      "surface": "דליותיו",
+      "gloss": "mahlare a wona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:10:13.948805063Z",
+  "model": "glm-5.3"
+}

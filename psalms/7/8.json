@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 7:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שובה למרום",
+      "rationale": "'boela godimo' — KJV 'return thou on high' vs BSB 'take Your seat'; mo go boela go fapana le go dula"
+    },
+    {
+      "kind": "alternative",
+      "subject": "o bulele",
+      "rationale": "Go ka ba 'o boele godimo' — tlhaku ya Seheberu סובב boela"
+    }
+  ],
+  "translation": "Gomme phuthego ya ditšhaba e ka go dikologa, gomme o bulele godimo ga yona go godimo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fa6cabe524eb8ce65b1b736d8fc7760c35142e0a7ec8224f42d2e20b9181d70b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/7\/5-8.1792297143167.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועדת",
+      "gloss": "Gomme phuthego"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ya ditšhaba"
+    },
+    {
+      "surface": "תסובבך",
+      "gloss": "e ka go dikologa"
+    },
+    {
+      "surface": "ועליה",
+      "gloss": "gomme godimo ga yona"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "go godimo"
+    },
+    {
+      "surface": "שובה",
+      "gloss": "o bulele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:19:03.168007866Z",
+  "model": "glm-5.3"
+}

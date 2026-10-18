@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונגש",
+      "rationale": "Nagaš e ka ba 'go kgašwa' (KJV\/JPS) goba 'go lokiša' ka makgoba (YLt 'exacted'); Sepedi e latela kgašwa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איש...איש",
+      "rationale": "Phetišetšo ya 'motho ka motho' e bopa mohušo wa go gana go dula, se se latelwang ke dikgahlanong tše pedi tše di swanago."
+    }
+  ],
+  "translation": "Gomme setšhaba se tla kgašwa, motho ka motho, gomme motho ka mošakeng wa gagwe; moswananyana o tla itšhoša go mogolwang, le yo a fšeletšego go yo a kgethegilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8caa9ba7f17fbdff8bfa49a025950000c275335c4dfa940f91596b8922267569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/3\/5-8.1792291196841.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "gomme se tla kgašwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ka motho"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "gomme motho"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ka mošakeng wa gagwe"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "ba tla itšhoša"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "moswananyana"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "go mogolwang"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "le yo a fšeletšego"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "go yo a kgethegilego"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:56.841757147Z",
+  "model": "glm-5.3"
+}

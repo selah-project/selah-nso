@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 18:17",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bakgethi le bapeleti",
+      "rationale": "ha-Kereti we-ha-Peleti: maina a mme a šomišwa bjalo ka setšhaba sa baporofita kapa mephato ya bommaledi ba kgoši"
+    },
+    {
+      "kind": "idiom",
+      "subject": "goja la kgoši",
+      "rationale": "le-yad ha-melekh (go ja la kgoši) ke mošomo wa go ba le gona ga kgoši, sephetho sa go ba lekgauswi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Sepedi e nyaka khopanyi ye Seheberu se sa e nago"
+    }
+  ],
+  "translation": "Gomme Benajahu, mora wa Yehojada, ⟨o⟩ le godimo ga bakgethi le bapeleti; gomme bana ba Dafida, ba pele, ba le le goja la kgoši.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e521c17634f9877c4c711908cd9b1d5b5961892825b05424f8a14564db15574f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/18\/17-17.1792303260277.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "Gomme Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "wa Yehojada"
+    },
+    {
+      "surface": "על",
+      "gloss": "le godimo ga"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "bakgethi"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "le bapeleti"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "gomme bana"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ba Dafida"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ba pele"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "goja"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "la kgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T06:01:00.278019611Z",
+  "model": "glm-5.3"
+}

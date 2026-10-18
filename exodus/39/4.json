@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חברת\/חבר",
+      "rationale": "Go bušetša ga modu wa go kopana (ḥvr) gateetee — 'a kopantšwego … e kopantšwe' — se bolokwa ka go bušetša Sepedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "a yona",
+      "rationale": "Sebopiwa sa שׂo sa possessive se okeditšwe go fa bathuti ba Sepedi se sengwalwa gare ga magetla le epode."
+    }
+  ],
+  "translation": "Ba dira magetla a yona, a kopantšwego; ka mapheto a yona a mabedi e bile e kopantšwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b8924eb63c20d9764fda55356ca317894b0758e7cc28c3ab2316f192ee2636b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/39\/1-4.1792283448588.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "magetla"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba dira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a yona"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "a kopantšwego"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "mapheto a yona"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "e kopantšwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:30:48.592988400Z",
+  "model": "glm-5.3"
+}

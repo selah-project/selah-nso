@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 19:19",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebe",
+      "rationale": "הרע ke 'bobeele' goba 'sebe' — 'phoko' ya Sepedi e ka se šome; sebopego sa poleloana se bolokilwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זמם \/ לעשות",
+      "rationale": "Go boela ga 'dira' (עשׂוֹת ... לעשׂוֹת) go bopa tekano ya kahlolo le maano a mokiši"
+    }
+  ],
+  "translation": "gomme le tla mo dira seo a be a išegile go se dira go mogolowe; gomme o tla fediša sebe go tšwa gare ga gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ab4e65d3a425e3f948d1a6ca9018f26c24d8a0e31f939baf77914c7b109a76b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/19\/17-20.1792286003310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "le tla dira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "זמם",
+      "gloss": "a be a išegile"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go se dira"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "go mogolowe"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "o tla fediša"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "go tšwa gare ga gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:13:23.311668593Z",
+  "model": "glm-5.3"
+}

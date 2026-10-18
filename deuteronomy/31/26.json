@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 31:26",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paki",
+      "rationale": "לעד ke paki (witness), e sego nako e se nago mageto"
+    },
+    {
+      "kind": "crux",
+      "subject": "בך",
+      "rationale": "בְּךָ: 'kgahlanong le wena' (kgahlanong) goba 'go wena' (go) — ditlhopho tša ditlhahlobo"
+    }
+  ],
+  "translation": "Laelang ⟨את⟩ puku ye ya Torah, e beeyeng ka thoko ya lepokisi la kgwerano ya Yahwe Elohim ya lona, gore e dule gona bjalo ka paki kgahlanong le lona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a2e370d36449902049d90252d224cc6946aa39fea821ce460a00810cc4705b3a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/31\/25-28.1792286447296.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "Laelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "puku ye ya Torah"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "puku"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ya Torah"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "e beeyeng"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ka thoko"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ka thoko ya"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "lepokisi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "la kgwerano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gore e dule"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kgahlanong le lona"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "bjalo ka paki"
+    }
+  ],
+  "timestamp": "2026-10-18T01:20:47.296897040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Abrahama mohlanka",
+      "rationale": "KJV e bala gore o gopola pledge ya gage le Abrahama; Seheberu se hlatlogantšhwa fela — mohlanka ke mokatla wa bobedi."
+    }
+  ],
+  "translation": "Ka gobane o gopola ⟨את⟩ lentšu la bokgethwa bja gagwe, ⟨את⟩ Abrahama mohlanka wa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3bcf3e91c9d8187e15f2e68267f20a63cb29afad7a7819666188127303ab1450",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/41-44.1792298621713.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "o gopola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu la bokgethwa bja gagwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "bokgethwa bja gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mohlanka wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:41.713867847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 13:29",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "setopo",
+      "rationale": "נבלה ke setho se se hwerwego, se robegilego — e sego fela 'mmele'"
+    },
+    {
+      "kind": "elision",
+      "subject": "וישיבהו",
+      "rationale": "go boela go akaretša le go kgutlelisa setopo — go feletšego ka go tsena toropong"
+    }
+  ],
+  "translation": "Gomme moprofeta a tšea ⟨את⟩ setopo sa motho wa Elohim, a se bea godimo ga tonki, a boela gomme a tsena toropong ya moprofeta yo mogolo, go lla le go se loša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e3d70f42bfbcf1883f82828c8d12b31042d91561aac6ab6665f2b47ea5b7007f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/13\/29-32.1792290035278.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "a tšea"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moprofeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setopo"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "setopo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "a se bea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "tonki"
+    },
+    {
+      "surface": "וישיבהו",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropong ya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moprofeta"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "yo mogolo"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "go lla"
+    },
+    {
+      "surface": "ולקברו",
+      "gloss": "le go se loša"
+    }
+  ],
+  "timestamp": "2026-10-18T02:20:35.279048712Z",
+  "model": "glm-5.3"
+}

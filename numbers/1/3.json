@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mengwaga ye masomepedi",
+      "rationale": "Moedi wa mengwaga wa go bala masole"
+    },
+    {
+      "kind": "you",
+      "subject": "wena le Aharone",
+      "rationale": "Taereo thwii go Moshe le Aharone"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go bala",
+      "rationale": "פקד e bolela 'go etela, go hlahlamiša, go rulaganya' — go bala ke sephetho fela"
+    }
+  ],
+  "translation": "Go tšwa go mongwana wa mengwaga ye masomepedi le go godimo, yo mongwe le yo mongwe yo a tšwago go ya sesoleng sa Yisraele, le tla ba bala ⟨את⟩ go ya ka masole a bona — wena le Aharone.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6644281be4303ce7a73fdb58cbdaf9eb2f36d97306ae9dd0814bfe6bad26ccf0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/1\/1-4.1792284393112.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "go tšwa go mongwana"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "mengwaga ye masomepedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "le go godimo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "yo a tšwago"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "go ya sesoleng"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "sa Yisraele"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "le tla ba bala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "go ya ka masole a bona"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "go ya ka masole a bona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    }
+  ],
+  "timestamp": "2026-10-18T00:46:33.113812012Z",
+  "model": "glm-5.3"
+}

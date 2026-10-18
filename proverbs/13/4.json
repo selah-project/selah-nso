@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "keletselo",
+      "rationale": "נפש mo e bolela keletselo — 'moya' o be o tla tšoša tlhakanelwano le ruakh"
+    },
+    {
+      "kind": "alternative",
+      "subject": "e tla nona",
+      "rationale": "תדשן lefsa: 'go nona' ka bophara goba 'go tlatšwa' — dikgopolo ka bothakga"
+    }
+  ],
+  "translation": "Keletselo ya mowabi e nyaka, gomme ga go ⟨⟨את⟩⟩ selo; gomme keletselo ya bašomi ba tiilego e tla nona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "259a96b14145fe009f7903fcfe0970fec25774a3d828f3318011ba1428967c73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/13\/1-4.1792299447924.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "e nyaka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme ga go selo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "keletselo ya gagwe"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "mowabi"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "gomme keletselo ya"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "bašomi ba tiilego"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "e tla nona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:57:27.926143558Z",
+  "model": "glm-5.3"
+}

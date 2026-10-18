@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדקה e tsepeditšwe bjalo ka tsedeke go ya le D2, e sego tokamologo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ya \/ e",
+      "rationale": "Seheberu se se na le kopula le seiša; Sepedi se di nyaka"
+    }
+  ],
+  "translation": "Yo a rago tsedeke le kahlolo; hesede ya Yahwe e afule lefase.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/5-8.1792297519081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "yo a rago"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "gomme kahlolo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e afule"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:19.081695757Z",
+  "model": "glm-5.3"
+}

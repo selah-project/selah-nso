@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "Kept as ruakh per discipline; one Hebrew word covers wind\/breath\/spirit."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אנכי",
+      "rationale": "Emphatic 'but as for me' — Micah contrasts himself with the mercenary prophets of v.5; Sepedi 'Fela nna' keeps the contrast."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פשע \/ חטאת",
+      "rationale": "Paired near-synonyms rebellion\/transgression vs sin, matched by parallel Jacob\/Israel — kept as bofulo\/sebe pair."
+    }
+  ],
+  "translation": "Fela nna ke tletše maatla, ⟨את⟩ ruakh ya Yahwe, le kahlolo le maatla a magolo, go bolela go Yaakobo bofulo bja gagwe, le go Yisraele sebe sa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2680b664c7e946c26f44baf00f8b880f5be4781886087ef0e7fff611f0a6c890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/micah\/3\/5-8.1792296479139.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Fela"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ke tletše"
+    },
+    {
+      "surface": "כח",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le kahlolo"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "le maatla a magolo"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "go Yaakobo"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "bofulo bja gagwe"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "le go Yisraele"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "sebe sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:07:59.140747304Z",
+  "model": "glm-5.3"
+}

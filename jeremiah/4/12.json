@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "e tladegilego go tšwa go tše",
+      "rationale": "'a full wind from\/beyond these' — JPS reads 'too strong for these', KJV 'from those places'"
+    },
+    {
+      "kind": "you",
+      "subject": "go nna",
+      "rationale": "the wind comes 'for me' — YHWH speaks in the first person of judgment he himself brings"
+    }
+  ],
+  "translation": "Ruakh e tladegilego go tšwa go tše e ta go nna; bjale gape nna ke tla bolela dikahlolo ⟨את⟩ tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "522189bc4beb5ac7c576936390379b034031937826f9dc1c8273d9363df1e784",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/4\/9-12.1792292776652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e tladegilego"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "go tšwa go tše"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "e ta"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke tla bolela"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ tšona",
+      "marks": "tšona (dikahlolo)"
+    }
+  ],
+  "timestamp": "2026-10-18T03:06:16.654009571Z",
+  "model": "glm-5.3"
+}

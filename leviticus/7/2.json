@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "thuthafatšwa",
+      "rationale": "זרק — go hlakanya\/go thuthafatša; 'go phalla' be e ka ba go thuša, se se fapago."
+    },
+    {
+      "kind": "addition",
+      "subject": "a lona",
+      "rationale": "דמו ke e nngwe fela, eupša kudu ya go bolela selo se hlabellwago e nyaka sedirišwa."
+    }
+  ],
+  "translation": "Boemong bjo ba bolago ⟨את⟩ sebego sa go fišwa, ba tla bolaya ⟨את⟩ sehlabelo sa phoso, gomme ⟨את⟩ madi a lona a tla thuthafatšwa godimo ga aletare ka megokoloko.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "000c27701f6384e678ace380bcde0df4f5c26af47cf542d345bf65d8bb2cc244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/7\/1-4.1792283572979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "Boemong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bjo"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ba bolago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebego sa go fišwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sebego sa go fišwa"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "ba tla bolaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa phoso"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "sehlabelo sa phoso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Gomme ⟨את⟩",
+      "marks": "madi a lona"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a lona"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "a tla thuthafatšwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka megokoloko"
+    }
+  ],
+  "timestamp": "2026-10-18T00:32:52.980442520Z",
+  "model": "glm-5.3"
+}

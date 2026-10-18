@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a nyefola",
+      "rationale": "טמא ke go dira se se se hlwekilego ka mešomo; 'go nyefola' ke sekwešo, 'go hlwekisa ka lefsifsi' ke boimagono"
+    },
+    {
+      "kind": "crux",
+      "subject": "go fetaša",
+      "rationale": "להעביר באש: 'go fetaša ka mollo' (molao wa go fetaša) kgahlanong le 'go fiša ngoana' — Seheberu se re 'go fetaša', se se sa bolelego go hlakantšha ka botlalo"
+    }
+  ],
+  "translation": "Gomme o ile a nyefola ⟨את⟩ Tophete, yeo e lego lekateng ya bana ba Hinome, gore motho a se ke a fetaša ⟨את⟩ morwa wa gage le ⟨את⟩ morwadiwa ka mollo go Moleke.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c493ed7b8e435d9efa04da4508e918ad2850d751de332aa995d4b506d4460edf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/23\/9-12.1792291065057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "gomme o ile a nyefola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tophete"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "Tophete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo e lego"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "lekateng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Hinome"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "gore a se ke"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "go fetaša"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa gage"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "morwa wa gage"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "morwadiwa"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "morwadiwa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go Moleke"
+    }
+  ],
+  "timestamp": "2026-10-18T02:37:45.058671929Z",
+  "model": "glm-5.3"
+}

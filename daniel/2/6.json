@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 2:6",
+  "book": "daniel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ויקר",
+      "rationale": "Aramaic יקר (honor\/glory) rendered tlotlo, joining with שגיא 'ye kgolo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sehlatho",
+      "rationale": "Aramaic פשר (pesar) is dream-interpretation; no single Sepedi word, sehlatho sa yona keeps it bound to the dream."
+    },
+    {
+      "kind": "you",
+      "subject": "kgoši",
+      "rationale": "The king addresses the Chaldeans directly with promises and imperatives."
+    }
+  ],
+  "translation": "Gomme ge fela lo bontšha ⟨את⟩ toro le sehlatho sa yona, le tla amogela mpho le seabi le tlotlo ye kgolo go tšwa go nna; ka fao, bontšha ⟨⟨ke⟩⟩ toro le sehlatho sa yona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "521834b6885b218a0beeb09a0ef909f1def8a69295279373d79881a414f4deeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/2\/6-7.1792305401813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והן",
+      "gloss": "gomme ge fela"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "toro"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "le sehlatho sa yona"
+    },
+    {
+      "surface": "תהחון",
+      "gloss": "lo bontšha"
+    },
+    {
+      "surface": "מתנן",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "ונבזבה",
+      "gloss": "le seabi"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "le tlotlo"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "ye kgolo"
+    },
+    {
+      "surface": "תקבלון",
+      "gloss": "le tla amogela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "קדמי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "להן",
+      "gloss": "ka fao"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "toro"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "le sehlatho sa yona"
+    },
+    {
+      "surface": "החוני",
+      "gloss": "bontšha"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:41.813747262Z",
+  "model": "glm-5.3"
+}

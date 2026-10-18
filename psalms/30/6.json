@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 30:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelaelo",
+      "rationale": "אף semaheberu ke nko\/sefahleho; 'pelaelo' (sebete sa thalo) ke bothopoji bja Sesemera — tšohle tše pedi di šumišwa."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sephengweng sa leihlo",
+      "rationale": "רגע ke 'go phengwa leihlo' — nako ye nnyane kudu; e phetološitšwe ka mo go loka, e sego 'sekgele'."
+    },
+    {
+      "kind": "elision",
+      "subject": "gonne go dula",
+      "rationale": "ילין e bolela 'go dula bosigo'; 'bosigo' bo phethilwe ka 'bošegong' pele ga lona."
+    }
+  ],
+  "translation": "Ka gobane sephengweng sa leihlo — tša pelaelo ya hae; bophelo — ka thato-kgotso ya hae; bošegong mahuhu a dula gonne go dula, mesong košo ya thabo e tla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/30\/5-8.1792297465342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "sephengweng sa leihlo"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "tša pelaelo ya hae"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "ברצונו",
+      "gloss": "ka thato-kgotso ya hae"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "bošegong"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "a dula gonne go dula"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "mahuhu"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "gomme mesong"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "košo ya thabo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:25.342890627Z",
+  "model": "glm-5.3"
+}

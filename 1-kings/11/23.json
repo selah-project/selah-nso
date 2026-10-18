@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lenaba",
+      "rationale": "śāṭān — «lenaba», se-bitšo sa mo golang; ga se leina la Sathane fela, ke motho yo a ganago"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאת",
+      "rationale": "min-ʾet — «go tšwa go» le ⟨את⟩; kopanyo ya leswa la go tšwa le aleph-tav"
+    }
+  ],
+  "translation": "Gomme Elohim a mo godimetša lenaba, ⟨את⟩ Rezoni, mora wa Eliyadaa, yo a biletšego go tšwa go ⟨את⟩ Hadadezere, kgosi ya Zoba, mong wa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "50e44149a296b467b4feaeb0da6958188ba239c2641611acbd37e758cbc065c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/11\/21-24.1792290091098.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Gomme a godimetša"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "lenaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rezoni"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Rezoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eliyadaa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "a biletšego"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tšwa go ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadezere"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgosi ya"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Zoba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mong wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:21:31.099820023Z",
+  "model": "glm-5.3"
+}

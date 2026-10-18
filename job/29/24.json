@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 29:24",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ba sa le diše",
+      "rationale": "יפילון ba ka se se diše: BSB e aga 'e be le theko' go tšwa go kago e sa fetogego; KJV\/JPS di bolokile sebopego sa go diša lesedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsega",
+      "rationale": "שחק e bolela go tsega goba go sekgofatša — mo e sekgofatšo ya moya o mobotse, e sego tshego ya kgopolo"
+    }
+  ],
+  "translation": "Ge ke ile ka tsega go bona, ba ka se dumele; gomme lesedi la sefahlego sa ka ba sa le diše.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e7f5fc118e4cb1913a577ec671570ec9bf84b05b3ac951106ed86a87e7489242",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/29\/24-24.1792305375563.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשחק",
+      "gloss": "ke ile ka tsega"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יאמינו",
+      "gloss": "ba ka se dumele"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "gomme lesedi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "la sefahlego sa ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יפילון",
+      "gloss": "ba sa le diše"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:15.564357759Z",
+  "model": "glm-5.3"
+}

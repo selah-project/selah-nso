@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "thabja",
+      "rationale": "דרור ke nonyana ya lewatle ya swana le thabja (swift\/swallow); e se leina la batho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "magareng a aletare",
+      "rationale": "Seheberu se re feela 'את aletare ya gago' — 'magareng a' ke tlhalošo ya boahlaodi, e hapilwe go tšwa go temanamana ya thekgo"
+    },
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "'e' ya go šomišwa ga e gona go Seheberu (בית ga e na article ya Sepedi, e tlaleletšwe ka go bonwa fela)"
+    }
+  ],
+  "translation": "Le nonyana e hweditše ntlo, gomme thabja e dirile bola la yona, moo e beileng dinonyananyana tša yona, ⟨את⟩ magareng a aletare ya gago, Yahwe Tsebaote, kgoši ya ka le Elohim ya ka!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e0bbe97ccb636b5c7414918b9b102d28318473676f617e6b66fb0bc1a4d14788",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/84\/1-4.1792298384769.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "nonyana"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "e hweditše"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "gomme thabja"
+    },
+    {
+      "surface": "קן",
+      "gloss": "bola"
+    },
+    {
+      "surface": "לה",
+      "gloss": "la yona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "e beileng"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "dinonyananyana tša yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aletare ya gago"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "aletare ya gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kgoši ya ka"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "le Elohim ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:44.770868789Z",
+  "model": "glm-5.3"
+}

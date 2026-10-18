@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 10:5",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebete sa ditsela",
+      "rationale": "בטיט חוצות ke 'leswe la ntle\/ditsela' — mme ba kgwediša maaba, go sa ba bolele Seheberu ka botlalo"
+    },
+    {
+      "kind": "elision",
+      "subject": "חוצות",
+      "rationale": "lentšu le bolela 'ntle\/mahlakoreng a dikgoro'; 'ditsela' ke go kgaotša bokao bja lefelo la ntle"
+    }
+  ],
+  "translation": "Gomme ba tla ba bjalo ka bagodi, ba kgweditše sebete sa ditsela ka ntweng, gomme ba lope, ka gobane Yahwe o le bona, gomme ba hlaje bakaedi ba dipitse.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9673acada831d6f6b8a432867083438694cd5935c0468f51ebe476f7e49a291b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/10\/5-8.1792297014370.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ba tla ba"
+    },
+    {
+      "surface": "כגברים",
+      "gloss": "bjalo ka bagodi"
+    },
+    {
+      "surface": "בוסים",
+      "gloss": "ba kgweditše"
+    },
+    {
+      "surface": "בטיט",
+      "gloss": "sebete"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "sa ditsela"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ka ntweng"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "gomme ba lope"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "o le bona"
+    },
+    {
+      "surface": "והבישו",
+      "gloss": "gomme ba hlaje"
+    },
+    {
+      "surface": "רכבי",
+      "gloss": "bakaedi"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ba dipitse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:16:54.371568851Z",
+  "model": "glm-5.3"
+}

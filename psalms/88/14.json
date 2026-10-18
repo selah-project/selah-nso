@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תקדמך",
+      "rationale": "KJV 'prevent' ka bošeng bja lentšu la kgale (go tla pele); 'go swanela' goba 'go kopana le wena' — go latediša thapelo e gorilego go Yahwe."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Mopedi o bolela ka Yahwe ka lebijo la thwii."
+    }
+  ],
+  "translation": "Empa nna, go wena, Yahwe, ke ile ke lla; gomme bosasa thapelo ya ka e tla go swanela ⟨gago⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3c3eff354bf1ac25a5a0e5308c92c07f1b584ab82d017c95d8e0f745392d71a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/88\/13-16.1792298366882.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "empa nna"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ke ile ke lla"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "gomme bosasa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "e tla go swanela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:26.882993208Z",
+  "model": "glm-5.3"
+}

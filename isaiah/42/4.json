@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ירוץ",
+      "rationale": "Pointed from רצץ 'be crushed' (JPS 'be crushed', YLT 'bruised') vs some read רוץ 'be hasty\/disquieted' (KJV 'discouraged')."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כהה",
+      "rationale": "Same root as verse 3's dim wick — the servant himself will not 'grow dim', binding the two verses together."
+    },
+    {
+      "kind": "alternative",
+      "subject": "a tla kgwatla",
+      "rationale": "Reading 'he will not be shattered' rather than 'he will not shatter (others)', matching verse 3's reed he does not break."
+    }
+  ],
+  "translation": "Ga a tla ofa pela gomme ga a tla kgwatla, go fihlela a bea kahlolo lefaseng; gomme go Torat ya gagwe mahlakore a lewatle a tla emetša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/42\/1-4.1792292205582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "a tla ofa pela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "a tla kgwatla"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefasing"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "gomme go Torat ya gagwe"
+    },
+    {
+      "surface": "איים",
+      "gloss": "mahlakore a lewatle"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "a tla emetša"
+    }
+  ],
+  "timestamp": "2026-10-18T02:56:45.583830990Z",
+  "model": "glm-5.3"
+}

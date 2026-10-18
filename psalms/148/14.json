@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 148:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 148,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lentšu la maatla",
+      "rationale": "קרן ke 'lenaka' — seswantšho sa maatla; 'lenaka' ka Sepedi e beile letšatši le tee gomme e ka se šome."
+    },
+    {
+      "kind": "you",
+      "subject": "go setšhaba sa Yisraele",
+      "rationale": "'Dumeng, lena Yah!' — go lebiša dikgoši tša semoleng pele, se feleletša psalme ka yona."
+    },
+    {
+      "kind": "crux",
+      "subject": "go dumela ga bana ba Yisraele",
+      "rationale": "Go sa utolle ga lamed (ל) go לכל, לבני: 'go duma bakeng sa' goba 'dumo la' — ditlhopho tša kgale di fapana."
+    },
+    {
+      "kind": "addition",
+      "subject": "lentšu la maatla",
+      "rationale": "'la' — e ngwetšwe go hlalosa sebopiwa sa Seheberu sa קרן."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "Haleluya — go duma + Yah; Lentšu la Sepedi 'Dumeng, lena Yah' le ka se lokiše khopho ya modumo wo."
+    }
+  ],
+  "translation": "Gomme o tloditše lentšu la maatla la setšhaba sa gagwe, go duma ga bao ba mo ratago ka moka, go bana ba Yisraele, setšhaba se se kgauswi le yena. Dumeng, lena Yah!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a5bbcb0beb00f7f3fc978e43535203bba88b14031399f6bdaef66693da220704",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/148\/13-14.1792299085925.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "Gomme o tloditše"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "lentšu la maatla"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "la setšhaba sa gagwe"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "go duma"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ga ... ka moka"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "bao ba mo ratago"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "se se kgauswi le yena"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dumeng, lena"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:25.926145129Z",
+  "model": "glm-5.3"
+}

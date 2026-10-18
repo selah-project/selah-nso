@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "המכה",
+      "rationale": "'thulano' — Seheberu se re 'mokgwa wa go kgweditša' (המכה, mokgwa); go ba kudu mo go 'thulano ye kgolo'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "שלשים אלף רגלי",
+      "rationale": "Palo ya banna ba mašometharo a dikete (30 000) ba maato — go hlakantšhwa dipalo tša leswe."
+    }
+  ],
+  "translation": "Gomme Ba-Pelisita ba lwa, gomme Yisraele a fenwa, gomme motho a balekela ka ntlwaneng ya gagwe; gomme thulano e be e kgolo kudu, gomme go wa ga Yisraele banna ba mašometharo a dikete, ba maoto.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "16d7b78cf09d5dabfc13c340a9784c7649c459da851a287886b199f3d0ab3824",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/4\/9-12.1792287969988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "Gomme ... ba lwa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Pelisita"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "a fenwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "a balekela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "ka ntlwaneng ya gagwe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "gomme ... e be"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "thulano"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "gomme go wa"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ga Yisraele"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ba mašometharo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a dikete"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ba maoto"
+    }
+  ],
+  "timestamp": "2026-10-18T01:46:09.989199637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "poured out like milk, curdled like cheese",
+      "rationale": "Image of gestation as milk poured and curdled; rendered literally since the picture is the point."
+    },
+    {
+      "kind": "crux",
+      "subject": "גבינה",
+      "rationale": "'Curdled milk' vs 'cheese' — the word is curd, not finished cheese."
+    }
+  ],
+  "translation": "A ga wa ntlhaja bjalo ka lebala, gomme bjalo ka sesego sa lebala o nkgomola?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5b244dc857c8dc500384d425383971a53fb7804a31da230e00b822d82ca665e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/10\/9-12.1792300206642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "A ga (potšišo)"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "bjalo ka lebala"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "wa ntlhaja"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "gomme bjalo ka sesego sa lebala"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "o nkgomola"
+    }
+  ],
+  "timestamp": "2026-10-18T05:10:06.642746286Z",
+  "model": "glm-5.3"
+}

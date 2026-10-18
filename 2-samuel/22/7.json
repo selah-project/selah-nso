@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 22:7",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ya ka \/ wa ka",
+      "rationale": "leswao la ⟨…⟩ ga le hlokagale — Seheberu se na le di-suffix tša motho wa pele"
+    },
+    {
+      "kind": "substitution",
+      "subject": "le leo",
+      "rationale": "ושועתי ke go lelela ga thušo, e sego 'cry' fela"
+    }
+  ],
+  "translation": "Ka therisano ya ka ke bitše Yahwe, gomme go Elohim wa ka ke bitša, a kwa lentšu la ka go tempole ya gagwe, le leo la ka go dikutlo tša gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/22\/5-8.1792289343625.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "ka therisano"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya ka"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke bitše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme go"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke bitša"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "a kwa"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "go tempole ya gagwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentšu la ka"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "le leo la ka"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "go dikutlo tša gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:09:03.626377081Z",
+  "model": "glm-5.3"
+}

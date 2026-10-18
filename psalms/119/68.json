@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טוב \/ מטיב",
+      "rationale": "Root טוב three times in one verse (adjective, pronoun, participle) — the stanza's refrain, partially lost in Sepedi repetition."
+    },
+    {
+      "kind": "invitation",
+      "subject": "go gotša",
+      "rationale": "Imperative 'm rutše' again — the teaching plea anchors the stanza."
+    }
+  ],
+  "translation": "O molemo, gomme o dira molemo; m rutše melao ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/65-68.1792298868005.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "o molemo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "gomme o dira molemo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "m rutše"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melao ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:48.006235731Z",
+  "model": "glm-5.3"
+}

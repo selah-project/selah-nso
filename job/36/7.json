@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 36:7",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ואת מלכים",
+      "rationale": "'And with kings' (את as preposition 'with', subject = the righteous) vs את as DOM marker with kings as object; rendered 'le ⟨את⟩ dikgoši' keeping the marker."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יגרע",
+      "rationale": "'He lessens\/scrapes off' rendered as 'a tloše' (withdraws) after the idiom 'not withdraw his eyes'."
+    }
+  ],
+  "translation": "Ga a tloše mahlo a gagwe go tokolo; gomme le ⟨את⟩ dikgoši setulong sa bogoši a ba bediša ka nako e sa felego, gomme ba phagama.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "78e5cf3a1af13bdb455f47633abea07ade59989055aec705fe3bc00747b378e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/36\/5-8.1792300707365.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ga"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "a tloše"
+    },
+    {
+      "surface": "מצדיק",
+      "gloss": "go tokolo"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme le ⟨את⟩",
+      "marks": "dikgoši"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "setulong sa bogoši"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "a ba bediša"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka nako e sa felego"
+    },
+    {
+      "surface": "ויגבהו",
+      "gloss": "gomme ba phagama"
+    }
+  ],
+  "timestamp": "2026-10-18T05:18:27.366494297Z",
+  "model": "glm-5.3"
+}

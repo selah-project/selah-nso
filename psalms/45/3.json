@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יפיפית",
+      "rationale": "Bopele bja moedi bja יפה b boeledwa (pi'el bo feteletseng) — 'o ntle-ntlile' — bopele bjo bo a nyelela ka Sepedi"
+    },
+    {
+      "kind": "you",
+      "subject": "kgoši",
+      "rationale": "Boledišano bja go lebana le kgoši — psalme ye ke lerumo la lenyalo la kgoši"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim",
+      "rationale": "Leina le bolokwa bjalo ka Elohim; go fetolela go 'Modimo' go nyametše seo Seheberu se se boletšego"
+    }
+  ],
+  "translation": "O ntle kudu go feta bana ba batho; mohau o tsentšwe molomong wa gago; ka baka la seo Elohim o go loketše go narara.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2f0ced1bac9db241d0082f3c5f0d669dda6b700031a2644694911d4ac6ca1979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/45\/1-4.1792297805334.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "o ntle kudu"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "go feta bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "o tsentšwe"
+    },
+    {
+      "surface": "חן",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "molomong wa gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "o go loketše"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go narara"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:05.335739744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "se o senye",
+      "rationale": "'Al-tascheth' — mantšu a mathomo a seredo se se tsejwago, a se fetolelwe; 'O se ke wa senya' kgathanong le go di boloka bjalo ka leina la seredo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "molaodi",
+      "rationale": "lamnatseakh — moetapele wa mmino wa tempele, 'yo a hlakanegago'"
+    }
+  ],
+  "translation": "Go ya go molaodi. Se o senye. Sehlabelo sa Asafe, seredo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/75\/1-4.1792298203785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go ya go molaodi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "o senye"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "sa Asafe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "seredo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:43.786215476Z",
+  "model": "glm-5.3"
+}

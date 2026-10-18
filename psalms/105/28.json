@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ba sa gane",
+      "rationale": "מרו: ba ba bolelago 'ba sa gane' (KJV\/JPS) kgahlanong le 'ba gantše' (BSB) — sebopego sa Seheberu se dumelela bobedi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשך\/ויחשך",
+      "rationale": "go boa ga modumo: lefsifsi la romilwa, la tšhwafala — mokgwa o mogolo wa temana ye."
+    }
+  ],
+  "translation": "O romile lefsifsi, gomme la tšhwafala, gomme ba sa gane ⟨את⟩ lentšu la yena.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "05c57c2cf5aae6a37d7f7542b42c9cf28e7080ba340d6d4f3ea578ab390c7e8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/28-28.1792305242742.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "O romile"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "gomme la tšhwafala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba sa"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "gane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu la yena"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "lentšu la yena"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:02.742632741Z",
+  "model": "glm-5.3"
+}

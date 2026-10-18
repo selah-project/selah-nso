@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bana ba lehu",
+      "rationale": "בני תמותה e ra re 'bana ba lehu' — ba tšerwago e le ba tlogošwa, e sego 'bao ba filwego lehu' ka go oketša."
+    },
+    {
+      "kind": "alternative",
+      "subject": "go golosa",
+      "rationale": "לפתח e ra 'go bula'; 'go golosa' ke kwalo ya bobedi ya kgolwa."
+    }
+  ],
+  "translation": "Go kwa go huwa ga kgolegwa; go bula bana ba lehu;",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1a911999b1db84bce8f509248ec33996601627511da2e7176016adf9601d03eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/102\/21-24.1792298589236.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "go kwa"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "go huwa ga"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "kgolegwa"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "go bula"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "lehu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:09.236661485Z",
+  "model": "glm-5.3"
+}

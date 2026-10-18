@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ברוך",
+      "rationale": "ברוך le hlalosa 'go knotha \/ go laka' — 'o mobotse' ke sebopego sa molaeta; go knotha ga se hlalose."
+    },
+    {
+      "kind": "addition",
+      "subject": "le",
+      "rationale": "Popapamiwa ya bontši (you-plural) ye Seheberu se e nagago ka -כם e nyaketšwe ke 'le' ka Sepedi."
+    }
+  ],
+  "translation": "O mobotse yo a tsenago ka leina la Yahwe; re le laketše go tšwa ntlong ya Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "423fcb5bb7c63838a43f11f8960499c7c60d08c01731e006547b6ef3b81f10a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/118\/25-28.1792298814958.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "o mobotse"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "yo a tsenago"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "re le laketše"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "go tšwa ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:54.959256782Z",
+  "model": "glm-5.3"
+}

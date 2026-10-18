@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ותמלא … ותמלא",
+      "rationale": "Repetition 'their land is full … their land is full' frames the verse; the parallel doubling is kept."
+    },
+    {
+      "kind": "addition",
+      "subject": "tša ntwa",
+      "rationale": "Sepedi koloi means cart; 'of war' supplied to mark the chariot's shape."
+    }
+  ],
+  "translation": "Gomme lefase la bona le tletše silibera le gauta, gomme ga go phetho ya diphemelo tša bona; gomme lefase la bona le tletše dipitse, gomme ga go phetho ya dikoloi tša bona tša ntwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "85fde5a37a8d74778913c099a1e4084c38d03e287e781189f57011cdddf45c56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/2\/5-8.1792291141653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "gomme … le tletše"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "lefase la bona"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "gomme gauta"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme ga go ⟨go⟩"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "phetho"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "ya diphemelo tša bona"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "gomme … le tletše"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "lefase la bona"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "dipitse"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme ga go ⟨go⟩"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "phetho"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "ya dikoloi tša bona tša ntwa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:01.654227526Z",
+  "model": "glm-5.3"
+}

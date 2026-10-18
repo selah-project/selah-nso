@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ידים",
+      "rationale": "'ka manwana' — seapodišo sa go pharaletša, go swana le Genesi 34:21"
+    },
+    {
+      "kind": "substitution",
+      "subject": "רמש",
+      "gloss-note": "",
+      "rationale": "רמש = digagabi, tše di gagabago, go swana le taelo ya D4b"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ואין מספר",
+      "rationale": "go se bale ga diphoofolo — go balwa go gana"
+    }
+  ],
+  "translation": "Se ke lewatle legolo le le pharaletšego ka manwana; moo go nago le digagabi tše di sa balwego, diphologolo tše nnyane mmogo le tše kgolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/25-28.1792298574098.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "legolo"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "gomme le pharaletšego"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ka manwana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "digagabi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "tše di sa"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "balwego"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "diphologolo"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "tše nnyane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "mmogo le"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "tše kgolo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:54.098765920Z",
+  "model": "glm-5.3"
+}

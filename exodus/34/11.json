@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Hlokometša o ikwele",
+      "rationale": "Opening imperative of the covenant duties: a summons addressed directly to Moshe."
+    },
+    {
+      "kind": "you",
+      "subject": "to Moshe",
+      "rationale": "Second-person singular command and promise throughout the verse."
+    },
+    {
+      "kind": "idiom",
+      "subject": "שמר לך",
+      "rationale": "Hebrew idiom 'guard for yourself' — Sepedi 'Hlokometša o ikwele' keeps the reflexive emphasis."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dithšhaba tše tshelelo",
+      "rationale": "Fixed list of six Canaanite nations — an enumerated totality, part of the covenant inventory."
+    }
+  ],
+  "translation": "Hlokometša o ikwele ⟨את⟩ seo nna ke go laetšago gomlemo — bonwe, nna ke ntšha go pele ga gago ⟨את⟩ Emori, le Kenaane, le Khete, le Perize, le Hife, le Yebuse.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "d24f0ac39d4241bfe38a562b7877c373dada955fe652b4b319291dd1bba1c155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/34\/10-11.1792304713801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Hlokometša"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o ikwele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo nna ke go laetšago gomlemo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ke go laetšo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gomlemo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonwe nna"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ke ntšha"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "go pele ga gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "le Kenaane"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "le Khete"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "le Perize"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "le Hife"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le Yebuse"
+    }
+  ],
+  "timestamp": "2026-10-18T06:25:13.803072911Z",
+  "model": "glm-5.3"
+}

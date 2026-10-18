@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 121,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ינום \/ יישן",
+      "rationale": "Mantšu a mabedi a go robala (go robala ka bonnyane le go robala) a a latelago — go fapana gare ga ga one ga a bolokege gabotse ka Sepedi."
+    },
+    {
+      "kind": "elision",
+      "subject": "copula",
+      "rationale": "Seheberu ga se na kopanya gare ga ga 'ga a robala' le 'moloki'; mothaladi o tla bo a lokilego."
+    }
+  ],
+  "translation": "Thwi, ga a robale ka bonnyane gomme ga a robala — moloki wa Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8f07faf0f11916aa1ad6ab96a29c64b818bcebbde0b41505d274b77833588e39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/121\/1-4.1792298894331.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "thwi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "a robale ka bonnyane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "a robala"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "moloki"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:14.332699737Z",
+  "model": "glm-5.3"
+}

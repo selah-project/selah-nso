@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 11:21",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "o robetše le bo-ntatewa gagwe",
+      "rationale": "šăkav ʿim ʾăbōtāv — go robala le bo-ntate, theko ya go hwetša; sephetho se ka se fetolelwe ka mo go tlwaelegilego"
+    },
+    {
+      "kind": "elision",
+      "subject": "ארצי",
+      "rationale": "lekopanyi labitsong la sesothumotšo le feletše ka «lefaseng la ka» go hlalosa go swana le Seheberu"
+    }
+  ],
+  "translation": "Gomme Hadada a kwa ba Mitsrayime gore Dafida o robetše le bo-ntatewa gagwe, le gore Yoabe, molaodi wa sesole, o hwetše; gomme Hadada a re go Farao: Ntloše, ke ye lefasing ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "50e44149a296b467b4feaeb0da6958188ba239c2641611acbd37e758cbc065c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/11\/21-24.1792290091098.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדד",
+      "gloss": "Gomme Hadada"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "a kwa"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ba Mitsrayime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "o robetše"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntatewa gagwe"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "le gore"
+    },
+    {
+      "surface": "מת",
+      "gloss": "o hwetše"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "שר",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "wa sesole"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadada"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Ntloše"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "ke ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "la ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:21:31.099432721Z",
+  "model": "glm-5.3"
+}

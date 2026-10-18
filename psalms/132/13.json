@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨gagwe⟩",
+      "rationale": "Sepedi e nyaka pronoun ya botho; Seheberu se na le proto-clitic לו fela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "o e rateletše",
+      "rationale": "אוה ke go lwantšha go nyaka; go ratwa go hlalosa ka mokgwa wa motho."
+    }
+  ],
+  "translation": "Ka gobane Yahwe o kgethile Tsiyone, o e rateletše e le lefelo la go dula la ⟨gagwe⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8ba0cb56b177f792ef48186339bc9d52c3093d2b1e6c9f137d4f5caf7375f33e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/132\/13-16.1792298916607.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "o kgethile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "o e rateletše"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "e le lefelo la go dula"
+    },
+    {
+      "surface": "לו",
+      "gloss": "la ⟨gagwe⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:36.608305767Z",
+  "model": "glm-5.3"
+}

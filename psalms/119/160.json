@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראש דברך",
+      "rationale": "'hlogo\/thaloso ya moka ya lentšu la gago' (ASV\/ylt) kgatlhanong le 'mathomong' (KJV\/JPS) — crux ya go tsewa ga ראש."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu ga se na kopula; Sepedi e e nyaka."
+    }
+  ],
+  "translation": "Hlogo ya lentšu la gago ke nnete, gomme go phelagare ga le le ka ntlela dikahlolo ka moka tša tsedeko ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ebceea0ab5e72f3b307cc5c217ad32df22e7a88725dc4c7454dd564e18f12351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/157-160.1792298866340.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ya lentšu la gago"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ke nnete"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "gomme go phelagare ga le le ka ntlela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "tsedeko ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:46.341824067Z",
+  "model": "glm-5.3"
+}

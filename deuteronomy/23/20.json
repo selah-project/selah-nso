@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נשך \/ תשיך \/ ישך",
+      "rationale": "Modu o tee, nashak — 'go loma' bjalo ka noga; faedišo ke lome la naga; phetišo e loša seswantšho se"
+    },
+    {
+      "kind": "substitution",
+      "subject": "faedišo",
+      "rationale": "נשך e seswantšho ke 'lome'; Sepedi se šomiša faedišo ka gobane ga se na lentšu la seswantšho la 'lome la silibera'"
+    }
+  ],
+  "translation": "O se ke wa swana mošomong wa tšhelete go mowa'ao: go loka ga silibera, go loka ga dijo, go loka ga se sengwe le se sengwe se se lokago; o se ke wa mo lofa ka faedišo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8ac3bfe57f0b09c99368d3a7c4161c724ac812c888c238453895bacf5030b7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/23\/17-20.1792286180292.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "lofa ka faedišo"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "go mowa'ao"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faedišo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya silibera"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faedišo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ya dijo"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "faedišo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya se sengwe le se sengwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se lokago"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "wa lofa ka faedišo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:16:20.293779943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "fela",
+      "rationale": "Sepedi e nyaka 'fela' go hlaloša phetogo ya kgahlano ye Seheberu se sa e rego ka mo go tlwaelegilego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "leswao",
+      "rationale": "נתק (scurf\/scall) ga se na lentšu le tee la Sepedi; 'leswao' (tshwao ya letlalo) ke sebopego se se putulegilego"
+    },
+    {
+      "kind": "measurement",
+      "subject": "matsatsi a šupa",
+      "rationale": "Palo ya go kwala: malatsi a šupa, ka mokgwa wa Torat ya bofofodi"
+    }
+  ],
+  "translation": "Gomme a itlhala, fela ⟨את⟩ leswao a se ke a le hlala; gomme moperisita o tla kwala ⟨את⟩ leswao matsatsi a šupa gape.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "da17471640b31bb56fbdc1b98310d255aaf4ad65a3a06f40cc02f087ad012b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/13\/33-36.1792283876698.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "a itlhala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "fela ⟨את⟩",
+      "marks": "leswao"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "leswao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "a le hlala"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "o tla kwala"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leswao"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "leswao"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a šupa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-18T00:37:56.699348943Z",
+  "model": "glm-5.3"
+}

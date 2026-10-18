@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 3:15",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sebinoki",
+      "rationale": "Sepedi e nyaka lentšu la motho (sebinoki) moo Seheberu se šomišago nonyana ya tiro fela (מנגן, yo a binago ka selete)."
+    },
+    {
+      "kind": "elision",
+      "subject": "עליו",
+      "rationale": "Diphetošo dingwe di oketša 'Elisha'; Seheberu se re 'go ena' fela — se sa bolele leina."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנגן\/המנגן",
+      "rationale": "Boelelo bja go bina (šupa-šupa) bo leta moya wa profeta — sebopego se sa bolokwa ka go boela ga lentšu 'sebinoki'."
+    }
+  ],
+  "translation": "Gomme bjale, tlišang le ka nna sebinoki. Gomme go ile go ba, ge sebinoki se bina, letogo la Yahwe e ile ya tla go ena.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "83a53a0d82c1cd414c5118a9610a1f20fc2874a75d24b8ce10762c884d0b4ea4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/3\/14-15.1792304971536.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "gomme-bjale"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "tlišang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "le-ka-nna"
+    },
+    {
+      "surface": "מנגן",
+      "gloss": "sebinoki"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme-go-ile-go-ba"
+    },
+    {
+      "surface": "כנגן",
+      "gloss": "ge-se-bina"
+    },
+    {
+      "surface": "המנגן",
+      "gloss": "sebinoki"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "gomme-e-ile-ya-ba"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "go-ena"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letogo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:29:31.537455625Z",
+  "model": "glm-5.3"
+}

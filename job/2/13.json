@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 2:13",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yo a bolelago",
+      "rationale": "Hebrew has participle דבר 'speaking' without an explicit 'one'; Sepedi needs a person-word"
+    },
+    {
+      "kind": "measurement",
+      "subject": "matsatsi a šupa le mafelelo a šupa",
+      "rationale": "counting of seven days and seven nights, the mourning period"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר\/דבר",
+      "rationale": "infinitive 'to speak' and noun 'word' from same root, repetition lost in Sepedi"
+    }
+  ],
+  "translation": "Gomme ba dula ⟨את⟩ yena lefase, matsatsi a šupa le mafelelo a šupa, gomme go se na yo a bolelago go yena lentšu, ka gobane ba bona gore bohloko bo ile bja gola kudu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b16187788ab67b6add8348badce967f46a5875d35cecc83fdbd86ea8d35da395",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/2\/13-13.1792299960880.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "gomme ba dula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a šupa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "le a šupa"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "mafelelo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme go se na"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yo a bolelago"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "bo ile bja gola"
+    },
+    {
+      "surface": "הכאב",
+      "gloss": "bohloko"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:00.880730325Z",
+  "model": "glm-5.3"
+}

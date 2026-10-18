@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go na⟩",
+      "rationale": "Seheberu se se na sefokwana sa 'go na'; Sepedi se se nyaka."
+    },
+    {
+      "kind": "you",
+      "subject": "Ahaba",
+      "rationale": "Eliyahu o bolela ka mo go tlwaelegilego go Ahaba ka ditaelo tše tharo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "modumo wa bontši ba pula",
+      "rationale": "Pula e kwa ka bontši — ba bangwe ba fetolela 'ha le ka re'."
+    }
+  ],
+  "translation": "Gomme Eliyahu a bolela go Ahaba: Ya godimo, ja gomme o nwe, ka gobane ⟨go na⟩ le modumo wa bontši ba pula.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dbd41c5c72a768861a3cc1174c8b345fa2cc43914be8d4ba89775ebe02b1ab9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/18\/41-44.1792290255360.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Gomme…a bolela"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "go Ahaba"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ya godimo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "gomme o nwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "המון",
+      "gloss": "wa bontši"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ba pula"
+    }
+  ],
+  "timestamp": "2026-10-18T02:24:15.361183169Z",
+  "model": "glm-5.3"
+}

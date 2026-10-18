@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש e bolela sengwalwa sa moya — motho yo a hemago, e sego 'moya' wa plato"
+    },
+    {
+      "kind": "crux",
+      "subject": "go tšwa go kgothaletšo bophelong",
+      "rationale": "מעצת נפש: 'kgotlaletšo ya moya wa motho yoo' goba 'kgotlaletšo go moya wa motswalle' — diphetholelo di fapana"
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Sepedi ga se šomiše ⟨את⟩ bjalo ka sesupi sa sebolelo, e bolokwa fela bjalo ka lesupo"
+    }
+  ],
+  "translation": "Mokolo gomme kgodišo di a thabisa ⟨את⟩ pelo; gomme botswi bja motswalle wa gagwe — go tšwa go kgothaletšo bophelong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "13c5d496e96390d6350c47b8e400a714762a86a6712cce9397b41dfd92ea07b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/27\/9-12.1792299892531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "gomme kgodišo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "di a thabisa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "gomme botswi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bja motswalle wa gagwe"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "go tšwa go kgothaletšo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelong"
+    }
+  ],
+  "timestamp": "2026-10-18T05:04:52.532063756Z",
+  "model": "glm-5.3"
+}

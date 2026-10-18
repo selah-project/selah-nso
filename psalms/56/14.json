@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 56:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke moya\/bophelo bja nama, e sego moya wa ka mo pelong"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלא",
+      "rationale": "Kganetšo ya diphetholo: potšišo (KJV) kgotalo tlhomaganyo (Geneva, BSB)"
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Mmušo o lebišitšwego go Elohim ka boomo"
+    }
+  ],
+  "translation": "Ka gobane o ntšhitše bophelo bja ka go lehu, a ga maoto a ka go wa, gore ke sepeleng peling ya Elohim, ka leseding la bophelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8ce15f1bd49ea8a6c5a21311a0669f0a6c2ccf07f0cb165dd82d2a66b4fc59d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/56\/13-14.1792297840216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הצלת",
+      "gloss": "o ntšhitše"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja ka"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "go lehu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "go wa"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "gore ke sepeleng"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "peling ya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ka leseding"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "la bophelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:40.216746007Z",
+  "model": "glm-5.3"
+}

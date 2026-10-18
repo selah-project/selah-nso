@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 1:21",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "le thokoše",
+      "rationale": "Seheberu se na le sephetho fela se se nago boitshwaro; Sepedi se nyaka sebopego sa go thokoša"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נתן\/לקח",
+      "rationale": "go fa\/go tšera — diphetho tše pedi tše di lekanago, sebopego sa popego se bolokwa ka botlalo"
+    },
+    {
+      "kind": "elision",
+      "subject": "יהי",
+      "rationale": "הָיָה ke poledišo ya go ba gona; e hlatsošitšwe ka sebopego sa go thokoša"
+    }
+  ],
+  "translation": "gomme a re: Tshwele ke tšwa go mpaphagatšo ya mmae, gomme tshwele ke boa gona; Yahwe o file, gomme Yahwe o tšere; leina la Yahwe le thokoše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "06199c6de84486b09b59a53d2c0ee266d2726eff55483cce7ac5c28a1954cee8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/1\/21-22.1792299993229.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "ערם",
+      "gloss": "tshwele"
+    },
+    {
+      "surface": "יצתי",
+      "gloss": "ke tšwa"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "go mpaphagatšo"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ya mmae"
+    },
+    {
+      "surface": "וערם",
+      "gloss": "gomme tshwele"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ke boa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "gona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o file"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "gomme Yahwe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o tšere"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "le ⟨thokoše⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "⟨le thokoše⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:33.229851147Z",
+  "model": "glm-5.3"
+}

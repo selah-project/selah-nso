@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 3:17",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח ka mehla e tlišwa bjalo ka ruakh — moya, phefo, go hema, lentšu le tee"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mošitho",
+      "rationale": "נחל ke mošitho\/selotša sa sehlabelo; mošitho o nyakile go ba koteng ya noka"
+    }
+  ],
+  "translation": "Ka gobane go bolela Yahwe: Le ka se bone ruakh, gape le ka se bone pula, eupša mošitho woo o tla tlatšwa ke meetse; gomme le tla nwa — lona, leru la lona le diruiwa tša lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4fe111c5ae25a9213315391fc8023080e17922b4bfd14ba8263b11178df45269",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/3\/17-20.1792290473960.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "go"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "le ka bone"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gape ga"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "le ka bone"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "pula"
+    },
+    {
+      "surface": "והנחל",
+      "gloss": "gomme mošitho"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "woo"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "o tla tlatšwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ke meetse"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "gomme le tla nwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "ומקניכם",
+      "gloss": "leru la lona"
+    },
+    {
+      "surface": "ובהמתכם",
+      "gloss": "le diruiwa tša lona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:27:53.961049010Z",
+  "model": "glm-5.3"
+}

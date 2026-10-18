@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "באפך",
+      "rationale": "אף ka moka ke nko; displelere ke seka sa yona — 'ka nko ya gago' e ka bapetšwa go boloka sebopego."
+    },
+    {
+      "kind": "alternative",
+      "subject": "נבהלנו",
+      "rationale": "'re hlogometše ka lefifi' kgathanong le 're tšhabile re maketšwe'; bohlokwa bja temo e tubago."
+    }
+  ],
+  "translation": "Ka gobane re fedile ka displelere ya gago, gomme ka hakgogelo ya gago re tšhabile re maketšwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9a9f7a575c58e0385537700860b6347dc2ffdd45bba3f85b0a2f30fb94ca3e9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/90\/5-8.1792298451468.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "re fedile"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ka displelere ya gago"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ka hakgogelo ya gago"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "re tšhabile re maketšwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:51.469012502Z",
+  "model": "glm-5.3"
+}

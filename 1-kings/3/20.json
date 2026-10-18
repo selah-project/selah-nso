@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the kgoši",
+      "rationale": "Moarabi o šomiša lehanka la gago — polelo ye e seago kgauswi le kgoši."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sehubeng",
+      "rationale": "חֵיק ke phošo\/bosumeng — sehu se swara sebopego seo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישנה\/השכיבה",
+      "rationale": "Go fapana ga go robala (moarabi) le go robetša (mosadi yo) go apha ntlha ya tsheko; sebopego se se ka se utolwe ka botlalo go Sepedi."
+    }
+  ],
+  "translation": "Gomme o tšogile bohareng bja bosigo, a tšea ⟨את⟩ morwa wa ka go thoko ga ka, go bona lehanka la gago a robetše, a mo robetša sehubeng sa yena; gomme ⟨את⟩ morwa wa yena yo a hwilego o mo robeditše sehubeng sa ka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "322493bbf3c58d505b483e841ab27e9a558123c4dbffe26b9bccef70622c14f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/3\/17-20.1792289603218.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "gomme o tšogile"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "bohareng bja"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "a tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa wa ka"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "go thoko ga ka"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "go bona lehanka la gago"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "a robetše"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "a mo robetša"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "sehubeng sa yena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "morwa wa yena yo a hwilego"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "morwa wa yena"
+    },
+    {
+      "surface": "המת",
+      "gloss": "yo a hwilego"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "o mo robeditše"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "sehubeng sa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:13:23.220399169Z",
+  "model": "glm-5.3"
+}

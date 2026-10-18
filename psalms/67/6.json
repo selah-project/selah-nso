@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יודוך... יודוך",
+      "rationale": "poeletšo ya go leboga, sebopego sa psalme seo se opago lentšu le tee gabedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go leboga",
+      "rationale": "ידה e bolela go latela ka mantšu a ditumelano (yadah); \"go leboga\" ke go lokilego, e sego tlhajo fela"
+    }
+  ],
+  "translation": "Ditšhaba di tla go leboga, Elohim; ditšhaba tšohle di tla go leboga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/67\/5-8.1792297943386.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "di tla go leboga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "di tla go leboga"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "tšohle"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:23.387212583Z",
+  "model": "glm-5.3"
+}

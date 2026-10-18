@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסיד\/תתחסד · תמים\/תתמם",
+      "rationale": "Poelelo ya modu: lentšu le tee le boela gate-tee — sebopego se se ka se phetholwe ka botlalo ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "o bontšha",
+      "rationale": "Hitpael e bolela go itšoša\/go itšošetša; Sepedi se nyaka sebopego sa go bontšha"
+    }
+  ],
+  "translation": "Le yo a nago hesede, wena o bontšha hesede; le motho wa botlalo, o bontšha botlalo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/18\/25-28.1792297365498.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "yo a nago hesede"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "o bontšha hesede"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "motho"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "wa botlalo"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "o bontšha botlalo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:45.498980856Z",
+  "model": "glm-5.3"
+}

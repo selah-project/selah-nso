@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Copula added — Hebrew verbless clause 'Yahwe maatla a ka'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אהודנו",
+      "rationale": "Yadah literally 'go laela ka seatla' — throw\/cast praise; rendered 'go dumeša' (acknowledge\/thank)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבי",
+      "rationale": "Pelo ya ka repeated twice — Hebrew repetition of 'my heart' kept."
+    }
+  ],
+  "translation": "Yahwe ⟨ke⟩ maatla a ka le theko ya ka; go yena pelo ya ka e itheetše, gomme ke thušitšwe; gomme pelo ya ka e thabela, gomme ka koša ya ka ke a mo dumeša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/28\/5-8.1792297474626.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "maatla a ka"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "le theko ya ka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "e itheetše"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "gomme ke thušitšwe"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "gomme ... e thabela"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "gomme ka koša ya ka"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ke a mo dumeša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:34.627347703Z",
+  "model": "glm-5.3"
+}

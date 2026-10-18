@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bmafetwa",
+      "rationale": "בכורי 'ba ba tswaletšwego pele' — lentšu la Sepedi le swanetše go lokišwa ke mmadi"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Yisraele",
+      "rationale": "Dithoho tše di hlalosa dikgahlego tša Yahwe go setšhaba sa gagwe"
+    }
+  ],
+  "translation": "Yo a thubago bmafetwa Mitsrayime, go tšwa mothong go fihla diruiweng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2c8d0cf40b55764252320e6ad325a99cc1e16cb19ce165ced00faf90961ee08f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/135\/5-8.1792298965766.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "yo a thubago"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "bmafetwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "go tšwa mothong"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "diruiweng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:25.769198427Z",
+  "model": "glm-5.3"
+}

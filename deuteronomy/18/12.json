@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 18:12",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Kopula ya Sepedi — Seheberu ga se na yona ('תועבת יהוה כל עשה אלה')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a ba ntšha",
+      "rationale": "מוריש = causative ya 'go ba mong wa lefase ka go ntšha beng ba pelofuti' — 'go ntšha ba bangwe ba lego'"
+    }
+  ],
+  "translation": "Ka gobane yo mongwe le yo mongwe yo a dirago dilo tše ke selo se se hlopegago go Yahwe; gomme ka baka la dilo tše di hlopegago, Yahwe Elohim ya gago a ba ntšha ⟨את⟩ ba ⟨go⟩ sego pele ga wena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2d78e60d156a9819c1ba92c9c919e8d3bccb2a65f0cc314098737ff1131d3bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/18\/9-12.1792285998361.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "selo se se hlopegago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo a dirago"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dilo tše"
+    },
+    {
+      "surface": "ובגלל",
+      "gloss": "gomme ka baka la"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "dilo tše di hlopegago"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "a ba ntšha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "go sego pele ga wena"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "go sego pele ga wena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:13:18.362878981Z",
+  "model": "glm-5.3"
+}

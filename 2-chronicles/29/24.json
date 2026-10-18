@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 29:24",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go fediša dibe",
+      "rationale": "כפר ka tlwaelo ke go khupetša — phetolelo ya 'go dira kgwerano' (KJV 'atonement') ke tšhutišo ya sekao."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויחטאו",
+      "rationale": "Šomišo wa leina la sebe (חטא) bjalo ka lediri — 'ba beela sebe ka madi' — tšhutišo ya lentsu le tee."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי לכל ישראל אמר המלך",
+      "rationale": "YLT e bala bjalo ka polelo ya kgoši ka boyona; KJV\/JPS e bala bjalo ka thwaelo ya kgoši — bothata bja popego ya lentšu."
+    }
+  ],
+  "translation": "Gomme baperisita ba li baela, gomme ba dira ka ⟨את⟩ madi a tšona go aletare, bakeng sa go fediša dibe go Yisraele ka moka; ka gobane kgoši e ile ya laela sehlabelo sa go fišwa le sehlabelo sa sebe bakeng sa Yisraele ka moka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a0b8227fa1ff5d4fb45247c3dd6f253ce85f3c43615b20441bbe91f7e9d26687",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/29\/21-24.1792304289423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישחטום",
+      "gloss": "gomme ba li baela"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baperisita"
+    },
+    {
+      "surface": "ויחטאו",
+      "gloss": "gomme ba dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a tšona"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "madi a tšona"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "go aletare"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "bakeng sa go fediša dibe"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa Yisraela ka moka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "e ile ya laela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "sehlabelo sa go fišwa"
+    },
+    {
+      "surface": "והחטאת",
+      "gloss": "le sehlabelo sa sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:18:09.424785335Z",
+  "model": "glm-5.3"
+}

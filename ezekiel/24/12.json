@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 24:12",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תאנים",
+      "rationale": "hapax תאון: 'meko' (KJV 'lies') kgahlanong le 'bohloko' (ASV 'toil')"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלאתה",
+      "rationale": "boharara bja yona bo boletšwe gabedi — sebopego sa go bolela gape sa Sephiri"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תאון",
+      "rationale": "lentšu le bonwa fela mo go Tanakh"
+    }
+  ],
+  "translation": "Ka meko e kgolo ⟨e⟩ itsekile, gomme boharara bja yona bjo bogolo ga bo tšege go tšwa go yona; ka mollo boharara bja yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1f661161662517ba772fdfc546400bf2e5664f598d037d625241cc81ff9e6f34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/24\/9-12.1792295018751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאנים",
+      "gloss": "ka meko"
+    },
+    {
+      "surface": "הלאת",
+      "gloss": "e itsekile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "bo tšege"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "go tšwa go yona"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "bjo bogolo"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "boharara bja yona"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "boharara bja yona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:43:38.752482681Z",
+  "model": "glm-5.3"
+}

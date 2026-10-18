@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 7:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yona⟩",
+      "rationale": "Seheberu se na le setshwao sa selo fela (setshwao-selo) go suffix; Sepedi e nyaka lentšu le hlalošetšego"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונקיצנה",
+      "rationale": "קוץ: 'go tšhogofatša' kgahlanong le 'go kgopela' — diphetoledi di fapana"
+    }
+  ],
+  "translation": "A re nyakolleng godimo go Juda, gomme re tšhogofatše ⟨yona⟩, gomme re bebolele ⟨yona⟩ go re, gomme re behe kgoši gare ga yona, ⟨את⟩ morwa wa Tabeele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "640d8293190f272fabcdc0aea2c767908b701cef362e9b29327a6f23c4f7ae4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/7\/5-8.1792291260548.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נעלה",
+      "gloss": "A re nyakolleng godimo"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "go Juda"
+    },
+    {
+      "surface": "ונקיצנה",
+      "gloss": "gomme re tšhogofatše ⟨yona⟩"
+    },
+    {
+      "surface": "ונבקענה",
+      "gloss": "gomme re bebolele ⟨yona⟩"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "go re"
+    },
+    {
+      "surface": "ונמליך",
+      "gloss": "gomme re behe kgoši"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "gare ga yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa Tabeele"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "טבאל",
+      "gloss": "Tabeele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:41:00.548974664Z",
+  "model": "glm-5.3"
+}

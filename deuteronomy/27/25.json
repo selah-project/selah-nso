@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke moya\/bophelo — lentšu le tee le bolela seswantšho sa moya, bophelo, le tlala"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka moka",
+      "rationale": "כל — Sepedi e nyaka ka moka go hlalosa bontši"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ארור...אמן",
+      "rationale": "go bolelwa ga go hloilelwa ka go hlomoga ga setšhaba ka Ame — mokgwa wa kgwerano ya setšhaba"
+    }
+  ],
+  "translation": "O hloilelwe yo a nkago sehlabelo sa go thuntšha moya — madi a se nago sebe — gomme setšhaba ka moka se tla re: Ame.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "934e94863c83170cb5bb09cce08271b94a11b654ef63f2e58eb52067d35675d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/27\/25-26.1792286221987.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "o hloilelwe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yo a nkago"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "sehlabelo sa dikgoto"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "go thuntšha"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "a se nago sebe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "gomme se tla re"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ame"
+    }
+  ],
+  "timestamp": "2026-10-18T01:17:01.998152489Z",
+  "model": "glm-5.3"
+}

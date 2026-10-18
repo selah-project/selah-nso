@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 85:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelaelo",
+      "rationale": "כעס ke go tšholwa\/go utswa moya; 'pelaelo' e tsenelela godimo ga boikokatse"
+    },
+    {
+      "kind": "addition",
+      "subject": "korousa",
+      "rationale": "עם ke kakaretšo ya 'le'; Sepedi se nyaka 'korousa'"
+    }
+  ],
+  "translation": "Boelediša rena, Elohim ya tokoloho ya rena, gomme o phutholotše pelaelo ya gago ⟨korousa⟩ rena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9c504668f1ec6f906c0111504ba6a86c3b79b89e0ac4e761d44556398726e56f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/85\/5-8.1792298347114.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובנו",
+      "gloss": "Boelediša rena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "ya tokoloho ya rena"
+    },
+    {
+      "surface": "והפר",
+      "gloss": "gomme o phutholotše"
+    },
+    {
+      "surface": "כעסך",
+      "gloss": "pelaelo ya gago"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "⟨korousa⟩ rena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:07.114837280Z",
+  "model": "glm-5.3"
+}

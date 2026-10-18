@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נאץ נאצת את אויבי יהוה",
+      "rationale": "KJV: Dafida o file manaba a Yahwe sebakeng sa go nyatša; JPS e bala ka go tlhaka fela 'o nyeditše manaba a Yahwe' — tirelwa ya ⟨את⟩ e a ganwa bagatodiši."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מות ימות",
+      "rationale": "Maemotho a go boela ga lentšu — infinitive absolute — 'o tla swa ka sebele', tlhaho e ka se fetolwe."
+    },
+    {
+      "kind": "you",
+      "subject": "Dafida",
+      "rationale": "Tatelo ya tlhamalalo go Dafida e tšwelang pele go tšwa v13."
+    }
+  ],
+  "translation": "Fela, ka gobane o ile wa nyetsa go hloaela ⟨את⟩ manaba a Yahwe ka taba ye, gape moswananyana yo a belegwego go wena o tla swa ka sebele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "79b526961672fd5af3156f7567af2b5c048d331a7929f4c1be6e3c8310e9c3bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/12\/13-16.1792289111956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "fela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "go hloaela"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "o ile wa nyetsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaba a Yahwe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "manaba a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka taba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "moswananyana"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "yo a belegwego"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "מות",
+      "gloss": "o tla swa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ka sebele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:05:11.957872619Z",
+  "model": "glm-5.3"
+}

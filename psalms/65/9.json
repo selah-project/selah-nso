@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 65:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diswantšho",
+      "rationale": "אות ke sesupo\/seswantšho, e sego sehlodi fela; 'tokens' ya KJV e bolela dipoelo tša makgonthena"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תרנין",
+      "rationale": "tnᵢn ya go ranna — modumo wa go opela o phagame, ga o fetolege ka botlalo"
+    }
+  ],
+  "translation": "Gomme ba dulong dikarolong tša godimo ba tšhaba diswantšho tša gago; ditšweletšo tša mesong le bosegile di opela ka thabo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/65\/9-12.1792297962877.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "gomme ba tšhaba"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba dulong"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "dikarolong tša godimo"
+    },
+    {
+      "surface": "מאותתיך",
+      "gloss": "diswantšho tša gago"
+    },
+    {
+      "surface": "מוצאי",
+      "gloss": "ditšweletšo tša"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mesong"
+    },
+    {
+      "surface": "וערב",
+      "gloss": "le bosegile"
+    },
+    {
+      "surface": "תרנין",
+      "gloss": "di opela ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:42.877894029Z",
+  "model": "glm-5.3"
+}

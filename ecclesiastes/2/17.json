@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e tsebagala ka modumo wa yona bjalo ka ruakh — moya, phefo le go hema ka lentšu le tee"
+    },
+    {
+      "kind": "crux",
+      "subject": "go lebalela ruakh",
+      "rationale": "ורעות רוח: 'go lebalela ruakh' (ASV\/JPS) kgahlanong le 'go hlohlelwa ke ruakh' (KJV) kgahlanong le 'go hloka kgonthe'"
+    }
+  ],
+  "translation": "Ke hloile ⟨את⟩ bophelo, ka gobane mošomo woo o dirilwego ka tlase ga letsatsi o mpe go ka; ka gobane tšohle ke hebele le go lebalela ruakh.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c1c669dab5203901d782a63b4894168e24168b4354b61b7ce2442b2bb17daf6f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/2\/17-20.1792301374928.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "Ke hloile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "רע",
+      "gloss": "o mpe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go ka"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "o dirilwego"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebele"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "gomme go lebalela"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-18T05:29:34.929024247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke moya wa go hema le bophelo — go sego moya wa ka narě, ka gobane Sepedi ga se na lentšu le tee le swanago."
+    },
+    {
+      "kind": "addition",
+      "subject": "go na le",
+      "rationale": "Setheberu se se na le kopula; Sepedi se e nyaka."
+    }
+  ],
+  "translation": "Yo seatleng sa gagwe ⟨go na le⟩ bophelo bja se seng le se seng se phelago, le ruakh wa nama ya motho ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ff3b4df072ff2e545b0f9cf9949b11f9eb09ee997cd08f68424c37cda5ca1a7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/12\/9-12.1792300198380.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "seatleng sa gagwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bja se seng le se seng"
+    },
+    {
+      "surface": "חי",
+      "gloss": "se phelago"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "le ruakh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ya motho ka moka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:58.381299860Z",
+  "model": "glm-5.3"
+}

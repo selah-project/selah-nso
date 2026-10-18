@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 1:20",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Kopula ye Sepedi e e nyakago, ye e sego gona go Seheberu"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עיני כל ישראל עליך",
+      "rationale": "'Mahlo a Yisraele kamoka a le go wena' — go lebelela ka tlhamalalo, go ikemisetsa go kgoši"
+    },
+    {
+      "kind": "you",
+      "subject": "go Dafida",
+      "rationale": "Boitshoko bja tlhamalalo bja Batšheba go kgoši"
+    }
+  ],
+  "translation": "Gomme wena, morena wa ka ⟨ke⟩ kgoši, mahlo a Yisraele kamoka a le go wena, go ba bolelela gore ke mang yo a tlo dulago setulong sa morena wa ka kgoši ka morago ga yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ba45c827b9501b407f2bc60d1fee5f6ce8a99c334c439c7e60c175509c0ee0d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/1\/17-20.1792289496248.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Gomme wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kamoka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "a Yisraele"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "a le go wena"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "go ba bolelela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yo a tlo dulago"
+    },
+    {
+      "surface": "על",
+      "gloss": "setulong"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa ka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka morago ga yena"
+    }
+  ],
+  "timestamp": "2026-10-18T02:11:36.249195179Z",
+  "model": "glm-5.3"
+}

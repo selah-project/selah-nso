@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "boomo",
+      "rationale": "נכחה ke 'go ema ka o mo o loko' — thwii-tshwii; 'boomo' e jwalo ka 'toka' e ka ba khutšo fela."
+    },
+    {
+      "kind": "addition",
+      "subject": "ba bolokela",
+      "rationale": "האוצרים ke karolo ya polelo e tšwelago pele go tšwa temaneng ye e fetilego — Sepedi se nyaka selo se se bego."
+    }
+  ],
+  "translation": "Gomme ba se ke ba tseba go dira boomo, go bolela Yahwe, ba bolokela kgobo le thegelo ditoragong tša bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "87fb78efe892283bab06ef231f9e33158bfa2ab234d63de207d19f3ed5f40131",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/3\/9-12.1792296202651.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba se ke"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba tseba"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "boomo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "ba bolokela"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "kgobo"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "le thegelo"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "ditoragong tša bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:03:22.652698808Z",
+  "model": "glm-5.3"
+}

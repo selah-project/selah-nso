@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "go thuma",
+      "rationale": "אשחה e bolela 'go thuma' ka botlalo — mmita o itshekile ka dikela; ke seswantšho se se thata, se se bolokilwego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mmita\/phoko",
+      "rationale": "מטה\/ערש — mela e mopedi e tswalanago ya mmita le phoko, sebopego sa Sepedi se se bolokilwego"
+    }
+  ],
+  "translation": "Ke hlatsoitšwe ke go signa ga ka; bosigo ka moka ke dira mmita wa ka go thuma; ka dikela tša ka ke nyametša phoko ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/6\/5-8.1792297115956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ke hlatsoitšwe"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "ke go signa ga ka"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "ke dira... go thuma"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "mmita wa ka"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "ka dikela tša ka"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "phoko ya ka"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "ke nyametša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:35.957555474Z",
+  "model": "glm-5.3"
+}

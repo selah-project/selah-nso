@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "monna",
+      "rationale": "הגבר ka botlalo ke motho, eupša mo e tšwago go re 'mošutu' — 'monna' ke kgopolo ye kgolo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי ... אשר",
+      "rationale": "Poeletšo ya modumo gare ga 'masego' le 'yo' — e lahlegile go Sepedi."
+    }
+  ],
+  "translation": "Masego a monna yo a beileng Yahwe tshepo ya gagwe, gomme a sa fetogela go ba boikaketsi le bao ba fapogelago maaka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1b36c23f3912af408b64b2067bc2ca86a38f1bfbb4f73c1c716271d62b3e01b0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/40\/5-8.1792297713694.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Masego"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a beileng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "tshepo ya gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "fetogela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "ba boikaketsi"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "le bao ba fapogelago"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "maaka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:33.694969507Z",
+  "model": "glm-5.3"
+}

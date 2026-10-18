@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 14:16",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וילך והלם",
+      "rationale": "'E sepela e hlabana' — KJV 'ba ne ba hlabela go ya go hlabana' (friendly fire), ASV\/JPS 'ba ne ba ya mo le mo'; 'go hlabana' ke karolo ya go boela morago"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נמוג",
+      "rationale": "'Go nyamela' — ponagalo ya sebopego sa 'go bonya' e bjalo ka seswantšho sa mmele, e sego fela 'go fellwa'"
+    }
+  ],
+  "translation": "Gomme balebeledi ba Šaule ba Gibeya ya Benjamine ba lebelela, gomme thwii, kgoboketšo e a nyamela, gomme e sepela e hlabana.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "fdd7f3da7ae8704e726b1e8687d7a389d1fda6ebba4b27b65e1097729ef85e10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/14\/13-16.1792288292763.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ba lebelela"
+    },
+    {
+      "surface": "הצפים",
+      "gloss": "balebeledi"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ba Šaule"
+    },
+    {
+      "surface": "בגבעת",
+      "gloss": "ba Gibeya ya"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamine"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gomme thwii"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "kgoboketšo"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "e a nyamela"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "e sepela"
+    },
+    {
+      "surface": "והלם",
+      "gloss": "e hlabana"
+    }
+  ],
+  "timestamp": "2026-10-18T01:51:32.764722351Z",
+  "model": "glm-5.3"
+}

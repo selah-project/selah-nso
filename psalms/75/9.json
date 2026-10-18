@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 75:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חמר",
+      "rationale": "e boilago\/e fofa — 'boil\/foam' kgatlhanong le 'e šweu ka mebala' (KJV 'red')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמריה",
+      "rationale": "dikgobo — sekgoba sa beine se sa tlolo, se se šomilego ka tlase ga beine"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כוס ביד יהוה",
+      "rationale": "komiki ya kahlolo mabapi le ya 75:9 — seswantšho se tšwago, se se nago maatla"
+    }
+  ],
+  "translation": "Gomme gobane komiki e le gokaunyang ya Yahwe, gomme beine e fofa, e tletše se-kopantšwego, gomme o tšolla go se tšwa go yona; eupsa dikgobo tša yona — ba ba mpego ka moka ba lefase ba tla di nkolla gomme ba di nwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a1edde4bd6e9c9dbe7b7eee7b020ec4548b3c434cf39f1336034e8163dad2f79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/75\/9-11.1792298161077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "komiki"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "gokaunyang"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "gomme beine"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "e fofa"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "e tletše"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "se-kopantšwego"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "gomme o tšolla"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "go se tšwa go yona"
+    },
+    {
+      "surface": "אך",
+      "gloss": "eupsa"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "dikgobo tša yona"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "ba tla di nkolla"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ba di nwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "ba ba mpego"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:01.077778088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "momoro",
+      "rationale": "גרגרות ke momoro (throat ya go Mohlape\/rd) — diphetho tše ngwalo di ra \"motho wa liswike\""
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קשרם\/ענדם",
+      "rationale": "dima tše pedi tša go gomaretša ka legego, pheeletšo e swanago e lašwa ka kgabo"
+    }
+  ],
+  "translation": "Di gomaretše ka pelo ya gago ka mehla; di gomaretše momorong wa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5152fe1bf7cddc63c997e06eb86ac3baa130441dbdc05dba57b145aa02360e2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/6\/21-24.1792299252405.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "di gomaretše"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka mehla"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "di gomaretše"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "momorong wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:54:12.405743575Z",
+  "model": "glm-5.3"
+}

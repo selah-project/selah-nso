@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lewatleng",
+      "rationale": "וּמִיָּם: 'lewatleng' (JPS, YLT) kgahlanong le 'bodiba' (KJV) — Seheberu se re 'lwatle', se bolelang bodiba ka tlwaelo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mafoko a mane a thutophako",
+      "rationale": "Bochabela-bodikela-leboa-lewatle: sebopego sa diphuthego tše nne, ka moka ka m- (go tšwa)"
+    }
+  ],
+  "translation": "gomme a ba kokoanya go tšwa mafase, go tšwa bochabela le go tšwa bodikela, go tšwa leboa le go tšwa lewatleng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/107\/1-4.1792298675325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "go tšwa mafase"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "a ba kokoanya"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "go tšwa bochabela"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "le go tšwa bodikela"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "go tšwa leboa"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "le go tšwa lewatleng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:35.326492772Z",
+  "model": "glm-5.3"
+}

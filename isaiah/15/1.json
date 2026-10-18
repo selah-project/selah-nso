@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "bosigo…bosigo",
+      "rationale": "poletlo e boeledwa gabedi ka botlalo (בליל שדד…נדמה ×2) — e bolokwa ka Sepedi ka go boeledwa ka moka"
+    },
+    {
+      "kind": "crux",
+      "subject": "נדמה",
+      "rationale": "'brought to silence' (KJV) kgahlanong le 'cut off' (YLT); Sepedi o ile a nyamela o bopa karolo ya bobedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שדד\/נדמה",
+      "rationale": "matswalo a modumo a mangata a -d- go šdd le ndmh, a sa bolokwe ka Sepedi"
+    }
+  ],
+  "translation": "Bojwa bja Moabi: gobane bosigo Are ya Moabi o senyegile, o ile a nyamela; gobane bosigo Kire ya Moabi o senyegile, o ile a nyamela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7178f378870183e04534ee0542956bff203520619acd3145a26c0e7c26b5289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/15\/1-4.1792291631829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "bojwa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "o senyegile"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Are"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moabi"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "o ile a nyamela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "o senyegile"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kire"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moabi"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "o ile a nyamela"
+    }
+  ],
+  "timestamp": "2026-10-18T02:47:11.830631941Z",
+  "model": "glm-5.3"
+}

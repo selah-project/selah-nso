@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 23:3",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "six days \/ seventh day",
+      "rationale": "The verse counts the week: six working days, rest on the seventh."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבת\/שבתון",
+      "rationale": "Root שבת repeated intensively; שבתון is a superlative cessation, rendered 'khutšo ye e tletšego'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mošomo",
+      "rationale": "מלאאכה is skilled\/deputy work, broader than ordinary labor; one Sepedi word covers both occurrences."
+    }
+  ],
+  "translation": "Matsatsi a šupa mošomo o ka dirwa; gomme ka letšatši la bošupa ke Shabata, khutšo ye e tletšego, pitšo ya bokgethwa; mošomo ka moka le se ke la o dira — ke Shabata ya Yahwe mafelong a go dula a lena ka moka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f4f8d272df304ca0587bb2e45b3ccf7e8797fa4fb08fa06edbc84f9b3dd44a8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/23\/2-3.1792304704611.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "a šupa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Matsatsi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o ka dirwa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "gomme ka letšatši"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "la bošupa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "khutšo ye e tletšego"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "pitšo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "la o dira"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "mafelong a go dula a lena"
+    }
+  ],
+  "timestamp": "2026-10-18T06:25:04.612519565Z",
+  "model": "glm-5.3"
+}

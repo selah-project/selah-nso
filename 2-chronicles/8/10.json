@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "masomehlano le makgolo a mabedi",
+      "rationale": "palo ya balaodi — 250, go swana le Seheberu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba bewago",
+      "rationale": "hanitsabe — selo se se sa sengwego, molaodi yo a beilwego; 'ba bewago' e boloka sebopego sa go bea."
+    }
+  ],
+  "translation": "Gomme baba ke balaodi ba ba bewago ke kgoshi Shelomo, masomehlano le makgolo a mabedi, bao ba laolago setšhaba.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f512bd8dfa35b6dc126d097ac42748632e04355733317ee3ac51ebeacce6021a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/8\/9-12.1792303771009.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "gomme baba ke"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi ba"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "ba bewago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ke kgoshi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masomehlano"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "le makgolo a mabedi"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "bao ba laolago"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "setšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T06:09:31.010323345Z",
+  "model": "glm-5.3"
+}

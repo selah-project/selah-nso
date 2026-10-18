@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "חיני",
+      "rationale": "go causative cha חיה — 'mphe bophelo' goba 'mpshafatša'; KJV 'quicken' e bolela go pshafatša"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרבו\/רחקו",
+      "rationale": "go swana le sehleng se se latelago — go atologa le go ba kgauswi, kgahlano"
+    }
+  ],
+  "translation": "La moya wa ka le utlwe go ya le hesede ya gago, Yahwe; mphe bophelo go ya le kahlolo ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "095bfc6b39d8c6e216e1e9ef7ab9b851811cace04c81f0bdcaa2b77d9df919ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/149-152.1792298845163.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "la moya wa ka"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "le utlwe"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "go ya le hesede ya gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "go ya le kahlolo ya gago"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "mphe bophelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:25.163993517Z",
+  "model": "glm-5.3"
+}

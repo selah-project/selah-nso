@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "סוד",
+      "rationale": "Sephiri — se Molao wa Selah se se šomisago bjalo ka lebaka la go gatelela sephiri sa setšhaba."
+    },
+    {
+      "kind": "crux",
+      "subject": "סוד אחר",
+      "rationale": "Go ka ba sephiri sa motho yo mongwe (jalo ka KJV) goba sephiri se sengwe wo mongwe a sego begile — merero ya dikgetsi e fapana."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ריבך ריב",
+      "rationale": "Infinitive absolute e boeleditšwe — go gatelela, go laela ka tsela ya lentšu le le boeleditšwego."
+    }
+  ],
+  "translation": "Khang ya gago e khangwe le ⟨את⟩ mogwera wa gago, gomme sephiri sa yo mongwe o se sephophole.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "87550aba326de330518724416d1edfa080be618560f325074fa51f86fa0615a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/25\/9-12.1792299779932.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "khang ya gago"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "e khangwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogwera wa gago"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mogwera wa gago"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "gomme sephiri"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "sa yo mongwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "sephophole"
+    }
+  ],
+  "timestamp": "2026-10-18T05:02:59.932731682Z",
+  "model": "glm-5.3"
+}

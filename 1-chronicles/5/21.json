@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 5:21",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dipalo tša phapo le batho",
+      "rationale": "Temana e balwa ka botlalo: dikamele 50 000, dinku 250 000, dipudi tša tonga 2 000, batho 100 000."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maphelo",
+      "rationale": "נפש ke 'selo se se hemago' — maphelo a batho, e sego 'meya' ka boemo bja Sesotho."
+    },
+    {
+      "kind": "crux",
+      "subject": "וישבו",
+      "rationale": " lemma ya go tswala batšhwedi ('ba tšera botšhwedi') kgathanong le 'ba utswile' — mo go lekantšwe ka 'ba tšera'."
+    }
+  ],
+  "translation": "Gomme ba tšera dikgomo tša bona, dikamele tša bona masomehlano sekete, le dinku le dipudi makgolo a pedi le masomehlano sekete, le dipudi tša tonga tše pedi dikete, le maphelo a batho lekgolo sekete.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "153127b8ff45f95e73c80d5df9adbb58966b202cd6be7941775f337f112c5dd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/5\/21-24.1792302994085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ba tšera"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "dikgomo tša bona"
+    },
+    {
+      "surface": "גמליהם",
+      "gloss": "dikamele tša bona"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masomehlano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "le dinku le dipudi"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "makgolo a pedi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masomehlano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "וחמורים",
+      "gloss": "le dipudi tša tonga"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tše pedi dikete"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "le maphelo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a batho"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    }
+  ],
+  "timestamp": "2026-10-18T05:56:34.086630670Z",
+  "model": "glm-5.3"
+}

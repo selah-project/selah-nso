@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "Preposition absorbed into the verb 'utlwisisa'; no standalone Sepedi word."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יהרסם\/יבנם",
+      "rationale": "Tear-down\/build-up antithesis, kept as theola\/aha pair."
+    },
+    {
+      "kind": "crux",
+      "subject": "subject of יהרסם",
+      "rationale": "Whose action — Yahwe destroys them (KJV) or implied 'they' — here rendered as Yahwe's act."
+    }
+  ],
+  "translation": "Ka gobane ga ba utlwisisa mošomo wa Yahwe, le mošomo wa matšwa ⟨a⟩ gagwe; o tla ba theola, gomme a sa ba aha.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e50bcc723ffbdcf5b2df4dfc62b445fbddf2ba80711639d7f20faa01ac20a13b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/28\/5-8.1792297474626.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ba utlwisisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "matšwa a gagwe"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "o tla ba theola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "ba aha"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:34.626977444Z",
+  "model": "glm-5.3"
+}

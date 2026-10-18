@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "go letšatši-ke-ng?",
+      "rationale": "Ditaelo tše pedi tša go hlabela le go itšepelela go Yahwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "Sepedi se šomiša lentšu la Seheberu go swana le molao wa D2; 'toka' e ka ba Go #2."
+    }
+  ],
+  "translation": "Hlabelang mahlabelo a tsedeke, gomme le itšepele go Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a3bd87c48661f56309d6a35bebae66b06a6ceb9024570ce214dcf6a4d178f119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/4\/5-8.1792297147869.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Hlabelang"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "mahlabelo a"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "gomme le itšepele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:19:07.870220594Z",
+  "model": "glm-5.3"
+}

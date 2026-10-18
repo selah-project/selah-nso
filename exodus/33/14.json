@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פנים",
+      "rationale": "Dual-plural 'faces' rendered 'Ponahalo' (presence); Hebrew keeps the bodily picture of the face that turns."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Copula added for the speaker Sepedi requires, Hebrew omits it."
+    }
+  ],
+  "translation": "Gomme ⟨o⟩ re: Ponahalo ya ka e tla sepela, gomme ke tla go phomola.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a50943af0ba1e4122df30205c0af43598c53a6af008cc33aa6af33a2c3f02d26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/33\/13-16.1792283307811.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme ⟨o⟩ re"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Ponahalo ya ka"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "e tla sepela"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "gomme ke tla go phomola"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    }
+  ],
+  "timestamp": "2026-10-18T00:28:27.812636095Z",
+  "model": "glm-5.3"
+}

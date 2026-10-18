@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יאמרך",
+      "rationale": "'ba go bolela' (go bolela ka wena ka go foša) kgahlanong le JPS 'ba bitša leina la gago' — bothata bja go ahlaahla sebopego sa poleloana."
+    },
+    {
+      "kind": "idiom",
+      "subject": "נשא לשוא",
+      "rationale": "modumo wa go phahamisa ka lefoša — go swana le go šomiša leina ka go se lokiša, go sego go phahamisa dilo ka bonna."
+    }
+  ],
+  "translation": "Bao ba go bolela ka maano a mabe; manaba a gago ba phahamisa leina la gago ⟨ka lefoša⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5f1308854f1c29eb210d34e9b38332f8fcb9733b46c0dfa608ccb6c3073ebdf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/139\/17-20.1792299061282.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "ba go bolela"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "ka maano a mabe"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ba phahamisa"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ka lefoša"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "manaba a gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:01.286405662Z",
+  "model": "glm-5.3"
+}

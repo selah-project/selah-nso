@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mokuri",
+      "rationale": "`קטרת` — mušo wa go fišwa tempele; Sepedi o na le lentšu le tee fela, sebopego sa mokuri se laetša mokgwa wa tempele."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "`מנחת` e bolokwa ka modumo go ya le D2 — e sego sehlabelo sa kgonthe."
+    }
+  ],
+  "translation": "Thapelo ya ka e itiragatše bjalo ka mokuri pele ga wena; go tlhatlhamolla matšhogo a ka bjalo ka minkha ya mašupeleng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/141\/1-4.1792299057657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "e itiragatše"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "mokuri"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga wena"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "go tlhatlhamolla"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "matšhogo a ka"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha ya"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "mašupeleng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:57.658720962Z",
+  "model": "glm-5.3"
+}

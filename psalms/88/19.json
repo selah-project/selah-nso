@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 88:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מידעי מחשך",
+      "rationale": "KJV\/JPS: 'bao ba ntsebago ba ile lefsifsing'; YLT: 'yo a tsebago ke ke lefsifsi' — sebopego se se sa hlaka"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na le copula; Sepedi se e nyaka"
+    }
+  ],
+  "translation": "O potletše go tšwa go nna yo a ratego le mogwera; bao ba ntsebago — ⟨ke⟩ lefsifsi fela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/88\/17-19.1792298346931.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "o potletše"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go tšwa go nna"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "yo a ratego"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "le mogwera"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "bao ba ntsebago"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "lefsifsi"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:06.932753262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 25:16",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושתו והתגעשו והתהללו",
+      "rationale": "Go thoma ka modumo o a swanago (š-t) le go makala ga mehlala ye tharo ya hitpael — thulaganyo ye e latelago e nyeletša ka Sepedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "והתהללו",
+      "rationale": "Hitpael wa הלל mo: 'go hlala\/go direla bohlale' (KJV: be mad) kgathanong le 'go tlotša' — moo e bolela go phaphatla"
+    }
+  ],
+  "translation": "Gomme ba tla nwa, ba gogomoge, ba hlale, ka baka la tšhoša yeo nna ke romago gare ga bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c726361a5935bbc1e27a89aee5524d16153b7ee59fcdb784d8772a09beb0d65c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/25\/13-16.1792293423926.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושתו",
+      "gloss": "gomme ba tla nwa"
+    },
+    {
+      "surface": "והתגעשו",
+      "gloss": "ba gogomoge"
+    },
+    {
+      "surface": "והתהללו",
+      "gloss": "ba hlale"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ke romago"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "gare ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:17:03.927415337Z",
+  "model": "glm-5.3"
+}

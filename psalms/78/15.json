@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבקע",
+      "rationale": "poledišano ya דקב\/בקע le setshwano sa 13: go bula lewatle le go bula maswika go diriša lentšu le tee"
+    },
+    {
+      "kind": "addition",
+      "subject": "go no",
+      "rationale": "Sepedi e nyaka go no meetse; Seheberu o šupa fela ka וישק"
+    }
+  ],
+  "translation": "O bula maswika nageng, a ba nwesa bjalo ka bodibo bjo bogolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/13-16.1792298229594.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "o bula"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "maswika"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nageng"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "a ba nwesa"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "bjalo ka bodibo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "bjo bogolo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:09.594803977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go nyakwa ga",
+      "rationale": "נפש ke 'se se hemago — mohutu, diphefong' mo e bolela nyakwa\/thato ya manaba, e sego moya"
+    },
+    {
+      "kind": "alternative",
+      "subject": "יאשר",
+      "rationale": "goba 'o tla atlega' — אשר e bolela go thwii le kgotsofontšhu; dumelelwa ke teko ya bobedi"
+    }
+  ],
+  "translation": "Yahwe o tla mo šireletša gomme a mo phediša; o tla dumelelwa lefaseng; gomme o se ke wa mo nea go nyakwa ga manaba a gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9b758854654f0c2f66c9f531cba1d38d7b1310124a6734e7a98832ed23f0fa47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/41\/1-4.1792297679132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "o tla mo šireletša"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "gomme a mo phediša"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "o tla dumelelwa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "wa mo nea"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "go nyakwa ga"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "manaba a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:59.133118824Z",
+  "model": "glm-5.3"
+}

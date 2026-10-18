@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וקסם",
+      "rationale": "KJV 'the prudent' against 'diviner' (mohlahlami); the root is divination by lot, so diviner is kept."
+    },
+    {
+      "kind": "elision",
+      "subject": "verse grammar",
+      "rationale": "The verse is a bare list of objects removed (continuing v.1); no verb in Hebrew."
+    }
+  ],
+  "translation": "motla le monna wa ntoa, moatlhodi le moprofeta, mohlahlami le mogolwane,",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "68546ba517ea2c83dba0696bae3637875c12a666b302bffd146ec30d44c082bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/3\/1-4.1792291204066.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "motla"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le monna"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wa ntoa"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "moatlhodi"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "le moprofeta"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "le mohlahlami"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "le mogolwane"
+    }
+  ],
+  "timestamp": "2026-10-18T02:40:04.066984469Z",
+  "model": "glm-5.3"
+}

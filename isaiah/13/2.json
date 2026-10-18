@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 13:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ditaelo tše tharo",
+      "rationale": "Ditaedi tše tharo tša bontši — tlhatlagatšang, phahamisang, thuthafatšang — di bitša bareki ba go sa bonagala"
+    },
+    {
+      "kind": "crux",
+      "subject": "נשפה",
+      "rationale": "Lemma šapa 'go se kgoba': 'e se nago selo' (ASV) kgahlanong le 'e phahamilego' ka go tšwa go ditekanyetšo tše dingwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bakgosi",
+      "rationale": "נדיבים ka mo go tlwaelega 'bao ba abelago ka bonolo \/ bakgosi'; sebopego sa lentšu ke ya ba-ikgethilego"
+    }
+  ],
+  "translation": "Go thabeng yeo e se nago selo: tlhatlagatšang sesupo, phahamisang lentšu go ⟨ba⟩, thuthafatšang letšatši — gomme ba tsene maging a bakgosi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "809548fa91c162458d83e0632e992dba136850f1d5a33e96bb4e313bd59cdc13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/13\/1-4.1792291481413.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "נשפה",
+      "gloss": "yeo e se nago selo"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "tlhatlagatšang"
+    },
+    {
+      "surface": "נס",
+      "gloss": "sesupo"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "phahamisang"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go ⟨ba⟩"
+    },
+    {
+      "surface": "הניפו",
+      "gloss": "thuthafatšang"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "gomme ba tsene"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "maging"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "bakgosi"
+    }
+  ],
+  "timestamp": "2026-10-18T02:44:41.414362533Z",
+  "model": "glm-5.3"
+}

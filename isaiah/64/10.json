@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebego",
+      "rationale": "Seheberu se re 'go fišwa' fela; 'sebego' se okeditšwe gore se kgone go bapetšwa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחמדינו",
+      "rationale": "lentšu le tšwa go חמד (go ratwa); 'dilo tše di ratego' e boloka bokao, e se bo phethagetše"
+    }
+  ],
+  "translation": "Ntlo ya rena ya bokgethwa le sekgahla sa rena, yeo bo-ntate bja rena ba go dumisago go yona, e bile ⟨sebego⟩ sa go fišwa ka mollo, gomme tšohle tša rena tše di ratego di bile go senyega.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bc774ce81b29543c300c47e3d7ec7c3b2a3c0fa31742a26f175a7dc3efaeb8fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/64\/9-11.1792292597050.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Ntlo"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "ya rena ya bokgethwa"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "le sekgahla sa rena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "ba go dumisago"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bo-ntate bja rena"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "sa go fišwa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme tšohle"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "tša rena tše di ratego"
+    },
+    {
+      "surface": "היה",
+      "gloss": "di bile"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "go senyega"
+    }
+  ],
+  "timestamp": "2026-10-18T03:03:17.050817868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "bala ba Israele",
+      "rationale": "Tiraelo tše tharo tša go laela ba sekgoba: dikologang, le dikologanyeng, balang."
+    },
+    {
+      "kind": "you",
+      "subject": "go Israele",
+      "rationale": "Mošomo o laetša setšhaba ka bobona mo lenakong la tempele."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikago tše phagamego",
+      "rationale": "מגדל ל bolela letšhemo — sebopego sa go šomišwa ka tlase ga 'tower' se felile Sepeding."
+    }
+  ],
+  "translation": "Dikologang ka Zione, le dikologanyeng ka yona, balang dikago tša yona tše phagamego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0eb93a496eaf672950affe49ab3d00a44a0851e938cd49fa5ed6359a22c5ef46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/48\/13-15.1792297746935.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "dikologang"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Zione"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "gomme le dikologanyeng ka yona"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "balang"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "dikago tša yona tše phagamego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:06.936035682Z",
+  "model": "glm-5.3"
+}

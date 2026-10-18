@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e bolokilwe ka modumo wa Seheberu go ya le D2 — moya\/phefo\/go hema ka lentšu le tee."
+    },
+    {
+      "kind": "crux",
+      "subject": "e maketše",
+      "rationale": "ישתומם — 'e maketše' kgathanong le 'e hlokofetše\/e tšhuile'; lentšu le bolela go tšhoha ka go feletša."
+    }
+  ],
+  "translation": "Gomme ruakh ya ka e khuruheditše ka me, pelo ya ka ka gare ga me e maketše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d7ea2addd3a0aa4d4a94507bbc4435ec9a6da2c7e1962af6ff60f2716542c0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/143\/1-4.1792299086182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "e khuruheditše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka me"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya ka"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "ka gare ga me"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "e maketše"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:26.183558115Z",
+  "model": "glm-5.3"
+}

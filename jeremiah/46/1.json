@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": "Conjunction rendered as relative 'leo' — Hebrew lacks a separate relative clause structure in Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ditšhaba",
+      "rationale": "הגוים ke 'ditšhaba tše dingwe' — e sego 'batho ba ditšhaba tše dingwe' ka moka."
+    }
+  ],
+  "translation": "Lentšu la Yahwe leo le tlilego go Yeremiya moprofeta mabapi le ditšhaba:",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9900ea6f24c1282b00fc05f8953f907338f9778a64c9224494c1b292782394ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/46\/1-4.1792293968972.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "le tlilego"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yeremiya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "moprofeta"
+    },
+    {
+      "surface": "על",
+      "gloss": "mabapi le"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T03:26:08.973024645Z",
+  "model": "glm-5.3"
+}

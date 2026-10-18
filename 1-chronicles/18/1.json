@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בנתיה",
+      "rationale": "'Diatsala tša yona' (mesela) ka literelona; 'metse ya yona' ke tšhutišo ya go kwa gabotse"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Gatha",
+      "rationale": "go boutša lefelo la go hloma la Bapelisti le le tšerwego"
+    }
+  ],
+  "translation": "Gomme ka morago ga seo, Dafida a otla ⟨את⟩ Bapelisti gomme a ba fenya, gomme a tšea ⟨את⟩ Gatha le metse ya yona go seatla sa Bapelisti.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b66dd8990192fa8811abf5a0dc0f96ffa02afd2855977afc9212a9a28ec156fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/18\/1-4.1792303292871.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme e bile"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "a otla"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bapelisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelisti"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "gomme a ba fenya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "gomme a tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gatha"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gatha"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "le metse ya yona"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "go seatla sa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelisti"
+    }
+  ],
+  "timestamp": "2026-10-18T06:01:32.871970895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 30:11",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יתרו",
+      "rationale": "'thapo ya ka' (cord, KJV\/JPS) kgahlanong le 'gauta ya mabogo' (bowstring, BSB); thapo e hlalosa maatla a Job a go phologa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ורסן",
+      "rationale": "רסן ke renthane la phoofolo — seswantšho sa go tswalela mouwane; mo se bolela go lahla taolo ya maitshwaro."
+    },
+    {
+      "kind": "you",
+      "subject": "ka",
+      "rationale": "Job o bolela ka bowena ka go diriša 'ya ka', polelo ya bothoko."
+    }
+  ],
+  "translation": "Ka gobane o ile a lokolla ⟨את⟩ thapo ya ka gomme a ntshwenya, gomme ba lahletša renthane go tšwa pele ga ka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "75a70caf4ccd6f425cf387fb39eb79f96f7ac916c21935104bdab5f4b727e861",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/30\/11-12.1792305414043.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "thapo ya ka"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "a lokolla"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "gomme a ntshwenya"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "gomme renthane"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "go tšwa pele ga ka"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ba lahletša"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:54.044124739Z",
+  "model": "glm-5.3"
+}

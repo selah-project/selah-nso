@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 7:7",
+  "book": "micah",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "o tla nkutša",
+      "rationale": "ישמעני e ka ba nakong ya bjale 'o a nkutša'; nakong ya moswa e kgethilwe ka gobane go tshepedišano ya pelothwii."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tokoloho",
+      "rationale": "ישע ke 'tokoloho\/tharollo' — e sego 'Mophodiši' bjalo ka ditradicione tše dingwe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואני",
+      "rationale": "Pego ya nna (ואני) e latediša tema ya setšhaba yeo e senyegilego — phapang ya moprofeta le setšhaba."
+    }
+  ],
+  "translation": "Empa nna, go Yahwe ke a lebelela, ke beletša Elohim wa tokoloho ya ka; Elohim wa ka o tla nkutša.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f4371d2e188c622b90fd49254d4a9aa07e940916c8edee4f3e7943fd93f48ee6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/micah\/7\/6-7.1792305179707.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "empa nna"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אצפה",
+      "gloss": "ke a lebelela"
+    },
+    {
+      "surface": "אוחילה",
+      "gloss": "ke beletša"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "tokoloho ya ka"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "o tla nkutša"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T06:32:59.708327166Z",
+  "model": "glm-5.3"
+}

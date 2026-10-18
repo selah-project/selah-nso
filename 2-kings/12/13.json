@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 12:13",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בדק",
+      "rationale": "בדק ke tlhafo ya ntlo (sebaka se senyegilego), e sego 'meputso' ya tša maloko"
+    },
+    {
+      "kind": "crux",
+      "subject": "לחזקה",
+      "rationale": "tlhamano ya pele e re 'go tiša'; Seheberu se bolela go tišega gabotse bjalo ka moo — diphethollo tše dingwe di bolela 'go fetola'"
+    },
+    {
+      "kind": "elision",
+      "subject": "לחזקה",
+      "rationale": "lentšu la bofelo le hlaka ka 'go tišetšwa' — sebopego sa lona se thata go se fetolela"
+    }
+  ],
+  "translation": "le bakgadi, le bakgobi ba maswika, le go reka dikota le maswika a a kgobilwego, go tiša ⟨את⟩ ditlhafo tša ntlo ya Yahwe, le se sengwe le sengwe se se tšwago go ntlo, go tišetšwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "27feb0e5dd230df3b4916ebcefa483cdcea384dde59304d604633591939c3e15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/12\/13-16.1792290790248.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולגדרים",
+      "gloss": "le bakgadi"
+    },
+    {
+      "surface": "ולחצבי",
+      "gloss": "le bakgobi"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ba maswika"
+    },
+    {
+      "surface": "ו לקנות",
+      "gloss": "le go reka"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "dikota"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "le maswika"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "a a kgobilwego"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "go tiša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlhafo"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ditlhafo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le se sengwe le sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "se tšwago"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "לחזקה",
+      "gloss": "go tišetšwa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:33:10.248950746Z",
+  "model": "glm-5.3"
+}

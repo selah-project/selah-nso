@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mafelo a godimo",
+      "rationale": "במות 'dintlha tša godimo' — mafelo a go hlabela a nago le kgoro ya kgodišo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבמות \/ בבמות",
+      "rationale": "phetišo ya lentšu le le tee ka peomolao, sebopego seo se bolokilwego ka go boella"
+    }
+  ],
+  "translation": "Fela mafelo a godimo a sa tlošwa; setšhaba se sa tšwelletše go hlabela le go muša mooko mafelong a godimo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0f72284d8fed7cd045d4b5c43a2df63901077305eddb3735653efbeca5a3cf4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/12\/1-4.1792290783035.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mafelo a godimo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "a sa tlošwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "se sa tšwelletše"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "go hlabela"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "gomme go muša mooko"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "mafelong a godimo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:33:03.036230638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 34:26",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ספקם",
+      "rationale": "Clap\/strike: 'he strikes them' (KJV\/BSB) vs 'he claps his hands at them' (gesture of derision, ylt-style) — root means clapping."
+    },
+    {
+      "kind": "alternative",
+      "subject": "bjalo ka basebe",
+      "rationale": "תחת רשעים could also read 'in place of the wicked' (under\/beneath), but 'as wicked' matches most versions."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחת",
+      "rationale": "Root usually means 'underneath'; here adverbial 'as\/instead of' — the spatial picture is lost in Sepedi."
+    }
+  ],
+  "translation": "Bjalo ka basebe o ba betša, ka lefelong leo ba le bonago.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a7babb92bf3fdf9d5d3cb3f9e8c622f59b373626097c8d9911efb291829ced81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/34\/26-27.1792305399410.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "basebe"
+    },
+    {
+      "surface": "ספקם",
+      "gloss": "o ba betša"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ba le bonago"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:39.411091831Z",
+  "model": "glm-5.3"
+}

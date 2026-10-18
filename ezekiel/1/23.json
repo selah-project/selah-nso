@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 1:23",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אשה אל אחותה",
+      "rationale": "Lit. 'a woman to her sister' — Hebrew idiom for 'the one to the other' of paired objects; rendered idiomatically."
+    },
+    {
+      "kind": "elision",
+      "subject": "להנה",
+      "rationale": "Reflexive 'for themselves' absorbed into the covering clauses; no independent Sepedi phrase carries it."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לאיש שתים מכסות להנה",
+      "rationale": "The whole clause is repeated verbatim, framing the body between two pairs of wings; the repetition is kept."
+    }
+  ],
+  "translation": "Gomme ka tlase ga thollo maphego a tšona a lokišegile, e nngwe go e nngwe; go e nngwe le e nngwe go na le maphego a pedi a kwetšago, gomme go e nngwe le e nngwe go na le maphego a pedi a kwetšago ⟨את⟩ mebele ya tšena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2113cc0b1800adb97ffd86e2da9cf6a3e9a3d4eb2e85a2bb8993fd11e1ec0a9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/1\/21-24.1792294365971.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "gomme ka tlase ga"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "thollo"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "maphego a tšona"
+    },
+    {
+      "surface": "ישרות",
+      "gloss": "a lokišegile"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "go e nngwe le e nngwe"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "a pedi"
+    },
+    {
+      "surface": "מכסות",
+      "gloss": "a kwetšago"
+    },
+    {
+      "surface": "להנה",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "ולאיש",
+      "gloss": "gomme go e nngwe le e nngwe"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "a pedi"
+    },
+    {
+      "surface": "מכסות",
+      "gloss": "a kwetšago"
+    },
+    {
+      "surface": "להנה",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mebele ya tšena"
+    },
+    {
+      "surface": "גויתיהם",
+      "gloss": "mebele ya tšena"
+    }
+  ],
+  "timestamp": "2026-10-18T03:32:45.984355271Z",
+  "model": "glm-5.3"
+}

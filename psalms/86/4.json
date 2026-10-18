@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש gape mo — moya wa bophelo, e sego 'moya' fela"
+    },
+    {
+      "kind": "idiom",
+      "subject": "go phahamisa moya",
+      "rationale": "נשא נפש — 'go phahamisa moya' go ya go Yale, idiom ya go itlhageletša motho"
+    }
+  ],
+  "translation": "Gabogabya moya wa mohlanka wa gago, ka gobane go wena, Adonai, moya wa ka ke o phahamisa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9bf46ba0d669e77375ecc6311d1ed76a626361b83e9a0d9085bd67760988709b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/86\/1-4.1792298403632.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "gabogabya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "wa mohlanka wa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ke o phahamisa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:03.633791577Z",
+  "model": "glm-5.3"
+}

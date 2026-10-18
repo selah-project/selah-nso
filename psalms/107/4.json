@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 107:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בישׁימון דָּרֶךְ",
+      "rationale": "'dithakeng ba tsela': ba bangwe ba bolela 'tsela ya go feta dithakeng', ba bangwe 'ba se nago tsela'"
+    }
+  ],
+  "translation": "Ba lahlegile nageng, dithakeng ba tsela, motse wa go dula ga ba wa hwetše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d9140e39ef3ab1a1c18ad99e6f9c6a87ba0ea4d72d4b275cb29a212149e09013",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/107\/1-4.1792298675325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תעו",
+      "gloss": "ba lahlegile"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nageng"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "dithakeng"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "wa go dula"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ba wa hwetše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:35.326638264Z",
+  "model": "glm-5.3"
+}

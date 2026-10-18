@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "a robetše le bo-ntate wa gabo",
+      "rationale": "עשכב עם אבתיו — 'go robala le bo-ntate' ke polelwanamedumo ya go hwetša lehu; ka selegae 'a hwetše le bo-ntate wa gabo'"
+    },
+    {
+      "kind": "addition",
+      "subject": "a bolokwa",
+      "rationale": "Seheberu se šomiša sebopego se bego sa kopana — 'a bolokwa' go hlokahala go bontšha mošomo wa go se lokelwa ke sebopiwa"
+    }
+  ],
+  "translation": "Dafida a robetše le bo-ntate wa gabo, a bolokwa motseng wa Dafida.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3bf12a4814bfbedcdbebfbb452d0081439cd67cae8106ce59c8175d3d42dcb3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/2\/9-12.1792289549857.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "a robetše"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntate wa gabo"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "a bolokwa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T02:12:29.858021047Z",
+  "model": "glm-5.3"
+}

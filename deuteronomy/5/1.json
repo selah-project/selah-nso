@@ -1,0 +1,129 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "le",
+      "rationale": "conjunction added to join two object phrases, absent in Hebrew"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraele",
+      "rationale": "imperative direct address to Israel — 'Theetšo, Yisraele'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "שמע",
+      "rationale": "summons-hear imperative opening the covenant speech"
+    }
+  ],
+  "translation": "Moshe a bitša ⟨את⟩ Yisraele ka moka, a ba re: Theetšo, Yisraele, ⟨את⟩ melawana yeo le ⟨את⟩ dikahlolo tše ke di bolelago ka ditlelakgolo tša lena lehono; le di ithute, le di sireletše go di dira.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/5\/1-4.1792285622902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitša"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Theetšo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melawana"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melawana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikahlolo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "dikahlolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "di bolelago"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "ka ditlelakgolo tša lena"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "le di ithute"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ di"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "le di sireletše"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "go di dira"
+    }
+  ],
+  "timestamp": "2026-10-18T01:07:02.902907078Z",
+  "model": "glm-5.3"
+}

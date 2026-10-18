@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 5:11",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "llelela",
+      "rationale": "נהם ke go lla ka modumo o mokoto, go hweletša — e sego go llela fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "שארך",
+      "rationale": "שאר: 'mmele' kgotalo ' dijo '; diphetošo tše mmalwa di a fapana"
+    }
+  ],
+  "translation": "gomme o llelela ka mafelelo a gago, ge nama ya gago le mmele wa gago o phetha ka mokgwa o mobe go feta tekano;",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "acca78593eb1d357b2716333b43bdc368747b41848d9c367b11235b5f92645bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/5\/9-12.1792299171267.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונהמת",
+      "gloss": "gomme o llelela"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "ka mafelelo a gago"
+    },
+    {
+      "surface": "בכלות",
+      "gloss": "ge ... o phetha ka mokgwa o mobe go feta tekano"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "nama ya gago"
+    },
+    {
+      "surface": "ושארך",
+      "gloss": "le mmele wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:52:51.268389468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 108:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חיל",
+      "rationale": "חיל: 'lesika\/maatla' kgahlanong le 'bohlale' (dikgethi tše dingwe ka mošomo wa mohla) — mo e ka bapeta le maatla a mošomo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צרינו",
+      "rationale": "צר mo e bolela 'ba ba re tlhwaretseng' — lentšu le le tšwago go מצר (108:13), e lega gore bothata le lenaba ke selo se tee."
+    },
+    {
+      "kind": "predicate",
+      "subject": "you",
+      "rationale": "Boledišana bja setšhaba go Elohim — thapelo ya thuso."
+    }
+  ],
+  "translation": "Ka Elohim re tla dira lesika, gomme ⟨ke yena⟩ yo a tla kgwathago ba ba re tlhwaretseng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c5a10fb86e0c45a426e6719a16b72a520b85b21633828df295e0b4a564b5d554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/108\/13-14.1792298686514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Ka Elohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "re tla dira"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "lesika"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "gomme ke yena"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "a tla kgwatha"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ba ba re tlhwaretseng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:46.515542674Z",
+  "model": "glm-5.3"
+}

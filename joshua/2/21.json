@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "thapo",
+      "rationale": "תקוה means cord here and expectancy elsewhere; the same word returns in 2:18 as the sign of deliverance"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תקות",
+      "rationale": "one Hebrew word carries both 'cord' and 'hope' — the scarlet cord IS Rahab's hope, lost as a pun in Sepedi"
+    }
+  ],
+  "translation": "Gomme a re: Go ya ka mantšu a gago, go le bjalo. A ba romela, ba tsena; gomme a gokagakatša ⟨את⟩ thapo ye kgubedu ka lefaseterefeng.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "853317505c11afd20493085fbf131364fbea2a8286d178ec408cb19910c2e51a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/2\/21-24.1792286579154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "go ya ka mantšu a gago"
+    },
+    {
+      "surface": "כן",
+      "gloss": "go le bjalo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke pho"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "a ba romela"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "a gokagakatša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thapo ye kgubedu"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "thapo"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ye kgubedu"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "ka lefaseterefeng"
+    }
+  ],
+  "timestamp": "2026-10-18T01:22:59.154875540Z",
+  "model": "glm-5.3"
+}

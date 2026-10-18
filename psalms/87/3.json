@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "ka wena",
+      "rationale": "polelo ye e lebelela toropo ya Elohim ka boelee, o mo bitšwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Selah",
+      "rationale": "tšhupo ya mmino ya Seheberu, e sa fetolelwang — khutšo ya mmino"
+    }
+  ],
+  "translation": "Dilo tše dikgolo di botšwa ka wena, toropo ya Elohim. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/87\/1-4.1792298344937.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "dilo tše dikgolo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "di botšwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:04.937952132Z",
+  "model": "glm-5.3"
+}

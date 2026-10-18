@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mosebe",
+      "rationale": "חץ ke 'molodi' — seholowo sa go bina; seswantšho sa go thunya se bolokwa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וירם\/פתאום",
+      "rationale": "Elohim o kgutlisela mosebe wo a latotswego (v.5 לירות, ירהו) — boitapološo bja taba"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o tla⟩",
+      "rationale": "imperfect ya Seheberu e bontšha bokamosi; Sepedi e nyaka mošomo o tlhagileng"
+    }
+  ],
+  "translation": "Gomme Elohim o tla ba thuntšha ka mosebe; ka tshwanelo ba ba gobetše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/64\/5-8.1792297991796.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "gomme o tla ba thuntšha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ka mosebe"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "ka tshwanelo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba ba gobetše"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "kgoboro tša bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:11.797927605Z",
+  "model": "glm-5.3"
+}

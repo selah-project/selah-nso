@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨batho⟩",
+      "rationale": "לכל o bolela 'go ka moka' fela; 'batho' ga e gona ka Sepedi go la sephetho, ka gobane mošomo le gona o akaretšwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "meselo",
+      "rationale": "רחמיו ke bontši — 'meselo ya gagwe' — e swera motho ka moya wa mafelelo, e sego lentšu le tee"
+    }
+  ],
+  "translation": "Botse Yahwe go ⟨batho⟩ ka moka, gomme meselo ya gagwe e sepela godimo ga mošomo wa gagwe ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/145\/9-12.1792299103434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Botse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ⟨batho⟩ ka moka"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "gomme meselo ya gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mošomo wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:43.435254430Z",
+  "model": "glm-5.3"
+}

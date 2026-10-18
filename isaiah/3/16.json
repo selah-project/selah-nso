@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 3:16",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי",
+      "rationale": "כי ka morago ga יען e kopantšwe le sona; e sa fetoletšwe go ikemetše"
+    },
+    {
+      "kind": "hapax",
+      "subject": "תעכסנה",
+      "rationale": "עכס e hlaga fa fela go Tanakh — go apara dithušigare goba go epa modumo ka maoto"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ומשקרות עינים",
+      "rationale": "'mahlo a maikakanyetšo' — šaqar e bolela go foša; mahlo a go hlaka banna ka boikakanyetšo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלוך וטפף תלכנה",
+      "rationale": "go bušetšwa ga lento la go sepela ka go tšwelapele, mokgwa wa go sepedisa ga barwedi — se se laelwa ke go theoga ga mogato"
+    }
+  ],
+  "translation": "Gomme Yahwe a re: ka gobane barwedi ba Tsiyone ba ikakantše, gomme ba sepela ba otlolla ⟨את⟩ meala, ba sepolela ka mahlo a maikakanyetšo — ge ba sepela ka mekgatla ya go tepatepa, gomme ka maoto a tšona ba hletša modumo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2c751c9c671026c82246b4efc5cba8065fb7d9fced03901563d71dc233dde11a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/3\/13-16.1792291264081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Gomme ... a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ba ikakantše"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barwedi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ba Tsiyone"
+    },
+    {
+      "surface": "ותלכנה",
+      "gloss": "gomme ba sepela"
+    },
+    {
+      "surface": "נטוות",
+      "gloss": "ba otlolla"
+    },
+    {
+      "surface": "גרון",
+      "gloss": "⟨את⟩ meala"
+    },
+    {
+      "surface": "ומשקרות",
+      "gloss": "gomme ba sepolela"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ka mahlo a maikakanyetšo"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ge ba sepela"
+    },
+    {
+      "surface": "וטפף",
+      "gloss": "gomme ka mekgatla ya go tepatepa"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "ba sepela"
+    },
+    {
+      "surface": "וברגליהם",
+      "gloss": "gomme ka maoto a tšona"
+    },
+    {
+      "surface": "תעכסנה",
+      "gloss": "ba hletša modumo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:41:04.082972173Z",
+  "model": "glm-5.3"
+}

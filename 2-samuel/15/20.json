@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 15:20",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסד ואמת",
+      "rationale": "Nominal clause without verb: 'may hesede and nnete be with you' (KJV, BSA) vs 'with kindness and truth' (JPS) — Sepedi e tseletše ka ⟨a ba⟩ bjalo ka thapelo."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על אשר אני הולך",
+      "rationale": "Sefoko se ipolela: 'I am walking upon that which I am walking' — sefoko sa go bolela sephiri se sa tsebego; Sepedi: 'ke sepela sephiring se ke se sepelego'."
+    },
+    {
+      "kind": "elision",
+      "subject": "אנועך",
+      "rationale": "נועך — go kgobama, go fologa; Sepedi 'ke kgoba o tlale' e bolokwa ka go fetoga."
+    }
+  ],
+  "translation": "Maabane o tšwele, gomme lehono ke kgoba o tlale le rena go sepela, gomme ke sepela sephiring se ke se sepelego. Boela, gomme o boelletše ⟨את⟩ bana baeno le wena — hesede le nnete ⟨a ba⟩ le wena.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "af50f32a54ece5a84435e983865e47d7df66d4934083546d0200c8fc010b3757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/15\/20-20.1792304877422.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמול",
+      "gloss": "maabane"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "o tšwele"
+    },
+    {
+      "surface": "והיום",
+      "gloss": "gomme lehono"
+    },
+    {
+      "surface": "אנועך",
+      "gloss": "ke kgoba o tlale"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "le rena"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go sepela"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "gomme ke"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ke sepela"
+    },
+    {
+      "surface": "על",
+      "gloss": "sephiring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "se sepelego"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "boela"
+    },
+    {
+      "surface": "והשב",
+      "gloss": "gomme o boelletše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana baeno"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "bana baeno"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "gomme nnete"
+    }
+  ],
+  "timestamp": "2026-10-18T06:27:57.422668717Z",
+  "model": "glm-5.3"
+}

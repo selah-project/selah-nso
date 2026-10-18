@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mokopi",
+      "rationale": "גבור ke yo maatla, mopi wa diteraka; 'mokopi' o tšerea serala sa Sesotho sa 'mighty'"
+    },
+    {
+      "kind": "crux",
+      "subject": "מתרונן מיין",
+      "rationale": "go se ye pele ka bebera (BSB, JPS) kgathanong le go kgošiša ka baka la yona (KJV); go tletše go sa utjale ka Adonai"
+    }
+  ],
+  "translation": "Adonai o tsogetše bjalo ka mo kotišwego, bjalo ka mokopi yo a kgošišago ka baka la bebera.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ee1bbbefdf39b4da71dd4c1339c015cb762bedd0ae23a1942a770b897d331a93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/65-68.1792298273387.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "a tsogetše"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "bjalo ka mo kotišwego"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "bjalo ka mokopi"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "yo a kgošišago"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ka baka la bebera"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:53.388191718Z",
+  "model": "glm-5.3"
+}

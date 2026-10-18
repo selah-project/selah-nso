@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mosadi",
+      "rationale": "אשה ke 'mosadi' — e sego fela 'wa mo nyalwego'"
+    }
+  ],
+  "translation": "Gomme Noa a ntšha, le bana ba gagwe, le mosadi wa gagwe, le basadi ba bana ba gagwe, ⟨את⟩-ye a nago le yena.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "57c93b442949dd4472485cdb42ed89b33537ec8839b290a8bea46185588ddb81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/8\/18-19.1792304577939.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "a ntšha"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "le bana ba gagwe"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "le mosadi wa gagwe"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "le basadi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ba bana ba gagwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ye a nago le yena",
+      "marks": "ye a nago le yena"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:57.940061866Z",
+  "model": "glm-5.3"
+}

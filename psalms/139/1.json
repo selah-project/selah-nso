@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nna⟩ e senyegile",
+      "rationale": "Seheberu se na le sefokodi-sa-nthla ⟨-ni⟩ ka go nthlasetše; Sepedi se se aga ka go ntseba"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Diterama e bolela go Yahwe ka kotla"
+    }
+  ],
+  "translation": "Go moetapele; psalema ya Dafida. Yahwe, o nthlasetše ka mo go tseneletseng gomme o ntseba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a4b3baebe4f921a8458c1fba214a9e6e34489db7b93a8b2a4c0af9d83bb54218",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/139\/1-4.1792299031289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moetapele"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalema"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "o nthlasetše ka mo go tseneletseng"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "gomme o ntseba"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:31.289895844Z",
+  "model": "glm-5.3"
+}

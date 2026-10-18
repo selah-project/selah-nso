@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 26:15",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelo ya lona",
+      "rationale": "נפשכם ke moya\/mafi a bophelo, e sego pelo ka nnete — 'nephesh' e fapana le 'pelo'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תמאסו · תגעל",
+      "rationale": "Mantšu a mabedi a go hloilega a thekgane — parallelism ya go nyefola le go hloilega ga pele."
+    }
+  ],
+  "translation": "gomme ge le ka nyefola melao ya me ya mebaletšo, gomme ⟨את⟩ dikahlolo tša me pelo ya lona e ka di hloile, go se dire ⟨את⟩ ditaello tša me ka moka, gore le phušule ⟨את⟩ kgwerano ya me —",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b8c7c19eb040a9f1be83e0f014129552a3de6b565a958f8afbcaed7dde93030c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/26\/13-16.1792284303781.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "melao ya me ya mebaletšo"
+    },
+    {
+      "surface": "תמאסו",
+      "gloss": "le ka nyefola"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikahlolo tša me"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo tša me"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "e ka di hloile"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "pelo ya lona"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "go se"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "dire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditaello tša me ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "ditaello tša me"
+    },
+    {
+      "surface": "להפרכם",
+      "gloss": "gore le phušule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgwerano ya me"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgwerano ya me"
+    }
+  ],
+  "timestamp": "2026-10-18T00:45:03.782783215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "diswantšho tša tšona di feta tša Yerushalayime",
+      "rationale": "מירושלם ומשומרון: go bapisa go sa hlaka — diswantšho tša ditšhaba di feta tša Yerushalayime le Shomorone (KJV\/JPS), goba sebopego se sengwe se sa hlaka (YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "seswantšho",
+      "rationale": "האליל ke 'seo se se nago mohola' — sengwalwa sa seswantšho se se dirilwego go rapelwa"
+    }
+  ],
+  "translation": "Bjalo ka ge seatla sa ka se hwetšile bogoši bja seswantšho, le diswantšho tša tšona di feta tša Yerushalayime le tša Shomorone,",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ba84caccd6ce4c747172d47641badbd41cc89c70f3e5e5012007dab28397f0f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/10\/9-12.1792291384656.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Bjalo ka ge"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "se hwetšile"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa ka"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "bogoši bja"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "seswantšho"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "le diswantšho tša tšona"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "tša Yerushalayime"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "le tša Shomorone"
+    }
+  ],
+  "timestamp": "2026-10-18T02:43:04.657461152Z",
+  "model": "glm-5.3"
+}

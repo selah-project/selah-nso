@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "malanga a tharo",
+      "rationale": "palo ya malanga — tharo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bašala-bašala",
+      "rationale": "שטרים: bašumiši ba semmušo, baokamedi; lentšu la Sepedi le thekga sebopego sa mošomo, e sego setšhaba"
+    }
+  ],
+  "translation": "Go sego go feta, ka mafelelo a malanga a tharo, bašala-bašala ba ile ba sepela ka bogareng bjwa setšhaba.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b58ff96aa4d4e28db315986a8a884fa5805b72cda19685af79732fedef72288a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/3\/1-4.1792286508658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go sego go feta"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ka mafelelo"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "a tharo"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malanga"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ba ile ba sepela"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "bašala-bašala"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka bogareng"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "bjwa setšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T01:21:48.659376002Z",
+  "model": "glm-5.3"
+}

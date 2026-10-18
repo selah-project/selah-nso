@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יהלמני חסד",
+      "rationale": "'A ntlabole ka hesede' kgahlanong le 'a ntšepe — ke hesede': gobopha gore go labolwa ke moya wa go laola, e sego kotlo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמן ראש",
+      "rationale": "'Mafura a hlogo' — seswantšho sa kgetho le kgodumo; šumišo ya mafura le badudi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ברעותיהם",
+      "rationale": "'Mabaping a bona' goba 'go rerwa ga mabapa a bona' — thapelo e dula go ba gakaegile."
+    }
+  ],
+  "translation": "Yo a lokilego a ntlabole ka hesede, gomme a nlaole; mafura a hlogo — a se ke a gana hlogo ya ka; gobane sa le gomme thapelo ya ka e dula mabaping a bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/141\/5-8.1792299071950.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "a ntlabole"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a lokilego"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ka hesede"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "gomme a nlaole"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "a hlogo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יני",
+      "gloss": "a gana"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hlogo ya ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa le"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "gomme thapelo ya ka"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "mabaping a bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:11.951648200Z",
+  "model": "glm-5.3"
+}

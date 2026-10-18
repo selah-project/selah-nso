@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mošitla",
+      "rationale": "הארנבת ke mošitla (hare), e sego 'khutlwana' ya diphetholelo tše dingwe"
+    },
+    {
+      "kind": "crux",
+      "subject": "go tlisa se-boelwa-molomo",
+      "rationale": "mošitla gape ga a tloloke se-boelwa ka tetemano; Seheberu se latela se se bonagalago fela"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ mošitla, ka gobane o tlisa se-boelwa-molomo, eupša lenao ga la aroganela; ga se se hlwekilego go lena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "49b0ff479b4266b9e8da21a064e53f03e1ba4487e131af884edcfeb504156b15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/5-8.1792283776419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Gomme ⟨את⟩",
+      "marks": "mošitla"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "mošitla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "o tlisa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "se-boelwa-molomo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "eupša lenao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "la aroganela"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ga se se hlwekilego"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:36:16.420816719Z",
+  "model": "glm-5.3"
+}

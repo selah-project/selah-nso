@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 1:10",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dihadase",
+      "rationale": "הדסים — mehlare ya hadase; lentšu le ngwalwa ka modumo wa lona ka gobane Sepedi ga se na leina la sona."
+    },
+    {
+      "kind": "elision",
+      "subject": "ה־ ya article",
+      "rationale": "Sepedi ga se na article; ה־ ya Seheberu ga e ngwalwe gomme ga e bolokwe."
+    }
+  ],
+  "translation": "Gomme motho yo a emego gare ga dihadase a araba, a re: Tše ke bao Yahwe a ba romilego go sepela lefaseng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a39c48aa05b86b91c4ca1ef9efbef921831641fded1029c74dafaa868dc0cad7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/1\/9-12.1792296813049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "yo a emego"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "ההדסים",
+      "gloss": "dihadase"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a ba romilego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להתהלך",
+      "gloss": "go sepela"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:13:33.050294746Z",
+  "model": "glm-5.3"
+}

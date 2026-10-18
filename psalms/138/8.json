@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mošomo⟩ ⟨wo⟩",
+      "rationale": "בעדי 'bakeng sa ka' se šumišwa bjalo ka sehlare sa sebopego; Sepedi se nyaka leina la selo."
+    },
+    {
+      "kind": "crux",
+      "subject": "יגמר בעדי",
+      "rationale": "'O tla phetha' goba 'o tla fediša' — go phetha mošomo le go fediša dithulano."
+    }
+  ],
+  "translation": "Yahwe o tla phetha ⟨mošomo⟩ ⟨wo⟩ o nkalafetšego; Yahwe, hesede ya gago e dula nakong e sa kwalego; o se ke wa tlogela mošomo wo wa matogo a gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/138\/5-8.1792299025967.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "o tla phetha"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨mošomo⟩ ⟨wo⟩ o nkalafetšego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "nakong e sa kwalego"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mošomo wo"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "matogo a gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "tlogela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:25.970039425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le kopula; Sepedi se e nyaka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "naga e mpe",
+      "rationale": "המדבר ke bošegofatši bja naga ya go fula; 'naga e mpe' e swara sebopego sa lona."
+    }
+  ],
+  "translation": "Gomme Faro a tla re ka bana ba Yisraele: ba tšereletšwe ⟨ke⟩ lefaseng, naga e mpe e ba kwale.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ae79ed79448e939b4d7305993182dcd9c3fffa5fb5f9a41c185b12c793b16863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/14\/1-4.1792282708389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "a tla re"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Faro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ka bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "ba tšereletšwe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "e kwale"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "naga e mpe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:18:28.390333198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Refaim",
+      "rationale": "ba dulaeng — Refaim (YLT) kgahlanong le 'ba hwilego' (KJV) goba 'masele' (JPS); leina le bolokwa ka modumo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "e thubetše",
+      "rationale": "šaḥáh — 'go namagala\/go thuba' go ya ka tlase; dikgati di e fetolela ka 'go iketla' goba 'go kgoma'."
+    }
+  ],
+  "translation": "Ka gobane ntlo ya yena e thubetše go ya lehung, gomme ditsela tša yena go ya go Refaim.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e9a0b7110083cd112e2542f5a96157b4409c2b841884b13041db69e657ce1932",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/2\/17-20.1792299198631.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "e thubetše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lehung"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ntlo ya yena"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme go ya"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "go Refaim"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "ditsela tša yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:53:18.632038938Z",
+  "model": "glm-5.3"
+}

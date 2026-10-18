@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sefole",
+      "rationale": "נבל ke yena yo a latolang Modimo ka pelong, e sego sefole sa tlhago fela"
+    },
+    {
+      "kind": "elision",
+      "subject": "אין אלהים",
+      "rationale": "Seheberu se re 'ga go Elohim' — se sa nyaka kopanyi ya 'ga gona Modimo'"
+    },
+    {
+      "kind": "you",
+      "subject": "go mmadi",
+      "rationale": "Psalme e bula ka go bolela ka sefole, e bitša mmadi go ikutlwa"
+    }
+  ],
+  "translation": "Go molaodi wa košo. Wa Dafida. Sefole se boletše sefubing sa sona: ga go Elohim. Ba senyeditše, ba dirile tša go tlwaela; ga go yo a dirago sebotse.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/14\/1-4.1792297302025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go molaodi wa košo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dafida"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o boletše"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "sefole"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "sefubing sa sona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "ba senyeditše"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "ba dirile tša go tlwaela"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "mediro"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo a dirago"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sebotse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:42.026539203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשורי מהם",
+      "rationale": "'go fapafala go tšwa go bona' goba 'go boela morago go bona' — baphetoli ba fapana: 'ge ke ba tloša' kgahlanong le 'ge ke ba tlogela'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba",
+      "rationale": "kopantšwego le 'le-lefsu le tla ba swara' — Sepedi se nyaka lefsa"
+    }
+  ],
+  "translation": "Gore le ge ba ka godiša ⟨את⟩ bana ba bona, ke tla ba hlatlamolla ba se sa na motho; gobane le boela, le-lefsu le tla ba swara ge ke tlo ba tloša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "85733376a4fdef4fc44aeaad025b158a6e5314fc167b8af32e92a544459d0ee6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/9\/9-12.1792296010077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "le ge"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "ba ka godiša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba bona"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bana ba bona"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "ke tla ba hlatlamolla"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "ba se sa na motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le boela"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "le-lefsu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "ge ke tlo ba tloša"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "go bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:00:10.078783949Z",
+  "model": "glm-5.3"
+}

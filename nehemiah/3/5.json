@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 3:5",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "molala",
+      "rationale": "הביאו צוארם 'go tliša molala' — Seheberu: go beja molala bjalo ka khomo ya go kgomaretša mohlagare; Sepedi o bolokile ponahalo ya molala."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדניהם",
+      "rationale": "Mo ebeging ke marena a batho (ba Ethiopia ya mohla), e sego Adonai wa Modimo; KJV e ngwala LORD ka ditlhaka tše kgolo ka phošo."
+    }
+  ],
+  "translation": "Gomme ka seatla sa bona ba tišitše ⟨את⟩ bao ba tšwa Tikwa; gomme baholo-kudu ba bona ga ba ka ba tliša molala wa bona mošomong wa marena a bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "217cefa16862cfc74f140a9b4521dbf164465f026c6c4f7ccbbaef9b1283f894",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/3\/5-8.1792302486457.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "gomme ka"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "seatla sa bona"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "ba tišitše"
+    },
+    {
+      "surface": "התקועים",
+      "gloss": "bao ba tšwa Tikwa"
+    },
+    {
+      "surface": "ואדיריהם",
+      "gloss": "gomme baholo-kudu ba bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ba ka ba tliša"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "molala wa bona"
+    },
+    {
+      "surface": "בעבדת",
+      "gloss": "mošomong wa"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "marena a bona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:48:06.458512738Z",
+  "model": "glm-5.3"
+}

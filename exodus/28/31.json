@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tekhelete",
+      "rationale": "motala o tšwa go nkgokolo ya lewatle; leina la mmala le bolokwa ka modumo"
+    }
+  ],
+  "translation": "Gomme o tla dira ⟨את⟩ kobo ya efode, yohle ya tekhelete.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "18be3693f201b29cb80dcf31b15c0175d3e4fbfb0dfeeeda4fffba6a9507687d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/28\/29-32.1792283112968.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "gomme o tla dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobo"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "kobo"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ya efode"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ya tekhelete"
+    }
+  ],
+  "timestamp": "2026-10-18T00:25:12.970037090Z",
+  "model": "glm-5.3"
+}

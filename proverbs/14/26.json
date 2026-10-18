@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu ga se na copula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tšhireletšo ya maatla",
+      "rationale": "מבטח עז ke mabitšo a kopantšwego — 'setšhireletšo sa maatla'"
+    }
+  ],
+  "translation": "Go tsaba Yahwe ⟨ke⟩ tšhireletšo ya maatla, gomme bana ba gagwe ba tla ba le phonelô.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a503a4807eb145afe664ba979f1e1725135328101dd9c08a3e60042993ceb982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/14\/25-28.1792299459515.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "go tsaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "tšhireletšo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "gomme bana ba gagwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ba tla ba le"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "phonelô"
+    }
+  ],
+  "timestamp": "2026-10-18T04:57:39.516625504Z",
+  "model": "glm-5.3"
+}

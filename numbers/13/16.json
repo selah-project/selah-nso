@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 13:16",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a re",
+      "rationale": "Sepedi e nyaka lentšu la go bolela pele ga leina le lefsa; Seheberu se bea fela leina"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Hoshea \/ Yehoshua",
+      "rationale": "Moshe o oketša yod (ya Yah) go leina la Hoshea — 'poloko' e fetoga 'Yahwe poloka'; se se lahlwa ka Sepedi"
+    },
+    {
+      "kind": "elision",
+      "subject": "לתור",
+      "rationale": "go hlohleletša ga se e sa fetogo; לתור e bolela go tsamaya go nyaka taba, go lekola lefase"
+    }
+  ],
+  "translation": "Baka ke maina a banna bao Moshe a ba romilego go hlohleletša ⟨את⟩ lefase; gomme Moshe a bitša ⟨את⟩ Hoshea mora wa Nune, a re Yehoshua.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "d36c7b0f16f105db5359549b06044d0b782cc546680da1be77c30830228be970",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/13\/16-16.1792304677727.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "baka"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "a banna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a ba romilego"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "go hlohleletša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "gomme a bitša"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "להושע",
+      "gloss": "⟨את⟩ Hoshea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "נון",
+      "gloss": "wa Nune"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:37.727521375Z",
+  "model": "glm-5.3"
+}

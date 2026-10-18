@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "תצמחנה",
+      "rationale": "Seheberu se re 'go mmela' (bjalo ka peo e mmela) — dilo tše ntšha di mmela; phetolelo ya Sepedi e šomiša 'go diragala'"
+    },
+    {
+      "kind": "addition",
+      "subject": "gore o utwe",
+      "rationale": "Seheberu se na le אשמיע אתכם fela — 'ke go umeletše'; mantšu a okeditšwego go fa modumo o a feleletšego"
+    },
+    {
+      "kind": "secret",
+      "subject": "dintšha",
+      "rationale": "Elohim o bolela dilo tše ntšha pele di ka diragala — tsebo ye e swutilwego ya ka pele"
+    }
+  ],
+  "translation": "Dilo tša mathomo, bona, di tlile; gomme dintšha ke gore ke di tseetše pele go di bolela, ka ntle le ge di ka diragala ke di tla go di umaka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "283b51a72dc1ace145851846f3e4ecab8c5d3280644b94ba304ac661891ebf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/42\/9-12.1792292093969.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "dilo tša mathomo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "באו",
+      "gloss": "di tlile"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "gomme dintšha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ke di bolela"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ka ntle le ge"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "di ka diragala"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "ke di tla go di umaka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ gore o utwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:54:53.969854995Z",
+  "model": "glm-5.3"
+}

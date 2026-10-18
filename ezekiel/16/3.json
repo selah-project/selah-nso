@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 16:3",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "tlhago ya gago",
+      "rationale": "מכרתיך: 'tlhago\/motheo' (jaaka meepo) kgahlanong le 'bophelo bja gago' — geneva e re 'bophelo bja gago'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopula ye Seheberu se se senago"
+    }
+  ],
+  "translation": "gomme o re: Bjalo go bolela Adonai Yahwe go Yerushalayime: Tlhago ya gago le lefase la go belegwa ga gago ke la lefase la Mokanaana; papa wa gago ke Momore, mme wa gago ke Mokheti.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "02571a2b4194ea0a33b19d8862d080d37c80ca8b47edaa0d958153893f6516ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/16\/1-4.1792294704646.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "gomme o re"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "go Yerushalayime"
+    },
+    {
+      "surface": "מכרתיך",
+      "gloss": "tlhago ya gago"
+    },
+    {
+      "surface": "ומלדתיך",
+      "gloss": "le lefase la go belegwa ga gago"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ke la lefase la"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanaana"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa wa gago"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Momore"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "mme wa gago"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Mokheti"
+    }
+  ],
+  "timestamp": "2026-10-18T03:38:24.647464087Z",
+  "model": "glm-5.3"
+}

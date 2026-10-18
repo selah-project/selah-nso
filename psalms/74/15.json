@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "איתן",
+      "rationale": "'tše di sa falago' kgathanong le 'tše di nago le maatla' (KJV) — lentšu le bolela go se fale ga nako e telele"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתה...אתה",
+      "rationale": "Go boela gape ga 'wena' go bontšha gore motho a le tee o dira tšohle"
+    }
+  ],
+  "translation": "Wena o phuthulule mohlodi le molopo, wena o omišitše dinoka tše di sa falago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e380654d7fe66c6dd0049f625c92bb1a533cbbc6c38bf76f3da97a9022af5cab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/74\/13-16.1792298201779.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "o phuthulule"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "mohlodi"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "le molopo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "o omišitše"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "dinoka"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "tše di sa falago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:41.781052492Z",
+  "model": "glm-5.3"
+}

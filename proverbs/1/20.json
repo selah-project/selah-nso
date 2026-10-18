@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "bohlale",
+      "rationale": "Bohlale bo lalediša setšhaba ka sehla se se pharaletšego — sebitšo se se bulegilego go mmadi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תרנה",
+      "rationale": "'Bja lla' bakeng sa רנן (go mmuša ka lerato\/boitumelo); lentšu le bolela go mmuša ka modumo o mogolo."
+    }
+  ],
+  "translation": "Bohlale bja lla ka ntle, bja fa lentšu la bjo mebileng e pharaletšego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0e6153acecaa17d94848af4fce10916f8da89ec58f02b98bb040025c45b26ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/1\/17-20.1792299151001.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "bja lla"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "mebileng e pharaletšego"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "bja fa"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "lentšu la bjo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:52:31.002539856Z",
+  "model": "glm-5.3"
+}

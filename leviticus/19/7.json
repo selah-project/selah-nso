@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se bopše",
+      "rationale": "פגול ke lentšu le bolelang 'se nang le ntle, se bopše' — diphetošo tše dingwe di ngwala 'se fošagetšego' goba 'se hloahloa'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "האכל יאכל",
+      "rationale": "Go boela ga modu wa go ja (infinitive absolute + finite verb) go tiisa taba — se sa phetolelo ka botlalo."
+    }
+  ],
+  "translation": "Gomme ge e ka ja ka moo ka letšatšing la boraro, ke se bopše; ga se tla amogelelwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/19\/5-8.1792284034378.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ge e ka ja"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "e ka ja ka moo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatšing"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "la boraro"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "ke se bopše"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke sona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "se tla amogelelwa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:40:34.379021372Z",
+  "model": "glm-5.3"
+}

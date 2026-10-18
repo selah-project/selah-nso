@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "baphaphamegi",
+      "rationale": "פתי ke motho yo a ka fengwang ka bobona bja gagwe — 'yo a sa hlakago', e sego Setho sa kaelo"
+    },
+    {
+      "kind": "addition",
+      "subject": "mme",
+      "rationale": "kopana ya Sepedi gare ga dikarolo tše pedi tša papiso — Seheberu se e sena"
+    }
+  ],
+  "translation": "Yo a sepileng o bone sebe mme o itšetše; baphaphamegi ba fetile gomme ba kotšišwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "13c5d496e96390d6350c47b8e400a714762a86a6712cce9397b41dfd92ea07b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/27\/9-12.1792299892531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "yo a sepileng"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "o bone"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "mme o itšetše"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "baphaphamegi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ba fetile"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "ba kotšišwa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:04:52.532651098Z",
+  "model": "glm-5.3"
+}

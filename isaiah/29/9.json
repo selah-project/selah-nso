@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 29:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "התמהמהו\/ותמהו · השתעשעו\/ושעו",
+      "rationale": "Moedi o bopa palindrome ya mahlakore a mabedi go tšwa modung o tee — go ema-ema\/makga le go ikhokotša\/khokotwa — mmino woo o se nago mo Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "שעע",
+      "rationale": "Modu wo o ka bolela 'go iteetša ka ntle' goba 'go khokotša (mahlo) go di tshwanela' — ditlhopho tša pele di re 'itaetse', JPS le BSB di re 'fifala'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ditaetšo tše nne",
+      "rationale": "Meala ya go laela batho ba Yerushalayime ka ditaetšo tše nne tše di latelanang (plural imperatives)."
+    }
+  ],
+  "translation": "Emang-emang, gomme le makge; le ikhokotše mahlo, gomme le khokotwe; le babjile, e sego ka moumo; le a sesofala, e sego ka sekgowa se boima.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9f3df25ced4b0a7661a2a6c3b5c98c5d6c978b2f260be0bf67359862705baa9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/29\/9-12.1792291844065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התמהמהו",
+      "gloss": "emang-emang"
+    },
+    {
+      "surface": "ותמהו",
+      "gloss": "gomme le makge"
+    },
+    {
+      "surface": "השתעשעו",
+      "gloss": "le ikhokotše mahlo"
+    },
+    {
+      "surface": "ושעו",
+      "gloss": "gomme le khokotwe"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "le babjile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e sego"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ka moumo"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "le a sesofala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e sego"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ka sekgowa se boima"
+    }
+  ],
+  "timestamp": "2026-10-18T02:50:44.066338001Z",
+  "model": "glm-5.3"
+}

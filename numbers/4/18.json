@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 4:18",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Moshe le go Aharone",
+      "rationale": "Yahwe o bolela le Moshe le Aharone ka go sepelela ga tiro ya Bakhehate."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kgabola",
+      "rationale": "כרת ke 'go kgabola' ka mo go lebanyo; 'go lahlehetšwa' ke tšhutšhutu ya Sesotho."
+    }
+  ],
+  "translation": "Le se ke la kgabola ⟨את⟩ moloko wa malapa a Bakhehate go tšwa gare ga Balefi;",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "45d4616ce6586472e8b54cd37ee325fdc1a155ac0b1a1f15e09e6b296929fb44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/4\/17-20.1792284431428.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תכריתו",
+      "gloss": "kgabola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moloko wa malapa a Bakhehate"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "moloko"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "a Bakhehate"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "go tšwa gare ga"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balefi"
+    }
+  ],
+  "timestamp": "2026-10-18T00:47:11.428949129Z",
+  "model": "glm-5.3"
+}

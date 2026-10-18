@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sešupo",
+      "rationale": "משל ke sešupo\/parele ya go bolela dilo ka tšhwantšhiso — e sego 'peteri' fela."
+    },
+    {
+      "kind": "mystery",
+      "subject": "mafelelo a wona go senyega",
+      "rationale": "Sešupo se bolela sephiri ka taelo ya Amaleke, yeo e sa bonagago gona bjale."
+    }
+  ],
+  "translation": "A be a bona ⟨את⟩ Amaleke, a be a bolela sešupo sa gagwe, a re: Mathomo ya ditšhaba ke Amaleke, gomme mafelelo a wona ⟨ke⟩ go senyega go fihlela bofelo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9a1c4f95fbfc837165fe6a31afa07b6a96491cf87ec32aecbe53476753c9dcf9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/24\/17-20.1792285129950.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a be a bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleke"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "a be a bolela"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "sešupo sa gagwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mathomo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ya ditšhaba"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "gomme mafelelo a wona"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "go senyega"
+    }
+  ],
+  "timestamp": "2026-10-18T00:58:49.951573209Z",
+  "model": "glm-5.3"
+}

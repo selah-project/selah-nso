@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 9:6",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dipilare",
+      "rationale": "עמודים semela dikholomo tše di emego; seswantšho sa lefase se emetšwego dikholomong"
+    },
+    {
+      "kind": "addition",
+      "subject": "di a",
+      "rationale": "Seheberu se šomiša sebopego sa go itlhalosa; kopanyo ya Sepedi e nyaka 'di a'"
+    }
+  ],
+  "translation": "Yo a tsekisago lefase lefelong la lona, gomme dipilare tša lona di a thothomela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ca3eccba68a76e3c898c1c7571bfcbab2735a7f465e54077a3c5e92815dcea80",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/9\/5-8.1792300132152.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המרגיז",
+      "gloss": "yo a tsekisago"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ממקומה",
+      "gloss": "lefelong la lona"
+    },
+    {
+      "surface": "ועמודיה",
+      "gloss": "gomme dipilare tša lona"
+    },
+    {
+      "surface": "יתפלצון",
+      "gloss": "di a thothomela"
+    }
+  ],
+  "timestamp": "2026-10-18T05:08:52.153634759Z",
+  "model": "glm-5.3"
+}

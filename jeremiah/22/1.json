@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Moshe",
+      "rationale": "Yahwe o laela moprofeta go thelela gae la kgoši ya Yuda."
+    },
+    {
+      "kind": "elision",
+      "subject": "הדבר הזה",
+      "rationale": "Sepedi e na le hlahlamolao ya lentšu, seka sa Seheberu se hwetša ka hlahlamolao."
+    }
+  ],
+  "translation": "Bjalo a bolela Yahwe: Thelela gae la kgoši ya Yuda, gomme o bolele moo ⟨את⟩ lentšu le.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9babd1d519357962e6f83ff1549314723379076eaf179b902b4adc50530a1a79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/22\/1-4.1792293327124.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רד",
+      "gloss": "thelela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gae la"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "gomme o bolele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu le"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-10-18T03:15:27.125528749Z",
+  "model": "glm-5.3"
+}

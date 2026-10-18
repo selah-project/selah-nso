@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "balaodi",
+      "rationale": "פחות ke balaodi ba dilete goba ba magoro, e sego dikgoši tše di tlwaeledegilego"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to kgoši ya Arame",
+      "rationale": "batlhanka ba laela kgoši ka moši-mabapi ka melaeta ya go dira"
+    }
+  ],
+  "translation": "Gomme o dire ⟨את⟩ taba ye: tlosa dikgoši, nngwe le nngwe lefelong la yona, gomme o beye balaodi maemong a tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "889dae7ce904527d9eaaf6e39f9b90c8f263e676245d73c310d8510a07336956",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/20\/21-24.1792290285096.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme o dire ⟨את⟩",
+      "marks": "taba ye"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dire"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "tlosa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nngwe le nngwe"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "lefelong la yona"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "gomme o beye"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "maemong a tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:24:45.097139814Z",
+  "model": "glm-5.3"
+}

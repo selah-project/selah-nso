@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leibeng",
+      "rationale": "משחת ke sediba sa go hwa; 'leibego' ya Sepedi e swana le seswantšho seo"
+    },
+    {
+      "kind": "crux",
+      "subject": "yo a go dikologago ka",
+      "rationale": "המעטרכי: 'go bea khutufatšo' (go rwala serwedi) kgahlanong le 'go dikologa ka' — tsela ya bobedi e latela JPS"
+    },
+    {
+      "kind": "elision",
+      "subject": "hesede",
+      "rationale": "חסד le רחמים di bolokwa ka modumo wa tšona go ya D2; Sepedi ga se na lentšu le tee le swanago"
+    }
+  ],
+  "translation": "Yo a lokollago bophelo bja gago leibeng, yo a go dikologago ka hesede le mehau;",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/103\/1-4.1792298558557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Yo a lokollago"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "leibeng"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "bophelo bja gago"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "yo a go dikologago ka"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "le mehau"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:38.558234453Z",
+  "model": "glm-5.3"
+}

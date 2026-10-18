@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go na le",
+      "rationale": "היו le nyaka mošomo wa go ba gona ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rra-Tekoa",
+      "rationale": "אבי ke construct — 'rra-' e swara leina la lefelo"
+    }
+  ],
+  "translation": "Gomme go Ashkhure, rra-Tekoa, go be go na le basadi ba babedi: Kheleha le Naara.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7678e41596076479fe7e3fbae83b05648f80451685e48af60b370706998969bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/4\/5-8.1792302940181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "go Ashkhure"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "rra-"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Tekoa"
+    },
+    {
+      "surface": "היו",
+      "gloss": "go be go na le"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Kheleha"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "le Naara"
+    }
+  ],
+  "timestamp": "2026-10-18T05:55:40.181723727Z",
+  "model": "glm-5.3"
+}

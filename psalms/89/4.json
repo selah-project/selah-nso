@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ke khaile kgwerano",
+      "rationale": "כרת בריפ — go 'kha' kgwerano, go tšwa go go kha ga diphoofolo magareng ga dikarolo; Sepedi se re 'go dira kgwerano' tlhaešong e tlwaelegilego"
+    },
+    {
+      "kind": "crux",
+      "subject": "bakgethwa",
+      "rationale": "לבחירי — bontši kgatlhanong le botee; go šupetša mokgethwa yoo a kgethwego, gantswi go šupetša Dafida"
+    }
+  ],
+  "translation": "Ke khaile kgwerano le bakgethwa wa ka, ke ile ka laka go Dafida mohlanka wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/1-4.1792298381556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "ke khaile"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "le bakgethwa wa ka"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ke ile ka laka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "go Dafida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mohlanka wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:41.557057248Z",
+  "model": "glm-5.3"
+}

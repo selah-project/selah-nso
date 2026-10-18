@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרק",
+      "rationale": "Parak: go nnya goba go golola; baithuti ba bangwe ba ahlagantšhe kgahlanong le ho'apruq — 'go tloša dikgomo' — eupša dikamano tše ngwe tša Seheberu di thekga 'go golola' (Ps 7:3)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עבדים",
+      "rationale": "Ebed: bahlanka, dinku tša bagolo — mabapi le diphetolelo ka makgoba, go šišinya ba laolang ba sena tumelo."
+    }
+  ],
+  "translation": "Bahlanka ba laola rena; go ntšha ⟨את⟩ rena, ga go ⟨mo⟩ wa go re golola go seatla sa bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9e4897c6c587e63c6fc9ff098eb02feddcb2cb6503c7cd2489c8e2ddd86242a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/5\/5-8.1792301303130.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "bahlanka"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ba laola"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "rena"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "go ntšha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go ⟨mo⟩"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "go seatla sa bona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:28:23.132000176Z",
+  "model": "glm-5.3"
+}

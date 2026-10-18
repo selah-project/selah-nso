@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go",
+      "rationale": "Seheberu se se na sehleng sa kgopela; Sepedi se nyaka ⟨go⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב ... טוב ... טוב",
+      "rationale": "Go boeletša ga 'go botse' ditemaneng tše tharo (25–27), se se laolago seka sa Teth"
+    }
+  ],
+  "translation": "Go botse go letelela gomme go khutša polokegong ya Yahwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b248cd7e741a04abc857fea2bf6b8b493e579edf1a0a2ed5d559d397e54e71b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/3\/25-28.1792301169234.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go botse"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "go letelela"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "gomme go khutša"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "polokegong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:26:09.235525672Z",
+  "model": "glm-5.3"
+}

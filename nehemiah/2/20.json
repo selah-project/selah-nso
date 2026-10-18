@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 2:20",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "-am suffix ya אותם",
+      "rationale": "Setho sa -am (‘bona’) se akaretšwa go ‘go bona’; ⟨את⟩ e swara lentšu."
+    },
+    {
+      "kind": "you",
+      "subject": "go lona",
+      "rationale": "Nehemia o hlala ka go tswala batho ba Sanabalate, Tobija le Geseme."
+    }
+  ],
+  "translation": "Gomme ka ba araba ⟨את⟩ lentšu, ka ba re: Elohim wa magodimo, yena o tla re atlega; gomme re, bahlanka ba gagwe, re tla ema ra aga; eupša go lona ga go na serala, goba tsedeke, goba segopotšo go Yerushalayime.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9e33d046a47d82ea6f36e9c7c3feda24e8101225ff898250dfcfc3785a1a93cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/2\/17-20.1792302540658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשיב",
+      "gloss": "gomme ka ba araba"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "gomme ka ba re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wa magodimo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "o tla re atlega"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "gomme re"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bahlanka ba gagwe"
+    },
+    {
+      "surface": "נקום",
+      "gloss": "re tla ema"
+    },
+    {
+      "surface": "ובנינו",
+      "gloss": "ra aga"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "eupša go lona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "serala"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "goba tsedeke"
+    },
+    {
+      "surface": "וזכרון",
+      "gloss": "goba segopotšo"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "go Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T05:49:00.660167125Z",
+  "model": "glm-5.3"
+}

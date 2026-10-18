@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba bangwe",
+      "rationale": "Seheberu se sa bolele subject ya והקימו; baebatlami bja kgale ba fapana — 'ba bangwe' (bakgobokedi ba tente) kgahlanong le 'Mishkane o ile wa emiswa'"
+    },
+    {
+      "kind": "crux",
+      "subject": "והקימו",
+      "rationale": "KJVS 'ba bangwe ba ile ba emisa'; JPS\/BSB 'Mishkane o be o tla emiswa' — subject ya sebopego se sa hlaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bokgethwa",
+      "rationale": "המקדש fela ke 'sebokgethwa' — dilo tše di kgethwago tša kgoro; Mishkane wa nnete o rwalwa ke Gereshone le Merari"
+    }
+  ],
+  "translation": "Gomme Bakehati ba ile ba sepela, ba be ba rwala bokgethwa; gomme ⟨ba bangwe⟩ ba ile ba emisa ⟨את⟩ Mishkane go fihla ge ba fihla.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0c15f53df13ebd7d8f03ea84d6bbf3d60e76f44d38c6ba23e9920d2f5dd19ab6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/10\/21-24.1792284605512.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "ba ile ba sepela"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "Bakehati"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ba be ba rwala"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "ba ile ba emisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "באם",
+      "gloss": "ge ba fihla"
+    }
+  ],
+  "timestamp": "2026-10-18T00:50:05.513202043Z",
+  "model": "glm-5.3"
+}

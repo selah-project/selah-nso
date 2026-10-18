@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חנף",
+      "rationale": "'godless\/impious' (ASV, JPS) vs 'hypocrite' (KJV, Geneva) — the root means soiled with sin, not play-acting."
+    },
+    {
+      "kind": "crux",
+      "subject": "ממלך",
+      "rationale": "Min infinitive: 'from the reigning of' (purpose: so that he not reign) vs Geneva's causal reading 'because the hypocrite reigns'."
+    }
+  ],
+  "translation": "go thibela motho yo mobe go busa, le go thibela go tseya setšhaba ka thekgo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "32bf92ad5ff7e21a86bd4268cefa935960753f5a9cd2fc268e18e423684f0666",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/34\/29-32.1792300736914.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "go thibela go busa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "yo mobe"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "ka thekgo tša"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T05:18:56.914873868Z",
+  "model": "glm-5.3"
+}

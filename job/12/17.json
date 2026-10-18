@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 12:17",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שולל",
+      "rationale": "Literal: ba mahlała (basa apara) — 'o tloša ba ya ka mahlała'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יהולל",
+      "rationale": "Ho tšwa go halal (go thadima): baahlolodi o ba dira maswitswitsi goba o ba khanya ka tsela yeo e makatšago"
+    }
+  ],
+  "translation": "O tloša baamodiri ba ya ka mahlała, gomme baahlolodi o ba dira maswitswitsi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ede8b6815b72dbc58c01fa43dbc10c68f1e59806c58a29cd48e4fa74998a0c30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/12\/17-20.1792300180074.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוליך",
+      "gloss": "o tloša ba ya"
+    },
+    {
+      "surface": "יועצים",
+      "gloss": "baamodiri"
+    },
+    {
+      "surface": "שולל",
+      "gloss": "ka mahlała"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "gomme baahlolodi"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "o ba dira maswitswitsi"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:40.074864215Z",
+  "model": "glm-5.3"
+}

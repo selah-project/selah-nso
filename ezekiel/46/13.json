@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 46:13",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Aleph-tav ya lebadi e bontšha kwana, e bolokwa bjalo ka ⟨את⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בבקר בבקר",
+      "rationale": "go boleloa gatelela ga \"bosasa le bosasa\" — sebopego se se tšwago go Seheberu, se bolokilwe"
+    }
+  ],
+  "translation": "Gomme kwana wa ngwaga wa yena, yo a se nago lešala, o tla dira ⟨את⟩ bjalo ka sebego sa go fišwa letšatši le lengwe le le lengwe go Yahwe; bosasa le bosasa o tla se dira.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "678201398c3f8c363cf2e031c9d40e04ae5da84a11cca64b1b1858c06af52544",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/46\/13-16.1792295811485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכבש",
+      "gloss": "gomme kwana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wa"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ngwaga wa yena"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yo a se nago lešala"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla dira"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sebego sa go fišwa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "letšatši le lengwe le le lengwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "bosasa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "le bosasa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla se dira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kwana"
+    }
+  ],
+  "timestamp": "2026-10-18T03:56:51.485991842Z",
+  "model": "glm-5.3"
+}

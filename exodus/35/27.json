@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 35:27",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dikgoši",
+      "rationale": "הנשאם — 'ba phahamitšwego': baetapele kgahlanong le 'dikgoši'; ka Sepedi 'dikgoši' e sephetho, 'baetapele' e bolela sebopego se sengwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maswika a dipetlwa",
+      "rationale": "אבני המלאים — 'maswika a go tladišwa': maswika a a tlwaelwago go bopa le go tlošwa; 'a dipetlwa' e tšea sebopego sa go beha maswika"
+    }
+  ],
+  "translation": "Gomme dikgoši di tlišitše ⟨את⟩ maswika a shohame le ⟨את⟩ maswika a dipetlwa, bakeng sa epode le bakeng sa tšhešane.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9bfee707a3aadb4d0f766b8030ffa0c068b883e12485322e31b4d79248048805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/35\/25-28.1792283259431.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנשאם",
+      "gloss": "gomme dikgoši"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "di tlišitše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maswika a shohame"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "maswika a"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "shohame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "maswika a dipetlwa"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "maswika a"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "dipetlwa"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "bakeng sa epode"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "le bakeng sa tšhešane"
+    }
+  ],
+  "timestamp": "2026-10-18T00:27:39.432608343Z",
+  "model": "glm-5.3"
+}

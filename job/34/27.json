@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 34:27",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על כן",
+      "rationale": "'Because\/therefore' (KJV) vs ylt's 'against right' reading על as 'upon\/injustice' — most take it as causal."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hlakahlakisa",
+      "rationale": "השכילו is 'act with insight\/prosper'; rendered 'give careful thought', losing the success\/skill nuance."
+    }
+  ],
+  "translation": "Ka gobane ba tlogile go latela yena, gomme tsela tša gage ka moka ba di hlakahlakisa go se nne le seo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a7babb92bf3fdf9d5d3cb3f9e8c622f59b373626097c8d9911efb291829ced81",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/34\/26-27.1792305399410.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "ba tlogile"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "go latela yena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme ... ka moka"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "tsela tša gage"
+    },
+    {
+      "surface": "לא",
+      "gloss": "go se nne le"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "ba di hlakahlakisa"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:39.411313037Z",
+  "model": "glm-5.3"
+}

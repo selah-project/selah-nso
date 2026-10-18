@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 32:18",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na le kopula; Sepedi se e nyaka"
+    },
+    {
+      "kind": "idiom",
+      "subject": "go sefuba sa bana",
+      "rationale": "אל חיק — go sefuba — ke poleso ya go: bana ba amogela pheto ya bo-ntate ba bona"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sefuba",
+      "rationale": "חיק ke sefuba\/bosom — thutafase ya motho, e sego feela 'bana'"
+    }
+  ],
+  "translation": "Yo a dirago hesede go diketekete, gomme a lefago sebe sa bo-ntate go sefuba sa bana ba bona ka morago ga bona; El yo mogolo, yo maatla, Yahwe Tsebaote ⟨ke⟩ leina la gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "62035227cd29ba9cf80da04b290583c357d837f95353ea3ff8416bb869106c9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/32\/17-20.1792293674158.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "yo a dirago"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "go diketekete"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "gomme a lefago"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "sa bo-ntate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "חיק",
+      "gloss": "sefuba"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bana ba bona"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ka morago ga bona"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "yo mogolo"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "yo maatla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:21:14.159667776Z",
+  "model": "glm-5.3"
+}

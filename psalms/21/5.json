@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go yena",
+      "rationale": "Sepedi e nyaka sehlatwa sa go nea; Seheberu se na le lentsu la tlwaelo le tee fela"
+    }
+  ],
+  "translation": "Bophelo o bo kgopetše go wena, o mo neetše botele bja matsatsa, go sa fele le go sa fela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9140d3c7680f8657d0052707d2e345ceeb481beecb6969b3c1527dbe66c04aad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/21\/5-8.1792297354652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "o kgopetše"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "o neetše"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "botele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "go sa fele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go sa fela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:34.652754703Z",
+  "model": "glm-5.3"
+}

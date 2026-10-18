@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אני",
+      "rationale": "nna e hlakilego ka תרתי — e ile tlogelwa thwii go phetolelong"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hebele",
+      "rationale": "הבל ke moya\/mphofo — go se na sepe; e sa tsejoa gore e bile tumelo ya Ekklesiaste"
+    },
+    {
+      "kind": "invitation",
+      "subject": "לכה נא",
+      "rationale": "motho a ipitsa ka go re Tla — mokgwa wa go hlahlamiša"
+    }
+  ],
+  "translation": "Ke ile ka re pelong ya ka: Tla ⟨ke o leke⟩ ka thabo, o bone se se botse; gomme bonwe — le yona ke hebele.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2da1288e19257dbd17f2a221370d43981aa409a8b2038fce826468db28841a95",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/2\/1-4.1792301366583.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "pelong ya ka"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "tla"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ke o leke⟩"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "go leka"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ka thabo"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "gomme o bone"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "se se botse"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gomme bonwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hebele"
+    }
+  ],
+  "timestamp": "2026-10-18T05:29:26.584349236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nokana",
+      "rationale": "נחל ke nokana ya selemo (wadi) ye e elelang nako e nngwe fela — sekhope sa yona ke go se nke selo"
+    },
+    {
+      "kind": "crux",
+      "subject": "יעברו",
+      "rationale": "'di fala' kgahlanong le 'di feta' — dinokana tša selemo di fapana; JPS e re 'di tlala ka meetse'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נחל \/ אפיק נחלים",
+      "rationale": "boeletši bja נחל bja lesomo, bo se bolokwegwe ka go noeletša fela"
+    }
+  ],
+  "translation": "Bakaulengwe ba ka ba ngwetše bjalo ka nokana, bjalo ka mošupo wa dinokana tše di falago.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "fca812af2bb7e005287c51a3062bb906a8cf0eb1e68befaa87c2994ab864ccda",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/6\/15-16.1792305345562.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "bakaulengwe ba ka"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ba ngwetše"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "nokana"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "bjalo ka mošupo wa"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "dinokana"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "tše di falago"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:45.562907721Z",
+  "model": "glm-5.3"
+}

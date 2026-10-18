@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelo",
+      "rationale": "נפש is throat\/breath\/life-force, not 'soul'; rendered 'pelo' (inner appetite)."
+    },
+    {
+      "kind": "crux",
+      "subject": "mojeketši o tšwalela, o nyontšha Yahwe",
+      "rationale": "KJV repoints: 'blesseth the covetous, whom the LORD abhorreth'; plain syntax takes the greed-seeker as subject of both 'bless' and 'despise Yahwe'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בצע\/ברך",
+      "rationale": "Guttural word pair בוצע–ברך with alliterative sound-play lost in Sepedi."
+    }
+  ],
+  "translation": "Gobane molato o ikakantša ka takang ya pelo ya gagwe; mojeketši o tšwalela, o nyontšha Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/10\/1-4.1792297275444.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gobane"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "o ikakantša"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "molato"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "takang"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ya pelo ya gagwe"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "mojeketši"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "o tšwalela"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "o nyontšha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:15.445048285Z",
+  "model": "glm-5.3"
+}

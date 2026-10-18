@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lenaneo la dikarolo",
+      "rationale": "palo ya dikarolo tša Yehuda: ba-Shela, ba-Peretsi, ba-Zerakhi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "moro",
+      "rationale": "משפחה e fetotšwe go moro, lopoo-lopa lya Sepedi"
+    }
+  ],
+  "translation": "Gomme bana bja Yehuda ka dikarolo tša bona ba be ba le: go tšwa go Shela, moro wa ba-Shela; go tšwa go Perese, moro wa ba-Peretsi; go tšwa go Zerakhe, moro wa ba-Zerakhi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "66a081b600beb200ecad4b8c0c34d8494d1e9059eff5bddb918cbafafd9334ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/26\/17-20.1792285089832.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "gomme ba be ba le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana bja"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ka dikarolo tša bona"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "go tšwa go Shela"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "moro wa"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "ba-Shela"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "go tšwa go Perese"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "moro wa"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "ba-Peretsi"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "go tšwa go Zerakhe"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "moro wa"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "ba-Zerakhi"
+    }
+  ],
+  "timestamp": "2026-10-18T00:58:09.833789411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה לי",
+      "rationale": "Seko sa Seheberu sa go gana ka maatla — 'se sibego go nna' — se fetoletšwe bjalo ka 'Aowa go nna'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bohlaphaletši",
+      "rationale": "תמתי ke 'bohlaphaletši' — go se na sebe, e sego feela 'toko'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אגוע",
+      "rationale": "גוע go ra 'go hema ka mafelelo' — mogolo o a neela moya; 'go hwala' e ka ba phetolelo e phutsane."
+    }
+  ],
+  "translation": "Aowa go nna ge nka lokantša lona ⟨את⟩; go fihla ge ke hema ka mafelelo, ga ke tlo tloša bohlaphaletši bja ka go nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/27\/5-8.1792300504400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Aowa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "nka lokantša"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ge ke hema ka mafelelo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ke tlo tloša"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "bohlaphaletši bja ka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-18T05:15:04.401471259Z",
+  "model": "glm-5.3"
+}

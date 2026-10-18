@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gomme",
+      "rationale": "vav ya Seheberu e fetotšwe go kopanya — 'gomme' e hlokega ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "o tidima",
+      "rationale": "ירעם bolela 'go tidima bjalo ka lefaufau' — modumo wa lefaufau o šumišitšwe bakeng sa lentšu"
+    }
+  ],
+  "translation": "Yahwe o tidima go tšwa magodimong, gomme Elyone o nea lentšu la gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "33cfa62fbff39a9da83baa8367649746eb406fdb54efda4762c49266fb25f763",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/22\/13-16.1792289429518.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "o tidima"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "gomme Elyone"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o nea"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "lentšu la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:10:29.519488544Z",
+  "model": "glm-5.3"
+}

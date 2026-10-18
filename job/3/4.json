@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "le batla",
+      "rationale": "ידרשהו: 'go batla' (KJV 'regard') kgatlhanong le 'go nyaka ka tlhohomorago' goba 'go laela'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sephathi",
+      "rationale": "נהרה ke phathi ya letšatši, e sego lesedi lefe goba lefe"
+    }
+  ],
+  "translation": "Letšatši leo le be lefsifsi; Eloha a se ke a le batla go tšwa godimo, gomme sephathi se se ke sa tšhuma godimo ga lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "49b0db4e71e4397a1ad67c7edba9773d430144d901673ae76c48146c8c508694",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/3\/1-4.1792300011142.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "le be"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke a"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "le batla"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "go tšwa godimo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme se se ke sa"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "tšhuma"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "godimo ga lona"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "sephathi"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:51.143941759Z",
+  "model": "glm-5.3"
+}

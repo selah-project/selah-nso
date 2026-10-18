@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 26:9",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המקצוע",
+      "rationale": "'go fetoga ga lerumo' (KJV\/ASV) kgathanong le 'phothelwana' fela (JPS) — Seheberu se re 'sekgonthwana\/mophothelwano' fela, se se nago 'ya lerumo' ga se gona."
+    },
+    {
+      "kind": "addition",
+      "subject": "di",
+      "rationale": "Seheberu se na le sebaedi sa seswantšho (them) feela; Sepedi se nyaka 'di' go 'matifatša'."
+    }
+  ],
+  "translation": "Gomme Uziya a aha didinti go Yerushalayime — go kgoro ya sekgonthwana, le go kgoro ya lekgoro, le go maphothelwano — gomme a di matifatša.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "11919e7190248a6476666ea2c1b5d35395d2939050d6fd1d3c1037765629d06a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/26\/9-12.1792304169442.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "gomme a aha"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Uziya"
+    },
+    {
+      "surface": "מגדלים",
+      "gloss": "didinti"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "go Yerushalayime"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "ya sekgonthwana"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "ya lekgoro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "maphothelwaneng"
+    },
+    {
+      "surface": "ויחזקם",
+      "gloss": "gomme a di matifatša"
+    }
+  ],
+  "timestamp": "2026-10-18T06:16:09.443412368Z",
+  "model": "glm-5.3"
+}

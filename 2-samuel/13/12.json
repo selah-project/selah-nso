@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 13:12",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תענני",
+      "rationale": "'o se ke wa nkgobatsa' (ענה = go gatelela \/ go kgoromeletša) kgahlanong le 'do not force me' (kjv) le 'do not humiliate me' (bsb)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הנבלה",
+      "rationale": "'bošula' — lentšu la Seheberu le bolela bopelokgagi le sefošwa se se sego tšwanelago mmeleng."
+    },
+    {
+      "kind": "you",
+      "subject": "Tamara go Amnone",
+      "rationale": "arabela ka go gatelelwa ga gagwe — kgodišo ya go gana ga yena."
+    }
+  ],
+  "translation": "Gomme a mmueleditše: Aowa, mogolagane wa ka, o se ke wa nkgobatsa, ka gobane ga go dirwe bjalo go Yisraele; o se ke wa dira ⟨את⟩ bošula bjo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1efb8c193e72ffc27e359ce7d87017acce244ff323491bd3090365bdb786af98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/13\/9-12.1792289084141.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aowa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mogolagane wa ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "wa nkgobatsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dirwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wa dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bošula bjo"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "bošula"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "bjo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:04:44.143153233Z",
+  "model": "glm-5.3"
+}

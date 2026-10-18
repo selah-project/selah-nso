@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 30:31",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "זרזיר",
+      "rationale": "E hlaga fela mo go Tanakh; tlhalošo ya boikgethelo: 'yo a kokeditšego serope' — phologolo ya kua ntle le seaparo sa mafuri."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אלקום",
+      "rationale": "Go se tlhatloge; e hlaga fela mo, e bitša kgoši yeo go se nago go mo boela morago go mo gana."
+    },
+    {
+      "kind": "crux",
+      "subject": "זרזיר מתנים",
+      "rationale": "Dikgohlano tša bakgatla: phologolo ya lebelo (KJV 'greyhound'), nonyana ya dikgogo (LXX, Wycliffe), goba tlhalošo ya boteng 'yo a kokeditšego serope' — mabapi le זרזיר+מתנים."
+    },
+    {
+      "kind": "substitution",
+      "subject": "podi e tona",
+      "rationale": "תיש ke podi e tona ya go hlohlelana, e sego podi fela; sebopego sa yona sa go hlohlela se lahlegile."
+    }
+  ],
+  "translation": "Yo a kokeditšego ⟨ka⟩ serope, goba podi e tona, le kgoši — yo go se nago go tlhatloga go mo gana.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "82c9688febfadef7e834a4b6436f2035da790c32aeda74d28568ab78124b6d12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/30\/29-32.1792299913919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרזיר",
+      "gloss": "yo a kokeditšego"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "serope"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "תיש",
+      "gloss": "podi e tona"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "le kgoši"
+    },
+    {
+      "surface": "אלקום",
+      "gloss": "go se nago go tlhatloga go mo gana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le yena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:13.920251665Z",
+  "model": "glm-5.3"
+}

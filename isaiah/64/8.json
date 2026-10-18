@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "thapelo",
+      "rationale": "Setšhaba se kōpa Yahwe ka tsela ya thapelo — se kopa gore a se ke a gopola dibe; se bitša lebitso la gago ka go se ikgeletše."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עד מאד",
+      "rationale": "Mašoledi a mmalwa a fetola gore 'go se kgauswi'; re boletše 'ka galefišo ye kgolo' go latela sebopego sa Seheberu sa 'go fihla' (עד) le 'go se kgaufsi' (מאד)."
+    }
+  ],
+  "translation": "O se ke wa galefa ka galefišo ye kgolo, Yahwe, gomme o se ke wa gopola dibe go fihla kgale; bonwe, lebelela kgopela, re setšhaba sa gago, re ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1c6f02b30f0d3eb0ec598fb5fa82f66cc4d035d7f4c504c36ab9be999cc6a01c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/64\/5-8.1792292539247.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "galefa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka galefišo ye kgolo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ye kgolo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme o se ke wa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "go fihla kgale"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "gopola"
+    },
+    {
+      "surface": "עון",
+      "gloss": "dibe"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "lebelela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "kgopela"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setšhaba sa gago"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "re ka moka"
+    }
+  ],
+  "timestamp": "2026-10-18T03:02:19.248823235Z",
+  "model": "glm-5.3"
+}

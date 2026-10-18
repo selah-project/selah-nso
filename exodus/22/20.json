@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גר \/ גרים",
+      "rationale": "Go bušetša ga lentšu la mošuedi: mošuedi o seke wa hloriša mošuedi — gobane le le be bašuedi"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Taetšo ye e nea Yisraele ka bobedi bja yona — melao ya go se hloriše"
+    }
+  ],
+  "translation": "Gomme mošuedi o seke wa mo hloriša, gomme o seke wa mo gatelela; gobane le le be le bašuedi lefatšeng ya Mitsrayime.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "23048a5c6e6796c45a6bb970dbfea58617da0fd6bbe045ea1251ac4248b63350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/22\/17-20.1792282870837.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "gomme mošuedi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o seke"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "wa mo hloriša"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o seke"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "wa mo gatelela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "bašuedi"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "le be"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatšeng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:10.838310203Z",
+  "model": "glm-5.3"
+}

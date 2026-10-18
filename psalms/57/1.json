@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל תשחת",
+      "rationale": "'Se senye' — mantsu a pele a pina ye e tsebahago; ba bangwe ba a fetolela 'go se senye se sebotse'"
+    },
+    {
+      "kind": "hapax-ish",
+      "subject": "מכתם",
+      "rationale": "mokgwaro — lentšu le ra go kgwarwa; ba bangwe ba re 'phokotlo ya gauta' goba 'sephiri'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Shaule",
+      "rationale": "שאול mo ke kgoši Shaule, e sego Sheole — lentšu le tee, maina a mabedi"
+    }
+  ],
+  "translation": "Go molaodi; Se senye; Sefoko sa Dafida; mokgwaro; ge a tšhaba sefahlegong sa Shaule, mo teng ga mošobo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/57\/1-4.1792297917601.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go molaodi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "senye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dafida"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "mokgwaro"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "ge a tšhaba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "sefahlegong sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "mo teng ga mošobo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:57.604087816Z",
+  "model": "glm-5.3"
+}

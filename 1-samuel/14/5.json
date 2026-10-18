@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leino",
+      "rationale": "השן ke 'lenoa' ka mantšu a tlwaelegilego; fano e betha leswika leo le nago le sebopego sa lenoa — pontšho ya sebopego e bolokwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "מצוק",
+      "rationale": "Mefuta ye mengwe e re 'crag\/edge'; tšhupiso e bile 'ntho e tsepamego, leswika le le tsepamego'."
+    }
+  ],
+  "translation": "Leino le tee — leswika le le tsepamego — le eme ka leboa pele ga Mikhmashe, gomme le tee ka borwa pele ga Gebeya.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8c12ceb12aa27484046b689bc581ca37953665bbfdb0f1554390b27fc9e21e2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/14\/5-8.1792288189897.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "leino"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "le tee"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "leswika le le tsepamego"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ka leboa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Mikhmashe"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "gomme le tee"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "ka borwa"
+    },
+    {
+      "surface": "מול",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Gebeya"
+    }
+  ],
+  "timestamp": "2026-10-18T01:49:49.897953615Z",
+  "model": "glm-5.3"
+}

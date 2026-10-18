@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 4:12",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leswe la motho",
+      "rationale": "גללי צאת — leswe la motho; di-bogobe di bakišwa godimo ga lona, sesupo sa go hlohlona (bona 4:13)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ka leswe la motho",
+      "rationale": "Baefetoli ba fapana: ka leswe (KJV, JPS) goba godimo ga leswe le omilego (BSB); Ezekiele 4:15 o fa tumelo ya go šomiša leswe la dikgomo"
+    }
+  ],
+  "translation": "Gomme di-bogobe tša barely o tla go di ja, gomme tša go bakišwa ka leswe la motho pele ga mahlo a bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "68bd07354b3da894aa07455ecb1e1e28f515dd6611bde1ce205b3aed1fa3a727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/4\/9-12.1792294381713.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועגת",
+      "gloss": "gomme di-bogobe tša"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "barely"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "o tla go di ja"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "gomme tšona"
+    },
+    {
+      "surface": "בגללי",
+      "gloss": "ka leswe la"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "tše di tšwago go"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "תעגנה",
+      "gloss": "tša go bakišwa"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "pele ga mahlo a bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:33:01.714886123Z",
+  "model": "glm-5.3"
+}

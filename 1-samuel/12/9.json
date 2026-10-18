@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וימכר",
+      "rationale": "'go rekisa' — sehopotwa sa mohlanka yo a rekišwago; JPS e šomiša 'a ba nea' ka go ikgetha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "פלשתים",
+      "gloss": "bana ba Pelesete — leina la setšhaba, ka bontši"
+    }
+  ],
+  "translation": "Gomme ba lebala ⟨את⟩ Yahwe Elohim wa bona, gomme a ba rekisa ka seatleng sa Sisera, molaodi wa madira a Hatsore, le ka seatleng sa bana ba Pelesete, le ka seatleng sa kgoši ya Moabe; gomme ba lwana le bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0899f8919936ac32233ebd958e20b9a744d6a9a83a6d13ed504be5724bec11a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/12\/9-12.1792288081714.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ba lebala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "gomme a ba rekisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "ka seatleng sa Sisera"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatleng sa"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "madira"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsore"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "le ka seatleng sa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "bana ba Pelesete"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "le ka seatleng sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši ya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "gomme ba lwana"
+    },
+    {
+      "surface": "בם",
+      "gloss": "le bona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:48:01.714903533Z",
+  "model": "glm-5.3"
+}

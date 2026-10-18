@@ -1,0 +1,211 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 21:7",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לפי חרב",
+      "rationale": "Sefoko sa Seheberu 'molomo wa tšhoša' = thari ya tšhoša; sehlalosi sa 'molomo' se bolokwa ka Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "meele",
+      "rationale": "נפשם ke moya\/meele ya bona — 'meele' e kgauswi le motheo wa 'throat\/life-force' go feta 'bophelo' fela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחוס\/יחמל\/ירחם",
+      "rationale": "Phetletšo ya go gana ga mehla e tharo (a ka se inwele, a ka se relelwe, a ka se šegofatše) — go phounama ga sebopego se a bolokwa."
+    }
+  ],
+  "translation": "Gomme ka morago ga seo, go bolela Yahwe: ke tla nea ⟨את⟩ Tsidkiyahu kgoši ya Yehuda, le ⟨את⟩ bahlanka ba gagwe, le ⟨את⟩ setšhaba, le ⟨את⟩ bao ba salego toropong ye, go tšwa mokgobong, go tšwa tšhošong le go tšwa tlala — seatleng sa Nebukadretsere kgoši ya Babela, le seatleng sa manaba a bona, le seatleng sa bao ba nyakago meele ya bona; gomme o tla ba betha ka molomo wa tšhoša; a ka se inwele go bona, gomme a ka se relelwe, gomme a ka se šegofatše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5b3f0ecb90ef1b954a288709759eeeb7054788ef07c5c50828f60b5ff86e1588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/21\/5-8.1792293336265.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "gomme ka morago"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ga seo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla nea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiyahu kgoši ya Yehuda"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bahlanka ba gagwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bahlanka ba gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bao ba salego toropong ye"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "bao ba salego"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "mokgobo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "tšhošong"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le go tšwa"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "tlala"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "seatleng sa"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "Nebukadretsere"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Babela"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "le seatleng sa"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "manaba a bona"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "le seatleng sa"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "bao ba nyakago"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "meele ya bona"
+    },
+    {
+      "surface": "והכם",
+      "gloss": "gomme o tla ba betha"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo wa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "יחוס",
+      "gloss": "inwele"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a ka se"
+    },
+    {
+      "surface": "יחמל",
+      "gloss": "relelwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a ka se"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "šegofatše"
+    }
+  ],
+  "timestamp": "2026-10-18T03:15:36.267060620Z",
+  "model": "glm-5.3"
+}

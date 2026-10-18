@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "gomme motho ga a tsebe",
+      "rationale": "ואיש לא ידע — 'gomme motho a sa tsebe': go utolla ga polelo, sephetho se sa tsebjwa go fihlela ge temana e latelago"
+    },
+    {
+      "kind": "mystery",
+      "subject": "poledišano ye e utilwego",
+      "rationale": "go bolawa ga Gedalyahu ga go a tsebja — seo se sa utollwang ke setšhaba ke sona se se hlahlamolago taba ya kgwerano ya temana tše di latelago"
+    }
+  ],
+  "translation": "Gomme go be go le letšatši la bobedi la go bolaisa ⟨את⟩ Gedalyahu, gomme motho ⟨ga⟩ a tsebe ⟨selo se sengwe⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9a289b6672d8314e8627f55cf3ba2cb09465cb7e7531685a921c3909cb864513",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/41\/1-4.1792293893138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go be go le"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letšatši la"
+    },
+    {
+      "surface": "השני",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "la go bolaisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalyahu"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalyahu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "gomme motho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tsebe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:24:53.148693641Z",
+  "model": "glm-5.3"
+}

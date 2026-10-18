@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשנותו",
+      "rationale": "šnh 'go fetoša\/fetola' — ditiragalo tša 1 Samuele 21:13 di bontšha go itshwara go sa lwane, eupša lentšu ka bosona ke 'go oketša\/go feta ga pedi'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "טעמו",
+      "rationale": "טעם ke 'dihlabelo' goba 'molomo'; 'boitshwaro' ke taba ya sehlogwana sa sepsalme, e sego phetolelo ya pelontšu."
+    }
+  ],
+  "translation": "Ya Dafida, ge a fetoša ⟨את⟩ boitshwaro bja gage pele ga Abimeleke, gomme a mo rakgotša, gomme a sepela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/1-4.1792297549412.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dafida"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "ge a fetoša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boitshwaro bja gage"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "boitshwaro bja gage"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleke"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "gomme a mo rakgotša"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gomme a sepela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:49.413232890Z",
+  "model": "glm-5.3"
+}

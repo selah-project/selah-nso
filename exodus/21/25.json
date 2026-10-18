@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כויה…כויה \/ פצע…פצע \/ חבורה…חבורה",
+      "rationale": "Poelelo ya lex talionis — lentšu le le lengwe le boela gabedi, sebopego seo se bolokwa ka botlalo ka go ipoeletša ga Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תחת",
+      "rationale": "תחת ka nnete e re 'ka tlase', fela mo e šomišwa bjalo ka 'go ya ka \/ bakeng sa' — phetolelo ya setaele."
+    }
+  ],
+  "translation": "go fišwa ka sebego go ya ka go fišwa ka sebego, mošobo go ya ka mošobo, leropo go ya ka leropo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "53e0b8cbd51981da536f2e3eda27d770934bb16c3914d1ab31d11e087bce34d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/21\/25-28.1792282900696.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "go fišwa ka sebego"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "go fišwa ka sebego"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "mošobo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "mošobo"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "leropo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "leropo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:40.697576469Z",
+  "model": "glm-5.3"
+}

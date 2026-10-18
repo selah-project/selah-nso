@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mošomo wa wona",
+      "rationale": "Hebrew פיה 'her mouth' — the pit is feminine; Sepedi 'modiba' loses the gendered image of the well closing its mouth over the speaker."
+    },
+    {
+      "kind": "you",
+      "subject": "o se ke",
+      "rationale": "Three deprecative negativities (אל) addressed directly to Yahwe."
+    }
+  ],
+  "translation": "O se ke wa ntsela seologo sa meetse, gomme o se ke wa metsa mothalwa, gomme modiba o se tswale mošomo wa wona ka nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "47969150fa716fb6d3c0651bb4d6a5c51568d472cd91d13850f2a329461459bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/69\/13-16.1792298144346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "wa ntsela"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "seologo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "sa meetse"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "wa metsa"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "mothalwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme o se"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "tswale"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "באר",
+      "gloss": "modiba"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "mošomo wa wona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:44.347041607Z",
+  "model": "glm-5.3"
+}

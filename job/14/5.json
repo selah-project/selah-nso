@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "matsatsi le dikgwedi",
+      "rationale": "Palo ya matsatsi le dikgwedi ya motho e laetšwe ke Elohim — sekgoba se sa fetwego."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרוצים",
+      "rationale": "Ka tlhaho go ra go bitša ka thipa; mo go bolela go laetšwa ka tieo — ditlhopho: 'a laetšwe' kgatlhanong le 'a laetšwe ka tsela e sa fetogego'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתך",
+      "rationale": "Ke H854 (go atlega, kgauswi), e sego mošupi wa seholegi H853; ⟨את⟩ e bolokwa fela go ya ka molao wa tokumente."
+    }
+  ],
+  "translation": "Ge matsatsi a gagwe a laetšwe ka mo go feletšego, palo ya dikgwedi tša gagwe e le ⟨את⟩ go wena, o beile ⟨ke⟩ sekgoba sa gagwe, gomme a ka se atše go feta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0567bcd96432815e398025937a113cc887fd2dd731f1709a5882a13d8fa8a902",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/14\/5-8.1792300261246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "a laetšwe ka mo go feletšego"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "matsatsi a gagwe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "dikgwedi tša gagwe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ go wena",
+      "marks": "go wena"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "sekgoba sa gagwe"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o beile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a ka se"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "go feta"
+    }
+  ],
+  "timestamp": "2026-10-18T05:11:01.247361346Z",
+  "model": "glm-5.3"
+}

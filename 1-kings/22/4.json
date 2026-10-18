@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כמוני כמוך כעמי כעמך כסוסי כסוסיך",
+      "rationale": "Kgolokwe ya go bapetša ga boraro-pedi, sebopego se se tswelelagago, se bolokilwe ka go tšwa go 'bjalo ka' e tlholang"
+    },
+    {
+      "kind": "you",
+      "subject": "kgoši ya Yisraele go Yehoshafata",
+      "rationale": "Potšišo ya go laletša e romelwa go Yehoshafata ka tlhamalalo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתי",
+      "rationale": "אִתִּי ke lentišo leo e lego 'le nna', e sego mongwadi wa sedišego; ⟨את⟩ e bolokwa go ya ka molao"
+    }
+  ],
+  "translation": "Gomme a re go Yehoshafata: Na o tla sepela ⟨את⟩ le nna go yela go ntwa ya Ramote ya Gileade? Gomme Yehoshafata a re go kgoši ya Yisraele: Bjalo ka nna, bjalo ka wena; bjalo ka setšhaba sa ka, bjalo ka setšhaba sa gago; bjalo ka dipitse tša ka, bjalo ka dipitse tša gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/22\/1-4.1792290417238.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafata"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "na o tla sepela"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna",
+      "marks": "le nna"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go yela go ntwa"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramote"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ya Gileade"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafata"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "bjalo ka nna"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "bjalo ka wena"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "bjalo ka setšhaba sa ka"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "bjalo ka setšhaba sa gago"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "bjalo ka dipitse tša ka"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "bjalo ka dipitse tša gago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:26:57.239254267Z",
+  "model": "glm-5.3"
+}

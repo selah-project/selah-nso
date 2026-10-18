@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "jwa",
+      "rationale": "תשא 'you shall bear' has no stated object; Sepedi needs one, so ⟨jwa⟩ is supplied and bracketed."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חכמת חכמת",
+      "rationale": "Identical verb repeated for emphasis: 'if you are wise, wise you are' — rhetorical doubling lost in Sepedi."
+    },
+    {
+      "kind": "you",
+      "subject": "to the hearer",
+      "rationale": "Second-person address throughout, conditional proverbs addressed to the young listener."
+    }
+  ],
+  "translation": "Ge o hlalefetše, o hlalefetše bakeng sa gago; gomme ge o tšeaša, o noši o tla rwala ⟨jwa⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2cb80516ac7dbd8d5df986b225603de8e80e0c943e853c303e88cb4362843525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/9\/9-12.1792299256169.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "o hlalefetše"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "o hlalefetše"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bakeng sa gago"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "gomme ge o tšeaša"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "o noši"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "o tla rwala"
+    }
+  ],
+  "timestamp": "2026-10-18T04:54:16.170895845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo bja ka",
+      "rationale": "נפש e atametše 'mokokotlo\/moya wa bophelo' — e sego moea yo a ikemetšego"
+    },
+    {
+      "kind": "elision",
+      "subject": "Sheole",
+      "rationale": "Leina la sehwahlaka le bolokwa bjalo ka Sheole go ya ka D2 — ga se dihele"
+    },
+    {
+      "kind": "crux",
+      "subject": "חסידך",
+      "rationale": "'yo a kgethwago wa gago' — ba ba dingwa ba bolela 'o mo pelontle wa gago' (motho yo a kgethwago kgahlanong le setšhaba)"
+    }
+  ],
+  "translation": "Ka gobane o ka se ntlogele bophelo bja ka go Sheole; o ka se neye yo a kgethwago wa gago go bona lešoba la go senyega.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1ea27d92a513aff8ebdc3454bb7dd89781f140205582918d0cb43e46c184db65",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/16\/9-11.1792297255092.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ka se"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "ntlogele"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja ka"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "go Sheole"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ka se"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "neye"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "yo a kgethwago wa gago"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "lešoba la go senyega"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:55.093295298Z",
+  "model": "glm-5.3"
+}

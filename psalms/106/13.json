@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מהרו שכחו",
+      "rationale": "'ba ile ba kgoromeletša, ba lebala' — go sprintja go latela go lebala ga tšhitišo, sebopego sa Seheberu se bolokwa"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Seheberu se na le bopelelo bja polelo fela; Sepedi se nyaka go"
+    }
+  ],
+  "translation": "Ba ile ba kgoromeletša, ba lebala mešomo ya gagwe, ba sa letetše ⟨go⟩ poledo ya gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6057f115937366e718ba43b3c279106224f51f088d9364b8175cbc3144ec018d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/13-16.1792298617531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "ba kgoromeletša"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "ba lebala"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mešomo ya gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "letetše"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "poledo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:37.532241483Z",
+  "model": "glm-5.3"
+}

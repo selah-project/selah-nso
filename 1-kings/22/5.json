@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כיום",
+      "rationale": "'bjalo ka leina le' — mo go bolela 'leina le, ga o ise o nyakišiše', e sego go bapetša le malatsi a mangwe."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Sekopanyi sa go kgopela se hlalositšwe ka ⟨o kgopelwa⟩, ga se na lentšu la sona ka botlalo."
+    }
+  ],
+  "translation": "Gomme Yehošafate a bolela go kgoši ya Yisraele: Nyakišiša ⟨o kgopelwa⟩ bjale ka leina le, ⟨את⟩ lentšu la Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "371f3e4948ddd1ebaba1a10e65f7045631d0bd27df869e45a6ceaa1bef07d569",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/22\/5-8.1792290394146.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a bolela"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehošafate"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Nyakišiša"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨o kgopelwa⟩"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bjale ka leina le"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu la Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:26:34.147636333Z",
+  "model": "glm-5.3"
+}

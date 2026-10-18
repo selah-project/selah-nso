@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go sa fela",
+      "rationale": "עולם ka boyona e re 'seo se swaletšego', sephethwa sa nako; Sepedi se na le lentšu le tee fela la nako ye sa pele"
+    }
+  ],
+  "translation": "O thehile lefase godimo ga motheo wa yona; e ka se tetemele, go sa fela gomme go ya le ile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8202c7e37d5797457beb32e8a067e7064a0f9109a9c1fa3ac159ab44788762d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/5-8.1792298573561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "o thehile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "motheo wa yona"
+    },
+    {
+      "surface": "בל",
+      "gloss": "e ka se"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "tetemele"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "go sa fela"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gomme go ya le ile"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:53.561743264Z",
+  "model": "glm-5.3"
+}

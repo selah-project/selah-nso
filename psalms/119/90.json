@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "moloko le moloko",
+      "rationale": "Hebrew לדר ודר is bound construct 'generation and generation'; Sepedi needs 'go … le …' to carry it"
+    },
+    {
+      "kind": "elision",
+      "subject": "tumelo ya gago",
+      "rationale": "Hebrew is a verbless clause; no copula supplied, context carries it"
+    },
+    {
+      "kind": "alternative",
+      "subject": "tumelo",
+      "rationale": "אמונה is literally 'firmness\/security' — could render 'botee' (steadfastness), chose 'tumelo' (faithfulness) per D2 register"
+    }
+  ],
+  "translation": "Go moloko le moloko tumelo ya gago; o tišitše ⟨את⟩ lefase, gomme ya ema.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7d7af4d4b3f0a2c81ce5c6f150256d24e531f9f2195df75726db9170048e1a77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/90-91.1792305338641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "go moloko"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le moloko"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "tumelo ya gago"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "o tišitše"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "gomme ya ema"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:38.641771631Z",
+  "model": "glm-5.3"
+}

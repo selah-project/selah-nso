@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פקדת",
+      "rationale": "go etela vs go gopola (JPS 'hast remembered'); Sepedi o etetše — go etela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דגנם",
+      "rationale": "gole bolela 'grain' ya bona — setšhaba se bolelwa ka 'gole' goba 'gole ga gole gomme ga se hlale"
+    }
+  ],
+  "translation": "O etetše ⟨את⟩ lefase gomme wa a nosa; o e atisa ka morwalo. Mokolo wa Elohim o tletše meetse; o ba a ba-aanela gole gomme ka go swana le bjalo o a e-aanela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/65\/9-12.1792297962877.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "o etetše"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "gomme wa a nosa"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "ka morwalo o mokgolo"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "o e atisa"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "mokolo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "o tletše"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "o a ba-aanela"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "gole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka go swana le bjalo"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "o a e-aanela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:42.878077866Z",
+  "model": "glm-5.3"
+}

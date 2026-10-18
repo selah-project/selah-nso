@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 53,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויתן את רשעים קברו",
+      "rationale": "'ba mo neela lebitšong le bafosegi' (ba mo lahlela le bafosegi) kgathanong le 'o dira lebitšo la gagwe le bafosegi' — modiri wa botho ga a hlaka go Seheberu."
+    },
+    {
+      "kind": "crux",
+      "subject": "על לא חמס עשה",
+      "rationale": "על e ka bolela 'ka gobane' goba 'ntle le ge' — KJV 'because' kgathanong le ASV\/JPS 'although'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bohosi",
+      "rationale": "מרמה ke bofofu bja go hloka nnete — 'fraud\/deceit'; moralo o tlwaetšego wa KJV 'guile' o tloša senepe sa go tsoma."
+    }
+  ],
+  "translation": "Gomme ba neela ⟨את⟩ bafosegi lebitšong, gomme ⟨את⟩ mohumi le lehuong la gagwe; ⟨ka gobane⟩ ga a dire poo, gomme ga go na bohosi mo molomong wa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a6ed37f8da4e1edbb8956eb75f873939ae3d65161d00e15fbed220d0ac0818ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/53\/9-12.1792292390766.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gomme ba neela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bafosegi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bafosegi"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "lebitšong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "mohumi"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "mohumi"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "le lehuong la gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ka gobane⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "poo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga go na"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bohosi"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "mo molomong wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:50.767116886Z",
+  "model": "glm-5.3"
+}

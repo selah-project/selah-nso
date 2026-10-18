@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka makgalelo a gagwe",
+      "rationale": "אף semologo e ke nko; 'makgalelo' ke botebo bja yona bja bothopo — sepheo se la tswalwa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אש ... אש",
+      "rationale": "Mollo o botšwa gabedi — mathomong (forniši ya mollo) le mafelelong (mollo o ja) — sekgoba sa molao sa go pholletša le temana."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ka nako ya sefahleho sa gago",
+      "rationale": "לעת פניך e ka bo e le 'ge o hlaga' — sefahleho se sa bapala se ikemetše."
+    }
+  ],
+  "translation": "O tla ba bea bjalo ka forniši ya moll<goya sefahleho sa gago, Yahwe; ka makgalelo a gagwe o tla ba menya, gomme moll<go tla ba ja.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/21\/9-12.1792297358345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "o tla ba bea"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "forniši"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ya sefahleho sa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ka makgalelo a gagwe"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "o tla ba menya"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "gomme o tla ba ja"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:38.346380202Z",
+  "model": "glm-5.3"
+}

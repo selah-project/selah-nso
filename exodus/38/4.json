@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 38:4",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "go fihla seka sa yona",
+      "rationale": "Lerolu le ka seka ga aletare — tekanyo ya bophagamo e bolokwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "mollwane wa yona",
+      "rationale": "כרכב se ka bolela mollwane (rim) goba sekgoba se se dikologago aletare; mo go tšewa mollwane bjalo ka ASV\/JPS."
+    },
+    {
+      "kind": "alternative",
+      "subject": "lerolu",
+      "rationale": "מכבר ka tlhaho ke lerolu la go hlatswa nama (grate); `sekgoba sa kgologwe` gape go ka šumišwa, fela sekgoba se ile sa ganwa bakeng sa lebati."
+    }
+  ],
+  "translation": "Gomme a dira go aletare lerolu la kgologwe, mošomo wa leretši, ka tlase ga mollwane wa yona, go tloga ka tlase go fihla seka sa yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6addf33f52fd59438ef8a2c488b684adfc2a8754075e2434d1c1566c42292545",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/38\/1-4.1792283418251.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "go aletare"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "lerolu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo wa"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "leretši"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "kgologwe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ga"
+    },
+    {
+      "surface": "כרכבו",
+      "gloss": "mollwane wa yona"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "go tloga ka tlase"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "seka sa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:30:18.252582448Z",
+  "model": "glm-5.3"
+}

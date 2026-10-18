@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 31:1",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ke beile",
+      "rationale": "כרתי ke 'go khaša' — Seheberu se khaša kgwerano; Sepedi ga se na tlwaelo ya 'go khaša kgwerano'"
+    },
+    {
+      "kind": "crux",
+      "subject": "mohlaladi",
+      "rationale": "אתבונן על: KJV 'nagana ka' vs ASV\/JPS 'lebelela' — go lebelela ka takamologo goba go nagana fela"
+    }
+  ],
+  "translation": "Kgwerano ke beile bakeng sa mahlong a ka; gomme ke eng seo ke boletšego ka mohlaladi?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b5ac2bfc9d09541da6be469023606aef4302fad1a3253832f911418c0059726f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/31\/1-4.1792300638376.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברית",
+      "gloss": "Kgwerano"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ke beile"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "mahlong a ka"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "gomme ke eng"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ke boletšego"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "mohlaladi"
+    }
+  ],
+  "timestamp": "2026-10-18T05:17:18.376674539Z",
+  "model": "glm-5.3"
+}

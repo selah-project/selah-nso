@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפשי ke 'mohumagadi\/thoho\/mafišamafiša' — go swana le 'mofsa wa bophelo bja ka', e sego moya fela."
+    },
+    {
+      "kind": "crux",
+      "subject": "banna ba maatla",
+      "rationale": "עזים: 'banna ba maatla' (kjv) vs 'ba tlhotse' (jps 'impudent') — šumo ya motho e sa tsejago ka botlalo."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Leina la Yahwe le bitšwa ka go botja polelo ya go hloka bofora."
+    }
+  ],
+  "translation": "Ka gobane bonang, ba emetše ka lefsifsi go moya wa ka; ba phuthegile kgahlanong le nna — banna ba maatla; e sego bofora bja ka, gomme e sego sebe sa ka, Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "161e5b2a0a73b0a2567e038eb3a269d37ec94c55d3b8572bc845b05c96e95c64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/59\/1-4.1792297916371.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "ba emetše ka lefsifsi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "go moya wa ka"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "ba phuthegile"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "banna ba maatla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e sego"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "bofora bja ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme e sego"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "sebe sa ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:56.372634758Z",
+  "model": "glm-5.3"
+}

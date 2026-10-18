@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ya ka",
+      "rationale": "Hebreta ga e bue sefele — 'ka khotso ya ka' e okeditšwe bakeng sa go hlaka."
+    },
+    {
+      "kind": "alternative",
+      "subject": "nako ye e sa feline",
+      "rationale": "לעולם e ka bolela gape 'ka mehla'; 'go fihla lelele' ke puku ya bobedi."
+    }
+  ],
+  "translation": "Gomme nna ke ile ka re, ka khotso ya ka: Ke a se ke ka logafala, go fihla nako ye e sa feline.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/30\/5-8.1792297465342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "ka khotso ya ka"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ke a se ke ka"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "logafala"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla nako ye e sa feline"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:25.343037305Z",
+  "model": "glm-5.3"
+}

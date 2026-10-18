@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ביד מואב",
+      "rationale": "'ka seatla sa Moabe' — seatla se ra maatla; phetolelo e boloka sebopego sa sona"
+    },
+    {
+      "kind": "you",
+      "subject": "kgoši ya Yisraele",
+      "rationale": "polelo ye ke sekgopišo sa kgoši ya Yisraele mabapi le boemo ba bona"
+    }
+  ],
+  "translation": "Gomme kgoši ya Yisraele a re: Aha! Ka gobane Yahwe o bile a bitša dikgoši tše tharo tše, go di nea ka go seatla sa Moabe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "858259e49cdb4caad24f2b628b9fd189bca89096455c2c8f68deca18e6a385ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/3\/9-12.1792290392645.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Aha!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "o bile a bitša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "tše tharo"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go di nea"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "dikgoši tše tharo tše"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka go seatla"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:26:32.646151676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמטרא",
+      "rationale": "Lentšu le bolela bothata-sephiri goba sefokodi — KJV 'mark', BSB 'target'; mo ke sefokodi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרך",
+      "rationale": "Boelinga bjo bo tšwa go go goma sea ka maoto — 'o kgomotše' e boloka seswantšho sa go goma."
+    }
+  ],
+  "translation": "O kgomotše sea sa gagwe, gomme a m-beile bjalo ka sefokodi sa mosebe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "00ecde460e6c6b06ebcfcf155c764a06b40c98997c028415c3d023e979bd0292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/3\/9-12.1792301142961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "o kgomotše"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "sea sa gagwe"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "gomme a m-beile"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "bjalo ka sefokodi"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "sa mosebe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:25:42.962085909Z",
+  "model": "glm-5.3"
+}

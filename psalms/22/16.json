@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Seheberu se sa bolele mong wa tiro ka botsotso; ⟨o⟩ e hlalosa Yahwe bjalo ka yo a dirago"
+    },
+    {
+      "kind": "crux",
+      "subject": "מלקוחי",
+      "rationale": "Palo ya bobedi (dual) — 'lešika la molomo' (dihlogo tše pedi tša molomo); diphetholelo tše dingwe di re 'mong wa khomo' goba 'pharynx'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ולעפר מות תשפתני",
+      "rationale": "Go phephetšwa 'leroleng la lehu' — go hlaka ga lehu ge go bapetšwa le lerole; teko ya mafelelo ya psalme ye"
+    }
+  ],
+  "translation": "Matla a ka a omile bjalo ka seripa sa setšo, gomme lwalo lwa ka le nameletše lešika la molomo wa ka; gomme o mpheetšetše leroleng la lehu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/22\/13-16.1792297383530.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "a omile"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "bjalo ka seripa sa setšo"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "matla a ka"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "gomme lwalo lwa ka"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "le nameletše"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "lešika la molomo wa ka"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "gomme leroleng"
+    },
+    {
+      "surface": "מות",
+      "gloss": "la lehu"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "o mpheetšetše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:03.531858789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 1:20",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מרו מריתי",
+      "rationale": "Root מרה doubled — 'bitterly I have rebelled'; also echoes מר 'bitter' from v.18, kept as repetition in Sepedi."
+    },
+    {
+      "kind": "you",
+      "subject": "Lebelela, Yahwe",
+      "rationale": "Direct address: the city-persona pleads to Yahwe as addressee."
+    },
+    {
+      "kind": "crux",
+      "subject": "כמות",
+      "rationale": "'as death' — famine inside the house equals the sword outside; some render 'as deadly as death', others 'the like of death'."
+    }
+  ],
+  "translation": "Lebelela, Yahwe, ka gobane go nkaba bohloko; mala a ka a bila, pelo ya ka e fetohile ka gare ga ka, ka gobane ke ganeletše go ganela kudu; ka ntle tšhoša e hlokgotše, ka tlung go bjalo ka lehu.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b6d838e68d376c7966ba354f7d79a3fc7ae665900c485c2290e6d0aed777290c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/1\/17-20.1792301217199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Lebelela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "צר",
+      "gloss": "go nkaba bohloko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mala a ka"
+    },
+    {
+      "surface": "חמרמרו",
+      "gloss": "a bila"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "e fetohile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ka gare ga ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "ke ganeletše"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "go ganela kudu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "שכלה",
+      "gloss": "e hlokgotše"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka tlung"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "go bjalo ka lehu"
+    }
+  ],
+  "timestamp": "2026-10-18T05:26:57.200431140Z",
+  "model": "glm-5.3"
+}

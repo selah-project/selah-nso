@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu ga se na kopanya; Sepedi e e nyaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "moya wa me",
+      "rationale": "נפש e atametše go 'gorongkolo\/maphelo' — sebopego sa moya se šomišitšwe go swanela sephego"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשחרך",
+      "rationale": "'go nyaka ka mesong' (šaḥar = mesong) kgahlanong le 'go nyaka ka tiego' — ge ditsela tše pedi di hlaka"
+    },
+    {
+      "kind": "alternative",
+      "subject": "nama ya me e nyaka ka tiego",
+      "rationale": "כמה e ka boela e be 'e omile ka go nyaka' — sefoko se kaya go hloka ka tiego"
+    }
+  ],
+  "translation": "Elohim, wena ⟨ke⟩ Eloha wa ka, ke tla go nyaka ka mesong; moya wa me o nyaka meetse go wena, nama ya me e nyaka go wena, lefaseng leo le omilego le bohookgwale, ntle le meetse.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/63\/1-4.1792297989531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Eloha wa ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "ke tla go nyaka ka mesong"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "o nyaka meetse"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa me"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "e nyaka ka tiego"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "nama ya me"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "leo le omilego"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "le bohookgwale"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:09.532272129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 13:23",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mohlo",
+      "rationale": "חנן — 'go nea mohlo' (bohlobo, mohau); Sesotho se ka re 'musa' eupša se ke taba ya Sesotho."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Se ke mošomi wa ⟨את⟩ + pronomine — se swara Yisraele bjalo ka sediriwa, e sego lentšu le itseng."
+    }
+  ],
+  "translation": "Gomme Yahwe a ba nea mohlo, a ba hlokomela, gomme a boela go bona, ka baka la kgwerano ya gagwe ⟨את⟩ Abrahama, Yitshake le Yaakobo; gomme a sa dumele go ba senya, gomme a sa ba lahla go tšwa go sefahlego sa gagwe go fihla gona bjale.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e9a87030a9be6d5ccf0cda2979c7c06e7ef38f642330273f189687176f262f59",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/13\/21-24.1792290748435.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "a ba nea mohlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "a ba hlokomela (Yisraele)"
+    },
+    {
+      "surface": "וירחמם",
+      "gloss": "a ba hlokomela"
+    },
+    {
+      "surface": "ויפן",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kgwerano ya gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitshake"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "le Yaakobo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "dumele"
+    },
+    {
+      "surface": "השחיתם",
+      "gloss": "go ba senya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "ba lahla"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahlego sa gagwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "gona bjale"
+    }
+  ],
+  "timestamp": "2026-10-18T02:32:28.436474161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mošomo wa yena",
+      "rationale": "כמעשהו 'go ya ka se a se dirilego' — mošomo o šoma, eupša Seheberu se bolela se a se dirilego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשלם",
+      "rationale": "šoresh שלם 'go phethwa, kagiso' — go duetša ke go phethagatsa se ileng swarwa; se la hlwa ka gobane Adonai ke yena a feletšego"
+    }
+  ],
+  "translation": "Gomme go wena, Adonai, go nale hesede; gobane wena o duetša ⟨את⟩ motho yo mongwe le yo mongwe go ya ka mošomo wa yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8a740cd6aa8aab327e09d6480016e7944d7465cd31e3897911805dc0cf2a88cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/62\/13-13.1792297922916.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "gomme go wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "o duetša"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "go ya ka mošomo wa yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:02.917176382Z",
+  "model": "glm-5.3"
+}

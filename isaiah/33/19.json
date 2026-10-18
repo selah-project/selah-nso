@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 33:19",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "polelo",
+      "rationale": "שפה ke sephaka (lip); e fetotšwe go ba polelo ka gobane sephaka se bolela polelo ya setšhaba"
+    },
+    {
+      "kind": "crux",
+      "subject": "נלעג",
+      "rationale": "la'ag = go gomotša (stammering, bjalo ka motho wa ntle) kgathanong le go sehlanya (derision) — makgolo a kgetha ditsela tše pedi"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨na⟩ \/ go ralala ga molao",
+      "rationale": "Sepedi e nyaka sekopanyi gare ga ga le go se kwagatše; Seheberu se se se na"
+    }
+  ],
+  "translation": "⟨את⟩ setšhaba se se bogalego ga o tla se bona — setšhaba sa polelo ye tseneletšego, ye o se ke gona go e kwagatša, sa leleme le gomotšago, gago kutlwisiso.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c65a2dd79d0464ae4a206f3b2fde84e0a6374b3a112c3dddc859de99d2061465",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/33\/18-19.1792305086856.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba se se bogalego"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "נועז",
+      "gloss": "se se bogalego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o tla se bona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "ye tseneletšego"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "polelo"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "go se kwagatše"
+    },
+    {
+      "surface": "נלעג",
+      "gloss": "le gomotšago"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "leleme"
+    },
+    {
+      "surface": "אין",
+      "gloss": "gago"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "kutlwisiso"
+    }
+  ],
+  "timestamp": "2026-10-18T06:31:26.857121070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תכנית",
+      "rationale": "Occurs only here: 'sebopego\/meputso ya go ela' — KJV 'pattern' vs JPS 'measure accurately'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "תכנית",
+      "rationale": "Lemma appears only in this verse in the Tanakh."
+    },
+    {
+      "kind": "measurement",
+      "subject": "go ela",
+      "rationale": "Ve 10–11 di aga go ya go go ela ga ntlo: go ela sebopego, ditšwa, ditseno."
+    },
+    {
+      "kind": "you",
+      "subject": "go Ezekieli",
+      "rationale": "'Wena, morwa wa motho' — bolelo go profeta Ezekieli ka go kgethiwa."
+    }
+  ],
+  "translation": "Wena, morwa wa motho, bontšha ⟨את⟩ ntlo ya Yisraele ⟨את⟩ ntlo, gomme ba tlo be ba nyenyefatšwa ka ditshweno tša bona, gomme ba elle ⟨את⟩ sebopego.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "4ca8d0c30a8f01c5ff97c34092ab2730615e83ce41e4c844e794dcadb50b9ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/43\/10-11.1792305142400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "bontšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yisraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "gomme ba nyenyefatšwe"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "ka ditshweno tša bona"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "gomme ba elle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebopego"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "sebopego"
+    }
+  ],
+  "timestamp": "2026-10-18T06:32:22.401331559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וישפטני",
+      "rationale": "Bohlatši bjo bo feletšego ka moo bo feletšego ka gona — „o tla m kahlola“ ka gobane o ntšiša; mokgwa wa go šoma o latela molao wa go šoma wa Moheberu."
+    },
+    {
+      "kind": "you",
+      "subject": "to Saule",
+      "rationale": "Maitemogelo a kgwerano ka bobedi bja ngwao, ao a bulego go Saule: „go wena“, „go seatla sa gago“."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וירא",
+      "rationale": "Go „a bona“ fela (go bona ka mahlo) go na le go „a lebelele“ — Moheberu o na le go bona fela."
+    }
+  ],
+  "translation": "Gomme Yahwe a be mokahlodi, a kahlola gare ga nna le gare ga wena, a lebelele le go lwanḓiša ⟨את⟩ taba ya ka, a mphetole go seatla sa gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e4dcc5c4ac3be39a5aae070f65a31cf6004fc5746311398fed654aa00e979630",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/24\/13-16.1792288553025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Gomme a be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "mokahlodi"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "a kahlola"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gare ga nna"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "le gare ga wena"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a lebelele"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "le go lwanḓiša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba ya ka"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "taba ya ka"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "a mphetole"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "go seatla sa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:55:53.026909464Z",
+  "model": "glm-5.3"
+}

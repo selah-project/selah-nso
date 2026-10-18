@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 7:27",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ya⟩",
+      "rationale": "Seheberu se se na le kopanyo; Sepedi se e nyaka gare ga 'Elohim' le 'bo-ntateho ra'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Yahwe",
+      "rationale": "Leina la YHWH le bolokwa ka modumo — 'Morena' goba 'Modimo' AOWA go ya ka D1"
+    },
+    {
+      "kind": "hapax-ish note skip",
+      "subject": "",
+      "rationale": ""
+    }
+  ],
+  "translation": "Tshegofatšo ya Yahwe, Elohim ya bo-ntateho ra, yo a beileng se sengwe sa go swana le se pelong ya kgoši, go kgantšha ⟨את⟩ ntlo ya Yahwe yeo e lego Yerushalayime.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "492f4c1c60e03f7c005741de2bc0cb6f2acfd022abf8a536516f3c292992435a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/7\/25-28.1792302374362.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Tshegofatšo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ya bo-ntateho ra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a beileng"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "se sengwe sa go swana le se"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "pelong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgoši"
+    },
+    {
+      "surface": "לפאר",
+      "gloss": "go kgantšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo e lego"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T05:46:14.363314378Z",
+  "model": "glm-5.3"
+}

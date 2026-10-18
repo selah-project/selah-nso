@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ימישון",
+      "rationale": "מושšwa 'go kgotša\/tšhrea' — dihlogo tše dingwe di begwa bjalo ka 'go šoma ka matsogo'; dipheto tša aramika (וּן) di bontšha polelo ya kgale"
+    },
+    {
+      "kind": "substitution",
+      "subject": "יהגו",
+      "rationale": "הגה ke go dumedisa\/go nagana — 'go dumša' go boloka sebopego sa modumo go sego sa go bolela seo go bolelwago"
+    }
+  ],
+  "translation": "Matsogo a tšona, eupša ga a kgotše; maoto a tšona, eupša ga a tsamae; ga ba dumše ka mokgweng wa tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d238467357eb2dd7bd7606a902d92ce1147ea96c7a51483d5250e9db09898798",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/115\/5-8.1792298737511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "matsogo a tšona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eupša ga"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "a kgotše"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "maoto a tšona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eupša ga"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "a tsamae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ba dumše"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "ka mokgweng wa tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:37.512616453Z",
+  "model": "glm-5.3"
+}

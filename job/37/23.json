@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 37:23",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא יענה",
+      "rationale": "KJV 'a ka se a hlole' (go fediša) kgahlanong le YLT 'ga a arabe' — ענה e bolela mehuta yembedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדקה e fetwa ka modumo wa yona go ya ka D2 — e sego 'toko' fela"
+    },
+    {
+      "kind": "mystery",
+      "subject": "Shadai",
+      "rationale": "Shadai ga a hwetšwe — se sennwe se se ka se utollwa ke motho"
+    }
+  ],
+  "translation": "Shadai — ra mo hwetša; o mogolo ka maatla, gomme ka kahlolo le bontši bja tsedeke a ka se a gate.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "81d9625d85a0db5579533b0c0301a5775d9dd41ad51b038d83e146813a492fd8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/37\/21-24.1792300769171.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "go se"
+    },
+    {
+      "surface": "מצאנהו",
+      "gloss": "ra mo hwetša"
+    },
+    {
+      "surface": "שגיא",
+      "gloss": "o mogolo"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ka maatla"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "gomme ka kahlolo"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "le bontši bja"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "a gate"
+    }
+  ],
+  "timestamp": "2026-10-18T05:19:29.172465104Z",
+  "model": "glm-5.3"
+}

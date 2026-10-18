@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חנם ... חנם",
+      "rationale": "Go boelela ga lentšu ka moka go bopa mošomo wa kgalemo; go bolokilwe ka go boelela ka mafele gabedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bophelo bja ka",
+      "rationale": "נפש e atametše go moya\/ka fa tlase ga mometšo\/mesemo ya bophelo, e sego motho ka moka"
+    }
+  ],
+  "translation": "Ka gobane ka mafele ba hlwilitše go nna sekgoba, rusu ya tšona; ka mafele ba epile bakeng sa bophelo bja ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/35\/5-8.1792297581207.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ka mafele"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "ba hlwilitše"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "sekgoba"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "rusu ya tšona"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ka mafele"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ba epile"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "bakeng sa bophelo bja ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:21.208794926Z",
+  "model": "glm-5.3"
+}

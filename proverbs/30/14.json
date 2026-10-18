@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 30:14",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חרבות",
+      "rationale": "חֶרֶב e bolela komelelo gape tšhoša; baphetoleli ba bangwe ba re 'dikomelelo' (menwana a omilego) go e na le ditšhoša"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מאכלות",
+      "rationale": "lentšu le tšwa go אכל (go ja) — 'se se jago'; se hlaga ka tsela ye fela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go ja",
+      "rationale": "motho wa moloko ga o je nama ka boyena — seswantšho sa go fenya baswetši"
+    }
+  ],
+  "translation": "Moloko wo meno ya wona e lego ditšhoša, gomme meno a wona a magolo — dithipa, go ja baswetši ba lefase, le ba tlhokego go tšwa bathong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f9cc896ce6865786110cb870fda9604836210d20694390a2de1670ed68190b5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/30\/13-16.1792299953094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "moloko"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "ditšhoša"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "meno ya wona"
+    },
+    {
+      "surface": "ומאכלות",
+      "gloss": "gomme dithipa"
+    },
+    {
+      "surface": "מתלעתיו",
+      "gloss": "meno a wona a magolo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "go ja"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "baswetši"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ba lefase"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "le ba tlhokego"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "go tšwa bathong"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:53.094988528Z",
+  "model": "glm-5.3"
+}

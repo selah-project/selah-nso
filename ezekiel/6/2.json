@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "morwa motho",
+      "rationale": "בן אדם 'son of man' kept as 'morwa motho', Ezekiel's characteristic address"
+    },
+    {
+      "kind": "you",
+      "subject": "go Ekiele",
+      "rationale": "Yahwe addresses the prophet directly with an imperative"
+    }
+  ],
+  "translation": "Morwa motho, bea sefahlego sa gago go dithaba tša Yisraele, gomme o profete go tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b1a898fa135980bbef3f6bdb96e49b8a46d39a3fb80f20968274f5274fbde664",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/6\/1-4.1792294452194.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שים",
+      "gloss": "bea"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahlego sa gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "tša Yisraele"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "gomme o profete"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:34:12.194890500Z",
+  "model": "glm-5.3"
+}

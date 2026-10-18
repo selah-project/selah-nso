@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikokošo di sekete",
+      "rationale": "Palo ya dikokošo di sekete e bala mafelelo a kgwerano."
+    },
+    {
+      "kind": "alternative",
+      "subject": "go ya nakong e sa feleng",
+      "rationale": "לעולם e ka boela e bolela 'go fihla lekanong' — nako e sa bonwe kgauswi."
+    }
+  ],
+  "translation": "O gopoditše kgwerano ya gagwe go ya nakong e sa feleng, lentšu leo a laeditšego go dikokošo di sekete.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f9375e1b687a7059db0197c0fb73fffc6371e415f950beb4ed1390fbe2cc10b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/5-8.1792298608643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "o gopoditše"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya nakong e sa feleng"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "kgwerano ya gagwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laeditšego"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "di sekete"
+    },
+    {
+      "surface": "דור",
+      "gloss": "dikokošo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:28.643919171Z",
+  "model": "glm-5.3"
+}

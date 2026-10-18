@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "לרוח e fetotšwe go ba ruakh go ya ka D2 — moya, phefo, go hema, lentšu le tee."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu ga se na kopula; Sepedi e e nyaka."
+    }
+  ],
+  "translation": "Gomme le se ke sebe le bolwetši: ka moka, go swana le ge a tla, bjalo o tla sepela; gomme ke eng moletlo mo go ena, ge a šoma bakeng sa ruakh?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "4198bf3345ce9fc8d5ebfbe5c36ef51455d5edb50a979a643fa438a780c1d8b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/5\/13-16.1792301456107.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "gomme le"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ke sebe"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "bolwetši"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "go swana le"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ge a tla"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "o tla sepela"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "gomme ke eng"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "moletlo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo go ena"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ge a šoma"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "bakeng sa ruakh"
+    }
+  ],
+  "timestamp": "2026-10-18T05:30:56.108326739Z",
+  "model": "glm-5.3"
+}

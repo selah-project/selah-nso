@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "ילע",
+      "rationale": "Verb appears only here in the Tanakh; root means to blurt out rashly, hence the reading 'rashly declare'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ילע",
+      "rationale": "KJV\/Genesis read 'devoureth that which is holy' (from לוע, swallow); JPS\/ASV read 'rashly to say, holy'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "se-kgethwa",
+      "rationale": "קדש rendered per the discipline as -kgethwa (set apart), not 'holy'."
+    }
+  ],
+  "translation": "Mosepe go motho: go bolela ka legeši ⟨se-kgethwa⟩, gomme ka morago ga maikano go nyakišiša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3733b31310b815b78eda709ccef9694eece5e795eb3f8ce2999a3f0839a35c33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/20\/25-28.1792299574110.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "mosepe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "go bolela ka legeši"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "se-kgethwa"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "gomme ka morago"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "maikano"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "go nyakišiša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:59:34.111777861Z",
+  "model": "glm-5.3"
+}

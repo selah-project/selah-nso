@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 12:2",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e be e le",
+      "rationale": "Seheberu ga se na copula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "elision",
+      "subject": "שנה",
+      "rationale": "šupišo ye e kopantšwego le 'mengwaga ye masomepedi e mene' go šomišo ya Sepedi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mengwaga ye masomepedi e mene",
+      "rationale": "palo ya mengwaga ya bogoši"
+    }
+  ],
+  "translation": "Ngwageng wa bošupa wa Yehu, Yehoashe o ile a busa, gomme o ile a busa mengwaga ye masomepedi e mene Yerushalayime; gomme leina la mmagwe e be e le Tsivja, wa Beer-Sheba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0f72284d8fed7cd045d4b5c43a2df63901077305eddb3735653efbeca5a3cf4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/12\/1-4.1792290783035.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ngwageng"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "bošupa"
+    },
+    {
+      "surface": "ליהוא",
+      "gloss": "wa Yehu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Yehoashe"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "gomme mengwaga ye masomepedi e mene"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o ile a busa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "gomme leina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "la mmagwe"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "Tsivja"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "wa Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-10-18T02:33:03.035917723Z",
+  "model": "glm-5.3"
+}

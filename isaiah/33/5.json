@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ka",
+      "rationale": "Seheberu se šomiša tlatša ka lento le tee go šala; sekopanyi se okeditšwe ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדקה e swara 'toka ya kgoši' — ka mo Sepedi a se nago lentšu le tee, le na le lentšu la motho wa letšatši le letšatši"
+    }
+  ],
+  "translation": "Yahwe o phahametše, ka gobane o dutše maremogolo; o tlatšitše ⟨את⟩ Tsione ka kahlolo le tsedeke.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fb5901210a8f6706374bde8db17df9462fe2c2a8e5312b29cdb43041556eb3fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/33\/5-8.1792291846365.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "o phahametše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "o dutše"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "maremogolo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "o tlatšitše"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "le tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-18T02:50:46.365927536Z",
+  "model": "glm-5.3"
+}

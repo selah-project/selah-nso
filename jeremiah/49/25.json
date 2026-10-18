@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ga o tlošwa",
+      "rationale": "עזבה בלשון נפעל — 'הלא נעזבה' (KJV\/ASV) נגד 'נעזבה' (JPS) — המקור סתום; איך הפוך שבחה של עיר שלא נעזבה"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "אין מילת קשר בעברית לציון הפועל השלילי"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עיר \/ קרית",
+      "rationale": "כפילות מילים למען הדגשה נרטיבית — 'עיר תהלה קרית משושי'"
+    }
+  ],
+  "translation": "Ee, motse wa tekolo ga ⟨o⟩ tlošwa, motse wa nyakallo ya ka!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6281c313f4ff23660c255ae67696744a4d6b1086ed8aca45248ed25d4eea163f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/49\/25-28.1792294143414.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "tlošwa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "wa tekolo"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "motse"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "wa nyakallo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T03:29:03.414711750Z",
+  "model": "glm-5.3"
+}

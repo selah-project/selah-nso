@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אישים",
+      "rationale": "Bontši bja `איש` (`banna`) kgahlanong le go bala ga ba bangwe bjalo ka mokoša; mokoša ga o dumelelwe go sebopego se."
+    },
+    {
+      "kind": "idiom",
+      "subject": "להתעולל עללות",
+      "gloss-rationale": null,
+      "rationale": "Bošwa bja modu o tee (`עלל` ka gatelela) — go dira dilo tša go hlwahlwaja; sebopego sa go ipapetša se nyamela go Sepedi."
+    },
+    {
+      "kind": "elision",
+      "subject": "ברשע",
+      "rationale": "Leleme la Seheberu le dupetše ka go latelanago (`עלילות ברשע`); `ka sebeng` le tšwa go kopanya."
+    }
+  ],
+  "translation": "O se ke wa godifala pelo ya ka go taba ye mpe, go dira merero ya sebeng le banna ba dirago ⟨את⟩ sebe; gomme ke se ke ka ja dilo tša bona tše monate.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/141\/1-4.1792299057657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ke"
+    },
+    {
+      "surface": "תט",
+      "gloss": "wa godifala"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go taba"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ye mpe"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "go dira merero"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "ya sebeng"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "ka sebeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba dirago"
+    },
+    {
+      "surface": "און",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "gomme ke se ke"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "ka ja"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "dilo tša bona tše monate"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:57.659549479Z",
+  "model": "glm-5.3"
+}

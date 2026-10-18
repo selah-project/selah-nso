@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 3:17",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "חקת עולם",
+      "rationale": "Go thoma ka polelo ye e se nago leina — Sepedi e oketša ⟨molao⟩ go dira sebopego."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Taelo ye e bolela go batho ka bontši (lena) — molao wa go se je mafura le madi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא תאכלו",
+      "rationale": "Go ganwa ka botsogo ka moka go Bothong: mafura le madi ka moka ga ba je."
+    }
+  ],
+  "translation": "Molao wa go šišinyega ka mehla, go dikokwaso tša lena, go dulo tša lena ka moka: mafura ka moka le madi ka moka — le se ke la ja.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d24a50ef8f2d925c03eee118c3d0ab7a3847e8b3486c26f4765bfbd46fd3601e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/3\/17-17.1792283451956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חקת",
+      "gloss": "molao wa go šišinyega"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka mehla"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "go dikokwaso tša lena"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "go dulo tša lena ka moka"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "go dulo tša lena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le … ka moka"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ja"
+    }
+  ],
+  "timestamp": "2026-10-18T00:30:51.959043398Z",
+  "model": "glm-5.3"
+}

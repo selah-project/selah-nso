@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 22:32",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopula; Seheberu ga se na eona."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויזעק",
+      "rationale": "'a lla ka lentšu' — bakgolwa ba fapana: go lla go tšwa sereteng goba go goga mahlo a molemo ('a ēla')."
+    }
+  ],
+  "translation": "Gomme ge balaodi ba dikoloi ba bona ⟨את⟩ Yehoshafata, ba re: Ke kgoši ya Yisraele ⟨ke⟩ yena; gomme ba latediša go ya go lwa le ena; gomme Yehoshafata a lla ka lentšu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c7671b92e68bbba243a1370755a392553601eecda7eb01de80a553f0549086ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/22\/29-32.1792290422716.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "ba dikoloi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoshafata"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafata"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "re"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "ba latediša"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "go ya go ena"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "a lla ka lentšu"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafata"
+    }
+  ],
+  "timestamp": "2026-10-18T02:27:02.717995571Z",
+  "model": "glm-5.3"
+}

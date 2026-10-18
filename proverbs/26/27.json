@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yo a beileng",
+      "rationale": "כרה ke 'go bea' mošoba; mme 'mošoba' e hlalosa שחрит"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "poetic justice",
+      "rationale": "motho o boela go se a se dirilego — mokgwa wa Seheberu wa tsela e tlang boa"
+    }
+  ],
+  "translation": "Yo a beileng mošoba o tla wa go wona, gomme yo a gogago leswika, leswika le tla boa go yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f40558369f50c57f53234ce268b1a035fa5ddefc48d14095366df8e43ed5d923",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/26\/25-28.1792299860897.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "yo a beileng"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "mošoba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go wona"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "o tla wa"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "gomme yo a gogago"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "leswika"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "le tla boa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:04:20.898766133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 16:16",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דוגים\/דיגום le צידים\/צדום",
+      "rationale": "mareo a mabedi a dira ka go swana: ba-roi ba roa, bašomi ba šoma — kopanyo ya go tšwa le go boa ga setšhaba e laetšwe ka seshwanethšo sa go roa le go šoma diphhoofolo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba-roi bja dihlapi le bašomi ba diphoofolo",
+      "rationale": "seshwanethšo: ditšhaba tše di tla hwetša Yuda ge ba-roi ba hwetša hlapi — go se ngwalo ga ditšhaba ka tšona go tlogela sephetho se se bontšhago."
+    },
+    {
+      "kind": "hapax",
+      "subject": "נקיקים",
+      "rationale": "lemma 5357 e hlaga ga go kae mo Tanakh — 'melelo ya maswika', sehlwa sa lefase leo batho ba ka hwetšwago gona."
+    }
+  ],
+  "translation": "Bona, ke ke romela ba-roi bja dihlapi ba bantši, go bolela Yahwe, gomme ba tla ba roa; gomme ka morago ga seo ke tla roma ba bantši ba bašomi ba diphoofolo, gomme ba tla ba šoma go tšwa go thaba ka moka le go tšwa go thotlo ka moka, le go tšwa mošamong wa maswika.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "717f32cedcfca17c947b974e94a00f18ad92b7e50688b1155c2cebfa0fcf60ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/16\/13-16.1792293231236.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Bona, ke"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "romela"
+    },
+    {
+      "surface": "לדוגים",
+      "gloss": "ba-roi bja dihlapi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bantši"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ודיגום",
+      "gloss": "gomme ba tla ba roa"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "gomme ka morago"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ga seo"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ke tla roma"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "ba bantši"
+    },
+    {
+      "surface": "צידים",
+      "gloss": "bašomi ba diphoofolo"
+    },
+    {
+      "surface": "וצדום",
+      "gloss": "gomme ba tla ba šoma"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "ומעל",
+      "gloss": "le go tšwa go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "thotlo"
+    },
+    {
+      "surface": "ומנקיקי",
+      "gloss": "le go tšwa mošamong"
+    },
+    {
+      "surface": "הסלעים",
+      "gloss": "wa maswika"
+    }
+  ],
+  "timestamp": "2026-10-18T03:13:51.237876944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "division of Levites",
+      "rationale": "24,000 overseers, 6,000 officers and judges — allocation of the 38,000"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba hlankela go laola",
+      "rationale": "לנצח literally 'to be eminent\/preside over'; rendered as serving to direct the work"
+    }
+  ],
+  "translation": "Go tšwa go bana ba, ba masomepedi le nne dikete ba hlankela go laola mošomo wa ntlo ya Yahwe; gonne bašuti le baatlhodi, tshela dikete.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/23\/1-4.1792303388125.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Go tšwa go bana ba"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ba hlankela go laola"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "mošomo wa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masomepedi"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "le nne"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "gonne bašuti"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "le baatlhodi"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "tshela"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete"
+    }
+  ],
+  "timestamp": "2026-10-18T06:03:08.126786078Z",
+  "model": "glm-5.3"
+}

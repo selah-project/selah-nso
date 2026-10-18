@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 19:12",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "gloss_renamed": "ruakh ya bochabela",
+      "rationale": "ruakh e bolokwa ka modumo wa Seheberu go ya le D2"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "התפרקו ויבשו",
+      "rationale": "go tloga le go oma — mokgwa wa kgale o tliša dikagare tše pedi ka go latelana, tše di theilwego sepadiring"
+    }
+  ],
+  "translation": "Gomme ya ritwa ka bolale, ya latelwa fase go lefase; gomme ruakh ya bochabela ya omisa peo ya yona; dikala tša maatla a yona di tlogile, gomme di omile — mollo o di jele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ce4ef1f07c7b09577ca57c1d543810ef4d8cd6acbd7069a8f8679c6092765cff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/19\/9-12.1792294887674.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותתש",
+      "gloss": "ya ritwa"
+    },
+    {
+      "surface": "בחמה",
+      "gloss": "ka bolale"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "fase go lefase"
+    },
+    {
+      "surface": "השלכה",
+      "gloss": "ya latelwa"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ruakh ya bochabela"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "bochabela"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "ya omisa"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "peo ya yona"
+    },
+    {
+      "surface": "התפרקו",
+      "gloss": "di tlogile"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "di omile"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "dikala"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "tša maatla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "אכלתהו",
+      "gloss": "o di jele"
+    }
+  ],
+  "timestamp": "2026-10-18T03:41:27.675584974Z",
+  "model": "glm-5.3"
+}

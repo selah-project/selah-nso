@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 119:46",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maaka",
+      "rationale": "אבוש literally 'go fifala bosheng' — go swarwa ke maaka; le 'go tloga pelo' go ka šomišwa."
+    },
+    {
+      "kind": "you",
+      "subject": "dikgoši",
+      "rationale": "Polelo ye e bontšha bofokodi bja mopedi pele ga balaodi ba ditšhaba."
+    }
+  ],
+  "translation": "Gomme ke tla bolela bopaki bja gago pele ga dikgoši, gomme ke ka se swarwe ke maaka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e1e9edb61584885156890815718eff87acc05ffed81ce85e53bed441f5f4cfe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/45-48.1792298816046.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואדברה",
+      "gloss": "gomme ke tla bolela"
+    },
+    {
+      "surface": "בעדתיך",
+      "gloss": "bopaki bja gago"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ke ka se"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "swarwe ke maaka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:56.047598730Z",
+  "model": "glm-5.3"
+}

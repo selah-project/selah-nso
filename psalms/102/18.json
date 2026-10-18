@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 102:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הערער",
+      "rationale": "Lentšu le bolela sehlare sa sekgaka (ערער) se se lapago; diphetoše di fapana: 'yo a hlofilwego', 'yo a seng le selo', 'mofalwa'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תפלת ... תפלתם",
+      "rationale": "Go boeletša ga 'thapelo' ga gate pedi ka mpuletsano — sebopego seo se bolokilwe."
+    }
+  ],
+  "translation": "O ile a tealosa thapelo ya go rapela ya yo a seng le selo, gomme a sa hloahla ⟨את⟩ thapelo ya bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "38816c447df579f62a10ec9aa4bb74f1928f848fff819936d8a49ae76bdeed98",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/102\/17-20.1792298557120.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "o ile a tealosa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "תפלת",
+      "gloss": "thapelo ya go rapela"
+    },
+    {
+      "surface": "הערער",
+      "gloss": "ya yo a seng le selo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hloahla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thapelo ya bona"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "thapelo ya bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:37.121202542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 24:13",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טהרתיך \/ טהרת \/ תטהרי",
+      "rationale": "Poeletšo ya modu wa go hlwekiga — go hlwekisa, go hlwekwa, go hlweke — modu o tšeela sephetho, Sepedi se boloka tšhupetšo ka go boeletša lentšu le tee."
+    },
+    {
+      "kind": "substitution",
+      "subject": "saitwa",
+      "rationale": "טומאה ke saitwa la sedumedi, e sego ditšhila fela — lentšu le apaaretšwe leswisong la bokgonodi."
+    }
+  ],
+  "translation": "Go saitweng sa gago go na le maswe; ka gobane ke ile ke go hlwekisa, gomme o sa hlwekwa go saitwa sa gago; o ka se hlweke gape, go fihla ge ke bea khutšo ⟨את⟩ khalefo ya me go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "da5e3ba0baed6cbc153685757d660645c513409e262efef878e866d0db77a75f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/24\/13-16.1792295073355.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטמאתך",
+      "gloss": "go saitweng sa gago"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "maswe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "טהרתיך",
+      "gloss": "ke go hlwekisitše"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "טהרת",
+      "gloss": "o hlwekwa"
+    },
+    {
+      "surface": "מטמאתך",
+      "gloss": "go saitwa sa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תטהרי",
+      "gloss": "o hlweke"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "הניחי",
+      "gloss": "ge ke bea khutšo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khalefo ya me"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "khalefo ya me"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T03:44:33.355679998Z",
+  "model": "glm-5.3"
+}

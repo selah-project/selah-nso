@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ממנו ×4",
+      "rationale": "Fourfold anaphora 'from him\/from it' — each leader-image hammers the same source, Judah."
+    },
+    {
+      "kind": "crux",
+      "subject": "נוגש",
+      "rationale": "Driver of laborers\/taxer: KJV 'oppressor' (hostile) vs ASV 'ruler' and Genève 'appointer of tribute' (official)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "khutlo",
+      "rationale": "פנה is literally 'corner(stone)'; later reading takes the four images as one Mashiakh-figure from Judah, but the plain sense is ruler after ruler."
+    }
+  ],
+  "translation": "Go tšwa go yena khutlo, go tšwa go yena mosebe, go tšwa go yena osa ya ntoa, go tšwa go yena go tla tšwa mogapeletši yo mongwe le yo mongwe mmogo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b8f971c583ed779ed85209d444d528597dd55d363eab8a3051bd8d0ca5dd1815",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/10\/1-4.1792297079809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "go tšwa go yena"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "khutlo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tšwa go yena"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "mosebe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tšwa go yena"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "osa"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ya ntoa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tšwa go yena"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "go tla tšwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "mogapeletši"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:17:59.810531788Z",
+  "model": "glm-5.3"
+}

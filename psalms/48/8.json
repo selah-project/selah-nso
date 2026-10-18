@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Sepedi se nyaka modiri wa tiro; Seheberu se na le sebopego fela se se senang ya a dirago"
+    },
+    {
+      "kind": "crux",
+      "subject": "תרשיש",
+      "rationale": "Leina la lefelo gape le la bolela kepe ya khoebo e kgolo; 'dikepe tša Tarshishe' e boloka mebele ka bobedi"
+    }
+  ],
+  "translation": "Ka ruakh ya bohlabela ⟨o⟩ roba dikepe tša Tarshishe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a4e1c56114c25a58f84cc450bce8e67711fda75057353e915ac55ff6b1c199a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/48\/5-8.1792297751198.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "ka ruakh"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ya bohlabela"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "⟨o⟩ roba"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "dikepe"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "tša Tarshishe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:11.199234645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 12:23",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה",
+      "rationale": "Seheberu: 'selo se se hlokovetšwego'; Sepedi: 'aowa, e se' — seka sa go gana se thata"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Yisraele",
+      "rationale": "Samuele o ikuela le go laetša setšhaba ka go se itikele"
+    },
+    {
+      "kind": "invitation",
+      "subject": "tsela e botse le e thwii",
+      "rationale": "Samuele o laetša setšhaba tsela ye e swanetšego — khošwa ya mošomo wa moprofeta"
+    }
+  ],
+  "translation": "Le nna, aowa, e se go sebe goto Yahwe ka go emisa go thapela ka ⟨את⟩ lena; gomme ke tla le ruta tsela e botse le e thwii ⟨⟨ka go yena⟩⟩.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "355249c35f14cc1f503c6276f85b62bcaa89a7b3c182666f2cf9082e0d11c036",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/12\/21-24.1792288115933.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "aowa, e se"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "מחטא",
+      "gloss": "go sebe goto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מחדל",
+      "gloss": "ka go emisa"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "go thapela"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "ka lena"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "gomme ke tla le ruta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lena",
+      "marks": "tsela e botse le e thwii"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "e botse"
+    },
+    {
+      "surface": "והישרה",
+      "gloss": "le e thwii"
+    }
+  ],
+  "timestamp": "2026-10-18T01:48:35.934675591Z",
+  "model": "glm-5.3"
+}

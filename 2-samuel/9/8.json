@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כלב",
+      "rationale": "Kelebing ya Šaule — Sepedi e nyaka 'mpa ya noga' ka gobane 'kalb' ya Seheberu ke seabe sa go nyenyega, e sego phoofolo fela."
+    },
+    {
+      "kind": "elision",
+      "subject": "כמוני",
+      "rationale": "'e bjalo ka nna' e hlama go tšwa go אשר כמוני; ditemana tše pedi di bokantšwe go e tee."
+    },
+    {
+      "kind": "you",
+      "subject": "Dafida",
+      "rationale": "Mefibosete o araba kgoši ka go iota ka botšho, temana ye ke polelo ya kgoši le mohlanka."
+    }
+  ],
+  "translation": "Gomme a inama a tlotša, a re: Mohlanka wa gago ke mang, gore o ka nea mošomo ⟨את⟩ mpa ya noga ya šwele, e bjalo ka nna?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b4450df20bd6781b859db5b3ec633a2bc0c294bb85ce08af0e9b33dd31615224",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/9\/8-8.1792304868101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "a inama a tlotša"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mang"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "Mohlanka wa gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "o neile mošomo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "mpa ya noga"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ya šwele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e bjalo ka"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-10-18T06:27:48.102352930Z",
+  "model": "glm-5.3"
+}

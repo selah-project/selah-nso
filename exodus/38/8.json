@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 38:8",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צבאת \/ צבאו",
+      "rationale": "modu wa צבא ke woo wa 'Tsebaote' — basadi ba 'dirego mošomo' ka modu o swanago, se se laolwago ka Sepedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "diipaiši",
+      "rationale": "מראת — 'diipaiši' (dipaiso tša go ipona) goba 'dipono': masaisai a basadi a dirilwe kiepe"
+    }
+  ],
+  "translation": "Gomme a dira ⟨את⟩ kiepe ya tmongwa le ⟨את⟩ motheo wa yona wa tmongwa, ka diipaiši tša basadi bao ba diretšego mošomo, ba ba dirego leibong la tense ya kopano.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/38\/5-8.1792283385487.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gomme a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kiepe"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "kiepe"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ya tmongwa"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "le ⟨את⟩",
+      "marks": "motheo wa yona"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "motheo wa yona"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "wa tmongwa"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "ka diipaiši"
+    },
+    {
+      "surface": "הצבאת",
+      "gloss": "tša basadi bao ba diretšego mošomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ba"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "ba dirego"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "leibong"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "la tense"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ya kopano"
+    }
+  ],
+  "timestamp": "2026-10-18T00:29:45.488921987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "le a tlolega",
+      "rationale": "עתקה: 'go tlolega\/go fetoga bohlware' (KJV 'waxeth old') kgahlanong le 'go hlokomologa\/go šuta'; go tlolega ke bo Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kgalefo",
+      "rationale": "כעס fela ke 'kgalefo'; mo e bolela bothata bo botala bo bopang leihlo"
+    }
+  ],
+  "translation": "Leihlo la ka le a nyamela ka kgalefo; le a tlolega ka baka la manaba a ka ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/6\/5-8.1792297115956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "le a nyamela"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "ka kgalefo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "leihlo la ka"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "le a tlolega"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka baka la... ka moka"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "manaba a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:35.957679103Z",
+  "model": "glm-5.3"
+}

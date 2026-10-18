@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Adonai",
+      "rationale": "Mešomo ya go kopa — o bitša Adonai ka bowena"
+    },
+    {
+      "kind": "alternative",
+      "subject": "morwa wa molokwane",
+      "rationale": "Ka sebopego: 'morwa wa molokwane wa gago' — sesupo sa motho yo a tšwago lelapeng la tumelo, e sego leina fela"
+    }
+  ],
+  "translation": "Polela sefahlego sa gago go nna, gomme o mthokolose; fa maatla a gago go mohlanka wa gago, gomme o hloditše morwa wa molokwane wa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "28e4508dd72a495706bf46f85e5fe8856fb730f4d487a8579c269f22b6899e6a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/86\/13-16.1792298417189.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "polela sefahlego sa gago"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "gomme o mthokolose"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "fa"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "maatla a gago"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "go mohlanka wa gago"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "gomme o hloditše"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wa molokwane wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:17.190177444Z",
+  "model": "glm-5.3"
+}

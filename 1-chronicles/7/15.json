@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 7:15",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לקח אשה לחפים",
+      "rationale": "Go nyala mosadi bakeng ba Khupime le Shupime (dibopiwa tša mašweleng), goba go nyala kgaetšedi wa Khupime le Shupime? Diphetolelo tša kgale di fapana"
+    },
+    {
+      "kind": "crux",
+      "subject": "השני",
+      "rationale": "Wa bobedi ke mang — morwa wa bobedi wa Makhire goba wa bobedi go tšwa go bana bao ba boletšwego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "barekedi",
+      "rationale": "בנות ke 'bana ba basadi'; 'barekedi' ke lentšu la Sepedi le swanago le lona"
+    }
+  ],
+  "translation": "Gomme Makhire o ile a nyala mosadi wa bakeng ba Khupime le bakeng ba Shupime; leina la kgaetšedi wa bona e be e le Maakhale; gomme leina la wa bobedi e be e le Tselofkhade; gomme Tselofkhade o be a na le barekedi.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a67fcee4ffec800cb3de29a69d1a390649a9db7b4122ec5a40aba54e604b222d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/7\/13-16.1792303041321.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומכיר",
+      "gloss": "Gomme Makhire"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "o ile a nyala"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "לחפים",
+      "gloss": "bakeng ba Khupime"
+    },
+    {
+      "surface": "ולשפים",
+      "gloss": "bakeng ba Shupime"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "leina la"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "kgaetšedi wa bona"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhale"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "leina la"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "Tselofkhade"
+    },
+    {
+      "surface": "ותהינה",
+      "gloss": "o be a na le"
+    },
+    {
+      "surface": "לצלפחד",
+      "gloss": "Tselofkhade"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barekedi"
+    }
+  ],
+  "timestamp": "2026-10-18T05:57:21.322184710Z",
+  "model": "glm-5.3"
+}

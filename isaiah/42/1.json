@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 42:1",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "הן",
+      "rationale": "Verse opens with 'Bonang' — a summons drawing the hearer to behold the servant."
+    },
+    {
+      "kind": "substitution",
+      "subject": "pelo ya ka",
+      "rationale": "נפשי is throat\/breath\/life-force; Sepedi 'pelo ya ka' narrows it to the heart."
+    },
+    {
+      "kind": "crux",
+      "subject": "אתמך",
+      "rationale": "תמך read as 'I uphold him' (KJV\/JPS) vs 'I will strengthen him' (future promise)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "yo a thekgwago ke nna",
+      "rationale": "אתמך can be a passive participle: 'my servant, the-one-upheld (by me)'."
+    }
+  ],
+  "translation": "Bonang mohlanka wa ka, yo ke mo thekago, kgethišitšwego wa ka, eo pelo ya ka e mo ratago; ke beile ruakh ya ka mo go yena; o tla ntšha kahlolo go ditšhaba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/42\/1-4.1792292205582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mohlanka wa ka"
+    },
+    {
+      "surface": "אתמך",
+      "gloss": "ke mo thekago"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go yena"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "kgethišitšwego wa ka"
+    },
+    {
+      "surface": "רצתה",
+      "gloss": "e ratile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke beile"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya ka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo go yena"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "go ditšhaba"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "o tla e ntšha"
+    }
+  ],
+  "timestamp": "2026-10-18T02:56:45.583376425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 6:24",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויהי אחרי כן",
+      "rationale": "sekošo sa Seheberu 'go thoma ka morago ga' — mošomo wa go alafa nako"
+    },
+    {
+      "kind": "substitution",
+      "subject": "masole",
+      "rationale": "מחנהו ke 'kampa ya yena' — e ile ya fetotšwa go 'masole' go ya ka mošomo, ka gobane kampa ke ya sesole"
+    }
+  ],
+  "translation": "Gomme go thoma ka morago ga se sengwe, Ben-Hadade, kgoši ya Arama, a kgoboketša ⟨את⟩ masole a yena ka moka, gomme a namela, a gabela Shomarona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7cf0dd2deb5262068c3e1f0f128b34586cca44643b69b51959a773a7c148ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/6\/21-24.1792290543721.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go thoma"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "כן",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "a kgoboketša"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadade"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Arama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "masole a yena ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "masole a yena"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "a namela"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "a gabela"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomarona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:29:03.722885289Z",
+  "model": "glm-5.3"
+}

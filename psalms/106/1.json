@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩ · ⟨ya⟩",
+      "rationale": "Sepedi e nyaka kopula le setlhako seo Seheberu se se sa di rego"
+    },
+    {
+      "kind": "invitation",
+      "subject": "psalms 106:1",
+      "rationale": "Mašaledi a go lauda a bitša badumedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go sa feleng",
+      "rationale": "לעולם ka moka o bolela 'nyutla', fela 'go fihla go sa feleng' ke polelo ya go lebega"
+    }
+  ],
+  "translation": "Laudang Yah, lebohela Yahwe, ka gobane ⟨o⟩ molemo, ka gobane hesede hae ⟨ya⟩ go fihla go sa feleng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/1-4.1792298647325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Laudang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "lebohela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "molemo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla go sa feleng"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede hae"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:07.326476421Z",
+  "model": "glm-5.3"
+}

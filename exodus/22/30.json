@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yeo e ripilwego",
+      "rationale": "טרפה ke phoofolo yeo e ripilwego ke phoofolo ya naga; 'e ripilwego' e boloka sebopego sa lentšu"
+    },
+    {
+      "kind": "crux",
+      "subject": "batho ba bokgethwa",
+      "rationale": "אנשי קדש: 'banna ba bokgethwa' (banna ka ntle) kgathanong le 'batho ba bokgethwa' (setšhaba ka moka); jps e šomiša 'holy men'"
+    },
+    {
+      "kind": "addition",
+      "subject": "go nna",
+      "rationale": "לי ke sereti sa motho wa pele; Sepedi se nyaka sebopego se feletšego, se hweditšwe ka masakana"
+    }
+  ],
+  "translation": "Gomme batho ba bokgethwa le tla ba go nna; gomme nama yeo e ripilwego ya naganeng, le e se je; le e lahlele noganyaneng ⟨את⟩ yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0daa481e6d8d6b0dcc39aa380373fcba324226b4ba7538638f24e1179dc53b22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/22\/29-30.1792282866666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "gomme batho"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ba bokgethwa"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "le tla ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "gomme nama"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ya naganeng"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "yeo e ripilwego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le e se"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "je"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "noganyaneng"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "le e lahlele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (nama yeo e ripilwego)"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:06.667683641Z",
+  "model": "glm-5.3"
+}

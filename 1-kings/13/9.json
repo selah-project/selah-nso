@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bogobe",
+      "rationale": "לחם ke boledi bja bogobe ka Sepedi; e ka bolela le dijo ka bophara."
+    },
+    {
+      "kind": "you",
+      "subject": "go motho wa Elohim (kgošing yeroboamo)",
+      "rationale": "Taelo ya Yahwe e bolelwa ka gore o se ke wa ja goba wa nwa moo — tlhaešo yeo e ka se phušolwe."
+    }
+  ],
+  "translation": "Ka gobane bjalo ke ngwetšile ⟨את⟩ ka lentšu la Yahwe, go re: O se ke wa ja bogobe, gomme o se ke wa nwa meetse, gomme o se ke wa boela tsela yeo o tselago ka yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "38d5421fcb8046a6c84306eadc6c3688130497235b0557ec72485765958b1f13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/13\/9-12.1792290039088.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ke ngwetšile"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ke (nna)"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wa ja"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "wa nwa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "wa boela"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "o tselago ka yona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:20:39.089428422Z",
+  "model": "glm-5.3"
+}

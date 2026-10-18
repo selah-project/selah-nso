@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na copula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "elision",
+      "subject": "כעבור",
+      "rationale": "k- ya go bapetša e kopantšwe le go feta ga sefako"
+    }
+  ],
+  "translation": "Bjalo ka go feta ga sefako, mošoro a se sa gona; gomme yo a lokilego ⟨ke⟩ motheo wa go sa fela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0e29458a76f48c159b943bcff127448addfbffeb2c9bad5c83c4cab8666725fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/10\/25-28.1792299357221.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "bjalo ka go feta"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "sefako"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme a se sa gona"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mošoro"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "gomme yo a lokilego"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa go sa fela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:57.221862521Z",
+  "model": "glm-5.3"
+}

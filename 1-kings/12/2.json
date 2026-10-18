@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 12:2",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כשמע",
+      "rationale": "Sehlangwa se sa felwago — 'ge … a kwa' se hlalosa sebopego sa go kwa seo Sepedi se se thomegago ka 'go direga' pele ga sona."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Sehlangwa se hloka sebinwa se hlalosago gore ke mang yo a sa le Mitsrayime; Seheberu se se ka ἀתoletše."
+    }
+  ],
+  "translation": "Gomme go direga, ge Yarabeame mora Nebate a kwa (gomme ⟨a⟩ sa le Mitsrayime, moo a philego teng ka baka la sefahleho sa kgoši Shelomoh), gomme Yarabeame a dula Mitsrayime.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5e5d03b1531c119dd8d5f6136213bc6b58de308d064d2ab6f0932245c218c7bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/12\/1-4.1792290058079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go direga"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ge … a kwa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarabeame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebate"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "gomme ⟨a⟩"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "a sa le"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "moo … teng"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "a philego"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la sefahleho sa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomoh"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarabeame"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-18T02:20:58.080252208Z",
+  "model": "glm-5.3"
+}

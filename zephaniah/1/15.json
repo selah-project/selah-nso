@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 1:15",
+  "book": "zephaniah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopanya; Seheberu se e se nago"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יום ×5",
+      "rationale": "Boelelo bja 'letšatši' ga ga ralala ya lentšu — kopano ya go iša pele ya kgalefo; שאה\/משואה bo-poeletšo bja modumo bo bolokwa ka go thubega\/senyega"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hlogwale",
+      "rationale": "עברה ke go hlwa-feretša ga tlhafo ya Yahwe; 'hlogwale' e tšea lethabo la motho fela — e nyakile lentšu la maatla"
+    }
+  ],
+  "translation": "Letšatši la hlogwale ⟨ke⟩ letšatši leo; letšatši la bothata le kgatelelo, letšatši la go thubega le go senyega, letšatši la mafifi le mafsifsi, letšatši la maru le leswifisi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8532b2b8d05c9dfa0e3dd984f1be876615c18e8d9b766f9163a516123cedb9eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zephaniah\/1\/13-16.1792296784711.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "la hlogwale"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "la bothata"
+    },
+    {
+      "surface": "ומצוקה",
+      "gloss": "le kgatelelo"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "שאה",
+      "gloss": "la go thubega"
+    },
+    {
+      "surface": "ומשואה",
+      "gloss": "le go senyega"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "la mafifi"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "le mafsifsi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "la maru"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "le leswifisi"
+    }
+  ],
+  "timestamp": "2026-10-18T04:13:04.713061679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 22:18",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bela ka bogale",
+      "rationale": "יקצף is literally 'to crack off, burst out' — Sepedi idiom 'bela ka bogale' (boil with fierceness) carries the picture of rage erupting."
+    },
+    {
+      "kind": "you",
+      "subject": "ditšhaba tše pedi tše di ka moka wa Joradane",
+      "rationale": "Direct accusatory address to Reuben, Gad and half-Manasseh."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שב \/ מרד",
+      "rationale": "Verse pairs 'turn back (שוב)' with 'rebel (מרד)' twice — turning from Yahweh IS rebellion."
+    }
+  ],
+  "translation": "Gomme le lona le a boa lehono morago ga Yahwe, gomme go tla ba le lona le tsuologa lehono kgahlanong le Yahwe, gomme kamoso o tla bela ka bogale go setšhaba ka moka sa Yisraele?",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3ccb1489a3cadd1da06a99ad9639b63e7cf76748d57ce51c67b1ad8101ab4149",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/22\/17-20.1792287039815.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "gomme le lona"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "le a boa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "תמרדו",
+      "gloss": "le tsuologa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kgahlanong le Yahwe"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "gomme kamoso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sa Yisraele"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "o tla bela ka bogale"
+    }
+  ],
+  "timestamp": "2026-10-18T01:30:39.815991154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dithapelo",
+      "rationale": "תפלות e bolela dithapelo tša go hlahla le go bina — dithapelo fela ga di rwale botlalo bja lentšu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלו",
+      "rationale": "כלה le כל — go phetha ga dithapelo ke go fedila, modumo o tšwago go \"kalu\" (moka)"
+    }
+  ],
+  "translation": "Dithapelo tša Dafida, mora wa Yishayi, di phethilwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a070b4fe247bd43b384de192850f0bdc77344e715df316529c24a40137ccc984",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/72\/20-20.1792305242632.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "di phethilwe"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "dithapelo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Yishayi"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:02.633282433Z",
+  "model": "glm-5.3"
+}

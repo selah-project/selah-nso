@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Yena⟩",
+      "rationale": "Seheberu se na le kgauswi fela (הַמַּבִּיט); Sepedi se nyaka sehlodi"
+    }
+  ],
+  "translation": "⟨Yena⟩ ya lebelelang lefase, lefase le a thothomela; ya kgang mehlaba, ya e sekgoha.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3dd1526d433936a330fb5192208e4a4da5c035a5f911b10addb33dfcdfb23f01",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/29-32.1792298605602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "ya lebelelang"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "le a thothomela"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ya kgang"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "mehlaba"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "ya e sekgoha"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:25.602959787Z",
+  "model": "glm-5.3"
+}

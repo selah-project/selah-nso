@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "molomo o na le ⟨tšona⟩",
+      "rationale": "פה להם ka moya otlhe: 'molomo go tšona'; Sepedi e nyaka morero wa go ba le selo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מפה...לא ידברו \/ עינים...לא יראו",
+      "rationale": "Paralleligram ya ditho tše pedi le go ganwa ga tšona — sebopego se a bolokwa ka tsela e swanago"
+    }
+  ],
+  "translation": "Molomo o na le ⟨tšona⟩ eupša ga se bolele; mahlo a na le ⟨tšona⟩ eupša ga a bone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "21e4c846f6fcfbb12fe1c6634aaff1c736b87d3fa02af7da7038206331789f57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/135\/13-16.1792298945805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "o na le ⟨tšona⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eupša ga"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "se bolele"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mahlo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "a na le ⟨tšona⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eupša ga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "a bone"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:05.807162549Z",
+  "model": "glm-5.3"
+}

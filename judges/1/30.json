@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mošomo wa mehla",
+      "rationale": "למס: mošomo wa mehla (baroha) kgahlanong le 'sehlabelo sa tšhelete' — ba-node bja KJV\/ASV bo fapana"
+    }
+  ],
+  "translation": "Zebulone ga a ka a ntšha ⟨את⟩ ba dulong ba Kitrone, le ⟨את⟩ ba dulong ba Nahalale; gomme Mokenaane a dutše gare ga gagwe, gomme ba be ba šoma mošomo wa mehla.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "675c1e7abe6427963a3a2b0cafd907c1789438b44ad8c46743cdae32ad2a4f47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/1\/29-32.1792287161457.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Zebulone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a ka"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "a ntšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba dulong ba Kitrone"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba dulong"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "ba Kitrone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba dulong ba Nahalale"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba dulong"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "ba Nahalale"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "gomme a dutše"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokenaane"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "gare ga gagwe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "gomme ba be"
+    },
+    {
+      "surface": "למס",
+      "gloss": "ba šoma mošomo wa mehla"
+    }
+  ],
+  "timestamp": "2026-10-18T01:32:41.457926425Z",
+  "model": "glm-5.3"
+}

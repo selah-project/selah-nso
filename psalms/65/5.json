@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "e kgethileng",
+      "rationale": "קדוש renderwa ka modu wa go kgethagatša (-kgethwa), e sego halalela ya Sesotho."
+    },
+    {
+      "kind": "alternative",
+      "subject": "dikgorong tša gago",
+      "rationale": "חצריך ke dikhoro tša tempole; 'dikgoro' ke sebopego se se gaufi le Sepedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨go wena⟩",
+      "rationale": "Seheberu se re 'o mo atametša' fela; sekopanyi se okeditšwe go hlalosa."
+    }
+  ],
+  "translation": "Mahlong a thabo a yo o mo kgethilego, gomme o mo atametša ⟨go wena⟩, gore a dule dikgorong tša gago; re tla šala re phethile ka bobokgo bja ntlo ya gago, tempole ya gago e kgethileng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ab8063a2f9bed2e6b4382c635e10e2b815019f702d3e2ed3083fa1edb1a3e193",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/65\/5-8.1792297969196.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "mahlong a thabo"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "o kgethile"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "gomme o atametša"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "gore a dule"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "dikgorong tša gago"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "re tla šala re phethile"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ka bobokgo"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ntlo ya gago"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "e kgethileng"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "tempole ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:49.197087097Z",
+  "model": "glm-5.3"
+}

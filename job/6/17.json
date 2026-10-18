@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 6:17",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יזרבו",
+      "rationale": "Root meaning uncertain: 'to flow away' vs 'to warm up' (KJV); context of streams drying supports either."
+    },
+    {
+      "kind": "substitution",
+      "subject": "di tima",
+      "rationale": "נצמתו 'cut off\/extirpated' rendered as 'go out like a fire' — picture of dried-up streams."
+    }
+  ],
+  "translation": "Ka nako yeo ge di futhumatša, di tima; ge go fisa, di timile ka go tšwa lefelong la tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cc637b8423d63b370b86aac4f5866ae281b04411f863c06cc05a73d2346bfbed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/6\/17-20.1792300100521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ka nako yeo"
+    },
+    {
+      "surface": "יזרבו",
+      "gloss": "ge di futhumatša"
+    },
+    {
+      "surface": "נצמתו",
+      "gloss": "di tima"
+    },
+    {
+      "surface": "בחמו",
+      "gloss": "ge go fisa"
+    },
+    {
+      "surface": "נדעכו",
+      "gloss": "di timile"
+    },
+    {
+      "surface": "ממקומם",
+      "gloss": "ka go tšwa lefelong la tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:08:20.521926364Z",
+  "model": "glm-5.3"
+}

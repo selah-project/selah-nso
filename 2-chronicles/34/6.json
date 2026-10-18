@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 34:6",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בהר בתיהם",
+      "rationale": "KJV 'mattocks' (dibekwa) kgathanong le ASV\/JPS 'ruins' (mafelo-boteng); lentšu le bolela mafelo a go thubegile, ke mo go kgethilwego"
+    }
+  ],
+  "translation": "O ile a dira bjalo gape ditoropong tša Manase, le Efereime, le Šimeone, go fihla go Naftale, le mafelo-boteng a ona ka go dikologa ka moka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "261d8261f136a4af713a37ab7c9e3b06b2f33404cf8f0dfb9dc10eed59bd6fcd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/34\/5-8.1792304438539.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובערי",
+      "gloss": "gomme-ditoropong"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Manase"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "le-Efereime"
+    },
+    {
+      "surface": "ושמעון",
+      "gloss": "le-Šimeone"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go-fihla-go"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftale"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "mafelo-boteng"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "a-ona"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka-go-dikologa-ka-moka"
+    }
+  ],
+  "timestamp": "2026-10-18T06:20:38.540167979Z",
+  "model": "glm-5.3"
+}

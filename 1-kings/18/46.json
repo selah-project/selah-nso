@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 18:46",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "letogo la Yahwe",
+      "rationale": "Seheberu se re 'letogo la Yahwe' — maatla kgomotšo ya Yahwe; phetolelo ya mo go yo a bolelago e šumiša 'hand of the LORD'."
+    },
+    {
+      "kind": "crux",
+      "subject": "באכה יזרעאלה",
+      "rationale": "'go fihla ge a tsena go Yizreele' — KJV\/ASV 'entrance of Jezreel' vs 'till he came to Jezreel'; suffix -ך is feminine, likely 'your (Ahab's) entering'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Seheberu se se na le letšatši-kgutšo le bona; Sepedi se nyaka ⟨a⟩ go bolela gore ke Eliyahu."
+    }
+  ],
+  "translation": "Gomme letogo la Yahwe le be le Eliyahu, gomme a iphitlhanya serope, gomme a matha pele ga Ahaba go fihla ge a tsena go Yizreele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7d8d05286b598b2c2bd4263309cc5a556c20946576d60b7a284db65fc9346a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/18\/45-46.1792290226378.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "gomme letogo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "le be"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "וישנס",
+      "gloss": "gomme a iphitlhanya"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "serope"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "gomme a matha"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "ge a tsena"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "go Yizreele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:23:46.379655707Z",
+  "model": "glm-5.3"
+}

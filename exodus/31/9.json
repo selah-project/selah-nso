@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "העלה",
+      "rationale": "'Sehlabelo sa go fišwa' — go fišwa ka moka, e sego go fihla fela"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כנו",
+      "rationale": "כן — motheo, setulo sa sekotolo; lentšu le nyenyane la Seheberu"
+    }
+  ],
+  "translation": "le ⟨את⟩ aletare ya sehlabelo sa go fišwa le ⟨את⟩ ditshwaelo tša yona ka moka, le ⟨את⟩ sekotolo le ⟨את⟩ motheo wa sona,",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "954780386d6db2e9d459ab92924b3a38a6765780df5f0200aa7314a42a55e1d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/31\/9-12.1792283169643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "aletare"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ya sehlabelo sa go fišwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditshwaelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ditshwaelo tša yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekotolo"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "sekotolo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "motheo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "motheo wa sona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:26:09.645260514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לצדים",
+      "rationale": "צד = 'side'; KJV 'thorns in your sides' adds 'thorns'; JPS reads 'as snares'; rendered 'adversaries' after the plain sense of צר"
+    },
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "אלהיהם of the nations rendered with lowercase 'medimo' (gods), not Elohim"
+    }
+  ],
+  "translation": "Gomme gape ke ile ka re: Nke ke ba ntše ⟨את⟩ ba pele ga lena; ba tla ba lena manaba, gomme medimo ya bona e tla ba lena letheko.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f4d98866d0660774491603ae922cb4a9aa7100e7d9f72585df464d40164fe51c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/2\/1-4.1792287183325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "gomme gape"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nke"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "ke ba ntše"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "pele ga lona"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ba tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lena"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "manaba"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "gomme medimo ya bona"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "lena"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "letheke"
+    }
+  ],
+  "timestamp": "2026-10-18T01:33:03.326876176Z",
+  "model": "glm-5.3"
+}

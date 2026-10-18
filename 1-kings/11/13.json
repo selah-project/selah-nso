@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sefo se tee",
+      "rationale": "שבט אחד 'sefo se tee': ba kgannyedi ba bona e le 'sefo se tee fela' (bokgoni bja Sepedi ge go bapetšwa le ditlhaka tše dingwe), eupša Seheberu se bolela palo e tee feela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבט",
+      "rationale": "שבט e bolela botho (molala) le sefo; modu o tee o loseditše mošomo wa setšo, o weleng ka lehlakore phetolelong."
+    }
+  ],
+  "translation": "Fela ⟨את⟩ bogoši ka bophara ga ke bolle; sefo se tee ke tla se fa morwa wa gago, bakeng sa Dafida mohlanka wa ka, le bakeng sa Yerushalayime yeo ke e kgethilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/11\/13-16.1792289996793.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "fela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bogoši ka bophara"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka bophara"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "bogoši"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "go bola"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sefo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se tee"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla fa"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "mohlanka wa ka"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "gomme bakeng sa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ke e kgethilego"
+    }
+  ],
+  "timestamp": "2026-10-18T02:19:56.793974291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 21:3",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלילה",
+      "rationale": "Sefoko sebolelo sa go gana ka moyasi — \"a se ke go diregela\" — se bolela \"lefase le fete, nnyaa ka mehla\""
+    },
+    {
+      "kind": "crux",
+      "subject": "חלילה לי מיהוה",
+      "rationale": "Bangwadi ba fapana: \"Yahwe a nkgannele\" (mošomo wa Leina) goba \"go tšwa go Yahwe\" — e ile ya fetolelwa ka mehla go re \"Morena a se ke\" gomme Leina le nyelela"
+    }
+  ],
+  "translation": "Gomme Naboti a re go Ahabe: A se ke go diregela nna go tšwa go Yahwe, gore ke fa ⟨את⟩ bofalwa ba bo-ntate baka go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "43996b67bab36963950fd87267c1b0858f6b5de5696a1e2760850a9c1fe623a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/21\/1-4.1792290336341.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Naboti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabe"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "a se ke go diregela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "go tšwa go Yahwe"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "gore ke fe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bofalwa ba bo-ntate baka"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "bofalwa"
+    },
+    {
+      "surface": "אבתי",
+      "gloss": "ba bo-ntate baka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T02:25:36.342552826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dithapo",
+      "rationale": "תורים: 'dithapo tša manakana' goba 'megolokwane ya kanzere' — baphetoleli ba fapana; ke dithapo tša dilo tše di thapoletšwego."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mongogi",
+      "rationale": "צואר ke mogala wa mosifabotlana; 'mongogi' ke lentšu la Sepedi le lebotse."
+    }
+  ],
+  "translation": "Difahlogo tša gago di bohle ka dithapo, mongogi wa gago ka manakana.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "13e9e8b6262b0ed6d7ff456ea667cf58fd281141f55283d6b7e286d8310f1f0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/1\/9-12.1792300881734.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "di bohle"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "difahlogo tša gago"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "ka dithapo"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "mongogi wa gago"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "ka manakana"
+    }
+  ],
+  "timestamp": "2026-10-18T05:21:21.735656274Z",
+  "model": "glm-5.3"
+}

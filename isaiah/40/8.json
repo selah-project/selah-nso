@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבש\/נבל",
+      "rationale": "Go bušwa ga mantšu a 'bjang bo oma, thota e hwa' ka bobedi (v7 le v8) — khompo ya go bušwa gape, mo Sepedi e sa lalegoeng ka botlalo."
+    },
+    {
+      "kind": "elision",
+      "subject": "אכן חציר העם",
+      "rationale": "Seifera-Septuagint le Wycliffe di na le 'ruri setšhaba ke bjang' mo v8; sengwalwa sa Masoret se se feleletša mo v7 fela."
+    }
+  ],
+  "translation": "Bjang bo oma, thota e hwa, eupša lentšu la Elohim wa rena le tla ema go fihla nako e sa feleng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6fcc208743decc3140d1260eb85437c22225a93de2dd79e157c63063b1557359",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/40\/5-8.1792292093024.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "bo oma"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "bjang"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "e hwa"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "thota"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "eupša lentšu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "la Elohim wa rena"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "le tla ema"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla nako e sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-18T02:54:53.025237576Z",
+  "model": "glm-5.3"
+}

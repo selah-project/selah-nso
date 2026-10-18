@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 17:11",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikgahlego",
+      "rationale": "מורשי ke 'dithoto' ka boikgethelo; fa go bolela dilo tša pelo tše di ratwago, sebopego sa lona se bolokwa ka go 'dikgahlego tša pelo'"
+    },
+    {
+      "kind": "crux",
+      "subject": "merero",
+      "rationale": "זממה e bolela merero, kudu merero ye mpe; barpetloleli ba sa swanela: 'merero' kgahlanong le 'dithapelo'"
+    }
+  ],
+  "translation": "Matsatsi a ka a fetile, merero ya ka e kgomogile, dikgahlego tša pelo ya ka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "99106b0403fead8b83ecad9e9902b41447999f344c978a2622e7cd4ab2343f7a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/17\/11-12.1792305398541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Matsatsi a ka"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "a fetile"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "merero ya ka"
+    },
+    {
+      "surface": "נתקו",
+      "gloss": "e kgomogile"
+    },
+    {
+      "surface": "מורשי",
+      "gloss": "dikgahlego"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "tša pelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:38.542256014Z",
+  "model": "glm-5.3"
+}

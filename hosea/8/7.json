@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ruakh \/ sefako",
+      "rationale": "Kgwetšo ya go hwetša moya le go hwetša sefako — go bapa ga dialane go ile ga fokotšega ka Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "medala",
+      "rationale": "בלע ke 'go medala' — diswantšho tša mošomo wa Seheberu di bolokwa, e sego 'go ja' fela."
+    },
+    {
+      "kind": "crux",
+      "subject": "poledi ga e na selo",
+      "rationale": "קמה אין לו: 'poledi ga e mo eme' (go hlabela ga korong) — balatela ba fapana ka gore ke eng ka nnete se se se nago."
+    }
+  ],
+  "translation": "Ka gobane ba hwetša ruakh, gomme sefako se segolo ba se hwetša; poledi ga e na ⟨selo⟩ — phukungwana e ka se dire phofo; ge e ka ba e dira, bajwala ba tla se medala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4a1bc1d98521bcab45a678ecebe74c1632eb79b3c6b554d344a64194bb829b0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/8\/5-8.1792296090176.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "ba hwetša"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "gomme sefako se segolo"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "ba se hwetša"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "poledi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga e na ⟨selo⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ga e na⟩"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "phukungwana"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "e ka se"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "dire"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "phofo"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ge e ka ba"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "e dira"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "bajwala"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "ba tla se medala"
+    }
+  ],
+  "timestamp": "2026-10-18T04:01:30.177633671Z",
+  "model": "glm-5.3"
+}

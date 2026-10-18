@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka ntlheng ya monna wa yena",
+      "rationale": "בית אישה — 'ntlo ya monna wa yena' — 'ntlo' e šumišwa bjalo ka 'ka ntlheng ya' go bolela gore o ka fase ga balaodi ba monna wa yena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש — motho yo a pelo\/mafiša a gagwe a sepelago, e sego 'moya' goba 'bophelo'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אסר",
+      "rationale": "kgomarollo — lentšu le raragilego leo le bolelgo sehlwehlelo sa go ikgomaretša; baatlhodi ba fapana: 'boitšoaro' kgatlhanong le 'kgomarollo'"
+    }
+  ],
+  "translation": "Gomme ge e le mosadi ka ntlheng ya monna wa yena, ge a ile a sehlwehlela goba a kgomaretša kgomarollo go moya wa yena ka laino,",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "44a28b1d318adcf9a58c893da929d5871edadaa2877dd897e1c4ab8b8cbba394",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/30\/10-11.1792304681908.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Gomme ge"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ka ntlheng ya"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "monna wa yena"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "ge a ile a sehlwehlela"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "a kgomaretša"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "kgomarollo"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "moya wa yena"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ka laino"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:41.909182062Z",
+  "model": "glm-5.3"
+}

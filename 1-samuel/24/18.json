@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se sebotse \/ se se fošagetšego",
+      "rationale": "גמל + tova\/ra'a: go direla motho se sebotse goba se se fošagetšego — mmele wa 'go dupha' o latela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גמלתני\/גמלתיך",
+      "rationale": "go boela ga lentšu la גמל ka phapantšhu — go se fokotse ga thwii"
+    }
+  ],
+  "translation": "Gomme a re go Dafida: Wena o ya toko go feta nna, ka gobane wena o diretše nna se sebotse, gomme nna ke diretše wena se se fošagetšego.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "833ee93192eea437ad869212c20946797a9d837a6c4eace053f6233870a0f2a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/24\/17-20.1792288524439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "o ya toko"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go feta nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "o diretše nna"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "se sebotse"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "ke diretše wena"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "se se fošagetšego"
+    }
+  ],
+  "timestamp": "2026-10-18T01:55:24.440353182Z",
+  "model": "glm-5.3"
+}

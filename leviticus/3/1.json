@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 3:1",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "shelamime",
+      "rationale": "שלמים ke sehlabelo sa kgwerano le go thankga; le tsebile ka modumo wa Seheberu, e sego ka tlhathollo"
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "הוא se hlakantšha sebopego sa go fiša; Sepedi se nyaka modu wa go hlakantšha"
+    }
+  ],
+  "translation": "Gomme ge e le sehlabelo sa shelamime, ofe se hlabelo sa gagwe; ge e le go tšwa dikgomong a se fiša, ge e le phologolo ya pra goba ya efe, ye e se nago sepe se senyegilego o tla e fiša pele ga Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3bba28306a52eec2db1ebbbd3645931648e80204eacb9d8f139da4f597db29b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/3\/1-4.1792283536681.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Gomme ge e le"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "sa shelamime"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ofe se hlabelo sa gagwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge e le"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomong"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "a"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "o fiša"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge e le"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ya pra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "goba"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ya efe"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ye e se nago sepe se senyegilego"
+    },
+    {
+      "surface": "יקריבנו",
+      "gloss": "o tla e fiša"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:32:16.682481475Z",
+  "model": "glm-5.3"
+}

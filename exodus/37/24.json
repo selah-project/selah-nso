@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "talente",
+      "rationale": "ככר ke kelo ya gauta (talente); boima bja menora bo bapetšwa."
+    },
+    {
+      "kind": "elision",
+      "subject": "menora",
+      "rationale": "Seheberu se šomiša אתה fela — lentšu 'menora' le hlalositšwe ka 'yona'; eliso ya kholoto."
+    }
+  ],
+  "translation": "Ka talente ya gauta e hlwekilego a e dira ⟨את⟩ yona, le ⟨את⟩ didirišwa tša yona ka moka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5de330ab2801f7d4e32771dcbbfeda9d9c7708b587a91e03d35340baff3e6ebf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/37\/21-24.1792283373841.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "ka talente"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hlwekilego"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yona",
+      "marks": "menora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didirišwa tša yona ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "didirišwa tša yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:29:33.842223522Z",
+  "model": "glm-5.3"
+}

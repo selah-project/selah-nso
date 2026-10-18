@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 3:3",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "wa bobedi",
+      "rationale": "משנה ka tlwaelo ke 'phetišo\/kopi'; mo e šomišwa go bolela wa bobedi wa peo, e sego 'mofenyi'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tatellano ya bana",
+      "rationale": "Go balelwa bana ka dinomoro — wa bobedi, wa boraro"
+    }
+  ],
+  "translation": "wa bobedi wa gagwe Kileabe, wa Abigele mosadi wa Nabale wa Karmele; mme wa boraro Abeshalome morwa Maakhe morwadi Talmai kgoši ya Geshure.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6379446422c6033a3d372e7bc2331cb36181fc99176cd83d0b460d0af5989b46",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/3\/1-4.1792288839364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומשנהו",
+      "gloss": "wa bobedi wa gagwe"
+    },
+    {
+      "surface": "כלאב",
+      "gloss": "Kileabe"
+    },
+    {
+      "surface": "לאביגל",
+      "gloss": "wa Abigele"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabale"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "wa Karmele"
+    },
+    {
+      "surface": "והשלשי",
+      "gloss": "mme wa boraro"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abeshalome"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maakhe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "ya Geshure"
+    }
+  ],
+  "timestamp": "2026-10-18T02:00:39.365741043Z",
+  "model": "glm-5.3"
+}

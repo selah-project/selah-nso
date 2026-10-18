@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se hudugitšwego",
+      "rationale": "נשא עון is literally 'iniquity lifted\/carried away'; Sepedi passive participle approximates the idiom of bearing away."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשא עון",
+      "rationale": "'forgiven' vs literal 'carried' — some read the people themselves bear (carry) the iniquity; the carried-away\/forgiven reading is standard here."
+    }
+  ],
+  "translation": "Mme ga moahi a re: ke a bjeta. Setšhaba se se dulago go yona — sebe sa sona se hudugitšwego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "49c1de37dc4119e929af2fe40b9b7dbaf8bc094d55cfddf2587564292760bbbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/33\/21-24.1792291866124.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "mme ga"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "moahi"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "ke a bjeta"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "se se dulago"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go yona"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "se hudugitšwego"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:51:06.125556085Z",
+  "model": "glm-5.3"
+}

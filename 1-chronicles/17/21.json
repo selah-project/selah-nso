@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 17:21",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lerole-godimo ga go gona",
+      "rationale": "גוים se feditšego se hlalošitšwe bjalo ka 'ditšhaba' — lentšu la bofelong le aga mo go לגרש 'ka go ntšha ditšhaba'"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "thapelo ya Dafida yeo e bolelago ka go Yahwe ka molomo wa bobedi, e bitša setšhaba sa Yisraele"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go sepela",
+      "rationale": "הלך 'Elohim o ile a sepela' — ponagalo ya go sepela ga Elohim yeo e sego ya fetollwa ka 'a tuma'"
+    }
+  ],
+  "translation": "Gomme ke mang yo a swanago le setšhaba sa gago Yisraele, setšhaba se tee lefase, seo Elohim a ilego a sepela go se lokolla go ba setšhaba sa gagwe, go dira leina le legolo le le tšhabisago go wena, ka go sepela ka mehla ka go ntšha ditšhaba ka pele ga setšhaba sa gago seo o se lokotšego go tšwa Mitsrayime?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "795360cd02e06e560c7e7eb85f5784f0f9d670ae1bcb2b3e58a932560db1337b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/17\/21-24.1792303311943.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "gomme ke mang"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "yo a swanago le setšhaba sa gago"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "se tee"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "a ilego a sepela"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפדות",
+      "gloss": "go lokolla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba sa gagwe"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "le legolo"
+    },
+    {
+      "surface": "ונראות",
+      "gloss": "gomme le le tšhabisago"
+    },
+    {
+      "surface": "לגרש",
+      "gloss": "ka go ntšha"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka pele ga"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setšhaba sa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "o se lokotšego"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "go tšwa Mitsrayime"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T06:01:51.944159707Z",
+  "model": "glm-5.3"
+}

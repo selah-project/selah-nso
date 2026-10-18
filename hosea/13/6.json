@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישבעו \/ שבעו",
+      "rationale": "puo e boeledwa ga bobedi go bontšha go tlatšwa ga bone — go boeledwa ga modupi go bolokwa ka go boeledja \"ba gotšwa\""
+    },
+    {
+      "kind": "addition",
+      "subject": "ya tšona",
+      "rationale": "sogollo sa bontši sa Sepedi se nyakega go hlalosa כמרעיתם, seo Seheberu se se swarago go swana le \"go swana le\""
+    }
+  ],
+  "translation": "Go swana le dulo ya tšona, ba gotšwa; ba gotšwa gomme pelo ya tšona e a phahama; ka gobane ba m lebale.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9fee155d666b1e2ca38a83d490d1ce3a728632f5e355bc5c9c8a7573409201d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/13\/5-6.1792305208079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "Go swana le dulo ya tšona"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "ba gotšwa"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "ba gotšwa"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "e a phahama"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "pelo ya tšona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "ba m lebale"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:28.080006993Z",
+  "model": "glm-5.3"
+}

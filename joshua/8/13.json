@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 8:13",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עקבו",
+      "rationale": " Literalmente 'lehlere sa gagwe' (sehlere) — se fetotšwe go ba 'mogolo wa yona' (morao ga sesole)."
+    },
+    {
+      "kind": "addition",
+      "subject": "la sekgoba",
+      "rationale": "Sepedi e hloka lentšu la sehlopha go hlalosa 'העמק'."
+    }
+  ],
+  "translation": "Gomme setšhaba se bea ⟨את⟩ mpha ya maphelo ka moka, yeo e lego ka leboa motseng, le ⟨את⟩ mogolo wa yona ka bodikela motseng; gomme Yehošua a sepela bosong bo bjo go thweng lefeling la sekgoba.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1405c917282e6929f518035c0adeb1d1003df8978adfed62d587b9e64d83e2dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/8\/13-16.1792286691248.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "gomme se bea"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mpha ya maphelo ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "mpha ya maphelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo e lego"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ka leboa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mogolo wa yona"
+    },
+    {
+      "surface": "עקבו",
+      "gloss": "mogolo wa yona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ka bodikela"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gomme a sepela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehošua"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "bosong"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "bo bjo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "go thweng"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "lefeling la sekgoba"
+    }
+  ],
+  "timestamp": "2026-10-18T01:24:51.248933846Z",
+  "model": "glm-5.3"
+}

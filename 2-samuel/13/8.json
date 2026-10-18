@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וּתְלַבֵּב",
+      "rationale": "tiro se se thekgilwego go לב 'pelo' — 'go dira dikuku-tše-pelo'; mantšu a Sepedi a a hlama sebopego se se swanago"
+    },
+    {
+      "kind": "crux",
+      "subject": "וַתָּלֶשׁ \/ ותלוש",
+      "rationale": "dikgopuwa tše dingwe di bala 'וַתָּשֶׁם' 'a beela pele' go na le 'a nama' — phapano ya mongwalo"
+    }
+  ],
+  "translation": "Gomme Tamara a ya go hlong ya Aminone mohlogwana wa yena, gomme yena a sa dutše a lala; gomme a hwetša ⟨את⟩ bohodi, gomme a bo nama, gomme a rala diku ka mahlo a gagwe, gomme a fiša ⟨את⟩ diku-tše-pelo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "fb4c93937e4b8a4d70d78c0ec791d06b860830217b7d140a3d35306967a69abf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/13\/5-8.1792289041700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "gomme a ya"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamara"
+    },
+    {
+      "surface": "בית",
+      "gloss": "go hlong ya"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Aminone"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "mohlogwana wa yena"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "gomme yena"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "a lala"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "gomme a hwetša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bohodi"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "bohodi"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "gomme a bo nama"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "gomme a rala diku"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "ka mahlo a gagwe"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "gomme a fiša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diku-tše-pelo"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "diku-tše-pelo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:04:01.701607762Z",
+  "model": "glm-5.3"
+}

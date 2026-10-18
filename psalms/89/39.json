@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "התעברת",
+      "rationale": "Hitpael ya עבר (go feta) e bolela 'go itšoa ka mmoho', e sego go feta ka mošomo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yo a tloditšwego",
+      "rationale": "Mashiakh = yo a tloditšwego; ⟨…⟩ e bontšha seo Sepedi se se okeditšego go hlalosa leina"
+    }
+  ],
+  "translation": "Wena o lahleitše gomme o ganne ⟨yo a tloditšwego⟩ wa gago, o hwerwe ke mmoho le Mashiakh wa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e75d1dbc97a178cd633585fc2377983fd052a1d55d33dc8c99dc1d944e2419b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/37-40.1792298365982.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "gomme wena"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "o lahleitše"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "gomme o ganne"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "o hwerwe ke mmoho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiakh wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:25.983385219Z",
+  "model": "glm-5.3"
+}

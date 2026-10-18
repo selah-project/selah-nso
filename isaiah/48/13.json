@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 48:13",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אף",
+      "rationale": "Sebopego sa kgomoso se fetošeditšwe go \"gomme letona\" — lentšu la go oketša leo se nago tekanyo e hlakileng ya Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "טפחה",
+      "rationale": "Seswantšho sa go atologa bjalo ka tende se fetošeditšwe go \"la phatlalatsa\"."
+    },
+    {
+      "kind": "alternative",
+      "subject": "קרא אני אליהם",
+      "rationale": "E ka ba \"ge ke ba bitša\" (nakong) go ya ka dikgopolo tše dingwe; go tšwa go \"ke bitša nna kaena\" bjalo ka mareo a sephiri."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידי \/ וימיני",
+      "rationale": "Kgwerano ya letšatši le letšatši le letonokwa — boabelani bja go bopa, bo swanetšego go hlala gomme gantši bo nyamela phetolelong."
+    }
+  ],
+  "translation": "Gomme letona letšatši la me la thea ⟨את⟩ lefase, gomme letšatši la me la ja letšatši le letonokwa la phatlalatsa magodimo; ke bitša nna kaena, di ema ka bommogarona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fb6b37790ddbdd36f90e076088f9c277694119a0ab4ff6ffbd4ea24fd9b2828c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/48\/13-16.1792292238724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "gomme letona"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "letšatši la me"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "la thea"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "וימיני",
+      "gloss": "gomme letšatši la me la ja letšatši le letonokwa"
+    },
+    {
+      "surface": "טפחה",
+      "gloss": "la phatlalatsa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ke bitša"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna kaena"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kaena"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "di ema"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ka bommogarona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:18.724679484Z",
+  "model": "glm-5.3"
+}

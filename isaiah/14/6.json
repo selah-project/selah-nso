@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 14:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מרדף",
+      "rationale": "Passive 'is persecuted, none restraineth' (KJV\/ASV) vs active 'pursuing without restraint' (YLT) — I follow the passive."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "Hebrew lacks aleph-tav here; Sepedi word order required none — actually no marker needed; none supplied."
+    }
+  ],
+  "translation": "Yo a betago ⟨את⟩ setšhaba ka bogale, kgašo yeo e sa felago, yo a laolago ditšhaba ka mafula, a šaišwa, go se na mo a thibelago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/14\/5-8.1792291454439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "yo a betago"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "בעברה",
+      "gloss": "ka bogale"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "kgašo"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "yeo e sa"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "felago"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "yo a laolago"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ka mafula"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "a šaišwa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "go se na"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mo a thibelago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:44:14.440450608Z",
+  "model": "glm-5.3"
+}

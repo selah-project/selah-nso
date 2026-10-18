@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelo",
+      "rationale": "נפש is throat\/life-force, rendered 'pelo' (inner self) since Sepedi lacks a closer single word"
+    },
+    {
+      "kind": "crux",
+      "subject": "o ile a lahlela",
+      "rationale": "KJV reads ותזנח as 'thou hast removed' (God as actor); JPS 'my soul is removed' (passive, God unnamed)"
+    }
+  ],
+  "translation": "Gomme o ile a lahlela kgakala pelo ya ka go tšwa kagodimong; ke ile ka lebala tše dibotse.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5434ad4564492120d9dac1ac58a516bb98fcdbbfa5c631b72b52eda56d30439e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/3\/17-20.1792301175085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "o ile a lahlela kgakala"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "go tšwa kagodimong"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "ke ile ka lebala"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "tše dibotse"
+    }
+  ],
+  "timestamp": "2026-10-18T05:26:15.085703259Z",
+  "model": "glm-5.3"
+}

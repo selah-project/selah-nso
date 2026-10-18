@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 3:17",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פתהן",
+      "rationale": "Plural ya פת (lehiba): 'diphatana tša bona' — diphetho tša klasiki di ra 'karolo ya sephiring ya basadi' (KJV 'secret parts'), euphemism ya go hlohlomolla sebopego ka moka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ושפח",
+      "rationale": "Tlhaku e bolela 'go kgobokanya go tšwa ka ntle' — ya fetotšwe go 'go sopa ka mmetho' go latela sebopego sa poko ye."
+    }
+  ],
+  "translation": "Adonai o tla sopa ka mmetho kgokolo ya hlogo ya barwa ba Tsiyone, gomme Yahwe o tla hlohlomolla diphatana tša bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "08761c1d77bb90d66ae3ee5e89da76a7cc74d48af1e64381aed32daadb8e865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/3\/17-20.1792291262203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושפח",
+      "gloss": "o tla sopa ka mmetho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "kgokolo ya hlogo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "gomme Yahwe"
+    },
+    {
+      "surface": "פתהן",
+      "gloss": "diphatana tša bona"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "o tla di hlohlomolla"
+    }
+  ],
+  "timestamp": "2026-10-18T02:41:02.204110359Z",
+  "model": "glm-5.3"
+}

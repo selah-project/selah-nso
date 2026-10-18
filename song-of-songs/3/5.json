@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בצבאות",
+      "rationale": "E bala bjalo ka צביות 'diphuti' (swanwa), goba ka bokao bja motheo 'bohlaphore' — ditiragalo tše pedi tša gagolo."
+    },
+    {
+      "kind": "you",
+      "subject": "dithari tša Yerushalayime",
+      "rationale": "Maelanelo a go laledišwa ka boomo kgoši ya mošomo wo."
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "Sebopego sa go gana se sa tšwa go lentšu la go botšiša; go gana se hlalositšwe ka 'le se ke la'."
+    }
+  ],
+  "translation": "Ke ile ka lalediša ⟨את⟩ lona, dithari tša Yerushalayime, ka diphuti goba ka dipudi tša nageng: le se ke la fokoša goba la tsōsa ⟨את⟩ lerato, go fihlela ge e ka rata.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/3\/5-8.1792300962261.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ke ile ka lalediša"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "dithari tša Yerushalayime"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dithari"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "ka diphuti"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "ka dipudi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "tša nageng"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨le se ke la⟩"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "la fokoša"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "goba ⟨la⟩"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "la tsōsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerato"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "lerato"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ge e ka rata"
+    }
+  ],
+  "timestamp": "2026-10-18T05:22:42.261687030Z",
+  "model": "glm-5.3"
+}

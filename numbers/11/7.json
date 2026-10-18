@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sebopego",
+      "rationale": "'עין mo e sego mahlo a ka nnete — ke sebopego goba ponahalo ya sela; KJv e re 'colour'"
+    },
+    {
+      "kind": "crux",
+      "subject": "bedolakhe",
+      "rationale": "בדלח — ba bangwe ba re ke mokgwa wa mafura a monate, ba bangwe ba re ke mmala wo moputha bjalo ka sekgoba"
+    }
+  ],
+  "translation": "Gomme mane ke ⟨e⟩ bjalo ka peu ya gad, gomme sebopego sa wona bjalo ka sebopego sa bedolakhe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/11\/5-8.1792284696298.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "Gomme mane"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "bjalo ka peu"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ya gad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "gomme sebopego sa wona"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "bjalo ka sebopego"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "sa bedolakhe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:51:36.299122590Z",
+  "model": "glm-5.3"
+}

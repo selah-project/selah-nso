@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sepela",
+      "rationale": "והלכו is literally 'walk' (JPS 'shall walk'); KJV\/ASV soften to 'come' — the walking-in-light image is deliberate."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרחך",
+      "rationale": "Same root זרח as v.1–2 'rise\/dawn'; your rising is the dawn the nations walk toward."
+    }
+  ],
+  "translation": "Gomme ditšhaba di tla sepela go lesedi la gago, gomme dikgoši go kganyogo ya go tlhagelela ga gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "91bf5f6dbb3a6bec6b81062e753b9d77763f8fdf85e70d112d8b24a4d6dee0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/60\/1-4.1792292555346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Gomme ditšhaba di tla sepela"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "go lesedi la gago"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "gomme dikgoši"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "go kganyogo ya"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "go tlhagelela ga gago"
+    }
+  ],
+  "timestamp": "2026-10-18T03:02:35.346930211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לעולם ועד",
+      "rationale": "Sefoko sa Seheberu 'legodimo le gauta' — nako e sa felago, e sa tsewa ka moya o mongwe le o mongwe"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ka mehla ... go fihla legodimong le gauta",
+      "rationale": "Palo ya nako: ka mehla (תמיד) e atoloswa go ya go letelele leo le sa felago"
+    }
+  ],
+  "translation": "Gomme ke tla šireletša Torah ya gago ka mehla, go fihla legodimong le gauta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "083b74b5421d477a7b0acb4e1a3563295e4833d22f5e9e5fbcdd8aa043e28985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/41-44.1792298766181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "gomme ke tla šireletša"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah ya gago"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka mehla"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla legodimong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le gauta"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:06.182625031Z",
+  "model": "glm-5.3"
+}

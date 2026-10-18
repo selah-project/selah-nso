@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka nna",
+      "rationale": "Sepedi e nyaka sedirošupi; Seheberu se na le sesupo-kganelo fela (-ני)"
+    },
+    {
+      "kind": "elision",
+      "subject": "המעלות",
+      "rationale": "Leina la sehlogwana sa sefela; le tšwa go lentšu la go ela godimo — go nyakologa"
+    }
+  ],
+  "translation": "Sefela sa go ela godimo. Go Yahwe ka go gatelela ga ka, ke ile ka mmita, gomme a araba ka nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/120\/1-4.1792298899566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Sefela"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "sa go ela godimo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "ka go gatelela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ga ka"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ke ile ka mmita"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "gomme a araba ka nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:19.567298269Z",
+  "model": "glm-5.3"
+}

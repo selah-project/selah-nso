@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "phethego",
+      "rationale": "מתם ke bophara bja mmele o moholo, o se nago sepe se senyegilego; 'phethego' e latela kamano ye"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kagiso \/ sebe",
+      "rationale": "שלום (kagiso, botsotso) kgahlanong le חטאת (sebe) — thallano ya go ba gona le go se be gona, e swanetšego go dula e le bone ka bobedi"
+    }
+  ],
+  "translation": "Ga go phethego nameng ya ka ka baka la makgapha a gago; ga go kagiso marapeng a ka ka baka la sebe sa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "767248106c5f8a526ac050d409d1b966e81905a1157fe78e9c7a797217642993",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/38\/1-4.1792297661382.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Ga go"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "phethego"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "nameng ya ka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "makgapha a gago"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "marapeng a ka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "sebe sa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:41.383947827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לחשב מחשבת",
+      "rationale": "Hebrew repeats the root חשב (device\/devices); Sepedi mirrors it with hlagisa\/mehlagiso from one root."
+    }
+  ],
+  "translation": "go hlagisa mehlagiso, go dira ka gauta le ka silibera le ka koperi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f6bf04b29791fe11920969691a6ef199183e7df34d81fc743f4f756ced92e8f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/31\/1-4.1792283108724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "go hlagisa"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "mehlagiso"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "ka gauta"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "le ka silibera"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "le ka koperi"
+    }
+  ],
+  "timestamp": "2026-10-18T00:25:08.725584466Z",
+  "model": "glm-5.3"
+}

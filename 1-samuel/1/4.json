@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 1:4",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דיקרולоло \/ dikarolo",
+      "rationale": "מנות ke ‘dilo tše ditekanywago’ — dikarolo tša sehlabelo tše di abjago, e sego karolo e nngwe le e nngwe"
+    }
+  ],
+  "translation": "Gomme letšatši le tlišwa, gomme Elkana a hlabela, gomme a fa Penina, mosadi wa gagwe, le bana ba gagwe ka moka le barwedi ba gagwe dikarolo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1526a3718eeb1adf31a5ab9614213e1b59046a2d1c8f3c30d7108ab220d3b947",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/1\/1-4.1792287884803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme letšatši le tlišwa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "ויזבח",
+      "gloss": "gomme a hlabela"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "gomme a fa"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Penina"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa gagwe"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "le ka moka"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "le barwedi ba gagwe"
+    },
+    {
+      "surface": "מנות",
+      "gloss": "dikarolo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:44:44.804326086Z",
+  "model": "glm-5.3"
+}

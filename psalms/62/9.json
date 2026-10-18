@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "setšhaba",
+      "rationale": "Verse summons the people with two imperatives — tshepang and tšhologang."
+    },
+    {
+      "kind": "you",
+      "subject": "to setšhaba",
+      "rationale": "Direct plural address to the people."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Hebrew has no copula before sephuthelo; Sepedi requires one."
+    }
+  ],
+  "translation": "Tshepang go yena ka nako ka moka, lento setšhaba; tšhologang pele ga gagwe dipelo tša lona; Elohim ke sephuthelo bakeng sa rena. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/62\/9-12.1792298027784.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Tshepang"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "tšhologang"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ga gagwe"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "dipelo tša lona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "sephuthelo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "bakeng sa rena"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:47.785536107Z",
+  "model": "glm-5.3"
+}

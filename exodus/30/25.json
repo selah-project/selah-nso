@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke aona",
+      "rationale": "Seheberu se se šomiša boemong bja seswantšho feela; kopulamo ya Sepedi e okeditšwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רקח \/ מרקחת \/ רקח",
+      "rationale": "Poeletlo ya modu o tee ga raka — go hlaboloha ga mantšu go nyeletše ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mophetiši",
+      "rationale": "רקח (modiri) — mošomi wa dinotši le mafura a mantši; go fetotšwe go ba mophetiši"
+    }
+  ],
+  "translation": "Gomme o tla dira ⟨את⟩ sona: mafura a bokgethwa a go tloditšwa, phetišo e hlabologilego, mošomo wa mophetiši; mafura a bokgethwa a go tloditšwa ke aona a tla bego.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d46e28979d06664af01fb0b97ed5345d8bbece7f0f70d5606dcf0f233ec34351",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/30\/25-28.1792283189007.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "gomme o tla dira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ sona",
+      "marks": "mafura"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "a go tloditšwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "phetišo"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "e hlabologilego"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "wa mophetiši"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "a go tloditšwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ke aona a tla bego"
+    }
+  ],
+  "timestamp": "2026-10-18T00:26:29.009350780Z",
+  "model": "glm-5.3"
+}

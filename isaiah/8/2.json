@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bakgosi",
+      "rationale": "Seheberu se sa ngwale batho ba babelwa; Sepedi se nyaka lentšu la batho."
+    },
+    {
+      "kind": "measurement",
+      "subject": "maina a bopodiši",
+      "rationale": "Palo ya bopodiši ba babelwa ka maina — go swaya tokumente ya tafula."
+    }
+  ],
+  "translation": "Gomme ke tliša bakgosi baka bopodiši ba tšepegago, ⟨את⟩ Urjaha moperisita le ⟨את⟩ Zekarjahu mora Jeberekjahau.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e2d06167ceeb8678f62676fc08be23cbdbd69f391e823400572719e4f3f4f4ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/8\/1-4.1792291324557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "gomme ke tliša go bopodiša"
+    },
+    {
+      "surface": "לי",
+      "gloss": "baka"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "bopodiši"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ba tšepegago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urjaha"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urjaha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "Zekarjahu"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeberekjahau"
+    }
+  ],
+  "timestamp": "2026-10-18T02:42:04.558228235Z",
+  "model": "glm-5.3"
+}

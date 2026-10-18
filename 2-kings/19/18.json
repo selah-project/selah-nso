@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "fela",
+      "rationale": "כי אם se hwetša tlhaloso ya go gana; Sepedi e nyaka lentšu la go hlakantšha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "אלהיהם ka ditlhaka tše nnyane — medimo ya ditšhaba, go swana le Ekisodo 32:8."
+    }
+  ],
+  "translation": "gomme di beile ⟨את⟩ medimo ya tšona go mollo, ka gobane ga se medimo, e le mošomo wa matsogo a motho fela, sehlare le leswika; gomme ba a e fedisa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a1fec169dc978f33dfee8ceead9ce6e58419f54d30237224155216646c196cc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/19\/17-20.1792290980889.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "gomme di beile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya tšona"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "medimo ya tšona"
+    },
+    {
+      "surface": "באש",
+      "gloss": "go mollo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "se medimo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tšona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "e le"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fela"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wa matsogo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "a motho"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "gomme leswika"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "gomme ba a e fedisa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:36:20.890328243Z",
+  "model": "glm-5.3"
+}

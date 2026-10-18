@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כערבים",
+      "rationale": "'Mela ya meetse' e hlalosa ערבים (dithlare tša sefaha tša go hola le noka); Sepedi ga se na leina la tlwaelegilego la thlare ye."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בבין חציר",
+      "rationale": "'Gare ga bjang' goba 'gare ga e mengwe ga bjang' — בין e ka ba 'gare' goba 'haragong ga'; 'gare ga bjang' ke pukwana yeo e tobilego."
+    }
+  ],
+  "translation": "Gomme ba tla moswa gare ga bjang, bjalo ka mela ya meetse lefelong la mešuping ya meetse.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/44\/1-4.1792292192504.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "gomme ba tla moswa"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "bjang"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "bjalo ka mela ya meetse"
+    },
+    {
+      "surface": "על",
+      "gloss": "lefelong la"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "mešuping"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T02:56:32.505413682Z",
+  "model": "glm-5.3"
+}

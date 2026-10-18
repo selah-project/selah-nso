@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתך",
+      "rationale": "Ke lentšu la motho 'wena', e sego mokao wa selo wa H853; mokao o bolokwa go latela molao wa ⟨את⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yeremia",
+      "rationale": "Yahwe o laela moprofeta ka mo go tobilego: o se ke wa thapela bakeng sa setšhaba se."
+    },
+    {
+      "kind": "crux",
+      "subject": "רנה",
+      "rationale": "'Kua' — modumo wa go kgokgoma goba go huwa; ba mofetoledi ba bangwe ba re 'huwa' goba 'kua ya thabo'; ke modumo wa mmele, e sego thapelo fela."
+    }
+  ],
+  "translation": "Gomme wena, o se ke wa thapela bakeng sa setšhaba se, gomme o se ke wa iša bakeng sa bona kua le thapelo, gomme o se ke wa kopa go nna, ka gobane ga ke kwe ⟨את⟩ wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "148b53a3ffc43a6f242cd69c674d393ef86f2b5435504d03917c67c5417e2985",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/7\/13-16.1792292898085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Gomme wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "wa thapela"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "wa iša"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "bakeng sa bona"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "kua"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "gomme thapelo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "wa kopa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ke kwe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
+    }
+  ],
+  "timestamp": "2026-10-18T03:08:18.086646838Z",
+  "model": "glm-5.3"
+}

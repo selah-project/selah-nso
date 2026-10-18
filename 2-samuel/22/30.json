@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa ka",
+      "rationale": "Sephologolo sa paledi se kopantšwe; 'wa ka' se okeditšwe go ba phepelo."
+    },
+    {
+      "kind": "crux",
+      "subject": "sekorokoro",
+      "rationale": "שור: 'sekorokoro' (lepoto) kgahlanong le 'mose"
+    }
+  ],
+  "translation": "Gore ka wena ke a matha ⟨go⟩ tlhasela mabotho; ka Elohim wa ka ke a tlola ⟨go⟩ sekorokoro.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "87a9674051abd518cb98ca0be1bdfbe27fc02f30f2c63bbcae0b5f157dfad21c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/22\/29-32.1792289421917.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "ke a matha"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "mabotho"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "ka Elohim wa ka"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "ke a tlola"
+    },
+    {
+      "surface": "שור",
+      "gloss": "sekorokoro"
+    }
+  ],
+  "timestamp": "2026-10-18T02:10:21.918089434Z",
+  "model": "glm-5.3"
+}

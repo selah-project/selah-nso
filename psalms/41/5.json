@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa bophelo",
+      "rationale": "נפש ke thogo\/moya wa bophelo, e sego 'moya' ka mo go tlwaelegilego"
+    },
+    {
+      "kind": "elision",
+      "subject": "חטאתי",
+      "rationale": "Seheberu se re 'ke khile moleko' — sebe se okeditšwe ka ⟨…⟩"
+    }
+  ],
+  "translation": "Nna ke be ke re: Yahwe, nkwetše mohau; fodisa ⟨את⟩ moya wa bophelo bja ka, ka gobane ke be ke dira ⟨sebe⟩ go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f45fa4f4a0f912c1c808f8005b62c7353607d92c3cc69f7a076171bb18f6ed49",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/41\/5-8.1792297670329.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke be ke re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "nkwetše mohau"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "fodisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa bophelo bja ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ke be ke dira ⟨sebe⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:50.329826594Z",
+  "model": "glm-5.3"
+}

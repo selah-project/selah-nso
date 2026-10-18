@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sa hlale",
+      "rationale": "זוּד ka bokao bo bolega go bitša\/bontšha go tlala mafoko; 'go hlala' (boitšhoko) ke karolo ya dikgetsi tša mantšu"
+    },
+    {
+      "kind": "crux",
+      "subject": "go hlala",
+      "rationale": "Diphetoło tše dintši di re 'go dira ka boitlhafuno' kgauswi le go se mamele; bokao bo ka moka bo tšwa go motheo wa go bilha"
+    }
+  ],
+  "translation": "Gomme setšhaba ka moka se tla kwa gomme se tšoge, gomme se se ke sa hlala gape.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "fb93a644399278cbc3bdd3864d21705c0f3d2b167c4a49d46b7b6e2d1e874288",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/17\/13-16.1792286071204.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "gomme … ka moka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "se tla kwa"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "se tla tšoga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme go se"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "sa hlale"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-18T01:14:31.205212889Z",
+  "model": "glm-5.3"
+}

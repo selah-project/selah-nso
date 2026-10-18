@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צדיק",
+      "rationale": "Motheo wa motho (molokwa) kgahlanong le 'Molokwa' wo e leggo Yahwe (JPS, YLT 'the Righteous One') — Geneva\/KJV di kgetha motho, tše dingwe Modimo."
+    },
+    {
+      "kind": "elision",
+      "subject": "הושמד",
+      "rationale": "Seheberu ga se na lentšu la 'God' — e ka ba molokwa motho goba Yahwe; bothata bjo bo tswaletšwe ka lentšu le le sa boutšwego."
+    }
+  ],
+  "translation": "Molokwa o hlalefa ka ntlo ya molahu; a hlwahlweditše mahahu ka bobe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6eca46156950e5b8304f229174d81d14854208c53097416c5ea7c6e75424a28d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/21\/9-12.1792299585045.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "o hlalefa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "molokwa"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ka ntlo ya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "molahu"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "a di hlwahlweditše"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "mahahu"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ka bobe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:59:45.046275284Z",
+  "model": "glm-5.3"
+}

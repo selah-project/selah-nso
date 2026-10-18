@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 26:8",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mpho",
+      "rationale": "מנחה fela ga šomišwe ka mo — e le tutuetšo, seka sa khotšo; Sepedi ga se na lentšu le tee le swanago ka botshepegi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד למעלה",
+      "rationale": "Sefoko sa Seheberu sa 'go fihla kwa godimo' — boineelo bja go ba maatla ka gore go tlwaetše go feta tekano; ka Sepedi 'kudu'. "
+    }
+  ],
+  "translation": "Gomme Ba-Amone ba file Uzijahu mpho, gomme leina la gagwe le ile tseba go fihla mollweng wa Mitsrayime, ka gobane o ile a ikemiša kudu.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "50a683df0e5585681c2c5294b6b8ee1de9309486b130b38594e3694a3e2f94eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/26\/5-8.1792304153456.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "gomme ba file"
+    },
+    {
+      "surface": "העמונים",
+      "gloss": "Ba-Amone"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "לעזיהו",
+      "gloss": "Uzijahu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gomme le ile"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "mollweng wa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "a ikemiša"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "kwa godimo"
+    }
+  ],
+  "timestamp": "2026-10-18T06:15:53.457877537Z",
+  "model": "glm-5.3"
+}

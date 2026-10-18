@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 12:13",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka go thata",
+      "rationale": "קשה ke sebopego sa leina, 'se se thata'; go thata ke tlhaloso ya mokgwa wa go araba"
+    }
+  ],
+  "translation": "Gomme kgoši ya araba ⟨את⟩ setšhaba ka go thata, gomme ya lahla ⟨את⟩ kgakolło ya bagolo ye ba e bego ba mo kgotlletše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a2fa3beeb925950d30a41a739fbcd841451edf473b4cfd29b99a7f1de437cc84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/12\/13-16.1792290019294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "gomme ya araba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ka go thata"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "gomme ya lahla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgakolło ya bagolo"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "kgakolło ya"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ye"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ba e bego ba mo kgotlletše"
+    }
+  ],
+  "timestamp": "2026-10-18T02:20:19.295028453Z",
+  "model": "glm-5.3"
+}

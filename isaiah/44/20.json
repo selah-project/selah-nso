@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moyeng wa gagwe",
+      "rationale": "נפש ke mogala\/moya wa bophelo, e sego 'moya' wa ka moeding wa Testamente ye Mpsha."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הותל",
+      "rationale": "ledira la הותל le hlaga fela mo go tanakhe."
+    },
+    {
+      "kind": "crux",
+      "subject": "רעה אפר",
+      "rationale": "'o ja lerole' (KJV) kgotalo 'o leloša lerole' (JPS) — ledira la go leka karolo ya dinku; boikutšo bja go phantšha sephetho."
+    }
+  ],
+  "translation": "O ja lerole; pelo e qosaile e mo fetotše, mme o ka se tloše ⟨את⟩ moyeng wa gagwe, gomme a ka se re: A se seaka se letshatšhweng la ka le letona?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1f81ab062950767623a991c8bf129e2cb5cdfee60cc2fff8c4102f822f16896f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/44\/17-20.1792292275791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "o ja"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "lerole"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "e qosaile"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "e mo fetotše"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme o ka se"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "a tloše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moyeng wa gagwe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moyeng wa gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a ka se"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "re"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a se"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "seaka"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "letshatšhweng la ka le letona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:55.792944278Z",
+  "model": "glm-5.3"
+}

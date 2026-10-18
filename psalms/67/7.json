@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sa lona",
+      "rationale": "suffix ya poso ya seetšo (יבולהּ) e nyakantšhitšwe ka \"sa lona\" go hlalosa gore ke seetšo sa lefase"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלהים אלהינו",
+      "rationale": "poeletšo ya Leina — Elohim, Elohim wa rena — boima bja lentšu bo bolokwa ka botlalo"
+    }
+  ],
+  "translation": "Lefase le file seetšo sa lona; Elohim, Elohim wa rena, o a re lagisha.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6737b1a022538e2485acd326143b059d2d1ab78b20b1ba544ee0db1fa876d90c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/67\/5-8.1792297943386.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "le file"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "seetšo sa lona"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "o a re lagisha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:23.387347877Z",
+  "model": "glm-5.3"
+}

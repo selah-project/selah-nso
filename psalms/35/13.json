@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 35:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפשי ke seltša se seng moya o phelago, sepane, o nyakago — e sego moea yo a sa bonagalego"
+    },
+    {
+      "kind": "crux",
+      "subject": "e boela sehubeng sa ka",
+      "rationale": "תשוב: BSB e re 'thapelo e boetše e sa arabiwe'; JPS e e bala bjalo ka kgetho — 'e ka boa' — thapelo e sena le lehla"
+    },
+    {
+      "kind": "elision",
+      "subject": "e bile ⟨e le⟩",
+      "rationale": "Seheberu se se na sekopanyi; Sepedi se se nyaka"
+    }
+  ],
+  "translation": "Eupša nna, ge ba be ba babja, sehlapa sa ka e bile ⟨e le⟩ lešela; ke ile ka iponotša moya wa ka ka go itšoka; gomme thapelo ya ka e boela sehubeng sa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1842c0a78bc403ba192c1e93d5d063e626a9f2b51a241a50d61b744a063ac05e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/35\/13-16.1792297565495.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "eupša nna"
+    },
+    {
+      "surface": "בחלותם",
+      "gloss": "ge ba be ba babja"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "sehlapa sa ka"
+    },
+    {
+      "surface": "שק",
+      "gloss": "lešela"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ke ile ka iponotša"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "ka go itšoka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "gomme thapelo ya ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "חיקי",
+      "gloss": "sehubeng sa ka"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "e boela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:05.495831916Z",
+  "model": "glm-5.3"
+}

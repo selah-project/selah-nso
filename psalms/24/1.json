@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ya⟩",
+      "rationale": "Seheberu se se na le kopula; tumelelano ya bong wa Sepedi e nyaka 'ke ya Yahwe'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lefase le phelago",
+      "rationale": "תבל ke 'lefase leo le nago le meetse gomme le dulwago' — fapana le הארץ"
+    },
+    {
+      "kind": "hapax",
+      "subject": "mizmore",
+      "rationale": "מזמור ga se na lentšu le se nago selo la Sepedi; le tšewa ka modumo"
+    }
+  ],
+  "translation": "Ya Dafida, mizmore. Lefase le tlatšo ya lona ke ⟨ya⟩ Yahwe, lefase le phelago le ba ba dulago go lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/24\/1-4.1792297469117.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dafida"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmore"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "gomme tlatšo ya lona"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefase le phelago"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "gomme ba ba dulago"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:29.117840947Z",
+  "model": "glm-5.3"
+}

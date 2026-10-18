@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 12:42",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמרים ... שמרים",
+      "rationale": "Ledumo le boela gabedi ka tsela ea khiašmatiki — bošego bja go tlhokomela bja Yahwe bo fetoga go tlhokomelo ya bana ba Yisraele."
+    },
+    {
+      "kind": "crux",
+      "subject": "ליל שמרים",
+      "rationale": "'Bošego bja ditlhokomelo' — bo ka bja bolela go tlhokomela ga Yahwe (YL) goba go tlhokomelo go ya ka bana ba Yisraele (KJV, BSB)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בני",
+      "gloss": "bana",
+      "rationale": "'Bana ba Yisraele' — ledumo la Sesotho 'bana' le šomišitšwe; Sepedi e ka ba 'bana' fela, eupša ka mehla e bontšha setšhaba sa Yisraele."
+    }
+  ],
+  "translation": "Bošego bja ditlhokomelo — ke bjo go Yahwe, go ba ntšha lefaseng ya Mitsrayime; bjo ke bošego bja go Yahwe, bja ditlhokomelo, go bana ka moka ba Yisraele, go meloko ya bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5596905f1927ef92250bc865a60405ee08d894b08fda6dfc6bf35fcfd44931f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/12\/41-44.1792282630601.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליל",
+      "gloss": "bošego"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "bja ditlhokomelo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke bjo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "להוציאם",
+      "gloss": "go ba ntšha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke bjo"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bošego"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "bjo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "bja ditlhokomelo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ... ka moka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "go meloko ya bona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:17:10.602849504Z",
+  "model": "glm-5.3"
+}

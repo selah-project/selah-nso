@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Mokoši o kgothaletša kgoši kapa mmusi ka noši (psale ya 119, setopo sa Beth)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tšwaregala",
+      "rationale": "ברוך go tšwa go 'go nonotšha, go thanya'; o ngwadile ka mokgwa wa go busetša masego."
+    }
+  ],
+  "translation": "O a tšwaregala, wena Yahwe; n ruta ⟨את⟩ melao-mešomo ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/9-12.1792298805333.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "o a tšwaregala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "n ruta"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "melao-mešomo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:45.334208049Z",
+  "model": "glm-5.3"
+}

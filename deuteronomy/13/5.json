@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "taelo e tsehlano",
+      "rationale": "Seheberu se aga tlhaešo ya mešomo e mene ka go boela go yena (יְהוָה) — sepela, tšhaba, šireletša, theetša, šoma, kgomaretša."
+    },
+    {
+      "kind": "elision",
+      "subject": "תדבקון",
+      "rationale": "nun ya mafelelo (paragogic nun) e supa bontši — e ngwalwa fela bjalo ka 'le tla kgomaretša'."
+    }
+  ],
+  "translation": "Morago ga Yahwe Elohim ya lena le tla sepela, gomme ⟨את⟩ yena le tla mo tšhaba, gomme ⟨את⟩ ditaelo tša yona le tla di šireletša, le go lentšu la yona le tla theetša, gomme ⟨את⟩ yena le tla mo šoma, gomme go yena le tla kgomaretša.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "eb099aedd85daf184805e78897f807560452dc1f2489903a2fd8df715b9fcade",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/13\/5-8.1792285954572.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lena"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "le tla sepela"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "gomme ⟨את⟩ yena",
+      "marks": "yena — yo le mo tšhabago, le mo šomago"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "le tla mo tšhaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "ditaelo tša yona"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ditaelo tša yona"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "le tla di šireletša"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "le go lentšu la yona"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "le tla theetša"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "gomme ⟨את⟩ yena",
+      "marks": "yena — yo le mo šomago"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "le tla mo šoma"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "gomme go yena"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "le tla kgomaretša"
+    }
+  ],
+  "timestamp": "2026-10-18T01:12:34.572940109Z",
+  "model": "glm-5.3"
+}

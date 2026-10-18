@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ישא",
+      "rationale": "Hebrew 'lift up' has no stated object; Sepedi supplies bracketed ⟨e⟩ (it) for the voice."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא ... ולא ... ולא",
+      "rationale": "Three-fold negation builds a quiet triple rhythm that Sepedi repeats with three 'ga' clauses."
+    }
+  ],
+  "translation": "Ga a tla lelela, gomme ga a tla ⟨e⟩ phahamisa, gomme ga a tla dumeditša lentšu la gagwe ka ntle.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/42\/1-4.1792292205582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "a tla lelela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "a tla ⟨e⟩ phahamisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "a tla dumeditša"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "lentšu la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:56:45.583549087Z",
+  "model": "glm-5.3"
+}

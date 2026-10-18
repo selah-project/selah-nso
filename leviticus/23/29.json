@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mopšo",
+      "rationale": "נפש ke motho-a-moya, sephetho se se hemago; ga se 'moya' wa go fapana le ruakh"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ka lerapo la letšatši le",
+      "rationale": "בעצם היום — 'ka lerapo la' (mme o tiileng) bolela 'ka botlalo, ka letšatši le le boleleago'"
+    },
+    {
+      "kind": "crux",
+      "subject": "go itšhoka",
+      "rationale": "תענה: 'go itšhoka' (go ikgapeletša go sa je) kgahlanong le 'go itlama' — ka leseding la Yom Kippur ke go itšhoka"
+    }
+  ],
+  "translation": "Ka gobane mopšo o mongwe le o mongwe yo a sa itšhokago ka lerapo la letšatši le, o tla rolotšwa go tšwa go setšhaba sa gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0403cf303b488289d4083fa673329129a9d87f79d444d64c93e4d1d875bd3543",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/23\/29-32.1792284283029.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o mongwe le o mongwe"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "mopšo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "itšhokago"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ka lerapo la"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "o tla rolotšwa"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "go tšwa go setšhaba sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:44:43.030023141Z",
+  "model": "glm-5.3"
+}

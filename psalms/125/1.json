@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka narai",
+      "rationale": "לעולם le tšwa go modu wa go uta, 'nako yeo e ka bonago yona e fedilego' — 'ka narai' ke karolo ya bokao fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mašupediso",
+      "rationale": "המעלות e bolela 'go ela godimo' — pina ya go namilela go Yerushalayime"
+    }
+  ],
+  "translation": "Pina ya mašupediso. Ba ba tshephego go Yahwe ke bjalo ka thaba ya Tsiyone; e ka se šutše, e dula ka narai.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6ddce91552d2f7f8294385cccee1e865d7d4e4a1a60a3410fc129e939f17cc08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/125\/1-4.1792298963567.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya mašupediso"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Ba ba tshephego"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "bjalo ka thaba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ka se"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "šutše"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka narai"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "e dula"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:23.568445183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 11:3",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ושדם",
+      "rationale": "šod: go senya (Rashi) kgahlanong le 'go lwantšha-kgahlanong' go tšwa go keteko ya bona; keteko ya mošomo wa 'go hlatlama' e hloka tokomane"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go fapafapana",
+      "rationale": "סלף ke 'go fapafapana ga tsela' — dikhutlo tše di fapanego; e šomišwa bakeng sa bohlapoletši"
+    }
+  ],
+  "translation": "Bosweu-bophara bja ba latelelago tše dimo bo ba kaela, gomme go fapafapana ga ba bohlapoletši bo ba hlatlamela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/11\/1-4.1792299399238.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמת",
+      "gloss": "bosweu-bophara"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "bja ba latelelago tše dimo"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "bo ba kaela"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "gomme go fapafapana"
+    },
+    {
+      "surface": "בוגדים",
+      "gloss": "bja ba bohlapoletši"
+    },
+    {
+      "surface": "ושדם",
+      "gloss": "bo ba hlatlamela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:56:39.239814378Z",
+  "model": "glm-5.3"
+}

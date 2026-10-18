@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הצילני \/ אנצלה",
+      "rationale": "Root נצל repeated — 'snatch me' and 'let me be snatched' — the plea echoes itself in the Hebrew."
+    },
+    {
+      "kind": "you",
+      "subject": "ntlohole",
+      "rationale": "Imperatives addressed directly to Yahwe, continuing the plea."
+    }
+  ],
+  "translation": "Ntlohole go tšwa mororwaneng, gomme o se ke wa ntlogela go thelela; ntolophwe go manaba, le go tšwa mothaleng wa meetse.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "47969150fa716fb6d3c0651bb4d6a5c51568d472cd91d13850f2a329461459bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/69\/13-16.1792298144346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ntlohole"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "mororwane"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "go thelela"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "ntolophwe"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "manaba"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "gomme go tšwa mothaleng"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wa meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:44.346877257Z",
+  "model": "glm-5.3"
+}

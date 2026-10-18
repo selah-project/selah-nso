@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נפשי",
+      "rationale": "Sefetogo -י: 'bophelo bja hago' (ya rapelago) kgahlanong le JPS 'Leina la ka' (Yahwe a bolela)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke 'moya wa bophelo \/ dikhurelo' — e sego 'moya' wa ka mo sa lekadibeng"
+    }
+  ],
+  "translation": "Yo diatla di hlwekileng, gomme pelo e hlwekileng, yo a sa godiseng bophelo bja hago go leshano, gomme a sa ikannago ka bofoši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7f3f28bc1f22822331da424a7de5c649ad10418c3a0fa7ffef219a870f546dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/24\/1-4.1792297469117.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "hlwekileng"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "diatla"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "gomme e hlwekileng"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "godiseng"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "go leshano"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja hago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ikannago"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "ka bofoši"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:29.118396370Z",
+  "model": "glm-5.3"
+}

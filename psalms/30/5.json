@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bakgethwa",
+      "rationale": "חסידיו ke bao ba nago le botho bja tumelo — 'bakgethwa' (kgethwa) ke boikutwi bja go kgethwa; Sepedi ga se na lentšu le tee la mohlala wo."
+    },
+    {
+      "kind": "crux",
+      "subject": "go segopotšo sa bokgethwa bja hae",
+      "rationale": "לזכר קדשו: 'go segopotšo sa bokgethwa' (KJV) goba 'go leina la hae le kgethilwego' (JPS 'his holy name')."
+    },
+    {
+      "kind": "invitation",
+      "subject": "binang",
+      "rationale": "Taetšo ya go bina go bakgethwa ba Yahwe — mogwedi o laletšwa ka direto."
+    }
+  ],
+  "translation": "Binang go Yahwe, bakgethwa bja hae, gomme le dumedeng go segopotšo sa bokgethwa bja hae.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "be439b2a2394964e15424f73588b6afeeaa0184dc5e37e18041eb4262de767e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/30\/5-8.1792297465342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "binang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "bakgethwa bja hae"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "gomme le dumedeng"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "go segopotšo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sa bokgethwa bja hae"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:25.342704205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נכונה",
+      "rationale": "Dikgopolo di fapana: 'botšepegi' (KJV), 'kemetšo' (YLt), 'boikokobetši' (JPS); tlhago ya lentšu ke go ema ka botlalo, se se theilwego."
+    },
+    {
+      "kind": "substitution",
+      "subject": "diphelang",
+      "rationale": "הוות e bolela botho bja go wa le phelang ka bobedi; 'diphelang' e tšea thoko ya phelang."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחליקון",
+      "rationale": "חלק (go ba bohlale\/phała) — maleme a phała ka botlalo a tseja sepele, se se laetšwago ke go hloekisa."
+    }
+  ],
+  "translation": "Gobane go se gona se se theilwego molomong wa bona; ka gare ga bona ke diphelang; lebitla le le butšwego ke mala a bona; ka dilema tša bona ba di hloekisa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2ac9312f959b215aba426f7f5f1ae5c226a181a8bd26f24b424fd4ddd39310cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/5\/9-12.1792297132230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gobane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go se gona"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "molomong wa bona"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "se se theilwego"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "ka gare ga bona"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "diphelang"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lebitla"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "le le butšwego"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "mala a bona"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ka dilema tša bona"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "ba di hloekisa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:52.230825077Z",
+  "model": "glm-5.3"
+}

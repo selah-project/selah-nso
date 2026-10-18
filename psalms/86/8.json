@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "gare ga Elohim",
+      "rationale": "באלהים: 'gare ga Elohim' (ba dimo tša ditšhaba) kgahlanong le 'go Elohim' — mabapi a mabedi a kgodišwa ke barwaledi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אין...ואין",
+      "rationale": "go ganwa ga bonamodui ga potego — sebopego se a se tlogela"
+    }
+  ],
+  "translation": "Go se na yo a swanago le wena gare ga Elohim, Adonai, gomme go se na yo a swanago le mošomo wa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "133a5716555a948c169a21ead9202567d83ea7b4b64b79463ae64f1592b09734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/86\/5-8.1792298386954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "go se na"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "yo a swanago le wena"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "gare ga Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme go se na"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "yo a swanago le mošomo wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:46.955335036Z",
+  "model": "glm-5.3"
+}

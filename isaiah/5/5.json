@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gomme e tla ba",
+      "rationale": "Seheberu se se na khophula; Sepedi se e nyaka go ba le go jewa \/ go gatiwa"
+    },
+    {
+      "kind": "you",
+      "subject": "lona",
+      "rationale": "Yahwe o bolela le balebeli ba Yerushalema ka gatelelo, a tsebiša se a tlang go se dira"
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Moedi wa go kgopela o fetogile 'ke kgopela' — o bonala ka fase ga maemo a botheto"
+    }
+  ],
+  "translation": "Gomme bjale, ke kgopela, ke tla tsebiša ⟨את⟩ lona se ke se dirago kamoring ya ka: ke tla ntšha sehlaga sa yona, gomme e tla ba ya go jewa; ke tla phunya setako sa yona, gomme e tla ba ya go gatiwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/5\/5-8.1792291322097.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "gomme bjale"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ke tla tsebiša"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kgopela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se ke se dirago kamoring ya ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "se dirago"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "kamoring ya ka"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ke tla ntšha"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "sehlaga sa yona"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme e tla ba"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "ya go jewa"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ke tla phunya"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "setako sa yona"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme e tla ba"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "ya go gatiwa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:42:02.098111921Z",
+  "model": "glm-5.3"
+}

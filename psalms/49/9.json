@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke motho wa go hema — maphapo a throat\/bophelo, e sego 'moya' fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחדל לעולם",
+      "rationale": "'go fela go lehleleme' kgatlhanong le 'e a emišwa' — Hlahele-canoned: pholoso e a hlwa, ga e phethegele lehileng"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקר\/חדל",
+      "rationale": "go hlabakanya: pholoso e jwa kudu eupša e emela go fela — lentšu la hlabakanya"
+    }
+  ],
+  "translation": "gomme e babjwa kudu pholoso ya bophelo bja bona, gomme e a fela — go fihla lehileng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/49\/9-12.1792297768492.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "gomme e babjwa kudu"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "pholoso"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "bophelo bja bona"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "gomme e a fela"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla lehileng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:28.492821451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "wa kgale",
+      "rationale": "גבול עולם: 'boundary of antiquity' — boundary of old vs eternal boundary; KJV 'old landmark'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba senang batswadi",
+      "rationale": "יתומים literally 'fatherless\/bereaved', rendered descriptively"
+    },
+    {
+      "kind": "you",
+      "subject": "to the reader",
+      "rationale": "direct second-person prohibition"
+    }
+  ],
+  "translation": "O se ke wa sutisa mollawane wa kgale, gomme o se ke wa tsena masimong a ba senang batswadi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "163f80a11410ec688886cc1d187c62b1cc5b53f47fd0af5a1f0e9c49520cf34f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/23\/9-12.1792299780795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "wa sutisa"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mollawane"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wa kgale"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "gomme masimong a"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ba senang batswadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "wa tsena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:03:00.796205613Z",
+  "model": "glm-5.3"
+}

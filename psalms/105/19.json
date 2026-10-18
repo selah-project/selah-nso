@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "la mo lekotše",
+      "rationale": "צרפתהו ke go tsenya tšhipa ka mollo go e hlwekisa — go itšeya ga Yosefa bjalo ka gauta; 'go lekola' ke seka fela, seswantšho sa go tswalela se lafale."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברו \/ אמרת",
+      "rationale": "Poeletšo ya mafelelo a mabedi a 'lentšu' (davar \/ imrah) — pego ya Seheberu e boetšiwa ka lentšu la bobedi."
+    }
+  ],
+  "translation": "Go fihla nako ye lentšu la gagwe le tšego; lentšu la Yahwe la mo lekotše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f8327d44b013834f214f5d4c59b87ad829552042b07997840c8b507bc8c87c53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/17-20.1792298637240.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Go fihla"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako ye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "le tšego"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentšu la gagwe"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "la mo lekotše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:57.241357559Z",
+  "model": "glm-5.3"
+}

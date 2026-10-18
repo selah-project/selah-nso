@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 5:9",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Aramaic verse; no את tokens present, ⟨את⟩ markers not applicable"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אושרנא",
+      "rationale": "lerako — lentšu la Aramaic le tlagega mo fela go Tanakh"
+    }
+  ],
+  "translation": "Ka nako yeo re ile ra botšiša ⟨את⟩ baulengi bao, ra ba re bjalo: Ke mang yo a laelago go bopa ⟨את⟩ ntlo ye, le go walediša ⟨את⟩ lerako le go fihlela bofelo?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "6f0194daeb0c502c78af644e055c7a686e17bb76e25cf0d29652c51c4e944966",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/5\/9-12.1792302257830.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "ka nako yeo"
+    },
+    {
+      "surface": "שאלנא",
+      "gloss": "ra botšiša"
+    },
+    {
+      "surface": "לשביא",
+      "gloss": "baulengi bao"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "bao"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "ra re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "שם",
+      "gloss": "a laelago"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "taaelo"
+    },
+    {
+      "surface": "ביתא",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "למבניה",
+      "gloss": "go bopa"
+    },
+    {
+      "surface": "ואושרנא",
+      "gloss": "le lerako"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "le"
+    },
+    {
+      "surface": "לשכללה",
+      "gloss": "go fihlela bofelo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:44:17.831136202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na copula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "you",
+      "subject": "go Elohim le go Yahwe",
+      "rationale": "mokgalabi o bitša Modimo ka lebaka la thuso ya pela mapaša"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומפלטי",
+      "rationale": "polelo ya go tšwa go פלט — 'sešo sa ka' kgathanong le 'yo a nšolofatšego'; ke botho bo fe bja mokgalabi"
+    }
+  ],
+  "translation": "Gomme nna ke mohloki gomme ke hloka; Elohim, phegelela go nna; wena ke thuso ya ka le sešo sa ka; Yahwe, o se ke wa diega.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5472612b7449b7643614afcc20f7d591ddaadc21d2e1b50d1f5b2e14a76832a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/70\/5-6.1792298046513.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ke mohloki"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "gomme ke hloka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "phegelela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "thuso ya ka"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "le sešo sa ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "diega"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:06.514523802Z",
+  "model": "glm-5.3"
+}

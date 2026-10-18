@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 16:9",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tlhero",
+      "rationale": "אף ke nko\/sefahlego; fela mo e bontšha tlhero — sefahlego sa galefelo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "e ntlogeletše mekwala",
+      "rationale": "טרף go roba ka mekwala, go pluka o hlakanya; bjalo ka tau e ja"
+    },
+    {
+      "kind": "crux",
+      "subject": "וישטמני",
+      "rationale": "KJV 'o mpshafa' le ASV 'o ntshwenya' — שטם go lwantšha, go hloka; Sepedi o ntshwenya"
+    },
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "rationale": "sephuthelwana sa go fetoga se feditšwe ka go 'go nna'"
+    }
+  ],
+  "translation": "Tlhero ya gagwe e ntlogeletše mekwala, gomme o ntshwenya; o kgoma meno ya gagwe go nna; lenaba la ka le hlakantšha mahlo a lona go nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0bc6e80a233778cebfd09369971cd969523c4b6f19a18bc1f94bb19fd494c97a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/16\/9-12.1792300311038.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפו",
+      "gloss": "tlhero ya gagwe"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "e ntlogeletše mekwala"
+    },
+    {
+      "surface": "וישטמני",
+      "gloss": "gomme o ntshwenya"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "o kgoma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בשניו",
+      "gloss": "meno ya gagwe"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "lenaba la ka"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "le hlakantšha"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a lona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-18T05:11:51.038645911Z",
+  "model": "glm-5.3"
+}

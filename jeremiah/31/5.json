@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 31:5",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba tla di šomiša",
+      "rationale": "וחללו la bolela 'go di dira tše sa kgethwego \/ go di hlwekiša tlhago' — go šomiša thulo ya dinomo ke moono wa diphetholelo tše dintši"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחללו",
+      "rationale": "Bafofetoledi ba fapana: 'ba tla ja dinomo' (Wycliffe), 'ba di šomiša bjalo ka tše tlwaelegilego' (Geneva, KJV) kgahlanong le 'ba phuma mahala' (ASV, JPS)"
+    }
+  ],
+  "translation": "O sa tla raala masimo a dinomo dithabeng tša Shomeroni; baraalwa ba tla raala gomme ba tla di šomiša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dcff08532b5bd9ba3e7a6cc167df2fe35a6252993986716e513a40c46626b049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/31\/5-8.1792293585934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "sa tla"
+    },
+    {
+      "surface": "תטעי",
+      "gloss": "o tla raala"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "masimo a dinomo"
+    },
+    {
+      "surface": "בהרי",
+      "gloss": "dithabeng tša"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomeroni"
+    },
+    {
+      "surface": "נטעו",
+      "gloss": "ba tla raala"
+    },
+    {
+      "surface": "נטעים",
+      "gloss": "baraalwa"
+    },
+    {
+      "surface": "וחללו",
+      "gloss": "gomme ba tla di šomiša"
+    }
+  ],
+  "timestamp": "2026-10-18T03:19:45.935368124Z",
+  "model": "glm-5.3"
+}

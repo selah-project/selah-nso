@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "difahlelo tša tšona",
+      "rationale": "מפניהם ka se-bopego ke 'go tšwa difahlelong tša tšona' — Sepedi se bolela 'go tšhaba motho' o sa tlwa difahlelo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se na le kopanya ya 'אני עמך' ntle le go hlalosa selo se sengwe — Sepedi se nyaka sediriphetere sa go hlalosa"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yeremia",
+      "rationale": "Taelo ya katlagatšo ya go se tšhabe e agišetšwa Yeremia"
+    }
+  ],
+  "translation": "O se ke wa tšhaba difahlelo tša tšona, ka gobane ke le ⟨את⟩ wena, go go lokolotša — lentšu la Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9526012e6d615aec7f91c1c17f7ea2cea3a40e7a222bfd91524a8c0244d6e3ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/1\/5-8.1792292652331.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "O se ke wa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tšhaba"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "difahlelo tša tšona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le ⟨את⟩ wena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "go go lokolotša"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lentšu la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:04:12.332816753Z",
+  "model": "glm-5.3"
+}

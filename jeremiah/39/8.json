@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gomme ba",
+      "rationale": "Sepedi e nyaka sehlogo se sesane bakeng sa go tsenela ga sesole sa Bakasdi se tšwago temaneng ya 5–7."
+    },
+    {
+      "kind": "elision",
+      "subject": "באש",
+      "gloss_note": "Seheberu se re 'ba tjhitša ka mollo' — mollo o swanetše go bolokwa, o se ke wa wa tlhakantšha le 'tjhitša' fela."
+    }
+  ],
+  "translation": "Gomme Bakasdi ba tjhitša ka mollo ⟨את⟩ ntlo ya kgoši le ⟨את⟩ ntlo ya setšhaba; gomme ⟨את⟩ diboto tša Jerusalema ba di thubile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0b7c8373c29ec8a28187149590c465bb35c49e3897e73aae95c23c9ff0cb9c03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/39\/5-8.1792293836062.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "ntlo ya kgoši"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgoši"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ya setšhaba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ya setšhaba"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "ba tjhitša"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Bakasdi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diboto tša Jerusalema"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "diboto"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusalema"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "ba di thubile"
+    }
+  ],
+  "timestamp": "2026-10-18T03:23:56.063749204Z",
+  "model": "glm-5.3"
+}

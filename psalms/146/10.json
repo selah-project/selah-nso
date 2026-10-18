@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Sehlabelo sa bokgoni seo Seheberu se se sa se rego; Tsiyone e bitšwa ka leina fela."
+    },
+    {
+      "kind": "invitation",
+      "subject": "הללו יה",
+      "rationale": "Taologo ya pele: 'Dumang Yah!' — go laela babadi go duma, pheletšo ya psalme ye."
+    },
+    {
+      "kind": "you",
+      "subject": "Tsiyone",
+      "rationale": "Moalosi wa go lebana: psalme e buša le Tsiyone ka bowe, 'Elohim wa gago'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדר ודר",
+      "rationale": "Poeletšo ya pokorelo le pokorelo e boloka modumo wa Seheberu, diko tše pedi tše di swanago."
+    }
+  ],
+  "translation": "Yahwe o tla busa go ile kale, Elohim wa gago, ⟨o⟩ Tsiyone, pokorelo le pokorelo — dumang Yah!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d5fcbf227f804cb9f705f06dde37bba557510f04d8b58a66a2a92cf66769d671",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/146\/9-10.1792299088573.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "o tla busa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ile kale"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "pokorelo"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le pokorelo"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:28.573833620Z",
+  "model": "glm-5.3"
+}

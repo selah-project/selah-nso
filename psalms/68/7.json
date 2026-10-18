@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "צחיחה",
+      "rationale": "lentšu le tlagega fela mo ga Seheberu fela mo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ביתה",
+      "rationale": "'gae' (baitšwi) kgahlanong le 'malapeng' (KJV, bontši ba mošomo wa lelapa)."
+    }
+  ],
+  "translation": "Elohim o duediša ba lego nosi gae, o ntšha dišofi ka tokologong; eupša ba ganago ba dula lefelong leo le omilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/68\/5-8.1792298045104.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "o duediša"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "ba lego nosi"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "gae"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "o ntšha"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "dišofi"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "ka tokologong"
+    },
+    {
+      "surface": "אך",
+      "gloss": "eupša"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "ba ganago"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "lefelong leo le omilego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:05.105818828Z",
+  "model": "glm-5.3"
+}

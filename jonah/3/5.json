@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go",
+      "rationale": "Sepedi e nyaka tiriso ya go, Seheberu se e se nago"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go itima dijo",
+      "rationale": "צום ke go itima dijo ka botlalo; sephetho se le tee"
+    }
+  ],
+  "translation": "Gomme banna ba Nineve ba ile ba dumelela ⟨go⟩ Elohim, gomme ba laleditše go itima dijo, gomme ba apretše disaeko, go tšwa go bagolo ba bona go fihla go ba nnyane ba bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "af3e8ddae28a792e8c47f3a6e265b216959c023517e350519df6ab3cc03a061e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jonah\/3\/5-8.1792296485844.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "ba ile ba dumelela"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ba laleditše"
+    },
+    {
+      "surface": "צום",
+      "gloss": "go itima dijo"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "ba apretše"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "disaeko"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "go tšwa go bagolo ba bona"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "go ba nnyane ba bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:08:05.845486746Z",
+  "model": "glm-5.3"
+}

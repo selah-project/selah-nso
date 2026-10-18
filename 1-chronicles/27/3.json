@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Seheberu se tšwela ka peli go yena (Yashobeame); poledišo e nyaka sereti."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פרץ",
+      "rationale": "Leina la Perese le tswalana le 'go buba\/go phutlhama' — modumo o lahlegile Sepeding."
+    }
+  ],
+  "translation": "O tšwa go bana ba Perese, ⟨o⟩ hlogo ya dikgoši ka moka tša madira, bakeng sa kgwedi ya pele.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7457e84ce4292d8094b74b6dddfd3ee06a3ab4847d01b152933f00ac85d65b00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/27\/1-4.1792303500105.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perese"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ya ka moka"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "tša madira"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bakeng sa kgwedi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ya pele"
+    }
+  ],
+  "timestamp": "2026-10-18T06:05:00.106766142Z",
+  "model": "glm-5.3"
+}

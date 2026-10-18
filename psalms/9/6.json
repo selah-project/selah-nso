@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tšona⟩",
+      "rationale": "Seheberu se re שמם 'leina la bona' ka sesokwana; mošomo wa leina o tletše gomme ⟨tšona⟩ e hlatša khopolo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעולם ועד",
+      "rationale": "Palo ya mafelelo ye e kanetšwago ('go fihla lelele le go sa fele') ke mokgwa wa Seheberu wa go fa maemo a go se fele — go kgaphetšwe ka Gauta."
+    }
+  ],
+  "translation": "O goretše ditšhaba, o timetše lebe; leina la ⟨tšona⟩ o la phumutše go fihla lelele le go sa fele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "974f917c30c54269f00818dc932492fe7ef12b611bfdb0a0e63d7d7aeb0e2fca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/9\/5-8.1792297266435.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "o goretše"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "o timetše"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "lebe"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "leina la tšona"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "o la phumutše"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla lelele"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "le go sa fele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:06.436374723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 5:3",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כִּלִּיתָם",
+      "rationale": "'O ba feditše' — go fediša ka botlalo goba go fodiša (hit)? Bontši bja diphetolelo: 'consumed' kgahlanong le 'finished them off'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חָלוּ",
+      "rationale": "Lentšu ke go tlhoka mokgonyana — 'go bela' — lafetšwe ka 'go utwa bohloko' ya Sepedi."
+    },
+    {
+      "kind": "elision",
+      "subject": "אוֹתָם",
+      "rationale": "Sepedi e nyaka 'ba' ka go latela temo; e šomišitšwe bjalo ka sesupo sa ⟨את⟩ seo se laetšago batho."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מֵאֲנוּ … מֵאֲנוּ",
+      "rationale": "Go boela ga 'ba gana' ga bobedi — go gana tlwaeso le go gana go boela morago; sebopego sa kgopolo ye kgolo."
+    }
+  ],
+  "translation": "Yahwe, mahlo a gago — a ga a lebane le botshepegi? O ba otile, mme ba sa utwe bohloko; o ba feditše, mme ba gana go amogela tlwaeso; ba tiisitše difahlogo tša bona go feta leswika, ba gana go boela morago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2e0583fbe851d60ac959a36a15d5909c8da036636b92ef5971297f3a5e69aebd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/5\/1-4.1792292868905.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a gago"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ga a"
+    },
+    {
+      "surface": "לאמונה",
+      "gloss": "lebane le botshepegi"
+    },
+    {
+      "surface": "הכיתה",
+      "gloss": "O ba otile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba (batho ba Jerushalayime)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme ba sa"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "utwe bohloko"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "o ba feditše"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ba gana"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "go amogela"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tlwaeso"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ba tiisitše"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "difahlogo tša bona"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "go feta leswika"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ba gana"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "go boela morago"
+    }
+  ],
+  "timestamp": "2026-10-18T03:07:48.906850377Z",
+  "model": "glm-5.3"
+}

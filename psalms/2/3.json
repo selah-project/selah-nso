@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go dikgoši",
+      "rationale": "Mantšu a dikgoši a šupa ba bangwe — lentšu la go ihlaola la bone."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikgokagano",
+      "rationale": "מוסרות e bolela kalwana\/thapo ya go kgoma; dikgokagano ke seswantšho se se gaufi."
+    }
+  ],
+  "translation": "A re tšhetše ⟨את⟩ dikgokagano tša bona, gomme a re di laše go tšwa go rena dikgokganyana tša bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "da8a75b40a107b51d77aecac28add6566eac14ccbded1c29b7ae567704b28035",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/2\/1-4.1792297118883.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "A re tšhetše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgokagano tša bona"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "dikgokagano tša bona"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "gomme a re di laše"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tšwa go rena"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "dikgokganyana tša bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:38.884534990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 22:27",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפשם — sephoši\/tatelo, e sego 'moya' wa Seduaro; 'go neela bophelo' bolela go nyaka ka lethabo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם שמה ... ישובו",
+      "rationale": "Go boleloa gona gabedi (שם · שמה) le go boa — pego ya go boela morago yeo e ganetšwego, e lahlegilego ka tsela e itshekileng"
+    }
+  ],
+  "translation": "gomme go lefase leo ba neelantšego ⟨את⟩ bophelo bja bona go boa gona, go gona ga ba ka boa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7dce5e5e6a31edbf5377f2a598f7a8ebe8c61129553c3b68cda6dbecd4dac821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/22\/25-28.1792293287423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "gomme go"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "ba neelantšego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo bja bona"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "bophelo bja bona"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "go boa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "go gona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ba ka boa"
+    }
+  ],
+  "timestamp": "2026-10-18T03:14:47.424559191Z",
+  "model": "glm-5.3"
+}

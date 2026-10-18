@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 29:26",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "המהפכת",
+      "rationale": "mahpekhet — 'the-overturner', wooden restraint for the body — occurs only here in the Tanakh; rendered sefetoši to keep the picture of turning-over"
+    },
+    {
+      "kind": "crux",
+      "subject": "פקדים",
+      "rationale": "plural paqidim with singular addressee: 'officers' (KJV) vs 'chief officer' (BSB) vs YLT 'there being inspectors'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "khotho ya molala",
+      "rationale": "ha-tsinok, a neck-pillory; Sepedi needs a descriptive phrase since no single word exists"
+    }
+  ],
+  "translation": "Yahwe o go beile moperisita boemong bja Yehoyadaa moperisita, gore o be molaodi ⟨bakeng⟩ ya ntlo ya Yahwe, go mong le le mang yo a phofatšago le yo a ikgantšhago go profeta, gomme wa mo bea ⟨את⟩ mo sefetošing le mo khothong ya molala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c40a7c7739b793dfc9173434f1c7de3744cfc1690de4916a55f5cef29d64ac7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/29\/25-28.1792293569138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "o go beile"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "boemong bja"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Yehoyadaa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "gore o be"
+    },
+    {
+      "surface": "פקדים",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go mong le le mang"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "yo a phofatšago"
+    },
+    {
+      "surface": "ומתנבא",
+      "gloss": "le yo a ikema go profeta"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "gomme wa bea"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (motho yo a phofatšago)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mo"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "sefetoši"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "הצינק",
+      "gloss": "khotho ya molala"
+    }
+  ],
+  "timestamp": "2026-10-18T03:19:29.139970738Z",
+  "model": "glm-5.3"
+}

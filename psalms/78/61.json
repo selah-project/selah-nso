@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לשבי",
+      "rationale": "go tšwarwa lebantu (captivity) bjalo ka sesupo sa bokgwarele, e sego leina la motho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צר",
+      "rationale": "lentšu le ra 'mo o sekameng\/leanaba'; lenaba ke bohlale fela, e sego 'yarona'"
+    }
+  ],
+  "translation": "Gomme o ile a nea maatla a gagwo go go tšwarwa lebantu, le kgodumo ya gagwo go seatla sa lenaba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "15fd05ec2736a76694749f7b80338f5e715f099d9d3d88ee36640ec380cf5b2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/61-64.1792298272557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a nea"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "go go tšwarwa lebantu"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "maatla a gagwo"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "le kgodumo ya gagwo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "go seatla sa"
+    },
+    {
+      "surface": "צר",
+      "gloss": "lenaba"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:52.557486400Z",
+  "model": "glm-5.3"
+}

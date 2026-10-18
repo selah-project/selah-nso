@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "el sefubeng",
+      "rationale": "אל חיקם — 'go sefubeng sa bona', temana ya go busetša kotlo; go swana le 'go hloma ka sefubeng'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "šupafetše",
+      "rationale": "שבעתים — palo ya go kgabisa, e supa kotlo ye e tlaleletšego ka botlalo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרפתם\/חרפוך",
+      "rationale": "phetšo ya חרף e boeleditšwe ga bedi — tlhogo ya tšhwenyo yeo ba go tšhwenyeditšego ka yona"
+    },
+    {
+      "kind": "you",
+      "subject": "go Adonai",
+      "rationale": "thapelo e fela ka leina la Adonai, boipiletšo bja setšhaba"
+    }
+  ],
+  "translation": "Gomme o busetše ba ba dulošago le rena, ga šupafetše go sefubeng sa bona tlhogo ya tšhwenyo yeo ba go tšhwenyeditšego ka yona, Adonai.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/79\/9-12.1792298320965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "gomme o busetše"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "ba ba dulošago le rena"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ga šupafetše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "sefubeng sa bona"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "tlhogo ya tšhwenyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "ba go tšhwenyeditšego"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:40.966610363Z",
+  "model": "glm-5.3"
+}

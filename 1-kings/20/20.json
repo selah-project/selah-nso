@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 20:20",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "איש אישו",
+      "rationale": "Go boela gape ga 'motho\/monna' go hlalosa go thuntšhana ga mongwe le mongwe le wa gagwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a bolaitše",
+      "rationale": "נכה ke 'go otla'; mo go feditšwe go bolawa ka ntlha ya mošomo wa lefase, mantšu a mabedi a Sepedi a nyakana"
+    }
+  ],
+  "translation": "Gomme motho yo mongwe le yo mongwe a bolaitše monna wa gagwe; gomme Arama a matha, gomme Yisraele a ba latediša; gomme Ben-Hadade, kgoši ya Arama, a phologa ka pere, le ba ba namileng dipere.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5f5bdb97ea07a41ac4c5c839b48a3919a649ae3cbb4d6e15ce7a2a64f0f365d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/20\/17-20.1792290318241.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "a bolaitše"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "אישו",
+      "gloss": "monna wa gagwe"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "a matha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arama"
+    },
+    {
+      "surface": "וירדפם",
+      "gloss": "a ba latediša"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "a phologa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadade"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ya Arama"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "pere"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "le ba ba namileng dipere"
+    }
+  ],
+  "timestamp": "2026-10-18T02:25:18.242634971Z",
+  "model": "glm-5.3"
+}

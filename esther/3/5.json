@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 3:5",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המן \/ חמה",
+      "rationale": "Haman (המן) a tletša bopelotlale (חמה, bollers\/boferefere) — medumo e swana, se se latelwago ke Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bopelotlale",
+      "rationale": "חמה ka Sepheberu ke 'bollers\/mofufutso'; bopelotlale ke ponelo, e sego sebopego sa lentšu."
+    }
+  ],
+  "translation": "Gomme Hamane a bona gore Mordekai ga a khumama gomme a se ke a mo khumameletša, gomme Hamane a tletša bopelotlale.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "482ed721e4b89ead203eccdee52a8dfb144cc254d2cb07e56adab0e09040e15b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/3\/5-8.1792301653861.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "a khumama"
+    },
+    {
+      "surface": "ומשתחוה",
+      "gloss": "a khumameletša"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "a tletša"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "bopelotlale"
+    }
+  ],
+  "timestamp": "2026-10-18T05:34:13.861933121Z",
+  "model": "glm-5.3"
+}

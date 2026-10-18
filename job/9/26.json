@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 9:26",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אבה",
+      "rationale": "papiro (papyrus reed, mehla ya kholo ya Biegele) — dikgati tše dingwe di tsebatša e le sekepe se segolo sa metsi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אכל",
+      "rationale": "Seheberu se re 'sepheo' (food); dikgati tše dingwe di fetoletša 'phoofolo ya go eja'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כנשר",
+      "rationale": "nare (eagle) goba lenong — mehuta e mmedi ya dinonyana tša tlhogo"
+    }
+  ],
+  "translation": "Di fetile bjalo ka dinepe tša papiro, bjalo ka nare e omenago go sepheo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4801450eb48f99f045c3af83460d9b6faffe4507bc4d9480dc0e2b91a1342361",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/9\/25-28.1792300191469.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלפו",
+      "gloss": "di fetile"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "dinepe"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "tša papiro"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "bjalo ka nare"
+    },
+    {
+      "surface": "יטוש",
+      "gloss": "e omenago"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sepheo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:51.469959466Z",
+  "model": "glm-5.3"
+}

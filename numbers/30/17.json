@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "papa",
+      "rationale": "Sepedi o šomiša lentšu la go bitša papa (informal) bakeng sa אב (papa\/mong wa leloko) — lentšu la setšo e ka ba *ntate* goba *raka*, eupša papa ke ya Sepedi e hlwekile."
+    },
+    {
+      "kind": "addition",
+      "subject": "bja yona \/ wa yona",
+      "rationale": "Sepedi e nyaka dibopego tša bomong (possessive concords) tšeo Seheberu se di tlogago ka boomo."
+    }
+  ],
+  "translation": "Mele ke melao yeo Yahwe a laeditše ⟨את⟩ Moshe, gare ga monna le mosadi wa gagwe, gare ga papa le morwadi wa gagwe, bokgobong bja yona, ka ntlong ya papa wa yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d2c28a1407bdd6acd22f38088b98fa74b0b3658f95b7c5080fcda49c93d06617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/30\/17-17.1792285294915.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Mele"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laeditše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "mosadi wa gagwe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "אב",
+      "gloss": "papa"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "morwadi wa gagwe"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "bokgobong bja yona"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ka ntlong"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "papa wa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:01:34.916294192Z",
+  "model": "glm-5.3"
+}

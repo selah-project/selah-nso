@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Adonai",
+      "rationale": "Potsiso yeo e botšišago Adonai ka go lebega ga Yisraele."
+    },
+    {
+      "kind": "crux",
+      "subject": "יזנח",
+      "rationale": "Go ganela go ya natšo — go hlokomologa, go hlakanela; KJV 'cast off', JPS 'cast off for ever'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "הלעולמים",
+      "rationale": "Potsiso ya Seheberu e ka bo e le 'go fihla neng?' — letšwa la potsiso ה le לְעולמים."
+    }
+  ],
+  "translation": "Na go fihla go sa feleng Adonai o tla ganela, gomme a sa oketše go ba kgahlego gape?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6a84d3cd64e25f3fe64598015cc650f563b9fc12bab644192602b75f8177ab93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/77\/5-8.1792298174175.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "na go fihla go sa feleng"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "o tla ganela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "o sa oketše"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "go ba kgahlego"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:14.176000508Z",
+  "model": "glm-5.3"
+}

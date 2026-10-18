@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 90:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הגה",
+      "rationale": "'murmur\/sigh\/tale' — versions split between 'a sigh' (ASV) and 'a tale that is told' (KJV\/JPS)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "se e ka se bolele",
+      "rationale": "הגה is a muttering (sigh, thought, thunder) — rendered as a whisper one cannot retell"
+    }
+  ],
+  "translation": "Ka gobane matsatsi a rena ka moka a fetile ka go hweletša ga gago; ra fediša mengwaga ya rena bjalo ka ge e ka se bolele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/90\/9-12.1792298434214.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "matsatsi a rena"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "a fetile"
+    },
+    {
+      "surface": "בעברתך",
+      "gloss": "ka go hweletša ga gago"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "ra fediša"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "mengwaga ya rena"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "se e ka se bolele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:34.214934684Z",
+  "model": "glm-5.3"
+}

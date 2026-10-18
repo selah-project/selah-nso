@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "daniel 2:7",
+  "book": "daniel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gatee-šupa",
+      "rationale": "Aramaic תנינות literally 'a second time' — gatee-šupa (a second occasion) keeps the counting."
+    },
+    {
+      "kind": "addition",
+      "subject": "a kgoši",
+      "rationale": "Sepedi imperative needs the subject pronoun; Hebrew has only the jussive יאמר."
+    }
+  ],
+  "translation": "Ba araba gatee-šupa, ba re: Kgoši, a kgoši e bolele toro go bahlanka ba yona, gomme re tla bontšha sehlatho sa yona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "521834b6885b218a0beeb09a0ef909f1def8a69295279373d79881a414f4deeb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/2\/6-7.1792305401813.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "ba araba"
+    },
+    {
+      "surface": "תנינות",
+      "gloss": "gatee-šupa"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "toro"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a e bolele"
+    },
+    {
+      "surface": "לעבדוהי",
+      "gloss": "go bahlanka ba yona"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "gomme sehlatho sa yona"
+    },
+    {
+      "surface": "נהחוה",
+      "gloss": "re tla bontšha"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:41.813971263Z",
+  "model": "glm-5.3"
+}

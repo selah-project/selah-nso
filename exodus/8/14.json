@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "balai",
+      "rationale": "חרטמים ke bao ba balago dinepe tša ka mahala; 'balai' (disorcerers) ke tekanyetšo e ikgethego ya Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "diphiri",
+      "rationale": "לטים bolela 'dilo tše utilwego' — diphiri tša bona"
+    }
+  ],
+  "translation": "Gomme balai ba dirile bjalo ka diphiri tša bona go ntšha ⟨את⟩ menamane, eupša ba se ka kgona; menamane ya ba go mothong le go phoofolong.",
+  "provenance": {
+    "system-sha256": "24f00113e3b121e9b95e2ccf5a651357778f494e3f9bd9fa2b770ac9d2daaabf",
+    "user-sha256": "1c13e0b64070dc2cc894ae9130a1c307a107a63743ee1a56dd00a4534bbbc3d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/8\/13-16.1792282579230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba dirile"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "balai"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ka diphiri tša bona"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "go ntšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menamane"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "menamane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eupša ba se ka"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kgona"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ya ba"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "menamane"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "go mothong"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "le go phoofolong"
+    }
+  ],
+  "timestamp": "2026-10-18T00:16:19.231794002Z",
+  "model": "glm-5.3"
+}

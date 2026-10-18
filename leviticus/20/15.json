@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diruiwa",
+      "rationale": "בהמה ke diruiwa — diphoofolo tša gae, e sego tša naga"
+    },
+    {
+      "kind": "addition",
+      "subject": "go robala ga gagwe",
+      "rationale": "יתן שכבתו — 'go abela go robala ga gagwe': Sepedi e nyaka go fa e sa ngwalwe"
+    }
+  ],
+  "translation": "Gomme monna yo a abelago go robala ga gagwe go diruiwa, o tla bolawa ka mahu; gomme ⟨את⟩ diruiwa leo e bolaye.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "fe2e779e9253bccdc3924a71ac6631b21e796827476e04921208cd48d889ae7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/20\/13-16.1792284139091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a abela"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "go robala ga gagwe"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "go diruiwa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "mahu"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o bolawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "diruiwa leo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "diruiwa leo"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "e bolaye"
+    }
+  ],
+  "timestamp": "2026-10-18T00:42:19.092457298Z",
+  "model": "glm-5.3"
+}

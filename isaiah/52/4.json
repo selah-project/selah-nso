@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go nna teng",
+      "rationale": "גור e ra go nna bjalo ka moahi wa nakoana, e sego go bapala — 'go nna teng' ke gloss ye kgolwago."
+    },
+    {
+      "kind": "addition",
+      "subject": "goo",
+      "rationale": "שם e bušišitšwe 'go nna teng' go Sepedi go sa hloke lentšu le tee fela, fela e bolokwa go popagano ya Seheberu."
+    },
+    {
+      "kind": "crux",
+      "subject": "באפס עשקו",
+      "rationale": "E ka ra 'o se gateletše ka ntle le mabaka' (KJV, JPS) goba 'o se gateletše ka gore o fedile maatla' (YLTLT e bala 'for nought') — go sa dumelane ga difo."
+    }
+  ],
+  "translation": "Gobane go bolela Adonai Yahwe: setšhaba sa ka se theogile Mitsrayime mathomong go nna teng; gomme Ashura o se gateletše ka ntle le mabaka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "82878627cbc51c07e9aaf9b90461175ba057fe9592f8c0fb9318309ff589c8eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/52\/1-4.1792292390998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "go"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "se theogile"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "mathomong"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "go nna teng"
+    },
+    {
+      "surface": "שם",
+      "gloss": "goo"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "gomme Ashura"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "ka ntle le mabaka"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "o se gateletše"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:50.999881571Z",
+  "model": "glm-5.3"
+}

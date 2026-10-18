@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 16:17",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the servants of Shaule",
+      "rationale": "Šaul addresses his servants directly with imperatives ראו נא 'lebelelang, ke kopa'."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke kopa",
+      "rationale": "נא is a particle of entreaty with no exact equivalent; rendered as a polite plea."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go bina",
+      "rationale": "לנגן is to thrum\/pluck strings with the fingers, rendered with the general Sepedi verb for making music."
+    }
+  ],
+  "translation": "Gomme Shaule a bolela le bahlokedši ba ⟨gagwe⟩: Lebelelang, ke kopa, go nna motho yo a šommego gabotse go bina, gomme mo isišeng go nna.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2deb5f0605a2be5a59ac1ecad8774917a9104b4e82509b18668e822de2f95417",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/16\/17-20.1792288313724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bahlokedši ba gagwe"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "lebelelang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מיטיב",
+      "gloss": "yo a šommego gabotse"
+    },
+    {
+      "surface": "לנגן",
+      "gloss": "go bina"
+    },
+    {
+      "surface": "והביאותם",
+      "gloss": "gomme mo isišeng"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-18T01:51:53.724930176Z",
+  "model": "glm-5.3"
+}

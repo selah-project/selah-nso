@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוחך 'moya wa gago' o tserwe ka lentšu la Seheberu ruakh, go šetšwe modumo o tee bjalo ka ge molao o re"
+    },
+    {
+      "kind": "crux",
+      "subject": "סרה",
+      "rationale": "e kgopetše ('sullen') kgathanong le 'e sego botse' — lentšu le sa tumilego kudu, diphetolelo di fapana"
+    }
+  ],
+  "translation": "Gomme Izebele, mosadi wa gagwe, a tsena go yena, gomme a mmolelela: Ke eng se? ruakh ya gago e kgopetše, gomme o sa je bogobe?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "25573c7040ccdc824df79312cbf114424f56be25263d20735d64a80a517134bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/21\/5-8.1792290319077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebele"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "mosadi wa gagwe"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "a mmolelela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "ruakh ya gago"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "e kgopetše"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "gomme o sa"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "je"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:25:19.078899675Z",
+  "model": "glm-5.3"
+}

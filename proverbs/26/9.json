@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mohloka-bohlale",
+      "rationale": "כסיל ka bohalale bo etšwa go 'boima' — yo a boima tlhaloganyong; 'yo a hlokago bohlale' ke tlhalošo, e sego lentšu le tee"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חוח \/ עלה",
+      "rationale": "sediri se nama seatleng — setšošwa sa go botša ka thaka ye e sa romellwago ka boikaelelo, sephethwana sa mogodile"
+    }
+  ],
+  "translation": "Bjalo ka mosele wo o nametšego seatleng sa mogodile, bjalo gape ke leseane lefahleleng la bahloka-bohlale ⟨ke⟩ se sengwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4533ddaae0b4b6d54dd5f4a8c5e400da0f15d613a40371a80e1f266db3882565",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/26\/9-12.1792299829276.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "mosele"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "go namela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "seatleng"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "sa mogodile"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "le leseane"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "lefahleleng"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "la bahloka-bohlale"
+    }
+  ],
+  "timestamp": "2026-10-18T05:03:49.277146772Z",
+  "model": "glm-5.3"
+}

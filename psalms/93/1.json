@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 93,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka bjo",
+      "rationale": "Seheberu se se na sephetho sa 'ka ona'; Sepedi se nyaka sela se se šupago maatla"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבש לבש",
+      "rationale": "Go bušetšwa ga lentšu 'o apere' ga rialo — phetolelong ya Sepedi go bušetšwa ga lentšu go fokotšegile"
+    }
+  ],
+  "translation": "Yahwe o bušetše, bosebego o bo apere, Yahwe o apere maatla, o ikgošeditše ka bjo; gape lefase le theilwe, ⟨le⟩ ka se šake.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "831a0ae960a4e0f13d21c2fd8125f15c5390ff0b98d3dcc9db00ad1b9e5d9efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/93\/1-4.1792298504883.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "o bušetše"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "bosebego"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "o bo apere"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "o apere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "o ikgošeditše"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gape"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "le theilwe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "šake"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:44.884369904Z",
+  "model": "glm-5.3"
+}

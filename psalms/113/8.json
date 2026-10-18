@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נדיבים",
+      "rationale": "Sepedi se se sa nago lentšu le tee la 'nadib' (batho ba bokaone, ba mengwaga ya magodimo) — 'dikgoši' ke go fokotša bokao bja sebopego."
+    }
+  ],
+  "translation": "Go mo dutšetša le dikgoši, le dikgoši tša setšhaba sa yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b66ab65988add8a6d65d65d76d0feb34f02fdd6f45802f496aaf324e7f7f74ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/113\/5-8.1792298703311.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "go mo dutšetša"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "dikgoši tša"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setšhaba sa yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:03.311917021Z",
+  "model": "glm-5.3"
+}

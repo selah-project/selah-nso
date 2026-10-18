@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "עקבה",
+      "rationale": "Sebopego sa mosadi sa עקב (lesisinya\/meala) se hlaga fela mo go Tanakh"
+    },
+    {
+      "kind": "crux",
+      "subject": "meala ya madi",
+      "rationale": "עקובה מדם: 'e na le meala ya madi' (JPS) goba 'e hlwabitšwe ka madi' (KJV) — mothaladi o fapana"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקבה",
+      "rationale": "עקב e aga le ya leina la Yaakobo le ya boswazi — kgokgontšho ya lešoto e ka tšwa go Seheberu se sengwe"
+    }
+  ],
+  "translation": "Gileada ke toropo ya ba šomago lešoto, e na le meala ya madi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c818525ae574dde31efd66e91023b645295c9302d2e625baff48fe1bbc7c577f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/6\/5-8.1792295896168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "Gileada"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "toropo ya"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba šomago"
+    },
+    {
+      "surface": "און",
+      "gloss": "lešoto"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "e na le meala"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ya madi"
+    }
+  ],
+  "timestamp": "2026-10-18T03:58:16.169336039Z",
+  "model": "glm-5.3"
+}

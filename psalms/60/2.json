@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "sekete tše lesomepedi",
+      "rationale": "Palo e hlakantšhwa: 12 000 ya ba bolailwego"
+    },
+    {
+      "kind": "addition",
+      "subject": "gomme",
+      "rationale": "Sekopanyi sa ו se fetoletšwe 'gomme' — Sepedi se se nyaka"
+    }
+  ],
+  "translation": "Ge a lwantšha ⟨את⟩ Arame-Naharayime le ⟨את⟩ Arame-Tsobha, gomme Yoabe a boela a otle ⟨את⟩ Edome mo sekgobeng sa letswai — sekete tše lesomepedi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "355980abfbaa019127ae05d270b32ba9952e398369a1570b8b40c234829c51d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/60\/1-4.1792297960557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "ge a lwantšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arame-Naharayime"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "Arame-Tsobha"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsobha"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "gomme a boela"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "gomme a otle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edome"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "mo sekgobeng sa"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "letswai"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:40.558485964Z",
+  "model": "glm-5.3"
+}

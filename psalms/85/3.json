@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נשאת",
+      "rationale": "'go bea ka godimo' — ba bangwe ba re 'o amogetše', ba bangwe 'o tšere-go-ntšha' (o ile ka go phahama ga ona)"
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "lentšu la mmino, le sa fetolelwago"
+    }
+  ],
+  "translation": "O tšere-go-ntšha sebe sa setšhaba sa gago, o kekeditše dibe ka moka tša bona. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1e6098456f56aa772431d8326426dd6f9857ea0170fbf1535b9d07ec09f0e33f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/85\/1-4.1792298343646.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "o tšere-go-ntšha"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setšhaba sa gago"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "o kekeditše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "dibe tša bona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:03.647174651Z",
+  "model": "glm-5.3"
+}

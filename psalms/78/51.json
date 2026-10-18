@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אונים",
+      "rationale": "'maatla' (kjv strength) kgathanong le 'bokgoni bja banna' (bsb virility); און ke maatla le seso ka moka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חם",
+      "rationale": "Kame — morwa wa Noa; metenteng ya Kame ke Egepeta, leina la motho le sa fetolwe"
+    }
+  ],
+  "translation": "Gomme o kgwetše ba belegwago pele kamoka ka Mitsrayime, mathomwa a maatla a bona matenteng a Kame.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e5c7cce20cd82460be456a416232e884abb74c42f60b5975ddb9b876424937ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/49-52.1792298276255.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "gomme o kgwetše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kamoka"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ba belegwago pele"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "ka Mitsrayime"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "mathomwa"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "a maatla"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "matenteng"
+    },
+    {
+      "surface": "חם",
+      "gloss": "a Kame"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:56.256868305Z",
+  "model": "glm-5.3"
+}

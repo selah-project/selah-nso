@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "se tla hwetša",
+      "rationale": "תמצא 'go hwetša' kgahlano le JPS 'e tla ba lekana le' le BSB 'e tla ba swara' — go hwetša ke ke ya botswerere ya polelwana."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "manaba \/ bao ba go hloilego",
+      "rationale": "Poeletlo ya setheo: אויביך \/ שנאיך — diswana-pediswa, sebolokwa ka go hlakantšha mafoko a mabedi."
+    }
+  ],
+  "translation": "Seatla sa gago se tla hwetša manaba a gago ka moka; seatla sa gago sa go ja se tla hwetša bao ba go hloilego ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0e6ed9a1436b8b1ccc27f6c44575d05806433511d717f3dd94efe0a05a8c86ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/21\/9-12.1792297358345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "se tla hwetša"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "manaba a gago"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "seatla sa gago sa go ja"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "se tla hwetša"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "bao ba go hloilego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:38.346170592Z",
+  "model": "glm-5.3"
+}

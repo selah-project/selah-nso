@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 21:21",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mošiti ka lebating",
+      "rationale": "משתין בקיר — 'yo a šitago ka lebating' — ke mokgwa wa Seheberu wa go bolela banna ka bobedi боtho; Sepedi se boloka seswantšho sa sona sa mmotho."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ke lela go wena bohlapa",
+      "rationale": "מבי אליך רעה — goba 'ke tla lela go wena bohlapa'; mo ke go tsena ga bohlapa, e sego go fihlela."
+    },
+    {
+      "kind": "elision",
+      "subject": "ובערתי",
+      "rationale": "Tlhakapele e bolela go fišwa ka mollo — 'go phumeditha' ke mošomo wa leina fela, seswantšho sa mollo se lahlegile."
+    }
+  ],
+  "translation": "Ke mo, ke lela go wena bohlapa, gomme ke tla go phumeditha ka morago gago, gomme ke tla kgaola go Ahabe mošiti ka lebating, le yo a tswaletšwego le yo a lokolotšwego, go Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d09da84b8f8b85dd9c80b308526e0f84a984ff7d7e68128fa61f1d0e47ce9baf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/21\/21-24.1792290256544.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "ke mo"
+    },
+    {
+      "surface": "מבי",
+      "gloss": "ke lela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bohlapa"
+    },
+    {
+      "surface": "ובערתי",
+      "gloss": "gomme ke tla go phumeditha"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ka morago gago"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "gomme ke tla kgaola"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "go Ahabe"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "mošiti"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ka lebating"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "le yo a tswaletšwego"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "le yo a lokolotšwego"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "go Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:24:16.544931687Z",
+  "model": "glm-5.3"
+}

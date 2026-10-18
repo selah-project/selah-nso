@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 3:20",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "עשרים אנשים",
+      "rationale": "Palo e hlakantšwego: masomepedi a banna."
+    },
+    {
+      "kind": "elision",
+      "subject": "ואתו \/ אתו",
+      "rationale": "H854 (ewitha 'le') e tsegiwa ka ⟨את⟩ go ya ka molao wa Selah, e sego DOM-marker ya H853."
+    }
+  ],
+  "translation": "Abunere a fihla go Dafida go Hebrone, le ena ⟨את⟩ masomepedi a banna; Dafida a dira go Abunere le go banna bao ba nago le ena ⟨את⟩ mokete wa go nwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "424e995d0d37f3e3e017e33cda1da598fcdedb20354438fe2546854126fd3d48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/3\/17-20.1792288877684.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Abunere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "go Hebrone"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "le ena ⟨את⟩"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masomepedi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "a banna"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "go Abunere"
+    },
+    {
+      "surface": "ולאנשים",
+      "gloss": "le go banna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ba nago le ena ⟨את⟩"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "mokete wa go nwa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:01:17.686251240Z",
+  "model": "glm-5.3"
+}

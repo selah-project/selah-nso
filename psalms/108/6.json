@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e bolokwe ge",
+      "rationale": "Seheberu se na le goitirisa fela; kopu ya go fa maatla e okeditšwe ka Sepedi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "thapelo",
+      "rationale": "mothaladi o kgothaletša Elohim go phahama"
+    }
+  ],
+  "translation": "E bolokwe ge o phahametšwe godimo ga magodimo, Elohim, gomme kgallego ya gago godimo ga lefase ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/108\/5-8.1792298726739.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "e bolokwe ge o phahametšwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "gomme godimo ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "kgallego ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:26.739982948Z",
+  "model": "glm-5.3"
+}

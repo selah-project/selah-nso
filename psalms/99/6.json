@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba ile",
+      "rationale": "Hebrew participles קראים carry past context; Sepedi past-tense helper supplied"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקראי \/ קראים",
+      "rationale": "root קרא repeated — callers who called; Sepedi repeats 'bitšago\/bitša' to keep the echo"
+    }
+  ],
+  "translation": "Moshe le Aharone gare ba moperisita ba gagwe, gomme Shemuele gare ba ba bitšago leina la gagwe; ba ile ba bitša go Yahwe, gomme yena a ba araba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9c29dcd4b95be0f2df3d95f849a38c88835405d3fc8b3bf7d39bf94943a5617a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/99\/5-8.1792298542464.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "gare ba moperisita ba gagwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "gomme Shemuele"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "gare ba ba bitšago"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "ba ile ba bitša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "gomme yena"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "a ba araba"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:22.465559927Z",
+  "model": "glm-5.3"
+}

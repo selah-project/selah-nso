@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וידע",
+      "rationale": "'A ruta' (KJV\/JPS, tlwaelo ya go kotla) kgahlanong le 'a ba ripa' (Wycliffe\/Geneva, go tšwa go sebopego sa boitshwaro); וידע ka bona e re 'go tseba\/go uta'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "a ruta",
+      "rationale": "וידע e bolela 'go uta\/go tsebisa', eupša setšhabeng se se boletšego se ikemiša go rera kotlo ya mmele — 'a ba kotla ka tšona'."
+    }
+  ],
+  "translation": "A tšwa ⟨את⟩ bagolo ba motse, le ⟨את⟩ mekwere ya naga le ⟨את⟩ ditholo, gomme ka tšona a ruta ⟨את⟩ banna ba Sukote.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3aec9b2c8072b1107719897c1a9c270380584bdc29dbadd7be2a1c6fefb8b9a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/8\/13-16.1792287427490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tšwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bagolo ba motse"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bagolo ba"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "motse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mekwere ya naga"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "mekwere ya"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "naga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ditholo"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "ditholo"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "a ruta"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ka tšona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna ba Sukote"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukote"
+    }
+  ],
+  "timestamp": "2026-10-18T01:37:07.491278548Z",
+  "model": "glm-5.3"
+}

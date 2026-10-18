@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 11:11",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Copula bracketed: Hebrew has the pronoun הוא as the predicate, not the verb 'to be'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "השמרים",
+      "rationale": "Rendered 'ba lokišetša' (those attending\/giving heed to me); literally 'those keeping\/watching me'."
+    }
+  ],
+  "translation": "Gomme e phušitšwe letšatšing leo; gomme ba utolle, bafsa ba dinku le dipudi bao ba ilego ba lokišetša ⟨את⟩ nna, gore lentšu la Yahwe ⟨ke⟩ lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4d1b8e903065145ef7ada6ed44d23635c6329c7b863c8a4462c2c85c186b88d0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/11\/9-12.1792296989207.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפר",
+      "gloss": "gomme e phušitšwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letšatšing"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "gomme ba utolle"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bosome"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "bafsa ba"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dinku le dipudi"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "bao ba ilego ba lokišetša"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:16:29.208989698Z",
+  "model": "glm-5.3"
+}

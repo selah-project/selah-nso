@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 13:13",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "פנים\/אחרי structure",
+      "rationale": "לפני…והמארב מאחריהם: diphetho tša Sesotho tše peli tša 'pele\/ka morago' di bolokwa ka botlalo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מארב…מאחריהם",
+      "rationale": "puo e khumamago: mogwarego le 'ka morago' — modumo o a swana ka Seheberu"
+    }
+  ],
+  "translation": "Gomme Yerobeam a dikantšha ⟨את⟩ mogwarego gore o tšwe go tšwa ka morago ga bona; gomme bona ba ba le pele ga Yehuda, gomme mogwarego ka moraga ga bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "40cd89af7af7c49e1179eeecfb7db93607eed353918f85d83f124c35ee587978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/13\/13-16.1792303895081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירבעם",
+      "gloss": "Yerobeam"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "a dikantšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogwarego"
+    },
+    {
+      "surface": "המארב",
+      "gloss": "mogwarego"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "ka morago ga bona"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ba ba ba le"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "והמארב",
+      "gloss": "gomme mogwarego"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "ka morago ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:11:35.081961425Z",
+  "model": "glm-5.3"
+}

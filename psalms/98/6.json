@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הריעו",
+      "rationale": "Root רוע literally 'split the ears with sound'; rendered 'llang koto' (raise the shout)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "llang koto",
+      "rationale": "'Joyful noise' of KJV is a war-shout\/ triumph-cry, not mere rejoicing; 'koto' keeps the shout sense."
+    },
+    {
+      "kind": "you",
+      "subject": "llang koto",
+      "rationale": "Plural imperative addressed to the worshippers."
+    }
+  ],
+  "translation": "Ka diterompete le ka modumo wa šofara, llang koto pele ga kgoši Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/98\/5-8.1792298537730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "ka diterompete"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "le ka modumo"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "wa šofara"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "llang koto"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:17.730624783Z",
+  "model": "glm-5.3"
+}

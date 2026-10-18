@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 32:10",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "motho-monyana wa leihlo",
+      "rationale": "אישון ke 'monnyana wa leihlo' — setshwantshiso sa moruti wa leihlo; 'seretle' se ka laše bošwa bja lentšu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו ילל ישימן",
+      "rationale": "Mantšu a mahlakoreng — lefsifsi, go llela, lefala — modumo wa go tšhogela naga e senyegilego"
+    }
+  ],
+  "translation": "O mo hwetše lefaseng la lerwa, le sefefong se se llelago, se se senago sepe; o mo dikologa ka mehla, o mo hlatholla, a mo hlanka bjalo ka motho-monyana wa leihlo la gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "84704971e5f4610be27062eddd43f82b1ba82dd58b84246afd1c5d91eb7770f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/32\/9-12.1792286402677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימצאהו",
+      "gloss": "o mo hwetše"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "la lerwa"
+    },
+    {
+      "surface": "ובתהו",
+      "gloss": "le sefefong se se senago sepe"
+    },
+    {
+      "surface": "ילל",
+      "gloss": "se se llelago"
+    },
+    {
+      "surface": "ישמן",
+      "gloss": "lefala"
+    },
+    {
+      "surface": "יסבבנהו",
+      "gloss": "o mo dikologa"
+    },
+    {
+      "surface": "יבוננהו",
+      "gloss": "o mo hlatholla"
+    },
+    {
+      "surface": "יצרנהו",
+      "gloss": "a mo hlanka"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "bjalo ka motho-monyana"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "wa leihlo la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:20:02.678666655Z",
+  "model": "glm-5.3"
+}

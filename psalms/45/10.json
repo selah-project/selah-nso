@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kgošigadi",
+      "rationale": "שגל e tšwa go bolelopha bja lenyalo (moiladung wa kgoshi), e sego leina la setulo."
+    },
+    {
+      "kind": "addition",
+      "subject": "haré",
+      "rationale": "ב ke 'ka gare ga' — kopanyo ya sehaka e nyakeditše sediriši."
+    }
+  ],
+  "translation": "Ditlogolo tša dikgoši di haré dilo tša gago tša theko e kgolo; kgošigadi o emileng ka go la nge la gago, a apere gauta ya Ophira.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/45\/9-12.1792297777723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "Ditlogolo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "tša dikgoši"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "di haré dilo tša gago tša theko e kgolo"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "o emileng"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "kgošigadi"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "ka go la nge la gago"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "a apere gauta"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ya Ophira"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:37.723853857Z",
+  "model": "glm-5.3"
+}

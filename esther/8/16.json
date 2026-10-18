@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אורה",
+      "rationale": "'Light' here figurative for prosperity\/relief after the darkness of the first decree."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ושמחה וששן",
+      "rationale": "Climactic pair of near-synonyms for joy, sound-play lost in translation."
+    }
+  ],
+  "translation": "Go Bajuda go be go na le lesedi, lethabo, boitumelo le tlotlo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "66396aabd55949de2545aa5105ae795d243905e6557ae01f3765fd2ad5451ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/8\/13-16.1792301692161.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "Go Bajuda"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "go be go na le"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "lesedi"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "lethabo"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "boitumelo"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "tlotlo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:34:52.162969458Z",
+  "model": "glm-5.3"
+}

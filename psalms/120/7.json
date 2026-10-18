@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Nna ke kagiso",
+      "rationale": "Seheberu se re 'nna, kagiso' — se se nago selo se sa bolelwago; phetolelo e hlalosa gore motho o eme kgahlanong le kagiso."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Sehlengwa sa medumo sa Sepedi seo Seheberu se se se nago; למלחמה e na le ל- fela."
+    }
+  ],
+  "translation": "Nna ke kagiso; eupša ge ke bolela, bona ba emela ⟨go⟩ ntwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d43459e9860c7aab20df4312462f58b3e28a6f029a059b37119b1f207290744d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/120\/5-7.1792298884514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "eupša ge"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke bolela"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ba emela ⟨go⟩ ntwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:04.515282188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עמי",
+      "rationale": "Kgethi: \"setšhaba sa ka\" (sa moprofeta) kgatlhanong le \"setšhaba sa hao\" (sa Yahwe) — Seheberu se re \"setšhaba sa ka\"; ke ya pele."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šireletšo sa rena",
+      "rationale": "מגן ke sehlare sa mošomo sa ntwa; \"šireletšo\" e bolela sephetho sa wona, e sego sebopego sa leswika la Seheberu."
+    }
+  ],
+  "translation": "O se ke wa ba bolaya, gore setšhaba sa ka se se kgole; o ba phašaletše ka maatla a gago, gomme o ba wa fase, Adonai, šireletšo sa rena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f0283e5b1c1d299a88dc20399bc6a9716c62d1628082d08dfa487ce0e6e075c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/59\/9-12.1792297950361.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "wa ba bolaya"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "se se kgole"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "o ba phašaletše"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ka maatla a gago"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "gomme o ba wa fase"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "šireletšo sa rena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:30.363015136Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 37:15",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Aleph-tav ya boraro e swaya ntlo ka boyona, e sego Yiremiyahu — sefokodi se se nago mabapi le se swailwego."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בית האסור",
+      "rationale": "'Ntlo ya go tswalelwa' — sefteng se hlalosa ditswalelo, e sego kgolego ya tlwaelo."
+    }
+  ],
+  "translation": "Gomme baetapele ba tšwerwe ke makamu go Yiremiyahu, ba mmola ⟨את⟩ gomme ba mo bea ⟨את⟩ ka ntlong ya go tswalelwa, ntlong ya Yehonatane mongwadi, ka gobane ⟨את⟩ yona ba e dirile ntlong ya kgolego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6f54195d2cc6f60e689c53b6ae9762ffddb6ed69828e816b72a9dd838ebf3b1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/37\/13-16.1792293838729.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקצפו",
+      "gloss": "ba tšwerwe ke makamu"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "baetapele"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yiremiyahu"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "ba mmola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Yiremiyahu"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "ba mo bea"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "Yiremiyahu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "האסור",
+      "gloss": "ya go tswalelwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ya Yehonatane"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mongwadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (ntlo)"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba e dirile"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "kgolego"
+    }
+  ],
+  "timestamp": "2026-10-18T03:23:58.730928563Z",
+  "model": "glm-5.3"
+}

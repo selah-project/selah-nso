@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וקדשו",
+      "rationale": "Keteketso ya Seheberu: 'goba tše a di kgethwago' (KJV) goba 'tša se kgethwago' — dikwalo tša LXX di fapana."
+    }
+  ],
+  "translation": "Gomme a tliša ⟨את⟩ dilo tše di kgethwago tša tatagwe le dilo tša gagwe tše di kgethwago go ngwako wa Yahwe — silibera le gauta le didirišwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f243442e953b28e3d7500bd4d4bb09beb7a4cfcab15ad555e3df56256aa445cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/15\/13-16.1792290138621.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Gomme a tliša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tše di kgethwago tša tatagwe"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "dilo tše di kgethwago tša"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tatagwe"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "gomme dilo tša gagwe tše di kgethwago"
+    },
+    {
+      "surface": "בית",
+      "gloss": "go ngwako"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "le didirišwa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:22:18.621941285Z",
+  "model": "glm-5.3"
+}

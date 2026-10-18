@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הפילו גורלות",
+      "rationale": "'Ba huduše dikgetho' — thwii e re 'ba tloša dikgetho go wa', sedumedi sa Seheberu sa go kgetha ka dinotlelo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dikgetho",
+      "rationale": "Temana e ka moka e bala kabelo ya dikgoro ka dikgetho — go kgetha, go bala le go kabela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שער ושער",
+      "rationale": "'Kgoro le kgoro' — go boeletša ga Seheberu go bontšha kgoro ka nngwe le nngwe; go hudušwa ga botee bo a bolokwa."
+    }
+  ],
+  "translation": "Gomme ba huduše dikgetho, mo nyenyane bjalo ka mo mogolo, go ya ka ntlo ya bo-ntate bona, kgoro le kgoro.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f893e0460d07e0f466b60f049b3ad836fd4f06ad556f7cc24d6e9e4b69feb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/26\/13-16.1792303430518.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "ba huduše"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "dikgetho"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "bjalo ka mo nyenyane"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "bjalo ka mo mogolo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "go ya ka ntlo"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ya bo-ntate bona"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "bakeng sa kgoro"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "le kgoro"
+    }
+  ],
+  "timestamp": "2026-10-18T06:03:50.518926311Z",
+  "model": "glm-5.3"
+}

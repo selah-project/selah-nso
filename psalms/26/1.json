@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bokgethwa",
+      "rationale": "תמם ke botlalo; -kgethwa e swara modu wa go hloka leswaka, e sego 'innocence' ya tumelo e ile"
+    },
+    {
+      "kind": "crux",
+      "subject": "שפטני",
+      "rationale": "'nkahlola' (go hlola kahlolo) kgahlanong le 'ntiise' (vindicate); šafet go bolela kahlolo ka moka"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Pelelo ye e lebile go Yahwe ka leina"
+    }
+  ],
+  "translation": "Ya Dafida. Nkahlola, Yahwe, ka gobane ke sepile ka bokgethwa bja ka, gomme ka Yahwe ke tshepile, ga ke tsogoteme.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/26\/1-4.1792297443322.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "nkahlola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ka bokgethwa bja ka"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ke sepile"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "gomme ka Yahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "ke tsogoteme"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:03.322713012Z",
+  "model": "glm-5.3"
+}

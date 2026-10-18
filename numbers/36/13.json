@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 36:13",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Tše ke",
+      "rationale": "Seheberu ga se na kopula; ⟨ke⟩ e okeditšwe ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ntlheng ya Mowabe",
+      "rationale": "ערבות מואב ke 'mafelo a mošuthu a Mowabe' — 'ntlheng' ke bokutupu bja lefelo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "go se kgakala le Yerikhoo",
+      "rationale": "על ירדן ירחו — 'gaufu le Yoredane, go lebana le Yerikhoo'; diphetošo tše dintši di sa swane"
+    }
+  ],
+  "translation": "Tše ke melao yeo le dikahlolo tšeo Yahwe a laeditšego ka seatla sa Moshe go bana ba Yisraele, ntlheng ya Mowabe, gaufu le Yoredane, go se kgakala le Yerikhoo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a591563ca066a5abfb5a18ff7fcd3bbf30feaac692cca7ad43e2d2464648a318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/36\/13-13.1792285479871.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Tše"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "melao yeo"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "le dikahlolo tšeo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laeditšego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "ntlheng ya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "gufu le"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Yoredane"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerikhoo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:04:39.872644496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בית בבית · שדה בשדה",
+      "rationale": "Go bušetwa ga lentšu ('ntlo le ntlo, temo le temo') bo bontšha bokgobokuni bja lefatshe; go hlwa ka Sepedi"
+    },
+    {
+      "kind": "you",
+      "subject": "le",
+      "rationale": "Bohloko bo aga go ba ba kopantšego matlo; 'le ka ba dirwa go dula le noši' ke addresso ya ka moso"
+    },
+    {
+      "kind": "crux",
+      "subject": "le noši",
+      "rationale": "כי תושבו לבדכם — go dula le noši bjalo ka kotlo, goba potšišo ya kganetšo: 'na le tla dula le noši?' (jalo KJV 'that they may be placed alone')"
+    }
+  ],
+  "translation": "Mahloko go ba ba kopantšego ntlo le ntlo, ba atamisantšego temo le temo, go fihla go no go se na sekgoba; le ka ba dirwa go dula le noši le gare ga lefase!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "61e2c11e0f8f5058643d2801dc4a7a76a076a82490f6108d8012de1a973b5479",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/5\/5-8.1792291322097.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "mahloko"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "go ba ba kopantšego"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "le ntlo"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "temo"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "le temo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ba atamisantšego"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "go no"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "go se na sekgoba"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "le ka ba dirwa go dula"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "le noši"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "le gare ga"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T02:42:02.098660851Z",
+  "model": "glm-5.3"
+}

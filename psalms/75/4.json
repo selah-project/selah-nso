@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mantšu a yona",
+      "rationale": "amudeha — dikholomo tša yona; KJV 'ke a tshegeditše', YLT 'ke nahane'; takhen = go ela, go tiisa — 'dikholomo' tša lefase tše di tiišeditšwego"
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "selah — letšatši la mmino, le bolokwa bjalo ka leina"
+    }
+  ],
+  "translation": "E thubega lefase le ba ba dulago go lona ka moka; nna ke tiisitše mantšu a yona. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/75\/1-4.1792298203785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "e thubega"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme ka moka"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "ba ba dulago go lona"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "ke tiisitše"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "mantšu a yona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:43.786705313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יראה חכמים",
+      "rationale": "'o bona ba hlalefi' kgatlhanong le ASV 'o tla bona' — thekgo: motho o a hloka bophelo go swana le ba hlaswa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wa mafahla",
+      "rationale": "בער ke phoofolo ya naga e tshwere — motho wa mafahla, go tšwa go go ja go swana le phoofolo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dithoto",
+      "rationale": "חיל le somišwa ka tshwaro ya banna le mohuta wa dithoto — sephetho se sengwe"
+    }
+  ],
+  "translation": "ka gobane ba hlalefi ba a hloka bophelo; ba phelane le setlaela le wa mafahla ba a timetša, gomme ba tloša ⟨את⟩ dithoto tša bona go ba bangwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/49\/9-12.1792297768492.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ba hlalefi"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ba a hloka bophelo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ba phelane"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "setlaela"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "le wa mafahla"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ba a timetša"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "gomme ba tloša"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "go ba bangwe"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "dithoto tša bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:28.493166565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke seswantšho sa mokgwa o mongwe — o ikantšha ka selifungo\/mokgwa wa go ja; 'moya' ke karolo e le nngwe ya bokeresera"
+    },
+    {
+      "kind": "idiom",
+      "subject": "mahlo a rena",
+      "rationale": "Seheberu se re 'mahlo a rena [a lebile] mane' — lentšu la lebadi le le llela go se ka la bolelwa"
+    }
+  ],
+  "translation": "Gomme bjale moya wa rena o omile; ga go na selo ka moka, ntle le mane feela — mahlo a rena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "73d9902b17819ec162fd40a284d040e9e9e0c134b0144232766925da6e66abb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/11\/5-8.1792284696298.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Gomme bjale"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "moya wa rena"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "o omile"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "selo ka moka"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המן",
+      "gloss": "mane"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "mahlo a rena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:51:36.298949090Z",
+  "model": "glm-5.3"
+}

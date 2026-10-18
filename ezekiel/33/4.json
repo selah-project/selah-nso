@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ושמע השמע",
+      "rationale": "go bušiša ga lefsa go utlwa — 'yo a utlwago a utlwa' — phetolelo e bolosa go bošwa ga lona"
+    },
+    {
+      "kind": "idiom",
+      "subject": "madi go hlogo ya gagwe",
+      "rationale": "דמו בראשו — idiom ya bohlelefare, 'madi a gagwe a tla ba go hlogo ya gagwe', tlwaelo ya Sepedi e e boloswa"
+    }
+  ],
+  "translation": "gomme yo a utlwago a utlwa ⟨את⟩ modumo wa šofara, eupša a sa ikgothya, gomme tšhoša e tla, e mo tšea — madi a gagwe a tla ba go hlogo ya gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8f1ca80d3354f7a00fa53d280ef366c2b80d30a1a1b53a3f36a03c07b561cf34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/33\/1-4.1792295354010.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "gomme yo a utlwago"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "a utlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo wa šofara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "wa šofara"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eupša ga"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "a ikgothya"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "gomme e tla"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "e mo tšea"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a gagwe"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "go hlogo ya gagwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a tla ba"
+    }
+  ],
+  "timestamp": "2026-10-18T03:49:14.012944537Z",
+  "model": "glm-5.3"
+}

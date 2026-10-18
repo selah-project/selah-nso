@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 7:5",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bahlogo",
+      "rationale": "החרים mo e bile 'bao ba hlwekileng', ka moya wa bohora; 'bahlogo' e tšere maemo, e sego sebopego sa lentšu"
+    },
+    {
+      "kind": "elision",
+      "subject": "le",
+      "rationale": "'le' magareng ga maina a le ana a tšwa go ואת fela; Sepedi e a e nyaka"
+    },
+    {
+      "kind": "measurement",
+      "subject": "go ngwalwa ka meloko",
+      "rationale": "temana e bolela go balwa le go ngwalwa ga setšhaba ka meloko ya lona"
+    }
+  ],
+  "translation": "Gomme Elohim wa ka a bea ka pelong ya ka, gomme ka kgoboketša ⟨את⟩ bahlogo le ⟨את⟩ baodiredi le ⟨את⟩ setšhaba, gore ba ngwalwe ka meloko ya bona; gomme ka hwetša puku ya meloko ya bao ba ilego godimo mathomong, gomme ka hwetša go ngwalwa go yona:",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "3faa8a65fb958e6202d4ce2d60438797229cfe7ffd8e8f727c1cbd9e4cfa07e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/7\/5-8.1792302522909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gomme a bea"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelong ya ka"
+    },
+    {
+      "surface": "ואקבצה",
+      "gloss": "gomme ka kgoboketša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahlogo"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "bahlogo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "baodiredi"
+    },
+    {
+      "surface": "הסגנים",
+      "gloss": "baodiredi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "להתיחש",
+      "gloss": "gore ba ngwalwe ka meloko ya bona"
+    },
+    {
+      "surface": "ואמצא",
+      "gloss": "gomme ka hwetša"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "puku"
+    },
+    {
+      "surface": "היחש",
+      "gloss": "ya meloko"
+    },
+    {
+      "surface": "העולים",
+      "gloss": "ya bao ba ilego godimo"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "mathomong"
+    },
+    {
+      "surface": "ואמצא",
+      "gloss": "gomme ka hwetša"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "go ngwalwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:48:42.910755394Z",
+  "model": "glm-5.3"
+}

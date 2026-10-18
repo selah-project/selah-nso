@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 10:8",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "⟨את⟩",
+      "rationale": "נתתים — aleph-tav e kopantšwe le sufikse; ⟨את⟩ e bolokwa bjalo ka sesupi sa sehleng."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yehoshua",
+      "rationale": "Yahwe a bolela ka goeletša go Yehoshua ka boomo."
+    }
+  ],
+  "translation": "Mme Yahwe a re go Yehoshua: O se ke wa ba tšhoga, ka gobane ke ne ke beile ⟨את⟩ bona ka moka moletsong wa gago; ga go ⟨ya⟩ no tša go ema ka pele ga gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1e74cfe1b550b7e57f9a04c7bd4fdb7dffe80dba1e8250f52c2697332bf47c0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/10\/5-8.1792286733730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wa ba tšhoga"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "moletsong wa gago"
+    },
+    {
+      "surface": "נתתים",
+      "gloss": "ke ne ke beile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ema"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨ya⟩"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "tša go"
+    },
+    {
+      "surface": "בפניך",
+      "gloss": "ka pele ga gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:25:33.732347166Z",
+  "model": "glm-5.3"
+}

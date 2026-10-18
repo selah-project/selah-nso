@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Pego ye e lebile Yahwe ka tlhamalalo — pitšo ya go tloga o eme"
+    },
+    {
+      "kind": "idiom",
+      "subject": "araka",
+      "rationale": "ארון ke lepokisi la kgwerano; 'araka' e tšwa go Afrikaans, e šomišwa ka gobane Sepedi ga se na lentšu la tšona"
+    }
+  ],
+  "translation": "Tloga o eme, Yahwe, go phumolong ya gago, wena le araka ya maatla a gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bb87b8b264bc7567d707878fb2682a94a531c35bd177531ffc0507c582e30ce3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/132\/5-8.1792298919482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "tloga o eme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "go phumolong ya gago"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "le araka"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "ya maatla a gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:39.483741626Z",
+  "model": "glm-5.3"
+}

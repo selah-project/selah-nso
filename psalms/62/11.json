@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to setšhaba",
+      "rationale": "Continued plural negative-imperative address from verse 9."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go kgapeletša",
+      "rationale": "עשק is unjust gain\/extortion; 'coerce' narrows it slightly."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ינוב",
+      "rationale": "נוב literally 'to sprout' — rendered 'bo atologa' (it increases); literal plant picture kept in sprouting."
+    }
+  ],
+  "translation": "Se ke wa tshepha go kgapeletša, gomme se ke wa ipela maikutlong ka se swebago; ge bohwa bo atologa, se ke wa bea pelo go bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/62\/9-12.1792298027784.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "tshepha"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "go kgapeletša"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "ka se swebago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "ipela maikutlong"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "bohwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "bo atologa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "bea"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:47.785867671Z",
+  "model": "glm-5.3"
+}

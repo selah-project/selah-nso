@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joel 4:21",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "נקה",
+      "rationale": "נקה e bolela 'go hlwekiša \/ go boela tlase hloko'; jps e re 'hold as innocent' — go latelwa hlwekišo ya madi ke gobane Yahwe o sa hlwekiše sehlwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "דמם לא נקיתי",
+      "rationale": "Boemo bja motšwedi: 'madi a bona ao ke sa a hlwekišago' kgotalo le 'madi ao ga ke a a hlwekiša' — karabo e itiragalela."
+    },
+    {
+      "kind": "elision",
+      "subject": "possessive pronoun",
+      "rationale": "Seheberu se na le suffix -ם fela; 'a bona' ke oketšego ya Sepedi ye e hlokagalago."
+    }
+  ],
+  "translation": "Gomme ke tlo hlwekiša madi a bona, ao ke sa wa hlwekišago; gomme Yahwe o dula go Tsiyone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6bc40d6388ef16b5ac0edee08774ba4a05b82c447dce6fa6ccb0baee84ae514d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/4\/21-21.1792296124937.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונקיתי",
+      "gloss": "gomme ke tlo hlwekiša"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "madi a bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ao ke sa ... go hlwekiša"
+    },
+    {
+      "surface": "נקיתי",
+      "gloss": "hlwekiša"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "gomme Yahwe"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "o dula"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "go Tsiyone"
+    }
+  ],
+  "timestamp": "2026-10-18T04:02:04.938401815Z",
+  "model": "glm-5.3"
+}

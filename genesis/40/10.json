@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 40:10",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu ga se na kopula go הבשילו ענבים; Sepedi e e nyaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שריגם",
+      "rationale": "שָׂרִיג ke lentšu la go kgokagana (tendril); 'manamana' ke kgokaganyo ya mohlaring"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כפרחת",
+      "rationale": "E ka bolela gape 'go fofa\/go phatlaganya'; mo go tšewego e le 'go thunya' bjalo ka mehla"
+    }
+  ],
+  "translation": "gomme mo mohlaringwoo go na le manamana a mararo; gomme o thunya, ditsoba tša wona a nameletše, gomme dihlopha tša wona di butšitše ⟨ke⟩ merara.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5aa624a094c94813c67bedcfcf6199a1e80a6779349b17110dbaf6226aa8d4b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/40\/10-11.1792304577133.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובגפן",
+      "gloss": "gomme mo mohlaringwoo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "a mararo"
+    },
+    {
+      "surface": "שריגם",
+      "gloss": "manamana"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "gomme o"
+    },
+    {
+      "surface": "כפרחת",
+      "gloss": "go thunya"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "a nameletše"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "ditsoba tša wona"
+    },
+    {
+      "surface": "הבשילו",
+      "gloss": "di butšitše"
+    },
+    {
+      "surface": "אשכלתיה",
+      "gloss": "dihlopha tša wona"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "merara"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:57.134144774Z",
+  "model": "glm-5.3"
+}

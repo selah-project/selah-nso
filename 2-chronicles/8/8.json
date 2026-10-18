@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 8:8",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויעלם",
+      "rationale": "'go hlwa' (Hiphil): KJV 'make to pay tribute' kgathanong le ASV\/JPS 'raise a levy of bondservants' — 'o ba dirile batho ba lefišwa' o tšerea mehuta ka bobedi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עד היום הזה",
+      "rationale": "'go fihlela lehono' — sedumo sa go bolela nako ya mongwadi, se feletšego ka 'הזה' (se)"
+    },
+    {
+      "kind": "elision",
+      "subject": "הזה",
+      "rationale": "'sehono' ha se dumelelwe; 'lehono' le se bolela ka boyona"
+    }
+  ],
+  "translation": "go tšwa go bana ba bona bao ba sa ilegoago ka morago ga bona lefatšeng, bao bana ba Yisraele ba sa ba feleng, Šelomo o ba dirile batho ba lefišwa ya go šoma go fihlela lehono.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "0cd70edb6853391723cb2988f4c5aaba27d706b0e18de56ecae86812517c383d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/8\/5-8.1792303845538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bana ba bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "נותרו",
+      "gloss": "ba sa ilegoago"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ka morago ga bona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefatšeng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "כלום",
+      "gloss": "ba feleng"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "o ba dirile"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "למס",
+      "gloss": "batho ba lefišwa ya go šoma"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-10-18T06:10:45.540024948Z",
+  "model": "glm-5.3"
+}

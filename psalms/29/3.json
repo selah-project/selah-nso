@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הרעים",
+      "rationale": "רעם ke go rutumulaka ga legodimo (kuetla ya lethabo); 'o kutunya' e ka se bontšhe ka botlalo tlhago ya lentšu le."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "על...על",
+      "rationale": "Boelelo bja 'godimo ga' (ka meetse gabedi) bo aga sebopego sa psaleme ye ka moka — lentšu la Yahwe le boela le boela godimo ga meetse."
+    }
+  ],
+  "translation": "Lentšu la Yahwe le godimo ga meetse; El wa tlotlo o kutunya; Yahwe o godimo ga meetse a mantsi.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a5630bbc0fb8c35c60ba4654d99003469185f1717f5ebdb7dc6a22dd5c4d04d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/29\/2-3.1792305221676.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "המים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "wa tlotlo"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "o kutunya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:41.677671253Z",
+  "model": "glm-5.3"
+}

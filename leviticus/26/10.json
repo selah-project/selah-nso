@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישן\/נושן",
+      "rationale": "Go bapana ga mokoedi: yashan (kgale) le noshan (go thathama) — medi e swanago, se hušegilego ka Sepedi"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נושן",
+      "rationale": "Lentšu le lennyane kudu go Tanakh; le hlantšha go Lebhitiku 26:10"
+    }
+  ],
+  "translation": "Le tla ja tša kgale tše thathamilego, gomme tša kgale le tšona le tla di ntšha ka lebaka la tša mpsha.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/26\/9-12.1792284241892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "le tla ja"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "tša kgale"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "tše thathamilego"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "le tša kgale"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "tša mpsha"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "le tla di ntšha"
+    }
+  ],
+  "timestamp": "2026-10-18T00:44:01.893740411Z",
+  "model": "glm-5.3"
+}

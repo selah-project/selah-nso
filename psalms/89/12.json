@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "magodimo ke a gago",
+      "rationale": "Seheberu se na le l- la kabelo fela; Sepedi se nyaka sebopego se feletšego"
+    },
+    {
+      "kind": "crux",
+      "subject": "תבל",
+      "rationale": "Tabhel — lefase leo le nago le batho, kgahlanong le ארץ (lefase ka botlalo)"
+    }
+  ],
+  "translation": "Magodimo ke ⟨a gago⟩, lefase le lengwe le le gona, lefase le boleng ba lona — wena obile motheo wa tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "946c26a8e3e0ef41ad038276dce8d054dd3cefb110f3bc993fdc296222af6faa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/9-12.1792298404643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ke ⟨a gago⟩"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "le"
+    },
+    {
+      "surface": "לך",
+      "gloss": "le le gona"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefase le boleng"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "le boleng ba lona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "o motheo wa tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:04.645608981Z",
+  "model": "glm-5.3"
+}

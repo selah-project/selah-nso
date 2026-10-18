@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבר \/ שבט",
+      "rationale": "Alliteration: 'o-robile... lesika... setholo' — Hebrew pairs שָׁבַר (break) with שֵׁבֶט (sceptre), sound-echo lost in Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "setholo",
+      "rationale": "שבט is a rod\/sceptre of rule; setholo (knob-stick of authority) carries the rule-image."
+    }
+  ],
+  "translation": "Yahwe o robile lesika la basebe, setholo sa ba laolago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/14\/5-8.1792291454439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "o robile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "lesika"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "la basebe"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "setholo"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "sa ba laolago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:44:14.440264255Z",
+  "model": "glm-5.3"
+}

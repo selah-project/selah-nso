@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "haggai 1:13",
+  "book": "haggai",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מלאך \/ במלאכות",
+      "rationale": "moruedi\/molaetša — both from root מלאך; Sepedi e a a hlakantšha ka mantšu a mabedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "מלאך",
+      "gloss-note": "",
+      "rationale": "'moruedi wa Yahwe' — barumiwa ba bangwe ba ngwala 'molekane' goba 'engeleng'; mona Khagaye ke moruedi yo a bonago."
+    },
+    {
+      "kind": "you",
+      "subject": "setšhabeng",
+      "rationale": "Lentšu le ya go setšhaba sa Israele: 'Nna ke le inywe.'"
+    }
+  ],
+  "translation": "Gomme Khagaye, moruedi wa Yahwe, ka molaetša wa Yahwe, a bolela setšhabeng a re: Nna ke ⟨את⟩ le inywe, go bolela Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f7d2a36647e6b3028af37d92440534d8f3e1da097a9aab117d35efa9bfefbd58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/haggai\/1\/13-15.1792296719982.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a bolela"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Khagaye"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "moruedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "במלאכות",
+      "gloss": "ka molaetša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "setšhabeng"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ le inywe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:11:59.982950153Z",
+  "model": "glm-5.3"
+}

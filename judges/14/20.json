@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a fiwa",
+      "rationale": "Hebrew has only 'and the wife of Shimshon was\/became' — passive 'was given' supplied from context"
+    },
+    {
+      "kind": "crux",
+      "subject": "רעה",
+      "rationale": "verb 'to associate\/pasture' vs noun רֵעַ 'friend' — KJV reads 'whom he had used as his friend'; rendered as 'who accompanied him'"
+    }
+  ],
+  "translation": "Gomme mosadi wa Shimshone a fiwa go molekane wa gagwe, yo a bego a mo tswalanya.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0e82f89d49566333ebdb213ace3cd87bdf72df11909ecdd54c129ca156ad9faf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/14\/17-20.1792287621676.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "a fiwa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "wa Shimshone"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "go molekane wa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "a bego a mo tswalanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:40:21.677967555Z",
+  "model": "glm-5.3"
+}

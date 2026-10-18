@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גמר עלי",
+      "rationale": "'yo a phethelago nna' — ba bangwe ba re 'yo a phethang tše ka moka bakeng sa nna' (KJV), ba bangwe 'yo a phethang go nna'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ל",
+      "rationale": "sekopanyi sa ל se feditšwe go liphetolelong tše pedi tsa lentšu"
+    }
+  ],
+  "translation": "Ke tla bitša Elohim yo a Phagamego, go El yo a phethelago nna ⟨ka botlalo⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/57\/1-4.1792297917601.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "ke tla bitša"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "yo a Phagamego"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "go El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "yo a phethelago"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:57.605598537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ngwana wa mafolofolo",
+      "rationale": "ילד ke ngwana\/motho yo monyenyane wa mengwaga; bakgologi ba šomiša 'youth' go e na le 'ngwana' fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבית הסורים",
+      "rationale": "temaneng ye e latelago: 'ntlo ya batswadi' goba 'ntlo ya baswitši' — dikgatlhano tša barutwi"
+    },
+    {
+      "kind": "elision",
+      "subject": "להזהר",
+      "rationale": "go hlaba ka lentsu ka mo go tlwaelegilego ga go na mo Sepedi; 'go laelwa' go bolela go amogela temošo"
+    }
+  ],
+  "translation": "Moo e lego gore e botse ngwana wa mafolofolo yo mohlanka gammogo le yo hlalephi, go feta kgoši ya bogolo yo sehlapi, yo a sa tsebego go laelwa gape.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "045fec749268d343a4a42f5e81aeb0e65c2239db708c9d75bfc8cccc23b26d2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/4\/13-16.1792301355593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "e botse"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ngwana wa mafolofolo"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "mohlanka"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "gammogo le yo hlalephi"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "go feta kgoši"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ya bogolo"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "yo sehlapi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tsebego"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "go laelwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-18T05:29:15.594215253Z",
+  "model": "glm-5.3"
+}

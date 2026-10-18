@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 18:10",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "loso lwa go kgetha",
+      "rationale": "גורל lebolela leswika la go kgetha; Sepedi se nyaka tlhaloso ye telele."
+    },
+    {
+      "kind": "measurement",
+      "subject": "go kgetha lefase",
+      "rationale": "Karolo ya lefase e kgethwa ka loso pele ga Yahwe — go laolwa ga lefase ka palo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויחלק \/ חלקים",
+      "rationale": "Tiriso ya lesomo 'go kgetha' e boela e boela thwii go karolo tše šupa tša sethlakana 9."
+    }
+  ],
+  "translation": "Gomme Yehoshua a rometše ba lapetše gašo go bona ka loso lwa go kgetha go Šilo, pele ga Yahwe; gomme a kgetha moo Yehoshua ⟨את⟩ lefase go bana ba Yisraele, go ya ka dikarolo tša bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c493f1256becf9b47b1bac5392b48829ee90e32e90b20f353b802aba993a2c54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/18\/9-12.1792286918918.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלך",
+      "gloss": "a rometše gašo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "loso lwa go kgetha"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "go Šilo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויחלק",
+      "gloss": "a kgetha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כמחלקתם",
+      "gloss": "go ya ka dikarolo tša bona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:28:38.919016441Z",
+  "model": "glm-5.3"
+}

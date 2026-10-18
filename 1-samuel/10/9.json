@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 10:9",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebete",
+      "rationale": "שכם ke mogala\/kutulu ya magetla — sebopego sa mmele, e sego 'morago' bjalo ka diphetolelo tše dingwe"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויהיה",
+      "rationale": "petitiona ya go ba gona e kopantšwe le 'gomme go bile' go ea phapanngwe"
+    }
+  ],
+  "translation": "Gomme ge a fetola ⟨את⟩ sebete sa gagwe go tlogela go ya go tšwa go Samuele, Elohim a fetolela yena pelo e nngwe, gomme masupi ohle a ile a tla letšatšing leo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a004ae1c86ab7e71dd760a3915358d6eaee7b31d1e41006ebb8fd68290b4adc2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/10\/9-12.1792288168234.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "gomme go bile"
+    },
+    {
+      "surface": "כהפנתו",
+      "gloss": "ge a fetola"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "sebete sa gagwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go tlogela go ya"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "a fetolela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "e nngwe"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "a ile a tla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "masupi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letšatšing"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:49:28.235172779Z",
+  "model": "glm-5.3"
+}

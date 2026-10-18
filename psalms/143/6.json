@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "נפש ke motho yo a hemago — moya wa ka; se se ne se tsewa bjalo ka botšoho."
+    },
+    {
+      "kind": "crux",
+      "subject": "עיפה",
+      "rationale": "'Lefase leo le phodileng' kgotalo 'lefase leo le nyakang meetse' — kahlolo ya seswantšho."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Selah — seka sa mmino, se sa fetolelwago."
+    }
+  ],
+  "translation": "Ke phutholositše matswalo a ka go wena; moya wa ka o lekana le lefase leo le phodileng — go wena, Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8819e593b95d1e83a7c349f50670be0586c1116177939e61aeaa365cf3685927",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/143\/5-8.1792299072310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "ke phutholositše"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matswalo a ka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "o lekana le lefase"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "leo le phodileng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:12.310807731Z",
+  "model": "glm-5.3"
+}

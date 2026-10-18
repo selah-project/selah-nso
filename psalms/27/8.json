@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לך אמר לבי",
+      "rationale": "Kganetšo ya ditlhahlobo: 'go wena pelo ya ka e boletše' (KJV\/ASV) kgatlhanong le JPS 'ka baka la gago pelo ya ka e re' — kamoo leswika le theilwego godimo ga lona"
+    },
+    {
+      "kind": "crux",
+      "subject": "בקשו פני",
+      "rationale": "Mareo a Tabernakèle a a nyakago: 'nyakang sefahleho sa ka' — ke lentšu la Modimo goba la pelo (YLT le tšea bjalo ka pelo e boleletše)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בקשו \/ אבקש",
+      "rationale": "Go boa ga lema בקש gabedi — nyaka\/ke tla nyaka — sephetho se bolokwa ka Sepedi ka go iphetša ga 'nyaka'"
+    }
+  ],
+  "translation": "Go wena pelo ya ka e boletše: Nyakang sefahleho sa ka; ⟨את⟩ sefahleho sa gago, Yahwe, ke tla nyaka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bfb86ccae671cc6f02ad03ad3f9e8963d96f8e6ab210d7fbd68bf39bd0fb6ad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/27\/5-8.1792297519410.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "e boletše"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "nyakang"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa gago"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ke tla nyaka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:19.411038010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ירא",
+      "rationale": "ירא ke go tšhaba le go hlwaela ka tšhwarelo; go tšhaba fela ga a bolele seo ka botlalo."
+    }
+  ],
+  "translation": "Gomme Ahaba a bitša Obadía, yoo a nago le boahlaodi ba ntlo; gomme Obadía o begile a tšhaba ⟨את⟩ Yahwe kudu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "781c82a8b834ea216c90b635122e729291a135ea44a2d53a3a05042c8dcdc845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/18\/1-4.1792290194151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitša"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadía"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "על",
+      "gloss": "a nago le boahlaodi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ba ntlo"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "gomme Obadía"
+    },
+    {
+      "surface": "היה",
+      "gloss": "o begile"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "a tšhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T02:23:14.152402009Z",
+  "model": "glm-5.3"
+}

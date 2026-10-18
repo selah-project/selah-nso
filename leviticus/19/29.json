@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 19:29",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תחלל",
+      "rationale": "'Profane\/defile' (חלל) — ge ke go dira molwadi fela, sebopego sa lentšu se lalela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "זמה",
+      "rationale": "Zimma: 'plan ye mpe' — maelwa\/bofile ka gobane lehlakore la 'go rera' le lalela gasemong"
+    }
+  ],
+  "translation": "O se ke wa hlokahatša ⟨את⟩ morwadiašo go mo dira molwadi, gore lefase le se ke la leka boswelwale, gomme lefase le tletše maelwa",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ef616b3eff02c2498714c46f417749b1024a742b318cd57e4444a415f5f0092d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/19\/29-32.1792284086191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "hlokahatša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwadiašo"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "morwadiašo"
+    },
+    {
+      "surface": "להזנותה",
+      "gloss": "go mo dira molwadi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gore … le se ke la"
+    },
+    {
+      "surface": "תזנה",
+      "gloss": "leka boswelwale"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "gomme … le tletše"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "maelwa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:41:26.192527390Z",
+  "model": "glm-5.3"
+}

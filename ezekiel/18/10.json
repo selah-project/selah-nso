@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ועשה אח מאחד מאלה",
+      "rationale": "KJV 'doeth the like to any one of these' vs YLT 'made a brother of one of these' — ŠHeberu se sa hlaka: 'a dira se sengwe sa tše'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "phukutšhi",
+      "rationale": "פריץ: motho wa moya wa phukutšhi, e sego feela 'mbi"
+    }
+  ],
+  "translation": "Gomme ge a belega morwa wa phukutšhi, mohladi wa madi, a dira se sengwe sa tše, goba go ba mohlanka wa boikokobetšo go ⟨את⟩ mongwe wa tšona —",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ffd20ef6ddcf965c3b45eae4b2b5725f59d06ed491a009ad6ae72b0daf73ba9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/18\/9-12.1792294721795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "gomme ge a belega"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "wa phukutšhi"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "mohladi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "wa madi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "אח",
+      "gloss": "mohlanka"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "mongwe"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "wa tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:38:41.796130468Z",
+  "model": "glm-5.3"
+}

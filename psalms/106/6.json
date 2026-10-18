@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עם אבותינו",
+      "rationale": "'le boholo ba rena' — 're beile dibe le boholo' (ra etsa seo ba se entseng le rena) kgahlanong le 'le bommagabolonag bolugile'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ra leka ka tsela e sego e tokologilego",
+      "rationale": "העוינו 'ra kgokga\/go loga' — modu wa go fapafapa, go ikokobetsa"
+    }
+  ],
+  "translation": "Re beile dibe le boholo ba rena, ra leka ka tsela e sego e tokologilego, ra etsa sebe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "398990a8f996e117e518ccdae18272d9e1a45132d9234326b9c1a547ffd75863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/5-8.1792298655862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "ra etsa sebe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "boholo ba rena"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "ra leka ka tsela e sego e tokologilego"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "ra bea sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:15.863416391Z",
+  "model": "glm-5.3"
+}

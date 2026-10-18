@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "palote",
+      "rationale": "Palo ya ba boa go leša la Babilona: 743."
+    },
+    {
+      "kind": "crux",
+      "subject": "Kirjath-Arima",
+      "rationale": "קרית ערים: mabapi le Kirjath-Jearim; Ezra o ngwala Arim yeo e sa tsejago gabotse."
+    }
+  ],
+  "translation": "Ba bana ba Kirjath-Arima, Kefira le Beerote, makgolo a šupa le masomenne le tharo;",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "0ece9f247fc9389dc70a2eafdf238c826ac8178609e7a8f081868a074b02842b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/2\/25-28.1792302106569.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ba bana ba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjath-"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "Arima"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Kefira"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "le Beerote"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "šupa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "le masomenne"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "le tharo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:41:46.569689651Z",
+  "model": "glm-5.3"
+}

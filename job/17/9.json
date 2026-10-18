@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 17:9",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yo a lokilego",
+      "rationale": "צדיק — 'yo a lokilego'; D2 e rera tsedeke bakeng sa צדק\/צדקה, mola mo e le motho yo a lokilego"
+    },
+    {
+      "kind": "crux",
+      "subject": "o oketša maatla",
+      "rationale": "יסיף אמץ: 'o oketša maatla' kgahlanong le 'o tla wa go ba maatla ka maatla' (KJV\/ASV 'stronger and stronger')"
+    }
+  ],
+  "translation": "Gomme yo a lokilego o tšeela tsela ya gagwe, gomme yo a nago diatla tše di hladifago o oketša maatla.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "122d8c4cace5ad6e33323bb6df7c09301d2feeef1c2442bf72109ff95e11faea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/17\/9-10.1792305370055.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאחז",
+      "gloss": "gomme o tšeela"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a lokilego"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tsela ya gagwe"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "gomme yo a hladifago"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "diatla"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "o oketša"
+    },
+    {
+      "surface": "אמץ",
+      "gloss": "maatla"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:10.055786730Z",
+  "model": "glm-5.3"
+}

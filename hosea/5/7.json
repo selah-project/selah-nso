@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 5:7",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חדש",
+      "rationale": "'kgwedi e mpsha' (new moon, JPS\/ASV) kgahlanong le 'kgwedi e tee' (a month, KJV) — mabapi le mamati a kgwedi e mpsha."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bana ba seswa",
+      "rationale": "זרים e bolela ba sego maloko — bana ba seswa, bana bao e sego ba monagano wa kgwerano."
+    }
+  ],
+  "translation": "Ba ile ba boša go Yahwe, ka gobane ba begetše bana ba seswa; bjale kgwedi e mpsha e tla ba ja, le ⟨את⟩ dikarolo tša tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/5\/5-8.1792295917971.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ba ile ba boša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "ba seswa"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ba begetše"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "e tla ba ja"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kgwedi e mpsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikarolo tša tšona"
+    },
+    {
+      "surface": "חלקיהם",
+      "gloss": "dikarolo tša tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:58:37.972058047Z",
+  "model": "glm-5.3"
+}

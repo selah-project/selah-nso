@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leboa le letona",
+      "rationale": "צפון (leboa) le ימין (tona, e legotebo) — Seheberu se bolla ka letoto la mahlakore, e sego ka maina a dikarogo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירננו",
+      "rationale": "modu wa go ritinita wa lenaka la go bina-bina; roromoka e nea seswantšho sa mmino"
+    }
+  ],
+  "translation": "Leboa le letona — o di bopile; Tabore le Heremone di a roromoka ka Leina la gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bd7c909ace50b8d7a0eefd8ecd82daebaa3f2d236bb70cb9c172f5a72315f6d2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/13-16.1792298407545.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Leboa"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "gomme le letona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "o di bopile"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tabore"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "gomme Heremone"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ka Leina la gago"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "di a roromoka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:07.545818548Z",
+  "model": "glm-5.3"
+}

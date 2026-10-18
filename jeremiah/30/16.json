@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 30:16",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אכל\/שסס\/בזז",
+      "rationale": "Kgutšo e diogang tša go ja le go phaša di bušetšwa godimo — 'ba jeo ba tla jea, ba phašago ba tla phašwa' — tlhaešo ya lex talionis e bolokilwe ka Sepedi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כלם",
+      "rationale": "'bo moka' ka botlalo go swana le bontši bja Seheberu; e ka ba bopego bja go boutša mongwe le mongwe."
+    }
+  ],
+  "translation": "Ka fao, ba ba go jego ka moka ba tla jea; gomme manaba a gago, bo moka, ba tla ya botšhabing; gomme ba ba go phašago ba tla ba phašwa; gomme ba ba go utswago ka moka ke tla ba nea go ba jeo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "99297e10cd8919fe9d434c72cf7f0c844a03727ca62dde7d34ca55c9554d468d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/30\/13-16.1792293571282.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka fao"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "אכליך",
+      "gloss": "ba ba go jego"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba tla jea"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme … bo"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "manaba a gago"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "moka"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "botšhabing"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba tla ya"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "gomme ba tla ba"
+    },
+    {
+      "surface": "שאסיך",
+      "gloss": "ba ba go phašago"
+    },
+    {
+      "surface": "למשסה",
+      "gloss": "phašwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme … ka moka"
+    },
+    {
+      "surface": "בזזיך",
+      "gloss": "ba ba go utswago"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla ba nea"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "go ba jeo"
+    }
+  ],
+  "timestamp": "2026-10-18T03:19:31.283642505Z",
+  "model": "glm-5.3"
+}

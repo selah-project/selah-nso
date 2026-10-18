@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא את ראש",
+      "rationale": "'Go lahlelala hloho' — modumo wa Seheberu ke 'go iša hloho godimo', e bolela go bala bontši; diphetoše tše dintši di re 'bala palo'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "go balela palo ya bana ba Kehate",
+      "rationale": "Temana ke taologo ya palo ya bongwadi bja baLefi."
+    },
+    {
+      "kind": "invitation",
+      "subject": "go Moshe le Aharone",
+      "rationale": "Mošomo yo o laelwa ka go direla; ke taelo go Moshe (go tšwa temaneng ya 1)."
+    }
+  ],
+  "translation": "Lahlelala ⟨את⟩ hloho ya bana ba Kehate, go tšwa gare ga bana ba Lefi, go ya ka dikgero tša bona, go ya ka malapa a bo-ntate ba bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "20e85e0e801fef21c30eb4f0a9199f520ce26d8a5d8ce3a6c94412fe60c24533",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/4\/2-3.1792304681059.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Lahlelala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hloho ya bana ba Kehate"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehate"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "go tšwa gare ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lefi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "go ya ka dikgero tša bona"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "go ya ka malapa"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "a bo-ntate ba bona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:41.060383279Z",
+  "model": "glm-5.3"
+}

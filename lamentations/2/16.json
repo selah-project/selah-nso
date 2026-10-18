@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 2:16",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ויחרקו שן",
+      "rationale": "Go rikgetha meno — go kgwathantšha meno ka boloi, sebopego sa go laela bokgoba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בלענו",
+      "rationale": "Bontši bja Sepedi bo oketšitšwe: Seheberu se re 're medile' ka botlalo (mme gona se bolela 'yena', e sego 'yena le mafase')."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שרקו ויחרקו",
+      "rationale": "Mokgwa wa go tšwalela dipolelo tše pedi tša go dupa — go khunama le go rikgetha — ditedu tša manaba ka moka."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yerushalayime",
+      "rationale": "Temana e bolela go morwadona wa Yerushalayime ka dikgetsi tša bobedi (עליך, אויביך)."
+    }
+  ],
+  "translation": "Manaba a gago ka moka ba butše ka bophara nomo ya go wena; ba khunameditše, ba rikgetha ⟨את⟩ meno; ba re: Re mo medile; ao, ke letšatši leo re le letilego; re le hwetše, re le bone.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "eea21ffc196c74ba2173bc6cba70147e9eba9135e0e542390e22fcaa406d0e34",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/2\/16-16.1792305384256.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "ba butše ka bophara"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "nomo ya bona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "manaba a gago"
+    },
+    {
+      "surface": "שרקו",
+      "gloss": "ba khunameditše"
+    },
+    {
+      "surface": "ויחרקו",
+      "gloss": "ba rikgetha"
+    },
+    {
+      "surface": "שן",
+      "gloss": "meno",
+      "marks": "meno"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "בלענו",
+      "gloss": "re mo medile"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ao"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "שקוינהו",
+      "gloss": "re le letilego"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "re le hwetše"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "re le bone"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:24.257369650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 22:10",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yehuda \/ setšhaba",
+      "rationale": "Maemo a a laelago (lelang, le se ke) a bolela go setšhaba sa Yuda."
+    },
+    {
+      "kind": "crux",
+      "subject": "yo a hwilego le yo a sepelago",
+      "rationale": "למת (Josia yo a hwilego, yo a lokišeditšwego phokgo) kgahlanong le להלך (Shalume yo a hlakantšhitšwego Egypta); baphetoleli ba fapana gore ke mang yo a hwilego."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בכו בכו",
+      "rationale": "Go boela ga lentšu — go lla ka kgotlelelo; phetolelo ya Sepedi e boetše e boele 'lelang, lelang'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תנדו",
+      "rationale": "נוד ke go tšhikhinya tlhago (go nyenyegela mo nelong); 'tšhikhinyetša ditlhago' e boloka seswantšho."
+    }
+  ],
+  "translation": "Lelang lehu, gomme le se ke la tšhikhinyetša ditlhago go ⟨ye a hwilego⟩; lelang, lelang go yo a sepelago, ka gobane o ka se boele gape, gomme a ka se bone ⟨את⟩ lefase la go belega ga gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "68e313fa423846f545e34bf1cd0b4e2cc22250a1989a922465a63d0384f1e1cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/22\/9-12.1792293307476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "la lela"
+    },
+    {
+      "surface": "למת",
+      "gloss": "go yo a hwilego"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme le se ke"
+    },
+    {
+      "surface": "תנדו",
+      "gloss": "la tšhikhinyetša ditlhago"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go enwa"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "lelang"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "lelang"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "go yo a sepelago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "a ka se boele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "gomme a ka se bone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "la go belega ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:15:07.477174174Z",
+  "model": "glm-5.3"
+}

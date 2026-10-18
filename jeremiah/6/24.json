@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 6:24",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמענו\/שמעו",
+      "rationale": "go kwa (še-ḥemáʿnu) le repute (še-moʿa) — modu o boeleditšwego, se se laelago ke mmegakgota, se se lahlilego ka Sepedi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "רפו ידינו",
+      "rationale": "dikgolofatšo tša Seheberu tša 'go fokotša maatla a diatla' = go wela mafofong, go raša; e fetoletšwe ka go hlologa go ya ntle le go hlofalomola"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צרה",
+      "rationale": "'go kgama ga mošutu' — go swanetše go swara le bothata, go se nalane le go kgama ga mošutu"
+    }
+  ],
+  "translation": "Re kwetše ⟨את⟩ repute ya yona, diatla tša rena di ile tša hlofalomola; bothata bo re tsere, botlhoko bjalo ka la mosadi yo a belegago.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "bf62206f3edc7c5e8e4bc40ab1a0f2a4933bb5b27eb5c88beb4318f283313d08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/6\/24-24.1792305026698.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמענו",
+      "gloss": "Re kwetše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "repute ya yona"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "repute ya yona"
+    },
+    {
+      "surface": "רפו",
+      "gloss": "di ile tša hlofalomola"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "diatla tša rena"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "bothata"
+    },
+    {
+      "surface": "החזיקתנו",
+      "gloss": "bo re tsere"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "botlhoko"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "bjalo ka la mosadi yo a belegago"
+    }
+  ],
+  "timestamp": "2026-10-18T06:30:26.699214140Z",
+  "model": "glm-5.3"
+}

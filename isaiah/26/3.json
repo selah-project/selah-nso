@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שלום שלום",
+      "rationale": "go boelediša ga 'kagiso, kagiso' — khutšo ye tiilego ka go boelediša"
+    },
+    {
+      "kind": "crux",
+      "subject": "יצר סמוך",
+      "rationale": "ye e sego ya pelaelo: mohopolo o theogilego go wena (leina) goba 'o šireletša mohopolo o theogilego' (taelo)"
+    }
+  ],
+  "translation": "Mohopolo o theogilego go wena, o o šireletšago kagiso — kagiso, gobane o tshephegiša go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c6631b478f19035b9145ed4ef31e301360bfa1bb9d389280d368b7fa869e7f3b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/26\/1-4.1792291723263.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "mohopolo"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "o theogilego"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "o šireletšago"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "o tshephegiša"
+    }
+  ],
+  "timestamp": "2026-10-18T02:48:43.264038785Z",
+  "model": "glm-5.3"
+}

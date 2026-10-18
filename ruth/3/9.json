@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "pharolla lephego la gago",
+      "rationale": "פרש כנף — go pharolla lephego la diaparo godimo ga motho ke seswantšho sa tšhireletšo le lenyalo (Dif. 16:8); literal e ka hlaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mogoelani",
+      "rationale": "גואל — mohlokomedi wa lotso go ya ka molao, a kgona go boela lefase goba go nyala mohlanka wa yena o hlokilego"
+    },
+    {
+      "kind": "you",
+      "subject": "Boase go Rute",
+      "rationale": "potšišo ya go ithaeba — 'Ke mang wena?' — gomme Rute o araba ka go ithaeba Boase"
+    }
+  ],
+  "translation": "Gomme a re: Ke mang ⟨wena⟩? Gomme yena a re: Ke nna Rute, mošomi wa gago wa mosadi; pharolla lephego la gago godimo ga mošomi wa gago wa mosadi, ka gobane wena ke mogoelani.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5ad07fb4d443009a91fc14b91094c8ce705cc209cff39ba028e2d246c041f243",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ruth\/3\/9-12.1792301058987.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena",
+      "marks": "wena"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "gomme yena a re"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rute"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "mošomi wa gago wa mosadi"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "pharolla"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "lephego la gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "mošomi wa gago wa mosadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "mogoelani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:24:18.988172069Z",
+  "model": "glm-5.3"
+}

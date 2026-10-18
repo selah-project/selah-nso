@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bogobe",
+      "rationale": "lekhem ke bogobe ka Sepedi ka mehla (D4); bontši bja ditlhalo bo bolela dijo ka bophara"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bakeng sa⟩",
+      "rationale": "'al-phei' e bolela 'go ya ka', e sego sehlare se hlabago bakeng sa motho"
+    }
+  ],
+  "translation": "O a ditsholla mongwe wa diruiwa, gomme sehlare bakeng sa mošomo wa motho, go ntšha bogobe go tšwa lefaseng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/13-16.1792298585293.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "o a ditsholla"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "mongwe"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "diruiwa"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "gomme sehlare"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "mošomo wa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "go ntšha"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:05.294009678Z",
+  "model": "glm-5.3"
+}

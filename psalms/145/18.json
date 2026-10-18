@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Copula ye Sepedi e e nyakago; Seheberu sebolela fela 'kgauswi'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרוב\/יקראהו",
+      "rationale": "KAROV (kgauswi) le YIKRA'UHU (ba mo bitša) — modumo o tšwago go KR\/'R; ga o utolale Sepedi"
+    }
+  ],
+  "translation": "Yahwe o kgauswi le bao ba mo bitšago ka moka, le bao ka moka ba mo bitšago ka nnete.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/145\/17-20.1792299103647.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "o kgauswi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "le … ka moka"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "bao ba mo bitšago"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "le bao ka moka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "ba mo bitšago"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ka nnete"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:43.648572753Z",
+  "model": "glm-5.3"
+}

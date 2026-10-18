@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 8:14",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go lebala",
+      "rationale": "ושכחת is 'you forget' — a deliberate act of neglect, rendered with the plain Sepedi verb."
+    },
+    {
+      "kind": "addition",
+      "subject": "yena yo",
+      "rationale": "Sepedi needs the resumptive pronoun to render the participle המוציאך as a relative clause."
+    }
+  ],
+  "translation": "pelo ya gago e tloga e phahama, gomme wa lebala ⟨את⟩ Yahwe Elohim wa gago, yena yo a go ntšhago lefasing ya Mitsrayime, le gae la bohlanka;",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "dd6fbb2a5ed679a18fc009a8b9828b2fe39d80c1b2a6f547c759f1104f1e8e45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/8\/13-16.1792285721033.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "e tloga e phahama"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "ושכחת",
+      "gloss": "gomme wa lebala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "המוציאך",
+      "gloss": "yena yo a go ntšhago"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefasing"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ya Mitsrayime"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "le gae la"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bohlanka"
+    }
+  ],
+  "timestamp": "2026-10-18T01:08:41.035601153Z",
+  "model": "glm-5.3"
+}

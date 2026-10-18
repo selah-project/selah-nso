@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 18:24",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להתרעע",
+      "rationale": "Bafoledi ba fapana: KJV 'o swanetše go bontšha botho' kgathanong le ASV\/JPS 'go ya go senyegelwa gagwe' — lentšu le bolela go senyega"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Sepedi se nyaka ⟨go⟩ pele ga go senyega; Seheberu se na le seshupa-temana fela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kgaetšedi",
+      "rationale": "מאח ke kgaetšedi ya motho — lentšu le šumišwa ka bophara go akaretša motswalle wa lefase"
+    }
+  ],
+  "translation": "Motho wa ditsala tše dintši ⟨go⟩ senyega; gomme go na le motswalle yo a kgomaretšego kudu go kgaetšedi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e4af18e36e0975735f481dfd132b2d83c359484072359cc04906a397d4e002ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/18\/21-24.1792299550056.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Motho wa"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ditsala tše dintši"
+    },
+    {
+      "surface": "להתרעע",
+      "gloss": "go senyega"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "gomme go na le"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "motswalle yo a ratago"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "yo a kgomaretšego kudu"
+    },
+    {
+      "surface": "מאח",
+      "gloss": "go kgaetšedi"
+    }
+  ],
+  "timestamp": "2026-10-18T04:59:10.057142809Z",
+  "model": "glm-5.3"
+}

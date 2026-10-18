@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopula ye Seheberu se sa e nago"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אירא\/אפחד",
+      "rationale": "Mantšu a mabedi a go tlaša a phetišwa go bontšha tihelo, phetišo yeo e laela ditemaneng tše pedi tša peomolao"
+    }
+  ],
+  "translation": "Ya Dafida. Yahwe ⟨ke⟩ lesedi la ka le pholosego ya ka — ke tla tlaša mang? Yahwe ⟨ke⟩ mafiša-matla a bophelo bja ka — ke tla tlaša mang?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9cfc6d4e5dc90945a0a5571075fff462d5c1b6f14d31fe82df068b28f2d63e5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/27\/1-4.1792297502022.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dafida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "lesedi la ka"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "le pholosego ya ka"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ke tla tlaša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "mafiša-matla"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "a bophelo bja ka"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ke tla tlaša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:02.023524119Z",
+  "model": "glm-5.3"
+}

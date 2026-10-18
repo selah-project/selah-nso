@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יאר",
+      "rationale": "Ye'or is the Nile specifically; most versions keep it vague ('a flood') — Sepedi keeps Nilo."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Ke mang yena",
+      "rationale": "Rhetorical question that pulls the hearer in and is answered in v. 8: Egypt."
+    }
+  ],
+  "translation": "Ke mang yena yo a goago bjalo ka Nilo, bjalo ka dinoka a tagašago meetse a gagwe?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "099de369b38be0297e87452360f8fd24011f05e5a0d1937fbdce116c97513186",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/46\/5-8.1792293959435.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ke mang"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "bjalo ka Nilo"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "a goago"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "bjalo ka dinoka"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "a tagašago"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "meetse a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:25:59.436048123Z",
+  "model": "glm-5.3"
+}

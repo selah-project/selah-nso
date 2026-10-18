@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 10:1",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke modumo wa bophelo\/theko, e sego 'moya' wa Sesotho-kgetho; mme ga go lentšu le tee la Sepedi le e swanago ka botlalo"
+    },
+    {
+      "kind": "you",
+      "subject": "go Iyobo",
+      "rationale": "poledišano ye ke pelaelo ya Iyobo ya go bolela le Eloha"
+    }
+  ],
+  "translation": "Ka bophelo bja ka moya wa ka o a bo hloile; ke tlo lokolla polelo ya ka godimo ga ⟨ka⟩; ke tlo bolela ka botuku bja moya wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5c6d878a811646b7a88878299167ae17e98b8886ae2974951a2f13d18b536515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/10\/1-4.1792300248600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקטה",
+      "gloss": "o a bo hloile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ka bophelo bja ka"
+    },
+    {
+      "surface": "אעזבה",
+      "gloss": "ke tlo lokolla"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga ka"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "polelo ya ka"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ke tlo bolela"
+    },
+    {
+      "surface": "במר",
+      "gloss": "ka botuku bja"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:10:48.601017092Z",
+  "model": "glm-5.3"
+}

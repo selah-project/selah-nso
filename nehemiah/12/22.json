@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 12:22",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikgoši tša malapa",
+      "rationale": "ראשי אבות literally 'heads of fathers', i.e. family heads; dikgoši renders the chief-head sense"
+    },
+    {
+      "kind": "crux",
+      "subject": "על מלכות",
+      "rationale": "'upon\/over the kingdom' — 'in the reign of' (KJV\/JPS) vs 'to the reign of, until' (KJV margin); rendered 'ka bogoshi bja'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלכות",
+      "rationale": "Sepedi bogosi with š per D4c — bogoši keeps the š-rail"
+    }
+  ],
+  "translation": "Balefi ka matsatsing a Elijashibe, a Jojada, a Jochanane le a Jadhua, ba ngwalwa bjalo ka dikgoši tša malapa, gape baperisita, ka bogoshi bja Darhuše Moperisia.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2cc3f354f7477ca4fc8f704413aef9a6216d9219312c52c39dbdc42dfc03a820",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/12\/21-24.1792302725818.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוים",
+      "gloss": "Balefi"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ka matsatsing a"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Elijashibe"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jojada"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "le a Jochanane"
+    },
+    {
+      "surface": "וידוע",
+      "gloss": "le a Jadhua"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "ba ngwalwa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "bjalo ka dikgoši"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "tša malapa"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "gape baperisita"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "bogoshi bja"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "Darhuše"
+    },
+    {
+      "surface": "הפרסי",
+      "gloss": "Moperisia"
+    }
+  ],
+  "timestamp": "2026-10-18T05:52:05.819586821Z",
+  "model": "glm-5.3"
+}

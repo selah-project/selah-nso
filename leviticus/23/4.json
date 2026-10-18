@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Tše ke",
+      "rationale": "Sepedi e nyaka kopula ⟨ke⟩ yeo Seheberu se e se nago"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מוקראי\/תקראו",
+      "rationale": "Go boa ga modu wa q-r-': mešomo yeo le e bitšago — papiso yeo e tutuetšego ka Sepedi ka go bitša"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מועדים",
+      "rationale": "dinako tše tšehetšego — sebopego sa 'nako yeo e tšehetšego' se bolokwa, e sego fela 'mahlatse'"
+    }
+  ],
+  "translation": "Tše ke dinako tše tšehetšego tša Yahwe, mešomo ya bokgethwa, yeo le ka e bitšago ka dinako tša tšona tše tšehetšego.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e2e96ea990c3cedd61efd1189685b6c31c76ac197a8c7536bb9b64aaa7880f67",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/23\/4-4.1792304660022.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Tše"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "dinako tše tšehetšego tša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "mešomo ya bokgethwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "le ka e bitšago"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "e (dinako tše tšehetšego)"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "ka dinako tša tšona tše tšehetšego"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:20.023855474Z",
+  "model": "glm-5.3"
+}

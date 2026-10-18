@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 25:33",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כלתני",
+      "rationale": "root כלא 'to restrain\/hold back' — 'you restrained me' (wycliffe, ylt) vs 'kept me' (kjv) vs 'kept me from bloodguiltiness' (asv\/jps, reading בדמים as guilt)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "here את is not the H853 direct-object marker but the 2fs independent pronoun 'you' (lemma אַתָּה), so no ⟨את⟩ marker is rendered."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mabapi le go itšhireletša",
+      "rationale": "והשע ידי לי literally 'and withheld my hand for myself' — taken as 'kept my hand from striking for me'."
+    }
+  ],
+  "translation": "Gomme teboho ya gago e a utollowa, gomme wena o a utollowa, yo lehono o nkiletšego go tsena ka mading le go ntšha seatla sa ka go ka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1c815526323512d4e74d506d6dfb3ff207a74f9dc9281d34f1f68b575073f572",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/25\/33-36.1792288687956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "gomme e a utollowa"
+    },
+    {
+      "surface": "טעמך",
+      "gloss": "teboho ya gago"
+    },
+    {
+      "surface": "וברוכה",
+      "gloss": "gomme wena o a utollowa"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "כלתני",
+      "gloss": "o nkiletšego"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "še"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "go tsena"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ka mading"
+    },
+    {
+      "surface": "והשע",
+      "gloss": "le go ntšha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go ka"
+    }
+  ],
+  "timestamp": "2026-10-18T01:58:07.957277519Z",
+  "model": "glm-5.3"
+}

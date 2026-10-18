@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go feta",
+      "rationale": "מן ya go bapetša e nyakwa ke Sepedi; Seheberu se bua fela 'go se ikanetše … go ikanetša gomme o sa phethe'."
+    }
+  ],
+  "translation": "Go botse seo o sa go ikanetšego, go feta go ikanetša gomme o sa phethe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "673c0bdcb3d48faa53297bc9d5e2aee1f7d214ecc60a1d397cb7399cae0c6460",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/5\/1-4.1792301407042.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go botse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "go se"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "go ikanetša"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "go feta go ikanetša"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme go se"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "go phetha"
+    }
+  ],
+  "timestamp": "2026-10-18T05:30:07.043899432Z",
+  "model": "glm-5.3"
+}

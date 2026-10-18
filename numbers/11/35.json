@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 11:35",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Kibroth-ha-Taava",
+      "rationale": "Leina le ra go re 'mabitla a takatšo' — e bolokwa bjalo ka leina la lefelo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויהיו → ba dula",
+      "rationale": "Seheberu se re fela 'ba be\/ba ba gona'; 'ba dula' ke mošomo wa maemo ao a pratika"
+    }
+  ],
+  "translation": "Go tšwa go Kibroth-ha-Taava setšhaba se ile sa nakwa go Hazerote, gomme ba dula go Hazerote.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c156d39e312a48352e80db991995bd128d659bb437f2d6dd24afb76e08163588",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/11\/35-35.1792304658310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקברות",
+      "gloss": "Go tšwa go Kibroth-ha-"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "Taava"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "sa nakwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "Hazerote"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "gomme ba dula"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "go Hazerote"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:18.311491807Z",
+  "model": "glm-5.3"
+}

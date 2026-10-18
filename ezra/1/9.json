@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אגרטל",
+      "rationale": "agartala — lentšu le lela mo fela ga Tanakh; leina la sedinela se se sa tsejwego gabotse, le hlantilwe ka modumo wa lona."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sephatlalatswa",
+      "rationale": "Temana ke lenane la dilo: 30 + 1000 + 29 — go bala dilo tša tempole."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מחלפים",
+      "rationale": "Sepedi ga se na lentšu le tee; 'dithipa tša sehlabelo' — thipa ya go hlabela, e theogile go 'go thelela ka pela nama'."
+    }
+  ],
+  "translation": "Gomme sephatlalatswa sa tšona go sego tše di agartale tša gauta masometharo, agartale tša silibera sekete, dithipa tša sehlabelo senyane le masomepedi.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "003003a3a0c6e0a46b92bf4d4563bcb04cc632ef077ec6a0262f84219e745832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/1\/9-11.1792302128076.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Gomme tše"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "sephatlalatswa sa tšona"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "agartale"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tša gauta"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "masometharo"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "agartale"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tša silibera"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "dithipa tša sehlabelo"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "senyane"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "gomme masomepedi"
+    }
+  ],
+  "timestamp": "2026-10-18T05:42:08.076922636Z",
+  "model": "glm-5.3"
+}

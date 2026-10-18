@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na sebopego sa kopu; Sepedi se se nyaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קדמה מזרחה",
+      "rationale": "Go boelediwa ga bochabela ga bobedi — qedem (pele) le mizrah (go tsoga ga letšatši) — taelo ya mabothokgare"
+    },
+    {
+      "kind": "measurement",
+      "subject": "di-ama tše masomehlano",
+      "rationale": "Palo ya kgetho ya bophara bja patlelo"
+    }
+  ],
+  "translation": "Gomme bophara bja patlelo ka thoko ya bochabela, ka bohlabja, ⟨ke⟩ di-ama tše masomehlano.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "dc8668085df65353908d473a91944ef7c45c8f0d766a4233bf3f3956c442abb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/27\/13-16.1792283062776.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "bophara"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "patlelo"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "thoko ya"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "bochabela (ya pele)"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "bohlabja"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masomehlano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "di-ama"
+    }
+  ],
+  "timestamp": "2026-10-18T00:24:22.776798945Z",
+  "model": "glm-5.3"
+}

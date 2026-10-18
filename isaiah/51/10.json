@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 51:10",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "את",
+      "rationale": "Ke sebopego sa sesadi sa `אתה` (wena), e sego lesupo la ⟨את⟩ la H853."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bodibo",
+      "rationale": "`תהום` ke meetse a motalatala a go phaphamala, a ntshepelela; `bodibo` ke kgethišo ye e sego botlalo."
+    }
+  ],
+  "translation": "A ga wena yena yo o omisitšego lewatle, meetse a bodibo bogolo; yo a dirilego dikgoba tše tebileng tša lewatle tsela ya gore bao ba golotšwego ba di faloditše?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e5ac8a98696d3e7742f23015c59ce496e0adf778b3fb323398ae4a5afe755ca6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/51\/9-12.1792292389463.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "המחרבת",
+      "gloss": "yo o omisitšego"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "מי",
+      "gloss": "meetse a"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "bodibo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "bogolo"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "yo a dirilego"
+    },
+    {
+      "surface": "מעמקי",
+      "gloss": "dikgoba tše tebileng tša"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "go faloditša"
+    },
+    {
+      "surface": "גאולים",
+      "gloss": "bao ba golotšwego"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:49.464206883Z",
+  "model": "glm-5.3"
+}

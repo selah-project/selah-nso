@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "betsedeke go bolokwa bjalo ka tsedeke go ya ka D2, e sego tokomolao fela"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": " Sepedi se nyaka sereti se sengwe go kgoboketša merero"
+    }
+  ],
+  "translation": "Gomme yena o tla kahlola lefase ka tsedeke, o tla kahlola setšhaba ka toka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9a0855fdb81753b149b2408f8975a12bebd5998c0a8072e84db230f89537978c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/9\/9-12.1792297229089.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "gomme yena"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "o tla kahlola"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ka tsedeke"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "o tla kahlola"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ka toka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:29.089567230Z",
+  "model": "glm-5.3"
+}

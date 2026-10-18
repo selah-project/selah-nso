@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 1:18",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Hebrew pronoun הוא with no verb; Sepedi requires the copula."
+    },
+    {
+      "kind": "crux",
+      "subject": "פיהו מריתי",
+      "rationale": "'his mouth I have rebelled against' — 'mouth' stands for command\/word; some render 'his command', others keep the literal body part."
+    },
+    {
+      "kind": "invitation",
+      "subject": "thekgang… le bone",
+      "rationale": "Imperatives address all peoples directly, summoning them to witness."
+    },
+    {
+      "kind": "you",
+      "subject": "ditšhaba ka moka",
+      "rationale": "Direct address to all the nations as addressee."
+    }
+  ],
+  "translation": "Yahwe ⟨ke⟩ wa lokile, ka gobane ke ganeletše molomo wa gagwe; thekgang, ka kopa, ditšhaba ka moka, gomme le bone bohloko bja ka; dikgarebe tša ka le bashanyana ba ka ba ile sekgotoong.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b6d838e68d376c7966ba354f7d79a3fc7ae665900c485c2290e6d0aed777290c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/1\/17-20.1792301217199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "wa lokile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "molomo wa gagwe"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "ke ganeletše"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "thekgang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ka kopa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "gomme le bone"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "bohloko bja ka"
+    },
+    {
+      "surface": "בתולתי",
+      "gloss": "dikgarebe tša ka"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "le bashanyana ba ka"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ba ile"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "sekgotoong"
+    }
+  ],
+  "timestamp": "2026-10-18T05:26:57.200055225Z",
+  "model": "glm-5.3"
+}

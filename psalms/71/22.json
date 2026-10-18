@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sešomišwa sa mmino",
+      "rationale": "נבל ke sešomišwa sa dithō tše tharo (psaltery); Sepedi ga se na lentšu la lona, ka gona tlhalošo e šomišitšwe."
+    },
+    {
+      "kind": "crux",
+      "subject": "אמתך",
+      "rationale": "Ketelo e beilwe nneteng (ya gago) goba go Elohim ka boena; kgokagano ya mantšu a Seheberu e dula e sa hlaka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Mokgethwa",
+      "rationale": "קדוש wo — go ya le D2, go se go halalela (Sesotho); motho wo Elohim a mo kgethilego."
+    }
+  ],
+  "translation": "Le nna ke tla go leboga ka sešomišwa sa mmino, nnete ya gago, Elohim wa ka; ke tla go opela ka kinora, Mokgethwa wa Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9eae377d08fa422a71de1313d2bb2fc5b61164dda0f551778d99eed8940867dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/71\/21-24.1792298076815.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ke tla go leboga"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ka sešomišwa"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "sa mmino"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "nnete ya gago"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla go opela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kinora"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Mokgethwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:36.816656693Z",
+  "model": "glm-5.3"
+}

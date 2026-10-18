@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a gagabatša",
+      "rationale": "ורעם ke modumo wa go gagabala ga lekadiba; Sepedi o diriša go gagabatša go swaya modumo wo o tseneletseng."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "keke le magala a mollo",
+      "rationale": "Sethoapego sa v13 se boeletšwa ka botlalo mo v14 — kgopolo ya go anega ga lentšu la Yahwe."
+    }
+  ],
+  "translation": "Gomme Yahwe o ile a gagabatša magodimong, gomme Ea Phahamilego o file ⟨lentšu⟩ la gagwe: keke le magala a mollo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "608c6fed06f7833bbbefd115254c0e4e2e7d5951059d2364ce59478d255b4ba9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/18\/13-16.1792297348515.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "a gagabatša"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "magodimong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "Ea Phahamilego"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o file"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "⟨lentšu⟩ la gagwe"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "keke"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "le magala"
+    },
+    {
+      "surface": "אש",
+      "gloss": "a mollo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:28.516349631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lekatikatharu",
+      "rationale": "עד עולם bolela nako yeo e sego mafelelo — go balelwa ka moloko ka moloko go fitlhela lekatikatharu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדר ודור",
+      "rationale": "Boeletši bja moloko-moloko bja Seheberu, bo feletše bo fetološwa ka 'molokong le moloko'."
+    }
+  ],
+  "translation": "Go fihla lekatikatharung ke tla ikemiša peu ya gago, gomme ke tla aga setulo sa bogoši sa gago molokong le moloko. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "178bf9212f44ae038112b02baed77b9860670dd0c53b0eba6cac22ba3f622af4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/5-8.1792298394913.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "lekatikatharung"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ke tla ikemiša"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peu ya gago"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "gomme ke tla aga"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "molokong"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "le moloko"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "setulo sa bogoši sa gago"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:54.913879461Z",
+  "model": "glm-5.3"
+}

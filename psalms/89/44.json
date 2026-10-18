@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sephara",
+      "rationale": "צור ka boyona ke leswika; mo e bolela sephara sa tšhošo — ba bangwe ba phetolla 'o boeditše sephara', ba bangwe 'o kgomoretše'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "o kgomoretše sephara",
+      "rationale": "צור חרבו — go boela morago sephara sa tšhošo, go senya matla a yona ya go baakanya"
+    }
+  ],
+  "translation": "E le gore o kgomoretše sephara sa tšhošo ya gagwe, gomme o sa mo emiše ntweng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "53f8ee8a217282c258cbd10cf0f993670adb04c6fd1e20abb763a908477986d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/41-44.1792298375919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "e le gore"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "o kgomoretše"
+    },
+    {
+      "surface": "צור",
+      "gloss": "sephara"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sa tšhošo ya gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o sa"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "mo emiše"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "ntweng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:35.920512733Z",
+  "model": "glm-5.3"
+}

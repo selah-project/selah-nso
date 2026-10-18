@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bolawa",
+      "rationale": "ארצח ke go bolaya motho (go tlola bolaya), e sego bolao fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פי זרות",
+      "rationale": "Moikhafetsi o hlama taung yeo e sego gona bjalo ka sebaka sa go se šome — sefoko se bolela bomenetša"
+    }
+  ],
+  "translation": "Moikhafetsi o re: Tau e ka ntle; gare ga ditsela tše bopegago ke tla bolawa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "de8831d75770576f1e06bb16dbb363391bbe0c6b65e0b9c0fc3ef89848958bfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/22\/13-16.1792299636494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "moikhafetsi"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "tau"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "ditsela tše bopegago"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "ke tla bolawa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:36.494563558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seatla",
+      "rationale": "זרוע ke letšatši la seatla la maatla — mo sebopego sa go kgaola se bolokwa: kgaolo ya seatla e bolela go wa maatla a ntlo ya boperisita."
+    },
+    {
+      "kind": "addition",
+      "subject": "go",
+      "gloss": "gore go se be",
+      "rationale": "מהיות זקן mokgwa wa Seheberu wa go hlatholla; Sepedi o nyaka gore go se be."
+    }
+  ],
+  "translation": "Bonang, go na le matsatsi a a tlang, gomme ke tla kgaola ⟨את⟩ seatla sa gago le ⟨את⟩ seatla sa nago ya ntataho wa gago, gore go se be motho yo a godilego ka nagong ya gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a38aa30a577eb2b6750a123445f5761feae53c54164958815e18a0aeafb4f510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/2\/29-32.1792287918971.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "a a tlang"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "gomme ke tla kgaola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seatla sa gago"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "seatla sa gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "seatla sa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "nago ya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ntataho wa gago"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "gore go se be"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "motho yo a godilego"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ka nagong ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:45:18.972308588Z",
+  "model": "glm-5.3"
+}

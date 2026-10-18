@@ -1,0 +1,209 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 1:6",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המבלי",
+      "rationale": "Read as 'is it because there is no Elohim in Israel' (interrogative) or as an affirmative statement of rebuke; rendered here as a question."
+    },
+    {
+      "kind": "idiom",
+      "subject": "מות תמות",
+      "rationale": "Infinitive absolute intensifying the verb — 'dying you shall die'; rendered as a Sepedi calque 'ka go swa o tla swa'."
+    },
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "rationale": "'There' absorbed into the relative clause; supplied as bracketed ⟨mo⟩."
+    },
+    {
+      "kind": "you",
+      "subject": "to king Ahazyah",
+      "rationale": "The oracle of Yahwe addresses the king directly in the second person."
+    }
+  ],
+  "translation": "Ba mo araba ba re: Monna o tlile go kgoma le rena, a re re: Yeang, boelang go kgoši yeo e le romilego ⟨את⟩ lona, gomme le mo bolele gore: Go bolela Yahwe: Na ka gobane ga go na Elohim kua Yisraele, o romela go botšha go Baale-Zebube, modimo wa Ekronone? Ka baka la seo, mmutla woo o welwego ⟨mo⟩ o ka se tloe go wona, gobane ka go swa o tla swa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/1\/5-8.1792290470956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Ba araba"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Monna"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "o tlile"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "go kgoma le rena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re re"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "le rena"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Yeang"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "boelang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo e"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "romilego"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "gomme le mo bolele"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "כה",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "המבלי",
+      "gloss": "na ka gobane ga"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kua Yisraele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o romela"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "go botšha"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "go Baale-"
+    },
+    {
+      "surface": "זבוב",
+      "gloss": "Zebube"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "modimo"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "wa Ekronone"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Ka baka la seo"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "mmutla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woo"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "o welwego"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨mo⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ka se"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "tloe"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "go wona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ka go swa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "o tla swa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:27:50.957781236Z",
+  "model": "glm-5.3"
+}

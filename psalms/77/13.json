@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ובעלילותיך",
+      "rationale": "עלילות usually 'exploits\/deeds' (ka mehla ka bošišo); ka mo go latela taba ya sešo, 'diphetho' — mekgwa ya gagbo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "diphetho",
+      "rationale": "Go ka be go ngwalwa 'ditiro tša gago' fela, eupša 'ditiro' e tletše Setswana"
+    }
+  ],
+  "translation": "Gomme ke tla nagana ka go se fete mošomong wa gago ka wona mafele, gomme ka diphetho tša gago ke tla bolela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "85b0e52c26410761291584f85ef59b1e29d5841b85ff47a6700aa2c60cac724c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/77\/13-16.1792298181788.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "gomme ke tla nagana"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka go se fete"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "mošomong wa gago"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "gomme ka diphetho tša gago"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ke tla bolela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:21.789261088Z",
+  "model": "glm-5.3"
+}

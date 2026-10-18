@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אתבונן",
+      "rationale": "Hitpael of 'to discern'; 'ke nne le temogo' gives 'I have understanding', close to the sense of careful discernment"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פקודיך",
+      "rationale": "'appointments' or precepts; rendered 'melawana' (commandments), matching the recurring legal vocabulary of the psalm"
+    }
+  ],
+  "translation": "Ke nne le temogo go feta bahulwane, ka gobane ke bolokile melawana ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/97-100.1792298869577.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "go feta bahulwane"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ke nne le temogo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "melawana ya gago"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ke bolokile"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:49.578854761Z",
+  "model": "glm-5.3"
+}

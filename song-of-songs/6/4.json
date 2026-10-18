@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 6:4",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go mohlaodi",
+      "rationale": "Yo a rategago a bolela le moratiwa ka thwii — 'o montši, wena'."
+    },
+    {
+      "kind": "crux",
+      "subject": "o tšohagatša",
+      "rationale": "איומה: 'go tšoha\/ho sesođiša' kgathanong le 'ho hlohlelwa\/ho hlollwa' — baduti ba fapana: go tšoha kudu kgathanong le go hlokomelwa kudu."
+    },
+    {
+      "kind": "alternative",
+      "subject": "את",
+      "rationale": "Moo e ka bago e le sepetho sa motho 'wena' (אַתְּ), e sego mosaedi wa ⟨את⟩ wa H853; e bolokwa ka tsela e tee ka botlalo."
+    }
+  ],
+  "translation": "O montši, ⟨את⟩ mohlaodi wa ka, bjalo ka Tirtseha; o mobotse bjalo ka Yerushalayime; o tšohagatša bjalo ka mabotho a nago le difolakga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/6\/1-4.1792301001641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "o montši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mohlaodi wa ka"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mohlaodi wa ka"
+    },
+    {
+      "surface": "כתרצה",
+      "gloss": "bjalo ka Tirtseha"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "o mobotse"
+    },
+    {
+      "surface": "כירושלם",
+      "gloss": "bjalo ka Yerushalayime"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "o tšohagatša"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "bjalo ka mabotho a nago le difolakga"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:21.642473616Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "neshere",
+      "rationale": "הנשר: 'eagle' goba 'vulture' — diphetholelo di fapana; lentšu le bolela nonyana ya botsodi ya bogolo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sheketš",
+      "rationale": "שקץ ke 'selo se se nyafatšago' — 'abomination' ga se lentšu la Sepedi le tee."
+    }
+  ],
+  "translation": "Gomme le tla nyaditša ⟨את⟩ tše go tšwa dinonyaneng; ga di swanetše go jea, tša go nyafatša ke tšona: ⟨את⟩ neshere, le ⟨את⟩ pere, le ⟨את⟩ azniya.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/13-16.1792283725434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Gomme ⟨את⟩",
+      "marks": "tše"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "le tla nyaditša"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "dinonyaneng"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di swanetše go jea"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "tša go nyafatša"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke tšona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "neshere"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "neshere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "pere"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "pere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "azniya"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "azniya"
+    }
+  ],
+  "timestamp": "2026-10-18T00:35:25.435152044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka copula yeo Seheberu se se se nago yona."
+    },
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Poeletšo e lebisa go Elohim ka kgopotšo ya go utlowa."
+    }
+  ],
+  "translation": "Elohim, wena o tsebo ⟨ke⟩ bofoolatši bja ka, gomme dibe tša ka ga di a utilwe go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fedcd34bd500138cb1eb3f05acb3c4502bf53acfa8f01c3bbefc15c5243c6c2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/69\/5-8.1792298089262.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o tsebo"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "bofoolatši bja ka"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "omme dibe tša ka"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga … di"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "a utilwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:49.263891615Z",
+  "model": "glm-5.3"
+}

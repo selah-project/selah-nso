@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mahu",
+      "rationale": "הבל ka botlalo ke 'moya wa meno\/mophutho' — sephethwana se se fofago; 'mahu' (se se se nago selo) ke bofsa bja seswantšho, phethego ya moya e lahlegile."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הבל הבלים",
+      "rationale": "Poeletšo ya botsu bja Seheberu (Hebrew superlative: 'mahu ya dimahu' = mahu kudu go feta mahu ka moka); go anwa ga mokgwa wo ka ntle ga dikarata tše hlano mo temaneng e tee."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopula; Seheberu se e hloka — 'hakol havel' ga se na kerewe ya 'ke'."
+    }
+  ],
+  "translation": "Mahu, mahu a dimahu, go bolela Khelete; mahu, mahu a dimahu — ⟨ke⟩ mahu ka moka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/1\/1-4.1792301339560.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "mahu"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "mahu a dimahu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Khelete"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mahu"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "mahu a dimahu"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "mahu"
+    }
+  ],
+  "timestamp": "2026-10-18T05:28:59.560870317Z",
+  "model": "glm-5.3"
+}

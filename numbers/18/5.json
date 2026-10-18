@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קצף",
+      "rationale": "lentšu le bolela seripa sa sefate se se robilego — setšo ka kgaleleo; thoto e laetšwe fela"
+    },
+    {
+      "kind": "addition",
+      "subject": "gore",
+      "rationale": "Seheberu se na le go simolola ga mošomo; Sepedi se nyaka kopanyi ya maikemišetšo"
+    }
+  ],
+  "translation": "Gomme le šireletše ⟨את⟩ mošomo wa bokgethwa le ⟨את⟩ mošomo wa aletare, gore go se be gape kgaleleo godimo ga bana ba Yisraele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "41e449fae83bf3008b62ecd12719ffd04901d52e4a220a19d6c6c531a19fc611",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/18\/5-8.1792284912140.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "gomme le šireletše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mošomo wa bokgethwa"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wa bokgethwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mošomo wa aletare"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gore go se"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go be"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "kgaleleo"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T00:55:12.141661971Z",
+  "model": "glm-5.3"
+}

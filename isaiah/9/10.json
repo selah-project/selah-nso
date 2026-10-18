@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יסכך",
+      "rationale": "Lentšu le kgausa: 'go hlohleletša\/kgotla' (KJV stir up), 'go kopantša' (join together), goba 'go kgwa' — modu wa go phutha bjalo ka sesirithi"
+    },
+    {
+      "kind": "crux",
+      "subject": "צרי רצין",
+      "rationale": "'manaba a Retšine' (ditšhaba tša Retšine, bjalo ka KJV) kgathanong le 'yo a gatelelago ga Retšine' (banaba ba Retšine)"
+    }
+  ],
+  "translation": "Gomme Yahwe o ile a phahamisa ⟨את⟩ manaba a Retšine godimo ga gagwe, gomme ⟨את⟩ manaba a gagwe o a hlohleletša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c19e27a6877c9d3e085dda1ceed6439011280a285807a430855faae82fc90886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/9\/9-12.1792291410505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "o ile a phahamisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaba a Retšine"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "manaba a"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retšine"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "godimo ga gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manaba a gagwe"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "manaba a gagwe"
+    },
+    {
+      "surface": "יסכך",
+      "gloss": "o a hlohleletša"
+    }
+  ],
+  "timestamp": "2026-10-18T02:43:30.506612548Z",
+  "model": "glm-5.3"
+}

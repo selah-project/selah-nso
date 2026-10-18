@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לפיד בוז",
+      "rationale": "Ya bušwa kudu: 'sedi e a tlodišwa' (KJV\/JPS) kgahlanong le 'tlodišo ya masetlapelo go dithinišo tša yo a phumulego' (ASV\/BSB); sebopego sa Seheberu se sa hlaka."
+    },
+    {
+      "kind": "hapax",
+      "subject": "לעשתות",
+      "rationale": "Lentšu le le tlwaelega ga le bonwe feela fapa gona le Tšenolo, efela le hlalosa go nahana goba go ikgantša."
+    },
+    {
+      "kind": "substitution",
+      "subject": "למועדי רגל",
+      "rationale": "Mo go sa Fetweng ga se 'go thelela ga maoto' feela efela ke 'go bokolla ga maoto' — go nyakwa le go tlwaetša go bontšha sebopego sa go tsamaya."
+    }
+  ],
+  "translation": "Sedi e a tlodišwa go dithinišo tša yo a phumulego; e loketšwe bakeng sa bao maoto a bona a a thelelago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/12\/5-8.1792300232400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "sedi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "e a tlodišwa"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "go dithinišo"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "tša yo a phumulego"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "e loketšwe"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "bakeng sa bao"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "maoto a bona a a thelelago"
+    }
+  ],
+  "timestamp": "2026-10-18T05:10:32.401390046Z",
+  "model": "glm-5.3"
+}

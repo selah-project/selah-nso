@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 36:24",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שררו",
+      "rationale": "Pointed from שיר 'men have sung' (KJV, ASV, JPS) vs read from שור 'behold' — 'which men behold' (Geneva, BSB)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "שררו",
+      "rationale": "This form of the verb occurs only here in the Tanakh"
+    },
+    {
+      "kind": "invitation",
+      "subject": "mošomo wa El",
+      "rationale": "Imperative 'Gopola' summons the hearer to magnify God's work in song"
+    }
+  ],
+  "translation": "Gopola gore o kgološa mošomo wa gagwe, woo batho ba o opelago ka gona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "16bfc0e0c1d310dabd981c34c189b76ce34f0ab8153a2b58f1fbbe53bc20355a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/36\/21-24.1792300681494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Gopola"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "תשגיא",
+      "gloss": "o kgološa"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "mošomo wa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woo"
+    },
+    {
+      "surface": "שררו",
+      "gloss": "ba o opelago"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-18T05:18:01.495662027Z",
+  "model": "glm-5.3"
+}

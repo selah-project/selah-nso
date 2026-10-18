@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 13:24",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמד ... עמד",
+      "rationale": "Go boela gape ga 'e eme' ga phooko le taung go bopa go lekana ga go ema — se latlwa ka mokgwa wa go fetoga moo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sebi",
+      "rationale": "נבלה gape mo — mmele wa motho yo a hwelego, ka baka la la morao"
+    }
+  ],
+  "translation": "Gomme a sepela, taung e mo hweditše tseleng, e mmolaile; mme sebi sa gagwe se ile sa latlwa tseleng, gomme phooko e eme go e na le yona, gomme taung e eme go e na le ⟨את⟩ sebi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "18de1329f818e4fef62b03fd7e80da3039ac5083d87c7eb03da26707c99fdfbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/13\/21-24.1792290033134.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "gomme a sepela"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "e mo hweditše"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "taung"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "e mmolaile"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "mme se ile"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "sebi sa gagwe"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "sa latlwa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "והחמור",
+      "gloss": "gomme phooko"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "go e na le yona"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "gomme taung"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "go e na le"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "sebi"
+    }
+  ],
+  "timestamp": "2026-10-18T02:20:33.135607923Z",
+  "model": "glm-5.3"
+}

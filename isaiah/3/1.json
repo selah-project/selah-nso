@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "משען\/משענה",
+      "rationale": "Paired masculine\/feminine of the same root 'support\/staff' — the pairing (thušo le letlhaku) partially keeps the echo."
+    },
+    {
+      "kind": "crux",
+      "subject": "משען ומשענה",
+      "rationale": "Read either as concrete 'stay and staff' or as persons 'supporter and protector'; rendered as things (thušo le letlhaku)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחם",
+      "rationale": "Rendered bogobe (bread); the Hebrew word covers food generally."
+    }
+  ],
+  "translation": "Ka gobane bona, Adonai, Yahwe Tsebaote, o ntšha go tšwa Yerushalayime le go tšwa Yehuda thušo le letlhaku, thušo ya bogobe ka moka, le thušo ya meetse ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "68546ba517ea2c83dba0696bae3637875c12a666b302bffd146ec30d44c082bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/3\/1-4.1792291204066.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "o ntšha"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "go tšwa Yerushalayime"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "le go tšwa Yehuda"
+    },
+    {
+      "surface": "משען",
+      "gloss": "thušo"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "le letlhaku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "משען",
+      "gloss": "thušo ya"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ka moka"
+    },
+    {
+      "surface": "משען",
+      "gloss": "thušo ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T02:40:04.066779397Z",
+  "model": "glm-5.3"
+}

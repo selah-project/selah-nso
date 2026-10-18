@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 26:5",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se nago kopula, Sepedi se e nyaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lelapa",
+      "rationale": "משפחה ke leloko la losika — lelapa le laetša kae le kae"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lenaneo la malapa",
+      "rationale": "Sehleng seo se balelago setšhaba go tloga molaleng wa malapa"
+    }
+  ],
+  "translation": "Reubene, mošomi wa pele wa Yisraele; bana ba Reubene ⟨ke⟩ Khanoke, lelapa la ba-Khanoke; go Falu, lelapa la ba-Falu.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "7a7213429dfc96e8641364df9b12e3e08dd04eed11d7435782d0ff449643779c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/26\/5-8.1792285071079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "mošomi wa pele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Khanoke"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "החנכי",
+      "gloss": "ba-Khanoke"
+    },
+    {
+      "surface": "לפלוא",
+      "gloss": "go Falu"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "הפלאי",
+      "gloss": "ba-Falu"
+    }
+  ],
+  "timestamp": "2026-10-18T00:57:51.079766457Z",
+  "model": "glm-5.3"
+}

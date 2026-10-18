@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 17:5",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka",
+      "rationale": "Hebrew באבנים lacks separate preposition in Sepedi; folded into the stoning verb, gloss repeated"
+    },
+    {
+      "kind": "you",
+      "subject": "go setšhaba sa Yisraele",
+      "rationale": "Verse is direct instruction to Israel's judges\/community: 'go dikgorong tša gago'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "וסקלתם באבנים",
+      "rationale": "'Go hlaba ka maswika' renders lapidation idiom; the Hebrew root סקל is used only of stoning"
+    }
+  ],
+  "translation": "Gomme o tla ntšha ⟨את⟩ monna yoo goba ⟨את⟩ mosadi yoo, yo a dirilego ⟨את⟩ taba ye mpe ye, go dikgorong tša gago — ⟨את⟩ monna goba ⟨את⟩ mosadi — gomme wa ba hlaba ka maswika, gomme ba fele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "342db6a9636315b17f1df2183553795089bb560514bad0935a591dda2e257299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/17\/5-8.1792286061367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוצאת",
+      "gloss": "omme o tla ntšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna yoo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi yoo"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo a"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "a dirilego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba ye mpe ye"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ye mpe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "dikgorong tša gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "וסקלתם",
+      "gloss": "omme wa ba hlaba ka maswika"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ka maswika"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "omme ba fele"
+    }
+  ],
+  "timestamp": "2026-10-18T01:14:21.368743135Z",
+  "model": "glm-5.3"
+}

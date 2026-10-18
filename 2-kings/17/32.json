@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 17:32",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מקצותם",
+      "rationale": "'go tšwa go mafelo a bona' (ba ba nnyane\/ba tlase, bjalo ka KJV le JPS) kgahlanong le 'go tšwa gare ga bona' (go tšwa mafelong a bona, bjalo ka ASV)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "במות",
+      "rationale": "במה ke 'lefelo la maemong a godimo' — felo la borapedi bo phesegi, e sego setšhabeng sa motheo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויהיו…ויהיו",
+      "rationale": "go boelela ga 'gomme ba be' ka bobedi mafelong a temana — sebopego se senyegile ka phetolelong"
+    }
+  ],
+  "translation": "Gomme ba be ba tšhaba ⟨את⟩ Yahwe, gomme ba dira go tšwa go ba ba nngwe le ba ba nngwe wa bona baperisita ba maemong a godimo, gomme ba be ba šoma bakeng sa bona ka ntlong ya mafelo a maemong a godimo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "26f136897e2cdc9e4642f6327a58d20648e1fdc34664f372f9675baf2de7d23c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/17\/31-32.1792304965582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "gomme ba be"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "ba tšhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "gomme ba dira"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bakeng sa bona"
+    },
+    {
+      "surface": "מקצותם",
+      "gloss": "go tšwa go mafelo a bona"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "baperisita ba"
+    },
+    {
+      "surface": "במות",
+      "gloss": "maemong a godimo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "gomme ba be"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "ba šoma"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bakeng sa bona"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlong ya"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "maemong a godimo"
+    }
+  ],
+  "timestamp": "2026-10-18T06:29:25.583002612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 3:10",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mošomo-kodi",
+      "rationale": "עמל ke mošomo wa go hlokahala, kodi ya mmele le maikutlo; lentšu le tee la Sepedi le sa lebega le le kaone."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דלתי",
+      "rationale": "boleta bja ברית (dual): 'dibete-pedi' — pedi ya ngwako ya mpa, thalo e bolokilwe."
+    }
+  ],
+  "translation": "Ka gobane ga e a tswalela dibete-pedi tša mpa ya ka, gomme ga e a utila mošomo-kodi mahlong a ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ecfed7b6939c18312c618bd114b16097bd56db81b6e3a54b1d35f8248973ecc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/3\/9-12.1792300011984.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "a tswalela"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "dibete-pedi"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "mpa ya ka"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "a utila"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "mošomo-kodi"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mahlong a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:51.985039449Z",
+  "model": "glm-5.3"
+}

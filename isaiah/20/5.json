@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tšhaba",
+      "rationale": "חתו ke go putlama maikutlo, go hwa moya — 'tšhaba' e feteletše kganyogolo ya lentšu"
+    },
+    {
+      "kind": "crux",
+      "subject": "מבטם",
+      "rationale": "מבט bolela 'seo ba se lebeletšego' — tšhepo goba tshepo; dikgethi tše kgolo di fapana"
+    }
+  ],
+  "translation": "Ba tla tšhaba gomme ba ikhonne ka Kush, tšhepo ya bona, le ka Mitsrayime, boikhantšho bja bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "36cb4e4d39e0566383440ad6d994b155340167b150a18ee3bf1b3dfa1f65452d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/20\/5-6.1792291535854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "ba tla tšhaba"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "ba ikhonne"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "ka Kush"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "tšhepo ya bona"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "boikhantšho bja bona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:45:35.855325591Z",
+  "model": "glm-5.3"
+}

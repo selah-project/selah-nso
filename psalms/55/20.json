@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "diphetogo",
+      "rationale": "חליפות: 'diphetogo' (KJV) goba 'ba phemile' — e ka bolela gore ba sa fetoge, goba gore ga go na mahlakore a mangwe go ba fenya."
+    },
+    {
+      "kind": "elision",
+      "subject": "Selaha",
+      "rationale": "Leswao la mmino, le sa fetolelweng; le bolokwa bjalo ka Selaha."
+    }
+  ],
+  "translation": "El o tla kwa, gomme a ba sotla, yena yo a dutšego bogologolo. Selaha. Bao go se nago diphetogo go bona, gomme ba sa tšhabeng Elohim.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/55\/17-20.1792297893673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "o tla kwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "gomme a ba sotla"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yo a dutšego"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "bogologolo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go se nago"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "diphetogo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba se ke ba"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "tšhabeng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:33.674196839Z",
+  "model": "glm-5.3"
+}

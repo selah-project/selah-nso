@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "di",
+      "rationale": "Sepedi e nyaka 'di' go bopelelana le go hlatswa diaparo tša temana ye e fetilego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bobe",
+      "rationale": "עון ke 'go feteletša\/molato wa go phoka' — go rwala bobe la gagwe ke go amogela dikahlolo tša se a se dirilego"
+    }
+  ],
+  "translation": "Gomme ge a sa di hlatswe, gomme a sa ina nama ya gagwe, o tla rwala bobe la gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a730804f036026d31fa4f1ec807632a2a81dd5b2a57f8e21085bc3befa7b01be",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/17\/13-16.1792284066543.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Gomme ge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "di hlatswe"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "a sa ina nama ya gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "ina"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "o tla rwala"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "bobe la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:41:06.545240333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨gagwe⟩",
+      "rationale": "Sepedi e nyaka seabi sa botšhotšhabela; Seheberu se bolela fela בידו — seatleng sa gagwe."
+    },
+    {
+      "kind": "crux",
+      "subject": "בהשפטו",
+      "rationale": "„a kahlolwa“ (motho yo a lokilego a kahlolwa) kgahlanong le „a ka kahlolwa“ — ke mang yo a kahlolwago; barumiwi ba fapana."
+    }
+  ],
+  "translation": "Yahwe ga mo tlogela seatleng sa ⟨gagwe⟩, gomme ga mo rumole a kahlolwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e35d96f0cad5c91005cc3d5dbf35260abc95dbea183174aa42c81731a35b560c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/37\/33-36.1792297643707.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "mo tlogela"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "seatleng sa ⟨gagwe⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "mo rumole"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "a kahlolwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:23.707743067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "haggai 2:17",
+  "book": "haggai",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדפון\/ירקון",
+      "rationale": "rhyming pair of plant-plagues (blight\/pallor), sound-pair lost in Sepedi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואין אתכם אלי",
+      "rationale": "literal: 'and there was none of you with me'; 'you turned not to me' is an interpretive smoothing"
+    }
+  ],
+  "translation": "Ke ile tša go otla lena ka sefofu le ka thelelo le ka go wa ga leswe, ⟨את⟩ mošomo ka moka wa diatla tša lena; gomme ga le a ka ⟨את⟩ la boela go nna, go bolela Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "99783f0c15b631aa6198b23216bc62ffdf008b69f58c646bd895bb0165ef6f45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/haggai\/2\/17-20.1792296810030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכיתי",
+      "gloss": "Ke ile tša go otla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lena"
+    },
+    {
+      "surface": "בשדפון",
+      "gloss": "ka sefofu"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "le ka thelelo"
+    },
+    {
+      "surface": "ובברד",
+      "gloss": "le ka go wa ga leswe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mošomo ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "wa diatla tša lena"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme ga le a ka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ la boela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:13:30.031415894Z",
+  "model": "glm-5.3"
+}

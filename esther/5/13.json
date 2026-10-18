@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopula ye Seheberu se sa e rego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sepe",
+      "rationale": "שוה ke 'go lekana, go fana ka mohola' — e fetotšwe go ba 'ga se sepe'"
+    },
+    {
+      "kind": "you",
+      "subject": "puo ya Hamane",
+      "rationale": "Haman o bolela go Zeresu le bao ba mo ratago — thaelo ya bothata bja gagwe"
+    }
+  ],
+  "translation": "Gomme se sengwe le se sengwe se ⟨ke⟩ sepe go nna, nako e nngwe le e nngwe ge ke bona ⟨את⟩ Moredikai Mjuda a dutše kgorong ya kgoši.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "eee27b4b9ad40fa9f2e199d73a8efdbb5b1407c590146ee13d554d42ed10b06f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/5\/13-14.1792301541645.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "gomme se sengwe le se sengwe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "sepe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nngwe le e nngwe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moredikai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Moredikai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "Mjuda"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "a dutše"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kgorong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T05:32:21.646510452Z",
+  "model": "glm-5.3"
+}

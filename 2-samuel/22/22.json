@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 22:22",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רשעתי מאלהי",
+      "rationale": "Seheberu se re 'ka be ke šupe ka El ya ka'; KJV e oketša 'departed' — mo go ra 'dira sebe go tšwa go Elohim ya ka'"
+    },
+    {
+      "kind": "addition",
+      "subject": "sebe",
+      "rationale": "רשע ke go šupa\/dira phošo; Sepedi se nyaka leina — sebe"
+    }
+  ],
+  "translation": "Gore ke ile ka šireletša ditsela tša Yahwe, gomme ka se be ke dira sebe go tšwa go Elohim ya ka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "54566add259e417b2fbdeb19c6e06df6eaa390b749036b96a538d2c3b9519087",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/22\/21-24.1792289420711.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ke ile ka šireletša"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela tša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ka se be ke"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "dira sebe"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "go tšwa go Elohim ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:10:20.712719396Z",
+  "model": "glm-5.3"
+}

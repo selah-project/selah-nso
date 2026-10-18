@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 21:14",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩ · ⟨la⟩",
+      "rationale": "Sepedi e nyaka dipolelo tša go hlama go tswalela maina"
+    },
+    {
+      "kind": "crux",
+      "subject": "nako ya direto",
+      "rationale": "KJV\/JPS di bea direto ka mengwaga ya go fetilega; JPS\/BSB bjalo ka taolo — Seheberu se sa hlalepha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bogobe",
+      "rationale": "לחם ke 'bogobe' go ya le D4 — e sego 'borotho'"
+    }
+  ],
+  "translation": "Ba dulago lefaseng la Tema ba ile ba tliša meetse go fihla go ba ke milomo ya go hudula nyutla, ba amogetše le bogobe ba ba pholilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7034096a3a50d196a17900691383f539e0c4b375babff40a04c993096788bec4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/21\/13-16.1792291570994.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקראת",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "nyutla"
+    },
+    {
+      "surface": "התיו",
+      "gloss": "ba ile ba tliša"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba dulago"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Tema"
+    },
+    {
+      "surface": "בלחמו",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "ba amogetše"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ba pholilego"
+    }
+  ],
+  "timestamp": "2026-10-18T02:46:10.995060142Z",
+  "model": "glm-5.3"
+}

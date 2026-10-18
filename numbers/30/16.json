@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הפר יפר",
+      "rationale": "Infinitive absolute + verb again — emphatic 'if he utterly nullify them', echoing verse 13."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונשא את עונה",
+      "rationale": "'He shall bear her iniquity' — the husband bears it (KJV\/ASV\/JPS), though 'her' is supplied by context; some read the guilt as falling on him for late annulment."
+    }
+  ],
+  "translation": "Gomme ge e ba o di fedisitše ka mehla ka morago ga go di utša, o tla rwala ⟨את⟩ sebe sa yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "722c5f42a2a4e717144969fa138bfd55839b79830edda62da925b070695ca1a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/30\/13-16.1792285350484.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Gomme ge e ba"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "go fedisa"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "ka mehla fedisitše"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dipikšano tša yena"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "go di utša"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "gomme o tla rwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebe sa yena"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "sebe sa yena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:02:30.486085561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mafura a go rola bokgethwa",
+      "rationale": "המשחה ke mafura a go tloditšwa — go rola bokgethwa go boloka seswantšho sa go tloditša"
+    },
+    {
+      "kind": "crux",
+      "subject": "mokenyi",
+      "rationale": "רקח: mokenyi wa dinotsi (apothecary\/perfumer) kgahlanong le mokenyi wa mešomo"
+    }
+  ],
+  "translation": "Gomme a dira ⟨את⟩ mafura a go rola bokgethwa, a kgethwa, le ⟨את⟩ mušo wa dinoši tše monate, o hlwekilego, mošomo wa mokenyi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c9b29592e59a5fa8f12d2ce8938d8de31ab05f60907ffca4bc52177d82a999d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/37\/29-29.1792283329290.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura a go rola bokgethwa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "a go rola bokgethwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "a kgethwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mušo wa dinoši tše monate"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "mušo"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "dinoši tše monate"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "o hlwekilego"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "wa mokenyi"
+    }
+  ],
+  "timestamp": "2026-10-18T00:28:49.291855314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yo se nago bohlale",
+      "rationale": "כסיל le hlabolohedi e bolela 'yo moteletse', e theilwe godimo ga sebopego sa motho yo a se nago bohlale"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bohloko",
+      "rationale": "תוגךה ke phoko ya moya; 'bohloko' ke kgonthe ye e lego kgauswi le yona"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na copula; Sepedi se e nyaka"
+    }
+  ],
+  "translation": "Matsokwane a Šolomone. Morwa yo hlalephi o tliša thabo go ⟨а⟩ papa, gomme morwa yo se nago bohlale ke bohloko go mmaagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e3b4b10a59ea6a7ad6bc0a497da9583e82cd33a7bae639cfaf9633e41658884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/10\/1-4.1792299341664.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Matsokwane"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "a Šolomone"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yo hlalephi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "o tliša thabo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "go papa"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "gomme morwa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "yo se nago bohlale"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "bohloko"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "go mmaagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:41.664782850Z",
+  "model": "glm-5.3"
+}

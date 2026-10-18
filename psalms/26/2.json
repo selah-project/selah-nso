@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diphapo",
+      "rationale": "כליות ke diphapo ka nnete — babele bo di šomiša bjalo ka lefelo la dikgopolo tša ka hare"
+    },
+    {
+      "kind": "crux",
+      "subject": "צרופה",
+      "rationale": "Sefela se sa pelo: 'e hlwekisitšwe ke wena' (passive, YLT) kgahlanong le laetsi 'hlwekisa' — nnete ya sebopego ga e hlaka"
+    },
+    {
+      "kind": "invitation",
+      "subject": "nkeme",
+      "rationale": "Moemedi o kgopela Yahwe gore a mo leke — laetsi le lebilego go Yahwe"
+    }
+  ],
+  "translation": "Nkeme, Yahwe, gomme mpene; hlwekisa diphapo tša ka le pelo ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c1625a3339a801d19092547c4881464665dc0a2dd25d9b8e187962f73e39d976",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/26\/1-4.1792297443322.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "nkeme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "gomme mpene"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "hlwekisa"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "diphapo tša ka"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "le pelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:03.322880295Z",
+  "model": "glm-5.3"
+}

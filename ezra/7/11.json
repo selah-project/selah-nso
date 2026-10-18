@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 7:11",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "פרשגן",
+      "rationale": "Lentšu la Pereshia le tšwa ka tlwaelo — \"kopi\" ya sephetho, le sa latelwe ka šupo ya ⟨את⟩."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הספר ספר",
+      "rationale": "Go tšweletšwa ga mongwadi ga rialo gabedi — sebopego sa go tiisa maemo a Ezara bjalo ka mongwadi wa ditaelo tša Yahwe."
+    }
+  ],
+  "translation": "Gomme se ke kopi ya mangwalo ao kgoši Artakhšasta a bego a e fa Ezara moperiseta, mongwadi — mongwadi wa mantšu a ditaelo tša Yahwe le melawu ya gagwe go Yisraele.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/7\/9-12.1792302253204.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "gomme se"
+    },
+    {
+      "surface": "פרשגן",
+      "gloss": "kopi"
+    },
+    {
+      "surface": "הנשתון",
+      "gloss": "ya mangwalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a bego a e fa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artakhšasta"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "Ezara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperiseta"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "mongwadi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "mongwadi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wa mantšu"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "a ditaelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "le melawu ya gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T05:44:13.205279426Z",
+  "model": "glm-5.3"
+}

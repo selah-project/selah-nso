@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mogaphedi",
+      "rationale": "גֵר ke mogaphedi yo a dulago gare ga setšhaba se sengwe, e sego fela moeti"
+    },
+    {
+      "kind": "addition",
+      "subject": "<o>",
+      "rationale": "Seheberu se na le kopanya wo o hlalositšwego ke ⟨o⟩, Sepedi se nyaka lentšu le tee"
+    },
+    {
+      "kind": "elision",
+      "subject": "לֹא",
+      "rationale": "Boikano bja Jobu — ga go na mogaphedi yo a ilego a dula ntle, ditlhago di butšwe kamehla"
+    }
+  ],
+  "translation": "Ntle ga lefase, mogaphedi a ka dula bosigo; ditlhago tša ka di butšwe <o> mohlaetši",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5f93801b872dc4162c2676b763d08545d38c07f2766a472c51c8f8b3fde47bb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/31\/32-32.1792305364872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "a dula bosigo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "mogaphedi"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "ditlhago tša ka"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "mohlaetši"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "di butšwe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:04.873929214Z",
+  "model": "glm-5.3"
+}

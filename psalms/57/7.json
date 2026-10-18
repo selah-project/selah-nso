@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "go šolwa ga maano",
+      "rationale": "Ba ša leoba bao ba šilego leoba — ba ba beileng sefela ba wa ka gare ga sona; go diega se se laeditšwego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "o kgotame",
+      "rationale": "כפף ke 'go kgopama\/go kgotama' — ba kgapotše moya wa ka"
+    }
+  ],
+  "translation": "Ba lokelletše seripa bakeng mehla ya ka; moya wa ka o kgotame; ba šile leoba pele ga ka, ba ile ba wa ka gare ga lona. Sela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/57\/5-8.1792297918249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "seripa"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "ba lokelletše"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "bakeng mehla ya ka"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "o kgotame"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "ba šile"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga ka"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "leoba"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ba ile ba wa"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ka gare ga lona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:58.252756920Z",
+  "model": "glm-5.3"
+}

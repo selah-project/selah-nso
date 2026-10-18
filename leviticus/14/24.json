@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tšhikiso",
+      "rationale": "tenufa — go tšhikilwa ga sehlabelo ka pela ga Yahwe, sebopego sa mošomo"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "'tšona' — sedirišwa se kopantšwe le 'a di tšhikile'"
+    }
+  ],
+  "translation": "Gomme moperisita a tšeše ⟨את⟩ kwana ya ashame le ⟨את⟩ loge ya mafura, gomme moperisita a ⟨את⟩ di tšhikile e le tšhikiso, ka pele ga Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1e90bf40c83c9fd4e6155c77d556358760fb942e6a4678abc6d94b944b303e15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/14\/21-24.1792283884823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "Gomme … a tšeše"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwana ya ashame"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ya ashame"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "loge ya mafura"
+    },
+    {
+      "surface": "לג",
+      "gloss": "loge"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ya mafura"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "gomme … a tšhikile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ di"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "tšhikiso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:38:04.825141789Z",
+  "model": "glm-5.3"
+}

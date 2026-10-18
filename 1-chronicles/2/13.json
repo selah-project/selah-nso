@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 2:13",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka copula go hlatha mantšu a latelanang, Seheberu a se na yona"
+    },
+    {
+      "kind": "measurement",
+      "subject": "go lateganya ka dikgati",
+      "rationale": "Mantšu a dikgati — wa bobedi, wa boraro — a bala bana ba Yishai ka tatelano"
+    }
+  ],
+  "translation": "Gomme Yishai a tswala ⟨את⟩ mopologolo wa gagwe wa pele, ⟨את⟩ Eliabe; gomme Abinadabe ⟨ke⟩ wa bobedi, gomme Shimea wa boraro.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2673d87b0643082370fcb0303a3351e8e5caaff3791c7bbd9790288d244c2318",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/2\/13-16.1792302805179.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואישי",
+      "gloss": "Gomme Yishai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a tswala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mopologolo wa gagwe wa pele"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mopologolo wa gagwe wa pele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eliabe"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliabe"
+    },
+    {
+      "surface": "ואבינדב",
+      "gloss": "gomme Abinadabe"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "ושמעא",
+      "gloss": "gomme Shimea"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wa boraro"
+    }
+  ],
+  "timestamp": "2026-10-18T05:53:25.179808559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מלאך",
+      "rationale": "'messenger\/angel' — ordinary messenger here or divine being; Sepedi 'molaego' keeps the shape"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "six-nation list",
+      "rationale": "enumeration of six Canaanite peoples; rhythm lost if merged into one collective"
+    }
+  ],
+  "translation": "Gomme ke tla romela molaego pele ga gago, gomme ke tla laba ⟨את⟩ Mokenane, Moamore, Mokete, Moperize, Mokhiwe le Moyebuse.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0d2e37adbf7fcef459d792ef55cf27f9fda58bb2b78b2bd66a50665f6acd799a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/33\/1-4.1792283264408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "ke tla romela"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "molaego"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ke tla laba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mokenane"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokenane"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Moamore"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "Mokete"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Moperize"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Mokhiwe"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "Moyebuse"
+    }
+  ],
+  "timestamp": "2026-10-18T00:27:44.409611002Z",
+  "model": "glm-5.3"
+}

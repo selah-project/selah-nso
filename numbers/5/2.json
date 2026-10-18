@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 5:2",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mofse wa bokgope",
+      "rationale": "צרוע — go bedišwa ka bokgope, sebopego sa lentšu se bolokwa ka go bo hlalosa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ka go se hwetše",
+      "rationale": "לנפש mo e bontšha motho yo a hwetšego, e sego pelo goba moya"
+    }
+  ],
+  "translation": "Laela ⟨את⟩ bana ba Yisraele, gore ba ntšhe go metse ya bonnete mofse wa bokgope, le mofsa wa metsi, le motho ofe goba ofe yo a se hlwekago ka go se hwetše.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8d19404fce15ea6a1645e5d2b0ea82eab1d68ba94b1f3f3e650dd85be2092961",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/5\/1-4.1792284513754.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Laela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "gore ba ntšhe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "metse ya bonnete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ofe goba ofe"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "mofse wa bokgope"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le mofsa ofe goba ofe"
+    },
+    {
+      "surface": "זב",
+      "gloss": "wa metsi a a rwalago"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le yo a"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "a se hlwekago"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ka go se hwetše"
+    }
+  ],
+  "timestamp": "2026-10-18T00:48:33.755632613Z",
+  "model": "glm-5.3"
+}

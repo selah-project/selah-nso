@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 34:13",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diphiri",
+      "rationale": "תנים ke diphoofolo tša naga tša go lla (jackals), e sego dinoka tša KJV"
+    },
+    {
+      "kind": "crux",
+      "subject": "nonyana ya lewatle",
+      "rationale": "יענה: nonyana ya lewatle (ostrich) kgahlanong le nonyana ya bosigo (owl) ya KJV"
+    },
+    {
+      "kind": "alternative",
+      "subject": "קמוש",
+      "rationale": "mokgwaso — leina la semela se segolo sa mehla; lentšu le nyenyane ka noši mo Tanakh"
+    }
+  ],
+  "translation": "Gomme dilesika di tla go phaphoga ka dikagong tše phagamego tša yona, mokgwaso le mohlakore ka diphatheng tša yona; gomme e tla ba legae la diphiri, legora la bana ba nonyana ya lewatle.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "be46451dd92edafb0523ceaf717e748c137d83456733c8ef51a3463ed439caaa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/34\/13-16.1792292023976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועלתה",
+      "gloss": "gomme di tla go phaphoga"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "dikago tše phagamego tša yona"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "dilesika"
+    },
+    {
+      "surface": "קמוש",
+      "gloss": "mokgwaso"
+    },
+    {
+      "surface": "וחוח",
+      "gloss": "gomme mohlakore"
+    },
+    {
+      "surface": "במבצריה",
+      "gloss": "ka diphatheng tša yona"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "gomme e tla ba"
+    },
+    {
+      "surface": "נוה",
+      "gloss": "legae"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "la diphiri"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "legora"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "la bana ba"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "nonyana ya lewatle"
+    }
+  ],
+  "timestamp": "2026-10-18T02:53:43.976685570Z",
+  "model": "glm-5.3"
+}

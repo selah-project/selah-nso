@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 38:15",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelo ya ka",
+      "rationale": "נפשי ke motho wa go hema\/motho kamoka, e sego 'pelo' ka o o bolelago ka sebopego — e ngwadišitšwe ka lebaka la go swana le yona."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואמר לי",
+      "rationale": "'O mpotša' goba 'o mpoleletše' (yatla 'gore o ile a mmoletša'); Geneva le KJV ba fetolela bjalo ka 'go bolela' ka bophara."
+    }
+  ],
+  "translation": "Ke tla bolela eng, gomme o mpotša? Gomme yena o se wa se dira. Ke tla sepela kgatelelang mengwaga ya ka ka moka ka baka la go fofsa ga pelo ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f50c46082cd122090cc0ec0bdc5c5b77db5417280e7b826880434fe0783f0f27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/38\/13-16.1792292007716.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke tla bolela"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "gomme o mpotša"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n-"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "gomme yena"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "אדדה",
+      "gloss": "ke tla sepela kgatelelang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "שנותי",
+      "gloss": "mengwaga ya ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "מר",
+      "gloss": "go fofsa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:53:27.717037222Z",
+  "model": "glm-5.3"
+}

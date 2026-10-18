@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "Bjalo a dire Elohim, gomme bjalo a oketše",
+      "rationale": "Maite a go lâla ka Elohim; polelo ya molao ya Seheberu yeo e sa bolelwego ka nnete"
+    },
+    {
+      "kind": "crux",
+      "subject": "Elohim",
+      "rationale": "Izabele ke mošomiši wa Baala; אלהים mo ka nnete e ka ba 'medimo' ya ditšhaba — eupša mongwalo o ngwala Elohim"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "nefesh ke moya wa bophelo, mmogo le go hema; ga se 'moya' wa ka mehla"
+    }
+  ],
+  "translation": "Gomme Izabele a romela molaetši go Eliya, go re: Bjalo a dire Elohim, gomme bjalo a oketše, gore nako ye e tšwanago kamoso ke tla dira ⟨את⟩ bophelo bja gago bjalo ka bophelo bja e tee go tšwa go bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ff60ce540c7eec4ff51cfc1258ed4c277a45583ce185b8a96852ffcc5426aac5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/19\/1-4.1792290344434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "Gomme a romela"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izabele"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "molaetši"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliya"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go re"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Bjalo"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "a dire"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "gomme bjalo"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "a oketše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "nako ye e tšwanago"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "kamoso"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ke tla dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bophelo bja gago"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "bophelo bja gago"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "bjalo ka bophelo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bja e tee"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "go tšwa go bona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:25:44.435152735Z",
+  "model": "glm-5.3"
+}

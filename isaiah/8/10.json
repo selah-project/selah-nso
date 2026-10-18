@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עמנו אל \/ עמנואל",
+      "rationale": "'El o na le rena' ke segodišo sa leina Immanu-ele (8:8) — puo ye e boetšiwa gape ka 7:14; sebopego se se bolokwa ka Sepedi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצו עצה \/ דברו דבר",
+      "rationale": "Gatišo ya modu: tiro le selo di tswa modung o tee — 'laetšanang sekopano \/ boleleng lentšu'."
+    }
+  ],
+  "translation": "Laetšanang sekopano, mme se tlo phuthologa; boleleng lentšu, mme le tlo se ka se ema; ka gobane El o na le rena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "466d7526568a79bc32309342ad3bb77d881c946ad1234e0a48ac62489a84c388",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/8\/9-12.1792291283062.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "laetšanang"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "sekopano"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "mme se tlo phuthologa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "boleleng"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "mme le tlo se ka"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "se ema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "o na le rena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-18T02:41:23.062857671Z",
+  "model": "glm-5.3"
+}

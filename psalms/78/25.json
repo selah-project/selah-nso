@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ba-matla",
+      "rationale": "אבירים: 'ba ba nago matla' (mighty ones) kgahlanong le 'ba-maloka' (malaika) — phetolelo ya kgale e re 'bogobe bja malaika'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bogobe",
+      "rationale": "לחם ke bogobe, e sego 'nama' bjalo ka diphetolelo tše dingwe tša kgale tša צידה"
+    }
+  ],
+  "translation": "Bogobe bja ba-matla motho o jele ⟨את⟩; dijo o di rometše go bona go ba tleta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d443103540400b8e7b1430ddc2718cc6d4d35e1a2ead2ea75e416cee4c2141e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/25-28.1792298227139.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "bja ba-matla"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "o jele"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "motho"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "dijo"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o di rometše"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "go ba tleta"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:07.140076435Z",
+  "model": "glm-5.3"
+}

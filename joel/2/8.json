@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 2:8",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lera",
+      "rationale": "השלח: kgothya ya ntoa (KJV 'sword', ASV 'weapons'); mo e ba lera"
+    },
+    {
+      "kind": "crux",
+      "subject": "ba ka se robe kgwerano",
+      "rationale": "יבצעו: בצע bolela go robeḡa; KJV 'not be wounded', ASV 'break not off their course' — mo Sepedi 'go se robe kgwerano'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "gebera",
+      "rationale": "גבר ke lentšu la gebera — monna yo a nonofilego; le bolokwa ka tsela e tee le Sepedi"
+    }
+  ],
+  "translation": "Gomme mong le mong mogološi wa gagwe o ka se mo gate; gebera o tla sepela tsela ya gagwe ya kgwebo; gomme ka morago ga lera ba tla wa, ba ka se robe kgwerano.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6af798d15abeb930621a55d63e9c20f8056d967729bdf5e77dec50bb75b43a78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/2\/5-8.1792296176976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "gomme mong le mong"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mogološi wa gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o ka se"
+    },
+    {
+      "surface": "ידחקון",
+      "gloss": "mo gate"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "gebera"
+    },
+    {
+      "surface": "במסלתו",
+      "gloss": "tsela ya gagwe ya kgwebo"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "o tla sepela"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "gomme ka morago ga"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "lera"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ba tla wa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba ka se"
+    },
+    {
+      "surface": "יבצעו",
+      "gloss": "robe kgwerano"
+    }
+  ],
+  "timestamp": "2026-10-18T04:02:56.977829004Z",
+  "model": "glm-5.3"
+}

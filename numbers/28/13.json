@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 28:13",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה e bolokwa ka modumo — e sego «mpho» goba «motšhelo»"
+    },
+    {
+      "kind": "addition",
+      "subject": "sa mollo",
+      "rationale": "אשה e hlalosa sehlabelo sa go fišwa; «mol» o tšwa go אש (mollo)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "esara",
+      "rationale": "karolo ya lesome (tenth deal) ya bupi go kwana ye nngwe le ye nngwe"
+    }
+  ],
+  "translation": "Gomme esara le esara ya bupi — minkha — e tswakanetšwego ka mafura, bakeng sa kwana ye tee; sebego sa go fišwa, mohinuši o monate, sehlabelo sa mollo go Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e620ba4d296853dcfb047de5567517438ceb8993db43c0fdf682b54eaa08b8c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/28\/13-16.1792285280020.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשרן",
+      "gloss": "gomme esara"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "le esara"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ya bupi"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "e tswakanetšwego"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "bakeng sa kwana"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ye tee"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sebego sa go fišwa"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "mohinuši"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "o monate"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sehlabelo sa mollo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:01:20.021016842Z",
+  "model": "glm-5.3"
+}

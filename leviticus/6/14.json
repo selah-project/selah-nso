@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 6:14",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תפיני",
+      "rationale": "Lentšu le hwetšala fela mo go Tanakh — diphaphatha tše di kgogantšwego."
+    },
+    {
+      "kind": "crux",
+      "subject": "מרבכת",
+      "rationale": "E bodilwe (ka mafura) goba e kopantšwego le e kgogantšwego — bao ba sa dumelanago ka tsela ya go dira minkha ye."
+    }
+  ],
+  "translation": "Go palane ya go baka ka mafura e tla dirwa; ge e bodilwe, o e tliša; dikgogana tša minkha ya diphaphatha o di hlabela, e le bophiši bjo bo khutšego go Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/6\/13-16.1792283603666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "מחבת",
+      "gloss": "palane ya go baka"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "e tla dirwa"
+    },
+    {
+      "surface": "מרבכת",
+      "gloss": "ge e bodilwe"
+    },
+    {
+      "surface": "תביאנה",
+      "gloss": "o e tliša"
+    },
+    {
+      "surface": "תפיני",
+      "gloss": "dikgogana"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "tša minkha"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ya diphaphatha"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "o di hlabela"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "e le bophiši"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "bjo bo khutšego"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:33:23.667498286Z",
+  "model": "glm-5.3"
+}

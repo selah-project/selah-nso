@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sheole",
+      "rationale": "שאול ga se dihele ya kotlo — ke lefelo la bafu, ka moo ga fetolwa (D2)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ba tla boa",
+      "rationale": "ישובו: 'ba tla boa' (go boela morago) kgathanong le 'ba tla bušetšwa' (modumo wo o dirwang go bona) — Keteketso ya Geneva e šomiša 'be turned'"
+    }
+  ],
+  "translation": "Ba rothego ba tla boa go Sheole, ditšhaba ka moka tše di lebilego Elohim.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6d169e08854ce46b48219aa2f366c51afa82a04bb806e78a6c9cd1e8f81671fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/9\/17-20.1792297239552.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ba tla boa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba rothego"
+    },
+    {
+      "surface": "לשאאולה",
+      "gloss": "go Sheole"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "tše di lebilego"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:39.553440542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 103:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "setulo sa bogoši",
+      "rationale": "כסאו is simply 'his throne'; 'sa bogoši' supplied by context to make the figure clear."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מלכותו ... משלה",
+      "rationale": "Kingdom-rule root repetition: malkut and mashal echo each other, kept as bogoši \/ busa."
+    }
+  ],
+  "translation": "Yahwe magodimong o theile ⟨את⟩ setulo sa bogoši sa gagwe, gomme bogoši bja gagwe bo busa tšohle.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/103\/17-20.1792298554882.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "magodimong"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "o theile"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "setulo sa bogoši sa gagwe"
+    },
+    {
+      "surface": "ומלכותו",
+      "gloss": "gomme bogoši bja gagwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "bo busa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:34.883714218Z",
+  "model": "glm-5.3"
+}

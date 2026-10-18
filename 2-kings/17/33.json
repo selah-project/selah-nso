@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 17:33",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "אלהיהם fa e bolela medimo ya ditšhaba tše dintho, ka fao e ngwalwa ka ditlhaka tše nnye go ya ka D1"
+    },
+    {
+      "kind": "addition",
+      "subject": "ya bobona",
+      "rationale": "Seheberu se na le sebopego sa boemedi (-הם) fela, Sepedi se nyaka lentšu le le fa tlhaku"
+    }
+  ],
+  "translation": "Ba be ba tšaba ⟨את⟩ Yahwe, gomme ba šomela ⟨את⟩ medimo ya bobona, go ya ka tlwaelo ya ditšhaba tše di ba tlošitšego ⟨את⟩ bona go tšwa moo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/17\/33-36.1792290860416.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba be"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "ba tšaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "medimo ya bobona"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "medimo ya bobona"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba be"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ba šomela"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "go ya ka tlwaelo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ya ditšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše di"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "ba tlošitšego"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "משם",
+      "gloss": "go tšwa moo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:34:20.417662064Z",
+  "model": "glm-5.3"
+}

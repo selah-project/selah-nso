@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 15:18",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mahlong a Yahwe",
+      "rationale": "בעיני יהוה — 'mahlong a Yahwe', modumo wa motho wa Seheberu wa go bontšha tekanyetšo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sebe",
+      "rationale": "הרע — 'sebe\/bobe' go swana le sebopego sa lentsu."
+    }
+  ],
+  "translation": "Gomme a dira sebe mahlong a Yahwe; ga a ka a fapoga go tšwa go dibeng tša Yerobohame, mora Nebate, yo a dirilego ⟨את⟩ Yisraele sebe, matsatsi a gagwe ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a7eaf583d94d65f61c890bb6a731e8479538c4e185b43e15e6d5196f11368561",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/15\/17-20.1792290821679.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gomme a dira"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a ka a"
+    },
+    {
+      "surface": "סר",
+      "gloss": "fapoga"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "dibeng"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "tša Yerobohame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "a dirilego sebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "matsatsi a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:33:41.680054077Z",
+  "model": "glm-5.3"
+}

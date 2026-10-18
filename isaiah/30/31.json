@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mo",
+      "rationale": "Seheberu se na le sesupo sa go tlaya fela; seposo sa Ashure se hlamilwe"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשבט יכה",
+      "rationale": "KJV 'which smote with a rod' (Ashure yena o tlaya) vs ASV\/JPS 'with his rod will he smite him' (Yahwe ka moswari)"
+    }
+  ],
+  "translation": "Ka gobane go tšwa go lentšu la Yahwe, Ashure a tla phatlama; ka moswari o tla mo tlaya.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "02b6dac126d9458103a01bf15ad7ce06707042cdf54f09cc78baea1e1808a9b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/30\/29-32.1792291922665.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "go tšwa go lentšu la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "a tla phatlama"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ka moswari"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "o tla mo tlaya"
+    }
+  ],
+  "timestamp": "2026-10-18T02:52:02.666780167Z",
+  "model": "glm-5.3"
+}

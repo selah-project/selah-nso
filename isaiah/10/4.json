@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלתי כרע",
+      "rationale": "Famous crux: 'without me they bow' (KJV, reading בלתי with 1 Esdras), 'only to crouch' (JPS), 'nothing remains but to crouch' (BSB); rendered here as 'only to crouch'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא שב אפו ועוד ידו נטויה",
+      "rationale": "Refrain repeated at Isa 9:11, 9:16, 9:20 and here — the fourth occurrence closes the stanza; the rhythm is lost in Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "Literally 'his nose\/nostrils', idiom for anger; rendered bogale bja gagwe."
+    }
+  ],
+  "translation": "Fela go khunama ga go fase ga ba kgolegwilego, gomme go wa ga gare ga ba bolailwego. Ka mo go tšohle se, bogale bja gagwe ga bja boela morago, gomme gape seatla sa gagwe se ntše se thwetšwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b7a0533bc715a8c1189f8babbc53ca1fb55913a3a12afc6efb9f0952c080c199",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/10\/1-4.1792291476640.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "fela"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "go khunama"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "go fase ga"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ba kgolegwilego"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "le go fase ga"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "ba bolailwego"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "go wa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka mo go"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "tšohle tše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a boela morago"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "bogale bja gagwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "gomme gape"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "seatla sa gagwe"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "se ntše se thwetšwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:44:36.642036096Z",
+  "model": "glm-5.3"
+}

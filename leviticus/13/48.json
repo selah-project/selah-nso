@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בשתי \/ בערב",
+      "rationale": "Mantšu a thekgo — warp (שתי, dithoari tša lebatla) le woof (ערב, dithoari tša go kgabagana); Sepedi ga e na mantsu a mabedi a ikgethileng, ka gobane a hlaloswa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "או ... או ... או ... או",
+      "rationale": "Petelelo ya 'goba' ga rataro e hlama mokgwa wa melao ya go kgetha dilo tše ka moka tšeo seko se ka tlang go tšwa go tšona."
+    }
+  ],
+  "translation": "goba mo dithoaring tša lebatla, goba mo dithoaring tša go kgabagana, sa leshefe le sa leshoabo, goba letlaleng, goba mo go sengwe le sengwe sa mošomo wa letlalo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "870586b47f6230994bde4f45ef558cae91c02be95bf41b34722dbe19c5b1c320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/13\/45-48.1792283882577.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "mo dithoaring tša lebatla"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "mo dithoaring tša go kgabagana"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "sa leshefe"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "le sa leshoabo"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "letlaleng"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "mo go sengwe le sengwe sa"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "letlalo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:38:02.579734202Z",
+  "model": "glm-5.3"
+}

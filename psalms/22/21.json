@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moyeng wa ka",
+      "rationale": "נפש ke moya\/bophelo — throat\/life-force, e sego 'moya' wa kereke"
+    },
+    {
+      "kind": "crux",
+      "subject": "yo a ntsêla noši",
+      "rationale": "יחידתי: 'my only one' (ylt\/jps) kgahlanong le 'my darling' (kjv\/asv)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלב",
+      "rationale": "mpsa ke seswantšho sa ba ba nyenyegago kgaleng ye; go iphitlha ga yona sephethong"
+    }
+  ],
+  "translation": "Ngwatša moyeng wa ka o tšwa go tšhoša, o tšwa seatleng sa mpsa, moyeng wa ka yo a ntsêla noši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "989c506407807f19a4fb43f58f1bfc1569e7e6136cd123ef91e1a1adc5ab2b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/22\/21-24.1792297363908.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "ngwatša"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "go tšhoša"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moyeng wa ka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "o tšwa seatleng"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "sa mpsa"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "yo a ntsêla noši"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:43.908716284Z",
+  "model": "glm-5.3"
+}

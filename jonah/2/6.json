@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jonah 2:6",
+  "book": "jonah",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ga se 'moya' ka nnete — e atametše le 'throat\/mafi a bophelo'; Sepedi a se na lentšu le tee le swanago"
+    },
+    {
+      "kind": "elision",
+      "subject": "סוף",
+      "gloss": "papyrus-reed; 'sefate sa meetse' ke tlhalošo, e sego lentšu le tee"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אפפוני\/יסבבני",
+      "rationale": "dipu tše pedi tša go dikanya — go dikanyiwa ga go ipoelela, se se laelwago ke sebopego sa temana"
+    }
+  ],
+  "translation": "Meetse a mphetlletše go fihla go ⟨moya⟩; tehome e mphetlletše ka moka; sefate sa meetse se kgomaretše go hlogo ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8db7c2e82440410234718a588ea9ab66e213514c3311f2eafedae4ad8e5beceb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jonah\/2\/5-8.1792296417054.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "a mphetlletše"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla go"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "⟨moya⟩"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehome"
+    },
+    {
+      "surface": "יסבבני",
+      "gloss": "e mphetlletše ka moka"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "sefate sa meetse"
+    },
+    {
+      "surface": "חבוש",
+      "gloss": "se kgomaretše"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "go hlogo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:06:57.055181336Z",
+  "model": "glm-5.3"
+}

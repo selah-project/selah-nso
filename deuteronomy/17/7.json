@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨se⟩",
+      "rationale": "Sepedi se nyaka seboleloseo; Seheberu se se sa se rego"
+    },
+    {
+      "kind": "elision",
+      "subject": "להמיתו",
+      "rationale": "se hlaloša sepheo sa seatla — 'go mo bolaya' se tseletše"
+    }
+  ],
+  "translation": "Seatla sa bapaki se tla ba ⟨se⟩ go enwa mathomong go mo bolaya, gomme seatla sa setšhaba ka moka ka mafelelo; gomme o ntšhe ⟨את⟩ sebe go gare ga gago.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1e83fa4a56b4d59225c1271daec6631b6605f071810c5bef0affecdd5ad32be0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/17\/6-7.1792304761132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יַד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "sa bapaki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "se tla ba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go enwa"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "mathomong"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "go mo bolaya"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "gomme seatla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sa setšhaba"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "ka mafelelo"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "gomme o ntšhe"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "go gare ga gago"
+    }
+  ],
+  "timestamp": "2026-10-18T06:26:01.133515480Z",
+  "model": "glm-5.3"
+}

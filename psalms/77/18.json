@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dietlhale",
+      "rationale": "חצציך e bolela diphiri\/dietlhale — baphetoleli ba bangwe ba re 'mehlaname' (karte ya logong), ba bangwe 'dietlhale'; sehlogo sa sehlwa se sa phethagantšhwa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maru a a boima",
+      "rationale": "עבות ke maru a mafifeng a boima; Sepedi se nyaka mantsu a mabedi bakeng sa lentšu le tee."
+    }
+  ],
+  "translation": "Maru a ile a neela meetse; magodimo a file modumo; gomme dietlhale tša gago di tsamaya le go boa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/77\/17-20.1792298202874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "a neela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "maru a a boima"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "a file"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "dietlhale tša gago"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "di tsamaya le go boa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:42.875401312Z",
+  "model": "glm-5.3"
+}

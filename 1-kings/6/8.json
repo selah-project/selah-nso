@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e be e le",
+      "rationale": "Seheberu ga se na copula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "hapax",
+      "subject": "לולים",
+      "rationale": "megolo ya go loga — lentšu le le se nago mehlala ye mengwe ka Sepedi ye e hlwahlwakilwego, le hlaga mo le tšweletšego kgauswi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "go hlalosa marobotho a tempole",
+      "rationale": "temana ye e hlalosa sebopego sa mmogo wa lehlakore la magareng le la boraro"
+    }
+  ],
+  "translation": "Poya ya lehlakore la magareng e be e le sekgopeng sa go ja sa ⟨⟩ ntlo, gomme ka megolo ya go loga ba ya godimo go lehlakoreng la magareng, gomme go tšwa lehlakoreng la magareng ba ya go ya la boraro.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9ea059472710b9ac5faeba7f1210926238e30c2bc979a636e3cece50c16c4900",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/6\/8-8.1792304894498.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "poya"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ya lehlakore"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "la magareng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e le"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "sekgopeng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "sa ntlo"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "sa go ja"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "gomme ka megolo ya go loga"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ba ya godimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "lehlakoreng la magareng"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "gomme go tšwa"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "lehlakoreng la magareng"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "la boraro"
+    }
+  ],
+  "timestamp": "2026-10-18T06:28:14.499419181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ba bolela ka modumo wa bona",
+      "rationale": "וישאו את קולם — go bolela ka lentšu ka go llela"
+    }
+  ],
+  "translation": "Dafida le setšhaba seo se nago ⟨את⟩ yena ba ile ba bolela ka lentšu ⟨את⟩ modumo wa bona, gomme ba llela, go fihla ge go se sa ba gona maatla a go llela.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c5a1cae895f30f68d8204c6f76e15ef79df17cc33d17bcd369bcea9b5c53f4ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/30\/1-4.1792288683489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ba bolela ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "le setšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo wa bona"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "modumo wa bona"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "ba llela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go se sa ba gona"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "כח",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "a go llela"
+    }
+  ],
+  "timestamp": "2026-10-18T01:58:03.490562499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רנה",
+      "rationale": "Sefako — modumo wa go kokotla, wa bofelo goba wa nyatšo; mme a se ke wa noši fela."
+    },
+    {
+      "kind": "invitation",
+      "subject": "thapelo",
+      "rationale": "Poko e direlwa go Yahwe — kgopelo ya go kwa."
+    }
+  ],
+  "translation": "thapelo ya ka e tle pele ga wena; o kokotše sehlana sa gago go sefako sa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e9be61345a0526ae278b5e0ab0a1d76c8f25951a4be1da4f53fd5cee2af8d07f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/88\/1-4.1792298370157.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "e tle"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga wena"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "thapelo ya ka"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "o kokotše"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sehlana sa gago"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "go sefako sa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:30.158387250Z",
+  "model": "glm-5.3"
+}

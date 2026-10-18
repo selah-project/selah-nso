@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 21:14",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go ba⟩",
+      "rationale": "Seheberu se re fela 'o tla tšea mosadi'; ⟨go ba⟩ e okeditšwe gore sefsafe se be phepa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בתולה",
+      "rationale": "Mosetsana o tliša tlhaloso ya 'motho wa mosadi yo a sa nyalwago'; lentšu la Seheberu le tšwa go 'bosephiri' bja mosetsana"
+    },
+    {
+      "kind": "crux",
+      "subject": "חללה",
+      "rationale": "Ba ba fetolelang ba fapana: 'yo a senyegilego' (KJV 'profane') kgahlanong le 'yo a bokolotšwego' go tšwa go modu wa go boba"
+    }
+  ],
+  "translation": "Mohlolohadi, le yo a tlošitšwego, le yo a senyegilego, le lewadi — ⟨את⟩ tše ga a tla di tšea; fela mosetsana wa setšhaba sa gagwe o tla tšea ⟨go ba⟩ mosadi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9140dfa80f81c9a79f810af57a24a5fca1dcc9dd36c07f61470c19e049437d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/21\/13-16.1792284122349.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "mohlolohadi"
+    },
+    {
+      "surface": "וגרושה",
+      "gloss": "le yo a tlošitšwego"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "le yo a senyegilego"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "lewadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tše"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "a tla di tšea"
+    },
+    {
+      "surface": "כי",
+      "gloss": "fela"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fela"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "mosetsana"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "wa setšhaba sa gagwe"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o tla tšea"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    }
+  ],
+  "timestamp": "2026-10-18T00:42:02.350221420Z",
+  "model": "glm-5.3"
+}

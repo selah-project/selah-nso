@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "Direct address continues: 'you have been my help'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maphego",
+      "rationale": "כנפיך 'your wings' — the dual\/two-wings shape is kept as plural 'maphego', the sheltering-bird image of Psalm 91:4."
+    }
+  ],
+  "translation": "Ka gobane o be o le thušo go nna, gomme ka seikatong sa maphego a gago ke tla rebana ka thabo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e27d25f1bef020b9d973f8f67dfe6f62fa2ad021cd065a6e8ddb3d763dc5ff25",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/63\/5-8.1792297981120.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "היית",
+      "gloss": "o be o le"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "thušo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "ka seikatong"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sa maphego a gago"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ke tla rebana ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:01.121450871Z",
+  "model": "glm-5.3"
+}

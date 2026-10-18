@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הגללים",
+      "rationale": "'dipolokwana' — sehlare sa go rapelwa se bolela karolo ya sehlare, e sego 'dipolokwana' feela."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Yahwe o bolela kgauswi le ba šomago dipolokwana: 'Le se ke la dira taba ye.'"
+    }
+  ],
+  "translation": "Gomme ba šomitše dipolokwana tšeo Yahwe a boletšego a re go bona: Le se ke la dira ⟨את⟩ taba ye.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c86d4329dba805bf3791e200eb64a55825c6f6809780aa2e1ff9896225854787",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/17\/9-12.1792290853172.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "gomme ba šomitše"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "dipolokwana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a boletšego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taba ye"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-10-18T02:34:13.174234851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lehleng",
+      "rationale": "צלע ke leribi\/lehlakore — mmele goba phahamišo ya bohle; mantšu a Seheberu a šoma gabedi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "masomepedi a mapanki",
+      "rationale": "palo ya dikarolo tša Mishkane — go bala ga kago"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mapanki",
+      "rationale": "קרשים = dipanka\/mapanko; D7 e sa tsebe — lentšu le emetše tsebe ya Sepedi"
+    }
+  ],
+  "translation": "Gomme go lehleng la bobedi la Mishkane, go ya leboa, o ile a dira ⟨את⟩ masomepedi a mapanki.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5c989036cdd483609883608c8d9a616fcad9bccd7c5e33d0d49ffb73b71bc5af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/36\/25-28.1792283386274.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "go lehleng"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "la Mishkane"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "la bobedi"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "leboa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o ile a dira"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masomepedi"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "mapanki"
+    }
+  ],
+  "timestamp": "2026-10-18T00:29:46.274890759Z",
+  "model": "glm-5.3"
+}

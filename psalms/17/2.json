@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ntšhwa⟩",
+      "rationale": "Sepedi e nyaka go ntšhwa ga selo; Seheberu se dira בל se se kopanywago e sego gona"
+    },
+    {
+      "kind": "crux",
+      "subject": "מישרים",
+      "rationale": "Bontši bja thokgamo — 'dilo tše thokgago' (KJV) kgahlanong le 'thokgamo' bjalo ka botho (JPS)"
+    }
+  ],
+  "translation": "Go tšwa pele ga gago kahlolo ya ka e tla ⟨ntšhwa⟩; mahlo a gago a tla bona thokgamo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "613f5ebf5e2899eea61296da291e5f5c715f3f5469ce6385da044a8b89f8f99f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/17\/1-4.1792297277104.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Go tšwa pele ga gago"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kahlolo ya ka"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e tla ntšhwa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mahlo a gago"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "a tla bona"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "thokgamo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:17.104761474Z",
+  "model": "glm-5.3"
+}

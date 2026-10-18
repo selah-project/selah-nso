@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke throat\/moya\/bophelo — sebopego sa motho, e sego soul ya Seroma"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותקצר נפשו",
+      "rationale": "bokhutšo bja moya wa yena: 'o gwerwe' kgatlhanong le 'ga a sa kgona go balelwa' (BSB) — go fetoga maikwelo kgatlhanong le go fedwa boemo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "boholo",
+      "rationale": "עמל ke mošomo o mobodi\/mahlwaya — go bolela phenyo le tšhotšho ya Yisraele"
+    }
+  ],
+  "translation": "Ba ba ntšha ⟨את⟩ medimo ya sekgoa magareng a bona, ba šoma ⟨את⟩ Yahwe, gomme moya wa yena wa fokola ka boholo bja Yisraele.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a99f778ab33632888c715418a31caa9e685e4a70286e1c144f3f891fedb15bb8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/10\/16-16.1792304794294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "ba ba ntšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya sekgoa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "ya sekgoa"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "magareng a bona"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "ba šoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "wa fokola"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa yena"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "ka boholo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T06:26:34.295389164Z",
+  "model": "glm-5.3"
+}

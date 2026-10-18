@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Adonai wa rena",
+      "rationale": "אדנינו — Adonai wa rena; ga go segabo se se fiwago, Leina le dula Yahwe"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה",
+      "rationale": "מה ke potšišo e tsebjago bjalo ka tebogo: 'go le kae bogolo!' — e sego potšišo ya nnete"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדנינו \/ אדיר",
+      "rationale": "Go tšwana ga mmodumo gare ga ga Adonai le adir — mmino woo o seholo go Sepedi"
+    }
+  ],
+  "translation": "Yahwe Adonai wa rena, go le kae bogolo bja leina la gago go lefase ka moka!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/8\/9-10.1792297214693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wa rena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "go le kae"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "bogolo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "go lefase ka moka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:14.694204251Z",
+  "model": "glm-5.3"
+}

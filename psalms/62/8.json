@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu ga se na copula; dipolelo tše pedi tša Sesotho-se-Ntoa di nyaka ⟨ke⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Elohim…Elohim",
+      "rationale": "Peakanyo: temana e thoma ka Elohim gomme e fela ka Elohim — tatelofatšo ya letšatši le tee"
+    },
+    {
+      "kind": "alternative",
+      "subject": "על",
+      "rationale": "'Go' (go ya go) kgahlanong le 'ka godimo ga' — go swana le 'go tshepegela go'"
+    }
+  ],
+  "translation": "Go Elohim ⟨ke⟩ tololoho ya ka le kgalogalo ya ka; leswika la maatla a ka, phologo ya ka, ⟨ke⟩ go Elohim.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "11f0049217d3c631193779867c8d020645e8c5d5d4cef56c5717fe2597ec2c43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/62\/8-8.1792305251634.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "tololoho ya ka"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "gomme kgalogalo ya ka"
+    },
+    {
+      "surface": "צור",
+      "gloss": "leswika"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "la maatla a ka"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "phologo ya ka"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "go Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:11.634823879Z",
+  "model": "glm-5.3"
+}

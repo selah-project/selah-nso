@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 38:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke moya\/bophelo, e sego molemo goba ditho tša ka gare"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מבקשי\/דרשי",
+      "rationale": "go nyaka ga moka ga phasatana — ba nyaka bophelo bja ka le mokgobo wa ka, peakanyo e bopagantšwego"
+    }
+  ],
+  "translation": "Gomme bao ba nyakago bophelo bja ka ba bea dithethekgo, gomme bao ba nyakago mokgobo wa ka ba boletše dilo tše di senyago, gomme maaka a letsatsi ka moka ba a bolela ka go ikuela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "15ecc37329783fe2dd5340cf9baf2798718760c5537513fb17315b6ee0d50b2d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/38\/13-16.1792297654821.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינקשו",
+      "gloss": "ba bea dithethekgo"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "bao ba nyakago"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja ka"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "gomme bao ba nyakago"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "mokgobo wa ka"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ba boletše"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "dilo tše di senyago"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "gomme maaka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "a letsatsi"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ba a bolela ka go ikuela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:34.822089744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 8:17",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bothakga",
+      "rationale": "גל: 'bothakga ba maswika' (KJV\/JPS) kgahlanong le 'motsi' (Geneva, go tšwa go Thargamo) — bothata bja pele ga barwaledi."
+    },
+    {
+      "kind": "addition",
+      "subject": "o a le lebelela",
+      "rationale": "Seheberu se na le go lebelela fela; ⟨le⟩ le okeditšwe bakeng sa sehlaka sa go bona."
+    }
+  ],
+  "translation": "Mešu ya yena e dutše e kgolokwe godimo ga bothakga, legae la maswika o a le lebelela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "115f7f93859ebda55517b4ccb791b2859a05f7e8c6da8d5efda980af002312ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/8\/17-20.1792300120823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "גל",
+      "gloss": "bothakga"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "mešu ya yena"
+    },
+    {
+      "surface": "יסבכו",
+      "gloss": "e kgolokwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "legae"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "la maswika"
+    },
+    {
+      "surface": "יחזה",
+      "gloss": "o a le lebelela"
+    }
+  ],
+  "timestamp": "2026-10-18T05:08:40.823814039Z",
+  "model": "glm-5.3"
+}

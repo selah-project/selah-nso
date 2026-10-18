@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ditsela",
+      "rationale": "ארחות ke ditsela tše di gogilego kgauswi — ditsela tša mawatle"
+    },
+    {
+      "kind": "addition",
+      "subject": "tše di fetago",
+      "rationale": "Seheberu se na le go re fela; sebopego sa Sepedi se nyaka sehlakana"
+    }
+  ],
+  "translation": "Dinonyana tša magodimo, le dihlapi tša lewatle, tše di fetago ditsela tša mawatle.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "eb58508ff3f199256c102446a6e0832d2f37da1a0fca7fb9c90c2143b34e5232",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/8\/9-10.1792297214693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "dinonyana"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "tša magodimo"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "le dihlapi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "tša lewatle"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "tše di fetago"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ditsela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "tša mawatle"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:14.694027259Z",
+  "model": "glm-5.3"
+}

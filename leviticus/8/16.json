@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka muši",
+      "rationale": "ויקטר bolela go fisa go ba muši wa ntle — Lentšu le tee, eupša Sepedi e nyaka tlhaloso."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mafura",
+      "rationale": "חלב ke mafura a dikarolo tše ntshegileng tša sehlabelo, e sego mafura ka moka."
+    }
+  ],
+  "translation": "Gomme a tšea ⟨את⟩ mafura ka moka a go ba godimo ga mala, le ⟨את⟩ setholetšo sa sebete, le ⟨את⟩ diphie tše pedi le ⟨את⟩ mafura a tšona, gomme Moshe a di fisa ka muši godimo ga aletare.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "582b690cadbf75d14b6fac46af90e84c73986e95429031cccc39a60853de1e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/8\/13-16.1792283705778.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "mala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "setholetšo sa sebete"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "setholetšo"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "sebete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diphie tše pedi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tše pedi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "diphie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura a tšona"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "mafura a tšona"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "a di fisa ka muši"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "aletare"
+    }
+  ],
+  "timestamp": "2026-10-18T00:35:05.779756018Z",
+  "model": "glm-5.3"
+}

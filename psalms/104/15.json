@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "pelo ya enoshi — gatelelo",
+      "rationale": "lebav enosh e phetišwa gabedi mo temaneng; go se gatele ga gona go tahlegile ka phetolelong"
+    },
+    {
+      "kind": "crux",
+      "subject": "mishamen",
+      "rationale": "'go tšwa mafura' goba 'ka mafura' — beine e ka baka go phadima sefahlego bjalo ka mafura, goba mafura a noša sefahlego"
+    }
+  ],
+  "translation": "gomme beine e tla dumedisa pelo ya enoshi, go phadimisa sefahlego ka mafura, gomme bogobe pelo ya enoshi e e thekga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e1d495dd5bbe341b1261def89a48026f5aeefad034a9bfec79bdd8f528adc5e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/13-16.1792298585293.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "gomme beine"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "e tla dumedisa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enoshi"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "go phadimisa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefahlego"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "gomme bogobe"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "enoshi"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "e thekga"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:05.294233957Z",
+  "model": "glm-5.3"
+}

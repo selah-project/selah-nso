@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mošomo wa go kgwapwa",
+      "rationale": "מקשה ke go bopša ka go kgapa tšepe — mošomo wa go kgwapwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "kerubime",
+      "rationale": "כרובים: baofisi ba mang? dibopiwa tša diswantšho tša gauta — leina le bolokwa ka modumo"
+    }
+  ],
+  "translation": "Gomme a dira kerubime tše pedi tša gauta; ka mošomo wa go kgwapwa a dira ⟨אתם⟩ tšona, mafelong a mabedi a kaporete.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "65ff8cd433a706fac5a3ccd5c9e632db4f75022f8ae92788d5e9b06882df973e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/37\/5-8.1792283429294.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gomme a dira"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tše pedi"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubime"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tša gauta"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "ka mošomo wa go kgwapwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "kerubime tše pedi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "mafelong a mabedi"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "mafelong a"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "kaporete"
+    }
+  ],
+  "timestamp": "2026-10-18T00:30:29.296816198Z",
+  "model": "glm-5.3"
+}

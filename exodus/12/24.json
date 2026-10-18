@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sekgowa",
+      "rationale": "לחק ke go kgethwa ga nako le tša go šoma — 'sekgowa' (molao wa go šoma) ke kganyetlo ye e bitlwago"
+    },
+    {
+      "kind": "alternative",
+      "subject": "molao wa go šoma",
+      "rationale": "lentšu la Sepedi la *molao* le ka šomišwa, fela sekgowa se bontšha sebopego sa go kgethwa ga mehla"
+    }
+  ],
+  "translation": "Gomme le tla boloka ⟨את⟩ lentšu le le go lebeleletšego, e tla ba sekgowa bakeng sa gago le bana ba gago, go fihla nakong yeo e sa ballo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5de0990ef451388bb22d1d032877d191f5178091c79202c58f5b42f10a84acbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/12\/24-24.1792304585099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "gomme le tla boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu le le go lebeleletšego"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le le go lebeleletšego"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "sekgowa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bakeng sa gago"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "le bana ba gago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nakong yeo e sa ballo"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:05.100309814Z",
+  "model": "glm-5.3"
+}

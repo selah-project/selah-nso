@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמניך\/שמך",
+      "rationale": "Go tšwana ga mafura (shemen) le leina (shem) — papadi ya mantšu ye e felang ka Sepedi"
+    },
+    {
+      "kind": "addition",
+      "subject": "bjalo ka",
+      "rationale": "Seheberu se ntšha go bapetša; Sepedi se se nyaka"
+    }
+  ],
+  "translation": "Bohodi bja mafura a gago bo botse; leina la gago le tloe bjalo ka mafura a a huduletšwego; ka baka la seo basetsana ba go rata.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "708639b00a5304c6985f489c6d7714dab9c2c2bae967edba93b746438fe76cd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/1\/1-4.1792300879911.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "Bohodi"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "bja mafura a gago"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "bo botse"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "bjalo ka mafura"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "a a huduletšwego"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "כן",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "basetsana"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "ba go rata"
+    }
+  ],
+  "timestamp": "2026-10-18T05:21:19.912407443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "פקדה",
+      "rationale": "'go etelwa' — sebopego sa go etela sa Molao; ka dinako tše dingwe se bolela kotlo ya go etelwa"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "kopanyi ya Sepedi ye Seheberu se se nago yona"
+    }
+  ],
+  "translation": "Lefeela ke bona, mošomo wa bofoši; ka nako ya go etelwa ga bona ba tla tima.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2429aa1c80bb6e38ef5671a6bd74d95255f5f96e5b9a9515620507030ca3642d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/10\/13-16.1792292981485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "lefeela"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "wa bofoši"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "ya go etelwa ga bona"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ba tla tima"
+    }
+  ],
+  "timestamp": "2026-10-18T03:09:41.486910252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diphopholetšo",
+      "rationale": "עלילות literally 'diphopholetšo' — dilo tšeo Elohim a di dirilego, e sego fela 'mošomo'"
+    }
+  ],
+  "translation": "Ba ile ba lebala diphopholetšo tša gagwe le dikgabo tša gagwe ao a di baontšhitšego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/9-12.1792298221002.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "ba ile ba lebala"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "diphopholetšo tša gagwe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "le dikgabo tša gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "a di baontšhitšego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:01.003966054Z",
+  "model": "glm-5.3"
+}

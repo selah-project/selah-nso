@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "והתפרדו",
+      "rationale": "'A hlahlana' (marapo a hlahlana) kgahlanong le 'a kgaogana' — diphetholelo tša kgale di fapana"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pelo",
+      "rationale": "לבי e ra pelo ya nnete, e sego maikutlo fela — lentšu le bolokwa ka botlalo"
+    }
+  ],
+  "translation": "Ke tlailwe bjalo ka meetse, gomme marapo a ka moka a hlahlana; pelo ya ka e bile bjalo ka donaka, e nyametše ka gare ga mala a ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "91233f5f52ffdf9ce5a2a3268ee7b28cec21719b3776c1eb5cb7f68dec3f8a7f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/22\/13-16.1792297383530.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "bjalo ka meetse"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "ke tlailwe"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "gomme a hlahlana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "moka"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "marapo a ka"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "bjalo ka donaka"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "e nyametše"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ka gare ga"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mala a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:03.531697233Z",
+  "model": "glm-5.3"
+}

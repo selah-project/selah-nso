@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 1:7",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "go ya ka seatla sa kgoši",
+      "rationale": "כיד המלך mo go tlwaelegilego ke 'go ya ka maatla\/tšepegetšo ya kgoši' — seatla ke sesupo sa maatla, e sego seatla ka botlalostelo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כלים מכלים",
+      "rationale": "Go boelela ga כלים...מכלים go bopa sekopanyi se se tsebagaditswego; phetolelo e boloka go boelela ka 'dineileng...dineileng'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "רב",
+      "rationale": "Go bala bontši bja beine ya bogoši — seko sa bo ntsi bja dilo."
+    }
+  ],
+  "translation": "Gomme go abelwa go noa ka dineileng tša gauta, gomme dineileng di fapana e nngwe le e nngwe go tšwa go tše dingwe, gomme beine ya bogoši e ntsi, go ya ka seatla sa kgoši.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1470362836439efd1b797e203057180283cbedbd8701741308127ecf730cb4ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/1\/6-7.1792305428020.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והשקות",
+      "gloss": "gomme go abelwa go noa"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ka dineileng"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tša gauta"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "gomme dineileng"
+    },
+    {
+      "surface": "מכלים",
+      "gloss": "go tšwa go dineileng"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "tše di fapago"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "gomme beine"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ya bogoši"
+    },
+    {
+      "surface": "רב",
+      "gloss": "e ntsi"
+    },
+    {
+      "surface": "כיד",
+      "gloss": "go ya ka seatla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa kgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T06:37:08.021433099Z",
+  "model": "glm-5.3"
+}

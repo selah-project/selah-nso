@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומלק",
+      "rationale": "Go loga khwiri — go bopa sekgowa khwiring ntle le go kgaoganya hlogo; KJV 'wring off', JPS 'pinch off'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ונמצה",
+      "rationale": "Go thunwa — go nkwa ka go kgoboketša madi; KJV 'wrung out', ASV 'drained out'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "קיר המזבח",
+      "rationale": "Sehlabelo se laetšwa lefelong la go kwala — lerago la aletare, tlhopho ya sepheo sa madi."
+    }
+  ],
+  "translation": "Gomme moperisita a e biša go aletare, a loga ⟨את⟩ hlogo ya yona, a e fiša go aletare; madi a yona a thunwa ka lerago la aletare.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8274a7219c2d6dc9f2d6bb90c82f52c357fcabf3663bc7c07cf77f9391902909",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/1\/13-16.1792283546716.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "a e biša"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "a loga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlogo ya yona"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hlogo ya yona"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a e fiša"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "go aletare"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "a thunwa"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "madi a yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "lerago"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    }
+  ],
+  "timestamp": "2026-10-18T00:32:26.717924531Z",
+  "model": "glm-5.3"
+}

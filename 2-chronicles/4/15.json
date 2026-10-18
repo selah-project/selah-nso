@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הים",
+      "rationale": "'lewatle' ke leina la selaodi se segolo sa meetse tempeleng — e sego lewatle la nnete, fela sebopego sa lona se bolokwa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "shnaim asar",
+      "rationale": "palo: dikgomo tše 12 ka fase ga selaodi"
+    }
+  ],
+  "translation": "⟨את⟩ lewatle le tee, le ⟨את⟩ dikgomo tše lesomepedi ka fase ga lona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2723865abed1ce2cc8f9d3c4705274dfdcb6f38f134fd8a0e66c9ae8b7dfd864",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/4\/13-16.1792303617246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewatle le tee"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "le tee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgomo tše lesomepedi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "tše"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesomepedi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ka fase ga lona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:06:57.248351679Z",
+  "model": "glm-5.3"
+}

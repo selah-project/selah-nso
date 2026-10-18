@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "potšišo goba bolelo",
+      "rationale": "JPS e bea potšišo ('A ba tla lela go nna?'); tše dingwe di bolela — Seheberu se sa bontšhe"
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "polelo ye e bolela go Yahwe ka go ela tlhoko — 're go tseba'"
+    }
+  ],
+  "translation": "Go ka ba tla go lela: Elohim ya ka, re Yisraele re go tseba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4b059a94e3554558d9294e9f4541e2f7ac28608b6b1ef8ee7652a9305aee229c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/8\/1-4.1792296053089.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "go ka"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "ba tla go lela"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "re go tseba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:00:53.090268756Z",
+  "model": "glm-5.3"
+}

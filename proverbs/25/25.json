@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Bjalo ka⟩",
+      "rationale": "Seheberu ga se na lentšu la go bapetša; tlhaele ya Sepedi e se nyaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pele",
+      "rationale": "נפש ke moya-o-hemago\/thoho ya maphelo, e sego 'pele' ka botlalo"
+    },
+    {
+      "kind": "crux",
+      "subject": "עיפה",
+      "rationale": "'o lapilego' kgatlhanong le 'o nyorilwego' (KJV 'thirsty') — עייף bolela go lapilega, e sego nyoru"
+    }
+  ],
+  "translation": "⟨Bjalo ka⟩ meetse a makgowakgowa go ya pele ya motho o lapilego, gomme lentšu le botse le tšwa lefaseng le kgakala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2591fc4176d9e4fb80ba66b9151bd1e46b9d17ed4724f704e8e94bd45e83f85d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/25\/25-28.1792299822186.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "a makgowakgowa"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "pele"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ya motho o lapilego"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "gomme lentšu"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "le botse"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "le tšwa lefaseng"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "le kgakala"
+    }
+  ],
+  "timestamp": "2026-10-18T05:03:42.186589508Z",
+  "model": "glm-5.3"
+}

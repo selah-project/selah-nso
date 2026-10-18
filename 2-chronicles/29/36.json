@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-chronicles 29:36",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בפתאם",
+      "rationale": "'ka tšhoganong' (suddenly) — KJV 'suddenly' vs BSB 'so quickly'; lentšu le bolela se se diragetšego ka pelo e nnyane"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הדבר",
+      "rationale": "davar ke 'lentšu\/taba'; mo 'taba' — se se dirilwego, e sego lentšu fela"
+    },
+    {
+      "kind": "addition",
+      "subject": "ye",
+      "rationale": "Sepedi e nyaka ⟨ye⟩ go hlatha taba; Seheberu se na le article fela"
+    }
+  ],
+  "translation": "Gomme Khizkiyahuu o ile a ikgantšha, gomme setšhaba ka moka, ka baka la seo Elohim a se rulagantšego go setšhaba, ka gobane taba ye e ile tša tšea tšhoganong.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f7037f92ded33c652bf5d6d2bd1c365b2c99d32fcffc8ed5de954bc165d5127f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/29\/36-36.1792305532403.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "gomme o ile a ikgantšha"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Khizkiyahuu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme ka moka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "ההכין",
+      "gloss": "a se rulagantšego"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "go setšhaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בפתאם",
+      "gloss": "tša tšea tšhoganong"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e ile"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "taba ye"
+    }
+  ],
+  "timestamp": "2026-10-18T06:38:52.404499312Z",
+  "model": "glm-5.3"
+}

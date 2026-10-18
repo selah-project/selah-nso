@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מהר",
+      "rationale": "modu o molemo o šumišwa gabedi: נמהרים (ba phakilego) le תמהר (le tla phakela) — kagare e gotšwa ka lentšu le tee"
+    },
+    {
+      "kind": "crux",
+      "subject": "נמהרים",
+      "rationale": "KJV 'rash' (ba fošago ka mašuthu) kgahlanong le go ba 'ba phakilego' — modu o ka bolela ka bobedi"
+    }
+  ],
+  "translation": "Gomme pelo ya ba phakilego e tla kwešiša tsebo, gomme lentšu la ba ranago le tla phakela go bolela mantšu a hlakilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "05fcd370f2b52b8a124c7aa18890659c4680642e1a15d7bf4beb4076bdae0ce1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/32\/1-4.1792291829527.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Gomme pelo ya"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "ba phakilego"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "e tla kwešiša"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "gomme lentšu la"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "ba ranago"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "le tla phakela"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "mantšu a hlakilego"
+    }
+  ],
+  "timestamp": "2026-10-18T02:50:29.528743783Z",
+  "model": "glm-5.3"
+}

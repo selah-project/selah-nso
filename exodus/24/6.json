@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חצי ... חצי",
+      "rationale": "go boela ga 'seka' gabedi — karoganyo ya madi ka pedi, e sa bolokegago ka botlalo ka phetolelong"
+    },
+    {
+      "kind": "crux",
+      "subject": "זרק",
+      "rationale": "go phunyelletša (sprinkle) kgathanong le go ralola (JPS 'dashed') — madi a etswa molomong wa go ralola"
+    }
+  ],
+  "translation": "Gomme Moshe a tšea seka sa madi, a se bea dijalentšheng; gomme seka sa madi a se phunyelletša godimo ga aletare.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "db104da33bc55e9b4f8505d1c05c99d96e974d8c6a38568975cdfebcad3cf4a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/24\/6-7.1792304591020.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a tšea"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "seka sa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a se bea"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "dijalentšheng"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "gomme seka sa"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "a se phunyelletša"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:11.021357944Z",
+  "model": "glm-5.3"
+}

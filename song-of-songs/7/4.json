@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שני…שני",
+      "rationale": "Palo ya 'pedi' e boutšwa gabedi, sebopego sa go swana se bonahala ka mehla"
+    },
+    {
+      "kind": "alternative",
+      "subject": "phala ya tshadi",
+      "rationale": "tseviah e ka boela e bolela 'phoofolo e tshadi ya selete'; o dirile gore o swane le 4:5 tšeo di nago le tshwanego le tše di tšwago ho"
+    }
+  ],
+  "translation": "Dibehe tša gago tše pedi e bjalo ka malesea a phala a mabedi, a tša go tswalwa mmogo, a phala ya tshadi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/7\/1-4.1792301035283.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "tše pedi"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "dibehe tša gago"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "e bjalo ka a mabedi"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "malesea a phala"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "a tša go tswalwa mmogo"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "a phala ya tshadi"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:55.284347675Z",
+  "model": "glm-5.3"
+}

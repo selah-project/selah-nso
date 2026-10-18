@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go balekisa",
+      "rationale": "הניס hi-causative ya נוס (go baleka) — 'a balekisa' o bolokile sebopego sa go baka gore o baleke"
+    },
+    {
+      "kind": "substitution",
+      "subject": "diruiwa",
+      "rationale": "מקנהו bolela diphologolo tša gae tše di reretšwego — diruiwa go swana le D4b"
+    },
+    {
+      "kind": "addition",
+      "subject": "gare ga",
+      "rationale": "מן fapaanego; 'gare ga bahlanka ba Farao' e hlagišitšwe go hlalosa seemo"
+    }
+  ],
+  "translation": "Yo a tšhabago ⟨את⟩ lentšu la Yahwe, gare ga bahlanka ba Farao, o ile a balekisa ⟨את⟩ bahlanka ba gagwe le ⟨את⟩ diruiwa tša gagwe, goya malapong.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "6f0d07f032fde5c7dd7fd588ef83aa583c79d21dec4380d20965547ae63fc755",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/9\/20-20.1792304587720.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "yo a tšhabago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "gare ga bahlanka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Farao"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "a balekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahlanka ba gagwe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "bahlanka ba gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "diruiwa tša gagwe"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "diruiwa tša gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "goya"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "malapong"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:07.721544607Z",
+  "model": "glm-5.3"
+}

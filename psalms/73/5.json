@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "enosh\/adam",
+      "rationale": "Seheberu se fapantšha אנוש (motho yo a swangago) le אדם (motho ka kakaretšo); phetolelo e tšeela bothwe."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka mošomo wa kopanyo go passiva; Seheberu o sa o seego."
+    }
+  ],
+  "translation": "Mošoring wa batho ba swangago ga ba gona; gomme le le batho ga ba ⟨ke⟩ amwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8143da0610d57f3fc6288973516239412e8d24cdde86d572ca5b226efd6b77d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/73\/5-8.1792298174841.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "mošoring wa"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "batho ba swangago"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ga ba gona"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "gomme le le"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "ba amwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:14.842236356Z",
+  "model": "glm-5.3"
+}

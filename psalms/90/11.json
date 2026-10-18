@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tlhogo ya gago",
+      "rationale": "אף is literally nose\/nostril — anger flares through the nostrils"
+    },
+    {
+      "kind": "crux",
+      "subject": "וכיראתך",
+      "rationale": "'according to your fear' — fear owed to you (JPS) or fear you impose; rendered as correspondence"
+    },
+    {
+      "kind": "invitation",
+      "subject": "go mameldiši",
+      "rationale": "rhetorical question draws the hearer to weigh the wrath of Yahwe"
+    }
+  ],
+  "translation": "Ke mang yo a tsebago maatla a tlhogo ya gago ya go hweletša? Gomme go swana le poifo ya gago, go hweletša ga gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e8d35c5276801861d77025b06d962e2cbdd4216f10d07a46f999dedc0d1c6252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/90\/9-12.1792298434214.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "yo a tsebago"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "tlhogo ya gago ya go hweletša"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "gomme go swana le poifo ya gago"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "go hweletša ga gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:34.215560933Z",
+  "model": "glm-5.3"
+}

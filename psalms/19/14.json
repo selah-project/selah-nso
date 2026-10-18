@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 19:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "boithatišo",
+      "rationale": "מזדים: 'ba ba ikgantšago' kgahlanong le 'ba ba ikemisago' — ba ba tsebago seo ba se dirago"
+    },
+    {
+      "kind": "crux",
+      "subject": "tlhaselo ya kgolo",
+      "rationale": "הפשע הרב: kgahlanong le 'tlhaselo ya kgolo' — go bonwa bjalo ka seo se sa ba le sepe, goba dibe tše dintši"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צורי → leswika la ka",
+      "rationale": "shelega v15 — e šomišitšwe fela go sedirišwa"
+    }
+  ],
+  "translation": "Le mohlanka wa gago o mo hlokomole go ba ba nago le boithatišo; a se ke ba go buša nna; mocha ke tla phethagala, gomme ke tla hlwekišwa go tšwa tlhaselo ya kgolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ab223a6635e9dbb49aa4a0363b93f0cc301ce685932b0143bda6c6fac7b8865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/19\/13-15.1792297346194.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "מזדים",
+      "gloss": "ba ba nago le boithatišo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "mo hlokomole"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "mohlanka wa gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "ba go buša"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אז",
+      "gloss": "mocha"
+    },
+    {
+      "surface": "איתם",
+      "gloss": "ke tla phethagala"
+    },
+    {
+      "surface": "ונקיתי",
+      "gloss": "gomme ke tla hlwekišwa"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "go tšwa tlhaselo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ya kgolo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:26.195552938Z",
+  "model": "glm-5.3"
+}

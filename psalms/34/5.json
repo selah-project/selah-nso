@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דרשתי … מגורותי",
+      "rationale": "Psalm 34 is an acrostic; verse 5 carries the letter ה, and its structure is repeated almost verbatim in verse 7 (poor man cried \/ heard \/ delivered) — a framing parallelism."
+    },
+    {
+      "kind": "crux",
+      "subject": "מגורותי",
+      "rationale": "'My fears\/terrors' (megurot) vs 'my troubles' — some read 'the places that terrify me', i.e. sojournings (from גור); KJV 'fears' vs 'troubles'."
+    }
+  ],
+  "translation": "Ke nyakile ⟨את⟩ Yahwe, gomme o arabetše ka, gomme o ntšhitše go tšwa go ditšhogo tša ka ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/5-8.1792297542389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "Ke nyakile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "gomme o arabetše ka"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "gomme go tšwa go … ka moka"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "ditšhogo tša ka"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "o ntšhitše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:42.390650402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba re",
+      "rationale": "Sepedi e nyaka go tsebagatša puo yeo e latelago; Seheberu se e hloka"
+    },
+    {
+      "kind": "you",
+      "subject": "manaba a ka",
+      "rationale": "Motshebi o bolela ka manaba a gagwe ka go ba bitša ka tlhomo"
+    }
+  ],
+  "translation": "Manaba a ka a bolela sebe ka nna, ba re: Nako efe ge a tla hwa, gomme leina la gagwe le tla lahlegala?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1296a60ca1ae784200f4d76abfea6bfd70e379b92df86159ead5b64540ebb802",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/41\/6-7.1792305197942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "manaba a ka"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nako efe"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "a tla hwa"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "gomme le tla lahlegala"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:17.943407058Z",
+  "model": "glm-5.3"
+}

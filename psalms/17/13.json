@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפשי ke mothoši\/thoho\/mafula a bophelo — sefahlogo sa Sepedi se sa bontše seo ka botlalo"
+    },
+    {
+      "kind": "crux",
+      "subject": "מרשע חרבך",
+      "rationale": "KJV: 'yo a hloyago, yo e lego tšhoša ya gago'; YLT\/JPS: 'go yo a hloyago, ka tšhoša ya gago' — go swana kgauswi le tshebo ya sebego"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Pelelo ya moprofeta e bitša Yahwe ka lebaka la go lolamoša"
+    }
+  ],
+  "translation": "Tšoga, Yahwe, eta pele sefahlogo sa gage; mo tutumeditše; ntlogetše moya wa ka go yo a hloyago, ka tšhoša ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/17\/13-15.1792297228643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "tšoga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "eta pele"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahlogo sa gage"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "mo tutumeditše"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "ntlogetše"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "go yo a hloyago"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ka tšhoša ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:28.643870776Z",
+  "model": "glm-5.3"
+}

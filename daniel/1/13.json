@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 1:13",
+  "book": "daniel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פתבג",
+      "rationale": "Lentšu la Peresia le bolelang dijo tše di ntle tša kgoši; ba ba ngwalelang ba fapana: 'nama', 'dijo', 'dinyakwa'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ראה \/ מראה",
+      "rationale": "Boeledi bja modu wa go bona (ויראו, מראינו, ומראה, תראה) — tlhago ya temana ye ka moka ke go bonagala."
+    },
+    {
+      "kind": "you",
+      "subject": "go molaodi wa dijo",
+      "rationale": "Daniele o bolela ka go lebana le molaodi wa dijo tša kgoši."
+    }
+  ],
+  "translation": "Gomme go bonagale pele ga gago sebopego sa rena, le sebopego sa bana ba jaago ⟨את⟩ dinyakwa tša kgoši; gomme bjalo ka ge o bonago, o dire le bahanka ba gago.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5067c7a39eaa2934fb4ef7273d34d8e92fb790d2e07d0b51cee22b89bdd7b5cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/1\/13-16.1792301691986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "gomme go bonagale"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "מראינו",
+      "gloss": "sebopego sa rena"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "le sebopego"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "sa bana"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "ba jaago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinyakwa tša kgoši"
+    },
+    {
+      "surface": "פתבג",
+      "gloss": "dinyakwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "tša kgoši"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "gomme bjalo ka ge"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o bonago"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dire"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "bahanka ba gago"
+    }
+  ],
+  "timestamp": "2026-10-18T05:34:51.987236571Z",
+  "model": "glm-5.3"
+}

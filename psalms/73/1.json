@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le keramela; Sepedi se e nyaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pelo e hlwekilego",
+      "rationale": "לברי לבב: 'bao pelo ea bona e hlwekilego' — lentšu le bolela gape 'botala\/botlhackeletšo'"
+    }
+  ],
+  "translation": "Psalama ya Asafe: ka nnete Elohim ⟨ke⟩ botswe go Yisraele, go bao ba nago le pelo e hlwekilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/73\/1-4.1792298130299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalama"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafe"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ka nnete"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "botswe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "go bao"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo e hlwekilego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:30.300321623Z",
+  "model": "glm-5.3"
+}

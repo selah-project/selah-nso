@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מי יתן",
+      "rationale": "Literal 'who will give' = optative 'oh that'; rendered as wish 'a ebe o ka fago'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שבות",
+      "rationale": "'dikgolegwa' (captives, concrete) vs 'former state of prosperity' (figurative restoration); Sepedi takes the concrete sense."
+    }
+  ],
+  "translation": "A ebe o ka fago poloko ya Yisraele go tšwa go Tsiyone! Ge Yahwe a bušetša dikgolegwa tša setšhaba sa gagwe, Yaakobo o tla thabela, Yisraele o tla nyakologa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "89dffb7fa07d7843d987d6eb0864d529d8029060358ba5764b434165b0ed1d8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/14\/5-7.1792297290065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "a ka fa"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "go tšwa go Tsiyone"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "poloko ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "ge a bušetša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "dikgolegwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setšhaba sa gagwe"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "o tla thabela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "o tla nyakologa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:30.066516478Z",
+  "model": "glm-5.3"
+}

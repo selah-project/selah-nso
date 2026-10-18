@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "molomo",
+      "rationale": "Bafofetiši ba bangwe ba ngwala 'commandment ya Yahwe'; Seheberu se re 'molomo' ka tlwaelo."
+    },
+    {
+      "kind": "elision",
+      "subject": "bjalo ka go boruo ba lona",
+      "rationale": "KJV e oketša 'as it was against your fathers'; sehleng se Seheberu ga se gona."
+    }
+  ],
+  "translation": "Gomme ge le sa theetše lentšu la Yahwe, gomme la ganwa ⟨את⟩ molomo wa Yahwe, seatla sa Yahwe se tla ba godimo ga lena le go boruo ba lena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b9b57bec0d3214cc0a1bc968d8a9af358b67897e21f8313d1d1cd11c742df334",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/12\/13-16.1792288131721.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "theetše"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "la ganwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "molomo wa Yahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "se tla ba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sa Yahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "godimo ga lena"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "le go boruo ba lena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:48:51.722995130Z",
+  "model": "glm-5.3"
+}

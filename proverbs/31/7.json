@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יזכר",
+      "rationale": "gloss ya yena e 'gopole' e sego 'bone' — go gopola ke go tšwa pelong; mo efange 'a sa gopole gape'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישתה\/ישכח",
+      "rationale": "dikamanetšo tša modumo šata\/šaka tša go bušetšwa terameng ye le ya 5 — dilo tše pedi tša go noa le go lebala di tletše tlhamane"
+    }
+  ],
+  "translation": "A nofe gomme a lebale bohloki bja yena, gomme bohloko bja yena a sa bone gape.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1bc39d6e3b1165464627322ae7705ffb4bb3c55c93f714709737976f13e7d83b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/31\/5-8.1792299999700.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "a nofe"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "gomme a lebale"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "bohloki bja yena"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "gomme bohloko bja yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "gopole"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:39.701205826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "naga e se nago meetse",
+      "rationale": "מדבר le bolela lefelo le le bulegilego la dikgomo, gomme se tšwa go ba naga e se nago meetse"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "Seheberu se se na seka sa ⟨את⟩ mo; se se okeditšwego ka Sepedi go bontšha selekane"
+    }
+  ],
+  "translation": "Lentšu la Yahwe le tshikinya ⟨את⟩ naga e se nago meetse; Yahwe o tshikinya ⟨את⟩ naga e se nago meetse ya Kadeshe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/29\/5-8.1792297448743.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "le tshikinya"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "naga e se nago meetse"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "o tshikinya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "naga e se nago meetse"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ya Kadeshe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:08.744344159Z",
+  "model": "glm-5.3"
+}

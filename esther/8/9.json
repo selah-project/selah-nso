@@ -1,0 +1,211 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 8:9",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "letšatši le dipalo tša diprofense",
+      "rationale": "Kgwedi ya boraro (Siwane), la 23, le diprofense tše 127 go tšwa Hodu go fihla Kushe — temana ya go bala ka botlalo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדינה ומדינה · עם ועם",
+      "rationale": "Go buseletša ga phrasanti go bontšha go phatlalatšwa ga mangwolo go fihla profense le profense, setšhaba le setšhaba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ספרי",
+      "rationale": "Sofrim — bakgodi ba mengwalo, e sego feela 'ba bangwe ba ngwalago'."
+    }
+  ],
+  "translation": "Ba bitšwa bakgodi ba mengwalo ba kgoši ka nako yeo, ka kgwedi ya boraro, e lego kgwedi ya Siwane, ka la masomepedi le tharo la yona; gomme go ngwalwa bjalo ka tšohle tše Mordekai a di laeditšego go Bajuda, le go di-satrapa, le dipaka, le dikgoši tša diprofense tše di lego go tšwa Hodu go fihla Kushe — diprofense tše šupang le masomepedi le lekgolo — porofense le porofense go ya ka mongwalo wa yona, le setšhaba le setšhaba go ya ka polelo ya sona, le go Bajuda go ya ka mongwalo wa bona le polelo ya bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e3e5cd678a38e069c7c1897d4a8e0c31d43f1a2521e76f70bd441980cfdfaa22",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/8\/9-12.1792301777740.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "ba bitšwa"
+    },
+    {
+      "surface": "ספרי",
+      "gloss": "bakgodi ba mengwalo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ba kgoši"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ka kgwedi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ya boraro"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e lego"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "סיון",
+      "gloss": "Siwane"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "ka la tharo"
+    },
+    {
+      "surface": "וועשרים",
+      "gloss": "le masomepedi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "la yona"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "gomme go ngwalwa"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "bjalo ka tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a di laeditšego"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordekai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Bajuda"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "האחשדרפנים",
+      "gloss": "di-satrapa"
+    },
+    {
+      "surface": "והפחות",
+      "gloss": "le dipaka"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le dikgoši tša"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "diprofense"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "go tšwa Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kushe"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "tše šupang"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "le masomepedi"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "le lekgolo"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "diprofense"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "porofense"
+    },
+    {
+      "surface": "ומדינה",
+      "gloss": "le porofense"
+    },
+    {
+      "surface": "ככתבה",
+      "gloss": "go ya ka mongwalo wa yona"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "le setšhaba"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "le setšhaba"
+    },
+    {
+      "surface": "כלשנו",
+      "gloss": "go ya ka polelo ya sona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Bajuda"
+    },
+    {
+      "surface": "ככתבם",
+      "gloss": "go ya ka mongwalo wa bona"
+    },
+    {
+      "surface": "וכלשונם",
+      "gloss": "le polelo ya bona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:36:17.741250854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 39:29",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lesela la go ikganetša",
+      "rationale": "האבנט ke thethi ya moperisita; Sepedi ga se na lentšu le tee, ka gona le hlathollwa"
+    },
+    {
+      "kind": "elision",
+      "subject": "תולעת שני",
+      "rationale": "'tolaat ya šani' — tlhaka e bolela khune ya mmala wa bodukdu; modumo wa Seheberu o bolokwa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mošomo wa mogopamiši",
+      "rationale": "Tiragalo ye ke karolo ya lenaneo la go aga Mishkane, go lekanya mošomo ka gore o phethilwe"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ lesela la go ikganetša la šeš la go kgopanya, le tekelete, le argamane, le tolaat ya šani — mošomo wa mogopamiši — bjalo ka ge Yahwe a laeditše ⟨את⟩ Moshe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "7b4f7605752a1bdedf7f0989c49a9dfc6b303d2feb54cec17642135abfe9f899",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/39\/29-32.1792283545861.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Gomme ⟨את⟩",
+      "marks": "lesela la go ikganetša"
+    },
+    {
+      "surface": "האבנט",
+      "gloss": "lesela la go ikganetša"
+    },
+    {
+      "surface": "שש",
+      "gloss": "šeš"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "la go kgopanya"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "le tekelete"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "le argamane"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "le tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ya šani"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "wa mogopamiši"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laeditše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:32:25.862537150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 37:34",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨se⟩",
+      "rationale": "Seheberu se feletše ka sebišo — o tla bona; seabi se okeditšwe go Sepedi."
+    },
+    {
+      "kind": "elision",
+      "subject": "בהכרת",
+      "rationale": "Sethošo sa go kgaola sa lefoko la go timiwa se phetišitšwe — „ge ba timiwa“."
+    }
+  ],
+  "translation": "Emetša go Yahwe, gomme boloka tsela ya gage, gomme o tla go godiša go ba le ⟨את⟩ lefase; ge ba bebe ba timiwa, o tla bona ⟨se⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e35d96f0cad5c91005cc3d5dbf35260abc95dbea183174aa42c81731a35b560c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/37\/33-36.1792297643707.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Emetša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "gomme boloka"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tsela ya gage"
+    },
+    {
+      "surface": "וירוממך",
+      "gloss": "gomme o tla go godiša"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "go ba le ⟨את⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "ge ba timiwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba bebe"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "o tla bona ⟨se⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:23.707975099Z",
+  "model": "glm-5.3"
+}

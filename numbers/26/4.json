@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 26:4",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "palho",
+      "rationale": "Go tšwela pele taero ya palho — mengwaga ye masomepedi le godimo."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וּבְנֵי יִשְׂרָאֵל",
+      "rationale": "Kgatelelo: 'bjalo ka ge Yahwe a laeditše Moshe le bana ba Yisraele' kgotalo 'bana ba Yisraele bao ba tšwago lefaseng la Mitsrayime' — badudi ba fapana."
+    }
+  ],
+  "translation": "Go tšwa go mora wa mengwaga ye masomepedi le godimo, bjalo ka ge Yahwe a laeditše ⟨את⟩ Moshe, le bana ba Yisraele, bao ba tšwago lefaseng la Mitsrayime.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9f791db1380c77a7650ba7abcb71779213d542ef6b50378c002d1ea6d780ff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/26\/1-4.1792285128354.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "go tšwa go mora wa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masomepedi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "le godimo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laeditše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "le bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "bao ba tšwago"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "lefaseng la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-18T00:58:48.355756937Z",
+  "model": "glm-5.3"
+}

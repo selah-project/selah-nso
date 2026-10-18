@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 18:13",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "או",
+      "rationale": "Petrši e sa phathegago: KJV 'otherwise', YLT 'or' — ge mo e agela mo go rego 'goba ke be ke dirile'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בנפשו",
+      "rationale": "nefesh ke go hema\/bophelo, e sego moya fela; diphetholelo tše dingwe di re 'bophelo bja ka', tše dingwe 'bophelo bja yena'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "מנגד",
+      "rationale": "'lehlakoreng le le lengwe' goba 'o ka ntlela mo go nna' — Joabe a ka se eme le motho yo a dirile sešofošago."
+    }
+  ],
+  "translation": "Goba ke be ke dirile sešofoša go moya wa bophelo bja ka, gomme taba e nngwe le e nngwe ga e ka utilwa go kgoši, gomme wena o ka itsema lehlakoreng le le lengwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "821b156a94c815aa36524c578d346c97aa143cb0a139a59ae304b6a256db2cb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/18\/13-16.1792289375367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke dirile"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "go moya wa bophelo bja ka"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sešofoša"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme taba e nngwe le e nngwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יכחד",
+      "gloss": "e utilwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "gomme wena"
+    },
+    {
+      "surface": "תתיצב",
+      "gloss": "o ka itsema"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "lehlakoreng le le lengwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:09:35.367970492Z",
+  "model": "glm-5.3"
+}

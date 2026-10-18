@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka copula; Seheberu ga e e na"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "Leina la Seheberu le bolokwa go ya ka D2; 'toko' ka noe e le nnoši e tloša modu wa lona"
+    },
+    {
+      "kind": "crux",
+      "subject": "וחסיד",
+      "rationale": "Kganetšo ya mofetoledi: 'o na le hesede' (ya KJV 'holy') kgatlhanong le 'a rata' \/ 'mohlokomedi' — hesede ke botho bja kgwerano"
+    }
+  ],
+  "translation": "Tsedeke ke Yahwe ditseleng tša gagwe ka moka, gomme o na le hesede mošomong wa gagwe wo mongwe le wo mongwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/145\/17-20.1792299103647.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ditseleng tša gagwe"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "gomme o na le hesede"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wo mongwe le wo mongwe"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "mošomong wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:43.648411548Z",
+  "model": "glm-5.3"
+}

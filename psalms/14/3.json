@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נאלחו",
+      "rationale": "poledišo ye e nyenyane ya אלח e tšwa mo go Tanakh kae kapa kae"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ga go … ga go",
+      "rationale": "Go boela ga 'ga go' ka lapeng la psalme di feta ka go gatelela go se nago molato"
+    }
+  ],
+  "translation": "Ba ka moka ba feditše tšhela, mmogo ba senyegile; ga go yo a dirago sebotse, ga go le o tee.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/14\/1-4.1792297302025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ba ka moka"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ba feditše tšhela"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ba senyegile"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo a dirago"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sebotse"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o tee"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:42.026913583Z",
+  "model": "glm-5.3"
+}

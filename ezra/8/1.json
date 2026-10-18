@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 8:1",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "magoshi",
+      "rationale": "ראשי אבתיהם — 'magoshi a bo-bona batala', tlhaho ya bodudi ya malapa, e sego boholo bja botho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "go ingwalolla ka bouena",
+      "rationale": "lenaneo la go bala le go ngwala batho ka bouena bja bona"
+    }
+  ],
+  "translation": "Gomme ke bana, magoshi a bo-bona batala, le go ingwalolla ka bouena bja bona, bao ba tlileng le nna ka bogoši bja Artakhšaste, kgoši, go tšwa Babulone.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "15e4c72dc9a7d2bc1404039cb40a0e8e5bf9e684e8ff3b69b7942190ce344a0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/8\/1-4.1792302364839.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "gomme ke bana"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "magoshi a"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "bo-bona batala"
+    },
+    {
+      "surface": "והתיחשם",
+      "gloss": "le go ingwalolla ka bouena bja bona"
+    },
+    {
+      "surface": "העלים",
+      "gloss": "bao ba tlileng le nna"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "ka bogoši bja"
+    },
+    {
+      "surface": "ארתחשסתא",
+      "gloss": "Artakhšaste"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "go tšwa Babulone"
+    }
+  ],
+  "timestamp": "2026-10-18T05:46:04.840507852Z",
+  "model": "glm-5.3"
+}

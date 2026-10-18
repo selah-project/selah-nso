@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 36:11",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bearala",
+      "rationale": "פרו ke go dira ditlhare — e šomišwa ka botho le diphoofolo; 'bearala' ke lentšu la Sepedi le lemogago phologolo"
+    },
+    {
+      "kind": "you",
+      "subject": "to dithaba tša Yisraele",
+      "rationale": "Go tšwela pele ga polelo ya go lona"
+    }
+  ],
+  "translation": "Gomme ke tla oketša go lona batho le diruiwa, gomme di tla ata gomme di tla bearala, gomme ke tla duediša ⟨את⟩ lona bjalo ka mellwaneng ya lona, gomme ke tla loka go feta mathomong a lona, gomme le tla tseba gore ke nna Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "64e9d588819c13e4e36c242a7a78a2b9015ff822bbffaaa0184400878c1def50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/36\/9-12.1792295481504.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והרביתי",
+      "gloss": "gomme ke tla oketša"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "le diruiwa"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "gomme di tla ata"
+    },
+    {
+      "surface": "ופרו",
+      "gloss": "gomme di tla bearala"
+    },
+    {
+      "surface": "והושבתי",
+      "gloss": "gomme ke tla duediša"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona (go dithaba tša Yisraele)"
+    },
+    {
+      "surface": "כקדמותיכם",
+      "gloss": "bjalo ka mellwaneng ya lona"
+    },
+    {
+      "surface": "והטבתי",
+      "gloss": "gomme ke tla loka"
+    },
+    {
+      "surface": "מראשתיכם",
+      "gloss": "go feta mathomong a lona"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "gomme le tla tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:51:21.509957998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 15:27",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Saeule",
+      "rationale": "Seheberu se se tsebo ka sehla se sa bolela seo ḿodiši a swago kobo — sehlodi se okeditšwe gohlantšhwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויקרע",
+      "rationale": "Modu wa 'la robega' — kobo e robega (bjalo ka KJV) goba Saeule a e robeka ka boomo; poleloana ye e sa hlaka e laetše sehlodi."
+    }
+  ],
+  "translation": "Gomme Samuele a retolla go tšwa, gomme ⟨Saeule⟩ a swara lephego la kobo ya gagwe, gomme la robega.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "73b0da0a52185a0dbc56080644a165955a2842b281fbe3342d099fe0d263981e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/15\/25-28.1792288227496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "gomme a retolla"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "gomme a swara"
+    },
+    {
+      "surface": "בכנף",
+      "gloss": "lephego la"
+    },
+    {
+      "surface": "מעילו",
+      "gloss": "kobo ya gagwe"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "la robega"
+    }
+  ],
+  "timestamp": "2026-10-18T01:50:27.497400113Z",
+  "model": "glm-5.3"
+}

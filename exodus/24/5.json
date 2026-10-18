@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebego sa go fišwa",
+      "rationale": "עלת ke 'se sago godimo' — sehlabelo se se fišwago ka moka go Yahwe; 'noka' ke mmele wa go fišwa fela."
+    },
+    {
+      "kind": "crux",
+      "subject": "שלמים",
+      "rationale": "dinehlabelo tša kagiso: 'peace offerings' kgotalo 'fellowship offerings' — lentšu le tšwa go שלם (go felela, kagiso)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויזבחו זבחים",
+      "rationale": "go hlabela dinehlabelo — phetišo ya lereo le le tee (vezibbepu-zvabbim), e laletšago lethabo ka go Sepedi."
+    }
+  ],
+  "translation": "A ba a romela ⟨את⟩ bashanyana ba bara ba Yisraele, ba ile ba ka dinoka tše dikgolo tša go fišwa, gomme ba hlabela dinehlabelo tša kagiso go Yahwe — nonyane tše dinnyane tša dikgomo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "22a3052ee3f3567c28faa99eb03be029a34293926c7209b9edd06eb62f17fc57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/24\/5-8.1792282951340.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a ba a romela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bashanyana ba bara ba Yisraele"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "bashanyana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bara"
+    },
+    {
+      "surface": "י שראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba ka"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "dinoka tše dikgolo tša go fišwa"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "ba hlabela"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "dinehlabelo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "tša kagiso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "nonyane tše dinnyane tša dikgomo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:22:31.341195925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "fihla sefahleho",
+      "rationale": "סתר פנים — go fihla sefahleho ke kgopolo ya Seheberu ya go gana, e sego sefahleho sa tlhaga"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עונתי",
+      "rationale": "עון ke go fapafapa, phapafalo — 'melato' e bea selekanyo seo Seheberu se sa se beego"
+    }
+  ],
+  "translation": "Fihla sefahleho sa gago mahlong a dibe tša ka, gomme phimotše melato ya ka ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fcfd381850c8a518c54c2a83a4ce83b479cb0cc31f557f8eedd98cc3183ecb09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/51\/9-12.1792297843129.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "fihla"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "sefahleho sa gago"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "go tšwa dibeeng tša ka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme ka moka"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "melato ya ka"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "phimotše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:43.129878972Z",
+  "model": "glm-5.3"
+}

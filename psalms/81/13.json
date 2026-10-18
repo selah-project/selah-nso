@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bothata",
+      "rationale": "שרירות ke bokgore bja pelo — 'bothata bja pelo' ke seka sa yona, e sego lentšu le tee la Sepedi"
+    }
+  ],
+  "translation": "Gomme ka ba romela ka bothata bja dipelo tša bona, ba tsamaya ka maikemišetšo a bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e4ffb89c27f0364e77dd523f405ebb673eff777b41e2601450633ca81424851",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/81\/13-16.1792298278480.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "gomme ka ba romela"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "ka bothata"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "bja dipelo tša bona"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba tsamaya"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "ka maikemišetšo a bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:58.480800868Z",
+  "model": "glm-5.3"
+}

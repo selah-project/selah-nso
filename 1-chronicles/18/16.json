@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Abimeleke mora Abiatara",
+      "rationale": "2 Sam 8:17 e bala 'Ahimeleke mora Abiatara' — Dipolane tša Nako tše 1 di fapana le tša 2 Samuele ka tatelano ya maina a baperisita."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mongwadi",
+      "rationale": "סופר ke mongwadi wa kgotla ya kgoši, e sego mongwadi fela wa dipuku."
+    }
+  ],
+  "translation": "Gomme Tsadoke mora Ahitube, le Abimeleke mora Abiatara, e be baperisita; gomme Shawshae ⟨e⟩ mongwadi.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/18\/13-16.1792303271505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "Gomme Tsadoke"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ahitube"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "le Abimeleke"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Abiatara"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "baperisita"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "gomme Shawshae"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "mongwadi"
+    }
+  ],
+  "timestamp": "2026-10-18T06:01:11.506618308Z",
+  "model": "glm-5.3"
+}

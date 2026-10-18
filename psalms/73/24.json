@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kgelešo",
+      "rationale": "כבוד: 'kgelešo\/tumo' (KJV 'glory') kgahlanong le ylt 'tumelo\/honour'; ba bangwe ba e bala bjalo ka 'maphelo a ka morago' ka go sepelelana le sebopego sa psalmo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואחר כבוד תקחני",
+      "rationale": "Kgetho ya bobedi: 'gomme ka kgelešo o mppelela' — כבוד e ka ba mošomo wa go amega, e sego lefelo"
+    }
+  ],
+  "translation": "Ka megwalo ya gago o ntata, gomme ka morago o mppelela kgelešo",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e00f4daa04ca29ea4052336dc5fca6306a2c0b5fb5c272cb95eccb282aae391",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/73\/21-24.1792298165309.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "ka megwalo ya gago"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "o ntata"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "gomme ka morago"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgelešo"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "o mppelela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:05.310590471Z",
+  "model": "glm-5.3"
+}

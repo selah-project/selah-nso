@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 6:16",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kgetho",
+      "rationale": "חנכת ke kgetho\/dikgetho tša ntlo go ya le Melao ya bošego — 'kgetho ya ntlo' e šomišwa go boloka modu o tee wa qedush-kebbole."
+    },
+    {
+      "kind": "elision",
+      "subject": "botshwarwa",
+      "rationale": "גלותא e bolela batho bao ba hlabilwego morago — 'bana ba botshwarwa' ke sehlopha se se tsebego gabotse karabolong ya Ezdra."
+    }
+  ],
+  "translation": "Gomme bana ba Yisraele — baperisita, balewi, le ba-šelela ba bana ba botshwarwa — ba dirile kgetho ya ntlo ya Elaha ye ka thabo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "72de1c704595ee46de1896f85a8d5505a702ba54afd2c8898d526b79acdb2848",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/6\/13-16.1792302273047.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "gomme ba dirile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "כהניא",
+      "gloss": "baperisita"
+    },
+    {
+      "surface": "ולויא",
+      "gloss": "le balewi"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "le ba-šelela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ba bana ba"
+    },
+    {
+      "surface": "גלותא",
+      "gloss": "botshwarwa"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "kgetho ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo ya"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Elaha"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בחדוה",
+      "gloss": "ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:44:33.048934543Z",
+  "model": "glm-5.3"
+}

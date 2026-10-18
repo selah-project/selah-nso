@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e le",
+      "rationale": "Seheberu se se na le kopula; Sepedi se e nyaka gore temana e twe ka yona."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לב ... לב \/ בבית ... בבית",
+      "rationale": "Kiehi: pelo–ntlo–pelo–ntlo, mošomo wa go bapetša bahlalefi le baphoši."
+    }
+  ],
+  "translation": "Pelo ya bahlalefi ⟨e le⟩ gare ga ntlo ya go lila, gomme pelo ya baphoši ⟨e le⟩ gare ga ntlo ya thabo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "88416ebfdb9190a4ed711f197ac7969d1185e9aba19ea520cb1612e01ed1de8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/7\/1-4.1792301464045.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ya bahlalefi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "gare ga ntlo"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ya go lila"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "gomme pelo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ya baphoši"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "gare ga ntlo"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ya thabo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:31:04.046690086Z",
+  "model": "glm-5.3"
+}

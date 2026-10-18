@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 19:15",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "metse ye masomepedi",
+      "rationale": "Palo ya metse ya kgoro ya Zebulone — lesome le pedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "madulo",
+      "rationale": "חצרים ke dikgoro tše dikgitšago \/ metse ya menyenyane; \"madulo\" e bontšha diphoofolo tša go dulwa."
+    }
+  ],
+  "translation": "le Kotate, le Nahalale, le Shimrone, le Jidala, le Beti-Lekeme — metse ye masomepedi, le madulo a tšona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "12d7bf4b6a4769e24aa785605c5e8ad60581a8961922c2d4a81af1bd57885d44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/19\/13-16.1792286951137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקטת",
+      "gloss": "le Kotate"
+    },
+    {
+      "surface": "ונהלל",
+      "gloss": "le Nahalale"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "le Shimrone"
+    },
+    {
+      "surface": "וידאלה",
+      "gloss": "le Jidala"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "le Beti-Lekeme"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "(Lekeme)"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "masomepe-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-pedi"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "le madulo a tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:29:11.138733729Z",
+  "model": "glm-5.3"
+}

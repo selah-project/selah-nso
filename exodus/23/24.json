@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרס תהרסם · ושבר תשבר",
+      "rationale": "Twin infinitive-absolute constructions — 'demolishing you shall demolish, smashing you shall smash' — kept as doubling."
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraele",
+      "rationale": "Chain of direct prohibitions addressed to Israel."
+    },
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "אלהיהם of the nations rendered with lowercase medimo per the name discipline — not Elohim."
+    }
+  ],
+  "translation": "O se ke wa inamela medimong ya bona, o se ke wa e šoma, o se ke wa dira bjalo ka mošomo wa bona; gobane go senya o e senye, gomme go thuthula o e thuthule maswika a bona a maemo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/23\/21-24.1792282898175.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "wa inamela"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "medimong ya bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o se ke gape"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "wa e šoma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "o se ke gape"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wa dira"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "bjalo ka mošomo wa bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "go senya"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "o e senye"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "go thuthula"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "o e thuthule"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "maswika a bona a maemo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:38.179425604Z",
+  "model": "glm-5.3"
+}

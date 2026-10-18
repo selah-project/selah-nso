@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "גוי\/בגויים",
+      "rationale": "go ngwalwa ga bobedi ga go latelelane gabotse mo thutong ya sepadi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "boipiletšo",
+      "rationale": "נקמה — boipiletšo bja madi; 'nkekeng' e ka se kgone go hlalosa go fihla godimo"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "thapelo e kopa Yahwe a bontšhe maatla pele ga ditšhaba"
+    }
+  ],
+  "translation": "Ke gore bjang ditšhaba di ka re: Elohim wa bona o kae? A go tsebišwe go ditšhabeng ka mahlo a rena boipiletšo bja madi a bahlanka ba gago, bja go thulwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/79\/9-12.1792298320965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ke gore bjang"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "di ka re"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "איה",
+      "gloss": "o kae"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "a go tsebišwe"
+    },
+    {
+      "surface": "בגיים",
+      "gloss": "go ditšhabeng"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "ka mahlo a rena"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "boipiletšo bja"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "a bahlanka ba gago"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "bja go thulwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:40.966317983Z",
+  "model": "glm-5.3"
+}

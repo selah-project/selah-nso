@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גן\/גל",
+      "rationale": "Chiasm ya mantsu a mabeli a theilwego go g — ngwalo ya Sepedi e a e lahla."
+    },
+    {
+      "kind": "substitution",
+      "subject": "גל",
+      "rationale": "'Gal' ke mopho wa meetse mo lefelong le, e sego hlama ya maswika bjalo ka modumo wa lentšu ka gore."
+    },
+    {
+      "kind": "crux",
+      "subject": "חתום",
+      "rationale": "'O koletšwego' — go swalelwa ka sekhutumela; Sepedi ga se na lentšu le tee le feleletšego bakeng sa go kgethwa ka sekhutumela sa khale."
+    },
+    {
+      "kind": "mystery",
+      "subject": "verse",
+      "rationale": "Temana ye e nyoretše dilo tše tharo — sekgoba se se tswaletšwego se isago pele ga motho wa go se bula."
+    }
+  ],
+  "translation": "Serapa se tswaletšwego ke kgaetšedi ya ka, ngwetši ya ka; mopho o tswaletšwego, mošomo wa meetse o koletšwego.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9eac53214d7e5e75cb5efdae156338825633e3f279a60fa5957057e88e23bc57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/4\/12-12.1792305378412.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "serapa"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "se tswaletšwego"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "kgaetšedi ya ka"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ngwetši ya ka"
+    },
+    {
+      "surface": "גל",
+      "gloss": "mopho"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "o tswaletšwego"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "mošomo wa meetse"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "o koletšwego"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:18.413286965Z",
+  "model": "glm-5.3"
+}

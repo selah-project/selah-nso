@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 28:45",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mehla",
+      "rationale": "קללות is a feminine plural noun meaning 'curses', rendered as plural noun 'mehla' in Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mehla",
+      "rationale": "This Sepedi word also means 'years'; here specifically the curses of the covenant context."
+    },
+    {
+      "kind": "elision",
+      "subject": "בקול",
+      "rationale": "Hebrew 'in the voice of' rendered simply as 'lentšung' (in the word\/voice)."
+    }
+  ],
+  "translation": "Mehla yohle e tla o hwetša, gomme e tla o latedla, gomme e tla o hwetša gape, go fihlela o timetšwa; gobane o ka se oa theetša lentšung la Yahwe Elohim wa gago, go boloka melao ya gagwe le ditekanyetšo tša gagwe tšeo a di go laeditšego.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1f73694980dbef0bf8ab8657d8e1cba56fe22d008ade40749fde568454a7594b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/28\/45-48.1792286242427.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "e tla o hwetša"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "הקללות",
+      "gloss": "mehla"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "e tla o latedla"
+    },
+    {
+      "surface": "והשיגוך",
+      "gloss": "e tla o hwetša gape"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "o timetšwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "o theetše"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "lentšung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "go boloka"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "melao ya gagwe"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "ditekanyetšo tša gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "a di go laeditšego"
+    }
+  ],
+  "timestamp": "2026-10-18T01:17:22.428205187Z",
+  "model": "glm-5.3"
+}

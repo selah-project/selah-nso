@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "lenaba la ka",
+      "rationale": "Seteroko se se bolela lešala la setšhaba — se gana boiphišo bja lenaba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wa ikgantšha",
+      "rationale": "תשמחי ke 'wa thaba'; 'wa ikgantšha ka nna' e bontšha thabo ya go hlolela lenaba, e sego thabo e hlwekilego."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפלתי\/קמתי",
+      "rationale": "Go wa\/go ema — dikanene tše pedi tše di lebanego, kgolokwe ya go wa le go tlhaola gape."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨la⟩",
+      "rationale": "Sepedi se nyaka kopanyo 'la' go bopa 'lesedi la nna'; Seheberu se re אור לי fela."
+    }
+  ],
+  "translation": "O se ke wa ikgantšha ka nna, lenaba la ka, gobane ke ile ka wa, ke tlile ka ema; gobane ge ke dutše lefsifsing, Yahwe ke lesedi ⟨la⟩ nna.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "3861395d0ed46d7d11d102c749154bb9f0d045c8960fadd2f2ade3cbd5b5b254",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/micah\/7\/8-8.1792305174516.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "wa ikgantšha"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "lenaba la ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "ke ile ka wa"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "ke tlile ka ema"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ge ke dutše"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "lefsifsing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ke lesedi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "la nna"
+    }
+  ],
+  "timestamp": "2026-10-18T06:32:54.516703488Z",
+  "model": "glm-5.3"
+}

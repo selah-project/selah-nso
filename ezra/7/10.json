@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go e dira — \"e\"",
+      "rationale": "Sebopiši sa ⟨e⟩ se hlakantšha gore Torah ke yona ya go dirwa; Seheberu se e sa bontšha ka šupo ⟨את⟩ fela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדרוש ולעשת וללמד",
+      "rationale": "Ditiriso tše tharo tše di latelanago ka infinitives — go nyaka, go dira, go ruta — tatelano ya rhetoriki ya Ezara."
+    }
+  ],
+  "translation": "Ka gobane Ezara a ikemišitše pelo ya gagwe go nyaka ⟨את⟩ Torah ya Yahwe, le go e dira, le go ruta Yisraele molao le kahlolo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "bf6b3023363d6023ee68fb5b385ae3967faa4c90e2c6faf4aafa857302e022ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/7\/9-12.1792302253204.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezara"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a ikemišitše"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "go nyaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah ya Yahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "le go e dira"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "le go ruta"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "חק",
+      "gloss": "molao"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:44:13.205074635Z",
+  "model": "glm-5.3"
+}

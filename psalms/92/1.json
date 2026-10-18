@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "theto ya mmino",
+      "rationale": "מזמור ke mmino wa dithaere — seswa sa mmino; leina le tlwaetšego la Sepedi ga le na khonoteneng ya go bapala"
+    },
+    {
+      "kind": "measurement",
+      "subject": "Shabata",
+      "rationale": "Sehlogo se laetša letšatši le itseng — sebopego sa theo ya go opela"
+    }
+  ],
+  "translation": "Theto ya mmino, pina, bakeng sa letšatši la Shabata.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/92\/1-4.1792298496791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "theto ya mmino"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "bakeng sa letšatši"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Shabata"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:36.792520031Z",
+  "model": "glm-5.3"
+}

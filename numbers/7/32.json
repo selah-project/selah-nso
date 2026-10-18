@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כף",
+      "rationale": "e bolela seatla se segololo\/sephatla — setho sa gauta, e sego 'spoon' ya kgale"
+    },
+    {
+      "kind": "addition",
+      "subject": "boima bja sona",
+      "rationale": "mongwalo o se wa bolela 'boima' — o bolela fela 'disekele tše lesome'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "disekele tše lesome",
+      "rationale": "boima bja setho sa gauta bo bontšhitše ka disekele tše lesome"
+    }
+  ],
+  "translation": "Setho se tee sa gauta, boima bja sona disekele tše lesome, se tletše muširo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ac7dece286d1d88ce78e8e99ad7953941de6778744787fe13133774503074d19",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/7\/29-32.1792284568515.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "setho"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "se tee"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tše lesome"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sa gauta"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "se tletše"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "muširo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:49:28.516322707Z",
+  "model": "glm-5.3"
+}

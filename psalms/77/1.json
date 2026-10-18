@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למנצח",
+      "rationale": "'Moetapele' (wa sehlotšo) kgahlanong le 'mohumiši' goba 'yo a phadimago' — lentšu la go laola mminong wa tempele."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sehlalosi",
+      "rationale": "Tšhupamoko ya pesa: moetapele, mmini, mongwadi — dihlogo tša ditoko tša Sepheme."
+    }
+  ],
+  "translation": "Go moetapele, go Yedutune, go Asafe — pesa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ac36b624f484cbc0cfdb97169212bf6862166553e03ee1f37780cad82100b747",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/77\/1-4.1792298197020.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moetapele"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutune"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "go Asafe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pesa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:37.021168059Z",
+  "model": "glm-5.3"
+}

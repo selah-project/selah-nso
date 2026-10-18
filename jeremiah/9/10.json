@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "diphiri",
+      "rationale": "תנים: KJV 'dragons', ASV\/JPS 'jackals' — jackal is the desert sense"
+    }
+  ],
+  "translation": "Gomme ke tla bea ⟨את⟩ Yerushalayime gore e be matumba, legae la diphiri, gomme ⟨את⟩ metse ya Yehuda ke tla e nea go senyega, go se na moahi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "701b3678bb719311701aff54e5be955aa73e98dd77c779cc44587485922f1345",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/9\/9-12.1792292975799.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Gomme ke tla bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "gore e be matumba"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "legae"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "la diphiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "metse ya Yehuda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "metse"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla e nea"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "go senyega"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "go se na"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "moahi"
+    }
+  ],
+  "timestamp": "2026-10-18T03:09:35.800497003Z",
+  "model": "glm-5.3"
+}

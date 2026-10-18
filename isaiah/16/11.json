@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 16:11",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mafelelo",
+      "rationale": "מעי ke malambo a ka tlase — ditho tša ka hare, e sego pelo fela."
+    }
+  ],
+  "translation": "Ka ge a ka moka mafelelo a ka a tla duma bjalo ka kinara go Mowabe, gomme selego sa ka go Kiri-Kherese.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bf9593849a5e5153b36bb4168f6b9b067a8895822ab24fa9211e4cbe4a7827e1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/16\/9-12.1792291561320.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ge a ka moka"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "mafelelo a ka"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "go Mowabe"
+    },
+    {
+      "surface": "ככנור",
+      "gloss": "bjalo ka kinara"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "a tla duma"
+    },
+    {
+      "surface": "וקרבי",
+      "gloss": "gomme selego sa ka"
+    },
+    {
+      "surface": "לקיר",
+      "gloss": "go Kiri"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Kherese"
+    }
+  ],
+  "timestamp": "2026-10-18T02:46:01.321839263Z",
+  "model": "glm-5.3"
+}

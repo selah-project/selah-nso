@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "selo se se thotšwego",
+      "rationale": "טרף ka mokgwa wa go rwa ga phoofolo — 'se thotšwego' e le phetolelo ya semoyeng, e sego 'phoofolo ya diruiwa'"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Go tlotša Yahwe ka go lebelela sephetheng sa setšhaba sa Yisraele"
+    }
+  ],
+  "translation": "Thoko go Yahwe, yo a sa re neelago e le selo se se thotšwego go meno ya bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2f3f1ff67fc6c604af6d8a8895cf26968e3b4b6204f95e7d0c1401defac21b66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/124\/5-8.1792298943339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Thoko go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "a re neelago"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "selo se se thotšwego"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "go meno ya bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:03.340454887Z",
+  "model": "glm-5.3"
+}

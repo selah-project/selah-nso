@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seome",
+      "rationale": "זרוע ke letswalo—setšo sa maatla; KJV e huduetše 'holpen', sehlakanya sebopego sa lentšu"
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "Tšhupetšo ya mmino ya Seheberu, e sego lentšu la taba"
+    }
+  ],
+  "translation": "Le gape Ashure e ile ya išwa le bona; ba bile seome go bana ba Lote. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4d68588690c2e339ec328024aca5ab55546f99503f443c98eeacd1737939e6bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/83\/9-12.1792298301441.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Le gape"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "ya išwa le"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba bile"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "seome"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:21.441570471Z",
+  "model": "glm-5.3"
+}

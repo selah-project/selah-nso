@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עבות",
+      "gloss": "maru — Seheberu se bolela 'se dense\/lefsifsi'; maru ke tlhaloso ya mošomo, e sego mantšu a tlwaelegilego"
+    },
+    {
+      "kind": "crux",
+      "subject": "מנגה ממטר",
+      "gloss": "go tšwa go khanya, go tšwa go pula — ka fao ditlhopho tše fapaanego: go hlaga ka khanya morago ga pula, goba khanya le pula mmogo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "דשא",
+      "gloss": "bjalwa — goba 'go hlaga ga bjalwa'; seswantšho sa go hlaga ga bjalwa ge pula e na, e sene ka tsela ya lehlabula"
+    }
+  ],
+  "translation": "gomme bjalo ka seetša sa mesong ge dišupi e tlhatlogo, mesong yeo e se nago maru, go tšwa go khanya, go tšwa go pula, go hlaga ga bjalwa go tšwa lefaseng.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/23\/1-4.1792289454119.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "gomme bjalo ka seetša"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sa mesong"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "ge e tlhatlogo"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "dišupi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "mesong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e se nago"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "maru"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "go tšwa go khanya"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "go tšwa go pula"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "go hlaga ga bjalwa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go tšwa lefaseng"
+    }
+  ],
+  "timestamp": "2026-10-18T02:10:54.120524167Z",
+  "model": "glm-5.3"
+}

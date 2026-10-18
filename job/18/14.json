@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 18:14",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba",
+      "rationale": "Seheberu se se na modiri wa 'go hlagisa'; Sepedi o nyaka mo a mo hlagisago"
+    },
+    {
+      "kind": "idiom",
+      "subject": "kgoši-ya-go-tšhabisa",
+      "rationale": "בלהות = ditshwaro tše di tšhabisago; 'kgoši ya go tšhabisa' e boloka sebopego sa kopanyi"
+    },
+    {
+      "kind": "crux",
+      "subject": "go namollwa",
+      "rationale": "יִנָּתֵק: ga se go 'hlotšwa' — o namollwa a tšišitšwe, lentšu le bolela maatlakgopama"
+    }
+  ],
+  "translation": "Go namollwa ga tshepo ya gagwe go tšwa tenteng ya gagwe, gomme ba mo hlagisa go kgoši-ya-go-tšhabisa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4c21c97e0e3f769364baf790ca4100270aa0cfc9e9ec601ab23cda20209ccfcc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/18\/13-16.1792300300327.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ינתק",
+      "gloss": "go-namollwa"
+    },
+    {
+      "surface": "מאהלו",
+      "gloss": "go-tšwa-tenteng-ya-gagwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "tshepo-ya-gagwe"
+    },
+    {
+      "surface": "ותצעדהו",
+      "gloss": "gomme-ba-mo-hlagisa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go-kgoši"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "ya-go-tšhabisa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:11:40.328396211Z",
+  "model": "glm-5.3"
+}

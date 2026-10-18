@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 3:21",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lapa",
+      "rationale": "משפחה e bolela setlhopha sa boswego; 'lapa' ke lentšu le tee la Sepedi leo le sego tee le lona"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dipa",
+      "rationale": "lenaneo la malapa a Levi ka malapa a tšona"
+    }
+  ],
+  "translation": "Go Gereshone: lapa la Libni le lapa la Shimi; tše ke dipa tša ba-Gereshone.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5ba9646a191e6c6099aea73bad64e58ffc1438e9a0842484b8c18bbcf505d138",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/3\/21-24.1792284403526.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לגרשון",
+      "gloss": "go Gereshone"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lapa la"
+    },
+    {
+      "surface": "הלבני",
+      "gloss": "Libni"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "le lapa la"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "Shimi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "dipa tša"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "ba-Gereshone"
+    }
+  ],
+  "timestamp": "2026-10-18T00:46:43.527090541Z",
+  "model": "glm-5.3"
+}

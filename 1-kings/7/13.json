@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go tšwa",
+      "rationale": "Hebrew place name מצר bare; Sepedi needs go tšwa to show origin"
+    }
+  ],
+  "translation": "Gomme kgoši Shelomo a romela, gomme a ka ⟨את⟩ Hirame go tšwa Tshore.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "7ebbcfcafde2ec3f44535ec4d5af3406182a8e9527a34f23a26eb69a3789fad1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/7\/13-16.1792289731759.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "a ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hirame"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hirame"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "go tšwa Tshore"
+    }
+  ],
+  "timestamp": "2026-10-18T02:15:31.760850756Z",
+  "model": "glm-5.3"
+}

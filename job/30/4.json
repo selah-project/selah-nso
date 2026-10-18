@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 30:4",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מלוח",
+      "rationale": "Mallow\/saltwort — thepe ya leswai; lentšu le le nyaka go hlalosa sebjalewa sa lewatle se se jwago ke batho ba maswitsitsi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bogobe",
+      "rationale": "לחם ke bogobe ka D4 — fela mo e bolela 'seafo' ka otlologo; 'bogobe bja bona' ke botho bja lentšu, e sego borotho."
+    }
+  ],
+  "translation": "Ba sega thepe gaufi le sehla, gomme modu wa retetema o ba ⟨selo⟩ sebolekwa bogobe bja bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "398f25acbcee001d712b7d65b23c489fc208a49cb4e4a4071a862bf085ad5c9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/30\/1-4.1792300647291.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הקטפים",
+      "gloss": "ba sega"
+    },
+    {
+      "surface": "מלוח",
+      "gloss": "thepe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gaufi le"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "sehla"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "gomme modu"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "wa retetema"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "bogobe bja bona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:17:27.292678964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 1:20",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פתגם",
+      "rationale": "pitgam is a Persian loanword for a royal sentence; rendered 'pušo', losing the Persian court flavor."
+    },
+    {
+      "kind": "idiom",
+      "subject": "למגדול ועד קטן",
+      "rationale": "'from great to small' — merismus for 'everyone without exception', rendered literally."
+    }
+  ],
+  "translation": "Gomme a utwale pušo ya kgoši yeo a ka e dirago bogošing bja gagwe bohle — gobane bjo ke bjo bogolo — gomme basadi bohle ba fe tlotlo banna ba bona, go tloga go mogolo go fihla go monnyana.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9a33d35b65288750b57841875921342f7516de5e2a1f95bf5c9b6aae50cdb6ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/1\/17-20.1792301622810.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונשמע",
+      "gloss": "gomme a utwale"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "pušo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgoši"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a ka e dirago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bogošing bja gagwe bohle"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "bogoši bja gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "bjo bogolo"
+    },
+    {
+      "surface": "היא",
+      "gloss": "bjo ke bjo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme bohle"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "ba fe"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "tlotlo"
+    },
+    {
+      "surface": "לבעליהן",
+      "gloss": "banna ba bona"
+    },
+    {
+      "surface": "למגדול",
+      "gloss": "go tloga go mogolo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "go monnyana"
+    }
+  ],
+  "timestamp": "2026-10-18T05:33:42.811652821Z",
+  "model": "glm-5.3"
+}

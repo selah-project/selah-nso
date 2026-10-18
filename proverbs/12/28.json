@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨na⟩",
+      "rationale": "Seheberu se se na se diretše; Sepedi se nyaka 'go na le' go bolela gore bophelo bo lego tseling"
+    },
+    {
+      "kind": "crux",
+      "subject": "אל מות",
+      "rationale": "al-mawet: 'ga gona lehu' (KJV, JPS mohlomongwe) kgathanong le go bala 'el-mawet' — 'e isa go lehu' (BSB); ditemana tše pedi di fapana ka setlankana se sengo"
+    }
+  ],
+  "translation": "Go tsela ya tsedeke go ⟨na⟩ le bophelo, gomme mojaro wa yona ga gona lehu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9136c9714744cef947660639869b61fd6356ef824be8fe041eb9c9a3cf58a2fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/12\/25-28.1792299416832.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "go tsela"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ya tsedeke"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "gomme mojaro"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "wa yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ga gona"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lehu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:56:56.834458516Z",
+  "model": "glm-5.3"
+}

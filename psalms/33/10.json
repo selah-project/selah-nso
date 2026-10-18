@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mokgwa",
+      "rationale": "עצת ke kgokganyo\/bohlale — 'mokgwa' o jwa sebopego sa go rera; dikgati tše dingwe di re 'kgokganyo'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עצת...מחשבות",
+      "rationale": "Mahlakore a mabedi a temana a sa swana: kgokganyo ya ditšhaba kgahlanong le dithulaganyo tša setšhaba — thapo ya sengwalwa se."
+    }
+  ],
+  "translation": "Yahwe o feditše mokgwa wa ditšhaba, o ganne dithulaganyo tša setšhaba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/9-12.1792297524217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "o feditše"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "mokgwa wa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "o ganne"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "dithulaganyo tša"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "setšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:24.218218279Z",
+  "model": "glm-5.3"
+}

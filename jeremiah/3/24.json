@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הבושת",
+      "rationale": "'selo se nyontšhago' — bontši bja ditlhahlobo bo bona sebopego sa seswantšho sa thoko (JPS 'the shameful thing', YLT 'the shameful thing'); ba bangwe ba bea 'tshwaro ya manyei' (KJV 'shame')"
+    },
+    {
+      "kind": "elision",
+      "subject": "צאנם",
+      "glossary": "dinku le dipudi — lentšu la sebopego sa mohlape ka o tee, Sepedi se nyaka mantšu a mabedi"
+    }
+  ],
+  "translation": "Gomme selo se nyontšhago se jele ⟨את⟩ mošomo wa bo-ntate wa rena, go tloga bonyaneng bja rena: ⟨את⟩ dinku le dipudi tša bona le ⟨את⟩ dikgomo tša bona, ⟨את⟩ bara ba bona le ⟨את⟩ barwadi ba bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b784688fd9d9aa06084eb4c945503b29b14d3e0338284b34cf5f45782a316826",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/3\/21-24.1792292763566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "Gomme selo se nyontšhago"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "se jele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mošomo wa bo-ntate wa rena"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "wa bo-ntate wa rena"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "go tloga bonyaneng bja rena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinku le dipudi tša bona"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "dinku le dipudi tša bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "dikgomo tša bona"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "dikgomo tša bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bara ba bona"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "bara ba bona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "barwadi ba bona"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "barwadi ba bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:06:03.568266742Z",
+  "model": "glm-5.3"
+}

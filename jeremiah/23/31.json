@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 23:31",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וינאמו נאם",
+      "rationale": "ba bolela 'go bolela' — נאם ga e dirišwe fela, ba e utswa bjalo ka lentšu la maaka; mokgwa wa go feto-fetoha ga lentšu"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלקחים לשונם",
+      "rationale": "'ba tšeago leleme la bona' — KJV 'ba šomišago maleme a bona'; go ka ba go hlakanya le go bolela maaka"
+    }
+  ],
+  "translation": "Bona, ke go le kgahlanong, baprofeta, go bolela Yahwe, bao ba tšeago leleme la bona gomme ba bolela ⟨go bolela⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ccf7f777b8db279835cadbeb8b2ddc034448e9053fabd42f17fc7d59eb4d586b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/23\/29-32.1792293409345.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "bona"
+    },
+    {
+      "surface": "על",
+      "gloss": "go le kgahlanong"
+    },
+    {
+      "surface": "הנביאם",
+      "gloss": "baprofeta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הלקחים",
+      "gloss": "bao ba tšeago"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "leleme la bona"
+    },
+    {
+      "surface": "וינאמו",
+      "gloss": "gomme ba bolela"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "⟨go bolela⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T03:16:49.346708677Z",
+  "model": "glm-5.3"
+}

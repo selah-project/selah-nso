@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "נמלצו",
+      "rationale": "puseletšo ya pušo ya מלץ (go ba lephapha, go ba mmonišo) — e šomišwa gatee-gatee fela mo, puseletšo e sa tlwaelegago."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחכי \/ לפי",
+      "rationale": "Seheberu se hlakantšha leleme-ka ntle (חך) le mmala (פה) — bobedi bo fetwa ka 'leleme\/mmala' ka go swana, go fapana ga tšona ga bo bonale."
+    }
+  ],
+  "translation": "Mang a bofile! Lentšu la gago le bofile kae go leleme la ka — le feta mašala go mmala wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "14a97a7d6cc24bd24321972dd0e3189209f09417cca772c898f566078550a055",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/101-104.1792298871941.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mang ... kae"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "a bofile"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "go leleme la ka"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lentšu la gago"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "bo feta mašala"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "go mmala wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:51.942162995Z",
+  "model": "glm-5.3"
+}

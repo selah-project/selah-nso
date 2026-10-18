@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 38:27",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "talenta tše lekgolo — meetheo ye lekgolo",
+      "rationale": "Go lekanya go fetoga ka botlalo: talenta e tee = motheo o tee."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הפרכת",
+      "rationale": "Pharetše — sekgoro sa bokgethwa; le ngwalwa ka modumo wa lona wa Seheberu."
+    }
+  ],
+  "translation": "Gomme go bile le talenta tše makgolo a lekgolo tša silibera go tšetša ⟨את⟩ meetheo ya bokgethwa le ⟨את⟩ meetheo ya pharetše; meetheo ye lekgolo go ya ka talenta tše lekgolo, talenta e tee go ya ka motheo o tee.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "72142e2c512027b19cb84e1c8f31c09de88e3e9e3d206baab9789faea5f974e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/38\/25-28.1792283418668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go bile le"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "makgolo a lekgolo"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenta"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "tša silibera"
+    },
+    {
+      "surface": "לצקת",
+      "gloss": "go tšetša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meetheo ya bokgethwa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "meetheo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya bokgethwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "meetheo ya pharetše"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "meetheo"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ya pharetše"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "meetheo"
+    },
+    {
+      "surface": "למאת",
+      "gloss": "go ya ka talenta tše lekgolo"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "talenta tše lekgolo"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenta e tee"
+    },
+    {
+      "surface": "לאדן",
+      "gloss": "go ya ka motheo o tee"
+    }
+  ],
+  "timestamp": "2026-10-18T00:30:18.670352009Z",
+  "model": "glm-5.3"
+}

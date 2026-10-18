@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dilo tšohle",
+      "rationale": "'things' supplied — Hebrew כל is simply 'all', but Sepedi needs a noun head."
+    },
+    {
+      "kind": "you",
+      "subject": "Setšhaba sa Yisraele",
+      "rationale": "Direct second-person address continues the covenant curses spoken to Israel."
+    }
+  ],
+  "translation": "Ka baka la gore o ka se šome ⟨את⟩ Yahwe Elohim wa gago ka thabo le ka botumoja wa pelo, ka baka la bontši bja dilo tšohle.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1f73694980dbef0bf8ab8657d8e1cba56fe22d008ade40749fde568454a7594b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/28\/45-48.1792286242427.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ka baka la gore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "o šometše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim wa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ka thabo"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "le ka botumoja"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "wa pelo"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ka baka la bontši"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bja dilo tšohle"
+    }
+  ],
+  "timestamp": "2026-10-18T01:17:22.428581173Z",
+  "model": "glm-5.3"
+}

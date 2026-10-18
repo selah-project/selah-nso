@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba tla ba",
+      "rationale": "יהיו ke copula ya Seheberu; Sepedi e nyaka seatla"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "maru\/tledi\/leswaswa\/moši",
+      "rationale": "Kgethišo ya dikanecho tše nne tša dilo tša fofa — sebopego se se latelanang se sa tlolwe ka botlalo"
+    },
+    {
+      "kind": "crux",
+      "subject": "מארבה",
+      "rationale": "'lefasitere' (sehlaga sa sekeresetere) — crux: sefahlego sa thwii goba sehuba sa moriša"
+    }
+  ],
+  "translation": "Ka gobane ba tla ba bjalo ka maru a mesong, le bjalo ka tledi ya bošego ya sego ya ina, bjalo ka leswaswa le roloeletšwego go tšwa setating, le bjalo ka moši o tšwang lefasitereng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ca0f4fb742851dcb93bd5d93f75845bdc4db3cb12b255e8bf482080710e96783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/13\/1-4.1792296109823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ba tla ba"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "bjalo ka maru"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "a mesong"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "le bjalo ka tledi"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "ya bošego"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ya sego ya ina"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "bjalo ka leswaswa"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "le roloeletšwego"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "go tšwa setating"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "le bjalo ka moši"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "o tšwang lefasitereng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:01:49.824656599Z",
+  "model": "glm-5.3"
+}

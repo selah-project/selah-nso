@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דברי חפץ",
+      "rationale": "'Mantswe a kgahlego' kgahlanong le 'mantswe a a amogetšego' — חפץ e bolela thato\/kgetho, e sego thwathwa fela."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi se nyaka kopula ye Seheberu se sa e rego."
+    }
+  ],
+  "translation": "Koehelete o ile a nyaka go hwetša mantswe a kgahlego; gomme seo se ngwalwago ⟨ke⟩ bohlwefi, mantswe a nnete.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e3dcfb073f1e57222c2bfcf483985748a0824bee53af4ab7d88fd1a2c19c5000",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/12\/9-12.1792301570194.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "o ile a nyaka"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Koehelete"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "go hwetša"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe a"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kgahlego"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "gomme se ngwalwago"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "bohlwefi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantswe a"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nnete"
+    }
+  ],
+  "timestamp": "2026-10-18T05:32:50.195113091Z",
+  "model": "glm-5.3"
+}

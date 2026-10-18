@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רעיהם \/ רעה",
+      "rationale": "Go swana ga medimu magareng ga 'dika tša bona' le 'bobe' — dika le bobe di swana ka modumo mo Seheberung; go ka se duelelwe ka botlalo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "rationale": "'Sephiri' — און e bolela lephato, bobe, sepego se se nago bohwa; mo e bolela bobe bao ba se nago bohwa."
+    }
+  ],
+  "translation": "O se ke wa ntsea le bao ba fošagetšogo, gomme le ba dirago sephiri, ba bolelago kgotso le dika tša bona, mme bobe bo le dipelong tša bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "eb3f4f252bb359ff9fdb16a2681476aec7732d081f81c05ff2e41348fc5a2108",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/28\/1-4.1792297490254.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "ntsea"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bao ba fošagetšogo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "gomme le"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba dirago"
+    },
+    {
+      "surface": "און",
+      "gloss": "sephiri"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ba bolelago"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kgotso"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "dika tša bona"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "mme bobe"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "bo le dipelong tša bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:50.255860319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 22:26",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ואת אמך",
+      "rationale": "אתך (pronoun with aleph-tav) e supa wena; ואת e supa mmao — ka bobedi bolokwa"
+    },
+    {
+      "kind": "you",
+      "subject": "Konyahu",
+      "rationale": "Go tswaletšwe go Konyahu le mmae go boutšwa ka kotloloho"
+    }
+  ],
+  "translation": "Gomme ke tla go lahla ⟨את⟩ wena le ⟨את⟩ mmao yo a go tswaletšego, go lefase le lengwe, leo ga go lona goba la belegwa; gomme gona le tla hwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7dce5e5e6a31edbf5377f2a598f7a8ebe8c61129553c3b68cda6dbecd4dac821",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/22\/25-28.1792293287423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והטלתי",
+      "gloss": "gomme ke tla go lahla"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mmao"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mmao"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "a go tswaletšego"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "le lengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ילדתם",
+      "gloss": "la belegwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "gomme gona"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "le tla hwa"
+    }
+  ],
+  "timestamp": "2026-10-18T03:14:47.424401827Z",
+  "model": "glm-5.3"
+}

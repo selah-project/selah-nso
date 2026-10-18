@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 25:26",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "Sheshake",
+      "rationale": "ששך ke leina la sephiri la Babilona — atbash (א=ש, ב=שׂ tšwelopele ya ditlhaka), e begiwa ka boomo e sa hlalosegago."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אישׁ אל אחיו",
+      "rationale": "Seheberu se re 'motho go mošwakwa wa gagwe' — se bolela 'yo mongwe le yo mongwe', se ne se fetotšwe bjalo ka taetšo ya go swana."
+    }
+  ],
+  "translation": "le ⟨את⟩ dikgoši ka moka tša leboa, tše di kgauswi le tše di kgole, motho yo mongwe le yo mongwe le mošwakga wa gagwe; le ⟨את⟩ bogosi bja lefase ka bona, bjo bo lego godimo ga sebopego sa mmutlwa; gomme kgoši ya Sheshake yoo tla nwago ka morago ga bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "abf10deba5f2a998d2fc8ecaffd498b5a32083ca9d98292cbaf989259260935b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/25\/25-28.1792293412996.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgoši ka moka tša leboa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgoši tša"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "leboa"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "tše di kgauswi"
+    },
+    {
+      "surface": "והרחקים",
+      "gloss": "le tše di kgole"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mošwakga wa gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bogosi bja lefase ka bona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka bona"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "bogosi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bja lefase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bjo bo lego"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sebopego sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mmutlwa"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "gomme kgoši ya"
+    },
+    {
+      "surface": "ששך",
+      "gloss": "Sheshake"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "e tla nwago"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ka morago ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:16:52.997529929Z",
+  "model": "glm-5.3"
+}

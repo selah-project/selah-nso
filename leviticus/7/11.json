@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka copula; Seheberu ga se e na."
+    },
+    {
+      "kind": "crux",
+      "subject": "שלמים",
+      "rationale": "'Dihlabelo tša kagare' — ba fetoleši ba bangwe ba re 'mahlabelo a mabotse' kana 'a kagarešo'; mo go bolela kgwerano le Yahwe."
+    }
+  ],
+  "translation": "Gomme ye ke ⟨ke⟩ Torah ya sehlabelo sa kagare, seo motho a ka se hlabago go Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1c888b16fb5f9b15e3400a15ea227cb6b25dfdb10ea37e1574d880a7a417d87d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/7\/9-12.1792283632141.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "gomme-ye"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Torah"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "sa-kagare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "a-hlabago"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go-Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:33:52.142312742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ידך",
+      "rationale": "'letšatši la gago' — seapodišo sa bono, go swana le temana ya 25 ('ka manwana')"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka dilo tše dibotse",
+      "rationale": "טוב ke lehlodi — 'dilo' di okeditšwe go ntšha bokao ka Sepedi"
+    }
+  ],
+  "translation": "O fa bona, ba kgoboketša; o bulelela ⟨את⟩ letšatši la gago, ba a tlala ka dilo tše dibotse.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/25-28.1792298574098.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "o fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "ba kgoboketša"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "o bulelela"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letšatši la gago"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "ba a tlala"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ka dilo tše dibotse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:54.099216853Z",
+  "model": "glm-5.3"
+}

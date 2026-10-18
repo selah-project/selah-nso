@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באפך",
+      "gloss": "Seheberu se ra 'ka nko ya gago' — sebopego sa galefo; se hlwekile ka Sepedi ka 'galefo'."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "Dipelano tša Dafida go Yahwe ka boomo — thapelo ya ka dintho tše pedi tše a di ganego."
+    }
+  ],
+  "translation": "Yahwe, o se ke wa mpwatla ka galefo ya gago, gomme o se ke wa kgwatla ka moleso wa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/6\/1-4.1792297111823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ka galefo ya gago"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "wa mpwatla"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "ka moleso wa gago"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "wa kgwatla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:31.823997999Z",
+  "model": "glm-5.3"
+}

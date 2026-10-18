@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 136,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גֹזֵר\/לִגְזָרִים",
+      "rationale": "Sesupo sa go sega (gozer) se boeletšwa ka go segwa dikarolo (ligzarim) — se segiwa le se se segilwego ke modu o tee."
+    },
+    {
+      "kind": "crux",
+      "subject": "ים סוף",
+      "rationale": "'Lewatle la Sufi' (lewatle la dithlare) kgahlanong le 'Lewatle le Sotho' — Sufi ke leina la dithlare tša papyrus, e sego mmala."
+    }
+  ],
+  "translation": "Go yo a segilego lewatle la Sufi dikarolo, ka gobane go fihla lelele hesede ya gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ef818ee972da16c3afc2126e425ed19038582aa6ef3dc9b768a15a4099cdefdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/136\/13-16.1792299025854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "Go yo a segilego"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "la Sufi"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "dikarolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla lelele"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "hesede ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:25.855371966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go opela",
+      "rationale": "זמר ke go tloša mmino wa dithining tša sešupa-mmino, e sego go opela feela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלל\/זמר",
+      "rationale": "khutlo-fetošišo ya go tlotla le go tamba ka mmino, tatelano e tiišetšago typarišene"
+    }
+  ],
+  "translation": "Ge ke sa phela ke tla tlotla Yahwe; ge ke sa le gona ke tla opela go Elohim wa ka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "8dd21246e386acd736b200e117cc86ecc0fa399003de87a45aad8f08a61ed4b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/146\/2-3.1792305351082.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "ke tla tlotla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ge ke sa phela"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla opela"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "go Elohim wa ka"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ge ke sa le gona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:51.083243313Z",
+  "model": "glm-5.3"
+}

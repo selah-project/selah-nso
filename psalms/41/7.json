@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩ · ⟨mpontšha⟩",
+      "rationale": "Mohlanka wapolelo o okeditšwe go hlatholla gore o etla go bona motho yo a lwago gorefetša"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mafeela",
+      "rationale": "שוא ke boikakaso le bosha ba nnete, e sego fela mafeela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידבר ... ידבר",
+      "rationale": "Go boela ga lentšu la go bolela gatele ga bobedi — seo a bolelogo ka motho le seo a bolelogo ka ntle — se la Šephedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "לראות",
+      "rationale": "Go etla go bona mosegofi goba go hlohleletša; ba fetoleli ba fapana"
+    }
+  ],
+  "translation": "Gomme ge ⟨a⟩ tsena go ⟨mpontšha⟩, o bolela mafeela; pelo ya gagwe e kgoboketša ⟨bosenyi⟩ bakeng sa yona; a tšwa ntle, o a bolela.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1296a60ca1ae784200f4d76abfea6bfd70e379b92df86159ead5b64540ebb802",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/41\/6-7.1792305197942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "בא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go mpontšha"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "mafeela"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o bolela"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "e kgoboketša"
+    },
+    {
+      "surface": "און",
+      "gloss": "bosenyi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bakeng sa yona"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a tšwa"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "ntle"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "o a bolela"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:17.943620093Z",
+  "model": "glm-5.3"
+}

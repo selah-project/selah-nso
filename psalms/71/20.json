@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 71:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Wena",
+      "rationale": "Hebri o dira relational אשר feela; pronoun e okeditšwe go hlatha modiri"
+    },
+    {
+      "kind": "crux",
+      "subject": "הראיתנו",
+      "rationale": "suffix -נו: 'o ntšhotšitše' (ntši, KJV\/JPS) kgathanong le 'o re tšhotšitše' (ntshi, ASV); ketso e dirilwe ka tsela ya botho"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשוב ... תשוב",
+      "rationale": "šub e bušwa gabedi — go boela gape ga modiri; sebopego se sa utolwa ka botlalo ka Sepedi"
+    }
+  ],
+  "translation": "⟨Wena⟩ yo o ntšhotšitše mathata a mantsi le mabja, o tla boela o phediša ⟨rena⟩, gomme go tšwa dithelekelong tša lefase o tla boela o ntša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0118286a10e1e46bee30527964de21356cbc3893839826f74c7f2befec4d037f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/71\/17-20.1792298120956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "⟨Wena⟩ yo"
+    },
+    {
+      "surface": "הראיתנו",
+      "gloss": "o ntšhotšitše"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "mathata"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "le mabja"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "o tla boela"
+    },
+    {
+      "surface": "תחיינו",
+      "gloss": "o phediša ⟨rena⟩"
+    },
+    {
+      "surface": "ומתהמות",
+      "gloss": "gomme go tšwa dithelekelong"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "tša lefase"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "o tla boela"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "o ntša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:20.957791118Z",
+  "model": "glm-5.3"
+}

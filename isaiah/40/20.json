@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 40:20",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המסכן",
+      "rationale": "KJV 'yo a hlokago' (מסכן = mofsa) kgathanong le JPS 'yo a kgethwago' (מסכן = yo a bohlokwa) — mantšu a mabedi a lemma e tee"
+    },
+    {
+      "kind": "addition",
+      "subject": "mo",
+      "rationale": "pronoun ya go fa-Leina e okeditšwe go hlalosa לו"
+    }
+  ],
+  "translation": "Yo a hlokago sehlabelo o kgetha mohlare woo o sa bolago, o nyakela ⟨mo⟩ motzeti yo a bohlale go baakanya setšwantšho se sa thothome.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b020e2ecec575243b2e86dad6985604644b31184f151ef0c52c777de3f60ff82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/40\/17-20.1792292163049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המסכן",
+      "gloss": "Yo a hlokago"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mohlare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "o bola"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "o kgetha"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "motzeti"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yo a bohlale"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "o nyakela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "go baakanya"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "setšwantšho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sa thothome"
+    }
+  ],
+  "timestamp": "2026-10-18T02:56:03.050733082Z",
+  "model": "glm-5.3"
+}

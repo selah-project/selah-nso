@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מקשיב \/ מזין",
+      "rationale": "Mantšu a mabedi a go theetša — go bea sekgopa (מקשיב) le go phaphagala leleme (מזין) — kgatišo e a lebane ka mokgwa wa mareledi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שקר",
+      "rationale": "שקר e bolela lefoši bjalo ka leina; YLT e e bea bjalo ka selo se se sa rutegago ('lefoši le theetša'), KJV bjalo ka motho ('mofoši')."
+    },
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "על ka go theetša ga e na boemedi bjo bo botse ka Sepedi; e lahlegile."
+    }
+  ],
+  "translation": "Modiri wa sebe o theetša ka tieo dipounama tša go se loke; mofoši o theetša leleme la tshenyo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a4a6ac4f9a499f64129053a89dbef8434d73903c1126f2fa50528d16e8a6236f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/17\/1-4.1792299532930.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "modiri wa sebe"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "o theetša ka tieo"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "שפת",
+      "gloss": "dipounama tša"
+    },
+    {
+      "surface": "און",
+      "gloss": "go se loke"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "mofoši"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "o theetša"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "לשון",
+      "gloss": "leleme la"
+    },
+    {
+      "surface": "הות",
+      "gloss": "tshenyo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:58:52.932052649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 65:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גדודיה",
+      "rationale": "gudᵓd ya mehla (mehola\/karolwana tša temo) kgahlanong le dikopano tša magodu (KJV margin 'furrows')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "תברך",
+      "rationale": "barakh — go tlotlisa goba go humisa; o tlotlisa sehlare"
+    }
+  ],
+  "translation": "O nosetše mehlala ya yona; o tlošitše mehola ya yona ka meetse a bodikologo; o e lotlogatša; o tlotlisa sehlare sa yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/65\/9-12.1792297962877.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תלמיה",
+      "gloss": "mehlala ya yona"
+    },
+    {
+      "surface": "רוה",
+      "gloss": "o nosetše"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "o tlošitše"
+    },
+    {
+      "surface": "גדודיה",
+      "gloss": "mehola ya yona"
+    },
+    {
+      "surface": "ברביבים",
+      "gloss": "ka meetse a bodikologo"
+    },
+    {
+      "surface": "תמגגנה",
+      "gloss": "o e lotlogatša"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "sehlare sa yona"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "o tlotlisa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:42.878262123Z",
+  "model": "glm-5.3"
+}

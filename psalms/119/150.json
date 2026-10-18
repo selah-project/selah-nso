@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זמה",
+      "rationale": "merero ye mpe — lentšu le bolela pulano ye mpe e rerwago pele"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרבו...רחקו",
+      "rationale": "go atologa kgahlano le go kgakala — sebopego sa psalme"
+    }
+  ],
+  "translation": "Ba atologile bao ba tlholago merero ye mpe; go tšwa go Torah ya gago ba kgakala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "095bfc6b39d8c6e216e1e9ef7ab9b851811cace04c81f0bdcaa2b77d9df919ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/149-152.1792298845163.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "ba atologile"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "bao ba tlholago"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "merero ye mpe"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "go tšwa go Torah ya gago"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "ba kgakala"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:25.164304406Z",
+  "model": "glm-5.3"
+}

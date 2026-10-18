@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "לא נפל מכם",
+      "rationale": "literal 'not fallen from you-much', idiom for 'not inferior to you'; Sepedi keeps 'fell down more than you' with comparison"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אני\/אנכי",
+      "rationale": "two 'I' words in one verse for emphasis, flattened to one in Sepedi"
+    }
+  ],
+  "translation": "Go swana le tsebo ya lena ke tseba gape nna; ga ke wele fase go feta lena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c4025e18102107d319aa6a635a8cadd9d253b19a47e4aefed93f8141a88a5537",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/13\/1-4.1792300230863.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "Go swana le tsebo ya lena"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ke tseba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ke wele fase"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨nna⟩"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "go feta lena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:10:30.863949548Z",
+  "model": "glm-5.3"
+}

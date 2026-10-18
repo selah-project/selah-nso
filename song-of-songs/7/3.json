@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 7:3",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שררך",
+      "rationale": "Lemma e bolela 'sekgokgo sa mpa' goba 'seaparo sa bohatse'; 'phofo' ke khopi ya kgale, 'boteng' bjale ya seeto"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sehlware se se tlaakanego",
+      "rationale": "mamzage e loka e bolela veine yeo e tlaakanetšwego; sehlware ke bojalwa bja Sepedi, e sego khopi e feletseng"
+    }
+  ],
+  "translation": "Phofo ya gago e bjalo ka sekgogoro se se ntle, se se nago sehlware se se tlaakanego; boteng bja gago e bjalo ka morutlana wa bupi, o dikantšwe ka dinale.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "64ce6cd2d6a1f5e11738c4c9da89684b1d7739574dcc86367b122a1426b72231",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/7\/1-4.1792301035283.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שררך",
+      "gloss": "phofo ya gago"
+    },
+    {
+      "surface": "אגן",
+      "gloss": "sekgogoro"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "se se ntle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e se ke"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "e fela"
+    },
+    {
+      "surface": "המזג",
+      "gloss": "sehlware se se tlaakanego"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "boteng bja gago"
+    },
+    {
+      "surface": "ערמת",
+      "gloss": "morutlana"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "wa bupi"
+    },
+    {
+      "surface": "סוגה",
+      "gloss": "o dikantšwe"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "ka dinale"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:55.284198831Z",
+  "model": "glm-5.3"
+}

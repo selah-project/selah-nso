@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 7:16",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "אלהיהם — medimo ya ditšhaba, ka ditlhaka tše nnye go ya ka D1; e sego Elohim ka ge e le medimo ya mehlwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "theko",
+      "rationale": "מוקש ke thapo ya go tšhwara diphôôfôlô — 'theko' e laba sebopego sa go tšhwara; 'ja' gape ke go laetša go fenya (go ja ka maaka)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨הוא⟩",
+      "rationale": "Seheberu se na le 'e' (הוא) ya go tiša — e hlalositšwe ka 'e le'"
+    }
+  ],
+  "translation": "Gomme o tla ja ⟨את⟩ ditšhaba ka moka tšeo Yahwe Elohim wa gago a di go theelago; leihlo la gago le se ke la di hlokomela, gomme o se ke wa šoma ⟨את⟩ medimo ya tšona; gobane e le theko go wena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "44eef7ea7cde91d9cc2426dccee8e8fb8792a0e067dd5db884dfd61cb4335a84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/7\/13-16.1792285777348.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "gomme o tla ja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditšhaba ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a di go theelago"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "la di hlokomela"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "leihlo la gago"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "di"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "wa šoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya tšona"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "medimo ya tšona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "e le theko"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:09:37.349839907Z",
+  "model": "glm-5.3"
+}

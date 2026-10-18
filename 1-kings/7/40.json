@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 7:40",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכירות",
+      "rationale": "dikgethi (dipitsa tša go fiša): KJV 'lavers' kgatlhanong le JPS 'pots' — ke dipitsa tša dijo, e sego dikgethi tša go hlapela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikomelo",
+      "rationale": "המזרקות ke dikomelo tša go phunyha — 'sprinkling bowls'."
+    },
+    {
+      "kind": "addition",
+      "subject": "gomme...a",
+      "rationale": "Sepedi e nyaka go thoma ga temana ka kopanyi le 'a' ya go šoma, Seheberu se na le wayyiqtol fela."
+    }
+  ],
+  "translation": "Gomme Hirame a dira ⟨את⟩ dikgethi, le ⟨את⟩ dišepa, le ⟨את⟩ dikomelo; gomme Hirame a phetha go dira ⟨את⟩ mošomo wo moka woo a o dirilego bakeng sa kgoši Selomoe, ntlong ya Yahwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a316b6c9da11c0b6715eb89c3d3d44183d5458a14058ee77170cd553bf7d4ef2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/7\/40-40.1792304952698.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gomme a dira"
+    },
+    {
+      "surface": "חירום",
+      "gloss": "Hirame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgethi"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "dikgethi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dišepa"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "dišepa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikomelo"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "dikomelo"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "gomme a phetha"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Hirame"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mošomo wo moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wo moka"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a o dirilego"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "bakeng sa kgoši"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Selomoe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:29:12.699372358Z",
+  "model": "glm-5.3"
+}

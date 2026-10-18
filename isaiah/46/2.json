@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke sephiring sa moya\/bophelo, e sego 'moya' wa kereke; 'moya' ke lentšu le lebotse la Sepedi ge le bopa sephiring se."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קרסו\/כרעו",
+      "rationale": "Dintlha tša temana ya 1 di boela gomme di fapanywa — go wa ga medimo go boeletšwa ka tatelano e fapanego."
+    }
+  ],
+  "translation": "Ba khunama le ba nama mmogo; ba ka se lokolle moroalo, gomme moya wa tšona o ile go tswalelwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/46\/1-4.1792292225528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "ba khunama"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "ba nama"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba ka se"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "(kgona)"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "lokolle"
+    },
+    {
+      "surface": "משא",
+      "gloss": "moroalo"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "moya wa tšona"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "go tswalelwa"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "o ile"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:05.529436277Z",
+  "model": "glm-5.3"
+}

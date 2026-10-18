@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joel 3:5",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go šhaba",
+      "rationale": "ימלט ke 'go ba boithekgo, go tlhelela' — go šhaba ke se se atlegago go Sepedi bakeng sa 'go falola'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ובשרידים אשר יהוה קרא",
+      "rationale": "JPS: 'le gare ga ba sa feleng bao Yahwe a ba bitšago' kgathanong le KJV 'go ba šhaba bao Yahwe a bitšago go bona' — sebopego sa Seheberu se dula se sa hlaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקרא \/ קרא",
+      "rationale": "petišo ya seo ke sona sa motho o bitšago le seo Yahwe a bitšago — mmodi o tee, go boa ka go boela"
+    }
+  ],
+  "translation": "Gomme go tla ba bjalo: yo mongwe le yo mongwe yo a bitšago ka leina la Yahwe o tla šhaba; gobane thabeng ya Tsiyone le Yerushalayime go tla ba le go šhaba, bjalo ka ge Yahwe a boletše, le gare ga ba sa feleng bao Yahwe a ba bitšago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0ad6db242da42c9fd4afa80b38ff0656ca0b39a0245fb4a03ee74085b7e2e165",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/3\/5-5.1792296128975.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba bjalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "a bitšago"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "o tla šhaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng ya"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "le Yerushalayime"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go tla ba le"
+    },
+    {
+      "surface": "פליטה",
+      "gloss": "go šhaba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a boletše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ובשרידים",
+      "gloss": "le gare ga ba sa feleng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "a ba bitšago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:02:08.976232407Z",
+  "model": "glm-5.3"
+}

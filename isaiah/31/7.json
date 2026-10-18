@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 31:7",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "אלילים rendered with lowercase 'medimo' — permitted for foreign idols, per the discipline."
+    },
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Hebrew has no את here; the marker in the translation flags 'medimo' as the rejected object."
+    }
+  ],
+  "translation": "Ka gobane ka letšatši leo, motho ka noši o tla gana ⟨את⟩ medimo ya gagwe ya silibera le medimo ya gagwe ya gauta, tšeo diatla tša lena di di dirilego go lena, e le sebe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "82bb8e1adb93bf805abb941e20304ed448a56e58bf6dd27476c9b8ddc03bffd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/31\/5-8.1792291884490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "ימאסון",
+      "gloss": "o tla gana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho ka noši"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "medimo ya"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "silibera ya gagwe"
+    },
+    {
+      "surface": "ואלילי",
+      "gloss": "le medimo ya"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "gauta ya gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "di di dirilego"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lena"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "diatla tša lena"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "e le sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:51:24.491341185Z",
+  "model": "glm-5.3"
+}

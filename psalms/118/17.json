@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mošomo",
+      "rationale": "מעשי ke bontši; Sepedi se dira mmogo e le lentšu le tee la mošomo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ga",
+      "rationale": "Sepedi e nyaka go gana pele ga lediri; Seheberu se na le לא fela"
+    }
+  ],
+  "translation": "Ga ke swwe, ka gobane ke tla phela, gomme ke tla bolela mošomo wo monyane wa Yah — o mošomo ka moka wa Yah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "054739b81d58769ad3454f9c1db11c07dca8c746921a4c10b959f73f4a890008",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/118\/17-20.1792298801448.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ke swwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ke tla phela"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "gomme ke tla bolela"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "mošomo wa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:41.449364935Z",
+  "model": "glm-5.3"
+}

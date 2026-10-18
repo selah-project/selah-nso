@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 21:16",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח ke moya\/kgobokano ya maikutlo — e sa fetolwego go 'moya' fela"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על יד",
+      "rationale": "sebopego sa Seheberu 'godimo ga seatla sa' = 'ka thoko ga'"
+    }
+  ],
+  "translation": "Gomme Yahwe o tsositše kgahlanong le Yehorame ⟨את⟩ ruakh ya Bafeliseta le Baarabia, bao ba lego ka thoko ga Bakuši.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "270b1372386bdb0e525b25a281ff27f89f3e0f1a81a0b28b0c138fc987c6f5ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/21\/13-16.1792304068499.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "o tsositše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehorame"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh ya Bafeliseta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "ya Bafeliseta"
+    },
+    {
+      "surface": "והערבים",
+      "gloss": "le Baarabia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao ba lego"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka thoko"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ga seatla sa"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Bakuši"
+    }
+  ],
+  "timestamp": "2026-10-18T06:14:28.500584440Z",
+  "model": "glm-5.3"
+}

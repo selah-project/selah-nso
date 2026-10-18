@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קושט",
+      "rationale": "qošet: 'nnete\/toko' (KJV, JPS) kgahlanong le 'gobana' ka go bala go swana le קשת (bsb, 'flee the bow')"
+    },
+    {
+      "kind": "elision",
+      "subject": "Sela",
+      "rationale": "selah ke letšatši la mmino, le bolokwa e sego la go fetolelwa"
+    }
+  ],
+  "translation": "O file bao ba go sesofago ⟨letotošo⟩, gore le ipapagatšwe ka baka la nnete. Sela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "84865b9bc7ed5901f6561e9ff6231f3a2236584bb0617519ad72f3b3def82612",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/60\/5-8.1792297946115.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "o file"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "bao ba go sesofago"
+    },
+    {
+      "surface": "נס",
+      "gloss": "letotošo"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "gore le ipapagatšwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "nnete"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:26.115898877Z",
+  "model": "glm-5.3"
+}

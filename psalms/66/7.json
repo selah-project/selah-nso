@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 66:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "Sekopanyi sa boteng se senyegetšego; ga se na sepe sa go se fetola."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ka mehla",
+      "rationale": "עולם e hlalosa nako yeo e sa bonago koteng, ya go feta mašufa; 'ka mehla' ke modimo wa go atlega, o loso bodidedi bja lentšu."
+    },
+    {
+      "kind": "elision",
+      "subject": "Selah",
+      "rationale": "Taelo ya mmino ya go ema, e bolokilwe bjalo ka modumo o itswego."
+    }
+  ],
+  "translation": "O busa ka maatla a gagu ka mehla; mahlo a gagu a lebeleletše ditšhaba; ba kgahlanago a se ke ba ikakaretše. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/66\/5-8.1792298014223.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "o busa"
+    },
+    {
+      "surface": "בגבורתו",
+      "gloss": "ka maatla a gagu"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka mehla"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a gagu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "תצפינה",
+      "gloss": "a lebeleletše"
+    },
+    {
+      "surface": "הסוררים",
+      "gloss": "ba kgahlanago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "ba ikakaretše"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:34.224781863Z",
+  "model": "glm-5.3"
+}

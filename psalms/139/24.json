@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 139:24",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עצב",
+      "rationale": "Lentšu le tee le bolela botho: 'setšwantšho' le gape 'dihlooho' — dikgopolo tše fapaneng tša diphetho: 'tsela ya go hlwa' kgatlhanong le 'tsela ya bodukuthuku' (JPS 'grievous')."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולם",
+      "rationale": "Ka nnete lentšu le bolela se se swerwego — nako yeo e sa bonagalego; 'go sa felego' ke mokgwa wa go bolela se sengwe sa nako ye telele."
+    }
+  ],
+  "translation": "Gomme o bone ge go na le tsela ya bodukuthuku ka nngweng wa ka, gomme o ntatise tseleng ya go sa felego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1eda32a22fb1984b335321c369a0668a3e2046fbbda41aff5c9a3b27e93e8ce0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/139\/21-24.1792299031434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "gomme o bone"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ya bodukuthuku"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nngweng wa ka"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "gomme o ntatise"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya go sa felego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:31.436026917Z",
+  "model": "glm-5.3"
+}

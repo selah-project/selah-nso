@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩ · ⟨ke⟩",
+      "rationale": "Sepedi e nyaka sesupa-moralodi le kopanya tšeo Seheberu se di sa di rego"
+    },
+    {
+      "kind": "crux",
+      "subject": "תם · אחרית לאיש שלום",
+      "rationale": "JPS: 'go na le bokamoso bakeng sa motho wa kagiso'; KJV: 'mafelelo a motho yoo a ke kagiso' — אחרית e šala e kopantšwe le שלום"
+    },
+    {
+      "kind": "invitation",
+      "subject": "laela · lebelela",
+      "rationale": "Moemedi wa mahlakore a mabedi o laela mogadi ka go ela le go lebelela"
+    }
+  ],
+  "translation": "Laela ⟨o⟩ yo a feletšego, gomme lebelela yo a lolametšego, gobane mafelelo a motho wa kagiso ⟨ke⟩ kagiso.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "10ffa8087773e2267d981a8ce2b7177710c8479a881122a141ddfcc64e99a39b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/37\/37-40.1792297634225.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "laela"
+    },
+    {
+      "surface": "תם",
+      "gloss": "yo a feletšego"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "gomme lebelela"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "yo a lolametšego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "mafelelo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "a motho wa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:14.226424866Z",
+  "model": "glm-5.3"
+}

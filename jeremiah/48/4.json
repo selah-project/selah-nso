@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צעוריה",
+      "rationale": "'her little ones': children vs small\/young followers; rendered 'ba se nyenyane'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba yona",
+      "rationale": "pronominal phrase supplied for 'her' — Hebrew has suffixed adjective only"
+    }
+  ],
+  "translation": "Moabe o thubile; ba se nyenyane ba yona ba ile ba dira gore go kwagale go hlehla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5f9c341a5ad998c4d6871377d8673034605bffac4db1b2a234eb124f4478a53b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/48\/1-4.1792294058169.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "o thubile"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "ba ile ba dira gore go kwagale"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "go hlehla"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "ba se nyenyane ba yona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:27:38.170469399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יאכלו ... יאכלו",
+      "rationale": "Bohlatši bja go bopelea ka go dihlapana — motseng\/dimpswa, mosepeng\/dinonyana — sebopego seo se bolokwa ka botlalo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "yo wa Ahabe",
+      "rationale": "המת לאחאב — 'yo a hwetšego wa Ahabe'; mantšu a mengwe a bolela 'yo wa lelapa la Ahabe' eupša Seheberu se bolela lethabo fela."
+    }
+  ],
+  "translation": "Yo wa Ahabe yo a hwetšego motseng, dimpswa di tla mo ja; gomme yo a hwetšego mosepeng, dinonyana tša magodimo di tla ja.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d09da84b8f8b85dd9c80b308526e0f84a984ff7d7e68128fa61f1d0e47ce9baf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/21\/21-24.1792290256544.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "yo a hwetšego"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "wa Ahabe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di tla mo ja"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "dimpswa"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "gomme yo a hwetšego"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "mosepeng"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "di tla ja"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "dinonyana"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tša magodimo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:24:16.545509253Z",
+  "model": "glm-5.3"
+}

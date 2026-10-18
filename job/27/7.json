@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 27:7",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "yo a se nago toko",
+      "rationale": "רשע e ka phetolelwa gape 'modiri wa sebe' — 'yo a se nago toko' e bolokela sebopego sa tsedeke."
+    },
+    {
+      "kind": "you",
+      "subject": "lenaba la ka",
+      "rationale": "Jobo o bolela ka lenaba la gagwe — polelo ya go nyatisa yo a mo lwanago."
+    }
+  ],
+  "translation": "A e nne le lenaba la ka bjalo ka yo a se nago toko, gomme mogahanedi wa ka bjalo ka yo a hlologago toko.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0934fe33eea176bbf262959dfada883b99561d0ad27bccec034829090a68ff18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/27\/5-8.1792300504400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "A e nne"
+    },
+    {
+      "surface": "כרשע",
+      "gloss": "bjalo ka yo a se nago toko"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "lenaba la ka"
+    },
+    {
+      "surface": "ומתקוממי",
+      "gloss": "gomme mogahanedi wa ka"
+    },
+    {
+      "surface": "כעול",
+      "gloss": "bjalo ka yo a hlologago toko"
+    }
+  ],
+  "timestamp": "2026-10-18T05:15:04.401779354Z",
+  "model": "glm-5.3"
+}

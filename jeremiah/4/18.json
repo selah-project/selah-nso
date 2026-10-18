@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 4:18",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Jerusalem",
+      "rationale": "Second-person feminine address — the city is accused directly."
+    },
+    {
+      "kind": "crux",
+      "subject": "מר",
+      "rationale": "'Bitter' (KJV) vs 'it has struck\/touched you' (YLT, from נגע); rendered as bohloko, pain."
+    }
+  ],
+  "translation": "Tsela ya gago le ditiro tša gago di dirile tše go wena; se ke bobe ba gago, ka gobane ke bohloko, ka gobane se ama go fihla pelo ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f64b7c5124f0690d9c8a82eacb65ded98a52430a990f76cc3edbb572894588cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/4\/17-20.1792292850030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכך",
+      "gloss": "tsela ya gago"
+    },
+    {
+      "surface": "ומעלליך",
+      "gloss": "gomme ditiro tša gago"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "di dirile"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ke bobe ba gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bohloko"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "se ama"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T03:07:30.030825017Z",
+  "model": "glm-5.3"
+}

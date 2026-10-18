@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "silibera mo go sekala",
+      "rationale": "Kelo ya silibera ka sekala — tirelo ya molao ya thekgo, ka bopaki."
+    },
+    {
+      "kind": "crux",
+      "subject": "ka e tswalela ka sefoka",
+      "rationale": "חתם — 'go tswalela\/sefoka'; ditirhetšo tše dintši di re 'seal', se bolela ka botlalo go tswalela tokumente bjalo ka molao."
+    }
+  ],
+  "translation": "Gomme ka ngwala pukung, ka e tswalela ka sefoka, ka hemesa bopaki, gomme ka shekela ⟨את⟩ silibera mo go sekala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9b7130a7a1fb998a91b06686f9feb93646dac819e4c468f281bb9b957b223478",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/32\/9-12.1792293666755.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "gomme ka ngwala"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "pukung"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "ka e tswalela ka sefoka"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "ka hemesa bopaki"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "gomme ka shekela"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "mo go sekala"
+    }
+  ],
+  "timestamp": "2026-10-18T03:21:06.756715667Z",
+  "model": "glm-5.3"
+}

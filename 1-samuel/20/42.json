@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 20:42",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Dafida",
+      "rationale": "Jonathane a bolela ka go lebisisa go Dafida, ka taelo: Sepela ka kagiso."
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולם",
+      "rationale": "Seheberu se bolela se se felo se sa bonwego (concealed\/vanishing point); Sepedi: nako e sa felago — go nyeletša ga bokao bja go utilwe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ובין…ובין",
+      "rationale": "Go upiša ga בין (gare) ga fete ga botee bja pelo — e upetšwa ka bobedi bja dihlogo tše pedi."
+    }
+  ],
+  "translation": "Gomme Jonathane a bolela go Dafida: Sepela ka kagiso, ka gobane re ile ra ikana re bedi re le ka leina la Yahwe, go re: Yahwe o tla ba gare ga nna le gare ga wena, le gare ga peo ya ka le gare ga peo ya gago, go fihla nako e sa felago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "226a0e6f5edb1371bc270773515fe5e7daa362e961d99fc195781999876759f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/20\/41-42.1792288492437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a bolela"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jonathane"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "go Dafida"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Sepela"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ka kagiso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "re ile ra ikana"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "re bedi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ka leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gare ga nna"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "le gare ga wena"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le gare ga"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "peo ya ka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le gare ga"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya gago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nako e sa felago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:54:52.438234291Z",
+  "model": "glm-5.3"
+}

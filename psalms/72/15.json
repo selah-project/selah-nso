@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba tla",
+      "rationale": "Seheberu se re 'go tla fa' ntle le go bolela ke mang — 'ba' e okeditšwe"
+    },
+    {
+      "kind": "crux",
+      "subject": "ba tla rapela bakeng sa gagwe",
+      "rationale": "ויתפלל: kgoši e rapelwa bakeng sa yona (KJV\/ASV) goba kgoši yona e rapela (YLT, karolo ya 'ו' ya motho)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go losa",
+      "rationale": "ברך lešika la yona ke go thkgomoka; 'go losa' ke kano ya Sepedi ya mohola"
+    }
+  ],
+  "translation": "Gomme o tla phela, gomme ba tla mo nea gauta ya Sheba; gomme ba tla rapela bakeng sa gagwe ka mehla, matšatšing ka moka ba tla mo losa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "af32cd9fb2b8939ad65613025edd74cfd05d123041b1a254e9037257e399f37e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/72\/13-16.1792298117439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "Gomme o tla phela"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "gomme ba tla nea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "gauta ya"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "gomme ba tla rapela"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "bakeng sa gagwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka mehla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "היום",
+      "gloss": "matšatšing"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "ba tla mo losa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:17.440124721Z",
+  "model": "glm-5.3"
+}

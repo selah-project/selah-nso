@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפיח לו",
+      "rationale": "Kganetšo ya mofetoledi: KJV 'yo a mo fofotšago' (fofotša kgahlanong le yena) kgahlanong le ASV 'a e hembakanyago' (a e nyakago) — both from פוח (go foka\/hema)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "משד",
+      "rationale": "Seheberu se bolela tshefu\/thopo; 'go thopha ga bahloki' e tliša seswantšho sa go thopa."
+    }
+  ],
+  "translation": "Go tloga go thopha ga bahloki le go lla ga ba hlokago, bjale ke tla ema, a bolela Yahwe; ke tla bea ⟨את⟩ polokegong yona a e hembakanyago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2e8bfb0f9c2067f461a0cddcb065e7801b95f1df499e42d5b5c06c36de471b82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/12\/5-8.1792297308961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "go thopha"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "bahloki"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "go lla"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "ba hlokago"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ke tla ema"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ke tla bea"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "polokegong"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "a hembakanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:48.962720271Z",
+  "model": "glm-5.3"
+}

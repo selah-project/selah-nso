@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בידי",
+      "rationale": "'Mahlakoreng' — ידי ke seatla, fela mo e bolela mahlakoreng a leswika."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשמטו",
+      "rationale": "'Ba lahlegišwa' goba 'ba tlošwa' — lebaka la šomišo le sa hlaka polelong ye."
+    }
+  ],
+  "translation": "Baatlaodi ba bona ba lahlegišwa ka mahlakoreng a leswika, gomme ba utwe mantšu a ka, gobane a monate.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/141\/5-8.1792299071950.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "ba lahlegišwa"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ka mahlakoreng"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "a leswika"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "baatlaodi ba bona"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "gomme ba utwe"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mantšu a ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "a monate"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:11.951851523Z",
+  "model": "glm-5.3"
+}

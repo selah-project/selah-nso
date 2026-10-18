@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 19:16",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a be⟩",
+      "rationale": "Seheberu se fa fela leina le maemo ka go 'לפניהם'; Sepedi se nyaka kopu 'a be' bakeng sa pego e phethogilego."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נגפו",
+      "rationale": " Lentšu le lentšu ke 'ba gogwa ka dinaka \/ ba otlwa' — Sepedi se feleletše go 'ba fenkgwa', se bosolla fela sephetho."
+    }
+  ],
+  "translation": "Gomme Arame a bona gore ba fenkgwa pele ga Yisraele, gomme ba romela barumuwa, ba ntšha ⟨את⟩ Arame ao a lego ka mose ga noka; gomme Shofake, molaodi wa masole a Hadadezere, ⟨a be⟩ pele ga bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ee5139bebb14d12b37ce3bbf147526cbf5f38fb569989363f9c4e4d4ab369a00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/19\/13-16.1792303343828.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "ba fenkgwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "gomme ba romela"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "barumuwa"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "ba ntšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arame ao a lego ka mose ga noka"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arame"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ka mose ga"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "noka"
+    },
+    {
+      "surface": "ושופך",
+      "gloss": "gomme Shofake"
+    },
+    {
+      "surface": "שר",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "wa masole"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "a Hadadezere"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pele ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:02:23.833891523Z",
+  "model": "glm-5.3"
+}

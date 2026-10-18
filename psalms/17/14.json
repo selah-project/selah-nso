@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 17:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וצפינך",
+      "rationale": "Keteng ya tlhaka: 'ka diphahlo tša gago tše utilweng o tladitše mpa ya bona' kgahlanong le BSB 'o tladitše dipa tša bao ba kgethilwego' — ketego ya pele e latela mongwalo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ממתים ידך",
+      "rationale": "KJV: 'batho bao e lego letsogo la gago'; YLT: 'go batho, ka letsogo la gago' — mo ka moka ke bothata bja grammar"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lefase",
+      "rationale": "חלד ke bophelo bja nakwana, lefase le fephagile — 'lefase la nakwana'"
+    }
+  ],
+  "translation": "Go batho, ka letsogo la gago, Yahwe — go batho ba lefase, bao karolo ya bona e lego bophelong; o tladitše mpa ya bona ka diphahlo tša gago tše utilweng; ba tlala ka bana, gomme ba beile tlaleletšo ya bona go bananyana ba bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "16a4bad9a59e51584fd3aecb9b76a34c45d370cd0cc2e263983226aafc0d1ea0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/17\/13-15.1792297228643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ממתים",
+      "gloss": "go batho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ka letsogo la gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ממתים",
+      "gloss": "go batho"
+    },
+    {
+      "surface": "מחלד",
+      "gloss": "ba lefase"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "karolo ya bona"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "bophelong"
+    },
+    {
+      "surface": "וצפינך",
+      "gloss": "diphahlo tša gago tše utilweng"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "o tladitše"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "mpa ya bona"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ba tlala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ka bana"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "gomme ba beile"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "tlaleletšo ya bona"
+    },
+    {
+      "surface": "לעולליהם",
+      "gloss": "go bananyana ba bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:28.644077663Z",
+  "model": "glm-5.3"
+}

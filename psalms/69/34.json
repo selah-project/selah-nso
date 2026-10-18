@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "evjonim",
+      "rationale": "אביונים ke 'bao ba nyakago se ba se senyegileng' — ba hloki ka tsela ya go iša pele; 'bao ba hlokago' bo amana ka mo go atlegago."
+    }
+  ],
+  "translation": "Gobane Yahwe o theetša bao ba hlokago, gomme ⟨את⟩ batshwarwa ba gage ga a ba nyatše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f4a1fcc1a26e80e6d0d6aebf86c37e871c5fc58cf0cfb0cef3a7c04632bdae8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/69\/33-36.1792298055945.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "o theetša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "bao ba hlokago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "batshwarwa ba gage"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "batshwarwa ba gage"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "a ba nyatše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:15.945861432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 8:8",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e be \/ gakaalo",
+      "rationale": "Hebrew ויארכו is causative 'they lengthened'; Sepedi needs a copula-like filler to carry the state"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויארכו",
+      "rationale": "'they drew out the poles' (KJV) vs 'the poles were long' (ASV\/JPS) — active drawing vs. static length"
+    }
+  ],
+  "translation": "Gomme mela e be e ateditše gakaalo, gomme ditlhogo tša mela di be di bonwa go tšwa bokgethweng, go fa Debire, eupša ka ntle ga di bonwe; gomme di dula gona go fihla letšatši le le la gona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/8\/5-8.1792289884655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויארכו",
+      "gloss": "gomme e be e ateditše"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "mela"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "gomme di bonwa"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ditlhogo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "tša mela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bokgethweng"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "פני",
+      "gloss": "fa"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "Debire"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eupša ga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "di bonwe"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "gomme di dula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le le la gona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:18:04.657175383Z",
+  "model": "glm-5.3"
+}

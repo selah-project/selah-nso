@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 13:14",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אהי",
+      "rationale": "ba ba ngwalago ba fapana: potšišo 'ke kae?' (ASV\/JPS) kgantši boela 'ke tla ba...' (KJV: 'I will be thy plagues') — ditlhaka tše di swanago, go buletšwe ka ditlhaka tša kgopolo"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נחם",
+      "rationale": "lentšu le le tšwa mono fela go Tanakh; le bolela pono ya go se fetole sephiri — 'repentance\/compassion'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pono",
+      "rationale": "נחם e bolela go fetola maikemišetšo; 'pono' ke kgauswi fela — ga go na lentšu le le lokišago la Sepedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "Sheole",
+      "rationale": "ga se dihele ya kotlo — Sheole ke lefelo la bafedi ka moka; D2 e e boloka"
+    }
+  ],
+  "translation": "Go tšwa seatleng sa Sheole ke tla ba lokolla, go tšwa lehufung ke tla ba pholosa; ke kae, lehufu, seu sa gago? ke kae, Sheole, tšhudu ya gago? Pono e utilwe go mahlo a ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5598ed3bafb309bd18a2ce30f873958ce9d718627ef7bab56bdcdb0c13571ba7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/13\/13-15.1792296052011.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מיַּד",
+      "gloss": "go tšwa seatleng"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "אפדם",
+      "gloss": "ke tla ba lokolla"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "go tšwa lehufung"
+    },
+    {
+      "surface": "אגאלם",
+      "gloss": "ke tla ba pholosa"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "ke kae"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "seu sa gago"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lehufu"
+    },
+    {
+      "surface": "אהי",
+      "gloss": "ke kae"
+    },
+    {
+      "surface": "קטבך",
+      "gloss": "tšhudu ya gago"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "pono"
+    },
+    {
+      "surface": "יסתר",
+      "gloss": "e utilwe"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "go mahlo a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:00:52.012291691Z",
+  "model": "glm-5.3"
+}

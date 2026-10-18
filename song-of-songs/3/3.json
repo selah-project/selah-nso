@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go ba ba šireletšego",
+      "rationale": "potšišo ya go ibeganya e rometšwe kudu go basireletši ba toropo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pelo ya ka",
+      "rationale": "נפשי — mafoko a bophelo, a fetotšwe ka pelo gore sephiring se se fele"
+    }
+  ],
+  "translation": "Ba ba šireletšego, ba dikologago toropong, ba nthwetše — ⟨את⟩ yo pelo ya ka e mo ratago, a le mo bone?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "28b12a73fd5bfd486d8a9d2d94fc38500a8728a64f568cb32b0096d2ac727c5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/3\/1-4.1792300950487.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "ba nthwetše"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "ba ba šireletšego"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "ba dikologago"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yo pelo ya ka e mo ratago"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "e mo ratago"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "a le mo bone"
+    }
+  ],
+  "timestamp": "2026-10-18T05:22:30.487970888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 3:14",
+  "book": "ruth",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lefala la go thaeša",
+      "rationale": "הגרן ke lefala la go thaeša dijwalo; mantšu a mantši a fetoletše ka 'goro' — sebopego sa lefala se a nyamela"
+    },
+    {
+      "kind": "elision",
+      "subject": "מרגלתו",
+      "rationale": "lemma e bolela 'maoto' ka mokgwa wa go laela — 'a lale maoto a hae' ke seshupo sa lefelo, e sego lentšu la 'maoto' ka boyona"
+    }
+  ],
+  "translation": "Gomme a lale maoto a hae go fihla bosasa; a tsoga pele ga ge motho a ka tseba ⟨את⟩ mogwera wa gage. Gomme a re: A se ke a tsebjwa gore mosadi o tsene lefaleng la go thaeša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6e54733758e2a093edcd5a550e0411a759284e4972eb66951c546baa1146bd51",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ruth\/3\/13-16.1792301075695.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשכב",
+      "gloss": "gomme a lale"
+    },
+    {
+      "surface": "מרגלתו",
+      "gloss": "maoto a hae"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "bosasa"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "a tsoga"
+    },
+    {
+      "surface": "בטרום",
+      "gloss": "pele ga ge"
+    },
+    {
+      "surface": "יכיר",
+      "gloss": "a ka tseba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mogwera wa gage"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mogwera wa gage"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "a tsebjwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "באה",
+      "gloss": "o tsene"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "lefala la go thaeša"
+    }
+  ],
+  "timestamp": "2026-10-18T05:24:35.696563505Z",
+  "model": "glm-5.3"
+}

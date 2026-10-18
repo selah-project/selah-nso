@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 39:7",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נשא את עיניה",
+      "rationale": "Mokgwa wa Seheberu 'go tlama ⟨את⟩ mahlo' — go ra go lebelela ka kgahlego; Sepedi: 'a nwediša mahlo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אדניו",
+      "rationale": "'Adon' ya motho ke 'mong' ka Sepedi, e sego 'Adonai' — mong wa Yosefe ke motho, Potifare."
+    },
+    {
+      "kind": "you",
+      "subject": "šikba imi",
+      "rationale": "Bolelo bja go laela bjo bo lebanego le Yosefe: 'Lala le nna'."
+    }
+  ],
+  "translation": "Gomme go direga ka morago ga ⟨את⟩ ditaba tše, mosadi wa mong wa gagwe a nwediša ⟨את⟩ mahlo a gagwe go Yosefe, gomme a re: Lala le nna.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "bb0af0fbb24cf2db33dc11a12742202f874f5fb2417d1a414782a1cf5a880e44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/39\/6-7.1792304576239.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go direga"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ditaba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "a nwediša"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "wa mong wa gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahlo a gagwe"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "mahlo a gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "lala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:56.240854916Z",
+  "model": "glm-5.3"
+}

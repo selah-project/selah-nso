@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 33:29",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שממה ומשמה",
+      "rationale": "Root repetition (desolation... desolate), both from שמם; Sepedi splits into two words and loses the echo."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke nna",
+      "rationale": "Hebrew אני is just 'I'; 'ke nna' adds the copula Sepedi requires."
+    }
+  ],
+  "translation": "Gomme ba tla tseba gore ke nna Yahwe, ge ke bea ⟨את⟩ lefase e le tshologo le e senyegile, ka baka la ditšhwaetšo tša bona tša ka moka tšeo ba di dirilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b5437fd13561a86ad8a3d2963ef5a781e6f23046766f267b2d2da3c47e93d491",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/33\/29-32.1792295431858.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Gomme ba tla tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "ge ke bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "e le tshologo"
+    },
+    {
+      "surface": "ומשמה",
+      "gloss": "le e senyegile"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tša ka moka"
+    },
+    {
+      "surface": "תועבתם",
+      "gloss": "ditšhwaetšo tša bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba di dirilego"
+    }
+  ],
+  "timestamp": "2026-10-18T03:50:31.859069176Z",
+  "model": "glm-5.3"
+}

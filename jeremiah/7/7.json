@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go sa le gonywa … go sa fela",
+      "rationale": "עולם ועד עולם: 'from of old unto forever' — the doubled Hebrew time-word rendered by two Sepedi time-phrases since no single word covers both directions."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אתכם",
+      "rationale": "Causative שכן 'cause to dwell' — rendered 'dira gore le dule' rather than plain 'ke tla dula le lona'."
+    }
+  ],
+  "translation": "gomme ke tla dira gore ⟨את⟩ ⟨lena⟩ le dule lefelong le, lefaseng leo ke fileng batate ba lona, go tloga go sa le gonywa go fihla go sa fela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "58b02c60bb11cf2a72f75dba882ae06d5ba5ef151d3d87d0bc84b79f03fd0a7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/7\/5-8.1792292878175.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "gomme ke tla dira gore le dule"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ⟨lena⟩"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke fileng"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "batate ba lona"
+    },
+    {
+      "surface": "למן",
+      "gloss": "go tloga"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "go sa le gonywa"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "go sa fela"
+    }
+  ],
+  "timestamp": "2026-10-18T03:07:58.177062733Z",
+  "model": "glm-5.3"
+}

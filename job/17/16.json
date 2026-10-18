@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 17:16",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בדי שאל",
+      "rationale": "'dikgoro tša Sheole' (KJV\/ASV) kgahlanong le 'dikarolo tša Sheole' (YLT); בד = paṱa\/kgoreletši"
+    },
+    {
+      "kind": "crux",
+      "subject": "נחת",
+      "rationale": "'phologo' (KJV 'rest') kgahlanong le 'go theoga' (Geneva); lentšu le bolela dilo tše pedi"
+    },
+    {
+      "kind": "mystery",
+      "subject": "potšišo ya mafofelong",
+      "rationale": "Job o kgala ka potšišo — tshepo ya gagwe e theoga le yona Sheoleng"
+    }
+  ],
+  "translation": "Di tla theoga go dikgoro tša Sheole; na phologo e tla ba mmogo mo leroleng?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fe5141f07b75dc90736924856e52d130f83b18dea4313cb1d640d618a6f614e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/17\/13-16.1792300320194.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "תרדנה",
+      "gloss": "di tla theoga"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "leroleng"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "phologo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:12:00.195523193Z",
+  "model": "glm-5.3"
+}

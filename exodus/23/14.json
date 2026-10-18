@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "maoto",
+      "rationale": "רגלים e šala 'maoto' — e bolela dikelello tša go ya pele (pilgrimage festivals); go šala ga maoto bo bolokwa."
+    },
+    {
+      "kind": "measurement",
+      "subject": "a tharo",
+      "rationale": "Palo ya dikelello tše tharo ngwageng e bala go swana le Seheberu."
+    }
+  ],
+  "translation": "Maoto a tharo o a tšerelela mokete go nna ka ngwageng.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5093b61dc4fb56e39415ed5f925caafeb762e52504545a564b8db1341b0558f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/23\/13-16.1792282943744.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "a tharo"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "maoto"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "o a tšerelela mokete"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ngwageng"
+    }
+  ],
+  "timestamp": "2026-10-18T00:22:23.745578800Z",
+  "model": "glm-5.3"
+}

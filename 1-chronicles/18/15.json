@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mohlokomedi wa diphetoho",
+      "rationale": "מזכיר ra gauta 'mong wa go gopola' — ofisi ya go gatisa merero ya kgoši; 'mohlokomedi wa diphetoho' ke tlhalošo ya ofisi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨e⟩",
+      "rationale": "Sepedi e nyaka kopanyo gare ga maina a mabedi a mošomo; Seheberu ga e e nave."
+    }
+  ],
+  "translation": "Gomme Yoabe mora Tserujaye a be mošomong wa sesole; gomme Yehosafate mora Aihilute ⟨e⟩ mohlokomedi wa diphetoho.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "80245ada4bb3aec48de7134b3e642bff17d9d4f60b32fc7a9037ac4ce0ad0f26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/18\/13-16.1792303271505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "Gomme Yoabe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Tserujaye"
+    },
+    {
+      "surface": "על",
+      "gloss": "mošomong wa"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "sesole"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "gomme Yehosafate"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Aihilute"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "mohlokomedi wa diphetoho"
+    }
+  ],
+  "timestamp": "2026-10-18T06:01:11.506459615Z",
+  "model": "glm-5.3"
+}

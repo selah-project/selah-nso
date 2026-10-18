@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "128",
+      "rationale": "Palo ya ba-sebinedi ba bana bja Asafe — lekgolo le masomepedi le seswai."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba-sebinedi",
+      "rationale": "המשררים ke bao ba binago; lentšu le bolela go bina ka molomo, e sego go bapala sedumo."
+    }
+  ],
+  "translation": "Ba-sebinedi, bana bja Asafe, lekgolo le masomepedi le seswai.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "0948a072555a7428d7eb97acdc77b42d9d4ef9a4866e60bd57107809498de122",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/2\/41-44.1792302209739.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ba-sebinedi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana bja"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafe"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masomepedi"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "gomme seswai"
+    }
+  ],
+  "timestamp": "2026-10-18T05:43:29.739915699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨mo⟩",
+      "rationale": "Seheberu se se na le kopula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "נעים",
+      "rationale": "'se se nago monyako' (go monyakisa) kgahlanong le 'se se botse' — ba fetoleli ba fapana"
+    }
+  ],
+  "translation": "Dumelang Yah, ka gobane Yahwe ke ⟨mo⟩-botse; opelang ka leina la gagwe, ka gobane ke ⟨selo⟩ se se nago monyako.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d52957cd6ef4347864f7d58f5626c0390271d3a140abb4ed9738ce9c79e28589",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/135\/1-4.1792298957516.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "dumelang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "botse"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "opelang"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "ka leina la gagwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "se se nago monyako"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:17.517159615Z",
+  "model": "glm-5.3"
+}

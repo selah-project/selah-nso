@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "feta",
+      "rationale": "אוֹתָם sefofane se se bolelago 'tšona' — se fetošitšwe ke lenti la go hlalosa"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Taelo ye e ala go setšhaba ka bophara — 'le' ka bobedi le go ruri"
+    }
+  ],
+  "translation": "Gomme le tla šireletša ⟨את⟩ mekgwa ya ka ka moka le ⟨את⟩ dikahlolo tša ka ka moka, gomme le di dira; ke nna Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ed6964fd55e44e017035c51f156cfc71771ef0dbecbe573b5c2ae28c256f8268",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/19\/37-37.1792284075063.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "gomme le tla šireletša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mekgwa ya ka ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "mekgwa ya ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikahlolo tša ka ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "dikahlolo tša ka"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "gomme le dira"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ feta"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:41:15.064050301Z",
+  "model": "glm-5.3"
+}

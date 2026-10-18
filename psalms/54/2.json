@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 54:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "דָוִד",
+      "rationale": "Seheberu se na le ⟨את⟩-tšwaelo e sego gona mo; modumo wa lenti o a feleletša ka -ה fela molaetša o a utlwala"
+    }
+  ],
+  "translation": "Ge ba-Zife ba tla, ba re go Shaule: A ga Dafida a iphitlha le rena?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/54\/1-4.1792297864099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ge ... ba tla"
+    },
+    {
+      "surface": "הזיפים",
+      "gloss": "ba-Zife"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "go Shaule"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "a iphitlha"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "le rena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:04.100244717Z",
+  "model": "glm-5.3"
+}

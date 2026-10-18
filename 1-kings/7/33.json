@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 7:33",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diatla tša tšona",
+      "rationale": "ידותם ke 'diatla tša tšona' ka tlhaho — fapa le go bolela axes tša mawere, se sengwe le se sengwe se ile sa tseelwa sede"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חשקיהם\/חשריהם",
+      "rationale": "Mantšu a mabedi a tšwago ka mo go swanago (a hlomaganya \/ a kgobokantšwego) a latelana — papadi ya medumo yeo e senyegile ka Sepedi"
+    },
+    {
+      "kind": "elision",
+      "subject": "dilo-tša-go-hlomaganya · bogare-bja-were",
+      "rationale": "Sepedi ga se na mantšu a kgethegilego bakeng sa חשקים (dipae) le חשרים (bogare bja were), ka gona dilo tše di hlatšitšwe ka mokgwa wa go di hlalosa"
+    }
+  ],
+  "translation": "Gomme mošomo wa mawere o swana le mošomo wa were wa koloi: diatla tša tšona, gomme mekgoba ya tšona, gomme dilo-tša-go-hlomaganya tša tšona, gomme bogare-bja-were tša tšona — ka moka e ile ya nwetšwa.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "6668c9bca977aa4b27917c490bc4ca8fa6ce48f615800dd660b8a1d64970c7ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/7\/33-34.1792304995562.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומעשה",
+      "gloss": "gomme mošomo"
+    },
+    {
+      "surface": "האופנים",
+      "gloss": "wa mawere"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "o swana le mošomo"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "wa were"
+    },
+    {
+      "surface": "המרכבה",
+      "gloss": "wa koloi"
+    },
+    {
+      "surface": "ידותם",
+      "gloss": "diatla tša tšona"
+    },
+    {
+      "surface": "וגביהם",
+      "gloss": "gomme mekgoba ya tšona"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "gomme dilo-tša-go-hlomaganya tša tšona"
+    },
+    {
+      "surface": "וחשריהם",
+      "gloss": "gomme bogare-bja-were tša tšona"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "e ile ya nwetšwa"
+    }
+  ],
+  "timestamp": "2026-10-18T06:29:55.563672483Z",
+  "model": "glm-5.3"
+}

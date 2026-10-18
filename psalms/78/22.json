@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "polokego",
+      "rationale": "ישועה ke seo se pholotšwego — polokego, thokgo; e sego leina la motho"
+    }
+  ],
+  "translation": "ka gobane ga ba dumele go Elohim, gomme ga ba tshephitše polokego ya yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "da57fde5bf333c2237b2715ecd4a86ab6c59a3732dd97f0a4f93e32741e3d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/21-24.1792298225795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "ba dumele"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "ba tshephitše"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "polokego ya yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:05.796562926Z",
+  "model": "glm-5.3"
+}

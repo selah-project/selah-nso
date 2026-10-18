@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "12 ditau, 6 mekgato",
+      "rationale": "Palo ya ditau le mokgato — go bala ga sebopego sa setulo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go dula ga mokgato",
+      "rationale": "Seheberu se re \"go eme foo go dula ga tše tshela\"; go baakanya go ya ka mokgato wo o tee o mongwe le o mongwe ke tlhalošo ya motho yo a balago, e sego sengwalwa."
+    }
+  ],
+  "translation": "Gomme ditau tše lesome-pedi di eme foo go dula ga mokgato o mongwe le o mongwe wa tše tshela, ka lehlakoreng le le lengwe le ka le le lengwe; ga go a dirwa bjalo go bogoši bjo bope.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "aa85a347f72d086af1caf588e5928633547ae18e6542226d11216aa440fbe02c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/10\/17-20.1792289896222.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "Gomme ... tše"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome-pedi"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "ditau"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "di eme"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "על",
+      "gloss": "go dula ga"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tše tshela"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "mekgato"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ka lehlakoreng le le lengwe"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "le ka le le lengwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga go a dirwa"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go bogoši bjo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bope"
+    }
+  ],
+  "timestamp": "2026-10-18T02:18:16.223852962Z",
+  "model": "glm-5.3"
+}

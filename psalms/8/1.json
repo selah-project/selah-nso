@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הגתית",
+      "rationale": "Lentšu la dithaere tša Gata — le tšwa go ba-Gata, le sa hlakahala gabotse."
+    }
+  ],
+  "translation": "Go molaodi, ka dithaere tša Gata. Sepoko sa Dafida.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6a6c2f52fd99c85af060df0d891eca0772a9f08a156742440f7d3fb3d35f6a97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/8\/1-4.1792297132963.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go molaodi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "dithaere tša Gata"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "sepoko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:52.964149165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לדרך פעמיו",
+      "rationale": "Crux: 'e bea tsela bakeng sa mehato ya gagwe' (BSB) kgahlano le 'e dira mehato ya gagwe go ba tsela' (ASV\/JPS) — bopelelo bja Sepedi bo swara tsela bjalo ka sebopego."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדק e bolokwa ka modumo go ya le D2; 'toka' e ka šumišwa eupša e lahla sebopego sa lentšu."
+    }
+  ],
+  "translation": "Tsedeke e tla sepela ka pele ga yena, gomme e bea mehato ya gagwe go ba tsela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cf0931526d8497ec42f1c5180566b79e392002d141456bdd64445ef32aba1d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/85\/13-14.1792298344974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ka pele ga yena"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "e tla sepela"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "gomme e bea"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "go ba tsela"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "mehato ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:04.975476961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 13:12",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משפט הנער",
+      "rationale": "'kahlolo\/tlwaelo ya moswananši' — KJV 'how shall we order the child' e tsepamisa ka batši; Seheberu se botša ka tlwaelo ya moswananši yena."
+    },
+    {
+      "kind": "mystery",
+      "subject": "go tla ba ka sehla sefe",
+      "rationale": "Manoakhe o botša ka se se sa tsebjego ka lehuša la ngwana — potšišo ya se sa dutšego se sa tsebjwa."
+    },
+    {
+      "kind": "alternative",
+      "subject": "עתה יבא דבריך",
+      "rationale": "E ka ba boledišani: 'a ke a tle mantšu a gago' (thapelo) goba kanegelo: 'ge mantšu a gago a phethagala'."
+    }
+  ],
+  "translation": "Gomme Manoakhe a re: Bjale ge mantšu a gago a tla go phethagala, go tla ba ka sehla sefe sa moswananši, le mošomo wa gagwe o tla ba ofe?",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "08e0d94062cf289052628fe6672f026ca2b32edc30e037e0b2ceb3b0065cf357",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/13\/9-12.1792287538443.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Manoakhe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "a tla go phethagala"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "mantšu a gago"
+    },
+    {
+      "surface": "מה",
+      "gloss": "go tla ba ka sefe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "moswananši"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "le mošomo wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:38:58.444901160Z",
+  "model": "glm-5.3"
+}

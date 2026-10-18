@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimo ya bona",
+      "rationale": "אלהיהם fa e bolela medimo ya ditšhaba — ka ditlhaka tše nnye go ya ka D1, e sego Elohim"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Sepedi e nyaka tlhakantšhwa go Yahwe; Seheberu se na le לי fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "לי",
+      "rationale": "כִּי תַעֲבֹד ... כִּי יִהְיֶה: mehuta ya כִּי ye mebedi — 'ka gobane' goba 'ge' (JPS vs KJV)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "thebe ya go tšara",
+      "rationale": "למוקש ke thaele ya go tšara diphologolo; lentšu le kopantšwe ka gobane Sepedi se na le lentšu le tee"
+    }
+  ],
+  "translation": "Ba se ke ba dula lefaseng la gago, gore ba se ke ba dira ⟨את⟩wena sebe ⟨go⟩ Yahwe, ka gobane o tla šomela ⟨את⟩ medimo ya bona, gomme e tla ba go wena thebe ya go tšara.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b3d37afa934727eef74f9bdd1f970ca506dd9c4c77c87c5c23210b24122fa317",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/23\/33-33.1792282861893.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "lefaseng la gago"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore ba se ke"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "ba dira sebe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩wena",
+      "marks": "wena"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "o tla šomela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya bona"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "medimo ya bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "thebe ya go tšara"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:01.894209565Z",
+  "model": "glm-5.3"
+}

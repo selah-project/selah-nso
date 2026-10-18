@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 11:29",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e šomišwa ka moka go ya le D2 — moya\/phefo\/go hema ka lentšu le tee; 'go ruša ruakh' ke sekopanywa sa kgethwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "sekgekedi",
+      "rationale": "אויל: 'sekgekedi' (yo a se nago tlhalošo) kgahlanong le 'selaodi' — AOWA go ya le D2"
+    },
+    {
+      "kind": "elision",
+      "subject": "ו",
+      "rationale": "'gomme' e bopa leswika la pele la mohlanka — tokomane e nyaka gomme e a bopišwa"
+    }
+  ],
+  "translation": "Yo a tshwenyago ⟨את⟩ ntlo ya gagbo o tla ruša ruakh; gomme sekgekedi e tla ba mohlanka wa yo a nago le pelo ya bohlale.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "738265098498f9a90c008ce173b3bcf8c2ec1e374fdb0f5954fe98d77e23d816",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/11\/29-31.1792299402146.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עוכר",
+      "gloss": "yo a tshwenyago"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gagbo"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "o tla ruša"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "gomme mohlanka"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "sekgekedi"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "wa yo a nago le bohlale"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:56:42.147598104Z",
+  "model": "glm-5.3"
+}

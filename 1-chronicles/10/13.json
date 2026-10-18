@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 10:13",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "במעלו \/ מעל",
+      "rationale": "mokgwa wa go boelela: 'bofoša' (nomoro) le 'go foša' (lediri) go tšwa modupi o tee, pafo yeo e bolokilwego ka go boelela ga lona."
+    },
+    {
+      "kind": "crux",
+      "subject": "אוב",
+      "rationale": "'moruti wa dithoi' (moprofeta wa mafele) kgahlanong le 'sethoi' goba 'mmumi'; lentšu le bolela sefetwa sa meetse ka modumo wa lona."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moruti wa dithoi",
+      "rationale": "באוב ke moprofeta wa mafele; 'ngaka' AOWA ka gobane ke mophodiši."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשאול \/ שאול",
+      "rationale": "lediri la go botšiša (שאל) le thekga le leina la Shole (שאול) — kgwebo ya mantšu yeo e sa fetolelwago."
+    }
+  ],
+  "translation": "Gomme Shole a hwala ka bofoša bja gage, leo a le diriletšego go Yahwe, ka lebaka la lentšu la Yahwe, leo a sa le boloketšego; le gape ka go botšiša moruti wa dithoi go kgokgota.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "74a37aebf8a7f731cb6f791ac533bc6d8285d63ea6387f3857364c40314461a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/10\/13-14.1792303055523.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "a hwala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shole"
+    },
+    {
+      "surface": "במעלו",
+      "gloss": "ka bofoša bja gage"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "a le diriletšego"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "boloketšego"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le gape"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ka go botšiša"
+    },
+    {
+      "surface": "באוב",
+      "gloss": "moruti wa dithoi"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "go kgokgota"
+    }
+  ],
+  "timestamp": "2026-10-18T05:57:35.523611401Z",
+  "model": "glm-5.3"
+}

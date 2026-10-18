@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ruth 2:23",
+  "book": "ruth",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mme wa monna wa yena",
+      "rationale": "חמותה ke leina la kgauswi; Sepedi ga se na lentšu le tee, ka ge go tlhalositšwe."
+    },
+    {
+      "kind": "measurement",
+      "subject": "leotla la go bina",
+      "rationale": "Severse se bala mafelelo a mela ya barele le borele — palo ya nako."
+    }
+  ],
+  "translation": "A kgomaretše go basetsana ba Boaze go kgoboketša, go fihla ge leotla la go bina la barele le la borele le phethwa; gomme a dula le ⟨את⟩ mme wa monna wa yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dbaa07bbc94ff09d7eb10587cabfa1086177a2ab022eb61a343598f8cd0324cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ruth\/2\/21-23.1792301065159.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "a kgomaretše"
+    },
+    {
+      "surface": "בנערות",
+      "gloss": "go basetsana"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ba Boaze"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "go kgoboketša"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "כלות",
+      "gloss": "go phethwa"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "leotla la go bina"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "la barele"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "gomme leotla la go bina"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "la borele"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "gomme a dula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mme wa monna wa yena"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "mme wa monna wa yena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:24:25.159969252Z",
+  "model": "glm-5.3"
+}

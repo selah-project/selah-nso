@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "boela bja gage",
+      "rationale": "תשבתו e le 'go boa' ga gagolo — sebopego sa go boela, e sego sebopego sa mošomo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שם ×3",
+      "rationale": "go bolela gona ga tharo ka go latellana go bontšha lefelo le tee — Rama"
+    },
+    {
+      "kind": "addition",
+      "subject": "e be e le",
+      "rationale": "Seheberu ga se na copula; Sepedi e e nyaka"
+    }
+  ],
+  "translation": "Gomme boela bja gage e be e le go Rama, ka gobane gona go lego ntlo ya gage; gomme gona a ahlola ⟨את⟩ Yisraele; gomme a aga gona aletare go Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e714e65e23afa962580ad43f5c895393ae69c157cee7a3c2911844bae3b26786",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/7\/17-17.1792287918437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "gomme boela bja gage"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "go Rama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ntlo ya gage"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "gomme gona"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "a ahlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "gomme a aga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:45:18.438002083Z",
+  "model": "glm-5.3"
+}

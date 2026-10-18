@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "lesedi le hlaba",
+      "rationale": "ואור go nna nnete e tlwaelegilego — 'gomme go kwala' — Sepedi e nyaka sebopego se se feletšego."
+    },
+    {
+      "kind": "you",
+      "subject": "go Dafida",
+      "rationale": "Akishe o bolela go Dafida ka boomo, ka mekgwa ya go laela."
+    }
+  ],
+  "translation": "Bjale kamoso o fofotše, wena le bahlanba ba mong wa gago ba tšeregile ⟨את⟩ wena; gomme ge le fofotše kamoso gomme lesedi le hlaba, le tsamaye.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "544093e83701cbb8b62537b19d28a8d906a36dc98fa2fe3a66be5c5786ed4539",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/29\/9-11.1792288668263.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "o fofotše"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kamoso"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "le bahlanba"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "ba mong wa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": " bao "
+    },
+    {
+      "surface": "באו",
+      "gloss": "ba tšeregile"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "le ⟨את⟩ wena",
+      "marks": "wena"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "ge le fofotše"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kamoso"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "gomme lesedi le hlaba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "le tsamaye"
+    }
+  ],
+  "timestamp": "2026-10-18T01:57:48.264590791Z",
+  "model": "glm-5.3"
+}

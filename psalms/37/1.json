@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "fišišiša",
+      "rationale": "תתחר ke go fiša ka pelo ya go hloka khotšo — go fišišiša ke kgonthe ya go tšhaba"
+    },
+    {
+      "kind": "crux",
+      "subject": "תקנא",
+      "rationale": "nametša (go hloka sephiring) kgahlanong le go hloya-ka-po; Sepedi a se na lentšu la kgonthe la קנא"
+    },
+    {
+      "kind": "invitation",
+      "subject": "psalms 37:1",
+      "rationale": "Taello ya go gana e šupetša mogopi ka o tee — o mo bitša ka mo go sa feleng"
+    }
+  ],
+  "translation": "Ya Dafida. O se ke wa fišišiša ka ba phoso, o se ke wa nametša bao ba dirago sebe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2fb92fe0b5b9a22c03a7f2fe40733beeaa14e477302e81f9dfacd73e3f5316ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/37\/1-4.1792297588190.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dafida"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "fišišiša"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "ka ba phoso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "nametša"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "bao ba dirago"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:28.190816844Z",
+  "model": "glm-5.3"
+}

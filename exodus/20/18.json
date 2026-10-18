@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se tloša maikutlo",
+      "rationale": "וינעו — go dinela, go kgopelana le lefase; Lentšu la Seheberu le bolela go ikgopetsa ka maikutlo lego ka mmele ka bobedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikoledi",
+      "rationale": "הלפידם — dikoledi (ledika la mollo, le bopang letshwaophiri) — e sego "
+    },
+    {
+      "kind": "substitution",
+      "subject": "modumo",
+      "rationale": "הקולת — setšhaba se a bona modumo — seboni se diragatša se sengwe seo se sa bonagalgo, Lentšu la Seheberu le thwathlaganya dipono"
+    }
+  ],
+  "translation": "Gomme setšhaba ka moka se bona ⟨את⟩ modumo, le ⟨את⟩ dikoledi, le ⟨את⟩ modumo wa setšo, le ⟨את⟩ thaba e ka go kgwediša, gomme setšhaba ge se bona se tloša maikutlo, mme se ema se kgopelana le sekgopa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8984c165afaa99995e132d04b07678de0767f86b4811bb99b2e23ba2c373196b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/20\/17-20.1792282826893.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "gomme ... ka moka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "se bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikoledi"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "dikoledi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "modumo wa setšo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "wa setšo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "thaba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "e ka go kgwediša"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "gomme ge se bona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "se tloša maikutlo"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "mme se ema"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "se kgopelana le sekgopa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:20:26.894684915Z",
+  "model": "glm-5.3"
+}

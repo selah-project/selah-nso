@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 47:14",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke motho o a hemošago — bophelo, sephi — e sego moya wa semoya ka mo go tlwaelegilego."
+    },
+    {
+      "kind": "elision",
+      "subject": "נגדו",
+      "rationale": "'go sego le wena' — lentšu la Seheberu le ra 'pelo le pelo'; Sepedi le hloka mantsu a mabedi."
+    }
+  ],
+  "translation": "Bonang, ba bile bjalo ka letša; mollo o ba feditše; ga ba kgone go lokolla ⟨את⟩ moya wa bona mo seatleng sa lelapa la mollo; ga go na leswe la mollo la go futhumeša goba lesedi la go dula ka pele ga lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0da6585cd1d76a77657cfd2424be659d396f0ab0e770e85b963d5844f3c3c9f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/47\/13-15.1792292220550.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba bile"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "bjalo ka letša"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "שרפתם",
+      "gloss": "o ba feditše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יצילו",
+      "gloss": "ba kgone go lokolla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moya wa bona"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moya wa bona"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "mo seatleng sa"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "lelapa la mollo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "גחלת",
+      "gloss": "leswe la mollo"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "la go futhumeša"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lesedi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "la go dula"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ka pele ga lona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:00.551471400Z",
+  "model": "glm-5.3"
+}

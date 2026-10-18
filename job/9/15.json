@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למשפטי",
+      "rationale": "'kahlolong ya ka' — kgethollo: 'moahlodi wa ka' (KJV\/ASV) kgathanong le 'yo a lwisanago le nna' (JPS); sepego sa Seheberu se bolela kahlolo, e sego motho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ke lokile",
+      "rationale": "צדק ke tsedeke — go ba lokile ka ditlhahlobo, e sego tumelo ya ka morago"
+    }
+  ],
+  "translation": "Le ge nka šetše ke lokile, ga ke ke ke araba; kahlolong ya ka ke ka kgopela mohau.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "952cdf15cb2e6947895a0b9c0d0a6e64c187489bb14951bb2eee8be558634ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/9\/13-16.1792300145885.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "le ge"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "nka šetše ke lokile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ke"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ke ke araba"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "kahlolong ya ka"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ke ka kgopela mohau"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:05.885796441Z",
+  "model": "glm-5.3"
+}

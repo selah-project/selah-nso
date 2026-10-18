@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כליל",
+      "rationale": "Ya go fišwa ka botlalo — lentšu le tee le le bolelgo phethego, ga se karolo e sa fišwago."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כליל תקטר \/ כליל תהיה",
+      "rationale": "Go boeleloa ga כליל magareng ga temana tše pedi go bontšha phethego ya sehlabelo sa moperisita."
+    }
+  ],
+  "translation": "Mme minkha ka moka ya moperisita ya go fišwa ka botlalo e tla ba; ga e jewe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8285aa262641836aafdda9359f112205371f7b9ad21de8c26108843bbfedb389",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/6\/13-16.1792283603666.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Mme ... ka moka"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ya moperisita"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ya go fišwa ka botlalo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "e jewe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:33:23.667882723Z",
+  "model": "glm-5.3"
+}

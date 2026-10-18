@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 6:11",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ה- (article ya Seheberu)",
+      "rationale": "Sepedi ga se na article; ה ya הנחל le הגפן e feta ntle le go ngwalwa"
+    },
+    {
+      "kind": "alternative",
+      "subject": "אבי הנחל",
+      "rationale": "E ka ba 'dinaledi tša mošese' (dinamed?) go ya le KJV 'maungo a mošese'; 'mahlogonolo' le tšwa go maña a kala a leshomo (lemma: seswantha se seswa)"
+    }
+  ],
+  "translation": "Ke theogile go serapa sa dimorula, go bona mahlogonolo a mošese, go bona gore morara o thuntšhitše, makgwarapetle a hlaba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/6\/9-12.1792300920633.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "גנת",
+      "gloss": "serapa"
+    },
+    {
+      "surface": "אגוז",
+      "gloss": "sa dimorula"
+    },
+    {
+      "surface": "ירדתי",
+      "gloss": "ke theogile"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "באבי",
+      "gloss": "mahlogonolo a"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "mošese"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go bona gore"
+    },
+    {
+      "surface": "הפרחה",
+      "gloss": "o thuntšhitše"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "morara"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "a hlaba"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "makgwarapetle"
+    }
+  ],
+  "timestamp": "2026-10-18T05:22:00.633965096Z",
+  "model": "glm-5.3"
+}

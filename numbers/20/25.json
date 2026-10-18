@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "aleph-tav ya bareša e tsewa e le ⟨את⟩ fela; <go> le <mo> di okeditšwe ke Sepedi go hlalosa lefelo"
+    }
+  ],
+  "translation": "Tšea ⟨את⟩ Aharone le ⟨את⟩ Elazara mora wa gagwe, o ba ise godimo go Hora, ⟨mo⟩ thabeng yeo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b99c015fde4d1b5715d0a75f6bdfc8b04a79f9870f86010f4adbb3465cd867b3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/20\/25-28.1792284929770.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Elazara"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazara"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa gagwe"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "o ba ise godimo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ba"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hora"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thabeng yeo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:55:29.771512742Z",
+  "model": "glm-5.3"
+}

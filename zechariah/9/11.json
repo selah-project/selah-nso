@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 9:11",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mading a kgwerano",
+      "rationale": "בדם בריתך: madi a kgwerano — a fapaneng: madi a go hlwa kgwerano kgathanong le madi a molato wa kgwerano; Seheberu se bolela fela 'ka mading a kgwerano ya gago'."
+    },
+    {
+      "kind": "you",
+      "subject": "wena",
+      "rationale": "Puo e lebeletšwe kgauswi — go bolela le Tsiyone\/Yerushalayime go temaneng ye e lego pele."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sedibe",
+      "rationale": "בור ke sedibe se se ka bago lekgolekwa — e sego ntle feela, eupša le lefelo la go tšhireletša kgolekwa."
+    }
+  ],
+  "translation": "Gape wena — ka mading a kgwerano ya gago — ke rometše bakgolekwa ba gago go tšwa sedibeng se se nago meetse go sona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "328e896dac3c91815543bee16c2931fb51a08beb9a3eba2c9b8e90d2d2cb3ed7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/9\/9-12.1792296992499.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena",
+      "marks": "mading a kgwerano ya gago"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ka mading"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "a kgwerano ya gago"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ke rometše"
+    },
+    {
+      "surface": "אסיריך",
+      "gloss": "bakgolekwa ba gago"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "go tšwa sedibeng"
+    },
+    {
+      "surface": "אין",
+      "gloss": "se se nago"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go sona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:16:32.500663494Z",
+  "model": "glm-5.3"
+}

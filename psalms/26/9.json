@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke moya\/bophelo bja go hema, e sego motho ka moka goba 'moya' ka boikakaso"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Appeletšo ye e bolelelwa go Yahwe ka moemedi"
+    }
+  ],
+  "translation": "O se ke wa kgoboketša ⟨את⟩ moya wa ka le babaedi dibe, gomme le banna ba madi botshelo bja ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8abf0f1c75d1ad7f331abc0dd0de1a9916fb9243d0c731aa7052472fa2c06bb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/26\/9-12.1792297409701.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "kgoboketša"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "babaedi dibe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "gomme le"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "botshelo bja ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:29.702450184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "mystery",
+      "subject": "masungo",
+      "rationale": "חידתם — mantšu a switlego, a sa hlaka-go-phalega; buka ye e tseba diphiri tša yona"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sehlagiso",
+      "rationale": "מליצה e bolela pono ya tlhaku — sehlaga; go ka ba le bonyelesi gape"
+    }
+  ],
+  "translation": "Go kwešiša seproverbia le sehlagiso, mantšu a bahlahli, le masungo a wona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4b21d2a2ebb7d3f3dcc9b511e93c982f7f1074896c2058845e036a4c12dd5a3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/1\/5-8.1792299133787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להבין",
+      "gloss": "go kwešiša"
+    },
+    {
+      "surface": "משל",
+      "gloss": "seproverbia"
+    },
+    {
+      "surface": "ומליצה",
+      "gloss": "le sehlagiso"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantšu a"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "bahlahli"
+    },
+    {
+      "surface": "וחידתם",
+      "gloss": "le masungo a wona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:52:13.788239039Z",
+  "model": "glm-5.3"
+}

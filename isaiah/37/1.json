@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ngako",
+      "rationale": "בית יהוה ke 'ntlo ya Yahwe'; ngako e bolela boagedi bjo bo tletšego go Sepedi"
+    },
+    {
+      "kind": "you",
+      "subject": "kgoši Khizkiyahu",
+      "rationale": "mošomo o latelwa o bolela ka kgoši Khizkiyahu, e sego a mo kgoaletsа"
+    }
+  ],
+  "translation": "Gomme go bile bjalo, ge kgoši Khizkiyahu e kwele, o ile a loga ⟨את⟩ diaparo tša gage, gomme a ikgabisetša ka saka, gomme a tsena ngakong ya Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c277cb691ab7ccc37785eab5586daca52b1f82a68be47f2aca3ab0adcd8d9f12",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/37\/1-4.1792292032270.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go bile bjalo"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ge e kwele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "a loga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tša gage"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "diaparo tša gage"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "a ikgorosetša ka"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "saka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "a tsena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ngakong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:53:52.270931893Z",
+  "model": "glm-5.3"
+}

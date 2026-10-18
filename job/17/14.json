@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leoba",
+      "rationale": "לשחת ke leoba\/phofofo; dikgwalwa tše dintši di phetolela 'corruption'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Seheberu se na le אתה fela; Sepedi se nyaka ⟨o⟩"
+    },
+    {
+      "kind": "mystery",
+      "subject": "serota bjalo ka mma le kgaetšedi",
+      "rationale": "Sepoko sa lehu: Job o bitša phofofo e le lapa la gagwe"
+    }
+  ],
+  "translation": "Go leoba ke ile ka re: ⟨o⟩ tata wa ka; ke mmagwe serota le kgaetšedi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fe5141f07b75dc90736924856e52d130f83b18dea4313cb1d640d618a6f614e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/17\/13-16.1792300320194.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "go leoba"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ke ile ka re"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tata wa ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mmagwe"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "le kgaetšedi"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "serota"
+    }
+  ],
+  "timestamp": "2026-10-18T05:12:00.195270068Z",
+  "model": "glm-5.3"
+}

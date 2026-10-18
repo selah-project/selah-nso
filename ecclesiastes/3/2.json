@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לטעת\/נטוע",
+      "rationale": "go ra le se se radilego — modu o o swanago ka Sepedi bjalo ka Seheberu (נטע\/נטוע)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "nako",
+      "rationale": "go tswelela ka go laola nako ya dilo"
+    }
+  ],
+  "translation": "Nako ya go belega, gomme nako ya go hwala; nako ya go ra, gomme nako ya go hudiga se se radilego.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "35d3cdeff773c389dec489fb2675c08a0708dc3dd42488493c2848219efeaa0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/3\/1-4.1792301354359.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "ya go belega"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "gomme nako"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ya go hwala"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "ya go ra"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "gomme nako"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "ya go hudiga"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "se se radilego"
+    }
+  ],
+  "timestamp": "2026-10-18T05:29:14.360473539Z",
+  "model": "glm-5.3"
+}

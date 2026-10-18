@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨wa ka⟩",
+      "rationale": "כִּסְוָא suffix on אלהי (my God) — Sepedi possessive supplied"
+    },
+    {
+      "kind": "crux",
+      "subject": "רשעים",
+      "rationale": "'the wicked' — 'ba-be-be' vs 'bao ba fošagetšego'; both Sepedi renderings possible"
+    }
+  ],
+  "translation": "Go šala khotšo, ⟨o⟩ bolela Elohim ⟨wa ka⟩, go ba-be-be: ga go khotšo, o ile a re, bakeng sa ba-be-be. Morero: tlwaetšego ya lentšu: Go šala khotšo, o ile a re Elohim ⟨wa ka⟩, go bao ba fošagetšego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1df1ccde82d20782f67ff9e346ddfae75cea9130fb613192c3d4e50629719b88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/57\/21-21.1792292458874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אֵ֣ין",
+      "gloss": "go šala"
+    },
+    {
+      "surface": "שָׁל֔וֹם",
+      "gloss": "khotšo"
+    },
+    {
+      "surface": "אָמַ֥ר",
+      "gloss": "o ile a re"
+    },
+    {
+      "surface": "אֱלֹהַ֖י",
+      "gloss": "Elohim ⟨wa ka⟩"
+    },
+    {
+      "surface": "לָרְשָׁעִֽים",
+      "gloss": "go bao ba fošagetšego"
+    }
+  ],
+  "timestamp": "2026-10-18T03:00:58.874649793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "וישב",
+      "rationale": "'A boela' goba 'a fetola mahlo' — Aranane o ile a boela morago goba a fetola le go bona melaetwa; 'a boela' ke go bapa le modu wa Seheberu."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨a be⟩",
+      "rationale": "Seheberu se na le participle fela — 'Aranane o lala kgoro' — Sepedi se oketša go hlaloša nako."
+    }
+  ],
+  "translation": "Gomme Aranane a boela a bona ⟨את⟩ melaetwa, le bana ba gagwe ba nne ba ena ba itlile kgauswi; gomme Aranane a be a lala kgoro ya bupi.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1ed6be97b6feb03419ee1b558bd6c655f970a2b04ff143703b5b07b07114f785",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/21\/17-20.1792303327757.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Aranane"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melaetwa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "melaetwa"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "le ba nne"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ba ena"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "ba itlile kgauswi"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "gomme Aranane"
+    },
+    {
+      "surface": "דש",
+      "gloss": "a lala kgoro"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "bupi"
+    }
+  ],
+  "timestamp": "2026-10-18T06:02:07.758963457Z",
+  "model": "glm-5.3"
+}

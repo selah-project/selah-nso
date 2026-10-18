@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diringi tša khutšo",
+      "rationale": "הטבעות e bolela sela sa khutšo (signet); go ile gwa šomišwa diringi tša khutšo go tšwela pele polelo ya lenaneo la diaparo"
+    },
+    {
+      "kind": "elision",
+      "subject": "האף",
+      "rationale": "Seheberu se re 'dikrwa tša nko' ka botlalo — nko ke karolo ya lefapa la lentšu, e sa hlophiwego"
+    }
+  ],
+  "translation": "Diringi tša khutšo, le dikrwa tša nko,",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cb0e3bb30f04c6f1b3b56935e2c33b9e5b62c6dc8fbb07d377e199654affbfa5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/3\/21-24.1792291279217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "diringi tša khutšo"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "le dikrwa"
+    },
+    {
+      "surface": "האף",
+      "gloss": "tša nko"
+    }
+  ],
+  "timestamp": "2026-10-18T02:41:19.218014511Z",
+  "model": "glm-5.3"
+}

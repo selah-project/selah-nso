@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 63:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "le bohubedu",
+      "rationale": "אדם ke 'go ba bohibidu' — lentšu le tee le leina la Edome; sehlakahlaka se a tšwela pele"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אדם",
+      "rationale": "pošišo ye e bula sehlakahlaka sa mongwadi: kobo e bohibidu ka gobane e boditšwe mading (63:3)"
+    }
+  ],
+  "translation": "Ke gore ke ka baka laeng letshweo la gago le bohubedu, gomme dikobo tša gago bjalo ka tša yo a gatago ka gare ga sepho sa veine?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd7ba23a782916557019d3f111fca9cbf73f8a4c5f175cd79b732f3da29654ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/63\/1-4.1792292519658.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "ke gore ke ka baka laeng"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "le bohubedu"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "letshweo la gago"
+    },
+    {
+      "surface": "ובגדיך",
+      "gloss": "gomme dikobo tša gago"
+    },
+    {
+      "surface": "כדרך",
+      "gloss": "bjalo ka tša yo a gatago"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ka gare ga sepho sa veine"
+    }
+  ],
+  "timestamp": "2026-10-18T03:01:59.659269067Z",
+  "model": "glm-5.3"
+}

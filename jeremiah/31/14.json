@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 31:14",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke 'moya\/maphelo a go hema', e sego 'moya' wa bohalaleli — sebopego sa Seheberu se tšwa go go hema"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mafura",
+      "rationale": "דשן ke mafura a sehlabelo — 'bohlware' bo be bo tla se loka ka Sepedi"
+    }
+  ],
+  "translation": "Gomme ke tla tlatša moya wa boperisita ka mafura, gomme setšhaba sa ka se tla tlatšwa ka ⟨את⟩ botse bja ka — lentšu la Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b255feae052ae4b5516b499c84664ae54c9a3b33b44614506f6f0e3c322d3cb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/31\/13-16.1792293584357.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורויתי",
+      "gloss": "gomme ke tla tlatša"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wa boperisita"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "ka mafura"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "gomme setšhaba sa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botse bja ka"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "botse bja ka"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "se tla tlatšwa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:19:44.358505590Z",
+  "model": "glm-5.3"
+}

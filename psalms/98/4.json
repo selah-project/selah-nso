@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "llelang ... thuntšhang",
+      "rationale": "Taollo tše tharo ka go latelana di bitša lefase ka moka go tumiša Yahwe."
+    },
+    {
+      "kind": "you",
+      "subject": "lefase ka moka",
+      "rationale": "Adeo ke lefase ka moka — batho ba mafelo ka moka a lefase."
+    }
+  ],
+  "translation": "Llelang go Yahwe, lefase ka moka; thuntšhang ka thabo le lla, gomme le opelle ka diphala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6b156fc378f95dc1d2e386ff094626248f893c3897b81daa225b1c2889d745af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/98\/1-4.1792298546411.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "llelang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "thuntšhang ka thabo"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "gomme le lla"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "gomme le opelle ka diphala"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:26.412979927Z",
+  "model": "glm-5.3"
+}

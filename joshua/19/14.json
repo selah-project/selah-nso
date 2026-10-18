@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 19:14",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na le kopula; Sepedi e e nyaka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mokala",
+      "rationale": "גי ke thalošo ya thaba e phahameng ka mahlakore — sekgoba se se tletšego, e sego noka fela."
+    },
+    {
+      "kind": "measurement",
+      "subject": "molelwane",
+      "rationale": "Go tswalwa ga molelwane — mafelelo a wona go mokala wa Yifeta-Khele."
+    }
+  ],
+  "translation": "Molelwane o dikologa ⟨את⟩ wona ka leboa go Khanatone, mme mafelelo a wona e le ⟨ke⟩ mokala wa Yifeta-Khele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "12d7bf4b6a4769e24aa785605c5e8ad60581a8961922c2d4a81af1bd57885d44",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/19\/13-16.1792286951137.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסב",
+      "gloss": "gomme o dikologa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "molelwane"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ka leboa"
+    },
+    {
+      "surface": "חנתן",
+      "gloss": "go Khanatone"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme e le"
+    },
+    {
+      "surface": "תצאתיו",
+      "gloss": "mafelelo a wona"
+    },
+    {
+      "surface": "גי",
+      "gloss": "mokala"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "wa Yifeta-Khele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Khele)"
+    }
+  ],
+  "timestamp": "2026-10-18T01:29:11.138577970Z",
+  "model": "glm-5.3"
+}

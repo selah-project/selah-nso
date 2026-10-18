@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כלאתי \/ מכל",
+      "rationale": "root כלא (go tswalela) e pene le מכל (ka moka) — go kopana ga medumo, go fela ka Sepedi."
+    }
+  ],
+  "translation": "Maoto a ka ke a tswaletše go tšwa go tsela ye beile ka moka, gore ke šireletše lentšu la gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "14a97a7d6cc24bd24321972dd0e3189209f09417cca772c898f566078550a055",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/101-104.1792298871941.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "go tšwa go ... ka moka"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ye beile"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "ke tswaletše"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ke šireletše"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lentšu la gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:51.941780164Z",
+  "model": "glm-5.3"
+}

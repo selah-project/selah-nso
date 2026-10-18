@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 12:2",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sekele sa dikotsi",
+      "rationale": "סף רעל — 'cup of reeling' (sekele ya go dikologa ka phogo): baeti ba kgopolo ba fapana — 'trembling', 'staggering', 'drunkenness'"
+    },
+    {
+      "kind": "crux",
+      "subject": "Yahuda madingweng",
+      "rationale": "go ya kua ditšhabeng, Yahuda o tla ba madingweng a Yerushalayime — kgopolo ya ditšhaba e fapana go tšwa go baeti ba bangwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "סף\/סוף",
+      "rationale": "סף ke vestibule gape le sekele — thwalo e pedi, tšhupu ya yona ke sekele"
+    }
+  ],
+  "translation": "Bonang, nna ke bea ⟨את⟩ Yerushalayime e le sekele sa dikotsi go setšhaba se sengwe le se sengwe sa bogoši bja sefahlego, gomme le Yahuda o tla ba madingweng a go ba letheka go Yerushalayime.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "44f3ab041d7ed0419f145c084d988af29903959b68d11b9b00c30789cc27c515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/12\/1-4.1792297016743.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ke bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "סף",
+      "gloss": "sekele"
+    },
+    {
+      "surface": "רעל",
+      "gloss": "sa dikotsi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go setšhaba se sengwe le se sengwe"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "sa ditšhaba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "bogoši bja sefahlego"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "gomme le"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "madingweng"
+    },
+    {
+      "surface": "על",
+      "gloss": "a go ba letheka go"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T04:16:56.744499514Z",
+  "model": "glm-5.3"
+}

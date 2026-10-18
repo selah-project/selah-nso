@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נתנו יד",
+      "rationale": "Go fa seatla: seka ya go inanela ya Seheberu; go fetotšwe bjalo ka 'go inanela' — tlhaho e ka baka tlhakantšho ya go fa seatla ka seatla."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bogobe",
+      "rationale": "Lehem e le 'bogobe' go ya le D4, eupša e akaretša le dijo ka moka."
+    }
+  ],
+  "translation": "Go Mitsrayime re file ⟨את⟩ seatla, le go Ashure, gore re tlatšwe ke bogobe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9e4897c6c587e63c6fc9ff098eb02feddcb2cb6503c7cd2489c8e2ddd86242a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/5\/5-8.1792301303130.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "go Mitsrayime"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "re file"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla",
+      "marks": "go Mitsrayime le Ashure"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "gore re tlatšwe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:28:23.131686354Z",
+  "model": "glm-5.3"
+}

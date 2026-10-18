@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bogale bja ka",
+      "rationale": "ואפי literally 'my nose\/nostrils', idiom for anger; the body-picture is lost in Sepedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "go fedišwa ga bona",
+      "rationale": "תבליתם 'their full consumption': 'his destruction' (Assyria, following context) vs 'their destruction' (Israel's oppressors)"
+    }
+  ],
+  "translation": "Ka gobane go sa le kgauswi hle, kgauswi hle, gomme tlhaselo e tla fela, gomme bogale bja ka go fedišwa ga bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "438a605020493ef5f74ec52fb910c7bb1b24fe4985580ad1fe993c939d1c7771",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/10\/25-28.1792291392858.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "go sa le"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kgauswi hle"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "kgauswi hle kgauswi"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "gomme … e tla fela"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "tlhaselo"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "gomme bogale bja ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "fedišwa ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:43:12.859428299Z",
+  "model": "glm-5.3"
+}

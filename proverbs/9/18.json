@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Seheberu se na le ולא feela; kopu ya SEPEDI e nyakega"
+    },
+    {
+      "kind": "crux",
+      "subject": "רפאים",
+      "rationale": "KJV 'the dead', YLT 'Rephaim' — moya wa ba hwilego goba setšhaba sa Rephaim; bolawa bja lentšu bo duelwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קראיה",
+      "rationale": "'ba a ba bitšago' (ba a ba memitšego) — 'bafalodi ba gagwe' ke bao a ba memetšego ntlong ya gagwe"
+    },
+    {
+      "kind": "mystery",
+      "subject": "poelo ya lefsifsi",
+      "rationale": "mošomi wa sephiri a sa tsebe se a mo letelela — sephiri se se utilweng se senyolwa fela "
+    }
+  ],
+  "translation": "Gomme ⟨a⟩ sa tsebe gore Refaime ba le gona moo, bafalodi ba gagwe ba le sekgoba sa Sheole.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6fa2c59682590fb39dcd4b7409845d04b1d5edf387481cb32aebb8bbd0fe9104",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/9\/17-18.1792299242016.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Refaime"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona moo"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "ba le sekgoba sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "bafalodi ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:54:02.016821084Z",
+  "model": "glm-5.3"
+}

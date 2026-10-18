@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mo",
+      "rationale": "Seheberu ga se na lentšu la sehlabelo; אדון le bontšha motho yo a dirilwego mong"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mong",
+      "rationale": "אדון mothong — mong, e sego Adonai, ka gobane mo ke Yosefa, e sego Modimo"
+    }
+  ],
+  "translation": "O mo dirile mong wa ntlo ya gagwe, gomme molaodi wa tšohle tša se a nago sona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "79d0158087fbc9d2fe8c53dc39bf1da2b4c44665467c4e90fafdc561aad4385c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/21-24.1792298621635.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "O mo dirile"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "mong"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "wa ntlo ya gagwe"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "gomme molaodi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wa tšohle"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "tša se a nago sona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:41.635837110Z",
+  "model": "glm-5.3"
+}

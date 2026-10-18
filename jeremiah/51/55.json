@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "jeremiah 51:55",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "magodi",
+      "rationale": "גליהם 'their waves' — the same root גל means both waves and heaps of ruins; the pun is lost in Sepedi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול",
+      "rationale": "קול appears three times in this verse (great voice, noise of their voice) — the repetition builds the sound of Babylon's fall."
+    }
+  ],
+  "translation": "Gore Yahwe o senya ⟨את⟩ Babulone, gomme a fedisa go tšwa go yona lentšu le kgolo; gomme magodi a tšona a huma bjalo ka meetse a mantsi, go filwe seši sa lentšu la tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ad7b4dfafeaf5916ec42dec905accf8f6c8e70bf73ccbcf545e7b6bc16ee3d8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/51\/53-56.1792294271733.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "o senya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Babulone"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babulone"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "gomme a fedisa"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "go tšwa go yona"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "le kgolo"
+    },
+    {
+      "surface": "והמו",
+      "gloss": "gomme a huma"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "magodi a tšona"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "bjalo ka meetse"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "go filwe"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "seši"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "sa lentšu la tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:31:11.734207409Z",
+  "model": "glm-5.3"
+}

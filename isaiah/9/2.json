@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 9:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא הגדלת",
+      "rationale": "KJV: 'ga o aka o thabatše' (boikodišo) kgahlanong le ASV\/JPS: 'o okeditše thabagalo'; lentšu לא le ka bala bjalo ka לו ('go ešita' — o ile wa thabatša ka mo go feletseng)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמחה\/שמחו",
+      "rationale": "poeletšo ya šameš matšhwapu — thabagalo le go thaba, mokgwa o a hlwaya"
+    }
+  ],
+  "translation": "O okeditše setšhaba, o seoke go thaba; ba thaba pele ga gago, bjalo ka thabogalo ya kgetšo, bjalo ka ge ba phoša thoko ka go aroganya ⟨את⟩ sehlapa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "20fb27f973d38d3fc8cba60489bbb6fab767816f6b9618c840519859f8263d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/9\/1-4.1792291353192.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרבית",
+      "gloss": "o okeditše"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o seoke"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "go thaba"
+    },
+    {
+      "surface": "השמחה",
+      "gloss": "thabogalo"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "ba thaba"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "כשמחת",
+      "gloss": "bjalo ka thabogalo ya"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "kgetšo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ba phoša thoko"
+    },
+    {
+      "surface": "בחלקם",
+      "gloss": "ka go aroganya"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "⟨את⟩ sehlapa",
+      "marks": "sehlapa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:42:33.193872004Z",
+  "model": "glm-5.3"
+}

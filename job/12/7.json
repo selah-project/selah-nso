@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 12:7",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "boto go bahlangwi",
+      "rationale": "Job o bitša bahlangwi go botšiša diphookwane le dinonyana — mogala wa go tsenya o theilwegodimo."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Pelaelo ya go kgotsofatsa ('ke kgopela') ga e na boemedi bjo bo hlwekileng ka Sepedi; e ile ya phedišwa ka ⟨ke⟩."
+    }
+  ],
+  "translation": "Eupša botšiša ⟨ke⟩ diruiwa gomme di tla go ruta; le dinonyana tša magodimo, gomme di tla go bolelela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ab3fe6ce5d017790bb3156c419c36a41f696271f0388e72caa4113038210daa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/12\/5-8.1792300232400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Eupša"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "botšiša"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "diruiwa"
+    },
+    {
+      "surface": "ותרך",
+      "gloss": "gomme di tla go ruta"
+    },
+    {
+      "surface": "ועוף",
+      "gloss": "le dinonyana"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tsa magodimo"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "gomme di tla go bolelela"
+    }
+  ],
+  "timestamp": "2026-10-18T05:10:32.401721819Z",
+  "model": "glm-5.3"
+}

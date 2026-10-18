@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "seabo",
+      "rationale": "Go fediša go hlalosa melelwane ya seabo sa lefoka la Binjamine"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mollwane",
+      "rationale": "גבל bolela go kgwatha ka thapo — mollwane ke sebopego sa kamoo Seheberu se se bonago ka gona"
+    }
+  ],
+  "translation": "Mme Yoretane o mo bea ⟨את⟩ mollwane ka lehlakore la bohlaba; se ke seabo sa bana ba Binjamine, ka melelwane ya yona go dikologa, go ya le malapa a wona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "cf02e485a02661b11115b5f02878afda27816d41497292750fb7347dbfdb1836",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/18\/17-20.1792286938782.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "Mme Yoretane"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "o bea mollwane"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "o bea mollwane go yona"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ka lehlakore la"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "bohlaba"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "seabo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Binjamine"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "ka melelwane ya yona"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "go dikologa"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "go malapa a wona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:28:58.784265437Z",
+  "model": "glm-5.3"
+}

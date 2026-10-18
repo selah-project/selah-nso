@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח rendered by sound per discipline: wind, breath and Spirit in one word"
+    },
+    {
+      "kind": "crux",
+      "subject": "וירא",
+      "rationale": "'He was seen\/appeared' — some read 'he soared' (from עוף root), tradition splits"
+    }
+  ],
+  "translation": "Mme o nametše godimo ga kerubime, o fofile; o ile a bonagala godimo ga maphego a ruakh.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2d2055575024d8bb9d1a1a58cb2d83932b3cef48726996509ea76b647183b822",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/22\/9-12.1792289279189.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "o nametše"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerubime"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "o fofile"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "a bonagala"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "maphego a"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-18T02:07:59.190903122Z",
+  "model": "glm-5.3"
+}

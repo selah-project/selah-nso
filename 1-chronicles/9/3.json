@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 9:3",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "ומנשה",
+      "rationale": "Manase ga e na 'bana ba' — e hokgwe le Efraye, bjalo ka ge Seheberu se ntšha"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lenaneo la dikgoro",
+      "rationale": "Tema ye e bolela maina a dikgoro tše nne tša Yisraele tše di nago le ba dulago Yerushalayime"
+    }
+  ],
+  "translation": "Gomme go Yerushalayime ba dutše ba tšwa go bana ba Yuduta, le go tšwa go bana ba Benyamine, le go tšwa go bana ba Efraye le Manase.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9b4e371a177f9f0c7b6e55ef4d922a8a5217f1ab2899fbcd39329d9b8124690a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/9\/2-3.1792305465394.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובירושלם",
+      "gloss": "gomme go Yerushalayime"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ba dutše"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ba tšwa go"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuduta"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le ba tšwa go"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benyamine"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le ba tšwa go"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraye"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "le Manase"
+    }
+  ],
+  "timestamp": "2026-10-18T06:37:45.395143400Z",
+  "model": "glm-5.3"
+}

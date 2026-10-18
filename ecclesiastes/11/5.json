@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e swanetše go dula e le ruakh — moya goba phefo ka nosi e ka la se fele"
+    },
+    {
+      "kind": "crux",
+      "subject": "כעצמים",
+      "rationale": "'bjalo ka marapo' — ba bangwe ba bala 'bjalo ka go dirwa ga marapo' (KJV) kgatlhanong le go bapetša fela (YLT)"
+    },
+    {
+      "kind": "mystery",
+      "subject": "mošomo wa Elohim",
+      "rationale": "temana ye e bolela seo se utilwego — motho ga a se tsebe, bjalo ka sefala sa ruakh"
+    }
+  ],
+  "translation": "Bjalo ka ge o sa tsebe sefala sa ruakh, le mamarapo ka mpeng ya yo a tlaleletšego, le gona bjalo o ka se tsebe ⟨את⟩ mošomo wa Elohim yo a dirago ⟨את⟩ tšohle.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "080f883d4fb00876a0c9c80f446adfb93005ca02fcd78b417e32b6f2714db9ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/11\/5-8.1792301498656.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "o sa"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "se"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "sefala"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "sa ruakh"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "le mamarapo"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "ka mpeng"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "ya yo a tlaleletšego"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "le gona bjalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "o tla tsebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mošomo wa Elohim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "wa Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a dirago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tšohle"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tšohle"
+    }
+  ],
+  "timestamp": "2026-10-18T05:31:38.658133469Z",
+  "model": "glm-5.3"
+}

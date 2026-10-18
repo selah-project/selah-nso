@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 33:21",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אדיר",
+      "rationale": "אדיר appears twice — Yahwe is 'mighty' and the enemy ship is 'mighty'; the same word frames both, lost in Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "יארים",
+      "rationale": "'mehla ya meetse' (canals) vs dinoka — yar is specifically canal-streams like the Nile; Zion's river is God Himself, not waterway commerce for warships."
+    }
+  ],
+  "translation": "Ka gobane fela foo, Yahwe, yo a matlago, ⟨wa rena⟩ — lefelo la dinoka, la mehla ya meetse a bophara bja matsogo — ga di tsene go yona dikepe tša go riša, gomme sepe se segolo ga se fete go yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "49c1de37dc4119e929af2fe40b9b7dbaf8bc094d55cfddf2587564292760bbbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/33\/21-24.1792291866124.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אם",
+      "gloss": "fela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "yo a matlago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨wa rena⟩"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "lefelo"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "dinoka"
+    },
+    {
+      "surface": "יארים",
+      "gloss": "la mehla ya meetse"
+    },
+    {
+      "surface": "רחבי",
+      "gloss": "a bophara"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "bja matsogo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "di tsene"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "dikepe"
+    },
+    {
+      "surface": "שיט",
+      "gloss": "tša go riša"
+    },
+    {
+      "surface": "וצי",
+      "gloss": "gomme sepe"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "se segolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעברנו",
+      "gloss": "se fete go yona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:51:06.125048435Z",
+  "model": "glm-5.3"
+}

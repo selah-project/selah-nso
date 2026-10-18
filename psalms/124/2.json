@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Seheberu ga se na lentšu le; Sepedi se se nyaka"
+    },
+    {
+      "kind": "addition",
+      "subject": "batho",
+      "rationale": "אדם ke lentšu la bobedi ('motho') le le hlalosago 'ba kgahlanong' ba pele"
+    }
+  ],
+  "translation": "ge e sego Yahwe yo a bego a le ⟨go⟩ rena, ge batho ba tsoga kgahlanong le rena,",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/124\/1-4.1792298951094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ge e sego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yo a bego a le"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rena"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "ge batho ba tsoga"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kgahlanong le rena"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:11.095319348Z",
+  "model": "glm-5.3"
+}

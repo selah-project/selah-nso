@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 110,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sefo",
+      "rationale": "אפו e utlwala-poeletšong e le 'sefo sa yena' (lesiho), eupša e bolela makgowetša — thlarogo ya Sesepedi e bolositše sebopego sa 'sefo'"
+    },
+    {
+      "kind": "crux",
+      "subject": "go la mmagošo",
+      "rationale": "על ימינך: 'Adonai o le go la mmagošo wa gago' (Adonai ke yena a le go la mmagošo) kgotalo le 'go la mmagošo wa gago ga Adonai' — mekgwa ya dikgati e fapana"
+    }
+  ],
+  "translation": "Adonai go la mmagošo wa gago; o thuba dikgoši ka letsatsi la sefo sa yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fad4c1116825250fbd1ec69d0503c0fa9124c7691d3c343a351555d85d80e40c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/110\/5-7.1792298754883.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "go la"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "mmagošo wa gago"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "o thuba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letsatsi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "la sefo sa yena"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:54.883786405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 33:18",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke 'moya\/bophelo' — sekgoba sa go hema, e sego 'moya wa ka mo go sa boneng'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שחת",
+      "rationale": "'sekgele' (pit) — baphetoleli ba bangwe ba ra 'phologo\/tlhaelo'; ke lefelo la go bolawa, e sego Sheole."
+    },
+    {
+      "kind": "crux",
+      "subject": "שלח",
+      "rationale": "'mosebe' (spear) — YLT 'dart'; sebopego ke sesupa-thwii, se sa fetolwego go 'tlhaelo' (KJV 'perishing')."
+    }
+  ],
+  "translation": "O tela moya wa gagwe go tšwa sekgeleng, gomme bophelo bja gagwe go tšwa go go feta ga mosebe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3cd23454b2aa2a0891e94a601ab8c6e94937f82c27733765c568264499387708",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/33\/17-20.1792300666310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחשך",
+      "gloss": "o tela"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa gagwe"
+    },
+    {
+      "surface": "מני",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "sekgele"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "gomme bophelo bja gagwe"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "go go feta"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "mosebe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:17:46.310703409Z",
+  "model": "glm-5.3"
+}

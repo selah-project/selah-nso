@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המלצר",
+      "rationale": "Leina la ofisa wa lekalabe la Babilone; ba bangwe ba le tsewa e le leina la motho 'Meltsare'."
+    },
+    {
+      "kind": "hapax",
+      "subject": "זרענים",
+      "rationale": "Lentšu le le bolelang tše di peuwago (merogo) le hlaga mo le go Danieli 1:12 fela."
+    }
+  ],
+  "translation": "Gomme molaodi a ile a tloša ⟨את⟩ dinyakwa tša bona le beine ya go noa ga bona, a ba fa merogo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5067c7a39eaa2934fb4ef7273d34d8e92fb790d2e07d0b51cee22b89bdd7b5cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/1\/13-16.1792301691986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go diragetše"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "a tloša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dinyakwa tša bona"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "dinyakwa tša bona"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "le beine"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "ya go noa ga bona"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "gomme a fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "merogo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:34:51.987736186Z",
+  "model": "glm-5.3"
+}

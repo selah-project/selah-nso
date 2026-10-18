@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לפי",
+      "rationale": "'ka mošomo wa' (molomo wa toropo) — Sesotho sa Leboa se sa bolele 'molomo' mo, se šomiša sebopego sa lefelo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שערים\/פתחים",
+      "rationale": "Go diega ga dikgoro le ditshwanelo — dikgoro tše pedi tša go ralana, teko ye e theogile."
+    }
+  ],
+  "translation": "Ka thoko ga dikgoro, ka mošomo wa toropo, moo go tsenwago go dikgoro, o huwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2ebf4a203f97e6c6dd408f833f771f5c873d60ebe2e728c12d425ba970159efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/8\/1-4.1792299320328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "ka thoko ga"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka mošomo wa"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "moo go tsenwago"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "go dikgoro"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "o huwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:20.329405402Z",
+  "model": "glm-5.3"
+}

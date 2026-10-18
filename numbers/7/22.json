@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "podi e tee",
+      "rationale": "Palo ya sehlabelo — tee."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sebe",
+      "rationale": "לחטאת e bolela sehlabelo sa sebe ka boyona; 'bakeng sa sebe' e boloka modu o mohlano."
+    }
+  ],
+  "translation": "Le podi e tee ya bodi, bakeng sa sebe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "48729ce438dc3a0e4cff41d6fc1eee847472db1368219fc94d2768536c0b6e75",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/7\/21-24.1792284535332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "podi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ya bodi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e tee"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bakeng sa sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:48:55.333359993Z",
+  "model": "glm-5.3"
+}

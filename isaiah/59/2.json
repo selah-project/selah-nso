@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 59:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mešhabo",
+      "rationale": "עון ke go fenyega ga thwii — 'mešhabo' e swara bothata bja moya"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "כי אם mmušo wa go gana; ⟨empa⟩ ke lesome la go hlaloša feela"
+    },
+    {
+      "kind": "you",
+      "subject": "go setšhaba",
+      "rationale": "ditlhaloso ka bobedi di le bontši — 'ya lona', 'tsa lona'"
+    }
+  ],
+  "translation": "Lebaka ke la gore mešhabo ya lona e bile di a hlama gare ga lona le Elohim ya lona, gomme dibe tša lona di dutše di tswalela sefahlego go tšwa go lena, sa go kwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/59\/1-4.1792292521780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Lebaka ke la gore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨empa⟩"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "mešhabo ya lona"
+    },
+    {
+      "surface": "היו",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "מבדלים",
+      "gloss": "di a hlama"
+    },
+    {
+      "surface": "בינכם",
+      "gloss": "gare ga lona"
+    },
+    {
+      "surface": "לבין",
+      "gloss": "le"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "gomme dibe tša lona"
+    },
+    {
+      "surface": "הסתירו",
+      "gloss": "di dutše di tswalela"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sefahlego"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "go tšwa go lena"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "sa go kwa"
+    }
+  ],
+  "timestamp": "2026-10-18T03:02:01.781162817Z",
+  "model": "glm-5.3"
+}

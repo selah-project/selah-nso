@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כחללים",
+      "rationale": "root חול — 'ba bina' (whirling) kgahlanong le 'ba bapala diphala' (KJV) goba 'mešomo ya mokgwa'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מעיני",
+      "rationale": "mafuri (springs) — JPS e fetoša go 'mešomo'; mafuri a bodiredi bja seswantšho sa metsi"
+    }
+  ],
+  "translation": "Gomme ba bini bjalo ka ba bina go thaba; mafuri a ka ka moka a lego go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "db8918deef8cc9863fb10534a7683a7ed9bffce3d6117e01ab82f51826a57c37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/87\/5-7.1792298346267.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "Gomme ba bini"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "bjalo ka ba bina go thaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "mafuri a ka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:06.268440096Z",
+  "model": "glm-5.3"
+}

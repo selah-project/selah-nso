@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "setopo · se hwerilego",
+      "rationale": "נבלה e phetolelwa bjalo ka setopo (sehu hlogo), טרפah bjalo ka se hwerilego ke diphoofolo tša naga"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כל",
+      "gloss": "e ka bo e le 'se sengwe le se sengwe' goba fela 'se sengwe'; 'se sengwe le se sengwe' e bontša go gana go feletseng"
+    }
+  ],
+  "translation": "Setopo le se hwerilego, sa nonyana le sa diruiwa, baperisita ba se je.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a0020cf29c55be5c802e510c0a792fca910fa60a8bef0dbc05f65ccddd27f134",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/44\/29-31.1792295761452.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "se sengwe le se sengwe sa"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "setopo"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "le se hwerilego"
+    },
+    {
+      "surface": "מן",
+      "gloss": "sa"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "nonyana"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "le sa"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "diruiwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "AOWA — ga"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba je"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baperisita"
+    }
+  ],
+  "timestamp": "2026-10-18T03:56:01.452972347Z",
+  "model": "glm-5.3"
+}

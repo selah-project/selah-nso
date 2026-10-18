@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ruth 1:14",
+  "book": "ruth",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o ile a⟩",
+      "rationale": "Sepedi e nyaka go bopa se fetilego ka mošomo wa go ba gona; Seheberu se na le sebopego sa sefetile fela"
+    },
+    {
+      "kind": "elision",
+      "subject": "ותשק",
+      "rationale": "go idibatsa (go swana) go ka bo bo le gona goba go se gona — dipheto tše pedi: Orpah o ile a swana a boela, Rute o ile a kgomaretša"
+    }
+  ],
+  "translation": "Gomme tša sefasa lentšu la tšona, gomme tša lela gape; gomme Orpah o ile a idibatsa mmatsale wa gagwe, gomme Rute o ile a kgomaretša go yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "eae86b0c522789f89934bcdddb2fe26b76f5850a1e28b3edde38b28b8a2e2f9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ruth\/1\/13-16.1792301107012.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשנה",
+      "gloss": "gomme tša sefasa"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "lentšu la tšona"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "gomme tša lela"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "gomme o ile a idibatsa"
+    },
+    {
+      "surface": "ערפה",
+      "gloss": "Orpah"
+    },
+    {
+      "surface": "לחמותה",
+      "gloss": "mmatsale wa gagwe"
+    },
+    {
+      "surface": "ורות",
+      "gloss": "gomme Rute"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "o ile a kgomaretša"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go yena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:25:07.013415710Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "און",
+      "gloss": "",
+      "rationale": "און ke 'go se nago selo, bosebe' — 'tshwenyo' ke karolo ya bokao fela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עפר\/אדמה",
+      "rationale": "Ketane ya mafoko a mmu — lerole le mme go swana le thlarabo ya go mimolla (יצמח)."
+    }
+  ],
+  "translation": "Gore tshwenyo ga e tšwe go lerole, gomme poko ga e mimolle go mmu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd89e6dfbe519c368bfbd48065e8c136443ef44df7eef1d231aaca536fde33cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/5\/5-8.1792300126863.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e tšwe"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "go lerole"
+    },
+    {
+      "surface": "און",
+      "gloss": "tshwenyo"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "gomme go mmu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "e mimolle"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "poko"
+    }
+  ],
+  "timestamp": "2026-10-18T05:08:46.864121118Z",
+  "model": "glm-5.3"
+}

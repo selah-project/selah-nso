@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 8:17",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Seheberu se se na le kopula; Sepedi e nyaka 'o' go Seraya"
+    },
+    {
+      "kind": "elision",
+      "subject": "כהנים",
+      "rationale": "Seheberu se se na le kopula — 'ba be le' e okeditšwe go hlatha boemo"
+    }
+  ],
+  "translation": "Gomme Tsadoke mora Akitube, le Ahimeleke mora Ebeyathara, ba be le moperisita; gomme Seraya ⟨o⟩ ngwadi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "36f1517263a9e3607e8592cd122ca3fb6028a6e94f6467e09c9ba512c956412d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/8\/17-18.1792288901985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "Gomme Tsadoke"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akitube"
+    },
+    {
+      "surface": "ואחימלך",
+      "gloss": "le Ahimeleke"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ebeyathara"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ba be le moperisita"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "gomme Seraya"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "ngwadi"
+    }
+  ],
+  "timestamp": "2026-10-18T02:01:41.985533179Z",
+  "model": "glm-5.3"
+}

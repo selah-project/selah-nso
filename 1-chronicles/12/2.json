@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 12:2",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sethunya",
+      "rationale": "נשקי קשת — 'ba ba nkago sethunya' (se-thunya); lentšu la Sepedi la kama la tlwaelegilego le thata, ka fao bophara bja motho-bohle bo bolokwa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מימינים ומשמאלים",
+      "rationale": "go šomiša diatla ka bobedi — go bolela bokgoni bja mmaši, se sa bolokegago ka botlalo go phetolelong"
+    }
+  ],
+  "translation": "Ba ba thunago ka sethunya, ba šomišang letshatshadi le letona ka maswika le ka mesebe ka sethunya — ke bana-ba-mogologolo ba Shaule, go tšwa go Banjamini.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9d83dc5480d13cdadf4c8b3b29577fbe6620c1eb5ca3d9a1c46698b003f60a2b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/12\/1-4.1792303145059.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשקי",
+      "gloss": "ba ba thunago ka"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "sethunya"
+    },
+    {
+      "surface": "מימינים",
+      "gloss": "ba šomišang letshatshadi"
+    },
+    {
+      "surface": "ומשמאלים",
+      "gloss": "le letona"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ka maswika"
+    },
+    {
+      "surface": "ובחצים",
+      "gloss": "le ka mesebe"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ka sethunya"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "bana-ba-mogologolo ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "go tšwa go Banjamini"
+    }
+  ],
+  "timestamp": "2026-10-18T05:59:05.060398173Z",
+  "model": "glm-5.3"
+}

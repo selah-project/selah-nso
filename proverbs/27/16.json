@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 27:16",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צפניה \/ צפן",
+      "rationale": "Go boela ga lentšu la go pata ka gatelelo — go pata ga moya ga go na tlhako ya go pata, se se bolokilweng ka go boela ga 'go pata'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יקרא",
+      "rationale": "Diphetholelo di fapana kudu: 'a a bitša' goba 'a tla tlogela' goba 'a thula kgahlanong le one' (ASV) — mafura a sa kgonego go swarwa ka seatla"
+    },
+    {
+      "kind": "alternative",
+      "subject": "letshwao la gagwe la go ja",
+      "rationale": "ימינו e ka balwa e le 'seatla sa gagwe sa go ja' goba e le seka sa maatla — 'go swara mafura ka seatla se sengwe' ke gore ga go kgonege go di swara"
+    }
+  ],
+  "translation": "Go e pata ke go pata ruakh, gomme mafura a letshwao la gagwe la go ja — a a bitša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4529e6ea2fd96df2dc4e91b60327ade49c1d130e16032ad6dc9ff19310329d16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/27\/13-16.1792299878677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צפניה",
+      "gloss": "go e pata"
+    },
+    {
+      "surface": "צפן",
+      "gloss": "ke go pata"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "gomme mafura"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "a letshwao la gagwe la go ja"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "a a bitša"
+    }
+  ],
+  "timestamp": "2026-10-18T05:04:38.678767717Z",
+  "model": "glm-5.3"
+}

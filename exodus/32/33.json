@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "begele",
+      "rationale": "חטא ka moka ke sebe fela ga go hlala; mona lehlakore la kgahlanong"
+    },
+    {
+      "kind": "crux",
+      "subject": "pukung ya ka",
+      "rationale": "sefala sa puku ya boteng bja motho goba buku ya bophelo go bona fela; Moshe o kgopetše go tlošwa yena (v32), fela Yahwe o araba ka molao wo o theilwego mothong a nošego"
+    }
+  ],
+  "translation": "Gomme Yahwe a re go Moshe: Yo a begago kgahlanong le nna, ke mo tlogeditše go pukung ya ka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5dd0d8af5437b86c6b201ab3e74e916ee98ad021afa9f31210a1f62723d2a299",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/32\/33-35.1792283216977.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme … a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a begago"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a bega"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "ke mo tlogeditše"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "go pukung ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T00:26:56.978494628Z",
+  "model": "glm-5.3"
+}

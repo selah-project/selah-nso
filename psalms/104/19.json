@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 104:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "letšatši",
+      "rationale": "שמש ke 'ledimo' ka go hlaka; 'letšatši' ke lentšu la Sepedi la letšatši\/ledimo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מבואו",
+      "rationale": "'go tsenwa ga lona' (entrance) gape go dumelelwa; go fenoga go latela tlhako ya bosigo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "למועדים",
+      "rationale": "Ngwedi e dirilwe go šupa dinako tše di laetšwego"
+    }
+  ],
+  "translation": "O dirile ngwedi bakeng sa mešupa ya dinako; letšatši le tseba go fenoga ga lona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "bb12136aa4ac2b2dcf0e8ee103f3a10e39528ce26466c502cab7300acb151dea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/18-19.1792305277824.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "O dirile"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "ngwedi"
+    },
+    {
+      "surface": "למועדים",
+      "gloss": "bakeng sa mešupa ya dinako"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "le tseba"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "go fenoga ga lona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:37.825135455Z",
+  "model": "glm-5.3"
+}

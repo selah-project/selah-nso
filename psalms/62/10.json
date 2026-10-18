@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בני אדם \/ בני איש",
+      "rationale": "Parallel sons-of-man vs sons-of-man-of-rank; KJV reads low\/high degree — the pun on two kinds of 'men' flattens in Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "במאזנים לעלות",
+      "rationale": "Alternatives: 'to go up in the balances' (be weighed) vs 'they mount up' — dual form of scales kept as mekaleng e moletši."
+    },
+    {
+      "kind": "substitution",
+      "subject": "leru",
+      "rationale": "הבל is breath\/vapor — leru (vapor) chosen over 'maaka' to keep the physical picture; also echoes Ecclesiastes."
+    }
+  ],
+  "translation": "Fela bana ba motho ke leru, bana ba monna ke maaka; ba beilwe mekaleng e meletši, ba ka tlologišwa; ba mmogo bofefo go feta leru.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/62\/9-12.1792298027784.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Fela"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "leru"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "maaka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "mekaleng e moletši"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "go tlologišwa"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "go feta leru"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:47.785711702Z",
+  "model": "glm-5.3"
+}

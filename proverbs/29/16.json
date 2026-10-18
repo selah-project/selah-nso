@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 29:16",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ברבות \/ ירבה",
+      "rationale": "Go bušetša ga modu: 'ba oketšega \/ bo oketšega' — rab ha-rasha'im yirbeh pesha; Sepedi se boloka kgutšo ye ka go bušetša 'oketšega'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go wa ga bona",
+      "rationale": "מפלתם — 'go wa ga bona': Seheberu se na le sebopego sa 'go wa' le sa 'phoofolo yeo e welago e hwilego'; Sepedi se tšerea sebopego sa go wa fela."
+    }
+  ],
+  "translation": "Ge baba ba oketšega, bofosi bo oketšega; gomme ba lokilego ba tla bona go wa ga bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "db27470f4c8c4dd5b7471d268b8ad75521a2ed46c6eae8e54540cef840e0289e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/29\/13-16.1792299918162.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "Ge ba oketšega"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "baba"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "bo oketšega"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "bofosi"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "gomme ba lokilego"
+    },
+    {
+      "surface": "במפלתם",
+      "gloss": "go wa ga bona"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba tla bona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:18.163470001Z",
+  "model": "glm-5.3"
+}

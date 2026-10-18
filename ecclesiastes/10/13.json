@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 10:13",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סכלות\/הוללות",
+      "rationale": "Sepedi separates what Hebrew pairs: silliness at the start, raving-madness at the end, an escalation lost as two plain nouns."
+    },
+    {
+      "kind": "alternative",
+      "subject": "bogafi bobe",
+      "rationale": "הוללות is raging madness; 'bogafi bobe' keeps both the madness and its evil quality."
+    }
+  ],
+  "translation": "Mathomo ya mantšu a molomo wa gagwe ke bosilo, gomme mafelelo a molomo wa gagwe ke bogafi bobe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a7bef985286695657c9a47bf990373100c1b6cd74c5cd2aa10812e10914e0dea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/10\/13-16.1792301417826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "mathomo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "molomo wa gagwe"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "bosilo"
+    },
+    {
+      "surface": "ואחרית",
+      "gloss": "gomme mafelelo"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "molomo wa gagwe"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "bogafi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bobe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:30:17.826764086Z",
+  "model": "glm-5.3"
+}

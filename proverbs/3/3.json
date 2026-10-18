@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "momeng",
+      "rationale": "גרגרות ke 'mome' (throat) ka go tsenelela — diphetolelo tše dintši di re 'mongwane' (neck), sebopego sa lentšu se la falwa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "hesede le nnete",
+      "rationale": "Joale ka go swana le seemo sa Ex 34:6 — pedi tšeo di sa kgaolwego di hlagisa boteng bja Yisraele."
+    }
+  ],
+  "translation": "Hesede le nnete a di tloge; di gometše go momeng wa gago, di ngwaletše letlakaleng la pelo ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9e3efa0200e526c25cc16d6b56f2d5b0283d7a5b0748e09b2f2ef5fe56db5397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/3\/1-4.1792299212683.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Hesede"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "le nnete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a di"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "tloge"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "di gometše"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "momeng wa gago"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "di ngwaletše"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "letlakaleng"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:53:32.684515496Z",
+  "model": "glm-5.3"
+}

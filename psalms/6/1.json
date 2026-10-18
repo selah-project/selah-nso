@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השמינית",
+      "rationale": "šeminit: e ka boela e ra 'khalefo ya maswai a mararo' goba 'maemo a boseswai' — lentšu le sa tsewego ka botlalo."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ya seswai",
+      "rationale": "Go ka ba go ra 'go ya go (modumo wa) borobatharo' — sebopego sa palo sa boseswai se bolokwa."
+    }
+  ],
+  "translation": "Go moetapele, ka dithereme, go ya ya seswai. Pesaleme ya Dafida.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1b690070f9342e1d7bdab9fc03f80095099b7ceeb465f28f2f125e8e4beb77e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/6\/1-4.1792297111823.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moetapele"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ka dithereme"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ya seswai"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pesaleme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:31.823797539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 19:2",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na sekopanyi; מה fela ke potšišo goba sekopanyi sa thomo"
+    },
+    {
+      "kind": "crux",
+      "subject": "מה",
+      "rationale": "Potšišo 'ke eng mama wa gago?' (KJV) kgathanong le sekopanyi 'bjalo ka' (JPS) — mo ke seka sa go bapetša"
+    },
+    {
+      "kind": "substitution",
+      "subject": "taune ya lesedi",
+      "rationale": "לביא ke taune ya lesedi (ya dikgoka); e sa fetolwe go ba 'tau' fela"
+    }
+  ],
+  "translation": "gomme o re: Mama wa gago ke taune ya lesedi, o robetše gare ga ditau, o godišitše bana ba gagwe gare ga batau ba bannyane.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d8d884efe0a22ed50725aee063d41e73343fe339cfee654274f65f1f5099d9ac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/19\/1-4.1792294912753.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "gomme o re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mama wa gago"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "taune ya lesedi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "ditau"
+    },
+    {
+      "surface": "רבצה",
+      "gloss": "o robetše"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "batau ba bannyane"
+    },
+    {
+      "surface": "רבתה",
+      "gloss": "o godišitše"
+    },
+    {
+      "surface": "גוריה",
+      "gloss": "bana ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:41:52.754149308Z",
+  "model": "glm-5.3"
+}

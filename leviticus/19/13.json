@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mošomo wa modiri yo a hiriwago",
+      "rationale": "פעלת שכיר e hlalosa sehlolo se se feletšego — 'mošomo wa modiri yo a hiriwago' e aga lentšu le le tee ka mantšu a mabedi"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Melao ye e bolela go setšhaba sa Yisraele ka bošiša, mabapi le mogodi le mošomišani"
+    }
+  ],
+  "translation": "O se ke wa hloleša ⟨את⟩ mošhomišani wa gago, gomme o se ke wa utwa; mošomo wa modiri yo a hiriwago o se ke wa dula le wena ⟨את⟩ go fihla bosasa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/19\/13-16.1792284118513.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "wa hloleša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mošhomišani wa gago"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mošhomišani wa gago"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "wa utwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "wa dula"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "modiri yo a hiriwago"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "bosasa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:41:58.514442567Z",
+  "model": "glm-5.3"
+}

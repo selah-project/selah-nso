@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 12:11",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Aharone go Moshe",
+      "rationale": "poledišo ye ke kgopelo ya Aharone ya go ikuela go Moshe ka mošomo"
+    },
+    {
+      "kind": "crux",
+      "subject": "אדני",
+      "rationale": "Adonai ya motho — 'morena wa ka' go Moshe, e sego Leina la Modimo; mo go bolela motho fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נואלנו \/ חטאנו",
+      "rationale": "poledišo ya mabedi a makga a go hlwaya: 'ra ba setlaela' le 'ra bega' — kgwerano ya mafoko a mabedi e dulang e le tee"
+    }
+  ],
+  "translation": "Gomme Aharone a re go Moshe: Ao, morena wa ka, o se ke, ke a go kgopela, wa bea sebe godimo ga rena, seo re ileng ra ba setlaela ka sona, le seo re se begilego.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "04be339c93e097ae88f92da7d36ebf3c14357cadb92c94044ecf0bc05592beca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/12\/9-12.1792284720873.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ao"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke a go kgopela"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "wa bea"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "godimo ga rena"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "נואלנו",
+      "gloss": "re ileng ra ba setlaela"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le seo"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "re se begilego"
+    }
+  ],
+  "timestamp": "2026-10-18T00:52:00.874268244Z",
+  "model": "glm-5.3"
+}

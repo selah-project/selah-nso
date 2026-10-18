@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "paele",
+      "rationale": "ציץ bolela 'se se kganyago' — paele ya gauta; e sego 'tholo'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ציץ",
+      "rationale": "Bafoletši ba fapana: 'plate' (KJV) kgahlanong le 'flower' (YLT); tlhaka e bolela se se kganyago, paele"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Bokgethwa",
+      "rationale": "קדש e fetotšwe go ba 'bokgethwa' go ya le D2, e sego 'halalela' ya Sesotho"
+    }
+  ],
+  "translation": "Gomme ba dira ⟨את⟩ paele ya kgošana ya bokgethwa, gauta e hlawekilego; gomme ba ngwala go yona mongwalo wa kgapho ya segometsi: Bokgethwa bja Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "7b4f7605752a1bdedf7f0989c49a9dfc6b303d2feb54cec17642135abfe9f899",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/39\/29-32.1792283545861.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Gomme ba dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "paele"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "paele"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "kgošana"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "e hlawekilego"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "gomme ba ngwala"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "go yona"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "mongwalo"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "wa kgapho"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ya segometsi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Bokgethwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "bja Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:32:25.862824081Z",
+  "model": "glm-5.3"
+}

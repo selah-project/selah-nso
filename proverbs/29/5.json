@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go betha",
+      "rationale": "מחליק ke 'go ba borethwa' — lentšu la go betha le tliša sebopego sa go ba borethwa, se la baloi ba go betha"
+    },
+    {
+      "kind": "crux",
+      "subject": "mekgwatla ya gagwe",
+      "rationale": "פעמיו: 'mekgwatla ya yena' (KJV) goba 'magoro a yena' (YLТ ka go ela hlogo) — both possible"
+    }
+  ],
+  "translation": "Geber yo a go bethago mogwera wa gagwe, o phatlalosa sehlare godimo ga mekgwatla ya gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c644f8531f7bbd514f8bcfd93b0aaa606ef3edfad4bbfd71ecdbde04cafbe7dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/29\/5-8.1792299936703.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Geber"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "yo a go bethago"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mogwera wa gagwe"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "o phatlalosa"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "mekgwatla ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:36.703894885Z",
+  "model": "glm-5.3"
+}

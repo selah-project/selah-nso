@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ba jeang setšhaba sa ka ba jela bogobe",
+      "rationale": "ponto ya go ja setšhaba bjalo ka bogobe bja mahlatswakgolo — tlhaešo ya go hlwahlwala ntle le kutu"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Sepedi se nyaka 'go' pele ga polelo ya botsišo; Seheberu se e sena"
+    },
+    {
+      "kind": "you",
+      "subject": "go ba šomago phošo",
+      "rationale": "dipotšišo tša psalme di bitša bao ba se nago kutu lefaseng"
+    }
+  ],
+  "translation": "A ga ba a tseba ba ka moka ba šomago phošo — ba jeang setšhaba sa ka ba jela bogobe — gore Yahwe ga ba mo bitše?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1675ac133eb6fe1c155b1bdc04dab86a95dd5b1cab077365e105fdbecfb2045d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/14\/1-4.1792297302025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "a ga se"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba a tseba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba ka moka"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "ba šomago"
+    },
+    {
+      "surface": "און",
+      "gloss": "phošo"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ba jeang"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ba jela"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ba mo bitše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:42.027064452Z",
+  "model": "glm-5.3"
+}

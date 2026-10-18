@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 5:23",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדקה e bolokwa ka modumo — ke tokoloho ya boikokobetše le toka mmogo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "עקב שחד",
+      "rationale": "Mantšu a mabedi a šoma bjalo ka 'ka lebaka la sehlodi' — 'equev' ke mogato wa leoto, a šomišwa bjalo ka sebopego sa go bolela sehlodi"
+    }
+  ],
+  "translation": "Ba dirago molato go lokile ka ntle ga sehlodi, gomme tsedeke ya ba lokilego ba e ntšha go yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d58ec96a7d2900cba89cb8bf81c6479fafabe8a79bb33a2d3f7b6f053dbbd1e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/5\/21-24.1792291317541.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מצדיקי",
+      "gloss": "ba dirago molato go lokile"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "molato"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ka ntle ga"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "sehlodi"
+    },
+    {
+      "surface": "וצדקת",
+      "gloss": "gomme tsedeke ya"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokilego"
+    },
+    {
+      "surface": "יסירו",
+      "gloss": "ba e ntšha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go yena"
+    }
+  ],
+  "timestamp": "2026-10-18T02:41:57.542056823Z",
+  "model": "glm-5.3"
+}

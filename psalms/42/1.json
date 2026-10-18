@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mogolo wa dikoro",
+      "rationale": "למנצח šupa go moetapele wa koša; sebopego sa tlhagi sa 'go khanya' se lahlegile"
+    }
+  ],
+  "translation": "Go ya go mogolo wa dikoro, pego ya go rutisha, ya bana ba Korake.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9adda3a0b6d948574b8d5f6e9a495cfb0791bdaabbc2aee75c9250080c01ffbd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/42\/1-4.1792297688230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go ya go mogolo wa dikoro"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pego ya go rutisha"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korake"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:08.231468961Z",
+  "model": "glm-5.3"
+}

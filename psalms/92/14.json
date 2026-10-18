@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba prišitšwego",
+      "rationale": "שתולים ke bontši bja go šuthišetšwa metsing ye mpsha — seswantšho sa sekgowa se huduetšwego legaeng la tumelo"
+    },
+    {
+      "kind": "crux",
+      "subject": "legaeng la Yahwe",
+      "rationale": "Baeki ba fapana: \"ba prišitšwego legaeng\" ka ditlhaka, kgahlanong le \"ba hlometšwego go tšwa legaeng la Yahwe\" bjalo ka kutu ya Masiyao"
+    }
+  ],
+  "translation": "Ba prišitšwego legaeng la Yahwe, dikgorong tša Elohim wa rena ba tla betha.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e412f0d7e0e31b96a367318f0332ee2c9e539cbdac9c9c401c93314e702759b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/92\/13-16.1792298465287.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "ba prišitšwego"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "legaeng la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "dikgorong tša"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rena"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "ba tla betha"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:05.288068543Z",
+  "model": "glm-5.3"
+}

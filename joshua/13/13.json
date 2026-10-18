@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 13:13",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד היום הזה",
+      "rationale": "'go fihla lehono la gona' — sehlakahlaka sa go bolela nako ya mongwadi, se se ratwago ke dipheto tša tša dumenywa"
+    },
+    {
+      "kind": "elision",
+      "subject": "הורישו",
+      "rationale": "‘go ntšha’ ka noši e tšere selo seo ba neng ba se hloka — go hlolelwa go ralwe"
+    }
+  ],
+  "translation": "Eupša bana ba Yisraele ga ba ka ba ntšha ⟨את⟩ ba-Geshura le ⟨את⟩ ba-Maakatha; gomme Geshura le Maakatha di ile tša dula ka gare ga Yisraele go fihla lehono ⟨la gona⟩.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "583b5401a9c4cbe0b3c59fa033f93987e7e3b1fb503a51cef30caf18c6a2bcc3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/13\/13-16.1792286802099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eupša ... ga"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "ba ka ba ntšha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba-Geshura"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "ba-Geshura"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba-Maakatha"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "ba-Maakatha"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "gomme ... di ile tša dula"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Geshura"
+    },
+    {
+      "surface": "ומעכת",
+      "gloss": "le Maakatha"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka gare ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "la gona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:26:42.099686838Z",
+  "model": "glm-5.3"
+}

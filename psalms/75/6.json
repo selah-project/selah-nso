@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עתק",
+      "rationale": "Lentšu le tlwaelegilego ke 'go se ikhware' — KJV 'stiff', JPS 'insolence'; gomme ba bangwe ba ba'da go tšwa mokgwa wo o sa tsejwego."
+    }
+  ],
+  "translation": "Lo se ke la godiša dinaka tša lona go godimo; lo se ke la bolela se tiileng ka mongongo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/75\/5-8.1792298203949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "lo se ke"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "la godiša"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "go godimo"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "dinaka tša lona"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "la bolela"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ka mongongo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "se tiileng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:43.950154200Z",
+  "model": "glm-5.3"
+}

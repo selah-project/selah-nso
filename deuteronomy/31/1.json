@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mantsu",
+      "rationale": "דברים ke bontši, 'mantšu\/dintho'; Sepedi e šomiša mantsu go swana le D4"
+    }
+  ],
+  "translation": "Gomme Moshe a sepela, a bolela ⟨את⟩ mantsu a go swana le ao go setšhaba sa Yisraele ka moka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "93068135cf33ae1e5fc4afae7b6848fcc2a0a396743b2258686252ac2e77c840",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/31\/1-4.1792286363505.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a sepela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantsu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantsu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a go swana le ao"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T01:19:23.505683283Z",
+  "model": "glm-5.3"
+}

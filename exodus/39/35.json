@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הכפרת",
+      "rationale": "'Mercy seat' (KJV) kgahlanong le 'ark-cover' (JPS) — Seheberu: khukhu ya go khupetša, e sa boleleng 'tumelano ya mohau' ka o sona"
+    }
+  ],
+  "translation": "⟨את⟩ petlo ya bopaki le ⟨את⟩ dipalo tša yona, le ⟨את⟩ khukhu ya petlo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0278095b3dfb63217d3cfd3074611131d349ca6a25e4ebb3151501e75b46320d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/39\/33-36.1792283463085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "petlo ya bopaki"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "petlo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ya bopaki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dipalo tša yona"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "dipalo tša yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "khukhu"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "khukhu"
+    }
+  ],
+  "timestamp": "2026-10-18T00:31:03.086650510Z",
+  "model": "glm-5.3"
+}

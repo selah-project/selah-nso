@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "עד מה",
+      "rationale": "go fihlela nako efe — potošišo ya nako, go bala maemo a go leta."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maswao",
+      "rationale": "אותת bolela maswao\/diphuputšo tša sephiri; sephuthego sa lebaka la tshepo."
+    }
+  ],
+  "translation": "Maswao a rena ga re a bona; ga go sa tlale go na le moprofeta, gomme ga go ⟨את⟩ le rena yo a tsebago go fihlela nako efe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d0b0e81afd83bea474f49218cf95856acef3d10f706cd01b96a3c959eafea057",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/74\/9-12.1792298212319.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "maswao a rena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "re a bona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa tlale"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "moprofeta"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga go"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ le rena",
+      "marks": "rena (walona)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "yo a tsebago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nako efe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:52.320590855Z",
+  "model": "glm-5.3"
+}

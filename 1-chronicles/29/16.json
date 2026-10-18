@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 29:16",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ההמון",
+      "rationale": "hamon e bolela sehlahla\/morwatarra goba bontši bja dithoto — 'dilo tše nntši' e bea sebopego sa sehlahla"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke sona⟩",
+      "rationale": "Sepedi se nyaka kopula; Seheberu se dira היא e netefaditswego feela ntle le lediri"
+    },
+    {
+      "kind": "you",
+      "subject": "Dafida o bolela go Yahwe",
+      "rationale": "thapelo ye e lebega go Yahwe ka tlhamalalo"
+    }
+  ],
+  "translation": "Yahwe, Elohim wa rena, dilo tše ntsi tše ka moka tše re di lokilego go agela wena ntlo go leina la bokgethwa bja gago — go tšwa go seatla sa gago ⟨ke sona⟩, gomme go wena tšohle.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a716c603d3ac571d617a15ee305caf673a17d121ebe3e742742680c9b4d4e99a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/29\/13-16.1792303568507.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "dilo tše ntsi tše"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "הכיננו",
+      "gloss": "re di lokilego"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "go aga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "go leina la"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "bokgethwa bja gago"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "go tšwa go seatla sa gago"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ke sona⟩"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "gomme go wena"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tšohle"
+    }
+  ],
+  "timestamp": "2026-10-18T06:06:08.510697264Z",
+  "model": "glm-5.3"
+}

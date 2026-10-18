@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 143,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke selo se se hemago — se tsea botse bjalo ka bophelo, e sego moya wa ka moso."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kgatelelo",
+      "rationale": "מצרה ka bonolo ke 'sekgoba se se khunamago' — kgokgontšho ya go tswalelwa; kgatelelo e bea bothata bja go hloka sekgoba se se ya go leka."
+    }
+  ],
+  "translation": "Bakeng sa leina la gago, Yahwe, o ntshafatše me; ka tsedeko ya gago o ntšhe bophelo bja me go kgatelelong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3a91ba78e2df75e33c1d2bfca9197da87d4ab1d8944a2c55a4624a988c9ca62f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/143\/9-12.1792299071424.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "o ntshafatše me"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ka tsedeko ya gago"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "o ntšhe"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "go kgatelelong"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja me"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:11.425203618Z",
+  "model": "glm-5.3"
+}

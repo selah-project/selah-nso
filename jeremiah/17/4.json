@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 17:4",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "makgalelo a ka",
+      "rationale": "אפי ke 'sefo ya ka' — Sepedi se bolela makgalelo; setšo sa sefo se laletša kgalefo"
+    },
+    {
+      "kind": "crux",
+      "subject": "gomme o tla ikgogela ka noši",
+      "rationale": "ושמטתה — 'o tla laša' (go laša pelo) goba 'o tla tloša' — babethli ba sa dumelelana"
+    },
+    {
+      "kind": "elision",
+      "subject": "ובך",
+      "rationale": "'le wena ka noši' — sebopego se kopantšwe le lentšu la go hlaka"
+    }
+  ],
+  "translation": "Gomme o tla ikgogela ka noši, le phenyo ya gago — yeo ke e go fileng — gomme ke tla go dira ⟨את⟩ lešika la manaba ba gago lefaseng leo o sa le tsebego; gobane lo kgweditše mollo ka makgalelo a ka — o tla fisa go fihla nako e sa felego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c91a8fd4a3225649c2c2c64e033a6e488a52e30a749143f611eac9e072d89bc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/17\/1-4.1792293204524.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמטתה",
+      "gloss": "gomme o tla ikgogela ka noši"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "le wena"
+    },
+    {
+      "surface": "מנחלתך",
+      "gloss": "phenyo ya gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke e fileng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "והעבדתיך",
+      "gloss": "gomme ke tla go dira lešika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaba ba gago"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "manaba ba gago"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "tsebego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "קדחתם",
+      "gloss": "lo kgweditše"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ka makgalelo a ka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nako e sa felego"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "o tla fisa"
+    }
+  ],
+  "timestamp": "2026-10-18T03:13:24.525940895Z",
+  "model": "glm-5.3"
+}

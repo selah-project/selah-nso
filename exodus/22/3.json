@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "המצא תמצא",
+      "rationale": "Kgethišo ya moledi-o-mong gantši (infinitive absolute + ya go fetoga), e laetša tikologo ya botsopeleng — e laetšwe ka 'ka botsopeleng e fihlelwa'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "שנים ישלם",
+      "rationale": "Palo ya go lefola — gabedi bakeng sa phutlo ye e phelago."
+    }
+  ],
+  "translation": "Ge ka botsopeleng phutlo e fihlelwa gare ga seatla sa yena, e phela, go tšwa go kgomo go fihla setšo, go fihla kwanyana, o tla lefola gabedi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1bc048124d35040857de33e617141d813587dc1df0fd409e15c47105e3bbd233",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/22\/1-4.1792282960528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "ka botsopeleng"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "e fihlelwa"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "gare ga seatla sa yena"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "phutlo"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kgomo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "setšo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kwanyana"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "e phela"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "gabedi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o tla lefola"
+    }
+  ],
+  "timestamp": "2026-10-18T00:22:40.529179297Z",
+  "model": "glm-5.3"
+}

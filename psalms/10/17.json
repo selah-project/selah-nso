@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "o a tiisetša pelo ya bona",
+      "rationale": "תכין לבם: 'o a thea pelo' (KJV 'prepare'), 'o e lokiša' (BSB 'strengthen'), goba 'o e laola' (JPS 'direct') — ke kganetšo ya batheti"
+    },
+    {
+      "kind": "elision",
+      "subject": "תקשיב",
+      "rationale": "go dira gore sehlana se reetle — go oketšwa ⟨go reetla⟩ ka gobane Sepedi se nyaka tumedišo"
+    }
+  ],
+  "translation": "Boikelo bja bao ba enywago o bo kweletše, Yahwe; o a tiisetša pelo ya bona; o a sekeletša sehlana sa gago ⟨go reetla⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e2b23a3a01bf394a79c20d1a9c7190b1343e3bee361fa6d5f3234839841df454",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/10\/17-18.1792297230304.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "boikelo"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "bja bao ba enywago"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "o bo kweletše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "o a tiisetša"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "pelo ya bona"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "o a sekeletša"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "sehlana sa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:30.304720261Z",
+  "model": "glm-5.3"
+}

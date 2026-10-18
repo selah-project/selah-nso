@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-kings 22:53",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebe",
+      "rationale": "הרע ke 'go bobe\/sebe' ka bophara; mo e dirišitšwe bjalo ka sehlabelo sa sebopego"
+    },
+    {
+      "kind": "elision",
+      "subject": "go hwelela",
+      "rationale": "החטיא (hifil) bolela 'a dira gore ba dire sebe' — Sepedi e nyaka go oketša 'go' pele ga 'sebe'"
+    }
+  ],
+  "translation": "Gomme a dira sebe mahlong a Yahwe, gomme a ya tseleng ya ntatelele, le tseleng ya mmae, le tseleng ya Yerobohame mora Nebhate, yo a diriletšego ⟨את⟩ Yisraele sebe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f6236120ad3511a2f7dd8600c1f5cabff9b8c1ffb4a832263e9f618e87902e4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/22\/53-54.1792290364669.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng ya"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntatelele"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "le tseleng ya"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mmae"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "le tseleng ya"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yerobohame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebhate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "a diriletšego sebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:26:04.669899604Z",
+  "model": "glm-5.3"
+}

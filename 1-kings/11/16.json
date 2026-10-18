@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikgwedi tše tshela",
+      "rationale": "Palo ya nako: dikgwedi tše tshela tša madira a Yisraele Edome."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכרית",
+      "rationale": "הכרית mo go leo 'go sefa\/go tima' — go fedisa ka botlalo; 'go fedisiwa' e bolokile modu wa go sefa, o sa tlošwa."
+    }
+  ],
+  "translation": "Ka gobane dikgwedi tše tshela Yoabe o ile a dula gona, yena le Yisraele ka moka, go fihlela go fedisiwa banna ka moka Edome.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "703b0e48ff8657bc1adbed01aac2320fc23f5f2a4be4a7b9285925df463ecb71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/11\/13-16.1792289996793.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "tše tshela"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "dikgwedi"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a dula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Yoabe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le... ka moka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "go fedisiwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "banna"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edome"
+    }
+  ],
+  "timestamp": "2026-10-18T02:19:56.794514349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 43:20",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קרנתיו → dirogana",
+      "rationale": "keren ke serogana se se tletšego godimo ga aletare, e sego selaodi"
+    },
+    {
+      "kind": "crux",
+      "subject": "העזרה",
+      "rationale": "'azara: thetheo ya aletare (KJV 'settle') kgahlanong le 'kgoro ya tempole'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tše nne · tše nne",
+      "rationale": "go bala dikarolo tša aletare — dirogana le dikgonthe ka moka tše nne"
+    }
+  ],
+  "translation": "Gomme o tla tšea go tšwa mading a wona, gomme wa beha godimo ga dirogana tša yona tše nne, le dikgonthe tše nne tša thetheo, le mollong wa go dikologa, gomme wa e hlwekiša ⟨את⟩ gomme wa e fodiša.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "91aa57918e324f445af9444ff121e02028d8b6b95a785f302d3930fbc656e8c8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/43\/20-20.1792305106401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "gomme o tla tšea"
+    },
+    {
+      "surface": "מדמו",
+      "gloss": "go tšwa mading a wona"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "gomme wa beha"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tše nne"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "dirogana tša yona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tše nne"
+    },
+    {
+      "surface": "פנות",
+      "gloss": "dikgonthe"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "tša thetheo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "mollong"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "wa go dikologa"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "gomme wa e hlwekiša"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "aletare"
+    },
+    {
+      "surface": "וכפרתהו",
+      "gloss": "gomme wa e fodiša"
+    }
+  ],
+  "timestamp": "2026-10-18T06:31:46.402362306Z",
+  "model": "glm-5.3"
+}

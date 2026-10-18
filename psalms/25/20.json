@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa bophelo bja ka",
+      "rationale": "נפשׁ ke 'selo se se hemago — mafura a bophelo' — e sego 'moya wa ka' fela; phetolelo e okeditše bophelo go tlhatlhoba sebopego sa lentšu"
+    },
+    {
+      "kind": "alternative",
+      "subject": "a se ke ka tšhaba",
+      "rationale": "אבוש e bolela 'go swarwa ke mašwabi' — 'a se ke ka swarwa ke mašwabi' e ka ba poletšo ya bobedi; 'go tšhaba' e tliša lentsu la Kgowedi"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Thapelo ye e tswalwa le go 18–19, go lebana le Yahwe ka bobedi"
+    }
+  ],
+  "translation": "Hlokomela moya wa bophelo bja ka, gomme o ntlotle; a se ke ka tšhaba, ka gobane ke itšhereletše go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "73da87d3002efce831ce742fa6384e9c7cf8037e9def500e32122bd85a028beb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/25\/17-20.1792297427753.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "hlokomela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa bophelo bja ka"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "gomme o ntlotle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ka tšhaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke itšhereletše"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:47.754072089Z",
+  "model": "glm-5.3"
+}

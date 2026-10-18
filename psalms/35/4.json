@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויכלמו · יסגו\/ויחפרו",
+      "rationale": "Dipego tše pedi tša mantšu a mabedi a go ipnya — sebopego se se tsweletšego se ka se fetišwa ka botlalo Sepedeng."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש gape mo: bophelo bja motho, e sego moya o mongwe."
+    }
+  ],
+  "translation": "A ba ipnye gomme ba nyenyegwe, ba nyakago bophelo bja ka; a ba boele morago gomme ba makale, ba hlahlamago bobe bja ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9e54e0c61676270b7f5d6b5458d264a714ab9888762ce540cc682511ab34a194",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/35\/1-4.1792297571571.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "A ba ipnye"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "gomme ba nyenyegwe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ba nyakago"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja ka"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "a ba boele morago"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morago"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "gomme ba makale"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "ba hlahlamago"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bobe bja ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:11.572322270Z",
+  "model": "glm-5.3"
+}

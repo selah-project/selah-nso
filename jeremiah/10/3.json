@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "phošo-gae",
+      "rationale": "הבל bolela 'moya\/maphothophotho, se se se nago boleng' — e sego phošo ka kholofetšo."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרש",
+      "rationale": "Mošomi wa dihlahla (moruti wa sehlare) kgahlanong le 'mokgoni' ka kakaretšo; Seheberu o bolela mošomi wa dihlahla sehlareng."
+    },
+    {
+      "kind": "hapax",
+      "subject": "במעצד",
+      "rationale": "מעצד — sekuwa — se hlaga ka sehlareng se le tee fela ga baka la Tanakh."
+    }
+  ],
+  "translation": "Ka gobane melawana ya setšhaba ke phošo-gae; gomme ke mohlare woo ba o remago sehlareng, mošomo wa matswao a mošomi wa dihlahla, ka sekuwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4423868545f1e7dcc8eb95e1b831d0180720645aa70793560812d7a5c58ba9f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/10\/1-4.1792293028203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "melawana"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ya setšhaba"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ke phošo-gae"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ke⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gomme ka gobane"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mohlare"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "sehlareng"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "ba o remago"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wa matswao"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "mošomi wa dihlahla"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "ka sekuwa"
+    }
+  ],
+  "timestamp": "2026-10-18T03:10:28.204538341Z",
+  "model": "glm-5.3"
+}

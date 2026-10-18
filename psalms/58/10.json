@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סירתיכם \/ אטד",
+      "rationale": "Bophara bja diphetolelo: 'dipitsa tša lona di kgoma dikgaba' (KJV\/ASV) kgahlanong le go bala סירות bjalo ka dikgaba ka noši; Seheberu se sa hlakang ka botlalo."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אטד",
+      "rationale": "sehlare sa dikgaba (buckthorn) — lente le šomišwa ka gare ga mehlare ya go fiša ka tlase ga dipitsa."
+    },
+    {
+      "kind": "crux",
+      "subject": "כמו חי כמו חרון",
+      "rationale": "Go bušiša ga bobedi: 'e phelago le e fisago' (ASV\/JPS: green and burning) goba 'le lekaoto, ka bogale' (KJV: alive, in his wrath); Sepedi e tšere phetolelo ya pele."
+    }
+  ],
+  "translation": "Pele dipitsa tša lona di ka tseba sehlare sa dikgaba, o tla di fofisa ka tshwaelo — e le e phelago le e fisago ka botlalo, ka bogale bja gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ea2bc0f6056bf10dd255aee67c697fe854f5f7cff9f4b2e24ed5ae95ffd77e08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/58\/9-12.1792297885629.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "di ka tseba"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "dipitsa tša lona"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "sehlare sa dikgaba"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "חי",
+      "gloss": "e phelago"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "e fisago ka bogale"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "o tla di fofisa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:25.630545270Z",
+  "model": "glm-5.3"
+}

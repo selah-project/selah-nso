@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Seheberu se na le boitemogelo fela; Sepedi se nyaka boemo"
+    },
+    {
+      "kind": "crux",
+      "subject": "Elyone",
+      "rationale": "עליון: leina goba kgethišo — Wa godimo; le tsebilwe bjalo ka leina la Modimo ka moka"
+    },
+    {
+      "kind": "you",
+      "subject": "go opela leina la gago",
+      "rationale": "Puo e go direla Yahwe ka bobedi — leina la gago le laetša mo a buiwago ka yena"
+    }
+  ],
+  "translation": "Go botse go leboga Yahwe, le go opela leina la gago, Elyone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/92\/1-4.1792298496791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go botse"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "go leboga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "le go opela"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:36.792725241Z",
+  "model": "glm-5.3"
+}

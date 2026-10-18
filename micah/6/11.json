@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 6:11",
+  "book": "micah",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "זכה",
+      "rationale": "Lediri le ra 'go se na bolodi'\/'go phela' — KJV 'count them pure', Sepedi 'go hlokagala'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "scales and weights",
+      "rationale": "Dikelo le maswika a go kela — kgwebo ya maaka"
+    }
+  ],
+  "translation": "Nka tšwelela ke le hlokagala ka mokgwa wa dikelo tša lefša, le ka mosela wa maswika a mafele?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "14ecb6a1b26b324bf8125e185a8da189ca560aabba32e9cbc819594ea1fbcee0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/micah\/6\/9-12.1792296554671.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האזכה",
+      "gloss": "nka tšwelela ke le hlokagala"
+    },
+    {
+      "surface": "במאזני",
+      "gloss": "ka mokgwa wa dikelo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "a lefša"
+    },
+    {
+      "surface": "ובכיס",
+      "gloss": "le ka mosela"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "a maswika"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "a mafele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:09:14.672572550Z",
+  "model": "glm-5.3"
+}

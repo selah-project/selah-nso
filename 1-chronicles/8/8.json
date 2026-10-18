@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשדה מואאב",
+      "rationale": "Nagana ya Moabe (KJV\/ASV) kgathanong le sešo sa Moabe ge šהדה e tšewa e le leina la lefelo."
+    },
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Sesupi se ile sa fetolelwa go ba — se šoma bjalo ka sesupi sa Chushime le Beara."
+    }
+  ],
+  "translation": "Gomme Shacharajime a begetša kua naganeng ya Moabe, ka morago ga go ba romela — Chushime le Beara, basadi ba gagwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e76b22e0627a4ad16b6ffa23e9907de17a283bef0d312cbb6d88aec91c7162b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/8\/5-8.1792303014711.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "Gomme Shacharajime"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begetša"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kua naganeng ya"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "go ba romela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Chushime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Beara"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Beara"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basadi ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:56:54.712077342Z",
+  "model": "glm-5.3"
+}

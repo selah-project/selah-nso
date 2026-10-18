@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "letlhagono",
+      "rationale": "ימינו ke letlhagono (lefose la go ja) — leswao la maatla le tšhireletšo, e sego fela lehlakore."
+    },
+    {
+      "kind": "crux",
+      "subject": "על ימינו",
+      "rationale": "'Ka letlhagono la gagwe' — ya mang? Bafofodiši ba fapana: Hemale (ya emeng ka la monghane) kgobalokišo ya gae."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Asafe",
+      "rationale": "Leina le boelediwa gabedi — go hlakantšha gore Asafe ke ena yo a umakiwago, e sego Hemale."
+    }
+  ],
+  "translation": "gomme mongwale ⁠— mohlala wa gagwe Asafe, yo a emego ka letlhagono la gagwe; Asafe morwa Berekjahu, morwa Shimea",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "42f449e251a0973a188e5493e9dcf849319cbc58a6121774f38f67db987b2ac4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/6\/21-24.1792303006704.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "mohlala wa gagwe"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafe"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "yo a emego"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "letlhagono la gagwe"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "Berekjahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Shimea"
+    }
+  ],
+  "timestamp": "2026-10-18T05:56:46.705935301Z",
+  "model": "glm-5.3"
+}

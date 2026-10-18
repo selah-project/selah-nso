@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כרים",
+      "rationale": "'Dinaka\/lambs' (from כר) vs 'pastures' (כרים as plural of כר, KJV 'flocks'); the picture is flocks clothing the meadows."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יתרועעו אף ישירו",
+      "rationale": "Crescendo: shouting (רוע) then singing (שיר) — the whole land bursts into a shout-song, escalation lost if merged."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi needs the agentive 'ke' where Hebrew simply juxtaposes subject and verb."
+    }
+  ],
+  "translation": "Mapaša a aparetšwe ke dinaka; mathopo a phuputšwa ke poone; ba thabela ka mokgwa wa go huduediša, ee, ba opela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8bd1d6519478a185abca914a7ea7d6042fd66b1d3baa98088102f49994c71d5e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/65\/13-14.1792297928702.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "a aparetšwe"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "dinaka"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "mapaša"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "gomme mathopo"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "a phuputšwa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "poone"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "ba huduediša"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "ba opela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:08.703506899Z",
+  "model": "glm-5.3"
+}

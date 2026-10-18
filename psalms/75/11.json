@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dinaka",
+      "rationale": "קרן — naka e bontšha maatla le borena; se sa fetolwego go tšwa Sesheberu"
+    }
+  ],
+  "translation": "Gomme dinaka tša ba ba mpego ka moka ke tla di gakatša; dinaka tša molatung di tla godišwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a1edde4bd6e9c9dbe7b7eee7b020ec4548b3c434cf39f1336034e8163dad2f79",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/75\/9-11.1792298161077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "gomme … ka moka"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "dinaka tša"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba ba mpego"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "ke tla di gakatša"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "di tla godišwa"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "dinaka tša"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "molatung"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:01.078108185Z",
+  "model": "glm-5.3"
+}

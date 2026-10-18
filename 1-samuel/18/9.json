@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עון",
+      "rationale": "Ketiv עון ('sebe') kgahlanong le qere עין ('leme'): maswao a ngwalwa ka tsela ya go swana — 'a lebelela' ke qere."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mahlo a boifatši",
+      "rationale": "Seheberu se bolela fela 'leme' (עין); 'go lebelela ka boifatši' ke tlhalošo ya boemo, e sego lentšu le legolo."
+    }
+  ],
+  "translation": "Gomme Shauole a ba le mahlo a boifatši godimo ga ⟨את⟩ Dafida, go tšwa letšatšing leo go fihla pele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9cbcbd1c84569f80b6e0663f5ac2250682273701ea7a4fdef6542f485ccafa35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/18\/9-12.1792288408607.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme a ba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shauole"
+    },
+    {
+      "surface": "עון",
+      "gloss": "mahlo a boifatši"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dafida"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "go tšwa letšatšing"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "go fihla pele"
+    }
+  ],
+  "timestamp": "2026-10-18T01:53:28.608611253Z",
+  "model": "glm-5.3"
+}

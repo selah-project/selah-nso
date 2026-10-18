@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bositšhwa",
+      "rationale": "אף ka nnete ke nko\/nostril; 'bositšhwa' ke pneuma ya selaodi — sebopego sa 'nko e tuka' se lahlwa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בלעונו",
+      "rationale": "go mmetša bjalo ka phoofolo e kgolo e ja nama — seswantšho sa mahlale sa psaleme ye ka moka"
+    }
+  ],
+  "translation": "ba ka be ba re mmetšetše mafolofolo, ge bositšhwa bja bona bo ne bo tuka go rena,",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/124\/1-4.1792298951094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "mafolofolo"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "ba ka be ba re mmetšetše"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "ge ... bo tuka"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "bositšhwa bja bona"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "go rena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:11.095478669Z",
+  "model": "glm-5.3"
+}

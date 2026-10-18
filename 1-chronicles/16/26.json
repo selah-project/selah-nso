@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 16:26",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Copula ye Seheberu se se nago yona"
+    },
+    {
+      "kind": "substitution",
+      "subject": "medimoto",
+      "rationale": "אלילים: dilo tše se nago boleng — 'things of nought' (JPS) goba 'medimoto'"
+    },
+    {
+      "kind": "crux",
+      "subject": "שמים",
+      "rationale": "Bophara bja pedi (dual): magodimo a mabedi go ya ka bophara bja lentšu"
+    }
+  ],
+  "translation": "Ka gobane medimo ya ditšhaba yohle ⟨ke⟩ medimoto, eupša Yahwe o dire magodimo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7fc9f5eea7c6f001a0f7567b1e4981a50a9c597393febdfe54b852999f884d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/16\/25-28.1792303225979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "medimo ya"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "medimoto"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "eupša Yahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dire"
+    }
+  ],
+  "timestamp": "2026-10-18T06:00:25.980660057Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תועפות",
+      "rationale": "Lentšu le thata: 'diphoduthago' kgathanong le 'matla' goba 'bohlokwa' — dikgokgo le diphoduthago di bopa khutso ya godimo-nagaseng"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מחקרי",
+      "rationale": "מֶחְקְרֵי — mafelo a sekasekilego a lefase, lentšu le lengwe le le rare"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מחקרי\/תועפות",
+      "rationale": "Khutso ya meretologano: kgokgo ya lefase le phoduthago ya dithaba di bontšha Yahwe o laola ka moka"
+    }
+  ],
+  "translation": "Yeo ka seatla sa gagye go lego dikgokgo tša lefase, gomme diphoduthago tša dithaba ke tša gagye.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "10d86986e2ff93155526143b6e52afb9b7bf2e9ef6d05a572507347523f37b71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/95\/1-4.1792298467970.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ka seatla sa gagye"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "dikgokgo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ta lefase"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "gomme diphoduthago"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "tša dithaba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ke tša gagye"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:07.971553308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 13:30",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka modiriši wa pele ('ke') go gatelela sebopego sa go bea; Seheberu se na le c\/5975 fela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "motho yo mongwe le yo mongwe",
+      "rationale": "איש איש e bolela 'motho, motho' — e aga sebopego sa go ahlologa ga mošomo."
+    }
+  ],
+  "translation": "Gomme ka ba hlwekiša go tšwa go sefeo ka moka, gomme ⟨ke⟩ bea ditebelo bakeng sa baperisita le Balefi, motho yo mongwe le yo mongwe ka mošomong wa gagwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "621bbbdf067bef535afee3d20a1adcc07de53cd50d67787401bdf5b00d9dab88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/13\/29-31.1792302786494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וטהרתים",
+      "gloss": "Gomme ka ba hlwekiša"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "sefeo ka moka"
+    },
+    {
+      "surface": "ואעמידה",
+      "gloss": "gomme ⟨ke⟩ bea"
+    },
+    {
+      "surface": "משמרות",
+      "gloss": "ditebelo"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "bakeng sa baperisita"
+    },
+    {
+      "surface": "וללוים",
+      "gloss": "le bakeng sa Balefi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "ka mošomong wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:53:06.494896112Z",
+  "model": "glm-5.3"
+}

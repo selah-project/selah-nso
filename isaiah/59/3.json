@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "le dumeletše",
+      "rationale": "הגה ke go dumedimetša, go nagana ka gare — 'murmur'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כפיכם\/שפתותיכם",
+      "rationale": "papiso ya mecha: seatla, menwana, molomo, leleme — mmele o feletšego wa sebe"
+    },
+    {
+      "kind": "you",
+      "subject": "go setšhaba",
+      "rationale": "karolo ya mmušo o diretšego setšhaba"
+    }
+  ],
+  "translation": "Ka gobane mešatla ya lona e mpe di tletše madi, gomme menwana ya lona e tletše šhabo; molomo wa lona o boletše leshano, leleme la lona le dumeletše go se loka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/59\/1-4.1792292521780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "mešatla ya lona"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "di mpe di tletše"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "gomme menwana ya lona"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "šhabo"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "molomo wa lona"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "o boletše"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leshano"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "leleme la lona"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "go se loka"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "le dumeletše"
+    }
+  ],
+  "timestamp": "2026-10-18T03:02:01.781323396Z",
+  "model": "glm-5.3"
+}

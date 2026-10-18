@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 49:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "Nefesh ke motho o mothupago — moya\/mafi a bophelo, e sego seatla se se tswalago (soul ya Segerika)."
+    },
+    {
+      "kind": "crux",
+      "subject": "כי יקחני",
+      "rationale": "Yaqacheni: o tla nkgara (Genesis 5:24, Enoki) kgatlhanong le 'o tla nkgara go yena'; kgopolo ya go tšewa e sa latelelweng."
+    }
+  ],
+  "translation": "Boteya, Elohim o tla lokolla moya wa ka go seatla sa Sheole, gobane o tla nkgara. Selaha.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ae76094a5829c5cb42ed74ffb3f10e2a65e874946867c2a24cd66fa141130155",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/49\/13-16.1792297797105.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Boteya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "o tla lokolla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "go seatla sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "o tla nkgara"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:57.106909833Z",
+  "model": "glm-5.3"
+}

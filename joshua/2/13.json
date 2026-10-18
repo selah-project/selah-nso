@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "meoya",
+      "rationale": "נפש ke moya\/bophelo, e sego »moya« wa kgale; mo e bolela bophelo bja motho"
+    },
+    {
+      "kind": "addition",
+      "subject": "bophelo bja",
+      "rationale": "Seheberu se na le sebopego sa go bopa `והחיתם` fela; Sepedi se nyaka lentšu la pele"
+    }
+  ],
+  "translation": "gomme le boloke bophelo bja ⟨את⟩ papa wa ka, le ⟨את⟩ mama wa ka, le ⟨את⟩ bagedi ba ka le ⟨את⟩ kgaetšedi wa ka, le ⟨את⟩ tšohle seo ba nago le sona; gomme le lokolle ⟨את⟩ meoya ya rena go tšwa lehu.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "63373f8dddbe3773b4d3b96054d551194ce89e272db505046d3ad8edfbe62511",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/2\/13-16.1792286583058.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "le boloke bophelo bja"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa wa ka"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "papa wa ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mama wa ka"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mama wa ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bagedi ba ka"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "bagedi ba ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "kgaetšedi wa ka"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "kgaetšedi wa ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tšohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba nago le sona"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "gomme le lokolle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meoya ya rena"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "meoya ya rena"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "go tšwa lehu"
+    }
+  ],
+  "timestamp": "2026-10-18T01:23:03.059354061Z",
+  "model": "glm-5.3"
+}

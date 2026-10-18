@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 41:24",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨motho⟩",
+      "rationale": "Seheberu ga se na mošomiši wa go dira; 'go lebelela' (יחשב) ke mokgwa wa go nagana, se sengwe se se okeditšwego ka Sepedi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "לשיבה",
+      "rationale": "'Bo šweu bja mengwaga' — botho bja tlwaelo bja go šala bjo bo šweu bjalo ka lesoba la mehlare; sebopego se a bolokwa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תהום",
+      "rationale": "Tehom ke meetse a magolo a go dutla a a se ngo melelwane — ga se hole ya ka morago ga lehu."
+    }
+  ],
+  "translation": "Ka morago ga yena tsela e a khanya; ⟨motho⟩ a ka nahna gore bodiba bjo bo tebilego ke bo šweu bja mengwaga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dde776d5e34e27e6f2054a85643cc5b22fbef9672131d1e9586ad933518924f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/41\/21-24.1792300889468.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "ka morago ga yena"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "e a khanya"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "a ka nahna gore"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "bodiba bjo bo tebilego"
+    },
+    {
+      "surface": "לשיבה",
+      "gloss": "ke bo šweu bja mengwaga"
+    }
+  ],
+  "timestamp": "2026-10-18T05:21:29.469016509Z",
+  "model": "glm-5.3"
+}

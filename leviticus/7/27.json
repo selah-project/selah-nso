@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke sephiring-moya\/thoho e phelago"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפש … נפש",
+      "rationale": "Boeledi bja nefesh bo bopa tswalano: sephiring se senyegile ke sephiring seo se kgaolwago"
+    }
+  ],
+  "translation": "Moya yo mongwe le yo mongwe yo a jago madi ka moka, moya yoo o tlaa kgaolwa go tšwa go setšhaba sa yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0e3b7765c7095dae7ae8ef85dafbd0ee8dd3a7463776a8467ba86f9a1f409aae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/7\/25-28.1792283661396.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "a jago"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "o tlaa kgaolwa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "go tšwa go setšhaba sa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:34:21.397489434Z",
+  "model": "glm-5.3"
+}

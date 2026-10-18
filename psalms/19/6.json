@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 19:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mothaleng",
+      "rationale": "חופה ke phuthego ya manyadiwa (kanopi) — 'mothalane' ke mošomo, e sego selo se itšego."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישיש",
+      "rationale": "šoša štm ye e swanago le 'go šomiša mmala' — go thabela le go phadima ga šomo mo go kopane, se se lahlegilego ka Sepedi."
+    }
+  ],
+  "translation": "Gomme yena o bjalo ka monyadiwa a tšwa mothaleng wa gagwe; o thabela bjalo ka mong wa maatla go taboga tsela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/19\/5-8.1792297397408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "gomme yena"
+    },
+    {
+      "surface": "כחתן",
+      "gloss": "o bjalo ka monyadiwa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "a tšwa"
+    },
+    {
+      "surface": "מחפתו",
+      "gloss": "mothaleng wa gagwe"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "o thabela"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "bjalo ka mong wa maatla"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "go taboga"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "tsela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:17.408916402Z",
+  "model": "glm-5.3"
+}

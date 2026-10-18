@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 1:22",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go na le",
+      "rationale": "Sepedi requires a locative copula where Hebrew simply juxtaposes noun phrases."
+    },
+    {
+      "kind": "crux",
+      "subject": "רקיע",
+      "rationale": "The expanse\/firmament of Genesis 1 — rendered 'thollo' (that-which-is-spread-out) to keep the picture rather than a technical 'sky'."
+    }
+  ],
+  "translation": "Gomme go na le seswantšho ka godimo ga ditlogo tša phoofolo e phelago: thollo, bjalo ka sehlare sa sedikwa se setšhošago, e phatlaladitšwe godimo ga ditlogo tša tšena go tloga ka godimo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2113cc0b1800adb97ffd86e2da9cf6a3e9a3d4eb2e85a2bb8993fd11e1ec0a9c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/1\/21-24.1792294365971.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "gomme seswantšho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka godimo ga"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ditlogo tša"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "phoofolo e phelago"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "thollo"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "bjalo ka sehlare sa"
+    },
+    {
+      "surface": "הקרח",
+      "gloss": "sedikwa"
+    },
+    {
+      "surface": "הנורא",
+      "gloss": "se setšhošago"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "e phatlaladitšwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "ditlogo tša tšena"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "go tloga ka godimo"
+    }
+  ],
+  "timestamp": "2026-10-18T03:32:45.981528007Z",
+  "model": "glm-5.3"
+}

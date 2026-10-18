@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Seheberu se na le mogopolusi; Sepedi se nyaka 'o' go hlatholla gore ke mošomo o mongwe le o mongwe."
+    },
+    {
+      "kind": "alternative",
+      "subject": "והותר",
+      "rationale": "E ka ba 'gomme go ile gwa sega' goba 'gomme o ile wa feta' — yo a sa sego; KJV e re 'and too much'."
+    }
+  ],
+  "translation": "Gomme mošomo o be o lekana bakeng sa mošomo ka moka wa go o dira ⟨את⟩, gomme go ile gwa sega.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e6789390d552c11ffdb56de60ef1c7301e7116dbb56302c4e7f20cc88dd48d6e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/36\/6-7.1792304676763.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "Gomme mošomo"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "o be"
+    },
+    {
+      "surface": "דים",
+      "gloss": "o lekana"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa ka moka"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "wa go o dira"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "mošomo"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "gomme go ile gwa sega"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:36.764318611Z",
+  "model": "glm-5.3"
+}

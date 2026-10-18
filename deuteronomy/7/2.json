@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "החרם תחרים",
+      "rationale": "Seheberu se šomiša moadi wa go bolela le lentšu leo le le tee (infinitive absolute) — go tiša seo se bolelwego; Sepedi se bolela gabedi ka 'ka fedišo o ba fediša'."
+    },
+    {
+      "kind": "crux",
+      "subject": "חרם",
+      "rationale": "E bolela go kgethwa go fedisiwa ka botlalo go ya go Elohim — 'fediša ka botlalo' kgathanong le 'go kgethwa bakeng sa mohiri'."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Maaela a proaka a sephethi go Israele — 'o se kgwe', 'o se ba fe'."
+    }
+  ],
+  "translation": "Gomme Yahwe Elohim ya gago a ba nee pele ga gago, gomme o ba gae: ka fedišo o ba fediša ⟨את⟩ ka botlalo; o se kgwe kgwerano le bona, gomme o se ba fe mohau.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "bc559034d95778083e1bd5bd32de9d8e80805bcf769d2883a9df3f95b1bbf930",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/7\/1-4.1792285712743.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "gomme a ba nee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "gomme o ba gae"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ka fedišo"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "o ba fediša ka botlalo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (ditšhaba tšeo)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "kgwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o se"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "ba fe mohau"
+    }
+  ],
+  "timestamp": "2026-10-18T01:08:32.744535211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "gapeta\/gabedi",
+      "rationale": "Counted speech — once spoken, twice heard — numbers kept exact."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחת שתים",
+      "rationale": "Numeric escalation (one, two) is a Hebrew poetic device of confirmation; Sepedi gapeta\/gabedi preserves the count."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke ⟨a⟩",
+      "rationale": "Hebrew ל preposition on לאלהים has no Sepedi equivalent; possessive copula supplied."
+    }
+  ],
+  "translation": "Gapeta Elohim o boletše; gabedi ke kwele se: gore maatla ke ⟨a⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0a379c45e89b57afba656b2e3fe66866950528260cc037bfb6ce8e6748a6f84b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/62\/9-12.1792298027784.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Gapeta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o boletše"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "gabedi"
+    },
+    {
+      "surface": "זו",
+      "gloss": "se"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ke kwele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "a Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:47.786006387Z",
+  "model": "glm-5.3"
+}

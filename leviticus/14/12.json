@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sehlabelo sa sebe",
+      "rationale": "אשם — sehlabelo sa sebe\/boila; ba bangwe ba bitša 'guilt offering'"
+    },
+    {
+      "kind": "elision",
+      "subject": "תנופה",
+      "rationale": "go fapafapwa — lediri le leina la one ka Seheberu ka bobedi; go fapafapa ga dienta"
+    }
+  ],
+  "translation": "Gomme moperisita o tla tšea ⟨את⟩ kwana le tee, a se apele sehlabelo sa sebe, le ⟨את⟩ loge ya mafura, a di thunyele go fapafapa pele ga Yahwe — go fapafapwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0b6c410f78695d1a3ab5f62248d0fc3afdcda1cfe357b03686afc6f09f72a96a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/14\/9-12.1792283840156.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "o tla tšea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kwana le tee"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "kwana"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "le tee"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "a se apele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "kwana le tee"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "sehlabelo sa sebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "loge ya mafura"
+    },
+    {
+      "surface": "לג",
+      "gloss": "loge"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ya mafura"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "a di thunyele go fapafapa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "kwana le loge"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "go fapafapwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:37:20.157755950Z",
+  "model": "glm-5.3"
+}

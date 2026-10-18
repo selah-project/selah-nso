@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezekiel 16:48",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "Oath particle with חי אני; rendered as ⟨ge⟩, the negative oath sense carried by 'Ke a phela'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wena",
+      "rationale": "אַתְּ is the pronoun 'thou' (lemma אַתָּה), not the aleph-tav direct-object marker"
+    },
+    {
+      "kind": "crux",
+      "subject": "barwedi",
+      "rationale": "בנות literally 'daughters'; here towns dependent on Sodom and Jerusalem, sometimes 'villages'"
+    }
+  ],
+  "translation": "Ke a phela, go bolela Adonai Yahwe: ⟨ge⟩ Sodoma, kgaetšedi ya gago, ga ⟨a⟩ dirile — yena le barwedi ba gagwe — bjalo ka ge o dirile wena le barwedi ba gago.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "189c0de48d2b1caee5e59eaab94790b373aba0a3360b57cf51edb7bf387571dc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/16\/48-48.1792305099395.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ke a phela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ge⟩"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ga a dirile"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "kgaetšedi ya gago"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ובנותיה",
+      "gloss": "le barwedi ba gagwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובנותיך",
+      "gloss": "le barwedi ba gago"
+    }
+  ],
+  "timestamp": "2026-10-18T06:31:39.396007278Z",
+  "model": "glm-5.3"
+}

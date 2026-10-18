@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bakgethwa",
+      "rationale": "קדושים go bolela 'ba kgethilwego ba Yahwe', e sego 'ba hlwekile' — -kgethwa ke modu wa D2."
+    },
+    {
+      "kind": "crux",
+      "subject": "ואדירי כל חפצי בם",
+      "rationale": "Seheberu se sa lebaka ga se tiile: 'ba kgolo — dithabo tša ka ka moka ke go bona' goba 'ba kgolo ba dithabo tša ka ka moka'."
+    }
+  ],
+  "translation": "Bakgethwa bao ba lego lefaseng — bona; le ba kgolo, dithabo tša ka ka moka ke go bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/16\/1-4.1792297285986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "Bakgethwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lego lefaseng"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "le ba kgolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "dithabo tša ka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "go bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:25.987716565Z",
+  "model": "glm-5.3"
+}

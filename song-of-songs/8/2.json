@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 8:2",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרקח",
+      "rationale": "רקח: dinotswa tše tswakilwego beung ('e nang le kgamo') le go duma ka go phutholosa; di-petole tše dingwe di re 'beu ya dinotswa'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "תלמדני",
+      "rationale": "'o tla m ruta' (KJW) kgotalo le 'yena yo a m rutilego' — go swana le beke ya 3:11; go ka ba gore ke mme yena yo a rutilego"
+    }
+  ],
+  "translation": "Ke tla go taela, ke tla go isiša ⟨go⟩ ntlong ya mme wa ka; o tla m ruta; ke tla go nwesa beu e nang le kgamo, le moumo wa granadille ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4681abec20a1bb380eb99c89cdb81178bbedde8ecf8f3c17fcac4d09fb6b634a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/8\/1-4.1792301059938.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנהגך",
+      "gloss": "ke tla go taela"
+    },
+    {
+      "surface": "אביאך",
+      "gloss": "ke tla go isiša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mme wa ka"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "o tla m ruta"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "ke tla go nwesa"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "beu"
+    },
+    {
+      "surface": "הרקח",
+      "gloss": "e nang le kgamo"
+    },
+    {
+      "surface": "מעסיס",
+      "gloss": "moumo"
+    },
+    {
+      "surface": "רמני",
+      "gloss": "granadille ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:24:19.939673135Z",
+  "model": "glm-5.3"
+}

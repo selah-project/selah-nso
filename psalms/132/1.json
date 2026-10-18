@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "—",
+      "rationale": "Sepedi e nyaka gobolokga gare ga leina la Yahwe le Dafida; Seheberu se e hlokomologa"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "bolediši bjo bo rwala leina la Yahwe ka go kopa gore a gopole Dafida"
+    }
+  ],
+  "translation": "Pina ya go swarurwa. Gopola, Yahwe, Dafida — ⟨את⟩ mahloko a hae ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "50160d280066b0494859aabfcbb8bb1f0ae07e90f934b48a4e3f5fdb316ab3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/132\/1-4.1792298924685.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya go swarurwa"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "gopola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mahloko a hae ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "mahloko a hae"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:44.685926192Z",
+  "model": "glm-5.3"
+}

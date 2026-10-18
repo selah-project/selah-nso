@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יתענג",
+      "rationale": "literal 'be soft\/pliable', rendered as ikgantša (delight oneself), the idiom 'set delight upon'"
+    },
+    {
+      "kind": "addition",
+      "subject": "A",
+      "rationale": "interrogative carried by אם as 'whether', Sepedi needs A"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יקרא\/קרא",
+      "rationale": "'call upon' echoes Job's earlier cries; the hypocrite does not call — the question turns the verb of prayer back on him"
+    }
+  ],
+  "translation": "A o tla ikgantša ⟨go⟩ Shadai, go bitša Eloha ka nako e nngwe le e nngwe?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ccbccb2e2c41536aa751dfafd3848cdec86b46492907c4f53c3873ce4891327a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/27\/9-10.1792305385890.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "A"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨go⟩"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "o tla ikgantša"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "go bitša"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka nako e nngwe le e nngwe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ka nako e nngwe le e nngwe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:25.891617255Z",
+  "model": "glm-5.3"
+}

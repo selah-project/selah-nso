@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ama masomehlano ka masometharo",
+      "rationale": "Diteko tša poroko — botelele le bophara ka ama."
+    },
+    {
+      "kind": "crux",
+      "subject": "ועב",
+      "rationale": "Kotashe-kgodimo (architrave) — KJV 'thick beam', ASV 'threshold', YLT 'thick place'; lentšu le ikgetha."
+    }
+  ],
+  "translation": "Gomme a dira ⟨את⟩ poroko ya dikholomo: botelele bja yona ama ye masomehlano, bophara bja yona ama ye masometharo; gomme poroko e be pele ga tšona; gomme dikholomo le phaphathi e boima di be godimo ga tšona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "80774aa0fc9c3e3325445f167fc38a2066a4e349aecdf7eb791a0d16eb22e95e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/7\/5-8.1792289775887.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "poroko ya dikholomo"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "poroko"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ya dikholomo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masomehlano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "botelele bja yona"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "gomme masometharo"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "bophara bja yona"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "gomme poroko"
+    },
+    {
+      "surface": "על",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "tšona"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "gomme dikholomo"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "le phaphathi e boima"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:16:15.888430667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,118 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 17:20",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "noka-nyana ya meetse",
+      "rationale": "מיכל המים is literally 'the little stream of the waters' — a small watercourse, not necessarily a brook."
+    },
+    {
+      "kind": "you",
+      "subject": "ba re: Akhimaatse le Yehonatane ba kae?",
+      "rationale": "Direct question addressed to the woman."
+    }
+  ],
+  "translation": "Gomme bahanka ba Abeshalome ba fihla go mosadi ntlong, ba re: Akhimaatse le Yehonatane ba kae? Gomme mosadi a re go bona: Ba fetile noka-nyana ya meetse. Gomme ba nyaka, ga ba hwetše, ba boela Yerushalayime.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2d71b50cd8a9e2a9e26b4079c477a1c0cea2e3e4995c5486c2e452a11c303ac7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/17\/17-20.1792289214913.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Gomme ba fihla"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bahanka"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ba Abeshalome"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ba kae"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Akhimaatse"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "le Yehonatane"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "Gomme a re"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "Ba fetile"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "noka-nyana"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ya meetse"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "Gomme ba nyaka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "ba hwetše"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba boela"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T02:06:54.914426069Z",
+  "model": "glm-5.3"
+}

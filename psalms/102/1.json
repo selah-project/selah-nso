@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "poeletšo",
+      "rationale": "שיח ke bothoko bja go nagana le go bolela — phetolelo ya 'complaint' (JPS) e bolela se sengwe; 'meditation' (Geneva) ke se sengwe gape"
+    },
+    {
+      "kind": "alternative",
+      "subject": "a aparetšwe ke bofokodi",
+      "rationale": "יעטף le ka balwa 'ge a apara [lesela]' ka go latela tlhalošo ya 'go aparetša'; mo go tšewa gore go aparetšwe ke bofokodi"
+    }
+  ],
+  "translation": "Thapelo ya yo a sotlego, ge a aparetšwe ke bofokodi, gomme a tšollele pele ga Yahwe poeletšo ya gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/102\/1-4.1792298566364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Thapelo"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ya yo a sotlego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "a aparetšwe ke bofokodi"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "gomme pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "a tšollela"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "poeletšo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:46.365413813Z",
+  "model": "glm-5.3"
+}

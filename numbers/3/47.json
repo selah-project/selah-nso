@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 3:47",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dišhekele tše hlano",
+      "rationale": "Dikelo tše di hlaka — hlano tše di shekeleng ka motho, šhekele ya bokgethwa e lego magare a masomepedi a gera."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bokgethwa",
+      "rationale": "הקדש e fetotšwe go 'bokgethwa' go ya le tafola D2 — e sego 'halalela' ya Sesotho."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמשת חמשת",
+      "rationale": "Phetišetšo ya lentšu 'hlano-hlano' e laetša dikelo tša go ba gona ga motho e mongwe le e mongwe."
+    }
+  ],
+  "translation": "gomme o tla tšea dišhekele tše hlano le tše hlano motho e mongwe le e mongwe; ka šhekele ya bokgethwa o tla e tšea — šhekele ke magare a masomepedi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "bd19ee9b43891fceb79caca58f17e6c3095e67e85bd80afa6d3076cad404b503",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/3\/45-48.1792284426277.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "gomme o tla tšea"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "tše hlano"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "le tše hlano"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "dišhekele"
+    },
+    {
+      "surface": "לגלגלת",
+      "gloss": "motho e mongwe le e mongwe"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ka šhekele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya bokgethwa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "o tla e tšea"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masomepedi"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "a gera"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "šhekele"
+    }
+  ],
+  "timestamp": "2026-10-18T00:47:06.278412763Z",
+  "model": "glm-5.3"
+}

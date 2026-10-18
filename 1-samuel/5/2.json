@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yona",
+      "rationale": "Sepedi e nyaka sebopego sa 'ba tsenya ⟨את⟩ yona' — seuti se kopantšwe le ⟨את⟩"
+    }
+  ],
+  "translation": "Gomme Ba-Pelisiti ba kgomile ⟨את⟩ aitare ya Elohim, ba tsenya ⟨את⟩ yona ntlong ya Dagoni, ba bea ⟨את⟩ yona ka thoko ga Dagoni.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/5\/1-4.1792287951511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "ba kgomile"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Pelisiti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aitare"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aitare"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "ba tsenya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "aitare (yona)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong ya"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagoni"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "ba bea"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "aitare (yona)"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "ka thoko ga"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagoni"
+    }
+  ],
+  "timestamp": "2026-10-18T01:45:51.512465065Z",
+  "model": "glm-5.3"
+}

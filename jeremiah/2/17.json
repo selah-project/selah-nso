@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Yisraele",
+      "rationale": "Question addressed directly to Jerusalem\/Yisraele about her own forsaking of Yahwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go se dirilwego",
+      "rationale": "תעשה לך is literally 'do to yourself' — the procuring is reflexive; 'dira go wena' keeps the reflexive shape."
+    }
+  ],
+  "translation": "A ga se se o se dirilwego go wena, ka gobane o tlogetše ⟨את⟩ Yahwe Elohim wa gago, ka nako yeo a go tsego ka tsela?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "82885541c6f21ed67d46aec70e3efca3f7618696944013cd0cfcb3e6fd9363cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/2\/17-20.1792292681244.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "a ga se"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o se dirilwego"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "o tlogetše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako yeo"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "a go tsego"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela"
+    }
+  ],
+  "timestamp": "2026-10-18T03:04:41.244943955Z",
+  "model": "glm-5.3"
+}

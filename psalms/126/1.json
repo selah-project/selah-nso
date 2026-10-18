@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 126,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שיבת",
+      "rationale": "'Boelo' (go boela) kgahlanong le 'magolegwa' — Baebele dintlha tše pedi tša šupa go tiragalo ya go boa go tšwa bolelong."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שוב\/שיבת",
+      "rationale": "Go boelediša ga modu o tee (shuv\/shivat) go hlalosa botseno — se se la tlala ga se bonyale ka Sepedi."
+    },
+    {
+      "kind": "elision",
+      "subject": "המעלות",
+      "rationale": "'Ya maemos' ke sehlogo sa psalme ye, se se fetotšwego go ba lentšu la kgatišo."
+    }
+  ],
+  "translation": "Pina ya maemo. Ge Yahwe a boeletša ⟨את⟩ boelo bja Tsione, re be re bjalo ka bao ba lapolago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "798ea3a92aec631aa94802c46f21659af8b3879b66171e9128c6eba126b5d4e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/126\/1-4.1792298977034.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya maemo"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "Ge … a boeletša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boelo bja Tsione"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "boelo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "re be"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "re bjalo ka bao ba lapolago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:37.034563841Z",
+  "model": "glm-5.3"
+}

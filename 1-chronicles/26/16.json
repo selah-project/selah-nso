@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 26:16",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "שלכת",
+      "rationale": "Šalekete — leina la kgoro le le tlago fela mo, go tšwa šlk 'go lahla'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "משמר לעומת משמר",
+      "rationale": "'Mošomo o lebane le mošomo' — thwii 'thwalo e lebane le thwalo': mošomo wa go latedišana, o mongwe le o mongwe a lebane le wa mopalami."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לעמת משמר",
+      "rationale": "Boeletšo bja משמר bo bopa sebopego sa go boelela — pontšho ya go šoma ga bahlanka ba kgoro ka bobedi."
+    }
+  ],
+  "translation": "Go Šupime le go Kosa bodikela, le kgoro ya Šalekete, tseleng ye e tlago godimo; mošomo o lebane le mošomo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f893e0460d07e0f466b60f049b3ad836fd4f06ad556f7cc24d6e9e4b69feb530",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/26\/13-16.1792303430518.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לשפים",
+      "gloss": "go Šupime"
+    },
+    {
+      "surface": "ולחסה",
+      "gloss": "le go Kosa"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "bodikela"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שער",
+      "gloss": "kgoro ya"
+    },
+    {
+      "surface": "שלכת",
+      "gloss": "Šalekete"
+    },
+    {
+      "surface": "במסלה",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "ye e tlago godimo"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "o lebane le"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "mošomo"
+    }
+  ],
+  "timestamp": "2026-10-18T06:03:50.519518965Z",
+  "model": "glm-5.3"
+}

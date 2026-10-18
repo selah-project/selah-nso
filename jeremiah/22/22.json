@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 22:22",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תרעה",
+      "rationale": "Raditaba di a fapana: 'ruakh e tla dula badisa' (go ja bjalo ka diphologolo), 'e tla ba fediša', goba 'e tla ba phatlalatša'; lentšu le tee la go dula lwakwe le šumišwa."
+    },
+    {
+      "kind": "elision",
+      "subject": "ka bohle",
+      "rationale": "כל ke karolo ya lentšu la pele; Sepedi se se hloka go le hlalosa ka boela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעיך · רעתך",
+      "rationale": "Go tšwa le go boa ga modyulu רע — 'badisa' (רעיך) le 'boleng' (רעתך): badisa ba gago le boleng ba gago di apolana; se se lahlegile ka Sepedi."
+    }
+  ],
+  "translation": "Ruakh e tla dula badisa ba gago ka bohle, gomme bao ba go ratago ba tla ya botshelelong; gobane ka nako yeo o tla swa mahari gomme o tla nyadifatwa ka baka la boleng ba gago ka bohle.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f30bdfacf814a6fb61166f402ed87f0688a5868da1959a1890c7653e347e5b16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/22\/21-24.1792293312653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka bohle"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "badisa ba gago"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "e tla dula"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ומאהביך",
+      "gloss": "gomme bao ba go ratago"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "botshelelong"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ba tla ya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ka nako yeo"
+    },
+    {
+      "surface": "תבשי",
+      "gloss": "o tla swa mahari"
+    },
+    {
+      "surface": "ונכלמת",
+      "gloss": "gomme o tla nyadifatwa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "boleng ba gago"
+    }
+  ],
+  "timestamp": "2026-10-18T03:15:12.654821784Z",
+  "model": "glm-5.3"
+}

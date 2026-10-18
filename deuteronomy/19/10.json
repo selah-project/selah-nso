@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "madi",
+      "rationale": "דמים e le kgethišo ya madi — bontši bja Seheberu bja go bolela madi a motho"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "aleph-tav ya Seheberu e lokollotšwe fela mo go נחלah — ga go ⟨את⟩ yeo e nago le tokomane ya token"
+    }
+  ],
+  "translation": "eupša madi a hlwekilego a se ke a efolwa gare ga lefase la gago, leo Yahwe Elohim wa gago a go fileng ⟨את⟩ lefato; gomme madi a tla ba go wena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4531df5ee5afc40666663fe120caa595057588c3bb70abc79d9329dd61003470",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/19\/9-12.1792286023629.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "eupša a se ke a"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "a efolwa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "a hlwekilego"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "lefase la gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a go fileng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "lefato"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme a tla ba"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "madi"
+    }
+  ],
+  "timestamp": "2026-10-18T01:13:43.630726306Z",
+  "model": "glm-5.3"
+}

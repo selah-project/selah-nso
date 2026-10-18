@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ned",
+      "rationale": "כנד (hapax) — dumelelana e tšwa go נד (mothapo wa meetse); diphetholelo di fapana: mothapo goba mošomo"
+    },
+    {
+      "kind": "hapax",
+      "subject": "כנד",
+      "rationale": "Lentšu le le la Šepete fela mo, le bitšwa ka botlalo bjalo ka mothapo wa meetse"
+    }
+  ],
+  "translation": "o kgoboketše bjalo ka mošomo meetse a lewatle, a bea mekgobotlwana ya bonolo ka diphallelong tša gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9d65857068bb7b3baf01a688d717f2ae89ab965a75f3140f46a8c32153b93467",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/5-8.1792297519081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "o kgoboketše"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "bjalo ka mošomo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "meetse a"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "ka diphallelong tša"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "mekgobotlwana ya bonolo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:19.082139565Z",
+  "model": "glm-5.3"
+}

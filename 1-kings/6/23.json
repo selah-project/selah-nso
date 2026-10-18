@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 6:23",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mehlare ya muni",
+      "rationale": "עצי שמן ke 'mehlare ya mafura' — muni (olive) ke mohlala wo o amogetšwego"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ama tše lesome",
+      "rationale": "go lekanywa bohare bja dikerube ka ama (cubits)"
+    },
+    {
+      "kind": "crux",
+      "subject": "קומתו",
+      "rationale": "bontši 'dikerube' bja bolela botee 'godimo ga wona' — go swanetše go swana le botee"
+    }
+  ],
+  "translation": "Gomme go Debire a dira dikerube tše pedi tša mehlare ya muni, godimo ga tšona e le ama tše lesome.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d01613b6bed134d9b887c1db815d804771c1f7842882b93b9435517ea1e68911",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/6\/21-24.1792289679740.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "בדביר",
+      "gloss": "go Debire"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tše pedi"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "dikerube"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "tša mehlare"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ya muni"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tše lesome"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "godimo ga tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:14:39.741305515Z",
+  "model": "glm-5.3"
+}

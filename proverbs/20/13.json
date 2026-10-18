@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "verse",
+      "rationale": "Imperative address to the reader: 'do not love sleep... open your eyes'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "fela o hloka",
+      "rationale": "תורש is literally 'be dispossessed\/driven out and possessed by another', rendered as coming to poverty."
+    }
+  ],
+  "translation": "O se ke wa rata go robala, gore o se ke wa fela o hloka; bula mehlebo ya gago, o tle wa khotla ⟨את⟩ bogobe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e56e36a94c9352ec6af22904d780c48416026730c019a8961dbf9993ce4a97a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/20\/13-16.1792299631533.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "rata"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "go robala"
+    },
+    {
+      "surface": "פן",
+      "gloss": "gore o se ke wa"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "fela o hloka"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "bula"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mehlebo ya gago"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "o tle wa khotla"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:31.534279127Z",
+  "model": "glm-5.3"
+}

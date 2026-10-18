@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 13:30",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עלה נעלה",
+      "rationale": "Puiso ya go bušetela — 'go ya godimo, re ya godimo' — mafoko a mabedi a tšwa modimong o tee; ka Sepedi go boela ga lentšu go bolokwa."
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Yisraele",
+      "rationale": "Kalebe o bolela a lebiša lentšu go setšhaba, mo potong ya sehlogo sa go ba kgothaletša."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וירשנו",
+      "rationale": "ירש o bolela go ntšha badudi ba peleng le go ba mong; 'go hlapoletša"
+    }
+  ],
+  "translation": "Gomme Kalebe a thomola ⟨את⟩ setšhaba go ya go Moshe, a re: A re swarang, re ya godimo, gomme re tla e hlapoletša ⟨את⟩; ka gobane re ka e kgona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "74981d40120b5fc08c207594df6e041d32164833b8dbfc0bdab3308e8d37e936",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/13\/29-32.1792284746938.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהס",
+      "gloss": "a thomola"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "A re swarang, re ya godimo"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "re ya godimo"
+    },
+    {
+      "surface": "וירשנו",
+      "gloss": "re tla e hlapoletša"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "re ka"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "e kgona"
+    },
+    {
+      "surface": "לה",
+      "gloss": "e"
+    }
+  ],
+  "timestamp": "2026-10-18T00:52:26.939163453Z",
+  "model": "glm-5.3"
+}

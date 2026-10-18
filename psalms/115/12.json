@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יברך ×3",
+      "rationale": "triple repetition of 'bless' — rhetorical crescendo"
+    },
+    {
+      "kind": "crux",
+      "subject": "זכרנו tense",
+      "rationale": "perfect 'o re gopola' (has remembered) vs versions taking it as present\/future 'is mindful'"
+    }
+  ],
+  "translation": "Yahwe o re gopola; o tla latofatša — o tla latofatša ⟨את⟩ legae la Yisraele, o tla latofatša ⟨את⟩ legae la Aharone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8c8b486acabcd6c65fbb9711d225a56314fbaa84265560a66c475cee8e99090a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/115\/9-12.1792298759272.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "o re gopola"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tla latofatša"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tla latofatša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legae la Yisraele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "legae la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tla latofatša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legae la Aharone"
+    },
+    {
+      "surface": "בית",
+      "gloss": "legae la"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:59.273166723Z",
+  "model": "glm-5.3"
+}

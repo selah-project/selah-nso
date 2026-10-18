@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sekgopi",
+      "rationale": "אזן ke 'bophara' — sekgopi ke lentšu la Sepedi la go kwa"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Bonang",
+      "rationale": "הן e bitša mmadi — 'Bonang' e bitša setšhaba go theetlela"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yuda",
+      "rationale": "seteishene se bolela le setšhaba sa Yuda se ilego swarwa"
+    }
+  ],
+  "translation": "Bonang, seatla sa Yahwe se a se nne se kopetšwe, se kgona go phologelwa, gomme sekgopi sa gagwe se a se nne se boima, se kgona go kwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "04429048d6d647fe72b013c68146140c067f55770dccbbc112988908a49eed58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/59\/1-4.1792292521780.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "e a se nne e kopetšwe"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "go phologelwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "e a se nne e boima"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sekgopi sa gagwe"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "go kwa"
+    }
+  ],
+  "timestamp": "2026-10-18T03:02:01.780956629Z",
+  "model": "glm-5.3"
+}

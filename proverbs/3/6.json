@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Sesotho sa Leboa se nyaka tamolao ye e sa gona go Seheberu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mo tsebe",
+      "rationale": "דעהו e bolela 'go mo tseba', e sego fela 'go mo tsebisa' — tsebo e tswelelapela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרכיך\/ארחתיך",
+      "rationale": "Mantšu a mabedi a 'tsela' a bopa mpsha ya go swana — phetolelo e bolokile moputso ka go šomiša 'ditsela' ka bobedi."
+    }
+  ],
+  "translation": "Ditseleng tša gago ka moka mo tsebe ⟨o⟩, gomme ⟨o⟩ o tla go lokiša ditsela tša gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "560062527fb27e3860896ed6c66d96e8a9a0dc589c340ce18779c78c1570302d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/3\/5-8.1792299189163.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ditseleng tša gago"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "mo tsebe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "gomme ⟨o⟩ o"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "tla go lokiša"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "ditsela tša gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:53:09.164444461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "še šupa",
+      "rationale": "Palo ya boleng bjo bo feletšego — go wa ga yo a lokilego go balwa ka dinako tše šupa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יפול\/יכשלו",
+      "rationale": "Go wa ga yo a lokilego (go wa gomme go thoma) kgahlanong le go thothomela ga ba bobe (go wa go sa boa) — phapano e bolokilwe."
+    }
+  ],
+  "translation": "Ka gobane yo a lokilego o wa dinako tše šupa gomme o thoma; gomme ba bobe ba thothomela ka bobe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "df8f5789cc2fc7e8ad7ccdf54fc09b2aa73ad435dd0b112bc89e8ba8f5c41659",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/24\/13-16.1792299833101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "dinako tše šupa"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "o wa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a lokilego"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "gomme o thoma"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "gomme ba bobe"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ba thothomela"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ka bobe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:03:53.102866508Z",
+  "model": "glm-5.3"
+}

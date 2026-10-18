@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "a tšwarwe",
+      "rationale": "יתפשו read as passive\/jussive 'let him be caught' (KJV, ASV) vs YLT's indicative 'they are caught'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "a tukela",
+      "rationale": "ידלק literally 'to flame' — 'hotly pursue'; fire picture kept with 'tukela' (burns after)."
+    }
+  ],
+  "translation": "Ka bopharwa bja molato mohlokwa a tukela; a tšwarwe ka dikakanyo tšeo a di hlamišitšego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "64b7c75c8ddef3e9eb6a115d81ce206838af1db8d70ce08a7d5c22a9f9020d50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/10\/1-4.1792297275444.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "Ka bopharwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "bja molato"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "a tukela"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mohlokwa"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "a tšwarwe"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "ka dikakanyo"
+    },
+    {
+      "surface": "זו",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "a di hlamišitšego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:15.444911804Z",
+  "model": "glm-5.3"
+}

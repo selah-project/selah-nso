@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויפשחני",
+      "rationale": "Lentšu le tee la Seheberu 'la go gasa dikarolo' — Sepedi se nyaka mantsu a mabedi, a kgokagantšwego ka gomme."
+    },
+    {
+      "kind": "elision",
+      "subject": "שמם",
+      "rationale": "Boemo fela, se sa bitswago — 'le lehuve' e tlaleletša copula yeo Seheberu se se nago yona."
+    }
+  ],
+  "translation": "Ditsela tša ka o di thibetše, gomme o ntšhatše dikarolwana, o beile ⟨את⟩ ke le lehuve.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "00ecde460e6c6b06ebcfcf155c764a06b40c98997c028415c3d023e979bd0292",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/3\/9-12.1792301142961.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela tša ka"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "o di thibetše"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "omme o ntšhatše dikarolwana"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "o beile ⟨את⟩"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "le lehuve"
+    }
+  ],
+  "timestamp": "2026-10-18T05:25:42.961928265Z",
+  "model": "glm-5.3"
+}

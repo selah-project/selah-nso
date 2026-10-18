@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 26:10",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go ya",
+      "rationale": "Seheberu se na le בית יהוה fela ka morago ga go namile; Sepedi se nyaka thaetlele ya go sepela, yeo e okeditšwego ka ⟨go ya⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "שרי",
+      "rationale": "šar = motho yo a kgethegilego; baetapele (baetapele) ke lekanyetso la boemedi, e sego leina le le nopotšwego letee"
+    }
+  ],
+  "translation": "Gomme baetapele ba Yuda ba kwa ⟨את⟩ mantšu a, gomme ba namile go tšwa ntlong ya kgoši go ya ntlong ya Yahwe, gomme ba dula mo mongwaong wa kgoro ye mpsha ya Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b5d783565c73a008fcc4f7706d8b3fb6529a60c3d0cd5fa266279d3f7a0d97e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/26\/9-12.1792293458644.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "gomme ba kwa"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "baetapele"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantšu a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "gomme ba namile"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "go tšwa ntlong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgoši"
+    },
+    {
+      "surface": "בית",
+      "gloss": "go ya ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "gomme ba dula"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "mo mongwaong"
+    },
+    {
+      "surface": "שער",
+      "gloss": "wa kgoro"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ye mpsha"
+    }
+  ],
+  "timestamp": "2026-10-18T03:17:38.645372552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Mmopi",
+      "rationale": "בעשיו mo go ye ke 'go Mošomi wa yena' ka go hlaka; 'Mmopi' ke tlhalošo ya sebopego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמח\/יגילו",
+      "rationale": "Dintlha tše pedi tša go thaba tša go boelediwa; phapang ye nnye e lahlegile go Sepedi"
+    }
+  ],
+  "translation": "Yisraele a thabe go Mmopi wa yena; bana ba Tsiyone ba thabe-go-kgahlwa go kgoši ya bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/149\/1-4.1792299110260.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "a thabe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "go Mmopi wa yena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ba Tsiyone"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ba thabe-go-kgahlwa"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "go kgoši ya bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:50.261267018Z",
+  "model": "glm-5.3"
+}

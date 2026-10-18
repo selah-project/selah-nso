@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 111,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "kopu ya Sepedi ye Seheberu e sa e ngoago"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨tšona⟩",
+      "rationale": "עשיהם e na le sehlodi sa bontši fela se se ngwadišago; Sepedi e nyaka thušo"
+    },
+    {
+      "kind": "crux",
+      "subject": "עשיהם",
+      "rationale": "'ba dirago' — sešupo se sa laela seo; KJV e oketša 'melawana ya gagwe', Seheberu se sa se bolelgo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "sehlale se sebotse",
+      "rationale": "ditemana tša 111 di a thaka ka dikanetšo; go huduga ga se go bolokwa ka go rulaganya dikanetšo"
+    }
+  ],
+  "translation": "Mathomokgomo a bohlale ⟨ke⟩ go tšhaba Yahwe; sehlale se sebotse go ba ka moka bao ba dirago ⟨tšona⟩; keteko ya gagwe eme go fihla le lekatleko.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3d0d79f417cfc063cb98df650bd48ac96a0a54a77425f65a217d1ebd36307cb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/111\/9-10.1792298711801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "mathomokgomo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "go tšhaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "sehlale"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se sebotse"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ba ka moka"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "bao ba dirago"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "keteko ya gagwe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "eme"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "go fihla le lekatleko"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:11.802104857Z",
+  "model": "glm-5.3"
+}

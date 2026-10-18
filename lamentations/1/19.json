@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 1:19",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש here is life-force\/appetite, not 'soul'; 'moya' keeps the breath-of-life sense."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גועו \/ וישיבו את נפשם",
+      "rationale": "'they expired' vs 'they bring back their life' — grim juxtaposition: seeking food to revive while dying, lost in Sepedi."
+    }
+  ],
+  "translation": "Ke bileleditše bao ke ba ratago, bona ba mfošitše; baperisita ba ka le bagolo ba ka motsewo ba huduletše moya; ka gobane ba nyakile dikobo go bona, gomme ba bušeditše ⟨את⟩ moya wa bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b6d838e68d376c7966ba354f7d79a3fc7ae665900c485c2290e6d0aed777290c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/1\/17-20.1792301217199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ke bileleditše"
+    },
+    {
+      "surface": "למאהבי",
+      "gloss": "bao ke ba ratago"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "רמוני",
+      "gloss": "ba mfošitše"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "baperisita ba ka"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "le bagolo ba ka"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motsewo"
+    },
+    {
+      "surface": "גועו",
+      "gloss": "ba huduletše moya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ba nyakile"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "dikobo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "gomme ba bušeditše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moya wa bona"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "moya wa bona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:26:57.200259457Z",
+  "model": "glm-5.3"
+}

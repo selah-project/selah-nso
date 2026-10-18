@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 52:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "golwa",
+      "rationale": "גאל ke molao wa mabja — go golwa ke mogolekani; Sepedi ga se na lentšu le tee la wona, 'go golwa' ke kgauswi."
+    },
+    {
+      "kind": "you",
+      "subject": "go setšhaba sa Yisraele",
+      "rationale": "Yahwe a bolela le setšhaba ka bobedi bja dipalo tše dintši."
+    }
+  ],
+  "translation": "Gobane go bolela Yahwe: le kgwebišitšwe mahala, gomme ga se ka silibera le tla golwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "82878627cbc51c07e9aaf9b90461175ba057fe9592f8c0fb9318309ff589c8eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/52\/1-4.1792292390998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "go"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "le kgwebišitšwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga se ka"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "תגאלו",
+      "gloss": "le tla golwa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:50.999692076Z",
+  "model": "glm-5.3"
+}

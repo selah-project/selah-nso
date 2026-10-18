@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na kopanyi; Sepedi se e nyaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לי… לו",
+      "rationale": "Kgwarano ya 'wa ka \/ wa yena' — sebopego sa go agana se se theilwego godimo ga dipego tša lente"
+    }
+  ],
+  "translation": "Ya ratwago ya ka ke ⟨wa ka⟩, gomme nna ke ⟨wa yena⟩; yo a fulago gare ga dithunya tše šweu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bd3493168025ecb6e5d4595580375f36c28be81abe3c704484593b3a3243cf76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/2\/13-16.1792300915252.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "ya ratwago ya ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ke wa ka"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ke wa yena"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "yo a fulago"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "gare ga dithunya tše šweu"
+    }
+  ],
+  "timestamp": "2026-10-18T05:21:55.253794355Z",
+  "model": "glm-5.3"
+}

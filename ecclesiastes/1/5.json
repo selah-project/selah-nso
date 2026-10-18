@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שואף",
+      "rationale": "'go ikgeretše' (go hema ka moya ka tlhohole) kgahlanong le 'go isa mekgwatlwa' (KJV hasteth); tlhalo ya motheo ke go hema ka moya."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "זרח…זורח",
+      "rationale": "Leina la go hlaba le bušetšwa mafelelong ya temana — seoke se se theilwego godimo, seo se bolokilwego ka go boela ga 'hlaba'."
+    }
+  ],
+  "translation": "Gomme letsatsi le a hlaba, gomme letsatsi le a wa, gomme le ikgeretše le ya go lefelo la lona; fela le a hlaba gona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7ee817c5897eb9019f5f2eb1e4bead17372d0ec66a5cd051a57637b4597197cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/1\/5-8.1792301392384.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "gomme le a hlaba"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "gomme le a wa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le ya go"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "lefelo la lona"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "le ikgeretše"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "le a hlaba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "fela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:29:52.384882437Z",
+  "model": "glm-5.3"
+}

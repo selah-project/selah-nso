@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "botshepegi",
+      "rationale": "אמונה ke 'botenya, botsitso' — go swana le botenya bja poledišano, e sego tumelo fela"
+    },
+    {
+      "kind": "elision",
+      "subject": "חסדי",
+      "rationale": "Seheberu ga se na selaedi 'ya' — sehlopha sa dihesede se akaretša ka go sepelwa ka tsela ya bontši"
+    },
+    {
+      "kind": "measurement",
+      "subject": "molokong le molokong",
+      "rationale": "Go bala meloko go latelana — sebopego sa nako seo sefoko se se bolelgo"
+    }
+  ],
+  "translation": "Hesede ya Yahwe ka nako e sa felego ke tla di opela; molokong le molokong ke tla tsebiša botshepegi bja gago ka molomo wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "00677826807f8ef4eb285ebc5735edd95335c06db53b37ecefb1a35daed13445",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/1-4.1792298381556.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "hesede ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ka nako e sa felego"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla di opela"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "molokong"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le molokong"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ke tla tsebiša"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "botshepegi bja gago"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ka molomo wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:41.556777161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke \/ go",
+      "rationale": "Sepedi e nyaka copula le sehlodi seo Seheberu se se senago"
+    },
+    {
+      "kind": "crux",
+      "subject": "אאזרך",
+      "rationale": "'go rafera' (mokgwa wa molomo) kgahlanong le 'go matlafatša' goba 'go kgapeletša' — balaodi ba fapana"
+    },
+    {
+      "kind": "you",
+      "subject": "Koreso",
+      "rationale": "Yahwe o bolela le kgoši ya Persia, yo a sa mo tsebego"
+    }
+  ],
+  "translation": "Nna ke Yahwe, gomme go ⟨ke⟩ fela; ntle le nna ga go ⟨go⟩ na Elohim; ke tla go rafera ⟨את⟩ wena, gomme o ka se nthabe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a2319d47bf10e5600081d6627eb87009091f23f577112c5d2b1cfb5b64ecdd40",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/45\/5-8.1792292286825.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme ga go na"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "selo se sengwe"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ntle le nna"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ke tla go rafera"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o sa"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "tsebe nna"
+    }
+  ],
+  "timestamp": "2026-10-18T02:58:06.825847184Z",
+  "model": "glm-5.3"
+}

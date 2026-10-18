@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yo⟩",
+      "rationale": "Seheberu se se na seba, Sepedi se se nyaka go lebakaše go bona."
+    },
+    {
+      "kind": "crux",
+      "subject": "ממרחק יידע",
+      "rationale": "Go tseba go thoko kgolo — go ka ba go itše go se kgotsofale kgahlanong le go bona ga kgauswi."
+    }
+  ],
+  "translation": "Ka gobane Yahwe o phahametše, eupša o bona ⟨yo⟩ a fologilego; gomme o tseba mokgohompana go thoko kgolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/138\/5-8.1792299025967.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "רם",
+      "gloss": "o phahametše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "a fologilego"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "o bona"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "mokgohompana"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "go thoko kgolo"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "o tseba"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:25.969399144Z",
+  "model": "glm-5.3"
+}

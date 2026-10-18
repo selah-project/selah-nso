@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 23:7",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kgobokanyo",
+      "rationale": "כלי ke sedirišwa\/sebeka — 'kgobokanyo' e swara ka seatla; e ka ba gape e bolela sedirišwa se sengwe le se sengwe."
+    },
+    {
+      "kind": "crux",
+      "subject": "את המלך (v7)",
+      "rationale": "את ya bobedi e ka ba 'le kgoši' goba mosaia wa go swaya kgoši — mehlala ya kgale e a fapana."
+    },
+    {
+      "kind": "you",
+      "subject": "go balevi le setšhaba",
+      "rationale": "Taelo ya botši ka go tiišetša kgoši — go laelwa ba reeditswego."
+    }
+  ],
+  "translation": "Gomme balevi ba dikanetše ⟨את⟩ kgoši ka mohlakabela, motho le e kgobokanyo ya gagwe ka seatleng sa gagwe; gomme yo a tsenago ntlheng e tla bolawa; gomme ba dule le ⟨את⟩ kgoši ge a tsena le ge a tšwa.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "8f7d7655baeacddefe05aca29c2d1aea656b8be5652894a7ccccf09ca12fd9c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/23\/5-8.1792304048648.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקיפו",
+      "gloss": "gomme ba dikanetše"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgoši"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka mohlakabela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "וכליו",
+      "gloss": "le e kgobokanyo ya gagwe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ka seatleng sa gagwe"
+    },
+    {
+      "surface": "והבא",
+      "gloss": "gomme yo a tsenago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ntlheng"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlha"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "e tla bolawa"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "gomme ba dule"
+    },
+    {
+      "surface": "את",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "ge a tsena"
+    },
+    {
+      "surface": "ובצאתו",
+      "gloss": "le ge a tšwa"
+    }
+  ],
+  "timestamp": "2026-10-18T06:14:08.649895940Z",
+  "model": "glm-5.3"
+}

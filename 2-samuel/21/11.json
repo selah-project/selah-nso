@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mosadi wa bobedi",
+      "rationale": "פילגש ga se 'mosadi wa pele' — ke mosadi wa bobedi, yo a se nago tokelo ya peo ya lenyalo; Sepedi ga se na lentšu le tee le lokilego."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Šaule",
+      "rationale": "שאול mo ke motho (Saul), e sego Sheole — lentšu le swana le leina la lefifi, fela le ka leina la kgoši fela."
+    }
+  ],
+  "translation": "Mme go begilwe Dafida ⟨את⟩ seo a se dirilego Ritspha morwadia Aya, mosadi wa bobedi wa Šaule.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f0eb2fe791d1a5ee79377e2610ae0b9cb0c6c31662826dd53a3ed5ca8383fb6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/21\/9-12.1792289341489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "go begilwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "seo a se dirilego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "a se dirilego"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "mosadi wa bobedi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaule"
+    }
+  ],
+  "timestamp": "2026-10-18T02:09:01.490345185Z",
+  "model": "glm-5.3"
+}

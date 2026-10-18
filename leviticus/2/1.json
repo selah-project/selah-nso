@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 2:1",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefesh ke moya\/puo ya bophelo, e sego 'moya wa tlhago' fela — moya wo o hemanago"
+    },
+    {
+      "kind": "elision",
+      "subject": "מנחה",
+      "rationale": "minkha e bolokwa ka modumo wa Seheberu go ya le D2; e sego 'mpho' fela"
+    }
+  ],
+  "translation": "Gomme ge moya o tlisa sehlabelo, minkha, go Yahwe, sehlabelo sa gage se tla ba bolelo; gomme a thelela mafura godimo ga sona, a be a bea libona godimo ga sona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1ed7f38f8483914aa16183040be31cb682f3b1ec4df0c29cdc017130667c87c2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/2\/1-4.1792283579801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Gomme moya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "o tlisa"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "bolelo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "se tla ba"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sehlabelo sa gage"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "a thelela"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "godimo ga sona"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "a be a bea"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "godimo ga sona"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "libona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:32:59.801952871Z",
+  "model": "glm-5.3"
+}

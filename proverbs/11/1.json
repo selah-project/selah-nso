@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "selo se se nyefaditšwego",
+      "rationale": "תועבה ke 'toevah' — selo se se hloilwego; 'nyefatšo' e swere kgauswi le bokao"
+    },
+    {
+      "kind": "crux",
+      "subject": "שלמה",
+      "rationale": "šalem: 'leswika leo boikgantšo-bophara bjalo ka leina' kgahlanong le 'leswika le phethilego\/le nago boikgantšo bjo phethilego'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "loso",
+      "rationale": "רצון ke 'rerotšego-thato' — khlologo ya motheo; 'loso' ke khlologo ya mošomo"
+    }
+  ],
+  "translation": "Dikalakala tša mafelelo ke selo se se nyefaditšwego go Yahwe, gomme leswika la boikgantšo-bophara le ⟨ke⟩ loso la gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "63d83c8e6d48e81c570f6aa8664cb0f6a93bb39b9ba2312fbfca03e5d2e79420",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/11\/1-4.1792299399238.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "dikalakala tša mafelelo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mafelelo"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "selo se se nyefaditšwego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "gomme leswika"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "la boikgantšo-bophara se se phethilego"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "loso la gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:56:39.239385310Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "זכור תזכור",
+      "rationale": "infinitive-absolute + verb: 'remembering you shall remember' — emphatic doubling, flattened to 'ka botlalo'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "pronoun supplied: the doubled verb is impersonal, Sepedi needs an explicit subject"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pelo",
+      "rationale": "נפש again rendered 'pelo'; literally 'my throat\/self sinks down upon me'"
+    }
+  ],
+  "translation": "Go gopola, ⟨o⟩ gopole ka botlalo, gomme pelo ya ka e namela ka go nna.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5434ad4564492120d9dac1ac58a516bb98fcdbbfa5c631b72b52eda56d30439e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/3\/17-20.1792301175085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "go gopola"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "⟨o⟩ gopole ka botlalo"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "gomme e namela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka go nna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:26:15.086123388Z",
+  "model": "glm-5.3"
+}

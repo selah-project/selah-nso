@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "peu",
+      "rationale": "zera' = 'peu', e beilwe bjalo ka yona e sego 'bana'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "shava\/sheva",
+      "rationale": "go ikana le palo ya šupa di kopantšwe ka lentšu le tee; se se la sehlwa ka Sepedi"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraele",
+      "rationale": "Madio a go Israele, a šupile tumelano ya go bo-ntate bona"
+    }
+  ],
+  "translation": "Bonang, ke beile pele ga lena ⟨את⟩ lefase; tsenang, gomme le e rue ⟨את⟩ lefase leo Yahwe a ikanetšego bo-ntate lona — go Abrahama, go Yitshake, le go Yaakobo — go e fa bona le peo ya bona ka morago ga bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/1\/5-8.1792285526754.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke beile"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "pele ga lena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "באו",
+      "gloss": "tsenang"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "gomme le e rue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "a ikanetšego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "bo-ntate lona"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "go Abrahama"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "go Yitshake"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "le go Yaakobo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "go e fa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "le peo ya bona"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ka morago ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:05:26.755984008Z",
+  "model": "glm-5.3"
+}

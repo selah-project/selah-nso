@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 34:15",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go lalela",
+      "rationale": "זנו e bolela bosenyi bja lenyalo bjalo ka tšwaetšo — Sepedi 'go lalela' boloka sebopego sa go senyega ga kgwerano."
+    },
+    {
+      "kind": "elision",
+      "subject": "מבנתיו",
+      "rationale": "Sehlabelo sa gagwe — a reng o bitšwa, o je seo a se hlabetšego; sebopego se tšwelwa pele ka mohlala wa go ja."
+    }
+  ],
+  "translation": "O se ke wa kgetha kgwerano le mohlamedi wa lefase, gore ba se ke ba lalela morago ga medimo ya bona, ba hlatša go medimo ya bona, a go bitša, o je se hlabelo sa gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ee0715402b3258dedc41e0ed42b2c7c9aa9b1feb58c64b69706f7868f29e4bdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/34\/13-16.1792283235047.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "kgetha kgwerano"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "le mohlamedi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa lefase"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "gore ba lalela morago"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "morago ga"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "medimo ya bona"
+    },
+    {
+      "surface": "וזבחו",
+      "gloss": "ba hlatša"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "go medimo ya bona"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "a go bitša"
+    },
+    {
+      "surface": "לך",
+      "gloss": "o"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "o je"
+    },
+    {
+      "surface": "מזבחו",
+      "gloss": "se hlabelo sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:27:15.048908317Z",
+  "model": "glm-5.3"
+}

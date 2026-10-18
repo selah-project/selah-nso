@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "mphefo ke 'moya\/bophelo' — fa go bolela kelete\/selope sa manaba, e sego moya wa motho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בי",
+      "rationale": "'go nna' ya Seheberu e fetohetše 'kgahlanong le nna' — go ema kgahlanong, e sego go nna ka gare"
+    }
+  ],
+  "translation": "O se ke wa nkabela mphefong ya manaba a ka, ka gobane bopaki bja maaka bo emetše kgahlanong le nna, gomme bo foka tlhaere.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a15f111ed063f4a60cbff3d9e08f3f1035a3842b56f15b1beb4da6db1d082f93",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/27\/9-12.1792297455630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "wa nkabela"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "mphefong"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ya manaba a ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bo emetše"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kgahlanong le nna"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bja maaka"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "gomme bo foka"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tlhaere"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:15.631774881Z",
+  "model": "glm-5.3"
+}

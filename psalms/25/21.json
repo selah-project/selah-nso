@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wena",
+      "rationale": "Sepedi e nyaka leina la motho ka morago ga sebopego; Seheberu se na le -ך fela"
+    },
+    {
+      "kind": "alternative",
+      "subject": "go letetše",
+      "rationale": "קויתיך le bolela gape 'ke tšere tshepo ya ka go wena' — go tšoma le go leta ka moka go lokile"
+    }
+  ],
+  "translation": "Botee le toka a di ntshepele, ka gobane ke go letetše ⟨wena⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d39c11fa390c92cffbb3e01a556c69c05dec81b3b2447a395fcd727d1d73ccf6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/25\/21-22.1792297409985.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "botee"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "le toka"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "a di ntshepele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "ke go letetše ⟨wena⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:29.986422279Z",
+  "model": "glm-5.3"
+}

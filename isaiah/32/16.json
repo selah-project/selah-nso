@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדקה e bolokwa ka modumo go ya ka molao, e sego 'tokomolo' ya Sepedi fela."
+    }
+  ],
+  "translation": "Gomme kahlolo e tla dula lesakeng, le tsedeke e tla nna tšimong ya dimela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/32\/13-16.1792291843771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "Gomme kahlolo e tla dula"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "lesakeng"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "le tsedeke"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "tšimong ya dimela"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "e tla nna"
+    }
+  ],
+  "timestamp": "2026-10-18T02:50:43.772836095Z",
+  "model": "glm-5.3"
+}

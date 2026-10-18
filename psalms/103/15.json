@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ציץ\/יציץ",
+      "rationale": "Thunya le go thunya — lentšu le tee le Agole; Sepedi se boloka kopano ka thunya\/thunya"
+    },
+    {
+      "kind": "substitution",
+      "subject": "motho",
+      "rationale": "אנוש bolela motho yo a swanago go swa, mogwera wa lehu"
+    }
+  ],
+  "translation": "Motho — matšatši a gagwe a bjalo ka morara; a bjalo ka thunya ya sefalala, gomme a sa thunya.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/103\/13-16.1792298529151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "bjalo ka morara"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "matšatši a gagwe"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "bjalo ka thunya"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ya sefalala"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "a thunya"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:09.152470197Z",
+  "model": "glm-5.3"
+}

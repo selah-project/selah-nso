@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 23:21",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "go sienna",
+      "rationale": "און e bolela 'go se nago selo, bothata'; go se nago selo le go sienna ka bobedi di dumelelwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "sehu sa kgoši",
+      "rationale": "תרועת מלך: sehu sa moya wa ntoa goba sehu sa go keteka kgoši; ba fetoledi ba fapana"
+    }
+  ],
+  "translation": "Ga a lebeleloša go sienna go Yaakobo, gomme ga a bona bothata go Yisraele; Yahwe, Elohim wa gagwe, o na le yena, gomme go na le sehu sa kgoši mo go yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e3c246902db6be9805b22e32c164b0e32af72a110a4304c4733a8142bb0ec0b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/23\/21-24.1792285048712.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "a lebeleloša"
+    },
+    {
+      "surface": "און",
+      "gloss": "go sienna"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "go Yaakobo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bothata"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Elohim wa gagwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "o na le yena"
+    },
+    {
+      "surface": "ותרועת",
+      "gloss": "gomme sehu sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go yena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:57:28.713376103Z",
+  "model": "glm-5.3"
+}

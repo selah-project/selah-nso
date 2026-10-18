@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מושל באדם צדיק",
+      "rationale": "go laela motho yo a lokilego goba molaedi yo a lokilego wa motho — bothata bja kopanyo bja mafoko, ditlhopho tše pedi tša meatlhego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "צור",
+      "rationale": "leswika — 'Rock' ya KJV; Sepedi leswika le boloka seswantšho sa botlhale bjo bo sa fetogego"
+    }
+  ],
+  "translation": "Elohim wa Yisraele o ile a re go nna, leswika la Yisraaele le boletše: Molaedi wa motho yo a lokilego, o laela ka go tšaba Elohim.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c277934e0e38c1ec7f1cb3759eae4009c23fb883d4aaffa2975176497c0d45c1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/23\/1-4.1792289454119.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "o ile a re"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "le boletše"
+    },
+    {
+      "surface": "צור",
+      "gloss": "leswika la"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "Molaedi"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a lokilego"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "o laela"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ka go tšaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T02:10:54.120380701Z",
+  "model": "glm-5.3"
+}

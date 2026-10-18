@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Kopula ya Sepedi ye e okeditšwego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mogopodi",
+      "rationale": "המזכיר ka moka e bolela 'yo a gopotsago' — mogopodi, e sego 'mošomi wa mohlapa'"
+    }
+  ],
+  "translation": "Elikhorefe le Akhija, barwa ba Šiša, ⟨ke⟩ bangwadi; Yehošafate morwa wa Akhilude, mogopodi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ab78f783e35bff0ad0c28134b9875f340daa485b0f0fa08f818a35ad6726c74a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/4\/1-4.1792289602867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "Elikhorefe"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "le Akhija"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "Šiša"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "bangwadi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehošafate"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Akhilude"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "mogopodi"
+    }
+  ],
+  "timestamp": "2026-10-18T02:13:22.867885434Z",
+  "model": "glm-5.3"
+}

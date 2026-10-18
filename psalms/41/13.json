@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sefahlego",
+      "rationale": "לפניך ke 'pele ga wena' ka sebopego — 'sefahlego' se okeditšwe go hlalosa sebopego sa lentšu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lekateng",
+      "rationale": "עולם semantically 'sebopego se se utileng' — 'lekateng' (go sa fele) ke moedi o tlwaelegilego"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ka tumi ya ka",
+      "rationale": "JPS e bala בתמי bjalo ka 'ka baka la tumi ya ka' (ka lebaka la), e sego 'ka gare ga tumi ya ka'"
+    }
+  ],
+  "translation": "Gomme nna, ka tumi ya ka o a nthekga, gomme o a ntšepeletša pele ga sefahlego sa gago go fihla lekateng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3593f26d5df36ed03f4821da3686baaf04a5bb73a37c85932cce938e7107cb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/41\/13-14.1792297637590.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Gomme nna"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ka tumi ya ka"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "o a nthekga"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨nna⟩"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "gomme o a ntšepeletša"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga sefahlego sa gago"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla lekateng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:17.591287101Z",
+  "model": "glm-5.3"
+}

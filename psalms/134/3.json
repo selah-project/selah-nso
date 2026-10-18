@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 134,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lebitšo la kgwerano",
+      "rationale": "יברכך ke lebitšo la kgwerano le seka — 'a ka go lokogetša' — Sepedi se nyaka mogomo wo Seheberu se sa o se rego ka botlalo."
+    },
+    {
+      "kind": "you",
+      "subject": "mošomi yo a sa bolelwago leina",
+      "rationale": "Lebitšo le boa go motho a le tee — sibollo sa tlhompho ya setšhaba."
+    }
+  ],
+  "translation": "Yahwe a ka go lokogetša go tšwa Tsiyone, yoo a dirago magodimo le lefase.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9416ce6ae5af9e17335c739a8b2f3510b81a1506037e9a6fc535ce2dfed4d2db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/134\/1-3.1792298911109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "a ka go lokogetša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "go tšwa Tsiyone"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dirago"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "gomme lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:31.110655641Z",
+  "model": "glm-5.3"
+}

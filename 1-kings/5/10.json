@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bohlaña",
+      "rationale": "קדם e bolela bosepela; bana ba bohlaña = batho ba mafase a bosepela"
+    }
+  ],
+  "translation": "Gomme bohlale bja Šelomo bo ile bja feta bohlale bja bana ka moka ba bohlaña, le bohlale bja Mitsrayime kamo ka moka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "fb731ebbbcb892f54cbdc3864d7bf9195565a1dc0c83ffa97c9c18284d178352",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/5\/9-12.1792289709956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "bo ile bja feta"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "bohlale bja"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "go feta bohlale bja"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka bja"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "bohlaña"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "le bohlale bja"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "Mitsrayime kamo ka moka"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-18T02:15:09.957483278Z",
+  "model": "glm-5.3"
+}

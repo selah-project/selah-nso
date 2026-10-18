@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יכרה",
+      "rationale": "keretego ya go hlama (legora) kgahlanong le modudi; baratuwa ba fapana: 'go fihla ge legora le hlamišwa' (KJV\/JPS) kgahlanong le 'go fihla ge modudi a hlama legora'"
+    },
+    {
+      "kind": "hapax-ya-tiragatšo",
+      "subject": "להשקיט",
+      "rationale": "bopelokgathi bja go fapeletša khotšo bo tsošwa pele ka pelong ya psalme ye"
+    }
+  ],
+  "translation": "Go mo fapeletša khotšo matšatšing a mabe, go fihla ge legora le ⟨ka⟩ hlamišwa bakeng sa modudi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c9a08e5c29c1506f3893aaf998809516621aba1058ba6867a065c6c93e25ca0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/94\/13-16.1792298506340.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "go fapeletša khotšo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "matšatšing a"
+    },
+    {
+      "surface": "רע",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla ge"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "le hlamišwa"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "bakeng sa modudi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "legora"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:46.341273411Z",
+  "model": "glm-5.3"
+}

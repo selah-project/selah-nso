@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 15:16",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חמור \/ חמרתים",
+      "rationale": "Go bopeša ga Seheberu: phala (חמור) le dikgobokano (חמרתים, le le kentšwego ka palo-bontši ba bobedi) di kopana ka modumo — sepedi se se ka se se pheta."
+    },
+    {
+      "kind": "measurement",
+      "subject": "sekete sa banna",
+      "rationale": "Palo ya ba bolailwego — sekete, e boeledišwa gape go 15:15."
+    },
+    {
+      "kind": "you",
+      "subject": "poko ya Shimšone",
+      "rationale": "Poko ya bogosi yeo Shimšone a e bolelang morago ga phenyo — pego ya tlhagišo ye e bolelwago ka momabolelo."
+    }
+  ],
+  "translation": "Gomme Shimshone a re: ka lela la phala — dikgobokano godimo ga dikgobokano; ka lela la phala ke kgwaditše sekete sa banna.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "fa48869f59311215b2818993ea40184519a90e706302fd367e21b9608c0a0386",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/15\/13-16.1792287594406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Shimshone"
+    },
+    {
+      "surface": "בלחי",
+      "gloss": "ka lela"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "la phala"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "dikgobokano"
+    },
+    {
+      "surface": "חמרתים",
+      "gloss": "godimo ga dikgobokano"
+    },
+    {
+      "surface": "בלחי",
+      "gloss": "ka lela"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "la phala"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "ke kgwaditše"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa banna"
+    }
+  ],
+  "timestamp": "2026-10-18T01:39:54.408200998Z",
+  "model": "glm-5.3"
+}

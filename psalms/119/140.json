@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go hlweka",
+      "rationale": "צרופה ke ponagalo ya go tsenya gauta ka mollong — 'go hlweka' bo hloka ponagalo ya go fiša"
+    },
+    {
+      "kind": "addition",
+      "subject": "o la",
+      "rationale": "Ebengetši la lentšu (אמרתך) le hlokiwa go Sepedi fela"
+    }
+  ],
+  "translation": "Lentšu la gago le hlwekitšwe kudu, gomme mohlanka wa gago o la le rata.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/137-140.1792298831472.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "le hlwekitšwe"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lentšu la gago"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "mohlanka wa gago"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "o la rata"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:11.474059872Z",
+  "model": "glm-5.3"
+}

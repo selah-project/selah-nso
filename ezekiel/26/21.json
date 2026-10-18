@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 26:21",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלהות",
+      "rationale": "'Ke tla go dira go tšhabalala' kgatlhanong le 'go dira gore o be boimoši' (KJV: a terror) goba 'diphologolo tše di senyegilego' (YLT: wastes)"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתנך",
+      "rationale": "Seheberu se re 'ke tla go nea go tšhabalala' — šomišo sa נתן se atolositšwe, se fetošeditšwe go 'dira'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ואינך ... תמצאי ולא",
+      "rationale": "Go se gona le go se hwetwa di bapa ka go se fetoge ga mafelelo-a-ntšha; se itsegile ka go phethaga ga kahlolo ya Tiro"
+    }
+  ],
+  "translation": "Ke tla go dira ⟨go tšhabalala⟩, gomme o se ke wa ba gona; gomme o ka nyakišwa, eupša o ka se hwetwe gape go ya nakong e sa feli, go bolela Adonai Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2531e8f7b69d202b29556452ab273c442ec110cd6d819597f8fcf923cf031995",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/26\/21-21.1792295166068.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלהות",
+      "gloss": "go tšhabalala"
+    },
+    {
+      "surface": "אתנך",
+      "gloss": "ke tla go dira"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "gomme o se ke wa ba gona"
+    },
+    {
+      "surface": "ותבקשי",
+      "gloss": "gomme o ka nyakišwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eupša o ka se"
+    },
+    {
+      "surface": "תמצאי",
+      "gloss": "hwetwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya nakong e sa feli"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:46:06.068986898Z",
+  "model": "glm-5.3"
+}

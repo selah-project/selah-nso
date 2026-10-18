@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨wena⟩ · ⟨se⟩",
+      "rationale": "seinane le sehlaksong seo di okeditšwego ka Sepedi, Seheberu ga se na tšona"
+    },
+    {
+      "kind": "substitution",
+      "subject": "moahlodi",
+      "rationale": "שפט ke go hlola kahlolo — moahlodi o hlola kahlolo, e sego fela go nyatša"
+    }
+  ],
+  "translation": "Nyakelwa godimo, ⟨wena⟩ moahlodi wa lefase; o busetše seo ⟨se⟩ leswetšego go ba gelebišago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "638f4f9f613b653d88789ffe6543c752bf444e0bd8e571b2d37be6b6dfd67279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/94\/1-4.1792298492322.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Nyakelwa godimo"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "moahlodi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wa lefase"
+    },
+    {
+      "surface": "השב",
+      "gloss": "o busetše"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "seo leswetšego"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ba gelebišago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:32.322771528Z",
+  "model": "glm-5.3"
+}

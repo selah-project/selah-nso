@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קדשה \/ קדש",
+      "rationale": "Leina le tšwa go modu wa go kgethwa (kadosh) — mogwere wa tempele o bitšwa 'yo a kgethwago'; 'mogwere' o modu wo"
+    },
+    {
+      "kind": "crux",
+      "subject": "kadesha",
+      "rationale": "Mogwere wa tempele ya ditho tša dinaka, e sego mogwere wo e tlagago; KJV 'whore', JPS 'harlot'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kadesha",
+      "gloss_note": "",
+      "rationale": "Lentšu la Seheberu le bolokilwe ka modumo; Sepedi ga se na lentšu le tee la sedumo se"
+    }
+  ],
+  "translation": "Ga go na go ba kadesha gare ga bara ba Yisraele, gape ga go na go ba kades gare da barwa ba Yisraele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8ac3bfe57f0b09c99368d3a7c4161c724ac812c888c238453895bacf5030b7ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/23\/17-20.1792286180292.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga go na go ba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "kadesha"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "gare ga bara ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gape ga go na go ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kades"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "gare da barwa ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T01:16:20.293480230Z",
+  "model": "glm-5.3"
+}

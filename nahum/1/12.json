@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nahum 1:12",
+  "book": "nahum",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שלמים",
+      "rationale": "KJV e tšwa go 'ba phumulogo' (ba se nago phapo); JPS le ASV 'ba matleng a feletseng' — go tšwa go שָׁלֵם 'go phethagala'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "rokgwa",
+      "rationale": "נגזו e tšwa go go rala dikgomo — kgalalelo ya go kgobokwa; e tšereletše go 'ba rokgwa' bjalo ka tlhako"
+    },
+    {
+      "kind": "you",
+      "subject": "go Juda",
+      "rationale": "Moetledi wa bobedi wa sefokogo ke setšhaba sa Yuda, se bego se kgofišwa ke Ashur"
+    }
+  ],
+  "translation": "Bjalo go bolela Yahwe: Ge e le ba phethilego le gomme bja bontši, bjalo ba tla rokgwa gomme a fetše; le ge ke go kgofišitše, nka se ke ka go kgofiša gape.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1f480c5ba6659a2440d3d5ee3f5f26d23a326f449adf822fb2700c7a09b03399",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nahum\/1\/9-12.1792296574448.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Bjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge e le"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "ba phethilego"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "gomme bjalo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "bja bontši"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "נגזו",
+      "gloss": "ba tla rokgwa"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "gomme a fetše"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "go kgofiša gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nka se"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ke go kgofiša"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-18T04:09:34.449431275Z",
+  "model": "glm-5.3"
+}

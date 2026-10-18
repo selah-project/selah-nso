@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 47,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "diatla",
+      "rationale": "khaf e lego sefuba sa letlaa; atla ke karolo ya seswantšho, e sego lentšu ka sebopego"
+    },
+    {
+      "kind": "invitation",
+      "subject": "ditšhaba",
+      "rationale": "maeboBox a go thlaka ka diatla le go llediša a bitša bathebang ka botlalo"
+    }
+  ],
+  "translation": "Ditšhaba ka moka, thlakang ka diatla, lledišang go Elohim ka lentšu la go thabela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4e35d3bd082dfc77ec5d1f114acc86320c6840fd651e2d44f6628c221c9b47a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/47\/1-4.1792297755335.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "thlakang"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ka diatla"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "lledišang"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka lentšu"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "la go thabela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:15.336056886Z",
+  "model": "glm-5.3"
+}

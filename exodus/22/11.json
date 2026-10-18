@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גנוב יגנב",
+      "rationale": "Boiselwa bja lentšu (infinitive absolute) bopageng le diriwa — 'e utswwa ka nnete'; boinelwa bo se ke ba lahlwa."
+    }
+  ],
+  "translation": "Gomme ge e ka utswwa ka nnete go tšwa go yena, o tla lefela mong wa yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f80bf2e6de2bddac0dc60239cd715af131cedcde923a6b50eb7f4107600f818d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/22\/9-12.1792282901822.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Gomme ge"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "ka nnete"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "e utswwa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "go tšwa go yena"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "o tla lefela"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "mong wa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:41.823230946Z",
+  "model": "glm-5.3"
+}

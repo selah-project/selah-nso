@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרה",
+      "rationale": "'strange\/foreign woman' vs 'adulteress' — Sepedi keeps 'mosadi wa sephiri' (hidden\/strange woman)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נפת\/תטפנה",
+      "rationale": "drip\/dripping same root נטף, honey that keeps dripping — echo lost in Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mometša",
+      "rationale": "חכה is the palate, inner mouth — Sepedi 'mometša' (throat) nearest body part"
+    }
+  ],
+  "translation": "Ka gobane manala a mosadi wa sephiri a thela bohlare, gomme mometša wa yena o boreloopa go feta mafura.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b1e6ea5b569940579bb87cb85b03bae997f4e737367cd044479011bfb1390459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/5\/1-4.1792299252926.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "bohlare bjo bo thelago"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "a thela"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "manala"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "mosadi wa sephiri"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "gomme o boreloopa"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "go feta mafura"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "mometša wa yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:54:12.927777850Z",
+  "model": "glm-5.3"
+}

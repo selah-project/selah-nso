@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לוה",
+      "rationale": "'go kolota' (borrow) kgathanong le 'molala' (debtor) — kgatiso ya KJVS e re 'borroweth', e nngwe e beela letšatšing leo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישלם \/ שלום",
+      "rationale": "šelem = go lefa le go ba le kagiso; mobe o šireletša se se sa fedwego"
+    }
+  ],
+  "translation": "Mobe o kolota gomme a sa lefola; gomme motsedek o mohau gomme o fa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a13246e97a02c7faa3e9a509ae8ffa9dbb697ccf6ae0b306fdec14b5ea9e05e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/37\/21-24.1792297643250.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "o kolota"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mobe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "lefola"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "gomme motsedek"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "o mohau"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "gomme o fa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:23.251542334Z",
+  "model": "glm-5.3"
+}

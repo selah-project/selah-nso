@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 18:8",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמתלהמים",
+      "rationale": "KJV: 'bjalo ka dintlha' (go tšwa להם 'nthwa'); JPS\/ASV: 'bjalo ka dintlwa tše jeago ka monate' (go tšwa לאם 'ja ka monate'); Sepedi se latela ya bobedi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חדרי בטן",
+      "rationale": "'Ditlkane tša mmeleng' — idioma ya Seheberu ya sebopego sa ka gare; e bolela sephiring, kagare ya motho."
+    },
+    {
+      "kind": "secret",
+      "subject": "mantšu a mošiti",
+      "rationale": "Mantšu a go šita a tsena kagare — a hwetša lefelo le sepelelo se sebotse, se sa bonagaleng."
+    }
+  ],
+  "translation": "Mantšu a mošiti ke bjalo ka dintlwa tše jeago ka monate, gomme a tsena ka kagare ditlkameng tša mmeleng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d0f7deed8b2fe6286ffbb96cbdec3ea5fdf660e8b4484aa2f6dfdcae3012dd74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/18\/5-8.1792299517339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mantšu a"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "mošiti"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "bjalo ka dintlwa tše jeago ka monate"
+    },
+    {
+      "surface": "והם",
+      "gloss": "gomme a"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "a tsena ka kagare"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ditlkameng tša"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "mmeleng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:58:37.340489834Z",
+  "model": "glm-5.3"
+}

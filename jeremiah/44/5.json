@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimo ye mengwe",
+      "rationale": "אלהים אחרים — medimo ka ditlhaka tše nnye go ya ka D1, gobane ke medimo ya ditšhaba"
+    },
+    {
+      "kind": "idiom",
+      "subject": "retolla ditlheng",
+      "rationale": "'go retolla tlhago' — נטה אזן idiom ya go theetlela, ya nnete e hwetšwa ka go boela"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba",
+      "rationale": "tokollo ye e bolela ka batho ba sego šwelego; se sa bitšwa ka leina mohlaleng woo"
+    }
+  ],
+  "translation": "Gomme ba sa šwele, ba sa retolla ⟨את⟩ ditlheng tša bona go boela go mabe a bona, gore ba se ke ba fiša makgasa go medimo ye mengwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "39ec2f5d65db2f19a406fa4708ce109f38380bab8370d5ef5b45809204f599c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/44\/5-8.1792294044453.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba sa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "šwele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "retolla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditlheng tša bona"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "ditlheng tša bona"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "go boela"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "go mabe a bona"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "gore ba se ke ba"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "fiša makgasa"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go medimo ye mengwe"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ye mengwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:27:24.454551796Z",
+  "model": "glm-5.3"
+}

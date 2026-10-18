@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 4:46",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "go balelwa ga Balevi",
+      "rationale": "Palo ya Balevi ka moka go ya ka malapa le malapa a bo-rra."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikgoši",
+      "rationale": "נשיאים ke 'bao ba phagamego' — ditau tša setšhaba; dikgoši e phetolelo ya boemo, e sego selaetšwa sa mokgwa o mongwe."
+    }
+  ],
+  "translation": "Balelwa ka moka bao Moshe le Aharone le dikgoši tša Yisraele ba balelago ⟨את⟩ Balevi, go ya ka malapa a bona le go ya ka ntlo ya bo-rra bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ff32fa2d04076142827b4f7fe37682a9543f445e7921716c78088bd3497e63e5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/4\/45-48.1792284498506.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "balelwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ba balela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "le dikgoši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "tša Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Balevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balevi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "go ya ka malapa a bona"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "le go ya ka ntlo"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ya bo-rra bona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:48:18.506810810Z",
+  "model": "glm-5.3"
+}

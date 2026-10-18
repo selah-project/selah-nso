@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 32:15",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e bolokwa ka modumo go ya ka molao — e bolela Moya le phefo ka bobedi; Sepedi 'moya' no o ka se bontšhe bobedi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדבר\/כרמל\/יער",
+      "rationale": "Phetogo ya khiasma: lesaka o ba tšimo, tšimo e ba thaba — go fetoga ga maemo go bontšhitšwe ka go agiša mantšu."
+    }
+  ],
+  "translation": "go fihla ge ruakh e tla ešwa go rena go tšwa godimo, gomme lesaka le tla ba tšimo ya dimela, gomme tšimo ya dimela e tla balwa bjalo ka thaba ya mehlare.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "54a4ee93ff5d9edc23a90bf916d9c00ba12541e2f3e4a68dd9dc01f389597b7b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/32\/13-16.1792291843771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "go fihla ge"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "e tla ešwa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "go rena"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "go tšwa godimo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "lesaka"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "ba tšimo ya dimela"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "gomme tšimo ya dimela"
+    },
+    {
+      "surface": "ליער",
+      "gloss": "bjalo ka thaba ya mehlare"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "e tla balwa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:50:43.772686762Z",
+  "model": "glm-5.3"
+}

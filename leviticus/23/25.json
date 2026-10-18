@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "תעשו לא",
+      "rationale": "Sefela sa Seheberu se boletšwe ga tee; Sepedi se se boletša gabedi (le se ke la dira) go boloka modumo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mošomo wa go šoma",
+      "rationale": "מלאכת עבדה ke mantsu a mabedi a tšeago mošomo — go šoma ga mošomo; diphetholelo tše ngwa di bolela fela 'servile work'."
+    }
+  ],
+  "translation": "Mošomo ka moka wa go šoma ga o dirwe, gomme le tla hlahlela sehlabelo sa mollo go Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e5b1287b60357a7cc0026e1357b27fb487a49af873b0131cdb162705ea793e11",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/23\/25-28.1792284288810.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "wa go šoma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga o dirwe"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "le se ke la dira"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "gomme le tla hlahlela"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sehlabelo sa mollo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:44:48.811362356Z",
+  "model": "glm-5.3"
+}

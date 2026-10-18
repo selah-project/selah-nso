@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שדד\/שדה",
+      "rationale": "šadad (go phoošetša) le sadeh (šaka) — modumo o swanago, ga o bonale Sepeding"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הוביש",
+      "gloss": "mmešo wa Seheberu o bile 'go swabisiwa' gape 'go oma' — mo o šomišitšwe ka go oma"
+    }
+  ],
+  "translation": "Poošeditšwe šaka, fase le ile la llela, ka gobane poošeditšwe poone, mmera o omile, thoho e phofolotše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/1\/9-12.1792296137604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "poošeditšwe"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "šaka"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "le ile la llela"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "fase"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "poošeditšwe"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "poone"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "o omile"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "mmera"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "e phofolotše"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "thoho"
+    }
+  ],
+  "timestamp": "2026-10-18T04:02:17.605207870Z",
+  "model": "glm-5.3"
+}

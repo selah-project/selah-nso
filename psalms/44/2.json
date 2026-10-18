@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 44:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "woo",
+      "rationale": "Sepedi e hloka sebopodi sa ⟨את⟩ mošomo; Seheberu se na fela le את"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פעל\/פעלת",
+      "rationale": "go bowa ga lentšu — mošomo \/ o dirile — phetolelong e laetša fela"
+    }
+  ],
+  "translation": "Elohim, ka ditleeng tša rena re kwele, bo-ntate ba rena ba re boletšetše go rena ⟨את⟩ mošomo woo o o dirilego mengwageng ya bona, mengwageng ya kgale.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2d81b34b2fe27c73d336ae0b6513a78bcce3ba43b1f8a7c8ced15d5436171424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/44\/2-3.1792305206273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "באזנינו",
+      "gloss": "ka ditleeng tša rena"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "re kwele"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "bo-ntate ba rena"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ba boletšetše"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rena"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "o o dirilego"
+    },
+    {
+      "surface": "בימיהם",
+      "gloss": "mengwageng ya bona"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "mengwageng ya"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "kgale"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:26.273898329Z",
+  "model": "glm-5.3"
+}

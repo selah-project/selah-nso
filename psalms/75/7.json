@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הרים",
+      "rationale": "Mokgwa wo: karolo ya go phahama go tšwa רום ('go phahamisiwa') kgathanong le ditlhaka tše di swanago tše di bolelago 'dithaba' — KJV\/JPS e akanya go phahama, taelo ya Seheberu e ka ba dithaba."
+    },
+    {
+      "kind": "elision",
+      "subject": "go phahamisiwa",
+      "rationale": "Sehlogo sa mohlala se selegilwego mo go כי ga se tšwela pele ka Sepedi ka ntle le go theoga ka sehlogo."
+    }
+  ],
+  "translation": "Ka gobane go phahamisiwa ga se go tšwa botšhabela, gomme ga se go tšwa bophirima, gomme ga se go tšwa nageng ya dithaba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d3288242dcc74fd52b1a4598606b68d0a2a108e24bca9cd89b2dfd78e5ae298c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/75\/5-8.1792298203949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "go tšwa botšhabela"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "gomme go tšwa bophirima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga se"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "go tšwa nageng"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ya dithaba"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:43.950291170Z",
+  "model": "glm-5.3"
+}

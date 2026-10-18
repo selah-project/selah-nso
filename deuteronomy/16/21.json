@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Ashera",
+      "rationale": "אשרה: leina la modimo wa Sesemane wa go ba le bongwi; diphetolelo tše dingwe di re 'motapo' kapa 'sehlare' — leina le bolokwa ka modumo wa lona."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sehlare se sengwe le se sengwe",
+      "rationale": "כל עץ — 'sehlare sfehlefehle'? literally 'mohlare o moholo' le 'mohlare o mosenyane' o motala; e ile ya aroganywa bjalo ka 'sehlare se sengwe le se sengwe'."
+    },
+    {
+      "kind": "elision",
+      "subject": "Ashera",
+      "rationale": "KJV e fetola 'Ashera' go 'grove' (motapo); Sepedi ga se fetoše leina."
+    }
+  ],
+  "translation": "O se ke wa beala go wena ⟨את⟩ Ashera, sehlare se sengwe le se sengwe, kgauswi le aletare ya Yahwe Elohim ya gago, yeo o e dirago go wena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8c289cc2d6f1d41a50196a05aff71edce426561e37782e887d67bbf68e4adced",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/16\/21-22.1792285969398.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "go beala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Ashera"
+    },
+    {
+      "surface": "כל",
+      "gloss": "se sengwe le se sengwe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "kgauswi le"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o e dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:12:49.399360213Z",
+  "model": "glm-5.3"
+}

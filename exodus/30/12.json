@@ -1,0 +1,127 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 30:12",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "go bala setšhaba",
+      "rationale": "Palo ya banna ba Yisraele — go bala hlogo ya setšhaba, taba ya palo ka moka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "botshelo",
+      "rationale": "נפשו ke 'moya wa gagwe \/ botshelo bja gagwe' — se sa Sepedi 'botshelo' se bitša sebopego, e sego 'moya' ka mo go tlwaelegilego"
+    },
+    {
+      "kind": "idiom",
+      "subject": "hlogo",
+      "rationale": "נשא ראש 'go tšea hlogo' — go bolela go bala batho ka palo; se sengwe le se sengwe sa 'hlogo' se lalediwa go dula se le gona bjalo ka seswantšho"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בפקד ... בפקד",
+      "rationale": "פקד di boela di bapalelwa gatee-gatee-tee — go bolelwa gate le gate gate ge go bala; phetolelo e bolotše go boela ga lentsu"
+    }
+  ],
+  "translation": "Ge o tšea ⟨את⟩ hlogo ya bana ba Yisraele ka go ba bala ka palo, gomme ba tla fa, motho yo mongwe le yo mongwe sekollo sa botshelo bja gagwe go Yahwe ge ba bala ⟨את⟩ bona; gomme go se ke ga ba le mokgobo go bona ge ba bala ⟨את⟩ bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "30599adeb532b0911badfda70f8d8d5c3693df3214a8c00349306a4210ccc553",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/30\/9-12.1792283155804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "o tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hlogo ya bana ba Yisraele"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "ka go ba bala ka palo"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "gomme ba tla fa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "sekollo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sa botshelo bja gagwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "בפקד",
+      "gloss": "ge ba bala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme go se ke ga"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ba le"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "mokgobo"
+    },
+    {
+      "surface": "בפקד",
+      "gloss": "ge ba bala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:25:55.805404693Z",
+  "model": "glm-5.3"
+}

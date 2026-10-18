@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "tribal genealogy",
+      "rationale": "Bana ba Bela — Arde le Naamane — ba hlaolwa go malapa a bona."
+    },
+    {
+      "kind": "addition",
+      "subject": "ba be ba le",
+      "rationale": "Seheberu se dira ויהיו fela; Sepedi se nyaka kopula ya nakong"
+    }
+  ],
+  "translation": "Bana ba Bela ba be ba le Arde le Naamane; go Arde, lelapa la Ardate; go Naamane, lelapa la Naamate.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0322a3e10716f70bbf683998e426cac421e2bdcc62674d8414df09bfcc2b8d6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/26\/37-40.1792285199063.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ba be ba le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "Arde"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "le Naamane"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "Ardate"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "go Naamane"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "lelapa la"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "Naamate"
+    }
+  ],
+  "timestamp": "2026-10-18T00:59:59.064798383Z",
+  "model": "glm-5.3"
+}

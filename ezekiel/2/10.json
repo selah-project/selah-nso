@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨e⟩",
+      "rationale": "Sepedi e nyaka taba e bontšhitšwego; Seheberu se e hlokomologa"
+    },
+    {
+      "kind": "crux",
+      "subject": "פנים ואחור",
+      "rationale": "'pele le ka morago' kgathanong le 'ka gare le ka ntle' (KJV); sengwalwa se ngwalwa mahlakoreng a mabedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קנים",
+      "rationale": "קינה ke pina ya santše e latedišago lehu; 'makoko' a e tšerelela go lebela"
+    },
+    {
+      "kind": "secret",
+      "subject": "sephiri se ngwalwago mahlakoreng a mabedi",
+      "rationale": "Sengwalwa se sebotse se sa bontšhwa sephiring, se phatlalatšwa fela pele ga moprofeta"
+    }
+  ],
+  "translation": "Gomme a e phatlalatsa ⟨את⟩ pele ga nna, gomme ⟨e⟩ ngwalwa pele le ka morago, gomme go ngwalwa go yona makoko, le go ngongorega, le mehla ya santše",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cc10daeca51f883c05a4f8cc4af48ece0f0d91eadc10effd19d7ef1dcc52dc39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/2\/9-10.1792294367471.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "gomme a e phatlalatsa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "e (megolo ya sephiri)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga nna"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "ngwalwa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "pele"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "le ka morago"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "gomme go ngwalwa"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "go yona"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "makoko"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "le go ngongorega"
+    },
+    {
+      "surface": "והי",
+      "gloss": "le mehla ya santše"
+    }
+  ],
+  "timestamp": "2026-10-18T03:32:47.476909217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מה־פעל",
+      "rationale": "'o dirile eng?' (KJV: 'o ka dira eng?') — potšišo ye e tumilego: go bega kgalefo goba go kopa thuso, meralabe ya dikgethi di a fapana"
+    },
+    {
+      "kind": "alternative",
+      "subject": "yo a lokoago o ka dira eng",
+      "rationale": "bokgoni bja go dira se sengwe — taelo ya 'tsamaya, go se na sepe mo o ka se dirago'"
+    }
+  ],
+  "translation": "Ge motheo o senywa, yo a lokoago — o dirile eng?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f02f3330c4fda7bdb82299e862584d872de357f9dcfc72725284e49181bcefae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/11\/1-4.1792297299479.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "motheo"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "o senywa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a lokoago"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "o dirile"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:39.480482063Z",
+  "model": "glm-5.3"
+}

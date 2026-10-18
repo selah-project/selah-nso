@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "o rate Yahwe",
+      "rationale": "Taelo yeo e bitša barutiwa gore ba rate Yahwe ka go hlwekela meaelo ya gagwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bohlweki",
+      "rationale": "משמרת ה e bolela go hlwekela — bohlweki ke sona sefopelo sa lentšu, e sego 'taelo' fela."
+    }
+  ],
+  "translation": "Gomme o rate ⟨את⟩ Yahwe Elohim wa gago, gomme o hlwekilete bohlweki bja gagwe, le melawana ya gagwe, le dikahlolo tša gagwe, le meaelo ya gagwe, ka mehla ka moka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ef31f912133a2ad1a85300cb17934c74cead5a3e93929008cea6e78a38d84730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/11\/1-4.1792285757072.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "gomme o rate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "gomme o hlwekilete"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "bohlweki bja gagwe"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "le melawana ya gagwe"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "le dikahlolo tša gagwe"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "le meaelo ya gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "mehla ka moka"
+    }
+  ],
+  "timestamp": "2026-10-18T01:09:17.072658263Z",
+  "model": "glm-5.3"
+}

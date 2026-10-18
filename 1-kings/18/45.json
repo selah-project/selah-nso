@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 18:45",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "עד כה ועד כה",
+      "rationale": "Literal 'go fihla ka mokgwa o, gape ka mokgwa o' — crux: 'in a little while' vs 'here and there'; the repetition of time\/space extent kept literal."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikgokošo",
+      "rationale": "עבים ke maru a mafolofolo a lefifsi — 'thick clouds' (mašubiri a dikgokošo)."
+    },
+    {
+      "kind": "crux",
+      "subject": "וירכב",
+      "rationale": "'a namele' (rode) — KJV 'rode'; BSB implies chariot from context of v.44."
+    }
+  ],
+  "translation": "Gomme go fetoga go fihla ka mokgwa o, gape ka mokgwa o, gomme magodimo a efela mašubiri a dikgokošo le ruakh, gomme go ba le pula e kgolo; gomme Ahaba a namele gomme a sepela go Yizreele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7d8d05286b598b2c2bd4263309cc5a556c20946576d60b7a284db65fc9346a66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/18\/45-46.1792290226378.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go fetoga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ka mokgwa o"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gape go fihla"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ka mokgwa o"
+    },
+    {
+      "surface": "והשמים",
+      "gloss": "gomme magodimo"
+    },
+    {
+      "surface": "התקדרו",
+      "gloss": "a efela mašubiri"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "dikgokošo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "gomme ruakh"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go ba le"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "pula"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "e kgolo"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "gomme a namele"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahaba"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gomme a sepela"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "go Yizreele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:23:46.379466212Z",
+  "model": "glm-5.3"
+}

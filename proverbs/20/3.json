@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "go ema ka thoko",
+      "rationale": "שבת: ba banegi ba fapana — 'go fediša kgwerano' (BSB) le 'go ema ka thoko ga yona' (KJV\/JPS)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מריב\/יתגלע",
+      "rationale": "dika tša go ganela di tiišeditše kgwerano ya lentšu; se se laetšego se lahlegile go Sepedi"
+    }
+  ],
+  "translation": "Kganyogo ya monna ke go ema ka thoko go kgwerano le go se gane; eupša sedidadi sengwe le sengwe se tla ganela go fapana.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/20\/1-4.1792299605308.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "kganyogo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ya monna"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "go ema ka thoko"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "go kgwerano"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "eupša sengwe le sengwe"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "sedidadi"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "se tla ganela go fapana"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:05.309583061Z",
+  "model": "glm-5.3"
+}

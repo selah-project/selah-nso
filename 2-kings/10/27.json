@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "למחראות",
+      "rationale": "unique word in the Tanakh, from מחרא (dung); a place of dung\/latrine — rendered 'lefelo la bothaka'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויתצו ... ויתצו",
+      "rationale": "the verb 'ba ripolola' repeats exactly, mirroring the Hebrew double tearing-down of pillar and house."
+    }
+  ],
+  "translation": "Gomme ba ripolola ⟨את⟩ leswao la Baale, gomme ba ripolola ⟨את⟩ legae la Baale, gomme ba se dira lefelo la bothaka, go fihla lehono.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dddc40cfce76592b3aeb9a2717cb91b89e8bb8982b57fc23e2a8cce2ef6f0d7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/10\/25-28.1792290625364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "ba ripolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leswao"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "leswao"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "la Baale"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "ba ripolola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "legae"
+    },
+    {
+      "surface": "בית",
+      "gloss": "legae"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "la Baale"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "ba se dira"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "lefelo la bothaka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    }
+  ],
+  "timestamp": "2026-10-18T02:30:25.365201769Z",
+  "model": "glm-5.3"
+}

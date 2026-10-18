@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 12:2",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "monna wa ntoa",
+      "rationale": "אישׁ ריב ke umakanngwe wa Seheberu — 'monna wa kgohlakano\/ntoa' — o lokollotšwe bjalo ka 'ntoa ye kgolo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ga se 'moya' fela — go sego šala ke bophelo\/thoho ya motho"
+    },
+    {
+      "kind": "you",
+      "subject": "go barwa ba Efereime",
+      "rationale": "Yiftake o araba ka go bolela ka go se fetoge go barwa ba Efereime ba mo sotago"
+    }
+  ],
+  "translation": "Gomme Yiftake a re go bona: monna wa ntoa ye kgolo ke be ke le nna, le setšhaba sa ka, le bara ba Amoni; gomme ke ile ka lla go ⟨את⟩ lona, gomme le ka se mpsholle go seatlang sa bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "93d089c4ee8d25814364894ff01e6fc8f6ce0f061c973ee8924fd9d58da48038",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/12\/2-3.1792304840800.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Yiftake"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "wa ntoa"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke be ke le"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "le setšhaba sa ka"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "le bara"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ye kgolo"
+    },
+    {
+      "surface": "ואזעק",
+      "gloss": "gomme ke ile ka lla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona (barwa ba Efereime)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme le ka se"
+    },
+    {
+      "surface": "הושעתם",
+      "gloss": "mpsholle"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna (Yiftake)"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "go seatlang sa bona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:27:20.801511873Z",
+  "model": "glm-5.3"
+}

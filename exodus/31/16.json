@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e le ⟨ke⟩",
+      "rationale": "Sepedi e nyaka copula yeo Seheberu se e se nago bakeng sa 'kgwerano ya go sa fele'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kgwerano",
+      "rationale": "ברית — kgwerano go ya ka D2, e sego 'tumelano'."
+    }
+  ],
+  "translation": "Gomme bana ba Yisraele ba tla boloka ⟨את⟩ Shabata, go dira ⟨את⟩ Shabata bakeng sa maloko a bona, e le kgwerano ya go sa fele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "cae0e4c5a202d80ae60ba94edb0f1bb7308add0fdcc87751baae82b411c2623b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/31\/13-16.1792283188698.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Gomme ba tla boloka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabata"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shabata"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "bakeng sa maloko a bona"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya go sa fele"
+    }
+  ],
+  "timestamp": "2026-10-18T00:26:28.703621513Z",
+  "model": "glm-5.3"
+}

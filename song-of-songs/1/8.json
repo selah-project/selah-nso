@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 1:8",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ditaelo tše tharo",
+      "rationale": "Tšwele, latela, fediše — ditaeko tša go bitša mmopi go sepela ka tsela"
+    },
+    {
+      "kind": "you",
+      "subject": "go mobotse go rialo basading",
+      "rationale": "Karabo e a bitša ka directly ka leina la tlotla"
+    },
+    {
+      "kind": "substitution",
+      "subject": "latela",
+      "rationale": "בעקבי ka boteng ke 'ka mahloko a maoto' — Sepedi se šomiša taelo ya go latela go hlalosa tsela ye e latelwago"
+    }
+  ],
+  "translation": "Ge o sa tseba, wena mobotse go rialo basading, etla o tšwele, latela dimila tša dinku le dipudi, omme o fediše ⟨את⟩ diponyana tša gago tša dipudi godimo ga matente a badudi ba dinku.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ff01a4dd9d7ec2d7f1048913ac57122e870c2f44c8a5605eb99689e6cac96806",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/1\/5-8.1792300990373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o sa"
+    },
+    {
+      "surface": "תדעי",
+      "gloss": "tseba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "היפה",
+      "gloss": "mobotse go rialo"
+    },
+    {
+      "surface": "בנשים",
+      "gloss": "basading"
+    },
+    {
+      "surface": "צאי",
+      "gloss": "etla o tšwele"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "בעקבי",
+      "gloss": "latela dimila tša"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dinku le dipudi"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "omme o fediše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diponyana tša gago tša dipudi"
+    },
+    {
+      "surface": "גדיתיך",
+      "gloss": "diponyana tša gago tša dipudi"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "matente a"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "badudi ba dinku"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:10.374539806Z",
+  "model": "glm-5.3"
+}

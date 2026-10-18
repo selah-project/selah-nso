@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wena",
+      "rationale": "Seheberu se bowa ka boemedi fela (יודוך), 'wena' se okeditšwe go hlaloša mang"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go leboga",
+      "rationale": "ידה e ile go tšwa go 'go laša ka seatla' — go leboga ke go bolela ka boikoetšo bokgabo bja go dumelela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסידיך \/ חסד",
+      "rationale": "Ba 'bao ba nago le botho' ba bolela hesede ya D2 — go tšwa modung o tee le botho bjalo ka go v9"
+    }
+  ],
+  "translation": "Mešomo ya gagwe ka moka e tla go leboga, wena Yahwe, gomme bao ba nago le botho ba gagwe ba tla go lalediša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "163d2630e6c7b183674557c80c55d896e259c6d7d31108df5f3b47a97f9be221",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/145\/9-12.1792299103434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "e tla go leboga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mešomo ya gagwe"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "gomme bao ba nago le botho ba gagwe"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "ba tla go lalediša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:43.435429744Z",
+  "model": "glm-5.3"
+}

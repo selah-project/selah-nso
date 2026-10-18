@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "a mohla wa Eyitam",
+      "rationale": "אבי עיטם: 'ntate wa Eyitam' (motho) goba 'ba ba tšwago go ntate wa lefelo la Eyitam' — diphetolelo di fapana"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Copula ya Sepedi, ye e sego gona go Seheberu"
+    },
+    {
+      "kind": "hapax",
+      "subject": "Tselelponi",
+      "rationale": "צללפוני e hlaga fela mo go Tanakh, temaneng ye"
+    }
+  ],
+  "translation": "Gomme ba ⟨ke⟩ a mohla wa Eyitame: Yizrele, gomme Yishma, gomme Yidbashe; gomme leina la kgaetšedi ya bona ⟨ke⟩ Tselelponi.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "df5b14d76c868abd355edfcd8185d8c6682dcf9a789337d3d2a782ae2b237856",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/4\/1-4.1792302966263.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Gomme ba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "a mohla wa"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Eyitame"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizrele"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "gomme Yishma"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "gomme Yidbashe"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "gomme leina la"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "kgaetšedi ya bona"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "Tselelponi"
+    }
+  ],
+  "timestamp": "2026-10-18T05:56:06.264603482Z",
+  "model": "glm-5.3"
+}

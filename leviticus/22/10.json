@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "קֹדֶשׁ … קֹדֶשׁ",
+      "rationale": "Go bušetšwa ga lentšu 'selo se se kgethwego' ga tharo go dira kopano; Sepedi se boloka boemo bjo"
+    },
+    {
+      "kind": "crux",
+      "subject": "זָר",
+      "rationale": "'mošwi' kgahlanong le 'motho wa ntle le lapa la moperisita' — ke motho yo a sego wa lapa, e sego motho wa sešhaba"
+    }
+  ],
+  "translation": "Gomme mošwi a se ke a ja selo se se kgethwego; moahi wa moperisita le mogodi ba se ke ba ja selo se se kgethwego.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9292fe2abb8122b02062b56f454d838cb41233e934176c3cceee65cfffb4ea3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/22\/9-12.1792284165002.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "gomme … ka moka"
+    },
+    {
+      "surface": "זר",
+      "gloss": "mošwi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "a ja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "selo se se kgethwego"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "moahi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "le mogodi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ba ja"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "selo se se kgethwego"
+    }
+  ],
+  "timestamp": "2026-10-18T00:42:45.003622328Z",
+  "model": "glm-5.3"
+}

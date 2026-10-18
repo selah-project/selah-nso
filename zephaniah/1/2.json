@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אסף אסף",
+      "rationale": "Boitelele bja pele (infinitive absolute) bo tiisa modu — 'go kgoboka-kgoboka ka botlalo'; diphetolelo tše ntši di bo fenyaketša fela ka 'ka botlalo'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go kgoboketša",
+      "rationale": "אסף go bolela go kgoboketša\/go rola — 'go fenya ka botlalo' (KJV) ke tlatlano ya kgopolo, e sego lentšu."
+    }
+  ],
+  "translation": "Ke tla kgoboketša, ke a kgoboka, tšohle go sego godimo ga sefahleho sa lefase, go bolela Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4021e183a6dc0a69f24944a07976629ba197901745dce7f6e923394dc1b655cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zephaniah\/1\/1-4.1792296821434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Ke tla kgoboketša"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ke a kgoboka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "go sego godimo ga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:13:41.435603468Z",
+  "model": "glm-5.3"
+}

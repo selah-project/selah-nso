@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Hebrew imperative needs an address marker in Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lehu",
+      "rationale": "עני is misery\/affliction; 'lehu' (poverty\/suffering) closest Sepedi picture"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "direct petition — imperatives 'see' and 'deliver'"
+    }
+  ],
+  "translation": "Šala ⟨ke⟩ go bona lehu ya ka, gomme mpshafatša, gobane Torah ya gago ga e ka ke ya e labalabela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d9cd2a4448b346bfe8c458de5e12ce2d95eeea0365c61bc1ac437241aafe7d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/153-156.1792298851787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "šala go bona"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "lehu ya ka"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "gomme mpshafatša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "e labalabela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:31.787848920Z",
+  "model": "glm-5.3"
+}

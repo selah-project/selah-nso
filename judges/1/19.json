@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 1:19",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לא להוריש",
+      "rationale": "Sehlogo se sa 'a ka se kgone' se ka ba sa Yuda (go sa kgone go ntšha baahi ba mošopo) goba se sa baahi — Seheberu se sa bolele sehlogo ka bohlodi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "את (le Yahwe)",
+      "rationale": "את mo ke lentišo 'le' (Yahwe a be le Yuda), e sego leswao la Sediri; e bolokilwe bjalo ka ⟨את⟩."
+    },
+    {
+      "kind": "alternative",
+      "subject": "כי ya pele",
+      "rationale": "E ka bala 'efela' (KJV 'but'): a laola thaba, efela baahi ba mošopo a ba ka se ntše."
+    }
+  ],
+  "translation": "Gomme Yahwe a be le ⟨את⟩ Yuda, gomme a laola ⟨את⟩ thaba; gobane a ka se kgone go ntšha ⟨את⟩ badudi ba mošopo, gobane ba na le dikoloi tša tšhipi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "290862e9a05af5639074b8211d654953005dcbf5ebb379d23f7a2e84bd7a776f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/1\/17-20.1792287176134.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "a be"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "a laola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thaba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se kgone"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "go ntšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badudi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "badudi"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "ba mošopo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "dikoloi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "tša tšhipi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba na le ⟨tšona⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T01:32:56.135688271Z",
+  "model": "glm-5.3"
+}

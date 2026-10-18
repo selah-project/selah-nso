@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 28:16",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "סלה",
+      "rationale": "lehaku la go lekanya le hwetša fela mo go Tanakh — go lekanya ka gauta ga go lekane"
+    },
+    {
+      "kind": "crux",
+      "subject": "כתם",
+      "rationale": "'gauta e hlwekilego ya mothaladi' e sa tswego e ntšhilwe — e sego gauta efe kapa efe"
+    },
+    {
+      "kind": "measurement",
+      "subject": "go lekanyetšwa",
+      "rationale": "bohlale ga bo lekanyetšwe ka dikarohwa tša gauta le maja — kanegelo ya theko"
+    }
+  ],
+  "translation": "Ga e lekanyetšwe ka gauta ya Ofire, ka šohame ya bohlale le safire.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f65b8ed679d2b1ab378e3f5690930de30c2f0b0e6618e7a7c5e8f87e983d67fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/28\/13-16.1792300517716.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תסלה",
+      "gloss": "e lekanyetšwe"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ya Ofire"
+    },
+    {
+      "surface": "בשהם",
+      "gloss": "šohame"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ya bohlale"
+    },
+    {
+      "surface": "וספיר",
+      "gloss": "le safire"
+    }
+  ],
+  "timestamp": "2026-10-18T05:15:17.717471923Z",
+  "model": "glm-5.3"
+}

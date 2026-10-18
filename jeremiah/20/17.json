@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 20:17",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Seheberu ga se bolele mongwadi wa tiro; Sepedi o nyaka mongwadi"
+    },
+    {
+      "kind": "crux",
+      "subject": "mmimo o imile go sa feleng",
+      "rationale": "הרת עולם: 'mmino o imile go sa feleng' (YL T) kgahlanong le 'o nne a imile ka mehla' (KJV) goba 'o kgolo go sa feleng' (BSB)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go sa feleng",
+      "rationale": "עולם ke 'ntho ye e fihlilwego \/ sefala sa mahlong', mo go bolela nakwana ye e sa bontšhago mafelelo"
+    }
+  ],
+  "translation": "Gore ⟨o⟩ a ka se mpuletše go tšwa mmimong, gomme mmago ka e bile ⟨go nna⟩ lebitla, le mmimo wa gage o imile go sa feleng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5aee41d2bf5352fd03a176f25d6af4076a67b5337f999d1161051f94e52687bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/20\/17-18.1792293213053.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "מותתני",
+      "gloss": "mpuletše"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "go tšwa mmimong"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "mmago ka"
+    },
+    {
+      "surface": "קברי",
+      "gloss": "lebitla"
+    },
+    {
+      "surface": "ורחמה",
+      "gloss": "le mmimo wa gage"
+    },
+    {
+      "surface": "הרת",
+      "gloss": "o imile"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "go sa feleng"
+    }
+  ],
+  "timestamp": "2026-10-18T03:13:33.053786248Z",
+  "model": "glm-5.3"
+}

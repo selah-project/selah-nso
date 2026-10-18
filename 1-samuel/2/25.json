@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 2:25",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ופללו אלהים",
+      "rationale": "Elohim o ahlaola (KJV: moahlodi o tla ahlaola) kgathanong le Elohim o ka rapela (BSB) — lentšu le tee le ahlaola goba la rapela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פלל \/ יתפלל",
+      "rationale": "Modu o tee ga bothateng: go ahlaola le go rapela — sefoko sa Eli se diriša modu wo o mongwe ga nako tše pedi."
+    },
+    {
+      "kind": "you",
+      "subject": "go bana ba Eli",
+      "rationale": "Eli o bolela le bana ba gagwe ka sefoko se, eupša ba sa se theetše."
+    }
+  ],
+  "translation": "Ge motho a etsa sebe go motho ⟨yo mongwe⟩, Elohim o tla mo ahlaola; eupša ge motho a etsa sebe go Yahwe, ke mang yo a ka rapelago bakeng sa gagwe? Gomme ba sa theetše lentšu la tatago bona, ka gobane Yahwe o be a dumeletše go ba bolaya.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4715785d3e8b4e896664cbf2250500a2dc7aff8f309b11bc1824431f7d31d106",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/2\/25-28.1792287910276.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "a etsa sebe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "go motho ⟨yo mongwe⟩"
+    },
+    {
+      "surface": "ופללו",
+      "gloss": "o tla ahlaola"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "eupša ge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "a etsa sebe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "yo a ka rapelago"
+    },
+    {
+      "surface": "לו",
+      "gloss": "bakeng sa gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba sa"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "theetše"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "lentšu la"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "tatago bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "o be a dumeletše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להמיתם",
+      "gloss": "go ba bolaya"
+    }
+  ],
+  "timestamp": "2026-10-18T01:45:10.277477380Z",
+  "model": "glm-5.3"
+}

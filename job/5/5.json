@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 5:5",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "מצנים",
+      "rationale": "Lentšu le tšwa mo Tanakh fela mo — dithora tše kgolo, mogala wa dikaktase."
+    },
+    {
+      "kind": "crux",
+      "subject": "צמים",
+      "rationale": "Ba banne: 'ba swafago' (go swafa) kgahlanong le 'thapo ya go tšwara' (KJV 'the snare') — dipoloma tše pedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ושאף",
+      "rationale": "Go hema ka moya (go hema ka thata) ga se go meetsa — botebo bja lentšu le pholile."
+    }
+  ],
+  "translation": "Ye mo swafago o ja letšweleo la yena, gomme magareng a dithora e tla tšewa; gomme ba swafago ba hema boumi bja bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd89e6dfbe519c368bfbd48065e8c136443ef44df7eef1d231aaca536fde33cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/5\/5-8.1792300126863.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ye"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "letšweleo la yena"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "mo swafago"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "o ja"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme go tšwa"
+    },
+    {
+      "surface": "מצנים",
+      "gloss": "magareng a dithora"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "e tla tšewa"
+    },
+    {
+      "surface": "ושאף",
+      "gloss": "gomme ba hema"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "ba swafago"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "boumi bja bona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:08:46.863905780Z",
+  "model": "glm-5.3"
+}

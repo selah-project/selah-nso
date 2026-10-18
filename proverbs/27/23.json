@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ידע תדע",
+      "rationale": "infinitive absolute + imperfect — go boelediša go tseba go bontša maitelelo; Sepedi ga bo boloka ka 'Tseba, o tsebe'"
+    },
+    {
+      "kind": "you",
+      "subject": "go mmedi",
+      "rationale": "taaelo ye e a битša mmadi ka o mong le o mong — 'tseba', 'bea pelo ya gago'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "go mmadi",
+      "rationale": "ditaaelo tše pedi tša go bitša mmadi go dira mošomo wa go lebelela mehlape"
+    }
+  ],
+  "translation": "Tseba, o tsebe gabotse, sebopego sa dinku le dipudi tša gago; bea pelo ya gago go mehlape.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "089b685c2516269e15c418bcd57debee709475f2cd6e2e5206c61eaa0805a22f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/27\/21-24.1792299886393.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "Tseba"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "o tsebe gabotse"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sebopego sa"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "dinku le dipudi tša gago"
+    },
+    {
+      "surface": "שית",
+      "gloss": "bea"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "go mehlape"
+    }
+  ],
+  "timestamp": "2026-10-18T05:04:46.394502762Z",
+  "model": "glm-5.3"
+}

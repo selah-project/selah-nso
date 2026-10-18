@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke ya ka",
+      "rationale": "Seheberu se na le מדla fela (לי); Sepedi e nyaka kopula le sehlakahlaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "כסף",
+      "rationale": "Silibera goba tšhelete — fa go bolela ga selo, e sego tšhelete ya go reka"
+    }
+  ],
+  "translation": "Silibera ke ya ka, gomme gauta ke ya ka, lentšu la Yahwe Tsebaote.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/haggai\/2\/5-8.1792296755489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ke ya ka"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "gomme ... ke ya ka"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lentšu la"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    }
+  ],
+  "timestamp": "2026-10-18T04:12:35.490890964Z",
+  "model": "glm-5.3"
+}

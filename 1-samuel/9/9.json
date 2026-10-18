@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 9:9",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הראה \/ moboni",
+      "rationale": "Seheberu se hlalosa lentšu la kgale la נביא: הראה (moboni, yo a bonago) le נביא (moprofeta) — phetolelo e tšwelang pele e hlalosa phapano ye."
+    },
+    {
+      "kind": "elision",
+      "subject": "לפנים",
+      "rationale": "Lentšu le swanago le 'pelo' le šomišwa ka moaparo wa nako (kamokgolo), se se sa bonagalago ka otlolotšo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הראה \/ ראה",
+      "rationale": "Sehlodi se bitšwa ka lerišo la go bona — moboni — sephetho se se lahelang ka moaparo wa 'moprofeta' fela."
+    }
+  ],
+  "translation": "Kamokgolo go Yisraele, motho ge a ya go nyaka Elohim o ile a bolela bjalo: A tlang, re ye go moboni, gobane yo gale bjale a bitšwago moprofeta, kamokgolo o be a bitšwa moboni.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "726618519fc0d1fa85f8e84a1328ca3c79d8fc170346a081a5076b45010040cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/9\/9-12.1792288112256.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Kamokgolo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "go Yisraele"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o ile a bolela"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "ge a ya"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "go nyaka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "a tlang"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "re ye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "moboni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "moprofeta"
+    },
+    {
+      "surface": "היום",
+      "gloss": "gale bjale"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "a bitšwa"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kamokgolo"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "moboni"
+    }
+  ],
+  "timestamp": "2026-10-18T01:48:32.257502762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "go fisa",
+      "rationale": "חרב e bolela lehuma\/mahuma (drought) le go fisa (heat); YLT 'drought', KJV 'heat'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sefako",
+      "rationale": "זרם ke metswedi ya meetse e tlago (gush of water, YLT 'inundation'); sefako ke go fetoša go se nago lentšu la Sepedi le le swanago."
+    }
+  ],
+  "translation": "Gomme phaphamelo e tla ba sešiti letšatšing le letšatši go tšwa go fisa, le sephologelo le bophirimisi go tšwa sefakong le go tšwa puleng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "29677928f6ae59f13b74c6051cb661e3973163cb1915bd9dd0f9c7f9eb925447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/4\/5-6.1792291263519.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וססכה",
+      "gloss": "gomme phaphamelo"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "e le sešiti"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "letšatšing le letšatši"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "go tšwa go fisa"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "le sephologelo"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "le bophirimisi"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "go tšwa sefakong"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "le go tšwa puleng"
+    }
+  ],
+  "timestamp": "2026-10-18T02:41:03.520788018Z",
+  "model": "glm-5.3"
+}

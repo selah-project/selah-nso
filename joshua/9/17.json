@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 9:17",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בני ישראל",
+      "rationale": "'morwarra wa Yisraele' (morwa wa Yisraele) — sebopego sa Seheberu sa bontši sa bjale"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "kopula ye Seheberu se se se nago yona — ⟨ke⟩"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ka letšatši la boraro",
+      "rationale": "palo ya mabedi: boraro — taba ya go bala"
+    }
+  ],
+  "translation": "Morwarra wa Yisraele a hišetše, ba fihla dimilong tša bona ka letšatši la boraro. Dimilong tša bona ke tše: Gibhone, Kefira, Beerote, le Kiriate-Yearime.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "dfd66c59a2b8baa4bc5df45737ed7981d0b1353fc88afcd3d278a328503ec1d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/9\/17-20.1792286713111.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ba hišetše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwarra wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "dimilong tša bona"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši la"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "boraro"
+    },
+    {
+      "surface": "ועריהם",
+      "gloss": "dimilong tša bona ⟨ke⟩"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibhone"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "Kefira"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "Beerote"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "Kiriate"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Yearime"
+    }
+  ],
+  "timestamp": "2026-10-18T01:25:13.112564777Z",
+  "model": "glm-5.3"
+}

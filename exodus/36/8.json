@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 36:8",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tekhelete · argamane · tolaat ya šani",
+      "rationale": "Maina a mebala a Seheberu a fetilwe ka modumo, go sego ka tlhaloso ('bofila', ”phephole”) e ka felosago seswantšho sa Seheberu"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kerubime",
+      "rationale": "כרבים e bolokilwe ka modumo — e sego 'baeng' goba 'maloka', seswantšho sa Seheberu se dula se le gona"
+    },
+    {
+      "kind": "measurement",
+      "subject": "diripa tše lesome",
+      "rationale": "Palo ya motheo ya go aga Mishkane — lesome ke palo ya diripa"
+    },
+    {
+      "kind": "crux",
+      "subject": "מעשה חשב",
+      "rationale": "Sepedi 'mošomo wa go bopa' — ba bangwe ba bea 'mošomo wa mohlabi'; חשב e bolela go loka diphutha, go bopa ka botee"
+    }
+  ],
+  "translation": "Gomme bohle bao ba nago le pelo ya bohlale go ba bagodi ba mošomong ba ile ba dira ⟨את⟩ Mishkane ka diripa tše lesome, tša linene tša go kgotla, le tekhelete, le argamane, le tolaat ya šani ya bodiba; ka kerubime, mošomo wa go bopa, ba di dirile ⟨אתם⟩.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "8ea433f5abdf0d0a28c3e3116d6914aefb2eae9647c0f84f0445e7474ff1bca2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/36\/8-8.1792304669921.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ba ile ba dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bao ba hlalephilego"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "go ba bagodi"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "mošomong"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mishkane"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tše lesome"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "diripa"
+    },
+    {
+      "surface": "שש",
+      "gloss": "linene"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "tša go kgotla"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "gomme tekhelete"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "gomme argamane"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "gomme tolaat"
+    },
+    {
+      "surface": "שני",
+      "gloss": "šani ya bodiba"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "kerubime"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "wa go bopa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "diripa tše lesome"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:29.922148344Z",
+  "model": "glm-5.3"
+}

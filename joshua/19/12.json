@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 19:12",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "קדמה מזרח השמש",
+      "rationale": "Seheberu se bolela 'pele, moo letšatši le hlagošago' — mabitso a mabedi a boeasteng a phuthetšwe go 'boeasteng, moo letšatši le hlagošago'"
+    },
+    {
+      "kind": "elision",
+      "subject": "ויצא",
+      "rationale": "'a etla' — Seheberu se bolela mollwane o etla\/tšwa, Sepedi se sepetšwa ka go etela lefelo"
+    }
+  ],
+  "translation": "Gomme o ile wa boela go tloga Sarideng, boeasteng, moo letšatši le hlagošago, go ya ka mollwane wa Kislote-Tabore; a etla go Daberate, a nyolola go Yafia.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "791896c9415b6e8328215e6aa0ba4ddf6e4a0416187dbaa27016623074eed981",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/19\/9-12.1792286942525.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "o ile wa boela"
+    },
+    {
+      "surface": "משריד",
+      "gloss": "go tloga Sarideng"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "boeasteng"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "boeasteng bja"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mollwane wa"
+    },
+    {
+      "surface": "כסלת",
+      "gloss": "Kislote"
+    },
+    {
+      "surface": "תבר",
+      "gloss": "Tabore"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a etla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הדברת",
+      "gloss": "Daberate"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "a nyolola"
+    },
+    {
+      "surface": "יפיע",
+      "gloss": "Yafia"
+    }
+  ],
+  "timestamp": "2026-10-18T01:29:02.526916204Z",
+  "model": "glm-5.3"
+}

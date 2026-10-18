@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 32:2",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חרה אף",
+      "rationale": "'puku e a fisa' — sewela sa tlhogakgopolo sa Seheberu, boletšwe ka tlhogakgopolo e fisago"
+    },
+    {
+      "kind": "substitution",
+      "subject": "moya wa gagwe",
+      "rationale": "נפש ק ga se 'moya' ka botlalo — ke mo a hemešago, bophelo bja gotee"
+    },
+    {
+      "kind": "crux",
+      "subject": "מאלהים",
+      "rationale": "'go feta Elohim' (KJV, JPS) kgahlanong le 'go se kgahlanong le Elohim' — sebopego sa צדקו...מאלהים se ka bolela ka mokgwa wo mebedi"
+    }
+  ],
+  "translation": "Gomme tlhogakgopolo ya Elihu, mora Barakele, Mmuzi, go tšwa lelapeng la Rama, e ile ya fisa kgahlanong le Ayyobo; e ile ya fisa ka gobane o ile a itshwarela tsedekeng ya moya wa gagwe, go feta Elohim.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "248a0e1a6fd045eb593ee89aabfc8b866c8706840283e7d6315c8921448ac9b2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/32\/1-4.1792300664472.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "e ile ya fisa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tlhogakgopolo"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Elihu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "ברכאל",
+      "gloss": "Barakele"
+    },
+    {
+      "surface": "הבוזי",
+      "gloss": "Mmuzi"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "go tšwa lelapeng"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "באיוב",
+      "gloss": "kgahlanong le Ayyobo"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "e ile ya fisa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "a itshwarela tsedekeng"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa gagwe"
+    },
+    {
+      "surface": "מאלהים",
+      "gloss": "go feta Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T05:17:44.473211558Z",
+  "model": "glm-5.3"
+}

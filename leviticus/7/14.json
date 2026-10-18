@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 7:14",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "m\/3605",
+      "rationale": "מכל: KJV 'one out of the whole oblation' kgathanithuto le ASV\/JPS 'one out of each offering' — Sepedi o latetše 'go se sengwe le se sengwe'"
+    },
+    {
+      "kind": "addition",
+      "subject": "go yena",
+      "rationale": "לו e loketše go hlatholla gore mpho e ya go moperisita"
+    }
+  ],
+  "translation": "Gomme a hlahlele go tšwa go tšona tee go se sengwe le se sengwe sa sehlabelo, bjalo ka mpho go Yahwe; e tla ba ya moperisita yo a thuthulatšago ⟨את⟩ madi a mapolokego.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ee40c252b5a69349d095423e05c1c09237c3cd6474e56f9554e088188f23e542",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/7\/13-16.1792283615093.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "gomme a hlahlele"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tšwa go tšona"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tee"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go se sengwe le se sengwe sa"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "bjalo ka mpho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ya moperisita"
+    },
+    {
+      "surface": "הזרק",
+      "gloss": "yo a thuthulatšago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "madi a mapolokego"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "a mapolokego"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    }
+  ],
+  "timestamp": "2026-10-18T00:33:35.095663761Z",
+  "model": "glm-5.3"
+}

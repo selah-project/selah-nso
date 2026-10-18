@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "go thaba ya Khorebe",
+      "rationale": "ASV\/JPS: 'go tšwa go Thaba ya Khorebe go pele' — מהר bjalo ka nako ya go thoma, e sego fela lefelo."
+    }
+  ],
+  "translation": "Gomme bana ba Yisraele ba tloša ⟨את⟩ dilo tša bona tša go ikgabiša go thaba ya Khorebe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e1b90049634f0563225c62d052400a0fc37405e30eee1515f4b50e70d698d1e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/33\/5-8.1792283319385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "ba tloša"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tša bona tša go ikgabiša"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "dilo tša bona tša go ikgabiša"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "go thaba"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "ya Khorebe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:28:39.386535108Z",
+  "model": "glm-5.3"
+}

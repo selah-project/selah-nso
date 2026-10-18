@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אין לו שחר",
+      "rationale": "«ga go sefihlolo» (modumo wa tlhago) kgahlanong le balatodi ba bangwe ba bolelago «ga go tsholwelo» (go tšwa go dithapo tše di tlhakanetšwego) — dikgopolo tše pedi tša khale."
+    },
+    {
+      "kind": "elision",
+      "subject": "לתורה ולתעודה",
+      "rationale": "Tema e sa kwaleego — e bolela karabelo ya potso ya temana e fetilego: «botšiša Torah le bosupo»."
+    }
+  ],
+  "translation": "Go Torah le go bosupo! A ga ba ka no bolela ka mo go lentšu le, gore ⟨go lona⟩ ga go sefihlolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e832904571fae8121561e3eba20d8ef95608fe040f17ce25c89e5ae9e27d3d58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/8\/17-20.1792291337289.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "Go Torah"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "le go bosupo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "A"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba ka no bolela"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ka mo go"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lentšu le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "sefihlolo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:42:17.290421523Z",
+  "model": "glm-5.3"
+}

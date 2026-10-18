@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רגל",
+      "rationale": "Lemma e bolela 'go sepela \/ go lelela ka mahlo (go ba mohlokomedi)'; ba fetoledi ba bodiša 'go hlolela' kgahlanong le 'go bolela diphiri' — mo, go hlolela ka leleme"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לרעהו רעה",
+      "rationale": "Go swana ga modumo magareng ga rea\/mogwera (רעה) le bobe (רע) — thwii ya mantswe a mabedi, e lahwago ka Sepedi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נשא על",
+      "rationale": "'Go bea tlhegiso mo go' — seheberu se bolela 'go godisa go tlhohlela'; Sepedi e šomiša 'go bea' bjalo ka seswantšho sa go amogela seo mmadi a se bolelago"
+    }
+  ],
+  "translation": "Ga a hlolela ka leleme la gagowo; ga a dira sebe mo go mogwera wa gagowo; gomme tlhegiso ga e e bea mo go wa kgauswi wa gagowo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/15\/1-4.1792297305078.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "a hlolela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "leleme la gagowo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "mo go mogwera wa gagowo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "gomme tlhegiso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "e e bea"
+    },
+    {
+      "surface": "על",
+      "gloss": "mo go"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "wa kgauswi wa gagowo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:45.078884948Z",
+  "model": "glm-5.3"
+}

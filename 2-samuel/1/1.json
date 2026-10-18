@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "matsatsi a mabedi",
+      "rationale": "go balwa matsatsi a mabedi ao Dafida a dulgo ka wona Tšiklag"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go bola",
+      "rationale": "מהכות ke go beta — go bolaya; go bola ke botebo bja modu fela"
+    }
+  ],
+  "translation": "Mme go diregile ka morago ga lehu la Shaul, Dafida a boela go tšwa go bola ⟨את⟩ Amaleke, gomme Dafida a dutše Tšiklag matsatsi a mabedi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b2523e5605e8c22103e24a4a1d85cd601631615a91282690b91f717fd1a73c0a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/1\/1-4.1792288889473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go diregile"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lehu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Mme Dafida"
+    },
+    {
+      "surface": "שב",
+      "gloss": "a boela"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "go tšwa go bola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amaleke"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "gomme a dutše"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "Tšiklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "a mabedi"
+    }
+  ],
+  "timestamp": "2026-10-18T02:01:29.473881624Z",
+  "model": "glm-5.3"
+}

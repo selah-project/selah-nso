@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 31:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Direct summons to bana ba Yisraele to return — imperative 'boelang'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "boelang",
+      "rationale": "Call to repentance addressed to the hearers."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yo⟩",
+      "rationale": "Sepedi requires the object pronoun for 'him to whom' — Hebrew has only לאשר."
+    }
+  ],
+  "translation": "Boelang go ⟨yo⟩ bana ba Yisraele ba ile ba hlwa ka botlalo go hlatloga kgahlanong le yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "82bb8e1adb93bf805abb941e20304ed448a56e58bf6dd27476c9b8ddc03bffd3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/31\/5-8.1792291884490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "boelang"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "go ⟨yo⟩"
+    },
+    {
+      "surface": "העמיקו",
+      "gloss": "ba ile ba hlwa ka botlalo"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "go hlatloga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:51:24.491192271Z",
+  "model": "glm-5.3"
+}

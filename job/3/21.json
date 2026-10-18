@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 3:21",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויחפרהו",
+      "rationale": "'ba e bopa' (go beba bjalo ka mešomong ya diphahlo) kgahlanong le 'ba e nyakiša' — Baebele ya kgale e tlaelela go beba, KJV e 'dig'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lehu",
+      "rationale": "מות lehu, e sego Sheole — Sheole e tla mo Žobe 3:22 go feta, fela mo lentšu le ke lehu fela"
+    }
+  ],
+  "translation": "ba ba letetšego lehu, gomme ga le gona; ba e bopetše go feta diphahlo tše tswaletšwego",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "22a88e790012bdb87235cb39bbcf7ca653f93382488a821ac417baca27629b2c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/3\/21-24.1792299988926.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המחכים",
+      "gloss": "ba ba letetšego"
+    },
+    {
+      "surface": "למות",
+      "gloss": "lehu"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "gomme ga le gona"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "ba e bopetše"
+    },
+    {
+      "surface": "ממטמונים",
+      "gloss": "go feta diphahlo tše tswaletšwego"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:28.926861733Z",
+  "model": "glm-5.3"
+}

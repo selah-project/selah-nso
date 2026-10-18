@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 10:3",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדני",
+      "rationale": "mong wa ka (Estra, motho — KJV\/ASV) kgahlanong le Adonai (Leina la Modimo — dipheto tše dingwe); mo Shekhanja o bolela go Estra"
+    },
+    {
+      "kind": "idiom",
+      "subject": "נכרת ברית",
+      "rationale": "'go bea kgwerano' — Seheberu ga se na 'go bea', כרת ke go kgaola; kgwerano e beilwe ka go kgaola"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go ntšha",
+      "rationale": "להוציא modumo wa go ntšha — dipheto tše mmalwa di fetoša sebopego sa go 'lahla' (שלח, v19)"
+    }
+  ],
+  "translation": "Gomme bjale re be kgwerano le Elohim wa rena, go ntšha ⟨את⟩ basadi bohle le bao ba belegwago ke bona, ka temošo ya mong wa ka, le bao ba titšerego go taelo ya Elohim wa rena, gomme go dirwe bjalo ka Torah.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "6731ef52a71b0236679f1e24b1892bf70b9acb474bd0a3431715e44e7a152789",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/10\/1-4.1792302350178.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "gomme bjale"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "re be"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "le Elohim wa rena"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "go ntšha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "basadi"
+    },
+    {
+      "surface": "והנולד",
+      "gloss": "le bao ba belegwago"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "ka temošo ya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa ka"
+    },
+    {
+      "surface": "והחרדים",
+      "gloss": "le bao ba titšerego"
+    },
+    {
+      "surface": "במצות",
+      "gloss": "go taelo ya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rena"
+    },
+    {
+      "surface": "וכתורה",
+      "gloss": "bjalo ka Torah"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "go dirwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:45:50.179666810Z",
+  "model": "glm-5.3"
+}

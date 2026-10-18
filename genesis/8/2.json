@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ארבת",
+      "rationale": "'lattice\/window' — mafuri a magodimo: 'windows of heaven' (KJV) kgahlanong le 'floodgates' (BSB) le 'net-work' (YLT)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pula",
+      "rationale": "הגשם ke pula e theogago magodimo; lentšu le bolela se phelelogolo se se theogago"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהום",
+      "rationale": "tehwane — lentšu le tšwago Genesi 1:2; go boela gape go bontšha phenšo ya mwala wa tlhalego"
+    }
+  ],
+  "translation": "Gomme mafurudi a tehwane a tswalelwa, le difatanetane tša magodimo; gomme pula e ile ya thibelwa go tšwa magodimong.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "54d78dae36ec4e3969876188b5de498b728c05cc7e614f187e816f98ecc266d4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/8\/2-3.1792304575387.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "a tswalelwa"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "mafurudi"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "a tehwane"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "le difatanetane"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tša magodimo"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "ya thibelwa"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "pula"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimong"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:55.387725073Z",
+  "model": "glm-5.3"
+}

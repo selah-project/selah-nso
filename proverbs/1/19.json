@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בוצע\/בצע",
+      "rationale": "Sebopego sa molao le lentsu (yo a hlohlelago \/ sehumo se se fošagetšego) — bothata bjo bo wa ka Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maphelo",
+      "rationale": "נפש ke 'tharo\/moya wa bophelo', e sego moya wo a se nago sebopego."
+    }
+  ],
+  "translation": "Ka mo bjalo ke ditsela tša mong le mong yo a hlohlelago sehumo se se fošagetšego; se šea ⟨את⟩ maphelo a ba a nago sona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0e6153acecaa17d94848af4fce10916f8da89ec58f02b98bb040025c45b26ca1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/1\/17-20.1792299151001.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ka mo bjalo"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ditsela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tša mong le mong"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "yo a hlohlelago"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "sehumo se se fošagetšego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maphelo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "maphelo"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ba a nago sona"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "se šea"
+    }
+  ],
+  "timestamp": "2026-10-18T04:52:31.002352947Z",
+  "model": "glm-5.3"
+}

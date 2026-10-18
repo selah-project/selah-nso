@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקם \/ ואקם",
+      "rationale": "Poeletšo ya go ema — 'Yahwe a emišetše lentšu' le 'nna ka ema' — mme wa go ema ga bo Kgoši, e bolokilwe ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "setulo sa bogoši",
+      "rationale": "כסא is literally a covered seat, throne; rendered 'setulo sa bogoši' (bogoši ka š, e sego bogosi)"
+    },
+    {
+      "kind": "addition",
+      "subject": "boemong bja go busa",
+      "rationale": "Sepedi needs a fuller phrase for 'sit on the throne of Israel' where Hebrew על כסא is compact"
+    }
+  ],
+  "translation": "Gomme Yahwe a tlhatlamitše ⟨את⟩ lentšu la gagwe leo a le boletšego, gomme ke ile ka ema boemong bja Dafida ntate wa ka, ka dutše boemong bja go busa bja Yisraele, bjalo ka ge Yahwe a boletše; gomme ke ile ka aga ⟨את⟩ ntlo go Leina la Yahwe, Elohim wa Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/8\/17-20.1792289856954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Gomme ... a tlhatlamitše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu la gagwe"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentšu la gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a le boletšego"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "ka ema"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "boemong bja"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ntate wa ka"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "ka dutše"
+    },
+    {
+      "surface": "על",
+      "gloss": "boemong bja go busa bja"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "setulo sa bogoši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bja Yisraele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a boletše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "ka aga"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨את⟩ ntlo",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "go Leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:17:36.955839161Z",
+  "model": "glm-5.3"
+}

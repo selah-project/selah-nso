@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 29:21",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחטיאי אדם בדבר",
+      "rationale": "'Ba dira motho a šeleke ka lentšu' kgahlanong le 'ba swara motho ka lentšu' (KJV 'offender for a word') — hlalošo e fapana go diphetolelo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו",
+      "rationale": "E tee le Genesi 1:2 (lefsa\/bohula) — lefoko la go šha la 'tohu', le laetša go lahlega ga toka."
+    }
+  ],
+  "translation": "Ba dira motho a šeleke ka lentšu, gomme molaoding kgorong ba loša thari, gomme ba tloša toka ka lefeela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fae10f73d0c14531198430942649f43371dee5ddb0ad296f32728ad6da46dddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/29\/21-24.1792291874361.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחטיאי",
+      "gloss": "ba dira a šeleke"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka lentšu"
+    },
+    {
+      "surface": "ולמוכיח",
+      "gloss": "gomme molaoding"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "kgorong"
+    },
+    {
+      "surface": "יקשון",
+      "gloss": "ba loša thari"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "gomme ba tloša"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "ka lefeela"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "toka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:51:14.362192155Z",
+  "model": "glm-5.3"
+}

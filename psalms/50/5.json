@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתי בריתי",
+      "rationale": "Seheberu se re 'go rala kgwerano' — lentšu la go rala (cut) le bolokwa; kgwerano ya Seheberu e dirwa ka go rala."
+    },
+    {
+      "kind": "crux",
+      "subject": "עלי זבח",
+      "rationale": "'godibja ga sehlabelo' — baditiriši ba fapana: 'ka sehlabelo' (KJV) kgahlanong le 'godibja ga sehlabelo' (YLT)."
+    },
+    {
+      "kind": "invitation",
+      "subject": "verse",
+      "rationale": "Moletlo o bitša bagodi — taelo ya go kokoantšha go Elohim, mmadi o gatiswa."
+    }
+  ],
+  "translation": "Kokoantšhang go ⟨na⟩ bagodi ba ka, bao ba ralago kgwerano ya ka go ya ka sehlabelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/50\/5-8.1792297782191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Kokoantšhang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go ⟨na⟩"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "bagodi ba ka"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "bao ba ralago"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "kgwerano ya ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sehlabelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:42.191653732Z",
+  "model": "glm-5.3"
+}

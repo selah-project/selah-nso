@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nefeshe",
+      "rationale": "נפש ga se 'moya' fela — e atametše sepharing, botšofapele le maphelo; e bolokilwe ka modumo"
+    }
+  ],
+  "translation": "Gomme ke tla bea ⟨את⟩ Mishkane ya ka gare ga lena, gomme nefeshe ya ka e ka se le hloile ⟨את⟩ lena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ca5cb799880e3020fe7e5e6cfd22135baf1e22751de7a52fe3de4b29c7d313db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/26\/9-12.1792284241892.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ke tla bea"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Mishkane ya ka"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "gare ga lena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e ka se"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "hloile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "nefeshe ya ka"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lena",
+      "marks": "lena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:44:01.893886112Z",
+  "model": "glm-5.3"
+}

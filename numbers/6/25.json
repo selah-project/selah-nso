@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sefahleho",
+      "rationale": "פנים ke 'sefahleho' ka bobedi bja tlhago le bokao bja go ba gona ga Yahwe."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויחנך",
+      "rationale": "חנן: 'go feteletša mohau' kgathanong le 'go hlokomela' — mohau ke wo o kgethwa."
+    }
+  ],
+  "translation": "Yahwe a tšeletše sefahleho sa gagwe go wena, a go feteletše mohau.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "140606acc1b83ea4995b62466ca3d84525f3ea2f7566fb338082a22a594fa586",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/6\/25-27.1792284477605.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "a dikhanya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahleho sa gagwe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "a go feteletše mohau"
+    }
+  ],
+  "timestamp": "2026-10-18T00:47:57.606129403Z",
+  "model": "glm-5.3"
+}

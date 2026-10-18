@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 14:8",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ברושים",
+      "rationale": "Tree identification disputed: cypress (JPS), fir (KJV), juniper — Sepedi lacks an exact word, so a shaped loan with 'dihlare' (trees) is used."
+    },
+    {
+      "kind": "alternative",
+      "subject": "di re",
+      "rationale": "'Saying' (אמר לאמר implied by KJV\/JPS) is supplied: the trees' words are direct speech without an intro in the token string."
+    }
+  ],
+  "translation": "Ee, dihlare tša beruše di ile tša ikgantšha ka wena, le dice tša Lebanone, di re: Mo go tloga ge wa robala, go sa hlōle moremi a namile go rena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "07c977385d7b59558e92bc3fbceea69f239d8635ff3966db3fe7ac4bd4ff2e5c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/14\/5-8.1792291454439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ee"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "dihlare tša beruše"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "di ile tša ikgantšha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ka wena"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "dice"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "tša Lebanone"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "mo go tloga"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ge wa robala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "go sa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "hlōle a namile"
+    },
+    {
+      "surface": "הכרת",
+      "gloss": "moremi"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "go rena"
+    }
+  ],
+  "timestamp": "2026-10-18T02:44:14.440726784Z",
+  "model": "glm-5.3"
+}

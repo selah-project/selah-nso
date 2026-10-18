@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moono",
+      "rationale": "נפש ke moya\/maphelo — 'moya wa yena' goba 'bophelo bja yena'; 'moono' ke go iša godimo ga taba"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tshela\/šupa",
+      "rationale": "palo ya tshela e oketšwa go šupa — mokgwa wa Seheberu wa go bontšha bokgolwa; dipalo ka Sepedi ka botlalo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "copula ye Sepedi e e nyakago, Seheberu ga se na yona"
+    }
+  ],
+  "translation": "Tše tše tshela Yahwe o di hloile, gomme tše šupa ke maswabi ⟨go⟩ moono wa yena.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a91f7f09e53e1e7fcd449a938cf9ccabc6fe5b16ddbaa722f50cb088d28bdd8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/6\/16-16.1792305306300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "tše tshela"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "o di hloile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "gomme tše šupa"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ke maswabi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moono wa yena"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:06.300915029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 37:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Khizkiyahu",
+      "rationale": "Baromuwa ba Senakeribu ba romiwa go Khizkiyahu, kgoši ya Juda."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אתך",
+      "rationale": "Mo e sego motsu wa direct-object (H854, 'le'), fela taelo e nyaka ⟨את⟩ go bolokwa."
+    }
+  ],
+  "translation": "Gomme a kwa ka ga Tarhaka, kgoši ya Kusha, a re: O tšwile go tla go lwa ⟨את⟩ le wena; gomme a kwa, a romela baromuwa go Khizkiyahu, a re:",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "58a2d0b98f488fcc482ba781196e6d88a694931f50e6ace27ff4aa848dfffddb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/37\/9-12.1792291965155.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "gomme a kwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "תרהקה",
+      "gloss": "Tarhaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ya Kusha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tšwile"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "go tla go lwa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena",
+      "marks": "go lwa le wena"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "gomme a kwa"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "baromuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    }
+  ],
+  "timestamp": "2026-10-18T02:52:45.156092127Z",
+  "model": "glm-5.3"
+}

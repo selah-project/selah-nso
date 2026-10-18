@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 64:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a iphutha",
+      "rationale": "khasa: 'go iphutha' — seswantšho sa Seheberu ke go baleha go ya go tšhireletšo, go se go 'tshepa' fela."
+    },
+    {
+      "kind": "elision",
+      "subject": "יודע",
+      "rationale": "Seheberu ga se na sekope sa bokamoso — maemo a šupa bokamoso bjo bo bonwago ka go bokgole; Sepedi se a se hloka."
+    }
+  ],
+  "translation": "Yo a lokilego o nyakwa go Yahwe, a iphutha go yena; gomme bohle bao ba nago le pelo e thwii ba di kgantšha.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "97fdc78de7ab084598fe1800a3f8ab85cc106f2305a810c8115912a8f0935e30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/64\/9-11.1792297940298.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "o nyakwa go"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a lokilego"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וחסה",
+      "gloss": "a iphutha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "gomme ba di kgantšha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "bao ba nago le pelo e thwii"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:20.299215742Z",
+  "model": "glm-5.3"
+}

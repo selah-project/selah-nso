@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 29:13",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מלמדה",
+      "rationale": "participle ya go rutwa ka go boelela (learned by rote); JPS 'learned by rote'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "aleph-tav ye e hlometše go lega la moduši o lenyane; e bolokilwe bjalo ka ⟨את⟩"
+    },
+    {
+      "kind": "you",
+      "subject": "Adonai",
+      "rationale": "Adonai o bolela ka setšhaba — khalemo ya go ela setšhaba se se sa dutše se mo tlotša ka sefonyo fela"
+    }
+  ],
+  "translation": "Gomme Adonai a re: Ka gobane setšhaba se se atametša ka molomo wa sona, gomme ka sefonyo sa sona ba ntlotša, gomme pelo ya sona ba e tlošitše kua go nna; gomme tsabo ya bona ⟨את⟩ go nna e bile ⟨ke⟩ taelo ya batho ye e rutwego ka go boelela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b9484dacf5b70c57a1111a4703991a42223f7f592193fbff0b141dc1a7e96c45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/29\/13-16.1792291861132.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Gomme Adonai a re"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "se atametša"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ka molomo wa sona"
+    },
+    {
+      "surface": "ובשפתיו",
+      "gloss": "gomme ka sefonyo sa sona"
+    },
+    {
+      "surface": "כבדוני",
+      "gloss": "ba ntlotša"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "gomme pelo ya sona"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "ba e tlošitše kua"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "gomme e bile"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "tsabo ya bona"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "go nna"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "ya batho"
+    },
+    {
+      "surface": "מלמדה",
+      "gloss": "ye e rutwego ka go boelela"
+    }
+  ],
+  "timestamp": "2026-10-18T02:51:01.133395143Z",
+  "model": "glm-5.3"
+}

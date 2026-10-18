@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 5:13",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "molomo",
+      "rationale": "שפתותיו ke 'sephato' (molomo wa ka ntle), ka gobane Sepedi se se na lentšu le tee le tobilego"
+    },
+    {
+      "kind": "crux",
+      "subject": "מגדלות",
+      "rationale": "'matala' (migdal) kgahlanong le 'diphapo' (tše di phašwago) — diphetolelo di fapana"
+    },
+    {
+      "kind": "crux",
+      "subject": "עבר",
+      "rationale": "'ya feta' (go feta, go ela) kgahlanong le 'mora ya go elela' — go fetiša nako goba go phophoma"
+    }
+  ],
+  "translation": "Mahlokwa a gagwe a swana le serapa sa dinaname, matala a dikgodišo; molomo wa gagwe ⟨ke⟩ dihlare, tše di thothomolago mora ya feta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1efefcdf6a883c2c097881099c4b572768f305ab049f4ecebff6618b5b3c62a2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/5\/13-16.1792300951425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לחיו",
+      "gloss": "mahlokwa a gagwe"
+    },
+    {
+      "surface": "כערוגת",
+      "gloss": "a swana le serapa sa"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "dinaname"
+    },
+    {
+      "surface": "מגדלות",
+      "gloss": "matala"
+    },
+    {
+      "surface": "מרקחים",
+      "gloss": "a dikgodišo"
+    },
+    {
+      "surface": "שפתותיו",
+      "gloss": "molomo wa gagwe"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "dihlare"
+    },
+    {
+      "surface": "נטפות",
+      "gloss": "tše di thothomolago"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mora"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ya feta"
+    }
+  ],
+  "timestamp": "2026-10-18T05:22:31.425886213Z",
+  "model": "glm-5.3"
+}

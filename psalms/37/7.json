@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "דום",
+      "rationale": "Seheberu se re 'hula mme gomme o phumule' — go se sa go reta; 'Phumula' ke sephetho sa dithoto se sebotse."
+    },
+    {
+      "kind": "alternative",
+      "subject": "והתחולל",
+      "rationale": "Seheberu se hlama go dikanya le go fetoga (2342a) — 'ikgantšha' e ka ba 'itsepelela go yena' goba 'ikanyega go yena' ge se hlalosa go ikanya."
+    }
+  ],
+  "translation": "Phumula go Yahwe, gomme ikgantšha go yena; o se ke wa fufegela yo a atlegago sefokeng sa gagwe, goba motho yo a dirago merero ya bobe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/37\/5-8.1792297591475.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Phumula"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "gomme ikgantšha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "fufegela"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "yo a atlegago"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sefokeng sa gagwe"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "goba motho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo a dirago"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "merero ya bobe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:31.476007253Z",
+  "model": "glm-5.3"
+}

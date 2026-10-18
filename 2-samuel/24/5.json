@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הנחל",
+      "rationale": "נחל bolela molapo wa selemo goba sekgoba — diphetolelo di fapana: 'molapo' (KJV) kgahlanong le 'sekgoba' (JPS)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "go bala setšhaba",
+      "rationale": "Seripa se se karolo ya maeto a go bala setšhaba — go dikanya batho ba Yisraele."
+    }
+  ],
+  "translation": "Ba feta ⟨את⟩ Yoredene, ba khuma Aroere, ka go ja mošomo bja toropo yeo e lego bogareng bja molapo wa Gade, gomme go ya go Yaezere.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "64457e4ec994ba250abfd05a1ea22aa0a383c5b3787cd50b17a8827deeebff04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/24\/5-8.1792289462496.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "ba feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yoredene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Yoredene"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba khuma"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "Aroere"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "go ja mošomo bja"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo e lego"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "bogareng bja"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "molapo"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Gade"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme go ya go"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Yaezere"
+    }
+  ],
+  "timestamp": "2026-10-18T02:11:02.496653046Z",
+  "model": "glm-5.3"
+}

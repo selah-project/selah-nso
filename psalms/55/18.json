@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gare-ga-tsatsi-pedi",
+      "rationale": "צהרים ke bo-pedi (dual) bja seetša — mahutahutwana a mabedi; sebopego sa dual se bolokwa ka -pedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Seheberu se sa nyake sebufi; ⟨o⟩ e bontšha gore Yahwe ke yena a kwago."
+    },
+    {
+      "kind": "crux",
+      "subject": "ke tla bolela \/ a kwa",
+      "rationale": "Ithutelelo ya go tla kgahlanong le go fetogela morago: KJV 'will I pray... he shall hear', JPS 'hath heard' — bothata bja nako."
+    }
+  ],
+  "translation": "Ka mantšiboa, le bosasa, le gare-ga-tsatsi-pedi, ke tla bolela, gomme ke hema ka sekhutu; gomme ⟨o⟩ a kwa lentšu la ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/55\/17-20.1792297893673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "mantšiboa"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "le bosasa"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "le gare-ga-tsatsi-pedi"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ke tla bolela"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "gomme ke hema ka sekhutu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "gomme a kwa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "lentšu la ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:33.673905996Z",
+  "model": "glm-5.3"
+}

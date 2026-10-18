@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "Moya goba phefo — lentšu le tee la Seheberu, ka mehla ruakh"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכירנו",
+      "rationale": "Lefelo le tseba — motho wa sefalala o nyamela; Setheberu se fa lefelo boikgethelo bjalo ka motho"
+    }
+  ],
+  "translation": "Ka gobane ruakh e feta godimo ga yona, gomme e se gona; gomme lefelo la yona le ka se sa e tseba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8fb404682e6fcceec1c0c687951955156f6b0ffe4ebcd9cec163f0f254815c13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/103\/13-16.1792298529151.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "e feta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "godimo ga yona"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "gomme e se gona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme e sego"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "le ka se e tseba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "lefelo la yona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:09.152618692Z",
+  "model": "glm-5.3"
+}

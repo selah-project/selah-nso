@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "nna",
+      "rationale": "e reng elidi היקש bakeng sa mogopolo wo o tlaelegilego"
+    }
+  ],
+  "translation": "⟨את⟩ Nna o ntšhitše gomme a ntseetša lefsifsi, gomme e sego seetsego.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "cd7b0b8efa22676419bf13ef797ee7b9369fbcf8377f072e991a2e6bb886e6f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/3\/1-4.1792301145099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "o ntšhitše"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gomme a ntseetša"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme e sego"
+    },
+    {
+      "surface": "אור",
+      "gloss": "seetsego"
+    }
+  ],
+  "timestamp": "2026-10-18T05:25:45.100187582Z",
+  "model": "glm-5.3"
+}

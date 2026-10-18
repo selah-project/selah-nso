@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "to the house of Jacob",
+      "rationale": "Imperatives 'tlang, a re yeng' summon the addressee directly."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel (house of Jacob)",
+      "rationale": "Direct address by name of the covenant family."
+    }
+  ],
+  "translation": "Aowa ntlo ya Yaakobo, tlang, a re yeng ka leseding la Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "85fde5a37a8d74778913c099a1e4084c38d03e287e781189f57011cdddf45c56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/2\/5-8.1792291141653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "tlang"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "a re yeng"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ka leseding"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:01.653768698Z",
+  "model": "glm-5.3"
+}

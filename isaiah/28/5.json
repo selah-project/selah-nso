@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 28:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צבאות \/ צבי",
+      "rationale": "tsabaote le tsvi di a apolelana ka modumo — go tšwelelwa ga sehlogo se, se lahlile ka Sepedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "go",
+      "rationale": "lamed ya boima (לעטרת, לשאר) e nyaka sebopego sa lentšu la Sepedi."
+    }
+  ],
+  "translation": "Ka letšatši leo, Yahwe Tsebaote o tla ba sefahlogo sa khanya le khurumetšo ya bonakalo, go setšhaba se se salego sa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d009954a72b2c994961dde176f4f309a37b9330fd8a4345c3882541b99b39e2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/28\/5-8.1792291779950.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši leo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "o tla ba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "לעטרת",
+      "gloss": "sefahlogo sa"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "khanya"
+    },
+    {
+      "surface": "ולצפירת",
+      "gloss": "le khurumetšo ya"
+    },
+    {
+      "surface": "תפארה",
+      "gloss": "bonakalo"
+    },
+    {
+      "surface": "לשאר",
+      "gloss": "go se se salego sa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setšhaba sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:49:39.950727884Z",
+  "model": "glm-5.3"
+}

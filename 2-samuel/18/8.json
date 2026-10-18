@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 18:8",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sehla se jeditše setšhabeng",
+      "rationale": "וירב היער לאכל: 'sehlaring se oketše go ja' — ba bangwe ba ahlaahla gore batho ba wele dikgorong tša sehla; mongwalo o bolela sehla ka boyona se ja batho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go feta",
+      "rationale": "וירב ke 'go oketšwa'; kgahanong ye e hlalosa gore sehla se jeditše go feta tšhoša"
+    }
+  ],
+  "translation": "Gomme ntwa yeo e phatlaladitšwe foo godimo ga sefahleho sa lefase ka moka; gomme sehla se jeditše setšhabeng go feta tše tšhoša e jeditšego ka letšatši leo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "11c026d7721a5222dec057712e711d6e7a20940320ed280aef7cb3d6d49ebaf4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/18\/5-8.1792289229004.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "e be"
+    },
+    {
+      "surface": "שם",
+      "gloss": "foo"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "נפצית",
+      "gloss": "e phatlaladitšwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "היער",
+      "gloss": "sehla"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "go ja"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "setšhabeng"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "go feta tše"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "e jeditšego"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:07:09.005875317Z",
+  "model": "glm-5.3"
+}

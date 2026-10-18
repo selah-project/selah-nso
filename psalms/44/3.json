@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "o di beditše",
+      "rationale": "suffixed -em ya ותטעם: ditšhaba tša ge di ntšhwa (KJV) goba Yisraele ya bjalwa (ASV\/JPS) — Sepedi se latela pele"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ditšhaba⟩",
+      "rationale": "merafo ya ditšhaba — lentšu la Sepedi le okeditšwe go hlaloša לאמים"
+    }
+  ],
+  "translation": "Wena, ka seatla sa gago o ntšhitše ⟨את⟩ ditšhaba gomme o di beditše; o tšhotšhotše merafo ya ditšhaba gomme o di romile kgole.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2d81b34b2fe27c73d336ae0b6513a78bcce3ba43b1f8a7c8ced15d5436171424",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/44\/2-3.1792305206273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ka seatla sa gago"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "o ntšhitše"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "gomme o di beditše"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "o tšhotšhotše"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "merafo ya ditšhaba"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "gomme o di romile kgole"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:26.274134065Z",
+  "model": "glm-5.3"
+}

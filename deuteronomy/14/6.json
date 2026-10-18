@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gare",
+      "rationale": "גרה ke selo se se busetšwago mothong ka gare; 'gare' ke lentšu la Sepedi leo le theilwego go go ba gare."
+    },
+    {
+      "kind": "addition",
+      "subject": "mo diruiweng",
+      "rationale": "בבהמה e boletšwe ka gare ga moetlo; Sepedi e nyaka sehlengwa."
+    }
+  ],
+  "translation": "Gomme diruiwa ka moka tša go kgaogantša lehlato, le go arogantša aroga ya lehlato ka dikarolo tše pedi, tša go ba gare — ⟨את⟩ tšeo le ka di ja.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "97825781facfb1fcb05fbe0c2a2ebb9533495643192486c6f4346725f79557e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/14\/5-8.1792285891101.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "gomme ka moka"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "diruiwa"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "tša go kgaogantša"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "lehlato"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "le go arogantša"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "aroga"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tše pedi"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "dikarolo tša lehlato"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "tša go busetša godimo"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gare"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "mo diruiweng"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "diruiwa tšeo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le ka di ja"
+    }
+  ],
+  "timestamp": "2026-10-18T01:11:31.102468785Z",
+  "model": "glm-5.3"
+}

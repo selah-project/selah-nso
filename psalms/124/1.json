@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 124,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "a re bjale, Yisraele",
+      "rationale": "sefela se laletša setšhaba gore se bolele sefoko se se bolelwago mmeleng"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Seheberu se re 'Yahwe yo a bego a le rena'; ⟨go⟩ e oketšwa ke Sepedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לולי",
+      "rationale": "foko le le tee le boeledwa ga raro (129:1; 124:1,2) — sebopego sa psaleme ye"
+    }
+  ],
+  "translation": "Sefela sa mahodimo, sa Dafida. Ge e sego Yahwe yo a bego a le ⟨go⟩ rena — a re bjale, Yisraele:",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "646c456f53e3f44dafbf952afe823ed620272788a889bbda1712b861c0f4c190",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/124\/1-4.1792298951094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "sefela"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "mahodimo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dafida"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "ge e sego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yo a bego a le"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "rena"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "נא",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:11.095087875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 41:16",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תזרם...תשאם...תפיץ אותם",
+      "rationale": "Tatelano ya go fetelela ga -ם suffix (o di gogela \/ e tla di tsea \/ o tla di phatlalatša) — go tšweletša ga modumo go theilwe godimo ga dithaba."
+    },
+    {
+      "kind": "idiom",
+      "subject": "sefofu se tiile",
+      "rationale": "סערah ke sefofu se tiile\/phefo e tiilego; phokwana ya Sepedi ga e swane le phetolelo ya go 'phapafatša'."
+    }
+  ],
+  "translation": "O tla di gogela, gomme ruakh e tla di tsea, gomme sefofu se tiile se tla di phatlalatša ⟨את⟩ tšona; gomme wena o tla ikgantšha go Yahwe, o tla ipelaela go yo a Kgethwago wa Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1ebdc0419e297c2b4d710416ff0969004b819ae250f2d5a19c3b620c0c139e8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/41\/13-16.1792292157678.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תזרם",
+      "gloss": "o tla di gogela"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "gomme ruakh"
+    },
+    {
+      "surface": "תשאם",
+      "gloss": "e tla di tsea"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "gomme sefofu se tiile"
+    },
+    {
+      "surface": "תפיץ",
+      "gloss": "se tla di phatlalatša"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "tšona — dithaba le dithokgo tšeo di gogilwego"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "gomme wena"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "o tla ikgantšha"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "בקדוש",
+      "gloss": "go yo a Kgethwago"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "o tla ipelaela"
+    }
+  ],
+  "timestamp": "2026-10-18T02:55:57.679940407Z",
+  "model": "glm-5.3"
+}

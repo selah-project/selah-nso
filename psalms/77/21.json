@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 77:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "letsatši la",
+      "rationale": "ביד ka botlalo e ra 'ka seatla'; 'ka letsatši la' e šomišitšwe go laetša mokgwa woo Moshe le Aharone ba hloditšwego ka gona"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wa leleka",
+      "rationale": "נחית e re 'wa hlodiša\/wa tata'; 'leleka' e patalalitše sebopego sa mohlape, eupša 'wa tata' e ka ba e nepagetše go feta"
+    }
+  ],
+  "translation": "O ile wa leleka setšhaba sa gago bjalo ka dinku le dipudi, ka letsatši la Moshe le Aharone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "06e6ab777cc305adfc8b902300dadc3c02ed983aea52653db7aae92601ec0898",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/77\/21-21.1792298150902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נחית",
+      "gloss": "wa leleka"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "bjalo ka dinku le dipudi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setšhaba sa gago"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka letsatši la"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "le Aharone"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:50.903490783Z",
+  "model": "glm-5.3"
+}

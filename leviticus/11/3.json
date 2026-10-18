@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "gera",
+      "rationale": "גרה ke sepepo se se bušetšwago mo mmaleng; go laola gera ke go boela go ja sepepo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mešomo ya pharasa le gera",
+      "rationale": "Molao o ka ga go ela ka tsela e due go noša pharasa le go laola gera — diphopho tša lefase di a ekwa"
+    }
+  ],
+  "translation": "Yohle ya arōlanyago pharasa, ya nago le moaro o arōlanyeditšwego wa pharasa, ya laolago gera, go diruiwa — yohle ke yona ye le ka e jago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/1-4.1792283797724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Yohle"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "ya arōlanyago"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "pharasa"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "ya nago le moaro"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "moaro"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "wa pharasa"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "ya laolago"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "go diruiwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona (sebego sa go ja)"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le ka e jago"
+    }
+  ],
+  "timestamp": "2026-10-18T00:36:37.725962732Z",
+  "model": "glm-5.3"
+}

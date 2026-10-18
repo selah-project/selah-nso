@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרעם",
+      "rationale": "'Seripa sa bona' (KJV, JPS) kgahlanong le 'seripa sa rena' (ASV, BSB — ba bangwe ba bala ba se na mokgwa wa bona); mongwalo o re ‑m, 'sa bona'."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi se nyaka kopula yeo Seheberu se se se nago yona thwii ka morago ga היה."
+    },
+    {
+      "kind": "you",
+      "subject": "thapelo go Yahwe",
+      "rationale": "Mothaladi o bitša Yahwe ka thapelo ya kgonthe."
+    }
+  ],
+  "translation": "Yahwe, re kgotsofetše; go wena re beile tshepo; eba ⟨ke⟩ seripa sa bona mesong ka moka, ee ⟨ke⟩ tlhohlelo ya rena nakong ya kgatelelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "57114b137b94ebafd6d4ba61d319adfbfcf4b9348d054fd36d09daf484ef0c9f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/33\/1-4.1792291936127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "re kgotsofetše"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "re beile tshepo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "eba"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "seripa sa bona"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "mesong ka moka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ee"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "tlhohlelo ya rena"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "nakong ya"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "kgatelelo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:52:16.128268937Z",
+  "model": "glm-5.3"
+}

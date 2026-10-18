@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ba lokišo ba batla bophelo bja yena",
+      "rationale": "Go batla bophelo bja yena go ka bolela go se hlotša (KJV 'seek his soul' = go bolaya) goba go se boloka (JPS\/ASW 'seek his life' = go se hlokomela); bothata bjo bo sa tswalwe."
+    }
+  ],
+  "translation": "Banna ba madi ba hloya ⟨את⟩ yo a se nago sebi, gomme ba lokišo ba batla bophelo bja yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "347ef1b7fd26606cb72ca8827d1dac8af4e3dfd81df4fa4c33b5ccf0a2e8e397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/29\/9-12.1792299922190.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "banna"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ba madi"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "ba hloya"
+    },
+    {
+      "surface": "תם",
+      "gloss": "yo a se nago sebi"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "gomme ba lokišo"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "ba batla"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bophelo bja yena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:22.191229364Z",
+  "model": "glm-5.3"
+}

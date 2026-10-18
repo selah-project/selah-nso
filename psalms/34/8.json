@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חנה",
+      "rationale": "'Encamp' evokes a military camp pitched around the defenseless — the same verb used of Israel's camps in the wilderness; the picture of a besieging protection is the verse's core image."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויחלצם",
+      "rationale": "Root חלץ 'to pull off\/strip': 'he delivers them' (most versions) vs YLT's literal 'he armeth them' — the same root underlies weaponry (arms pulled off a foe), so 'rescue' and 'arm' share one Hebrew word."
+    }
+  ],
+  "translation": "Malaika wa Yahwe o hema leka-lekane ga bao ba mo boifago, gomme o ba lokolla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "de242b39fc63e69dad226e202adf721f52a44cdb6065cba3550d269d034dd3f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/5-8.1792297542389.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "o hema"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "malaika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "wa Yahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "leka-lekane ga"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "bao ba mo boifago"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "gomme o ba lokolla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:42.391363120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 7:28",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השלבים",
+      "rationale": "שלב le bonwa fela mo temaneng tša tempole; go hlathollwa bjalo ka dikgokagano tša gare ga dikaropo."
+    },
+    {
+      "kind": "crux",
+      "subject": "dikaropo",
+      "rationale": "מסגרת: 'borders\/panels' — dikaropo tša go dikanya theo; Šebedumela le kgokagano ya tšona di sa hlaka."
+    }
+  ],
+  "translation": "Gomme se bjalo ke mošomo wa theo: di na le dikaropo, gomme dikaropo di gare ga dikgokagano.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "097e49e0bd0deedca1ded2aa72d70e2f22e62a44d3e17a2ac7bad27a1c7e3f99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/7\/25-28.1792289809038.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "gomme se bjalo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "wa theo"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "dikaropo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "di na le"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "gomme dikaropo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "di gare ga"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "dikgokagano"
+    }
+  ],
+  "timestamp": "2026-10-18T02:16:49.039389647Z",
+  "model": "glm-5.3"
+}

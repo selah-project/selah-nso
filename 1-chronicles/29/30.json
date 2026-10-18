@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 29:30",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "dinako tše di fetilego go yena",
+      "rationale": "והעתים אשר עברו עליו — 'dinako tše di fetilego go yena': seswantšho sa Seheberu sa go feta ga nako, sebolokwa ka go swana"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maatla",
+      "rationale": "גבורה — 'maatla\/bolela' — maatla a mošomo wa go lwa"
+    }
+  ],
+  "translation": "le bogoši bja wona ka moka le maatla a wona, le dinako tše di fetilego go yena le go Yisraele le go bogosi bjo bohle bja mafase.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5592f389db6bfa8865b62136cafdf3a80b9650326fe5fe00985c61ef424eca58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/29\/29-30.1792303471948.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "bogoši bja wona"
+    },
+    {
+      "surface": "וגבורתו",
+      "gloss": "le maatla a wona"
+    },
+    {
+      "surface": "והעתים",
+      "gloss": "le dinako"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "di fetilego"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bjo bohle"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "bogosi bja"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "mafase"
+    }
+  ],
+  "timestamp": "2026-10-18T06:04:31.949721894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsheko",
+      "rationale": "pakhad — sekgofu sa bonakalo; tsheko e swantšha taba ye eupša e lahlela sebopego sa go hloka boitshwaro"
+    },
+    {
+      "kind": "alternative",
+      "subject": "sekgofu",
+      "rationale": "pakhad e ka hlaloswa bjalo ka sekgofu ka bonakalo — KJV 'fear', JPS 'fear'"
+    }
+  ],
+  "translation": "Mitsrayime o nyakafetše ge ba tšwa, ka gobane tsheko ya bona e ile ya wa godimo ga bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c158712589b221037cfc6f9598182b1ab8c9b5edfd2d6978fdcc2a7369e62f08",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/37-38.1792305266010.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "o nyakafetše"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ge ba tšwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "e ile ya wa"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "tsheko ya bona"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "godimo ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:26.011033657Z",
+  "model": "glm-5.3"
+}

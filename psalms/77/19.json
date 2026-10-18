@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sefasefalo",
+      "rationale": "גלגל = sefasefalo\/go dikologa; KJV e re 'magodimong', ASV\/JPS 'phefong e kgolokwe' — sefasefalo ke bosupi bja go dikologa ka botlalo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lefase ×2",
+      "rationale": "תבל le הארץ ka bobedi di fetolwa 'lefase'; boleboeledi bja setšo bo bolokwa ka go šomiša lentšu le tee gabedi."
+    }
+  ],
+  "translation": "Modumo wa mengqondo ya gago o ile o le gare ga sefasefalo; mehlaname e kgantšhitše lefase; lefase la tsogoga, gomme la tshikinyega ka maatla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "237a6ef3212480a073053ad2f6687c93a9331e9aa81b618ee548636cfbb71808",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/77\/17-20.1792298202874.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "wa mengqondo ya gago"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "gare ga sefasefalo"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "e kgantšhitše"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "mehlaname"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "la tsogoga"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "gomme la tshikinyega ka maatla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:42.875544009Z",
+  "model": "glm-5.3"
+}

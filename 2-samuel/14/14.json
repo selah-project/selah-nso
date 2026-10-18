@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 14:14",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke mephho\/moya-botego — go hema le bophelo, e sego 'moya' fela."
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא ישא אלהים נפש",
+      "rationale": "'Elohim ga a tlose mopho' (ASV\/BSB) kgahlanong le 'ga a hlankela sefapano sa motho' (KVG\/JPS go nša 'respect any person')."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידח\/נדח",
+      "rationale": "Mokošetšo wa נדח go boa (v13 le fela) — yo a mobuletšwego ga a tlošwa; mokgwa wo o se nago sephetho go Sepedi."
+    }
+  ],
+  "translation": "Gobane re tla swa; gomme re bjalo ka meetse a a uthulago a ya lefase, ao a ka se kwanošwa; gomme Elohim ga a tlose moya, eupša o hlokomola mehlokomolo, gore yo a mobuletšwego a se ke a tlošwa go yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6c4cf7e72d24194c3c071cd7d3dcd2898a28002f697263e99c84eb8c1ac22e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/14\/13-16.1792289109480.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "מות",
+      "gloss": "go swa"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "re tla swa"
+    },
+    {
+      "surface": "וכמים",
+      "gloss": "gomme re bjalo ka meetse"
+    },
+    {
+      "surface": "הנגרים",
+      "gloss": "a a uthulago"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "a ya lefase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יאספו",
+      "gloss": "a ka se kwanošwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "a tlose"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "וחשב",
+      "gloss": "eupša o hlokomola"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "mehlokomolo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "gore a se ke"
+    },
+    {
+      "surface": "ידח",
+      "gloss": "a tlošwa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "נדח",
+      "gloss": "yo a mobuletšwego"
+    }
+  ],
+  "timestamp": "2026-10-18T02:05:09.481321171Z",
+  "model": "glm-5.3"
+}

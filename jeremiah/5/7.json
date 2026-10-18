@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 5:7",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go wena",
+      "rationale": "Direct feminine-singular address — Jerusalem\/the people addressed by Yahwe."
+    },
+    {
+      "kind": "crux",
+      "subject": "ke ba tlhotše go kgora",
+      "rationale": "ואשביע hiphil: 'I satisfied\/fed them to the full' (KJV, JPS) vs 'I made them swear' (root שׁבע swear); satisfaction reading chosen."
+    },
+    {
+      "kind": "crux",
+      "subject": "ba kgobokantše ka mephato",
+      "rationale": "יתגדדו: 'assemble in troops' (KJV) vs literal 'gash themselves' (cultic self-laceration, cf. 1 Kgs 18:28); troops reading chosen."
+    }
+  ],
+  "translation": "Ke ka go lebalela go wena bjang ka seo? Bana ba gago ba ntlogetše, gomme ba ikane ka se se sago Elohim; ke ba tlhotše go kgora, gomme ba dirile bofetogi, gomme mo gae ga mosadi yo a thekago ba kgobokantše ka mephato.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2cfed1f50c62ce2f6a9ae9e6a509d262fbbbc74e934d8bc84791336d1677c9e2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/5\/5-8.1792292813372.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "bjang"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ka seo"
+    },
+    {
+      "surface": "אסלוח",
+      "gloss": "go lebalela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bana ba gago"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "ba ntlogetše"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "gomme ba ikane"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ka se se sago"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואשבע",
+      "gloss": "ke ba tlhotše go kgora"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "וינאפו",
+      "gloss": "gomme ba dirile bofetogi"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "gomme mo gae ga"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "mosadi yo a thekago"
+    },
+    {
+      "surface": "יתגדדו",
+      "gloss": "ba kgobokantše ka mephato"
+    }
+  ],
+  "timestamp": "2026-10-18T03:06:53.373816576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopula; הוא e boetš e šoma bjalo ka ponagatšo fela"
+    }
+  ],
+  "translation": "Ka gobane molao wa Yisraele ⟨ke⟩ wona, kahlolo ya Elohim wa Yaakobo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "94fdca8ca6aaef334c21bd796ac9eda16b9621d837b051e5b878dfb43c889a29",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/81\/5-8.1792298323964.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "חק",
+      "gloss": "molao"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "wona"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "wa Yaakobo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:43.965184132Z",
+  "model": "glm-5.3"
+}

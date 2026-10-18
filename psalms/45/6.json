@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סדera ya mantšu",
+      "rationale": "Seheberu se bea 'ditšhaba di wa ka tlase ga gago' gare ga masebe le 'pela ya manaba' — balodi ba sa tswalo (KJV\/KJV-order kgatlhanong le YLT\/JPS-order)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חציך שנונים",
+      "rationale": "khutlo e tiilego ya 'di-fišitšwego' (šanan = go fiša pontšo) e phethile seswantšho sa masebe"
+    }
+  ],
+  "translation": "Masebe a gago a fišitšwego — ditšhaba di wa ka tlase ga gago — di wele ka pela ya manaba a kgoši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/45\/5-8.1792297821180.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "masebe a gago"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "a fišitšwego"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ka tlase ga gago"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "di wa"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ka pela"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "ya manaba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "a kgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:21.181729969Z",
+  "model": "glm-5.3"
+}

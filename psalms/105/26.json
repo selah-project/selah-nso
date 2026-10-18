@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Direct-object marker rendered as ⟨את⟩; note it is absent from the supplied diacritic text but present in cleaned consonants of this rendering tradition."
+    }
+  ],
+  "translation": "O romile ⟨את⟩ Moshe mohlanka wa hae, le Aharone yo a mo kgethilego.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2837564f56be57a9d0723ef748c4815aba763ebc298181f6b881edaf6d361e4c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/26-27.1792305267592.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "o romile"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "mohlanka wa hae"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "a mo kgethilego"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:27.593144837Z",
+  "model": "glm-5.3"
+}

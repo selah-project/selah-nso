@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebopego",
+      "rationale": "משפט here is 'manner\/appearance', not its usual sense 'kahlolo\/toka'; rendered 'sebopego' (form)."
+    },
+    {
+      "kind": "you",
+      "subject": "to the messengers",
+      "rationale": "The king questions his messengers directly."
+    }
+  ],
+  "translation": "A ba botša: Ke sefe sebopego sa monna yoo a tlileng go kgoma le lena, yoo a boleletšego le lona ⟨את⟩ mantšu a?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/1\/5-8.1792290470956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "A ba botša"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ke sefe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "sebopego"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "sa monna"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "a tlileng"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "go kgoma le lona"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "yoo a boleletšego"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantšu a"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a"
+    }
+  ],
+  "timestamp": "2026-10-18T02:27:50.957972338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמע תשמע",
+      "rationale": "Infinitive absolute doubling — 'hearing you shall hear' — intensive emphasis flattened in Sepedi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "איבתי\/איביך · צרתי\/צרריך",
+      "rationale": "Root repetition: 'I-enemy your-enemies, I-distress your-distressers' — covenant reciprocity, partially kept."
+    }
+  ],
+  "translation": "Gore ge o ka theetša ka lentšu la gagwe, gomme o ka dira tšohle tšeo ke di bolelago, ke tla ba lenaba la ⟨את⟩ manaba a gago, ke tla gatelela ⟨את⟩ ba ba go gatelelago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0e279b83c6bba92dabf686a74c77df624b4a62719e10b96c4cbead53d34d7d28",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/23\/21-24.1792282898175.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "go theetša"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "o theetše"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ka lentšu la gagwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "gomme o ka dira"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ke di bolelago"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "ke tla ba lenaba la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaba a gago"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "manaba a gago"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ke tla gatelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ba ba go gatelelago"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ba ba go gatelelago"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:38.177585501Z",
+  "model": "glm-5.3"
+}

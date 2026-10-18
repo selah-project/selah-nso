@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 35:13",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ויריצו",
+      "rationale": "'ba ile ka lebelo' — modu ke 'go matha'; kwano ya bobedi: 'ba phuthetše ka lebelo' (go abela), bjalo ka KJV 'divided speedily' kganetšo le ASV 'carried quickly'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הקדשים",
+      "rationale": "'dilo tše kgethilwego' — modu wa קדש ke bokgethwa, dilo tše di kgethilwego go Elohim, e sego lentšu la kakaretšo la 'holy'."
+    },
+    {
+      "kind": "crux",
+      "subject": "בשל\/באש",
+      "rationale": "Deuteronomio 16:7 e laela go apaya Pesakh; mo 'באש' ka moka — go fišwa ga tlhago, e sego go bina ka meetse bjalo ka dilo tše kgethilwego."
+    }
+  ],
+  "translation": "Gomme ba apile ⟨את⟩ Pesakh ka mollong, go ya ka kahlolo; gomme dilo tše kgethilwego ba di apile ka dinkgo, le ka dipitsa, le ka dipoto, gomme ba ile ka lebelo go bana botlhe ba setšhaba.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "d5007b1e9c4799e437850f4b1c94b052fc51bc488ff37a0354e9e878492c834a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/35\/13-16.1792304490471.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבשלו",
+      "gloss": "gomme ba apile"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Pesakh",
+      "marks": null
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollong"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "go ya ka kahlolo"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "gomme dilo tše kgethilwego"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "ba di apile"
+    },
+    {
+      "surface": "בסירות",
+      "gloss": "ka dinkgo"
+    },
+    {
+      "surface": "ובדודים",
+      "gloss": "le ka dipitsa"
+    },
+    {
+      "surface": "ובצלחות",
+      "gloss": "le ka dipoto"
+    },
+    {
+      "surface": "ויריצו",
+      "gloss": "gomme ba ile ka lebelo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go bana botlhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ba setšhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T06:21:30.472981618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 15:4",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ישכב\/משכב · ישב\/כלי",
+      "rationale": "go bapana ga diteko tše pedi: go robala–setoara, go dula–sejana; sebopego se se utollago ka Seheberu"
+    }
+  ],
+  "translation": "Setoara sfepe se sengwe le se sengwe seo mohlatswi a robalago ka sona, se tla hlotša; gomme sejana se sengwe le se sengwe seo a dutšego ka sona, se tla hlotša.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f7d8388bac6284fb4da5c44f4b5e5a5d5c612bb1133e19fbf128272f46f0c857",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/15\/1-4.1792283933469.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "se sengwe le se sengwe"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "setoara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "a robalago"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka sona"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "mohlatswi"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "se tla hlotša"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme se sengwe le se sengwe"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "sejana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a dutšego"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka sona"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "se tla hlotša"
+    }
+  ],
+  "timestamp": "2026-10-18T00:38:53.470561828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 4:20",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o fegolla",
+      "rationale": "כפר semologong ke go phufa \/ go ka fa — go aparetša sebe"
+    },
+    {
+      "kind": "elision",
+      "subject": "כן",
+      "rationale": "כן (bjalo) o hlakantšhwa ka mo go yona go hlalosa go dirišwa ga sebopego se se swanago"
+    }
+  ],
+  "translation": "Gomme o dira go kgomo bjalo ka ge a dirile go kgomo ya sebe; mo go yona a ka mo direla; gomme moperisita o fegolla ka mo go bona, gomme ba tla mollwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "27cd989a54048d85595feded3d4dc31b528dec9973fdf4d341bbfa15eba3c3f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/4\/17-20.1792283611689.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "gomme o dira"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "go kgomo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dirile"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "go kgomo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya sebe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a ka mo direla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "gomme o fegolla"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ka mo go bona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "gomme ba tla mollwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba"
+    }
+  ],
+  "timestamp": "2026-10-18T00:33:31.690633519Z",
+  "model": "glm-5.3"
+}

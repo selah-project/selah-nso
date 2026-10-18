@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 16:2",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Pesake",
+      "rationale": "פסח ke leina la sehlabelo sa Paseka; le ngwalwa ka modumo wa Seheberu, e sego ka phetolelo"
+    },
+    {
+      "kind": "addition",
+      "subject": "go dira gore",
+      "rationale": "לשכן (go hlala go le gakalega) — Sepedi e nyaka mošomo wa go dira gore leina le dule gona"
+    }
+  ],
+  "translation": "Gomme o hlabelе ⟨את⟩ Pesake go Yahwe Elohim wa gago, dinku le dipudi le dikgomo, lefelong leo Yahwe a ka se kgethago go dira gore leina la gagwe le dule gona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b234982ca4e2d768fa02d624bd34a7cd666579866331fcc017a84b954d884a77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/16\/2-3.1792304774721.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "Gomme o hlabelе"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesake"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku le dipudi"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "le dikgomo"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "lefelong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "a ka se kgethago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "go dira gore ... le dule"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:26:14.722073430Z",
+  "model": "glm-5.3"
+}

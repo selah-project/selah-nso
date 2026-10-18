@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 3:14",
+  "book": "habakkuk",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "פרזו",
+      "rationale": "párăz: 'villagers\/leaders' (KJV 'his villages') vs 'warriors' (ASV 'his warriors') vs 'chieftains' — I follow the chieftain\/rulers line."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go nthubela",
+      "rationale": "suffix -ni 'me' is first person singular — Habakkuk himself, kept as 'me' rather than generalized 'us'."
+    }
+  ],
+  "translation": "O rabeditše ka diphatla tša gagwe hlogo ya dikgoši tša gagwe; ba ile ba foka bjalo ka phefo ya leswe go nthubela; boikgantšho bja bona e be bjalo ka go ja motho yo mofutsana ka sephiring.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "45f117aa822882145116e35a6fa09473d570895da61666be3f0fb7885cb22b73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/habakkuk\/3\/13-16.1792296732719.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נקבת",
+      "gloss": "o rabeditše"
+    },
+    {
+      "surface": "במטיו",
+      "gloss": "ka diphatla tša gagwe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "פרזו",
+      "gloss": "ya dikgoši tša gagwe"
+    },
+    {
+      "surface": "יסערו",
+      "gloss": "ba ile ba foka bjalo ka phefo"
+    },
+    {
+      "surface": "להפיצני",
+      "gloss": "go nthubela"
+    },
+    {
+      "surface": "עליצתם",
+      "gloss": "boikgantšho bja bona"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "go ja"
+    },
+    {
+      "surface": "עני",
+      "gloss": "motho yo mofutsana"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "ka sephiring"
+    }
+  ],
+  "timestamp": "2026-10-18T04:12:12.720434381Z",
+  "model": "glm-5.3"
+}

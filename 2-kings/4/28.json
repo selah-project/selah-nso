@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elisha",
+      "rationale": "Potšišo ya yena e ya go monna wa Elohim ka go sefapano, go mong wa ka"
+    },
+    {
+      "kind": "crux",
+      "subject": "mong wa ka",
+      "rationale": "אדני fapana: 'mong wa ka' (Elisha) goba 'Adonai' — mo bokgolemong bja sengwalwa motho o a bolela, Adonai wa Sepedi e se la motho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "wa nkholisa",
+      "rationale": "תשלה ke 'go lebaka mo tseleng e fošagetšego'; 'go nkholisa' ke sebopego se sebotse"
+    }
+  ],
+  "translation": "Gomme a re: Na ke kgopetše ⟨את⟩ ngwana go mong wa ka? Na ga ke a re: O se ke wa nkholisa ⟨את⟩ nna?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "13cf0e66206493277a93fa565b96abb369df5f747afdca86ec6ef77d6dc3b584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/4\/25-28.1792290535884.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "na ke kgopetše"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ go"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa ka"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "na ga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "wa nkholisa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nna"
+    }
+  ],
+  "timestamp": "2026-10-18T02:28:55.885656258Z",
+  "model": "glm-5.3"
+}

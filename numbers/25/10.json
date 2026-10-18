@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וידבר...לאמר",
+      "rationale": "Mohlagare wa go bolela o tsejwa wa Tanakh — 'a bolela... a re' — sebopego se se boeletšago"
+    },
+    {
+      "kind": "you",
+      "subject": "go Moshe",
+      "rationale": "Yahwe a bolela le Moshe ka boomo"
+    }
+  ],
+  "translation": "Gomme Yahwe a bolela le Moshe, a re:",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5e916ef93f7e884982bcef20abff83d1610798a5030fdb0d14822d914b9d9b97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/25\/9-12.1792285029096.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re:"
+    }
+  ],
+  "timestamp": "2026-10-18T00:57:09.120489372Z",
+  "model": "glm-5.3"
+}

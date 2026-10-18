@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "serwalo",
+      "rationale": "עטרת ke serwalo sa kgoši — sehlalosa botho bja setšhaba se se latotšwego"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Sione",
+      "rationale": "Go bolela go rialo go ya go setšhaba ka bowena bo phošago"
+    }
+  ],
+  "translation": "Serwalo sa hlogo ya re se wile; ao, masego a re bone, ka gobane re beile dibe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "55feb2082ad0c94562169a2af9adf4acda3b8f8c108d8187d6960a2d18b52d84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/5\/13-16.1792301308182.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "se wile"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "serwalo"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "hlogo ya re"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ao, masego"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨bjale⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "a re bone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "re beile dibe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:28:28.183374764Z",
+  "model": "glm-5.3"
+}

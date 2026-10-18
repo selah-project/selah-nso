@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa ka",
+      "rationale": "Seheberu se ngwala fela בפי — 'molomong'; pronari ya bathopedi e okeditšwe"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יראו\/וייראו",
+      "rationale": "go bona (ra'a) le go tšoga (yare') di tšwala medumo e swanago — 'ba bona, ba tšoge'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tšoge",
+      "rationale": "וייראו e tsepamišitšwe go boifa ka tšhwaelo — go tšoga\/go hlweka ka go bona meselo ya Modimo"
+    }
+  ],
+  "translation": "Gomme o be a bea molomong wa ka ⟨את⟩ pesu ye mpsha, teboho go Elohim wa rena; ba bantši ba tla e bona, ba tšoge, gomme ba tshepele go Yahwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ce3144dfae86853ca7097f6e4b099176fa4ea65ba950de0f6ec99baaab71109c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/40\/4-4.1792305180630.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "gomme o be a bea"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "molomong wa ka"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pesu"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ye mpsha"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "teboho"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "go Elohim wa rena"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba tla bona"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ba bantši"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ba tšoge"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "gomme ba tshepele"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:00.630523031Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 27:8",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go be go na le",
+      "rationale": "kopula ye e okeditšwego"
+    },
+    {
+      "kind": "measurement",
+      "subject": "masomepedi le nne dikete",
+      "rationale": "palo ya mošomo wa kgwedi"
+    }
+  ],
+  "translation": "Botlhano, bakeng sa kgwedi ya botlhano, molaodi e be e le Shamhuta wa mora wa Zeraḵa; gomme godimo ga karolo ya gagwe go be go na le masomepedi le nne dikete.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "94387d202d325cb132713675be5619be152cd2f6f8fb26669100ff5487a2df2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/27\/5-8.1792303461879.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "Botlhano"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "bakeng sa kgwedi"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ya botlhano"
+    },
+    {
+      "surface": "השר",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "שמהות",
+      "gloss": "Shamhuta"
+    },
+    {
+      "surface": "היזרח",
+      "gloss": "wa mora wa Zeraḵa"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "gomme godimo ga"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "karolo ya gagwe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masomepedi"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "le nne"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    }
+  ],
+  "timestamp": "2026-10-18T06:04:21.880284785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 26:4",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צור \/ סלע",
+      "rationale": "Tsore (leswika) e tla ba leswika le se nago sepe — boteng bja temana"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לצחיח",
+      "rationale": "Sefoko se bolela ‘le bonagalago ka letšatši, le hlakilego’; se fetoletšwe bjalo ka ‘le sa aparetšego’"
+    }
+  ],
+  "translation": "Gomme di tla senya maboto a Tsore, di tla phuša matjekwana a yona; ke tla kgapa lerole la yona go tšwa go yona, gomme ke tla nea ⟨את⟩ yona e le leswika le sa aparetšego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2ed03c3d1372b6b90791a95442a7e5b1a28d06af44da40ab788f32ec74b84394",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/26\/1-4.1792295156016.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושחתו",
+      "gloss": "gomme di tla senya"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "maboto"
+    },
+    {
+      "surface": "צר",
+      "gloss": "a Tsore"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "di tla phuša"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "matjekwana a yona"
+    },
+    {
+      "surface": "וסחיתי",
+      "gloss": "ke tla kgapa"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "lerole la yona"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "go tšwa go yona"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "gomme ke tla nea"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "yona (Tsore)"
+    },
+    {
+      "surface": "לצחיח",
+      "gloss": "le sa aparetšego"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "leswika"
+    }
+  ],
+  "timestamp": "2026-10-18T03:45:56.018220320Z",
+  "model": "glm-5.3"
+}

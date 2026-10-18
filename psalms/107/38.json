@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 107:38",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לא ימעיט",
+      "rationale": "go ganwa ka go fokotša: 'a di fokotše' — lentšu la go gana le theilwe ka gare ga tlhalo ya Sepedi"
+    },
+    {
+      "kind": "addition",
+      "subject": "tša bona",
+      "rationale": "sufokso -ם ya בהמתם; Sepedi e nyaka 'tša bona'"
+    }
+  ],
+  "translation": "Gomme a ba hlahlamisa, gomme ba oketšega kudu, gomme diruiwa tša bona a di fokotše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/107\/37-40.1792298682661.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברכם",
+      "gloss": "Gomme a ba hlahlamisa"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "gomme ba oketšega"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "ובהמתם",
+      "gloss": "gomme diruiwa tša bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a di"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "fokotše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:42.662854797Z",
+  "model": "glm-5.3"
+}

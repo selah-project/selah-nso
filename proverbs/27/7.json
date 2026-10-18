@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke moya\/bophelo — go swana le 'throat\/life-force', e sego soul ya setso"
+    },
+    {
+      "kind": "substitution",
+      "subject": "o bona",
+      "rationale": "Hebereu ga e na lebopi le 'ke monate' ka meala — go tšeelwa karolo ya go itšego gore se bogalego se a ba monate"
+    },
+    {
+      "kind": "hapax",
+      "subject": "נפת",
+      "rationale": "boswela bja dinose — נפת e hlagela dinako tše nnye thata ka Tanakh"
+    }
+  ],
+  "translation": "Moya o tletšego o gata ka maoto boswela bja dinose; gomme moya o swafetšego o bona se sengwe le se se bogalego se monate.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ecf70c51ac4394523a4be221211784d1789f6bf649666812e138ca37d67919a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/27\/5-8.1792299859787.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "moya o"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "tletšego"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "o gata ka maoto"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "boswela bja dinose"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "gomme moya o"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "swafetšego"
+    },
+    {
+      "surface": "כל",
+      "gloss": "se sengwe le se"
+    },
+    {
+      "surface": "מר",
+      "gloss": "se se bogalego"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "se monate"
+    }
+  ],
+  "timestamp": "2026-10-18T05:04:19.788136874Z",
+  "model": "glm-5.3"
+}

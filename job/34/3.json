@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "כי",
+      "rationale": "E ka ba 'gore' (go tšwa go Jobe 12:11, se a bolelago Elihu) goba 'ka gobane'; ka mo go tšwago, go šomišitšwe 'ka gobane'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חך",
+      "gloss": "חך ke mošomo wa ka gare ga molomo; Sepedi se hlalositše ka 'leleme' go fa seswantšho se se utwalegago."
+    }
+  ],
+  "translation": "Ka gobane tsebe e lekola ⟨את⟩ mantšu, gomme leleme le latlafala dijo go e tseba nte.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "be3cc776f67fa98d5cca2550369741584e979ff751a9c5d2b25d65352a68c1de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/34\/1-4.1792300700075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "tsebe"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "e lekola"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "gomme leleme"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "le latlafala"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "go e tseba nte"
+    }
+  ],
+  "timestamp": "2026-10-18T05:18:20.075813471Z",
+  "model": "glm-5.3"
+}

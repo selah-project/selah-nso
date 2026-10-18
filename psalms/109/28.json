@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 109,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "rogila\/raka",
+      "rationale": "קלל kgahlanong le ברך — tšhitišo ya semmušo yeo e sa swanetšego go nyamela"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Mantšu a feleletšego a temana ye a bua go Yahwe"
+    }
+  ],
+  "translation": "Ba roge, gomme wena o raka; ge ba tlhatloga, ba ihlodiše, gomme mohlanka wa gago a thabe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b36e15f242b8f3ef42b00063f66bc60f70bf1ed4009aa7c9406df4c942a989ef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/109\/25-28.1792298714129.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "Ba roge"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "gomme wena"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "o raka"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ge ba tlhatloga"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "ba ihlodiše"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "gomme mohlanka wa gago"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "a thabe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:14.130486421Z",
+  "model": "glm-5.3"
+}

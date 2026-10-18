@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 11:4",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אך",
+      "rationale": "אך e ka bolela 'fela' goba 'eupa se seng' — KJV 'Nevertheless', JPS 'only'; mo e lekanyetša se se ganwago"
+    },
+    {
+      "kind": "substitution",
+      "subject": "e hlotšwego",
+      "rationale": "טמא ke go hloga ka bohlelo bja sedumedi, e sego seferefeng fela"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kamela",
+      "rationale": "Phetolelo ya molao o ka ga kamela: go laola gera go lekane, pharasa ga e arōlanye — kgato ya go ekwa"
+    }
+  ],
+  "translation": "Fela ⟨את⟩ se ga se ya loka go se ja, go tšwa go tše di laolago gera le tše di arōlanyago pharasa: ⟨את⟩ kamela, goba e laola gera, eupša ga e arōlanye pharasa — e hlotšwego ke yona go lena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/1-4.1792283797724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Fela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se (seo se sa swanego go se ja)"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "go se ja"
+    },
+    {
+      "surface": "ממעלי",
+      "gloss": "go tšwa go tše di laolago"
+    },
+    {
+      "surface": "הגרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "וממפריסי",
+      "gloss": "le tše di arōlanyago"
+    },
+    {
+      "surface": "הפרסה",
+      "gloss": "pharasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kamela"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "kamela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "goba"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "e laola"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "gera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "e"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "eupša pharasa"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ga e arōlanye"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ga e arōlanye"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "e hlotšwego"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:36:37.726177721Z",
+  "model": "glm-5.3"
+}

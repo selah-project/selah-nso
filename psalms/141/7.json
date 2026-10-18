@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "לפי שאול",
+      "rationale": "YLT e bala 'taelo ya Sause' (שאול = Sause) — modumo o swanang le wa lefase la bafu; phetolelo ya Sepedi e boloka Sheole."
+    },
+    {
+      "kind": "crux",
+      "subject": "פלח ובקע",
+      "rationale": "'Go bea le go phatlalatsa' — KJV e re 'go sega le go bula mmeri'; seswantšho sa go tsebagatša lefase."
+    }
+  ],
+  "translation": "Bjalo ka yo a beago le go phatlalatsa lefaseng, marapo a re a phatlaladitšwe go sefapa sa Sheole.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/141\/5-8.1792299071950.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "yo a beago"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "le go phatlalatsa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "a phatlaladitšwe"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "marapo a re"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "go sefapa sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:11.952019713Z",
+  "model": "glm-5.3"
+}

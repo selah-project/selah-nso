@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba ikgethwa",
+      "rationale": "טהר ke go hlwekisa; fela root ya קדש e sego ya go kgethwa — mo שרש ke טהר, ka gona 'ba ihlwekisa' go ka ba polelo ya bobedi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "lete",
+      "rationale": "חומה ke lete la tokelo; 'mosele' o ka se šomišwe ka gobane ke sediba"
+    }
+  ],
+  "translation": "Gomme baperisita le balevi ba ikgethwa, ba kgethwa ⟨את⟩ setšhaba le ⟨את⟩ dikgoro le ⟨את⟩ lete.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2d8ceb953828e25d15639d1ac71a2ce37719ed517946bc71ae0940102cab399f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/12\/29-32.1792302760433.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "ba ikgethwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baperisita"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "balevi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "ba kgethwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dikgoro"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lete"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "lete"
+    }
+  ],
+  "timestamp": "2026-10-18T05:52:40.435546012Z",
+  "model": "glm-5.3"
+}

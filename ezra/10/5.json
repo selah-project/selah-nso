@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 10:5",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go dira gore ba ikane",
+      "rationale": "Seheberu se na le causative (hiʿil) ya go ikana; Sepedi se nyaka mantšu a mabedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבע",
+      "rationale": "Go ikana le go 'šupa' (šupa) — modu o tee ka Seheberu, se lahlilego ka Sepedi"
+    }
+  ],
+  "translation": "Gomme Ezara a ema, a dira gore ⟨את⟩ dikgoši tša baperisita, balefi, le Yisraele ka moka, ba ikane go dira bjalo ka lentšu le; gomme ba ikana.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "6496c9231788b3940e352050debdde076bc1830816b32fdb0f62a61e7a402320",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/10\/5-8.1792302370332.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Ezara"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "a dira gore ba ikane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgoši tša baperisita"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "tša baperisita"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "balefi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme ka moka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "bjalo ka lentšu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "gomme ba ikana"
+    }
+  ],
+  "timestamp": "2026-10-18T05:46:10.333618001Z",
+  "model": "glm-5.3"
+}

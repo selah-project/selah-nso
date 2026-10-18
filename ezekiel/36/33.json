@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 36:33",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "aleph-tav ye nago seswantšho se hlalošwa ka ⟨את⟩ lona"
+    },
+    {
+      "kind": "crux",
+      "subject": "והושבתי",
+      "rationale": "'go duediša' (causative ya go duta) kgahlanong le 'go bušetša' — bašupi ba fapana"
+    }
+  ],
+  "translation": "Go bolela Adonai Yahwe: ka letšatši leo ke go hlwekago ka lona ⟨אתכם⟩ go tšwa go dibe tša lona ka moka, ke tla duediša ⟨את⟩ metse, gomme mafase-mabotho a tla agwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "812d97991d1e222a17c9e2dbd786a2735762fdad0c7b843a101675b6c9862575",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/36\/33-36.1792295474321.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Bjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši"
+    },
+    {
+      "surface": "טהרי",
+      "gloss": "ke go hlwekago"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tšwa go ka moka"
+    },
+    {
+      "surface": "עונותיכם",
+      "gloss": "dibe tša lona"
+    },
+    {
+      "surface": "והושבתי",
+      "gloss": "ke tla duediša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "metse"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "ונבנו",
+      "gloss": "gomme a tla agwa"
+    },
+    {
+      "surface": "החרבות",
+      "gloss": "mafase-mabotho"
+    }
+  ],
+  "timestamp": "2026-10-18T03:51:14.323685226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "hlano",
+      "rationale": "Palo ya bana ba Yehuda e balwa: tharo (v3) le pedi ga Tamara = hlano"
+    },
+    {
+      "kind": "addition",
+      "subject": "e ile e le",
+      "rationale": "Kopula ya Sepedi e okeditšwe; Seheberu se re 'khetharo fela'"
+    }
+  ],
+  "translation": "Gomme Tamara, sešwetše sa gagwe, a be a belega go yena ⟨את⟩ Perețe le ⟨את⟩ Zeraḥe; bana ka moka ba Yehuda e ile e le hlano.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7992844fe8275e20f92f59a8ab6cef3eda2098ca62b4f832102ccab180f599b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/2\/1-4.1792302819157.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Gomme Tamara"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "sešwetše sa gagwe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perețe"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perețe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Zeraḥe"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zeraḥe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "e ile e le hlano"
+    }
+  ],
+  "timestamp": "2026-10-18T05:53:39.159054760Z",
+  "model": "glm-5.3"
+}

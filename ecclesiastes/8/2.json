@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אני",
+      "rationale": "'Nna' e boleta — KJV e hlama 'ke a go kgotsofatsa'; Seheberu se re 'nna' fela, mogato wa seo a se bolelgo."
+    },
+    {
+      "kind": "crux",
+      "subject": "דברת",
+      "rationale": "dibrat — 'go ya ka \/ ka baka la'; ba bangwe ba e bala bjalo ka 'taelo' (morero wa lleto)."
+    }
+  ],
+  "translation": "Nna: tlhokomela ⟨את⟩ molomo wa kgoši, gomme ka baka la lleto la Elohim.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ab5194fb5734e8ad5b6da3ed010248d0ee08189ca164c81a73ecc7e041f31d73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/8\/1-4.1792301459460.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "פי",
+      "gloss": "molomo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wa kgoši"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "tlhokomela"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "gomme ka baka la"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "lleto"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "la Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T05:30:59.461385567Z",
+  "model": "glm-5.3"
+}

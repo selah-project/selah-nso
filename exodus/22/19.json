@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 22:19",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimong",
+      "rationale": "לאלהים fela mo — medimo ya ditšhaba; Elohim ya nnete e sa ngwalwe ka mongwalo o mongwe"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחרם",
+      "rationale": "חרם e bolela go hlokomelwa ka botlalo bakeng sa go fediswa; 'a hlokofatšwe' kgahlanong le 'a sepedišwe go bolaioa'"
+    }
+  ],
+  "translation": "Yo a hlabago sehlabelo ⟨את⟩ medimong — a hlokofatšwe, ntle le go Yahwe a le nosi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "23048a5c6e6796c45a6bb970dbfea58617da0fd6bbe045ea1251ac4248b63350",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/22\/17-20.1792282870837.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "yo a hlabago sehlabelo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "medimong"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "a hlokofatšwe"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "a le nosi"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:10.838170510Z",
+  "model": "glm-5.3"
+}

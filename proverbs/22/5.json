@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 22:5",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke moya-bophelo, sepele sa go hema le go lwala; se feletsego se theilwe godimo ga bophelo bjalo ka thari ya sephiri"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ya go senyega",
+      "rationale": "עקש e ka bolela tsela e phoso-meetlo kapa tsela e kgopameng; ke tsela ya moya, esego ya maoto feela"
+    }
+  ],
+  "translation": "Ditlešo le dibō di le tseleng ya go senyega; yo a šomeletšego bophelo bja gagwe o dula a kgutla go tša go tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a94d4f014936ccd737a6609728fa6b191e542030b13b836339044a022b2fb8ca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/22\/5-8.1792299647655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צנים",
+      "gloss": "ditlešo"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "dibō"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "di le tseleng"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ya go senyega"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "yo a šomeletšego"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "bophelo bja gagwe"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "o dula a kgutla"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "go tša go tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:47.656178929Z",
+  "model": "glm-5.3"
+}

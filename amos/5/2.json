@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 5:2",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yo⟩",
+      "rationale": "relative pronoun required by Sepedi, absent in Hebrew"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ntle-ya-mohlangaletši",
+      "rationale": "betulah is the unjoined-one \/ at-home-with-father maiden; the hyphenated compound keeps the Hebrew picture"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קום \/ מקימה",
+      "rationale": "root qum repeated as 'rise \/ raise-up' — she cannot rise, none raises her; repetition kept"
+    }
+  ],
+  "translation": "O tlile go wa, o ka se tlhole a ema, ntle-ya-mohlangaletši wa Yisraele; o tlogetšwe ka thoko fase go naga ya hae ya madi-a-mmu, go se na ⟨yo⟩ a ka mo ontšago godimo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0747e184dfb0936586976f2fd2c2bcda4730dfd3f58533d77205d198cf4c004c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/5\/1-4.1792296363094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "o tlile go wa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "a se tlhole"
+    },
+    {
+      "surface": "קום",
+      "gloss": "a ema"
+    },
+    {
+      "surface": "בתולת",
+      "gloss": "ntle-ya-mohlangaletši wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "נטשה",
+      "gloss": "o tlogetšwe ka thoko"
+    },
+    {
+      "surface": "על",
+      "gloss": "fase go"
+    },
+    {
+      "surface": "אדמתה",
+      "gloss": "naga ya hae ya madi-a-mmu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "go se na"
+    },
+    {
+      "surface": "מקימה",
+      "gloss": "yo a ka mo ontšago godimo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:06:03.095684611Z",
+  "model": "glm-5.3"
+}

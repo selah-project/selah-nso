@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 23:14",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אזנך",
+      "rationale": "Kganetšo ya bagetoledi: 'šepe' (kgetsi ya go hlama) kgahlanong le 'dibetsa' (KJV 'weapon') — lentšu le bolela sedirišwa se se nago le thopho e bohalaka; mo go dirišwa bjalo ka sedirišwa sa go hlama."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צאתך",
+      "rationale": "Lentšu le bolela ka o otle gore sepelele — 'tše di tšwago go wena' e bolokgetla sebopego sa 'go tšwa', e sego lentšu la khutšo."
+    }
+  ],
+  "translation": "Gomme o tla ba le motsi godimo ga didirišwa tša gago, gomme ge o dutše ka ntle, o tla hlama ka wona, o boela gomme o khupetša ⟨את⟩ tše di tšwago go wena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2bb8bb5a35e90ff0eb67e0ca4f6134c61e4dac0df80d08fd7f5a3fa74a27ca18",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/23\/13-16.1792286178308.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתד",
+      "gloss": "gomme motsi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "o tla ba le"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "didirišwa tša gago"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "o dutše"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ka ntle"
+    },
+    {
+      "surface": "וחפרתה",
+      "gloss": "o tla hlama"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka wona"
+    },
+    {
+      "surface": "ושבת",
+      "gloss": "o boela"
+    },
+    {
+      "surface": "וכסית",
+      "gloss": "o khupetša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tše di tšwago go wena"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "tše di tšwago go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:16:18.309114189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 2:5",
+  "book": "ruth",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka ⟨ke⟩ go swantšha sefoko, Seheberu se se se nago"
+    },
+    {
+      "kind": "elision",
+      "subject": "למי",
+      "rationale": "'go mang' ya Seheberu e fetogile 'ke ya mang' — mokgwa wa botšišo wa Sepedi"
+    }
+  ],
+  "translation": "Gomme Boaze a re go mošomane wa gagwe, yo a beilwego godimo ga baji: Mosetsana ye ke ya mang?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5eb591d7658729eed0e777274056bd6a9136806cd54dcf38ee422c23b5b7707b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ruth\/2\/5-8.1792301094566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boaze"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "go mošomane wa gagwe"
+    },
+    {
+      "surface": "הנצב",
+      "gloss": "yo a beilwego"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "הקוצרים",
+      "gloss": "baji"
+    },
+    {
+      "surface": "למי",
+      "gloss": "ke ya mang"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "mosetsana ye"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-10-18T05:24:54.566819289Z",
+  "model": "glm-5.3"
+}

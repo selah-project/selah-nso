@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הגדיל עלי עקב",
+      "rationale": "Sefoko sa Seheberu: 'o godišitše lehlware go ka' — go nyefola mogwera ka go bontšha leoto, se se sa bontšhago sefoko se sengwe ka Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לחם",
+      "gloss-rationale": "לחם ke bogobe — diphetolelo tše dintši di re 'bogobe bja ka', se se bolelwago ke go alogana le dijo le mogwera."
+    },
+    {
+      "kind": "crux",
+      "subject": "שלומי",
+      "rationale": "'Mogwera wa kagutšo ya ka' goba 'wa gagolo-ka' — בטחתי בו e bontšha tshepo ya moeti, e sego fela mogwera."
+    }
+  ],
+  "translation": "Le motho wa kagutšo ya ka, yo ke tshepago go yena, o ja bogobe bja ka, o godišitše lehlware go ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/41\/9-12.1792297681583.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Le"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "wa kagutšo ya ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshepago"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "o ja"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "bogobe bja ka"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "o godišitše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go ka"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "lehlware"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:01.585354416Z",
+  "model": "glm-5.3"
+}

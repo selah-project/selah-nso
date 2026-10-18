@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "makgopela",
+      "rationale": "יטור e bolela go boloka; seswantšho ke go boloka makgopela (bohloko) — lentšu la motheo ke 'go boloka', e sego 'bohloko'"
+    }
+  ],
+  "translation": "Ga a ka a ganetsa ka narong ye ntshe, gomme ga a ka a boloka makgopela go ya ile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/103\/9-12.1792298535571.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka narong ye ntshe"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "a ganetsa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya ile"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "a boloka makgopela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:15.572529994Z",
+  "model": "glm-5.3"
+}

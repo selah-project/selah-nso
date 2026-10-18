@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 90:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כוננה \/ כוננהו",
+      "rationale": "Root repetition: 'establish upon us \/ establish it' — the verb returns with suffix, closing the psalm with an echo"
+    },
+    {
+      "kind": "crux",
+      "subject": "נעם",
+      "rationale": "'pleasantness\/favor\/beauty' — KJV 'beauty', JPS 'graciousness', ASV 'favor'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ee",
+      "rationale": "Hebrew repeats the phrase without an affirmation word; ⟨ee⟩ added in Sepedi for the emphatic repetition"
+    }
+  ],
+  "translation": "Gomme letumelo la Adonai Elohim wa rena le be godimo ga rena, gomme mošomo wa diatla tša rena o tiisetšwe go rena; ee, mošomo wa diatla tša rena o mo tiisetše!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "19b3ecc4a0a9a66a2e90b254550fc632b7e3b1273c2bff9c0a2fbd340ecf53e4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/90\/17-17.1792298424751.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme a be"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "letumelo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rena"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "godimo ga rena"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "gomme mošomo"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "diatla tša rena"
+    },
+    {
+      "surface": "כוננה",
+      "gloss": "o tiisetšwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "go rena"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "ee, mošomo"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "diatla tša rena"
+    },
+    {
+      "surface": "כוננהו",
+      "gloss": "o mo tiisetše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:24.752924114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אי לך",
+      "rationale": "Hebrew exclamation 'alas-for-you' rendered as Sepedi lament 'mahu a go wela' (woe has fallen upon you)."
+    },
+    {
+      "kind": "you",
+      "subject": "lefase",
+      "rationale": "Direct address: the land itself is addressed over its boy-king and gluttonous princes."
+    },
+    {
+      "kind": "addition",
+      "subject": "e le",
+      "rationale": "Copula supplied: Hebrew juxtaposes 'your king a boy' without a verb."
+    }
+  ],
+  "translation": "Mahu a go wela, lefase, ge kgoši ya gago e le moswana, gomme balaodi ba gago ba ja mesong!",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a7bef985286695657c9a47bf990373100c1b6cd74c5cd2aa10812e10914e0dea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/10\/13-16.1792301417826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "mahu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "a go wela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "kgoši ya gago"
+    },
+    {
+      "surface": "נער",
+      "gloss": "moswana"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "gomme balaodi ba gago"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "mesong"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba ja"
+    }
+  ],
+  "timestamp": "2026-10-18T05:30:17.827380555Z",
+  "model": "glm-5.3"
+}

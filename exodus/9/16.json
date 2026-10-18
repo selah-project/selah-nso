@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "העמדתיך",
+      "rationale": "Bolela 'ke go tlhomile gore o eme' — bakeng sa 'ke go beile\/ke go hodisitše'; sebopego sa hlaka ke sa go emisa go ema."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi se nyaka kopanyi ya 'ke' yeo Seheberu se sa e nago."
+    },
+    {
+      "kind": "elision",
+      "subject": "זאת",
+      "gloss": "le"
+    }
+  ],
+  "translation": "Mme ka nnete, ka lebaka le ke go tlhomile gore o eme, gore ke go bontšhe ⟨את⟩ maatla a ka, le gore leina la ka le bolelwe lefaseng ka moka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ef4ed1b741ee08e3b7068c0a3a3858ad55915f15198f7adb33aa021b7e6265d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/9\/16-16.1792304587333.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Mme ka nnete"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ka lebaka le"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "ke go tlhomile gore o eme"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ka gobale"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "go go bontšhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maatla a ka"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "maatla a ka"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "le gore"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "le bolelwe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "leina la ka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:07.334039439Z",
+  "model": "glm-5.3"
+}

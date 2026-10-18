@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ya gagwe",
+      "rationale": "sebopego sa possessive sa Sepedi se nyaka sebitšo, Seheberu se na le suffix fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דברים\/יחדל",
+      "rationale": "khathanollo: mantšu a mantsi → sebe ga se felе; dithulaganyo tša Sepedi di boloka kgathanollo ye"
+    }
+  ],
+  "translation": "Ka bontši bja mantšu sebe ga se fele; eupša yo a thibelago mefala ya gagwe ke yo hlalahlelego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6004be6665a2f45108881f2f64729fd60c8ae796fc115f9b8e4f5324dc1b2616",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/10\/17-20.1792299348643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ka bontši bja"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "fele"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "eupša yo a thibelago"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "mefala ya gagwe"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ke yo hlalahlelego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:48.645720911Z",
+  "model": "glm-5.3"
+}

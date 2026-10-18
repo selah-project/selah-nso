@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לאמר",
+      "rationale": "Infinitive 'to say' marks quoted speech; Sepedi 'go bolela' carries it as a seam."
+    }
+  ],
+  "translation": "Lentšu leo le tlilego go Yirimia go tšwa go ⟨את⟩ Yahwe, go bolela:",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4e32f8bd0ea42e0ea90de0012431447227c898775ba84b1222e022390b23b397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/11\/1-4.1792293043635.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Lentšu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "le tlilego"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Yirimia"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tšwa go ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go bolela"
+    }
+  ],
+  "timestamp": "2026-10-18T03:10:43.636158192Z",
+  "model": "glm-5.3"
+}

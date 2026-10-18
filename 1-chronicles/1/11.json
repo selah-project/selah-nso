@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba-",
+      "rationale": "Maina a Seheberu a le bontši a setšhaba; go- o ngwalwa ka Sepedi go ba bontši bja setšhaba."
+    },
+    {
+      "kind": "measurement",
+      "subject": "lenane la maina",
+      "rationale": "Go bala maina a ditšhaba tša Mitsrayime."
+    }
+  ],
+  "translation": "Gomme Mitsrayime a begetša ⟨את⟩ baludi, le ⟨את⟩ ba-Anamime, le ⟨את⟩ ba-Lehabime, le ⟨את⟩ ba-Nafutikhime.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9b5888fbf65f9e717aa460ff9a70779cb08c90f5c0943681bd3f83818a42d0fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/1\/9-12.1792302784353.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Gomme Mitsrayime"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "a begetša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "baludi"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "baludi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba-Anamime"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "ba-Anamime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba-Lehabime"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "ba-Lehabime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ba-Nafutikhime"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "ba-Nafutikhime"
+    }
+  ],
+  "timestamp": "2026-10-18T05:53:04.354926683Z",
+  "model": "glm-5.3"
+}

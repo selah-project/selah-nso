@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 132,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אמת",
+      "rationale": "'ka nnete' (adverb) kgahlanong le 'ikano ya nnete' (noun); BSB e tšea bjalo ka noun"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נשבע \/ ישוב",
+      "rationale": "ševa\/šub — go ikana kgahlanong le go boela morago; papadi ya mantšu e bolokwa ka go 'ikana'\/'boela'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "a ka se boele go eona",
+      "rationale": "ממנה waše e šupa ikano; go ka ba gape 'a ka se fetoše ka yona'"
+    }
+  ],
+  "translation": "Yahwe o ile a ikana ka nnete go Dafida, a ka se boele go eona: go tšwa peung ya mpa ya gago ke tla bea setulong sa bogoši bakeng sa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "21d3a7d3ece29d0a1dc515129376c18e919ada20b7608f0a39f18748c174d874",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/132\/9-12.1792298918930.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "o ile a ikana"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "go Dafida"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ka nnete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "boele"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "go eona"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "go tšwa peung"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ya mpa ya gago"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ke tla bea"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "setulong sa bogoši"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bakeng sa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:38.931523633Z",
+  "model": "glm-5.3"
+}

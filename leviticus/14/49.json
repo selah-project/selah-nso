@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go hlwekiša",
+      "rationale": "לחטא fela ke go ka se hwetše ge go bolela ka lehu la ntlo; ke go ntšha sebe, e sego go hlwekiša fela"
+    },
+    {
+      "kind": "hapax-sebopego",
+      "subject": "šene-tolaat",
+      "rationale": "šeni tolaat ke modumo wa Seheberu — phofofo ye mpshwa ya go thantšha dilo tše tala-kgubedu"
+    }
+  ],
+  "translation": "A tla tšea go hlwekiša ⟨את⟩ ntlo dinonyana tše pedi, le mohlare wa sede, le šene-tolaat, le ezipo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "40d35f14f2a96ee4d1e5992fa4ad20c76471b4c87d68286aad855c925eca8384",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/14\/49-52.1792283844063.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "a tla tšea"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "go hlwekiša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "tše pedi"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "dinonyana"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "le mohlare"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "wa sede"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "le šene"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "le ezipo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:37:24.064488091Z",
+  "model": "glm-5.3"
+}

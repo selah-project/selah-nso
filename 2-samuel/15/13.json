@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "monna wa Yisraele",
+      "rationale": "איש ישראל ke mokgwa wa go bolela setšhaba ka bophara; diphetoše tše ngwe di bolela 'banna ba Yisraele' ka bontši"
+    },
+    {
+      "kind": "elision",
+      "subject": "e le",
+      "rationale": "Seheberu se sa hlama modupi o tlwaetšego; ⟨e le⟩ se okeditšwe go kgoboketša polelo"
+    }
+  ],
+  "translation": "Gomme molaedi a fihla go Dafida, a re: E bile pelo ya monna wa Yisraele e le ka morago ga Abshalome.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "19a1d22330635f4300dea5fe62eb52e33b4f4fa69f5028a74410113fb6ea966d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/15\/13-16.1792289221269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "a fihla"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "molaedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e bile"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abshalome"
+    }
+  ],
+  "timestamp": "2026-10-18T02:07:01.270283205Z",
+  "model": "glm-5.3"
+}

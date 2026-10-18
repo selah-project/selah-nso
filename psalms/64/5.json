@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "boithatišo",
+      "rationale": "תם ke 'yo a phethagaditšego, yo a hlwekileng' — sebopego sa botho, e sego phrase ya diphoso"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨mo⟩",
+      "rationale": "Sepedi e nyaka sedirišwa sa motho wo a thuntšhwago; Seheberu se na le object suffix go ירהו"
+    }
+  ],
+  "translation": "Go thunya ba boithatišo ka mo go utilwego; ka tshwanelo ba mo thuntšha, gomme ba se boife.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/64\/5-8.1792297991796.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "go thunya"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ka mo go utilwego"
+    },
+    {
+      "surface": "תם",
+      "gloss": "ba boithatišo"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ka tshwanelo"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "ba mo thuntšha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba se"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "boife"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:11.797488617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וחרם",
+      "rationale": "ḥerem: 'phaswa ya botlalo' (JPS) kgatlhanong le 'kutullo\/timela' (ASV, KJV 'curse') — Lentšu le ka bolela seswantšho sa go hlabelwa ga lefsifsi goba se sennye se se hlotšwego."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וישבו ... וישבה",
+      "rationale": "Go boa ga tlhako ya yšb ('ba dula' \/ 'e dula') gate gate ga mošomo wa setšhaba le toropokgolo, se se theilweng godimo ga mošomo o mongwe le o mongwe."
+    },
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Pronenthisi e okeditšwe bakeng sa setšhaba sa benya-mafatshe sa Yuda, se se theilweng godimo ga Sesotho se sa se bontšhago."
+    }
+  ],
+  "translation": "Gomme ba tla dula go yona, gomme phaswa ⟨e⟩ ka se sa ba gona; gomme Yerushalayime e tla dula ka polokego.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1103151d4ab7469e40da8f593d1a8e3b5df6c62bb83123d5997d1f699171bbc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/14\/10-11.1792305234188.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Gomme ba tla dula"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go yona"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "gomme phaswa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ka se sa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ba gona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ga go sa"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "gomme e tla dula"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ka polokego"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:54.189419728Z",
+  "model": "glm-5.3"
+}

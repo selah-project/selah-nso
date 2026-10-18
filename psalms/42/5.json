@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפשׁ ke moya\/bophelo bja motho, e sego 'moya' wa kgale wa Sesotho-khomonwele"
+    },
+    {
+      "kind": "crux",
+      "subject": "בסך",
+      "rationale": "'bontši bja batho' kgahlanong le 'ka sereteng' (booth) ya YLT"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אדדם",
+      "rationale": "דדה — go sepela ka bonano, lentšu le le rarane leo di-versione di fapanego ka lona ('ba hlapanyetša' kgahlanong le 'ka bonano')"
+    }
+  ],
+  "translation": "Dilo tše ke di gopola, gomme ke a phuhlama moya wa ka go ka nna, ka gobane ke be ke sepela le bontši, ke ba hlapanyetša go ya ntlong ya Elohim, ka lentšu la go thaba le go dumelela, bontši bja ba bego ba ketša mokete.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f45caec732fda1f80e58f5b86b9c1a8e0682bd37b7506f36e4c28ce33b1b1447",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/42\/5-8.1792297711482.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dilo tše"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ke di gopola"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "gomme ke a phuhlama"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go ka nna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "ke be ke sepela"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "le bontši"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "ke ba hlapanyetša"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ka lentšu"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "la go thaba"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "gomme go dumelela"
+    },
+    {
+      "surface": "המון",
+      "gloss": "bontši"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "ba ketšago mokete"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:31.482764143Z",
+  "model": "glm-5.3"
+}

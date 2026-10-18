@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 28:29",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sekgopi se se makatšago",
+      "rationale": "הפליא עצה: yo a makatšago ka sekgopi (ka gobane sekgopi sa gage se makatša) kgahlanong le o dirile sekgopi se se makatšago — mehuta ya KJV\/JPS e a fapana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bokgoni",
+      "rationale": "תושיה ke bokgoni bwa tiriso, thušo ya go aga — e sego tlhaelo e nnyane fela ya bohlale."
+    },
+    {
+      "kind": "addition",
+      "subject": "se ⟨le⟩",
+      "rationale": "גם e hlokometša dilo tša go hlatha (28:24–28); ⟨le⟩ e bontša kopano ya sephetho."
+    }
+  ],
+  "translation": "Se se sa ⟨le⟩ tšwa go Yahwe Tsebaote: o ile a dira ⟨את⟩ sekgopi se se makatšago, a kgološa bokgoni.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "45a6cf0158123e7eed77e3150858c3d395ee7ff30987ead64115350d17d0d405",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/28\/29-29.1792291778843.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "e tšwago"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "a dira se se makatšago"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "sekgopi"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "a kgološa"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "bokgoni"
+    }
+  ],
+  "timestamp": "2026-10-18T02:49:38.844090868Z",
+  "model": "glm-5.3"
+}

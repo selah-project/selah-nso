@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mong wa ka",
+      "rationale": "אדני addressed to the angel — human honorific 'my lord', not the divine Adonai."
+    },
+    {
+      "kind": "mystery",
+      "subject": "potšišo",
+      "rationale": "The seer asks what the vision is — meaning deliberately withheld until verse 6."
+    }
+  ],
+  "translation": "Gomme ka araba, ka re go mangeloi yo a bolelago ka nna, ka re: Ke eng tše, mong wa ka?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "473363f6ae792910ffcf036fbdb3b456cc4bcfc23ccfa694a13bc9afa6ea03c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/4\/1-4.1792296880354.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "ka araba"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ka re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "mangeloi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "yo a bolelago"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ka re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:14:40.355851767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אביו",
+      "rationale": "'ntate wa gagwe' kgahlanong le 'mošomi-mmogo le yena' (JPS: 'master craftsman') — אב can be both father and master"
+    },
+    {
+      "kind": "substitution",
+      "subject": "נחשת",
+      "rationale": "נחושת ke kopore ya nnete, e sego 'bras' ya mabapi"
+    }
+  ],
+  "translation": "le ⟨את⟩ dipitsa, le ⟨את]] diphala, le ⟨את⟩ diforokho tša nama, le ⟨את⟩ didirišwa tša tšona ka moka, ⟨את⟩ Khurame ntate wa gagwe o dirile go kgoši Solomone bakeng sa ntlo ya Yahwe, ka kopore e kwibileng.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2723865abed1ce2cc8f9d3c4705274dfdcb6f38f134fd8a0e66c9ae8b7dfd864",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/4\/13-16.1792303617246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת הסירות",
+      "gloss": "le ⟨את⟩ dipitsa"
+    },
+    {
+      "surface": "ואת היעים",
+      "gloss": "le ⟨את⟩ diphala"
+    },
+    {
+      "surface": "ואת המזלגות",
+      "gloss": "le ⟨את⟩ diforokho tša nama"
+    },
+    {
+      "surface": "ואת כל",
+      "gloss": "le ⟨את⟩ ka moka"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "⟨את⟩ didirišwa tša tšona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "o dirile"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "⟨את⟩ Khurame"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ntate wa gagwe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go kgoši"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Solomone"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "bakeng sa ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ka kopore"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "e kwibileng"
+    }
+  ],
+  "timestamp": "2026-10-18T06:06:57.248806174Z",
+  "model": "glm-5.3"
+}

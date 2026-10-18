@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "לכל צבא השמים",
+      "rationale": "Seheberu se bala 'le go madira ka moka a magodimo'; go fetošana ga lente go kwadile ka tsela ye ka ntle ga go phunya taba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "medimo ye mengwe",
+      "rationale": "אלהים אחרים: 'Elohim ba bangwe' — lentšu le le tšwago le dikarolo tše mmalwa la Sepedi go swara bontši."
+    }
+  ],
+  "translation": "a ya a šomela medimo ye mengwe, a ikhunyeditše go tšona, goba go leteishane, goba go ngwedi, goba go madira a magodimo ka moka, seo nka se laetšego nna ⟨ke se sa laetšego⟩ —",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e9b94d43cecdca996ba506d597951075fcd2c4829a758a2008a479aa130d0044",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/17\/1-4.1792286075671.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "a šomela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ye mengwe"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "a ikhunyeditše"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go tšona"
+    },
+    {
+      "surface": "ולשמש",
+      "gloss": "goba go leteishane"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "go ngwedi"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go madira a magodimo ka moka"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "madira"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "a magodimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se sa"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "laetšego nna"
+    }
+  ],
+  "timestamp": "2026-10-18T01:14:35.672112169Z",
+  "model": "glm-5.3"
+}

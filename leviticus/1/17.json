@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le kopula; Sepedi e nyaka ⟨ke⟩ go hlalosa gore ke eng"
+    },
+    {
+      "kind": "crux",
+      "subject": "בכנפיו",
+      "rationale": "'ka maphego a yona' (go šomiša maphego bjalo ka sedirišwa sa go kgaola) kgathanong le 'godimo ga maphego a yona' — ba fetoledi ba sa utlwane"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ניחח \/ נוח",
+      "rationale": "Sebokoni le lentšu la go phumula (nuaḥ) di tswalana — bohincla bjo bo phumuletsago, se se laelwa ke boikgotso"
+    }
+  ],
+  "translation": "Gomme a e kgaole ka maphego a yona, a se kgaole; gomme moperisita a e fiše go aletare, godimo ga dikgong tšeo di lego godimo ga mollo; ⟨ke⟩ sebego sa go fišwa, sehlabelo sa go fišwa, bohincla bjo bo kgotsofetšego go Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "261546dbe5d0414c331378bc54f0ce576350a84f02b6fc1ac90f0154a1f084ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/1\/17-17.1792283461834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "gomme a e kgaole"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (nonyana)"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "ka maphego a yona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "a kgaole"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "gomme a e fiše"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e (nonyana)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "go aletare"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "dikgong"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "על",
+      "gloss": "di lego godimo ga"
+    },
+    {
+      "surface": "האש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sebego sa go fišwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke sona"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sehlabelo sa go fišwa"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "bohincla"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "bjo bo kgotsofetšego"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:31:01.835376556Z",
+  "model": "glm-5.3"
+}

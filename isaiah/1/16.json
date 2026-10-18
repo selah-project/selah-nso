@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ditaelo tše hlano",
+      "rationale": "Ditaelo tše hlano tša go bopegela — sekopanyi sa tokoloho ye: hlwekang, tlosang, kgaotšang."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hlwekang",
+      "rationale": "זכה le bolela «go phethagetše, go bonagala ka mo go swanago» — go hlweka ke go sa bonale ga dibe."
+    }
+  ],
+  "translation": "Lhatšwang, hlwekang; tlosang bobe ba ditiro tša gago ka pele ga mahlo a ka; kgaotšang go dira bobe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "73ed1ea18f0718ea45a855b2741b8529c87f98fe544dfc20a84a4abff79d7ba5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/1\/13-16.1792291169195.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "lhatšwang"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "hlwekang"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "tlosang"
+    },
+    {
+      "surface": "רע",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "ba ditiro tša gago"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ka pele ga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "kgaotšang"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "go dira bobe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:29.196368667Z",
+  "model": "glm-5.3"
+}

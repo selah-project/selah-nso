@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 28:8",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני שחץ",
+      "rationale": "KJV: 'bana ba tau'; YLT\/ASV: 'bana ba lekanego le' (šaḥaṣ = lekanego, e sego tau) — lentšu le ra 'lekanego' ka mo go tlwaelegilego."
+    },
+    {
+      "kind": "mystery",
+      "subject": "tsela",
+      "rationale": "Poeletšo ya 'ga ... ga' e tiišetša se se patilwego: tsela ya mooru ga ba bonwe ke lekae le tau — selo se se bonwego ke mahlo a matala fela."
+    }
+  ],
+  "translation": "Bana ba lekanego le bona ga ba a e tseneletša, tau ya mehla ga e ka se ye go feta go yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8297eed3fe485dcd7ab9fa6e14f88d233b07233602ed65c18249473b8b237e36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/28\/5-8.1792300513443.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "הדריכהו",
+      "gloss": "ba a e tseneletša"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "lekanego le"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "e ka se ye go feta"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "go yona"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "tau ya mehla"
+    }
+  ],
+  "timestamp": "2026-10-18T05:15:13.444183314Z",
+  "model": "glm-5.3"
+}

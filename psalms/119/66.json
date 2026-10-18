@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 119:66",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טעם",
+      "rationale": "טעם is literally 'tatso' (taste) used figuratively for discernment; rendered 'bokgoni bja go kgetha'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "go gotša",
+      "rationale": "Imperative 'm rutše' — the psalmist's plea to be taught, addressed to Yahwe."
+    }
+  ],
+  "translation": "M rutše bokgoni bjo bo botse le tsebo; ka gobane ke ile ka lumela ditaello tša gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "295c5fedf81a2f6ab28bc09a73b62f9eaa5dd778958f4d309f4eeb595176a8f8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/65-68.1792298868005.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "bjo bo botse"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "bokgoni bja go kgetha"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "le tsebo"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "m rutše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "ditaello tša gago"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ke ile ka lumela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:48.005839349Z",
+  "model": "glm-5.3"
+}

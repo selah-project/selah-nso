@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 23:13",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bofole",
+      "rationale": "תפלה ke bofole\/bo-shwa-bophara; JPS e re 'unseemliness', KJV 'folly'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ka Baale",
+      "rationale": "בבעל: 'ka Baale' kgathanong le 'ka Seheberu sa Baale' — diphetholelo di fapana"
+    }
+  ],
+  "translation": "Gomme go baprofeta ba Shomorone ke bego ke bona bofole: ba profetile ka Baale, gomme ba tsepetše ⟨את⟩ setšhaba sa ka ⟨את⟩ Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fd481d6fa1367f928297298d82e862789eec85dccfed48f0bfabaa2798b11bc7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/23\/13-16.1792293429853.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנביאי",
+      "gloss": "gomme go baprofeta ba"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Shomorone"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ke bego ke bona"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "bofole"
+    },
+    {
+      "surface": "הנבאו",
+      "gloss": "ba profetile"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ka Baale"
+    },
+    {
+      "surface": "ויתעו",
+      "gloss": "gomme ba tsepetše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba sa ka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T03:17:09.854534941Z",
+  "model": "glm-5.3"
+}

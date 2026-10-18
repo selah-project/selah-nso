@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שבת שבתון",
+      "rationale": "go boletša gabedi ga lentšu la Shabata — khutšo ya khutšo; go fokotšega ga go boela gabedi ga se bolokega"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopula pele ga 'molao'; Seheberu ga se na yona"
+    }
+  ],
+  "translation": "Shabata ya khutšo e tseneletseng ke go lena, gomme le tla itlama ⟨את⟩ meele ya lena — ⟨ke⟩ molao wa go sa felle.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "12e00a8d15d084c617f4e7bdaac6e3d7f70e67ca3461688c69cf413ea2c7f886",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/16\/29-32.1792284038460.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Shabata"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "ya khutšo e tseneletseng"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lena"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "gomme le tla itlama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meele ya lena"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "meele ya lena"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "molao wa"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "go sa felle"
+    }
+  ],
+  "timestamp": "2026-10-18T00:40:38.461831018Z",
+  "model": "glm-5.3"
+}

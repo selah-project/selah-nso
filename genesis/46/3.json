@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 46:3",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se na le kupoloho ya pelo (אשימך) ye e nago le seripa sa lefoko; ⟨ke⟩ se okeditšwe go hlakantšha"
+    },
+    {
+      "kind": "elision",
+      "subject": "שם",
+      "rationale": "šem (fela) se filwe sekgoba sa ⟨šago⟩ ka gobane thulaganyo ya Sepedi e se nyaka ka morao ga dira"
+    },
+    {
+      "kind": "you",
+      "subject": "to Yaakobo",
+      "rationale": "Elohim o bolela le Yaakobo ka go kgetha, a mo kgothaletša ka go theoga go Mitsrayime"
+    },
+    {
+      "kind": "measurement",
+      "subject": "setšhaba se segolo",
+      "rationale": "Kgothya ya bokgolo bja setšhaba seo se tla dirwago šago"
+    }
+  ],
+  "translation": "Gomme a re: Ke ⟨אנכי⟩ El, Elohim ya tatago gago; o se ke wa tšhaba go theoga go Mitsrayime, ka gobane ⟨ke⟩ tla go dira setšhaba se segolo ⟨šago⟩.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "18bd0635faf24c804af894a5cfd64b086a6491e831b040cd2ecd94242a92acb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/46\/2-3.1792304593059.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ke"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "tatago gago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "tšhaba"
+    },
+    {
+      "surface": "מרדה",
+      "gloss": "go theoga go"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "se segolo"
+    },
+    {
+      "surface": "אשימך",
+      "gloss": "tla go dira"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨šago⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:13.059759997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo bja ka",
+      "rationale": "נפש ke 'moya\/kelello ya go hema' — sego moya wa ka; 'bophelo' ke go jwala sebopego sa yona"
+    },
+    {
+      "kind": "hapax",
+      "subject": "גרס",
+      "rationale": "go kgola ga bjalo go le gona fala mo Tanakheng — lentšu la go roba ka mehla"
+    }
+  ],
+  "translation": "E kgotle bophelo bja ka ka takatšo go dikahlolo tša gago, nako e nngwe le e nngwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8410f7721cca6dca8b2bfa92cb74b33b0734243193ac14728053acf7f8f0f115",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/17-20.1792298808983.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "e kgotle"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja ka"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "ka takatšo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikahlolo tša gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "e nngwe le e nngwe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:48.984150742Z",
+  "model": "glm-5.3"
+}

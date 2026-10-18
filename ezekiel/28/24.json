@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 28:24",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אותם",
+      "rationale": "Seheberu se na le וידעו ... אותם (go tseba bona); Sepedi se e swara ka ⟨את⟩ le 'gore' fela."
+    },
+    {
+      "kind": "addition",
+      "subject": "bona",
+      "rationale": "Sephetho sa ⟨את⟩ se nyaka lentšu la Sepedi 'bona' se bakeng sa sesupo sa objekte."
+    }
+  ],
+  "translation": "Gomme go sa ba gape le lenyetla le tnayago bohloko go ntlo ya Yisraele, gape le leshwelwana le bopang bohloko, go tšwa go bohle ba ba dikologago, ba ba dihloyago ⟨את⟩ bona; gomme ba tla tseba gore ke nna Adonai Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "220d8c7a45d6df066f1c93654310aa45daa615d836d24eb69465c58f080b106f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/28\/21-24.1792295265285.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme go sa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ba gape le"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "go ntlo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "סלון",
+      "gloss": "lenyetla"
+    },
+    {
+      "surface": "ממאיר",
+      "gloss": "le tnayago bohloko"
+    },
+    {
+      "surface": "וקוץ",
+      "gloss": "gape le leshwelwana"
+    },
+    {
+      "surface": "מכאב",
+      "gloss": "le bopang bohloko"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tšwa go bohle"
+    },
+    {
+      "surface": "סביבתם",
+      "gloss": "ba ba dikologago"
+    },
+    {
+      "surface": "השאטים",
+      "gloss": "ba ba dihloyago"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "gomme ba tla tseba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:47:45.286404278Z",
+  "model": "glm-5.3"
+}

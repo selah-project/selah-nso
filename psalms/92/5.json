@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o ntšhabišitše",
+      "rationale": "שׂמח is go dthabisa\/ go riša thabo — 'brighten up, make glad'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ke tla opela ka thabo",
+      "rationale": "ארנן ya go rana ke modumo wa go opela o tiilego, wa go thabilega; 'opela ka thabo' e phutheletše ka mo tee"
+    }
+  ],
+  "translation": "Ka gobane o ntšhabišitše, Yahwe, ka mošomo wa gago; ka diketso tša matsogo a gago ke tla opela ka thabo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/92\/5-8.1792298472218.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "o ntšhabišitše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "ka mošomo wa gago"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ka diketso tša"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "matsogo a gago"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ke tla opela ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:12.219032437Z",
+  "model": "glm-5.3"
+}

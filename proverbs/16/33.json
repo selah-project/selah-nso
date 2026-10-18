@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sehlodi",
+      "rationale": "הגורל e le tlwaelo e bolela lehlwa —jele la kgetho; sehlodi se swara sebopego sa go kgetha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "pelong",
+      "rationale": "בחיק ke letlaka la ka pelong — 'lap' ya Seisemane e sego sebopego sa mmele"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kgetho",
+      "rationale": "sehlodi — phetho ya kgetho ya dijele; palo le kgetho ka sehlaodi"
+    }
+  ],
+  "translation": "Pelong go lahlwa ⟨את⟩ sehlodi, gomme kahlolo ya sona ka moka e tšwa go Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3cd67df8c2b1466b247e47f0a57072167f5bc2c2a8d284b67124f5a90e28a1d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/16\/33-33.1792299447902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "pelong"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "go lahlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlodi"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "sehlodi"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "gomme go tšwa go Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "kahlolo ya sona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:57:27.902661523Z",
+  "model": "glm-5.3"
+}

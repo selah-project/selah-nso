@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 56,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יונת אלם רחקים",
+      "rationale": "Letšhupi la mmino leo ga le a hlaka: 'nonyana ya sephidinyana ya ba kgolego' kgahlanong le go e raša bjalo ka leina la selaodi (JPS: Jonath-elem-rehokim)."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "Lentšu le emela setaele sa poko; le hlaga mo le ditemaneng tše dingwe tše hlano fela, bohalo ba lona bo sa hlaka."
+    }
+  ],
+  "translation": "Go moetapele, go ya ka nonyana ya sephidinyana ya ba kgolego, ya Dafida, poko e gatišetšwego, ge Bafilisita ba mo swara ⟨את⟩ ka Gathe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a38d85356925c49aedc5bc6ca629f47794193efb8e83720aad23df69d223b3d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/56\/1-4.1792297889310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moetapele"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "nonyana ya"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "sephidinyana"
+    },
+    {
+      "surface": "רחוקים",
+      "gloss": "ba kgolego"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "poko e gatišetšwego"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "ge ba swara"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "eena (Dafida)"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bafilisita"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "ka Gathe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:29.311236518Z",
+  "model": "glm-5.3"
+}

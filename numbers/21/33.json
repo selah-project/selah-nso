@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 21:33",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "sa gagwe",
+      "rationale": "Sepedi e nyaka ⟨sa gagwe⟩ — Seheberu se na le suffix fela go עמו"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go lwa",
+      "rationale": "למלחמה ke go lwa\/nwa; 'ka ntweng' e ka ba boitsebiso bja lefelo fela"
+    }
+  ],
+  "translation": "Ba fetoša tsela, ba ya godimo ka tsela ya go ya Bashane; gomme Oge, kgoši ya Bashane, a tšwa go ba lebana, yena le setšhaba sa gagwe ka moka, go lwa, go Edrei.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b46e000413ec5684c7b7b011047ade5448bd708bbf79004fcf5157327729df48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/21\/33-35.1792284936025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "ba fetoša tsela"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "ba ya godimo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Bashane"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "a tšwa"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Oge"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ya Bashane"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "go ba lebana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ka moka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "setšhaba sa gagwe"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go lwa"
+    },
+    {
+      "surface": "אדרעי",
+      "gloss": "go Edrei"
+    }
+  ],
+  "timestamp": "2026-10-18T00:55:36.026643898Z",
+  "model": "glm-5.3"
+}

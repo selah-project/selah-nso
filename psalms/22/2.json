@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go huduwa",
+      "rationale": "שאגה ke modumo wa tau — go lla ka matla; 'go huduwa' o swarwa gaufi le seswantšho sa Seheberu."
+    },
+    {
+      "kind": "you",
+      "subject": "go El",
+      "rationale": "Poko ye e bolelelwa El ka kotsing — potsišo ya go ikuela."
+    }
+  ],
+  "translation": "El ya ka, El ya ka, ke ka o ntlohile? Kgae go polokego ya ka, go mantšu a go huduwa a ka?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/22\/1-4.1792297355486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "El ya ka"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "El ya ka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke ka"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "o ntlohile"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Kgae"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "go polokego ya ka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "a go huduwa a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:35.487556106Z",
+  "model": "glm-5.3"
+}

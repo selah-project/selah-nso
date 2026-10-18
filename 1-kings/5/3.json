@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "palo ya sejo",
+      "rationale": "10 + 20 dikgomo, 100 dinku le dipudi — palo e ntle ya letsatsi le lengwe le le lengwe"
+    },
+    {
+      "kind": "hapax",
+      "subject": "ברברים",
+      "rationale": "lentšu le ka Tanakh fela mo — dinonyana tše di nonileng"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tholo \/ tšhepu \/ phuti",
+      "rationale": "maina a diphoofolo tša naga tše tharo — thwtšo ya Sepedi e nyaka tšebe"
+    }
+  ],
+  "translation": "dikgomo tše lesome tše nonileng, le dikgomo tše masomepedi tša pafo, le dinku le dipudi tše lekgolo, ntle le tholo ya naga, tšhepu, phuti, le dinonyana tše di feditšwego ka pofo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "53a5300943b37a034dac9ae92d281bfc4ab2f8fb0dd50e11fd3579b949c184b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/5\/1-4.1792289776489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "tše lesome"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "tše nonileng"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "le tše masomepedi"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "tša pafo"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "le tše lekgolo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku le dipudi"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "tholo ya naga"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "tšhepu"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "phuti"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "le dinonyana"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "tše di feditšwego ka pofo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:16:16.490625542Z",
+  "model": "glm-5.3"
+}

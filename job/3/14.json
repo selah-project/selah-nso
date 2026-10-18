@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 3:14",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leswika-mahuwe",
+      "rationale": "חרבות ke mafelo a phabologilego a diswao — dihuwe tše di se nago baagi"
+    },
+    {
+      "kind": "crux",
+      "subject": "ba ago",
+      "rationale": "KJV 'ba ago dihuwe' go swana le Seheberu; bangwe ba bala 'ba ago legae la mahuwe'"
+    }
+  ],
+  "translation": "le dikgoši le baetapele ba lefase, ba ago leswika-mahuwe tša bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8a181b5fc0d00486d693f5149c13c170114b2e44865f92d27c8aabb3761f5a52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/3\/13-16.1792300007752.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "ויעצי",
+      "gloss": "le baetapele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba lefase"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "ba ago"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "leswika-mahuwe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "tša bona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:47.752860013Z",
+  "model": "glm-5.3"
+}

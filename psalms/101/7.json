@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 101,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "רמיה",
+      "rationale": "remiya e aga go tšwa go 'ramam' (go phaphamala); 'bofošwa' ga se modumo o feletšego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישב\/יכון",
+      "rationale": "khutšo ya mafelelo: ga a dule \/ ga a dumelelwe — go swana ga dikagare ga dumelelwa ka Sepedi"
+    }
+  ],
+  "translation": "Ga a dule ka gare ga ntlo ya ka yo a dirago bofošwa; yo a bolelago maaka ga a dumelelwe pele ga mahlo a ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/101\/5-8.1792298594286.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a dule"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka gare"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ga ntlo ya ka"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yo a dirago"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bofošwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yo a bolelago"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "maaka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "a dumelelwe"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:14.287788873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨goba⟩",
+      "rationale": "Hebrew infinitive constructs vv.34–36 continue the thought of v.33; Sepedi needs a linking word"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba legolegwa",
+      "rationale": "אסירי lit. 'bound ones', captives — rendered 'the imprisoned'"
+    }
+  ],
+  "translation": "Go kgwathagatša ka fase ga maoto a gagwe ⟨goba⟩ ba legolegwa ba lefase ka moka —",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5047c71056e8c3eaa159ad36b996425ee09a8f74987f72255ae9a475137d3617",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/3\/33-36.1792301154689.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "go kgwathagatša"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fase ga"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "maoto a gagwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "ba legolegwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ba lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T05:25:54.690127294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 3:26",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "רב לך",
+      "rationale": "Literal 'abundant for you' rendered as 'go lekane go wena' (it is enough for you), the idiom of refusal."
+    },
+    {
+      "kind": "crux",
+      "subject": "ויתעבר",
+      "rationale": "Hitpael of עבר: 'was angry' (as most versions) vs literal 'made himself cross over' — the same root as Moses' plea to cross in v. 25."
+    }
+  ],
+  "translation": "Gomme Yahwe a hlalefa ka nna ka lebaka la lona, gomme a sa theetše go nna; gomme Yahwe a re go nna: Go lekane go wena; o se ke wa oketša go bolela go nna gape ka taba ye.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4c334c266f804d03ce129578f1c4f25b4cf520c207c9c93ea5ac78d355d559d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/3\/25-28.1792285588075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתעבר",
+      "gloss": "gomme a hlalefa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "ka lebaka la lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "theetše"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "רב",
+      "gloss": "go lekane"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "wa oketša"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka taba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-10-18T01:06:28.076497427Z",
+  "model": "glm-5.3"
+}

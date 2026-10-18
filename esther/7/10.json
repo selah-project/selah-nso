@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "makutu",
+      "rationale": "חמה e thwego ka moya wa go fisa — 'makutu' ke sebopego sa go fisa; sebotse ka Sepedi go feta 'makaswane'."
+    },
+    {
+      "kind": "crux",
+      "subject": "שככה",
+      "rationale": "'a khutša' kgatlhanong le 'a phuma' — šakak ke go didimadiša; ditlhopho di fapana pakgadi tša 'pacified' le 'subsided'."
+    }
+  ],
+  "translation": "Gomme ba logela ⟨את⟩ Hamane go sehlare seo a se rulagantšego go Mordekai, gomme makutu a kgosi a khutša.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "daa06d68644b642af66c1748e2054b59d3260f6174c588dae6be0fd615119595",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/7\/9-10.1792301666856.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "gomme ba logela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hamane"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Hamane"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "sehlare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "a se rulagantšego"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "go Mordekai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "gomme makutu a"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "a khutša"
+    }
+  ],
+  "timestamp": "2026-10-18T05:34:26.857393237Z",
+  "model": "glm-5.3"
+}

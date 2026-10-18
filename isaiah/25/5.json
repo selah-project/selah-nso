@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 25:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חרב...חרב",
+      "rationale": "Drought\/heat word repeats at both halves of the verse, binding the parallel lines; repetition kept."
+    },
+    {
+      "kind": "crux",
+      "subject": "זמיר",
+      "rationale": "'Pina' (song, with music) kgahlanong le KJV 'branch' (zaqif) — bontši bja diphethollo bo kgetha pina ya bao ba hlorago."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bafaladi",
+      "rationale": "זרים literally 'bao ba fologago, ba sa tšwago kua' — 'bafaladi' e swara sebopego sa phologo."
+    }
+  ],
+  "translation": "Bjalo ka mohumo lefelong la lešo, leruru la bafaladi o le ka fa fase; mohumo ka moriti wa sephego, pina ya bao ba hlorago e a ka fa fase.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "37da0810a92eda810ba0118502593c87eb368b9bc2b2975b94b8f4c1321f3e5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/25\/5-8.1792291782223.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כחרב",
+      "gloss": "bjalo ka mohumo"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "lefelong la lešo"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "leruru"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "la bafaladi"
+    },
+    {
+      "surface": "תכניע",
+      "gloss": "o le ka fa fase"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "mohumo"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ka moriti"
+    },
+    {
+      "surface": "עב",
+      "gloss": "wa sephego"
+    },
+    {
+      "surface": "זמיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "ya bao ba hlorago"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "e a ka fa fase"
+    }
+  ],
+  "timestamp": "2026-10-18T02:49:42.223765494Z",
+  "model": "glm-5.3"
+}

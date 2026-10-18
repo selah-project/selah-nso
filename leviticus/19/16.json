@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "go ema godimo ga madi",
+      "rationale": "עמד על דם: ba fetolelwe ba re 'go ema kgahlanong le madi' (go hlokahala lehu) kgahlanong le 'go ema ka go sa diro selo' (go hloka go thuša) — bophara bja sebopego se sa fetolwa ka botlalo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mošweni wa dikanong",
+      "rationale": "רכיל e tšwa go go sepela (רכל 'go sepela ka dikano'); 'mošweni wa dikanong' e boloka sebopego sa go rwala dikanong"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Taelo ye e lebisitšwego go setšhaba sa Yisraele"
+    }
+  ],
+  "translation": "O se ke wa sepela bjalo ka mošweni wa dikanong gare ga setšhaba sa gago; o se ke wa ema godimo ga madi a mošhomišani wa gago: nna ke Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0a7e723a21e15a976512eebd512f16781d6869e8b95bf9fd8821088a8d87f9c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/19\/13-16.1792284118513.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "wa sepela"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "bjalo ka mošweni wa dikanong"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "gare ga setšhaba sa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "wa ema"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "mošhomišani wa gago"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:41:58.514926816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 89:41",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "matišo",
+      "rationale": "מבצרות ke mafelo a go itiša; 'malelo' ka mo go latelago ke dikgoro tša mehlape"
+    },
+    {
+      "kind": "alternative",
+      "subject": "go senyega",
+      "rationale": "מחתה gape e ka bolela 'thoo' goba 'tšhoganego'; 'go senyega' e tšea moedi wa go phutlama"
+    }
+  ],
+  "translation": "O robe ka moka malelo a gagwe, o beile matišo a gagwe go senyega.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "53f8ee8a217282c258cbd10cf0f993670adb04c6fd1e20abb763a908477986d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/41-44.1792298375919.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פרצת",
+      "gloss": "o robe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "גדרתיו",
+      "gloss": "malelo a gagwe"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "o beile"
+    },
+    {
+      "surface": "מבצריו",
+      "gloss": "matišo a gagwe"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "go senyega"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:35.919976169Z",
+  "model": "glm-5.3"
+}

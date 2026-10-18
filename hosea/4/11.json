@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "beine le mpsha",
+      "rationale": "תירוש ke morara o mosha o sa gaiswago (tušo ya morara); 'beine le mpsha' e boloka phapano ya יין le תירוש."
+    },
+    {
+      "kind": "addition",
+      "subject": "di",
+      "rationale": "Mogopolo wa kopanyo wa Sepedi o okeditšwe go šomašomaganya semantšhwa sa bontši bja Seheberu."
+    }
+  ],
+  "translation": "Bonyatsi le beine le beine le mpsha di tšera pelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/4\/9-12.1792295880642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "bonyatsi"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "le beine"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "le beine le mpsha"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "di tšera"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    }
+  ],
+  "timestamp": "2026-10-18T03:58:00.643536740Z",
+  "model": "glm-5.3"
+}

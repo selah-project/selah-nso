@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kagiso",
+      "rationale": "KJV e ra 'favour'; שלום ke 'kagiso\/go phela ka khotso' ka mo go tlwaelegilego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חומה...כמגדלות",
+      "rationale": "O araba ka 'phapoša' ya temana ya 9 — thapo e agwa godimo ga phapoša; kgatelelo ya go fetoga ga setšhaba sa gagwe"
+    }
+  ],
+  "translation": "Nna ke phapoša, gomme dibele tša ka bjalo ka dithapo; bjale ka nako yeo ke ile ka ba ka go mahlo a gagwe bjalo wa hwetša kagiso.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7d3eaa55d3627b589be5cf6493e4000c4c6820a81cc1cdd6099f06d05b3ee1f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/8\/9-12.1792301034399.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "phapoša"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "gomme dibele tša ka"
+    },
+    {
+      "surface": "כמגדלות",
+      "gloss": "bjalo ka dithapo"
+    },
+    {
+      "surface": "אז",
+      "gloss": "bjale ka nako yeo"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ile ka ba"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ka go mahlo a gagwe"
+    },
+    {
+      "surface": "כמוצאת",
+      "gloss": "bjalo wa hwetša"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:54.400283062Z",
+  "model": "glm-5.3"
+}

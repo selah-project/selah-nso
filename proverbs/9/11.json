@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yona",
+      "rationale": "בי 'by me' refers to Wisdom speaking; Sepedi requires the pronoun yona (bohlale, class 14)."
+    },
+    {
+      "kind": "measurement",
+      "subject": "matsatsa\/mengwaga",
+      "rationale": "Verse counts days and years — a measurement of lifespan."
+    }
+  ],
+  "translation": "Ka gobane ka yona matsatsa a gago a tla oketšega, gomme mengwaga ya bophelo e tla oketšelwa go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2cb80516ac7dbd8d5df986b225603de8e80e0c943e853c303e88cb4362843525",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/9\/9-12.1792299256169.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "a tla oketšega"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "matsatsa a gago"
+    },
+    {
+      "surface": "ויוסיפו",
+      "gloss": "gomme e tla oketšelwa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ya bophelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:54:16.170756990Z",
+  "model": "glm-5.3"
+}

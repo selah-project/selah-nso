@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 94:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke motho wa go hema — mafoko a Sepedi a šomišitšwego ke a go hema le bophelo, e sego moyeng ya kgethilwego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ירשיעו",
+      "rationale": "go laola sebele — ba rokeletša madi a mahlologedi ka kahlolo ya maaka, selo se se feletšego kgahlanong le toka"
+    },
+    {
+      "kind": "crux",
+      "subject": "יגודו",
+      "rationale": "go tšwa go גדד — ba bopagantšhwa kgahlanong le; ba kopanela go bolaea; mantšu a dikgethi a fapana"
+    }
+  ],
+  "translation": "Ba kgobokanela mmogo kgahlanong le moya wa yo lokilego, gomme ba laola madi a mahlologedi sebe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0f15ef12c275c81bdcb9a43b9ac6e3af98f1cdd262cee3fd259d75ed0ba68830",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/94\/21-23.1792298433761.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגודו",
+      "gloss": "ba kgobokanela mmogo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wa yo lokilego"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "gomme madi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "a mahlologedi"
+    },
+    {
+      "surface": "ירשיעו",
+      "gloss": "ba laola sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:33.761797995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "metsamao ya meetse",
+      "rationale": "פלגי ke metsamao ya metswedi ya metsi — e nyakile go ba 'dinoka' (KJV 'rivers')"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על",
+      "rationale": "'ka gobane' — על mo e šomišwa bjalo ka lentšu la go hlaloša lebaka, e sego fela 'godimo ga'"
+    }
+  ],
+  "translation": "Metsamao ya meetse di theoga mahlong a ka, ka gobane ba sa šireletšego Torah ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "26b1389558043b6ca67ee29ab6db0dce409fc27acbd42834369226cb999f96de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/133-136.1792298875270.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "metsamao ya"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "di theoga"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlong a ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ba šireletše"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Torah ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:55.271278498Z",
+  "model": "glm-5.3"
+}

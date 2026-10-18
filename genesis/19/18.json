@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אדני",
+      "rationale": "Adonai wa Modimo goba 'mong wa ka' wa motho; mo Lote a bolela le mošomiši wa Elohim — Sepedi: Adonai go ya le D1"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל נא",
+      "rationale": "'Aowa, go se be bjalo' — Seheberu se re 'A e se ke go ba bjalo' ka go sa bolele se se latelago"
+    }
+  ],
+  "translation": "Gomme Lote a ba re: Aowa, ⟨gore⟩ go se be bjalo, nkgopotsa, Adonai.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "4cc40ceebf6c5c7701b4a7dbb0774e9f05c7e5658916768efbe73c46ead61404",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/19\/18-19.1792304578094.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lote"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aowa, go se be bjalo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nkgopotsa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:58.095030910Z",
+  "model": "glm-5.3"
+}

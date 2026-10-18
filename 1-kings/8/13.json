@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זבול",
+      "rationale": "Lehlakoreng la bohwerere le re 'exalted house', dikgethi tše dingwe 'habitation' — lentšu le bolela boahi bjo bo phahameng"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולמים",
+      "rationale": "Bontši bja עולם — 'go ile leile' go tšea bontši bjalo ka nakong e sa felago"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בנה בניתי",
+      "rationale": "Go boeletša ga infinitive-absolute le perfet go a kgahliša: 'go agopile, ke agopile' — tlhagakamoo e bolokwa ka go boeletša"
+    }
+  ],
+  "translation": "Go agopile, go agopile ⟨את⟩ ntlo ya boahi bakeng sa gago, lefelo le le tiilego la go dula ga gago go ile leile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "10ba86f01d7f4300c2161cb60d124891de103b54c4b9961008b499c1f1e86033",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/8\/13-16.1792289876263.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "go agopile"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ke agopile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "ya boahi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "bakeng sa gago"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "lefelo le le tiilego"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "la go dula ga gago"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "go ile leile"
+    }
+  ],
+  "timestamp": "2026-10-18T02:17:56.263989693Z",
+  "model": "glm-5.3"
+}

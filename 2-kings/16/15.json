@@ -1,0 +1,213 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 16:15",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ya go botšiša",
+      "rationale": "לבקר ba mekhukhu: 'go botšiša\/nyaka tlhalotlo' (KJV 'to enquire by') kgatlhanong le 'bakeng sa mesong' — modu o bolela dilo tše pedi"
+    },
+    {
+      "kind": "you",
+      "subject": "Uriya moperisita",
+      "rationale": "taelo ya kgoši e bolelwa ka go lebanya go Uriya"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mantsiboa",
+      "rationale": "הערב ke 'mantsiboa\/bokgalore' — nako ya go hraela ga letšatši"
+    }
+  ],
+  "translation": "Gomme kgoši Akaze a la ⟨את⟩ Uriya moperisita, a re: Go aletare ye kgolo fiša ⟨את⟩ sebego sa go fišwa sa mesong, le ⟨את⟩ minkha ya mantsiboa, le ⟨את⟩ sebego sa go fišwa sa kgoši le ⟨את⟩ minkha ya gagwe, le ⟨את⟩ sebego sa go fišwa sa setšhaba sotlhe sa lefase, le minkha ya tšona le ditšollo tša tšona; gomme madi ohle a sebego sa go fišwa le madi ohle a sehlabelo o tla a phatlalatsa godimo ga sona; aletare ya tšhepedi yona e tla ba ya ka go botšiša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "37dd699d17ff36501d8eac0b36b1d9095f73757a5c6fa10cef983fac34dbd262",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/16\/13-16.1792290887338.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצוהו",
+      "gloss": "a mo laela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Akaze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uriya moperisita"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ye kgolo"
+    },
+    {
+      "surface": "הקטר",
+      "gloss": "fiša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebego sa go fišwa sa mesong"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "sebego sa go fišwa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "sa mesong"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "minkha ya mantsiboa"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ya mantsiboa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sebego sa go fišwa sa kgoši"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "sebego sa go fišwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "sa kgoši"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "minkha ya gagwe"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "minkha ya gagwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sebego sa go fišwa sa setšhaba"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "sebego sa go fišwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sa setšhaba sotlhe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "sa lefase"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "le minkha ya tšona"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "le ditšollo tša tšona"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme madi ohle"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "a sebego sa go fišwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le madi ohle"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "a sehlabelo"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "godimo ga sona"
+    },
+    {
+      "surface": "תזרק",
+      "gloss": "o tla a phatlalatsa"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "aletare"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ya tšhepedi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya ka"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ya go botšiša"
+    }
+  ],
+  "timestamp": "2026-10-18T02:34:47.339574673Z",
+  "model": "glm-5.3"
+}

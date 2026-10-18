@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go nagana",
+      "rationale": "הגיג ke go bolela ka gare, go duela dilo ka pela; 'go nagana' go atametše eupša go se kgahlanong le boledi bja ka gare."
+    }
+  ],
+  "translation": "Pelo ya ka e ile ya fisa ka gare ga nna; ge ke nagana, mollo o tukile; ka bolela ka leleme la ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7c2ab32a375ff9e54959f3239a0df1553b2b559a7759a3e1daabf1d04a1ed9fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/39\/1-4.1792297675173.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "e ile ya fisa"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ka gare ga nna"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "ge ke nagana"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "o tukile"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ka bolela"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ka leleme la ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:55.174635114Z",
+  "model": "glm-5.3"
+}

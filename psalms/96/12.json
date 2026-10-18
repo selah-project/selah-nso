@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 96,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "masimo",
+      "rationale": "שדי mo ke bontši bja šadeh (masimo) — e sego Shadai; ditlhaka tša tšona di swana, tlhaloso e fapana."
+    }
+  ],
+  "translation": "Masimo a tlola ka thabo, gomme tše ka moka tše di lego ka gona; fao mehlare ya segothe ka moka e tla opela ka thabo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bc56e13fa9c7956d8fe1183e1e7ed952b16a0fbc76880e2220575ad914e55464",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/96\/9-12.1792298483574.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "a tlola ka thabo"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "masimo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme tše ka moka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka gona"
+    },
+    {
+      "surface": "אז",
+      "gloss": "fao"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "e tla opela ka thabo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ya mehlare"
+    },
+    {
+      "surface": "יער",
+      "gloss": "segothe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:23.575119348Z",
+  "model": "glm-5.3"
+}

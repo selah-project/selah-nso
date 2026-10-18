@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 59,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨nnete⟩ · ⟨e⟩",
+      "rationale": "Seheberu se se na selo se sengwe mola; Sepedi se nyaka selo se se ganetšwago go 'go gana'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bogodukodu",
+      "rationale": "גאון ke 'bobogodu\/bogodukodu' — phetolelo ya 'tlotlo e phahameng' e theohile mo go se sengwe"
+    },
+    {
+      "kind": "crux",
+      "subject": "ומכחש",
+      "rationale": "מכחש: 'go gana nnete' (KJV 'lying') kgotala 'bohlaselwa' (emaciation) — motswalo wa lentšu ke 'go fela mafuri'"
+    }
+  ],
+  "translation": "Sebe sa molomo wa bona, lentšu la meepe wa bona — a ba tšwarwe ka bogodukodu bja bona; gomme ka mogala le ka go gana ⟨nnete⟩ ba ⟨e⟩ bolela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e03e5fa4b70d4e07c8c3106023c1b168d6f78f5a300c5a8f807041aaf89399e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/59\/13-16.1792297962049.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "Sebe"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "molomo wa bona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "meepe wa bona"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "a ba tšwarwe"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "ka bogodukodu bja bona"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "gomme ka mogala"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "le ka go gana"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ba bolela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:42.049591020Z",
+  "model": "glm-5.3"
+}

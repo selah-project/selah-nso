@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "e hlwekile",
+      "rationale": "ברה (bar) ke 'e se nago se sengwe, e hlwekile' — lentšu le nyenyane, le bolela botho-bophara ba go se nago sekoloto"
+    },
+    {
+      "kind": "addition",
+      "subject": "di a",
+      "rationale": "Seheberu se se na le kopula; Sepedi se e nyaka"
+    }
+  ],
+  "translation": "Dipikude tša Yahwe di a tiišetša, di a thabiša pelo; taelo ya Yahwe e hlwekile, e a khanya mahlo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e3d8b64492fb67098dda35d7fd6715c9c7d301a740cbcebad64c390821f8f3e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/19\/9-12.1792297390104.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "dipikude"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "di a tiišetša"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "di a thabiša"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "e hlwekile"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "e a khanya"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "mahlo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:10.105305861Z",
+  "model": "glm-5.3"
+}

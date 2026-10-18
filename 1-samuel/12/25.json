@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הרע\/תרעו",
+      "rationale": "Infinitive absolute plus finite verb of the same root רעע reinforces: 'do evil-doing'; Sepedi rendering repeats sebe with the verb to keep the doubling."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sumošwa",
+      "rationale": "ספה literally 'sweep\/scrape away'; JPS 'swept away', KJV 'consumed' — sumošwa captures the sweeping-away picture."
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Yisraele",
+      "rationale": "Moeši Moshe o bolela ka go se šišinye le setšhaba ka noši; tlhoso ya pelong ya temana ye."
+    }
+  ],
+  "translation": "Eupša ge le ka ntšha sebe, le lona gabedi le kgoši ya lena le tla sumošwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "263af796ef787e2244c902f567fed4d8c4f38ff8e8aaab7e254dc6ddbf7df686",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/12\/25-25.1792288062514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "eupša ge"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ntšha sebe"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "le ka dira"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gabedi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le lona"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "kgoši ya lena"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "le tla sumošwa"
+    }
+  ],
+  "timestamp": "2026-10-18T01:47:42.514770679Z",
+  "model": "glm-5.3"
+}

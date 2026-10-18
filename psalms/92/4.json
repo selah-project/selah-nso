@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dithaere tše lesome",
+      "rationale": "עשור = palo ya dithaere — lesome; sebopego sa mmino se balwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "הגיון",
+      "rationale": "Higayone: modumo wa go duma goba sebopego sa mmino — mofetoledi a disagana ka 'mogolo wa thwii' goba 'go duma go tiilego'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "הגיון",
+      "rationale": "Leina le le tobilego mminong; hlaka ya lona e nyakile thata go Tanakh"
+    }
+  ],
+  "translation": "Ka seswa sa dithaere tše lesome, le ka nabele; ka modumo wa go duma, ka khenoro.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "75aa2654dc0b02aebda872bbc4bf764367c9e56852a0f3d23ae13035f9c8688f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/92\/1-4.1792298496791.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "seswa sa dithaere tše lesome"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "le ka"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "nabele"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "modumo wa go duma"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka khenoro"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:36.793020973Z",
+  "model": "glm-5.3"
+}

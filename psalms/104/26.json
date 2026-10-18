@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לויתן",
+      "rationale": "Liwyathane — sefofane sa maSeberu; bao ba bangwe ba mpshafatša go ba 'noga ya kgolo' goba 'krokodile'; leina le bolokwa ka modumo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בו",
+      "rationale": "'go lona' — bontši, sebopego sa motheo sa go bolela lewatle bjalo ka bontši, go swana le bontši bja Seheberu"
+    }
+  ],
+  "translation": "Moo dikepe di sepelago; Liwyathane yeo, o mo bopilego go bapala go lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/25-28.1792298574098.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "dikepe"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "di sepela"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Liwyathane"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "o mo bopilego"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "go bapala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:54.098939071Z",
+  "model": "glm-5.3"
+}

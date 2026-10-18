@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ya",
+      "rationale": "Sepedi e nyaka sekopanyi 'ya' gare ga thapo le bagolo; Seheberu se dira ka boemo (construct)."
+    }
+  ],
+  "translation": "Gomme a tlogela ⟨את⟩ thapo ya bagolo yeo ba bego ba e ne, gomme a dumelelana le ⟨את⟩ bahlankana bao ba goletšego ⟨את⟩ le yena, bao ba emego pele ga gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "30d70d1fb0c486f1c3829de05a3c22163f03a07de20eb51b51440ed5ebd9a2bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/12\/5-8.1792289992944.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "gomme a tlogela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thapo ya bagolo"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "thapo ya"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "ba bego ba e ne"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "gomme a dumelelana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bahlankana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "bahlankana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ba goletšego"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le yena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ba emego"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "pele ga gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:19:52.945721928Z",
+  "model": "glm-5.3"
+}

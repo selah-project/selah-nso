@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 18:8",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Lewatle",
+      "rationale": "ים 'the Sea' is the temple laver's proper name, kept as Lewatle le la koporo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "koporo",
+      "rationale": "נחשת is copper\/bronze; koporo chosen over 'tšhipi' to keep the metal distinct"
+    },
+    {
+      "kind": "measurement",
+      "subject": "ye ntsi kudu",
+      "rationale": "quantity of bronze taken, stressed by the double adverb"
+    }
+  ],
+  "translation": "Gomme go tšwa go Tibkhate le go tšwa go Kune, metse ya Hadadezere, Dafida a tša koporo ye ntsi kudu; ka yona Shelomo a dira ⟨את⟩ Lewatle la koporo le ⟨את⟩ ditshuti le ⟨את⟩ didirišwa tša koporo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c6ed613fd6c065d2f47d03d3924fd2b838966767b468137ce4efba83e0146f94",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/18\/5-8.1792303324274.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומטבחת",
+      "gloss": "go tšwa go Tibkhate"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "le go tšwa go Kune"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "metse"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ya Hadadezere"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "a tša"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "koporo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ye ntsi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ka yona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lewatle la koporo"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Lewatle"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "la koporo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ditshuti"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ditshuti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "didirišwa tša koporo"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "didirišwa"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "tša koporo"
+    }
+  ],
+  "timestamp": "2026-10-18T06:02:04.276743954Z",
+  "model": "glm-5.3"
+}

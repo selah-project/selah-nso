@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 1:12",
+  "book": "ruth",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsholofelo",
+      "rationale": "תקוה ka borethe ke thapo ya go kgoma — figure ya tsholofelo e tšwa go yona"
+    },
+    {
+      "kind": "crux",
+      "subject": "הלילה",
+      "rationale": "\"bosigo bjo\" — bja gona bjale; barwaedi ba fapana: \"bosigo bjo\" kgahlanong le \"bosigo bjo bja gona bjale\""
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם ... וגם",
+      "rationale": "go boela ga 'le gape ... le gape' go aga peaks ya go gana ga Naomi — mokgwa o bolokwa ka go boela ga mantšu"
+    }
+  ],
+  "translation": "Bong, mašwele a ka, sepelang; ka gobane ke kgomile go ba le monna; ge ke be ke re go na le tsholofelo go nna, le ge ke ka ba le monna bosigo bjo, le gape ke beletše bana —",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "11699d63f16aad11cdd437e11517fa1be8299682567cebab23a9610f9943d4ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ruth\/1\/9-12.1792301032390.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שבנה",
+      "gloss": "bong"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "mašwele a ka"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "sepelang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ke kgomile"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ke be ke re"
+    },
+    {
+      "surface": "יש",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "tsholofelo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le ge"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke ka ba"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosigo bjo"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "le gape"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "ke beletše"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:52.391301009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi se hloka kopula ⟨ke⟩ yeo Seheberu se se se nago yona"
+    },
+    {
+      "kind": "crux",
+      "subject": "ישופני",
+      "rationale": "šuf: go gwaragwara\/kgobotla — KJV 'cover me', ASV 'overwhelm me', YLT 'bruiseth me'"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Sefoko se sa tswela go bolelelwa Yahwe"
+    }
+  ],
+  "translation": "gomme ka re: e eng lefsifsi le tla nkgapetša — gomme bosigo ⟨ke⟩ lesedi go mpotlana.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f780a204476d2dae71f13954eb3899ac85b0761bd4cef2b576a1da1fa58dfd9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/139\/9-12.1792299030854.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "gomme ka re"
+    },
+    {
+      "surface": "אך",
+      "gloss": "e eng"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "le tla nkgapetša"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "gomme bosigo"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lesedi"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "go mpotlana"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:30.855810467Z",
+  "model": "glm-5.3"
+}

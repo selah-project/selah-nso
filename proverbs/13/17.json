@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu ga se na kopula go clause ya bobedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "ציר",
+      "rationale": "Sefoko se bolela 'moswari wa lebati goba moromiwa wa tšhepo' — diphetošo tše dingwe di re 'moemedi'"
+    }
+  ],
+  "translation": "Moromiwa wa mobe o wa bo-bye; gomme moromiwa wa tšhepo ⟨ke⟩ phegelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9f12e9deddf112db526c31462abd0a43af59dbbe6b903eddf374fc951026c0e8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/13\/17-20.1792299399030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "moromiwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wa mobe"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "o wa"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "bo-bye"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "gomme moromiwa"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "wa tšhepo"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "phegelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:56:39.030638675Z",
+  "model": "glm-5.3"
+}

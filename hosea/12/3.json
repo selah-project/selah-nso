@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ולפקד",
+      "rationale": "paqad ya Seheberu — go etela ka lebaka la kotlo goba la mohau; 'go etela” e boloka botho bja lentšu, go sego 'go kgotsofatsa kotlo' fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כדרכיו \/ כמעלליו",
+      "rationale": "kanegelo ya go swana: ditsela tša gagwe \/ mešomo ya gagwe — sebopego se se lingwa ka tsela e tee, se bolokwa ka go boeledwa ga 'go ya ka'"
+    }
+  ],
+  "translation": "Gomme Yahwe o na le kgotla le Yahuda, gomme o tla etela Yaakobo go ya ka ditsela tša gagwe; go ya ka mešomo ya gagwe o tla mo busetšela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "823b702dbbab90508d3e1f0a3744a33cd54c77a956b258685b02456494d37a41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/12\/1-4.1792296048038.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "gomme ... kgotla"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yahuda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "gomme o tla etela"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨go ya ka⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobo"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "go ya ka ditsela tša gagwe"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "go ya ka mešomo ya gagwe"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "o tla busetšela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:00:48.039451716Z",
+  "model": "glm-5.3"
+}

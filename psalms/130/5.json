@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפש ke moya\/maphelo — sepho sa go hema le tlhago ya bophelo, e sego 'moya' wa kgopolo ya ka morago"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קויתי \/ קותה",
+      "rationale": "Go bušetša ga lefoko la go leta gabedi — sepopi se se lahlegilego ka Sepedi"
+    }
+  ],
+  "translation": "Ke letetše Yahwe, moya wa ka o letetše, gomme ka lentšu la gagwe ke beleditše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/130\/5-8.1792298942801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "ke letetše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "o letetše"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "gomme ka lentšu la gagwe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ke beleditše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:02.802286974Z",
+  "model": "glm-5.3"
+}

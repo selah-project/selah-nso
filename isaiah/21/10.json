@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מדושתי",
+      "rationale": "'Yeo e gadišwago ya ka' — setšhaba se se gadišwago bjalo ka moswi; ba bangwe ba bea 'peo ya seretlong sa ka'."
+    },
+    {
+      "kind": "you",
+      "subject": "go lena",
+      "rationale": "Moprofeta o bolela ka go isiwa go setšhaba sa Yuda, se bitswago ka go gadišwa."
+    }
+  ],
+  "translation": "Yeo e gadišwago ya ka, le morwa wa seretlong sa ka: seo ke se utuwitšego go tšwa go ⟨את⟩ Yahwe Tsebaote, Elohim wa Yisraele, ke se boletšego go lena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "57878eca1b3aa738706909bb55e4ff59290939101f10add5d90986cf7df15de3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/21\/9-12.1792291553127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מדושתי",
+      "gloss": "yeo e gadišwago ya ka"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "le morwa wa"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "seretlong sa ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ke se utuwitšego"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tšwa go ⟨את⟩",
+      "marks": "Yahwe Tsebaote, Elohim wa Yisraele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ke se boletšego"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lena"
+    }
+  ],
+  "timestamp": "2026-10-18T02:45:53.128567123Z",
+  "model": "glm-5.3"
+}

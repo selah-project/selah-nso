@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 19:11",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopula; Seheberu se e sa e na."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אפו",
+      "rationale": "Seheberu se re 'nose ya gagwe' — 'kgalefo' ke tlhalošo, seswantšho sa sehone se laetšwe."
+    }
+  ],
+  "translation": "Bohlale bja motho bo nedimetša kgalefo ya gagwe, gomme botumo bja gagwe ke go feta ka bosele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/19\/9-12.1792299605061.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bja motho"
+    },
+    {
+      "surface": "האריך",
+      "gloss": "bo nedimetša"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "kgalefo ya gagwe"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "gomme botumo bja gagwe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "bosele"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:05.062808747Z",
+  "model": "glm-5.3"
+}

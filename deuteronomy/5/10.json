@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לאלפים",
+      "rationale": "‘dikgethe tše sekete’ — KJV e bala e le palo ya batho, JPS e bala e le dikgethe tše sekete tša ditlokgolo; se sengwe ka moka ke go bapetša le boraro le bone tša yoma 9"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לשנאי \/ לאהבי",
+      "rationale": "Kgathanong ya yoma 9 (ba ba hloileng) le 10 (ba ba ratago) — chiastic frame ya taelo ya pele"
+    }
+  ],
+  "translation": "gomme o dira hesede go ya dikgetheng tše sekete, go ba ba n ratago le go ba bolokago ⟨את⟩ melao ya ka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/5\/9-12.1792285626965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "gomme o dira"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "go ya dikgetheng tše sekete"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "go ba ba n ratago"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "le go ba bolokago"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "melao ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T01:07:06.965939034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 4:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "yo a kgethileng",
+      "rationale": "קדוש go ya D2: go kgethwa, e sego halalela"
+    },
+    {
+      "kind": "measurement",
+      "subject": "go ngwalwa bophelong",
+      "rationale": "lenaneo la maina a ngwalwang — go balelwa batho ba bophelong"
+    }
+  ],
+  "translation": "Gomme go tla ba, yo a salago Sione le yo a setšego Yerushalayime, yo a kgethileng go tla bitšwa mo, yo mongwe le yo mongwe yo a ngwalwang bophelong Yerushalayime.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a19b5c914eb955c63f4e3e304528e109f58632fa94e03c8925e5bd87525337a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/4\/1-4.1792291344136.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "gomme go tla ba"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "yo a salago"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Sione"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "le yo a setšego"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "yo a kgethileng"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "go tla bitšwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "yo a ngwalwang"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "bophelong"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T02:42:24.137161467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 5:12",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikarolo tše tharo",
+      "rationale": "setšhaba se arolwa ka dikarolo tše tharo: mofufa, bofeta, tšhoša, le go phatlalatšwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חרב",
+      "rationale": "mantšu a bolela 'komelelo\/leo le ka tšeago' — a tšere go bolela tšhoša; tšhoša e boloka sebopego sa go rips"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e bolela moya\/phefo\/go hema — 'ruakh' e bolokwa go se fetolwe go ba 'phefo' fela"
+    },
+    {
+      "kind": "alternative",
+      "subject": "שלשתיך",
+      "rationale": "'tharo ya gago' — go ka ba 'karolo ya boraro ya gago'; sebopego sa boammareri ke the construct sa 'boraro-bja-wena'"
+    }
+  ],
+  "translation": "Tharo ya gago e tla hwala ka mofufa, gomme ka bofeta ba tla phethega ka gare ga gago; gomme tharo ya boraro e tla wa ka tšhoša go dikologo ga gago; gomme ya boraro ke tla e phatlalatsa go ruakh ye nngwe le ye nngwe, gomme tšhoša ke tla e ntšha ka morago ga bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b2103074850ce3e2153964d7b9a979b1d4b5bd54863a55f02c32830b80b97062",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/5\/9-12.1792294478342.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלשתיך",
+      "gloss": "tharo ya gago"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka mofufa"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "e tla hwala"
+    },
+    {
+      "surface": "וברעב",
+      "gloss": "gomme ka bofeta"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ba tla phethega"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "ka gare ga gago"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "gomme tharo ya boraro"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tšhoša"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "e tla wa"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "go dikologo ga gago"
+    },
+    {
+      "surface": "והשלישית",
+      "gloss": "gomme ya boraro"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh ye nngwe le ye nngwe"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "ke tla phatlalatsa"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "gomme tšhoša"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "ke tla e ntšha"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ka morago ga bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:34:38.343474594Z",
+  "model": "glm-5.3"
+}

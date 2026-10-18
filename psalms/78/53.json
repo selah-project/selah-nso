@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khupetša",
+      "rationale": "כסה ke 'go tlwaela\/go khupetša' — diphetho tša KJV di re 'overwhelmed', tša dithoto tša lewatle"
+    }
+  ],
+  "translation": "Gomme a ba hlahlama ka tšhireletšo, gomme ba sa tšhoge; gomme lewatle le ile la khupetša ⟨את⟩ manaba a bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "235876a10c4c3a9ff0cc8b9400f0d479064f1e0007418d04a57222ffebbf93aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/53-56.1792298274369.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "a ba hlahlama"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ka tšhireletšo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba sa"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "tšhoga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "manaba a bona"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "manaba a bona"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "la khupetša"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:54.369541502Z",
+  "model": "glm-5.3"
+}

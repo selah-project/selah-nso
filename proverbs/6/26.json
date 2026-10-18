@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "motho",
+      "rationale": "Seheberu se se na mothoo — badimodi ba mo oketša go hlalosa seo עד ככר לחם se se bolelago"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke moya-meloko\/theko ya bophelo, e sego sebopego se sengwe; bophelo ke karolo ya yona fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעד אשה זונה עד ככר לחם",
+      "rationale": "Baphetoli ba hlasana: 'mosadi wa bohlwedi o lefisa go fihla go karolo ya bogobe' kgahlanong le 'nyofo ya mosadi wa bohlwedi ke karolo ya bogobe fela'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד ... עד",
+      "rationale": "Go boela ga עד (go fihla) gare ga thalaro — sebopego se se latelago se se labeletšego"
+    }
+  ],
+  "translation": "Ka gobane mosadi wa bohlwedi o fisetša ⟨motho⟩ go fihla go karolo ya bogobe, gomme mosadi wa monna o šaša bophelo bo bohlokwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f1072fa6d8ae8ca9428cc35dfb4990f73af330bf1ae2b370d7dbf3e81214fab3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/6\/25-28.1792299311582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "wa bohlwedi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla go"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "gomme mosadi wa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "bo bohlokwa"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "o šaša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:11.583416875Z",
+  "model": "glm-5.3"
+}

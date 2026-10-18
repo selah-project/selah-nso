@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 22:4",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "sefahlegong sa",
+      "rationale": "את פני 'le sefahlego sa' ke idiomoko ya Seheberu ya go bea motho pele ga moetapele"
+    },
+    {
+      "kind": "crux",
+      "subject": "mo taung",
+      "rationale": "מצודה: 'taung e tiilego' goba 'phapose ya go itšhireletša' — lefelo la go ipshina la Dafida"
+    }
+  ],
+  "translation": "Gomme a ba hlahlama ⟨go⟩ ⟨את⟩ sefahlegong sa kgoši ya Moaba; gomme ba dula go yena matsatsi ka moka a go ba ga Dafida mo taung.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9e6949e1d187902aa7707ff1db513f0301ecab4843dfe83992db6838e23bb091",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/22\/1-4.1792288563933.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "a ba hlahlama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahlegong sa kgoši ya Moaba"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlegong sa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ya Moaba"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ba dula"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matsatsi"
+    },
+    {
+      "surface": "היות",
+      "gloss": "a go ba ga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "mo taung"
+    }
+  ],
+  "timestamp": "2026-10-18T01:56:03.934855443Z",
+  "model": "glm-5.3"
+}

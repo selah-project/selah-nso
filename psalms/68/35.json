@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "marugong",
+      "rationale": "בשחקים e bolela lerolahla — maru a bodileng; 'marugo' ke sešwa sa seswantšho sa gona."
+    },
+    {
+      "kind": "invitation",
+      "subject": "fang maatla",
+      "rationale": "Taetso ya go fa Elohim maatla — go boka ga setšhaba."
+    }
+  ],
+  "translation": "Fang maatla go Elohim — bogolo bja gagwe bo godimo ga Yisraele, gomme maatla a gagwe a lego marugong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "db787a3cfc0de424d527218d90fef0db47c5c089d15c0fb8004454cb3683a825",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/68\/33-36.1792298072156.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "fang"
+    },
+    {
+      "surface": "עז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo godimo ga"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "bogolo bja gagwe"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "gomme maatla a gagwe"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "a lego marugong"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:32.157232062Z",
+  "model": "glm-5.3"
+}

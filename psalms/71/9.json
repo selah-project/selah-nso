@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "nkgetolla",
+      "rationale": "תשליכני ke go lahlwa ka maatla (go laha), e sego go betšwa fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תשליכני\/תעזבני",
+      "rationale": "Dipego tše pedi tša go kopa — go lahlegelwa le go tlohlwa — di a swana ka mokgwa wa pesa ye"
+    }
+  ],
+  "translation": "O se ke wa nkgetolla nakong ya bokgoši; ge maatla a ka a fela, o se ke wa ntlohla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0a567c5678e44f387d883d9244ab60c27e0aa82207404392feee9e08fb9363d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/71\/9-12.1792298101532.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "nkgetolla"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "nakong ya"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "bokgoši"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ge ... a fela"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "maatla a ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ntlohla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:01.533442545Z",
+  "model": "glm-5.3"
+}

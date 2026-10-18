@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "palote",
+      "rationale": "Palo ya banna ba Bethe-Ele le Hai: 223."
+    },
+    {
+      "kind": "elision",
+      "subject": "העליון",
+      "gloss-rationale": "",
+      "rationale": "ה ya go la go feta (העי) ga e ngwalwe ka gobane Sepedi ga se na article."
+    }
+  ],
+  "translation": "Banna ba Bethe-Ele le ⟨את⟩ Hai, makgolo a pedi le masomepedi le tharo;",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "0ece9f247fc9389dc70a2eafdf238c826ac8178609e7a8f081868a074b02842b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/2\/25-28.1792302106569.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethe-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ele"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "le ⟨את⟩ Hai"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "makgolo a pedi"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "le masomepedi"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "le tharo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:41:46.570169849Z",
+  "model": "glm-5.3"
+}

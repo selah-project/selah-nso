@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צאת",
+      "rationale": "menahlo ya go hloka botheko, e ka nna ya 'diphaphošo' — diphologolo tša sebopego sa botsebi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ברוח…וברוח",
+      "rationale": "poeletšo ya ruakh gabedi — moya wa kahlolo le wa go fiša — sebopego seo se bolokwang ka go bofetša"
+    },
+    {
+      "kind": "elision",
+      "subject": "אם",
+      "rationale": "sephetho 'ge' se tlišitšwe e le karolo ya temana, puo ya Seheberu e e sa latelago ka botlalo"
+    }
+  ],
+  "translation": "Ge Adonai a ka hlwekisa ⟨את⟩ mešila ya barwadi ba Sione, gomme ⟨את⟩ madi a Yerushalayime a tašwa ka gare ga yona, ka ruakh ya kahlolo le ka ruakh ya go fiša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a19b5c914eb955c63f4e3e304528e109f58632fa94e03c8925e5bd87525337a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/4\/1-4.1792291344136.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "a ka hlwekisa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mešila ya barwadi ba Sione"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "mešila"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ya barwadi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ba Sione"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "madi a Yerushalayime"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "madi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayime"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "a tašwa"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "ka gare ga yona"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ka ruakh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ya kahlolo"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "le ka ruakh"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ya go fiša"
+    }
+  ],
+  "timestamp": "2026-10-18T02:42:24.137355224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka gare ga",
+      "rationale": "Seheberu se re fela 'ka disidikong' (בַלֻּלָאֹת); 'ka gare ga' e okeditšwe go hlalosa tsela"
+    },
+    {
+      "kind": "measurement",
+      "subject": "tše masomehlano",
+      "rationale": "Palo ya dihooku e bontšha kgolokwe-thwii ya bohlale bja go aga"
+    }
+  ],
+  "translation": "O dire dihooku tše masomehlano tša koperi, gomme o tseise ⟨את⟩ dihooku ka gare ga disidiko, gomme o kopanye ⟨את⟩ khampu, gomme e be ⟨ke⟩ e tee.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c80ce229d4e1a8e74b8b138ebabeac435779e4bd19481db70400f827c66d0cc9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/26\/9-12.1792283047799.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "o dire"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "dihooku"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tša koperi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "tše masomehlano"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "gomme o tseise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dihooku"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "dihooku"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "ka gare ga disidiko"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "gomme o kopanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khampu"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "khampu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme e be"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e tee"
+    }
+  ],
+  "timestamp": "2026-10-18T00:24:07.800084764Z",
+  "model": "glm-5.3"
+}

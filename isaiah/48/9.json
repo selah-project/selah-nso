@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 48:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kukgopelo",
+      "rationale": "אפי ke nko\/sefahlego ka boomo; bolela kukgopelo ka moaparo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ke tla bea nako",
+      "rationale": "אאריך אפי — 'go atisa nko' = go diegisa kukgopelo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ke e thibela go wena",
+      "rationale": "אחטם לך — 'go tswalela molomo go wena' goba 'go ikgama bakeng sa gago'; ba fetoleli ba fapana"
+    }
+  ],
+  "translation": "Ka lebaka la leina la ka ke tla bea nako ya kukgopelo ya ka, gomme teboho ya ka ke e thibela go wena, gore ke se go ripe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/48\/9-12.1792292221224.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "leina la ka"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "ke tla bea nako"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "kukgopelo ya ka"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "gomme teboho ya ka"
+    },
+    {
+      "surface": "אחטם",
+      "gloss": "ke e thibela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "gore ke se"
+    },
+    {
+      "surface": "הכריתך",
+      "gloss": "go go ripa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:01.224932101Z",
+  "model": "glm-5.3"
+}

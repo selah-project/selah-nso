@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Pelelo yeo e diretšwego go Yahwe ka leina"
+    },
+    {
+      "kind": "crux",
+      "subject": "פקדני",
+      "gloss": "פקד e bolela 'go etela\/karola' — 'go šupa' kgahlanong le 'go etela ka mohau'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ברצון עמך",
+      "rationale": "'ka thabo ya setšhaba sa gago' — ka tumo, e sego tlhaloso ya nako"
+    }
+  ],
+  "translation": "Nkopotše Yahwe ge o ratološa setšhaba sa gago, nketelele go polokego ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/1-4.1792298647325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Nkopotše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "ge o ratološa"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setšhaba sa gago"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "nketelele"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "go polokego ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:07.326946841Z",
+  "model": "glm-5.3"
+}

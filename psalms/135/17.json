@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אזנים\/יאזינו",
+      "rationale": "Root play: 'ears' (ozen) against 'they hearken' (ya'azinu) — same root, dead ears cannot do the verb of their own noun."
+    },
+    {
+      "kind": "elision",
+      "subject": "יש",
+      "rationale": "אין־יש forms one negative 'there is not'; the second particle carries no separate gloss."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח kept as ruakh per discipline: one word for wind, breath, spirit — idols have no breath at all."
+    }
+  ],
+  "translation": "Ditsebe di na le tšona, eupša ga di kwe; le gona ga go ruakh mo molomong wa tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4a6e24b431fe6aaa6fe394a5d0f91720eaf49fbe44d5f758cca56e886d2e0025",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/135\/17-20.1792298964330.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ditsebe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tšona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "di kwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "le gona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "יש",
+      "gloss": ""
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "mo molomong wa tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:24.331923667Z",
+  "model": "glm-5.3"
+}

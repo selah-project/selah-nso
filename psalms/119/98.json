@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מאיבי",
+      "gloss-note": "'adversaries' is not strong enough; 'ba ba mphapanang' expresses active opposition",
+      "rationale": "Hebrew noun from the verb 'to hate', i.e. personal enemies; Sepedi 'ba ba mphapanang' captures hostile opponents"
+    },
+    {
+      "kind": "idiom",
+      "subject": "לעולם היא לי",
+      "rationale": "Literal: 'it is to me forever'; rendered as 'they remain with me always' to match the sense, following the traditional reading"
+    }
+  ],
+  "translation": "Ke nne le temogo ye ntsi go feta ba ba mphapanang, ka gobane melawana ya gago ke setsego le nna ka dinako tsose.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ca75195e5bc9a719cc360d1115e5e3fe88c81cfbdb6c45cd3970420370d65d07",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/97-100.1792298869577.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "go feta ba ba mphapanang"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "ke nne le temogo ye ntsi"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "melawana ya gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ka dinako tsose"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לי",
+      "gloss": "setsego le nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:49.578584523Z",
+  "model": "glm-5.3"
+}

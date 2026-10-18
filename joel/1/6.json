@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 1:6",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שניו שני",
+      "rationale": "Go boela ga lento la šika (mašika a sona — mašika a) go bopa go boela ga modumo; se ka se fele ka Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "לביא — tau ya tšhadi",
+      "rationale": "Bammetoleli ba fapana: 'tau ya tšhadi' (taung ya mme, e boima go bonwa) kgahlano le 'tau e kgolo' — leŠheberu le bolela tau ya tšhadi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "setšhaba",
+      "rationale": "גוי mo e sego setšhaba sa batho feela — ke letshwa la ditšhaba tše di tšwanago le maswa a tlhago, ka kuetšo."
+    }
+  ],
+  "translation": "Ka gobane setšhaba se tlile godimo ga lefase la ka, se matla gomme se se nago palo; mašika a sona e le mašika a tau, gomme a na le meno a go loma a tau ya tšhadi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "eb19395cae460333275cc61b3c8eeb117bc76aacfc17371649ddbb54cb86eb24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/1\/5-8.1792296102146.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "se tlile godimo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "lefase la ka"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "se matla"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme se se nago"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "mašika a sona"
+    },
+    {
+      "surface": "שני",
+      "gloss": "mašika a"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "ומתלעות",
+      "gloss": "gomme a na le meno a go loma"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "tau ya tšhadi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a sona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:01:42.147131915Z",
+  "model": "glm-5.3"
+}

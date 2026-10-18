@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "diphara",
+      "rationale": "תנות ke diphara tša tšehedi; dikgatiso tša kgale di bolela ka \"dinoka\" goba \"mademone\""
+    },
+    {
+      "kind": "substitution",
+      "subject": "naga",
+      "rationale": "מדבר ke lefelo la go fudiša diruiwa, lebile lebile lefelo le le omilego; \"naga\" e sa tšeela karolo ya go ša"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ Esawe ke mo hloile; gomme ke beile ⟨את⟩ dithaba tša gae e le lefšha-lefsa, le ⟨את⟩ bohla jwa gae bakeng sa diphara tša naga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "aa8fdf77aec3110d1ef8f5fe827d84ef20afdabbc248b7ad9a52816638d2eeca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/malachi\/1\/1-4.1792297025403.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "Esawe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esawe"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ke mo hloile"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "gomme ke beile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithaba tša gae"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "dithaba tša gae"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "e le lefšha-lefsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bohla jwa gae"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "bohla jwa gae"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "bakeng sa diphara"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "tša naga"
+    }
+  ],
+  "timestamp": "2026-10-18T04:17:05.404335128Z",
+  "model": "glm-5.3"
+}

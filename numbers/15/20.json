@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תרימו...תרומה...תרימו",
+      "rationale": "Bontshišo bjathatu bja modu wa go phahamisa (רום) thulaganyong ya lentišo, bo se nago khutšo ka botlalo."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלה",
+      "rationale": "Kuku ye e hlagošwa e le sehlabelo sa pele sa bupi; lentšu le tšwa go go loga."
+    }
+  ],
+  "translation": "Ya mathomo ya bupi bja lona — kuku — le e tlišye bjalo ka sehlabelo; bjalo ka sehlabelo sa thepo ya bupi, ka mokgwa woo le e phahamisago ⟨את⟩ yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "54afb633c34b273555b0df7fba7fdc900f3154b8c8136d9315c627e9b3017a8d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/15\/17-20.1792284821168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ya mathomo"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "bupi bja lona"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "kuku"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "le e tlišye"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "bjalo ka sehlabelo"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "bjalo ka sa"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "thepo ya bupi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ka mokgwa wo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "le e phahamisago"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yona",
+      "marks": "yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:53:41.169166573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Seheberu se se nago kopulata; Sepedi se e nyaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "kgele ya ka",
+      "rationale": "כבודי: 'kgele ya ka' kgahlanong le 'meele ya ka yohle' — bokao bja motho ka o teng bopharalong bja lentšu"
+    },
+    {
+      "kind": "elision",
+      "subject": "אף",
+      "rationale": "Accession-particle e fetotšwe go 'gape', e sego sehlagithwi sa kgethollo"
+    }
+  ],
+  "translation": "Pelo ya ka ⟨e⟩ tišitšwe, Elohim; ke tla bina, gomme ke tla thekga, gape kgele ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "42ad265799632db511bca983ab277661ef5a1b1280eb3e5b9c3c3bd7be8ed171",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/108\/1-4.1792298706445.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "⟨e⟩ tišitšwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ke tla bina"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "gomme ke tla thekga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "gape"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "kgele ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:06.446135206Z",
+  "model": "glm-5.3"
+}

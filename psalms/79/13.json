@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go bale",
+      "rationale": "נספר (ספר) le bolela go bala ka go šupa — go bale go boloka modu wa go bala, gomme le go bolela ka mpshafatšo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mohlape wa mešomo",
+      "rationale": "מרעית ke mešomo\/sebaka sa go fwala; e šomišwa bjalo ka mohlape — sebopego sa kgopanyo se bolokwa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדר ודר",
+      "rationale": "poledišo ya moloko le moloko e hlalosa go se feleng ga dipoloko, go swana le Seheberu leדר ודר"
+    }
+  ],
+  "translation": "Gomme rena — setšhaba sa gago, le mohlape wa mešomo ya gago — re tla go dumelela go ya lelele, moloko le moloko; re tla bale ⟨את⟩ teboho ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c2d8efcd060e2693b68eb0f38290a429a217c4e7e42a21345bad351431bfefdb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/79\/13-13.1792298283768.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "gomme rena"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "setšhaba sa gago"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "le mohlape"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "wa mešomo ya gago"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "re tla go dumelela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya lelele"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "moloko"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le moloko"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "re tla bale"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "teboho ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:03.768587709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 135,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopula; Seheberu se e tlogela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "עצב e bitša 'seSwantšho' ka tlwaelo; modimo ka ditlhaka tše nnyane go swana le Ekisodo 32:8"
+    }
+  ],
+  "translation": "Medimo ya ditšhaba ke silibera le gauta, mošomo wa matogo a batho.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "21e4c846f6fcfbb12fe1c6634aaff1c736b87d3fa02af7da7038206331789f57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/135\/13-16.1792298945805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "medimo ya"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "le gauta"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo wa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "matogo a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:05.806951261Z",
+  "model": "glm-5.3"
+}

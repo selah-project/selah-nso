@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 2:24",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu ga se na kopula; e okeditšwe ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "boraro",
+      "rationale": "ושלשים mo ke palo ya maemo (boraro), e sego dinomoro"
+    },
+    {
+      "kind": "measurement",
+      "subject": "108100",
+      "rationale": "palo ya kampa ya Efrayime ka moka"
+    }
+  ],
+  "translation": "Bao ba balelwago ka moka go kampa ya Efrayime ⟨ke⟩ dikete tše lekgolo le seswai le lekgolo le tee, go ya ka madira a tšona; gomme ba tla sepela ba le boraro.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3f48c49184e2cb27940c6b84cd70606be13abf31a4b4b90629eb0f7566227eb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/2\/21-24.1792284405643.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "bao ba balelwago"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "go kampa ya"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושמנת",
+      "gloss": "le seswai"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "le lekgolo le tee"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "go ya ka madira a tšona"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ba le boraro"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "ba tla sepela"
+    }
+  ],
+  "timestamp": "2026-10-18T00:46:45.644037486Z",
+  "model": "glm-5.3"
+}

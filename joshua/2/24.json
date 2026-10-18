@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 2:24",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ba nyametše ka mo pelong ga rena",
+      "rationale": "מפנינו literally 'from our face'; also נמגו 'melt' as idiom for terror, echoing Rahab's own words in 2:9"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נמגו",
+      "rationale": "the spies quote Rahab's verb back to Joshua — her report (2:9) becomes their report"
+    }
+  ],
+  "translation": "Ba re go Yehošua: Yahwe o file matsogong a rena ⟨את⟩ lefase ka moka; gape ba dule lefase ba nyametše ka mo pelong ga rena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "853317505c11afd20493085fbf131364fbea2a8286d178ec408cb19910c2e51a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/2\/21-24.1792286579154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehošua"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o file"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "matsogong a rena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "נמגו",
+      "gloss": "ba nyametše"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ba dule"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba dule"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "ka mo pelong ga rena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:22:59.155488587Z",
+  "model": "glm-5.3"
+}

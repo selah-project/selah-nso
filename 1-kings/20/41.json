@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 20:41",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "khufo",
+      "rationale": "האפר: KJV\/William Tyndale 'ashes' ka lebaka la ga Asher; JPS le ASV 'headband' — e le sebopego sa go bopetša hlogo, e sego lerole"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na sebopego sa kopupi; Sepedi se nyaka ⟨ke⟩"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "Aleph-tav ya pronoun e tsentšhitšwe go ⟨את⟩ mo"
+    }
+  ],
+  "translation": "Gomme a westerna, a ntšha ⟨את⟩ khufo yeo e lego godimo ga mahlo a gagwe, gomme kgoši ya Yisraele a ⟨את⟩ mo tseba, gore ke wa baprofeta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "52dcaee654f511a8f2f1b6f18da77b8427784ef7f9be69612fadaea615fccfb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/20\/41-43.1792290239334.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "gomme a westerna"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "a ntšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khufo"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "khufo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlo a gagwe"
+    },
+    {
+      "surface": "ויכר",
+      "gloss": "a mo tseba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo",
+      "marks": "kgoši ya Yisraele e mo tseba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מהנבאים",
+      "gloss": "wa baprofeta"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    }
+  ],
+  "timestamp": "2026-10-18T02:23:59.335091358Z",
+  "model": "glm-5.3"
+}

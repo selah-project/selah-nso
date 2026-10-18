@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go swaragala",
+      "rationale": "שאת ke 'go bolela\/ go nametša' — 'go swaragala' ke sebopego sa go swara botlalo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תחת...ותחת",
+      "rationale": "poeletšo ya 'ka ga' — sebopego sa dinomoro tša Aguri, tše tharo...tše nne"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dinomoro",
+      "rationale": "lenane la dilo tše 'tharo...nne' la go bala la proverbs 30"
+    }
+  ],
+  "translation": "Ka ga dilo tše tharo lefase le thwathwara, gomme ka ga tše nne le ka se kgone go swaragala",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4841c54df7fd4f5681a1b1284dca724e8416c6bae76d1966b51c19a59c9da69d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/30\/21-24.1792299903905.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "tše tharo"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "le thwathwara"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "gomme ka ga"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "tše nne"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "le ka se kgone"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "go swaragala"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:03.906519116Z",
+  "model": "glm-5.3"
+}

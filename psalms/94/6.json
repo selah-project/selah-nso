@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 94,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moafodi",
+      "rationale": "גר ke moafodi\/moswahla yo a dulago gare ga Israele, e sego fela 'motho wa lewatle'"
+    }
+  ],
+  "translation": "Mohlologadi le moafodi ba bolaya, gomme ba senang batswadi ba bolaetša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c13dc5e8a29ba9e5ffdec15748eca7753f18822d289bd2b9bfc61e2bc2d9d757",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/94\/5-8.1792298487652.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "mohlologadi"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "le moafodi"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "ba bolaya"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "gomme ba senang batswadi"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "ba bolaetša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:27.653627625Z",
+  "model": "glm-5.3"
+}

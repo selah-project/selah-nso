@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שאת אתכם",
+      "rationale": "'Go bea lona' — seantswe sa go rwala morwalo wa setšhaba, e sego go rwala ka mmele."
+    },
+    {
+      "kind": "addition",
+      "subject": "go bolela",
+      "rationale": "לאמר e ntšhitšwe bjalo ka go bolela gore; ⟨gore⟩ ke kopanyi ya Sepedi."
+    }
+  ],
+  "translation": "Gomme ka nako yeo ka re go lona go bolela gore: Nka se kgone go bea ⟨את⟩ lona ke le nosi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "7ad343c6a9f3c2409e5db444556643da6e3a0932ec8447c87792229105ba673d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/1\/9-12.1792285498501.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "gomme ka re"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "nka se kgone"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ke le nosi"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "go bea"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:04:58.502474625Z",
+  "model": "glm-5.3"
+}

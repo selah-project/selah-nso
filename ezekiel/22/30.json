@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 22:30",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גדר גדר",
+      "rationale": "Same consonants verb+noun: 'walling a wall' — the builder and the built share one root."
+    },
+    {
+      "kind": "elision",
+      "subject": "מהם",
+      "rationale": "'from them' — absorbed into the verb 'ba batlaka'; no separate Sepedi word."
+    },
+    {
+      "kind": "you",
+      "subject": "לפני",
+      "rationale": "'pele ga nna' — Yahwe speaks in the first person of standing before His face."
+    }
+  ],
+  "translation": "Gomme ka nna ba batlaka monna yo a agago leboto, yo a emago phatlhangle pele ga nna, boikuelong bja lefase, gore ke se ke ka e senya; gomme ga ke a hwetša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a745521b10d02e13b6e53539280c786b31ac28f31c0491f002fed31f64aba619",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/22\/29-31.1792295032841.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואבקש",
+      "gloss": "Gomme ka nna ba batlaka"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ba batlaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "yo a agago"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "leboto"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "yo a emago"
+    },
+    {
+      "surface": "בפרץ",
+      "gloss": "phatlhangle"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga nna"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "boikuelong bja"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "gore ke se ke"
+    },
+    {
+      "surface": "שחתה",
+      "gloss": "ka e senya"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ke a hwetša"
+    }
+  ],
+  "timestamp": "2026-10-18T03:43:52.842425336Z",
+  "model": "glm-5.3"
+}

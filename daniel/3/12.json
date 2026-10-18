@@ -1,0 +1,166 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 3:12",
+  "book": "daniel",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Sepedi e nyaka thaloso ya `על` — 'go hlankela mošomo' e šomišwa ka gare ga ⟨…⟩."
+    },
+    {
+      "kind": "elision",
+      "subject": "ועבד",
+      "gloss-context": "leina la Abete-Nego le agilwe ka mantšu a mabedi",
+      "rationale": "ועבד + נגו ke leina le tee, Abete-Nego — le bodilwe ka tee."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאלהיך",
+      "rationale": "Eloha (Aramaic) ga se fetolwe go Modimo — leina le bolokwa ka tsela ya lona, go latela melawu ya Sepedi."
+    },
+    {
+      "kind": "you",
+      "subject": "kgoši",
+      "rationale": "Ba-Kasdi ba bolela ka go tlateganyo kgošing, ba bitša boitshwaro bja bahlokedani ba Yuda."
+    }
+  ],
+  "translation": "Go na le banna ba Ditšhabeng tša Yahuda bao o ba kgethiletšego ⟨את⟩ go hlankela mošomo wa setšhaba sa Babilona: Shadrake, Mesheke le Abete-Nego. Banna ba, kgoši, ga ba a hlompho molao wa gago; ga ba hlankela Elohim wa gago, gomme ga ba aphere seswantšho sa gauta seo o se beilwego — ga ba segeletše.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a39e0187f01707ef63c1ff3f10100e8d8295ec1a640bcecbc4a4e725f58b9ccc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/3\/9-12.1792301827510.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "איתי",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "גברין",
+      "gloss": "banna"
+    },
+    {
+      "surface": "יהודאין",
+      "gloss": "ba Ditšhabeng tša Yahuda"
+    },
+    {
+      "surface": "די",
+      "gloss": "bao"
+    },
+    {
+      "surface": "מנית",
+      "gloss": "o ba kgethiletšego"
+    },
+    {
+      "surface": "יתהון",
+      "gloss": "⟨את⟩",
+      "marks": "go hlankela mošomo wa setšhaba sa Babilona"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "עבידת",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "מדינת",
+      "gloss": "wa setšhaba"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "sa Babilona"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Shadrake"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Mesheke"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "le"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Abete-Nego"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "banna"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ba a hlompho"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "wa gago"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "molao"
+    },
+    {
+      "surface": "לאלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "פלחין",
+      "gloss": "ba hlankela"
+    },
+    {
+      "surface": "ולצלם",
+      "gloss": "gomme...seswantšho"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "sa gauta"
+    },
+    {
+      "surface": "די",
+      "gloss": "seo"
+    },
+    {
+      "surface": "הקימת",
+      "gloss": "o se beilwego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "סגדין",
+      "gloss": "ba segeletše"
+    }
+  ],
+  "timestamp": "2026-10-18T05:37:07.511557335Z",
+  "model": "glm-5.3"
+}

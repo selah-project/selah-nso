@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dinaga tša dikgoši",
+      "rationale": "הממלכות ke 'bokgoši' — Sepedi ga se na lentšu le tee; dinaga tša dikgoši di bitša seopengwe seo"
+    },
+    {
+      "kind": "elision",
+      "subject": "היא",
+      "rationale": "sebinwa sa kopula sa Seheberu; sephepheng ka 'e'"
+    }
+  ],
+  "translation": "Gomme Yehoshua a boela morago ka nako yeo, a hwetša ⟨את⟩ Hatsore, gomme ⟨את⟩ kgoši ya yona a mo otla ka tšhoša; ka gobane Hatsore ka dinako tše di fetilego e bile hlogo ya dinaga kamoka tše tša dikgoši.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2e957455d72014792a99304929dfde5480d3079de9f83a9c40e0e3de0973fb15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/11\/9-12.1792286797234.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "a boela morago"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "a hwetša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hatsore"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsore"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "kgoši ya yona"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "kgoši ya yona"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "a mo otla"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ka tšhoša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Hatsore"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ka dinako tše di fetilego"
+    },
+    {
+      "surface": "היא",
+      "gloss": "e"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kamoka"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "dinaga tša dikgoši"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tše"
+    }
+  ],
+  "timestamp": "2026-10-18T01:26:37.235747403Z",
+  "model": "glm-5.3"
+}

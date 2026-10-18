@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 32:5",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שחת לו לא בניו מומם",
+      "rationale": "Syntax famously divided: 'they corrupted themselves, not his sons, their blemish is theirs' (KJV\/ASV) vs 'is corruption His? No; his children's is the blemish' (JPS)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עקש ופתלתל",
+      "rationale": "Paired twisted\/crooked words — sound-play of doubled bends, flattened into a single pair of adjectives."
+    }
+  ],
+  "translation": "Ba ipseneditše go yena; lesoba ke la bona, ga se la bana ba gagwe; moloko woo o feteletšego le woo o kgopametšego.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/32\/5-8.1792286417964.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שחת",
+      "gloss": "ba ipseneditše"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "מומם",
+      "gloss": "lesoba la bona"
+    },
+    {
+      "surface": "דור",
+      "gloss": "moloko"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "woo o feteletšego"
+    },
+    {
+      "surface": "ופתלתל",
+      "gloss": "le woo o kgopametšego"
+    }
+  ],
+  "timestamp": "2026-10-18T01:20:17.965048325Z",
+  "model": "glm-5.3"
+}

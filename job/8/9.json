@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "fela",
+      "rationale": "תמול boela go tšwa go re: 're maabane fela' — 'fela' ke oketšego ya Sepedi, e lomilwe ka ⟨…⟩"
+    },
+    {
+      "kind": "idiom",
+      "subject": "moriti",
+      "rationale": "צל 'moriti' — mehla ya motho e bapetšwa le moriti woo o fofago, seka yeo e bolokilwe ka go swana"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mehla",
+      "rationale": "Letšatši la bophelo le bala go swana le moriti — go bala bophago"
+    }
+  ],
+  "translation": "Ka gobane re ⟨maabane fela⟩, gomme ga re tsebe; ka gobane mehla ya rena godimo ga lefase ke moriti.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "beda7c3bb7c108b4aa7fdd86ab6bfa2626227bdffa1ec19deae0163fd119070c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/8\/9-12.1792300153902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "maabane"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "re"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "re tsebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "צל",
+      "gloss": "moriti"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "mehla ya rena"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:13.903433625Z",
+  "model": "glm-5.3"
+}

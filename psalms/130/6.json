@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 130,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go feta⟩",
+      "rationale": "Seheberu se se nyaka 'go feta' — khutšo e bapetša go leta ga moya le gošomiša ga bašomi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לבקר ... לבקר",
+      "rationale": "Go bušetša ga 'mesong' gabedi go matlafatša go leta — se se bolokilwe ka Sepedi"
+    }
+  ],
+  "translation": "Moya wa ka go Adonai — ⟨go feta⟩ bašomi ba mesong, bašomi ba mesong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3696f5af547dcfc3c015564eab1208db384e056e1d7c5f57c7aadb843fdc2e37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/130\/5-8.1792298942801.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "go Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "bašomi"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ba mesong"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "bašomi"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ba mesong"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:02.802485061Z",
+  "model": "glm-5.3"
+}

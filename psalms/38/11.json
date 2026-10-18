@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "e kgoma-koma",
+      "rationale": "סחרחר polelo e ipiletšego go go ralala (go sa rialo go ša-godimo-godimo), e tšwa go go sepela ka sekhurumetšo bjalo ka mosebi."
+    },
+    {
+      "kind": "elision",
+      "subject": "⟨את⟩",
+      "rationale": "אתי mo ke H854, 'le nna' — preposition ya go ba gare, e sego mosaedi wa object."
+    }
+  ],
+  "translation": "Pelo ya ka e kgoma-koma, maatla a ka a tlogetše nna; gomme seetsele sa mahlo a ka, le bona ga ⟨את⟩ le nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0c9ba66623936e037b65b452ee7069c760922e6092b3a233072f9b81bc112027",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/38\/9-12.1792297654611.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "e kgoma-koma"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "a tlogetše nna"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "maatla a ka"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "gomme seetsele"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "sa mahlo a ka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga ba na"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:27:34.612354903Z",
+  "model": "glm-5.3"
+}

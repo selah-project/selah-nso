@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lesedia la mollo",
+      "rationale": "קד (moked) — KJV\/JPS 'hearth' (lesedia), YLT\/ASV 'firebrand' (lesedia le fišago); lentšu le ama mafuta a mollo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a fišitšwe",
+      "rationale": "נחרו bolela 'go fiša, go oma ka mollo' — sebopego sa go fiša se se sa tsejwego ka mo go feletšego"
+    }
+  ],
+  "translation": "Ka gobane matšatši a ka a fedile bjalo ka mosa, gomme marapo a ka a fišitšwe bjalo ka lesedia la mollo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0e44dd152abec956e2e86f54bfacc53d74ec05266a22a92dc79db1cb4319e304",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/102\/1-4.1792298566364.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "a fedile"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "bjalo ka mosa"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matšatši a ka"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "gomme marapo a ka"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "קד",
+      "gloss": "lesedia la mollo"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "a fišitšwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:46.366036639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נבר\/תתברר · עקש\/תתפתל",
+      "rationale": "Poelelo ya modu ya tatelano: mo-swewe o a swewa, mo-kotoko o a kotoka — go latela mokgwa wa setatimeng se se fetilego"
+    },
+    {
+      "kind": "crux",
+      "subject": "תתפתל",
+      "rationale": "Ba-fetoledi ba fapana: KJV 'froward', YLT 'wrestler', JPS 'subtle' — go kgotla kgahlanong le go lwa"
+    }
+  ],
+  "translation": "Le mosweu, o bontšha mosweu; gomme le lekotoko, o ikotoka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "995a92b3548f89ca7ca092c4f66710e005250b0f991a47a7bd689ce75a6deb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/18\/25-28.1792297365498.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "mosweu"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "o bontšha mosweu"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "gomme le"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "lekotoko"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "o ikotoka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:45.499212957Z",
+  "model": "glm-5.3"
+}

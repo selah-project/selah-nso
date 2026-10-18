@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "masomepedi le seswai dikete le makgolo a tshela",
+      "rationale": "palo ya madira a Dani — 28 600"
+    },
+    {
+      "kind": "correction",
+      "subject": "dikete ka dinomoro",
+      "rationale": "go ya le D4b: 28 600 — go hlaka ga Seheberu ga se tsewe ka tsela e phošagetšego"
+    }
+  ],
+  "translation": "Gomme go tšwa gaDani, ba rulaganyago ntoa, masomepedi le seswai dikete tše masomepedi le seswai le makgolo a tshela.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "0e599da3219a803d15d7c15f5472d1884772fce48c3a3f78d94df59e9e61a848",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/12\/33-36.1792303181393.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "gomme go tšwa ga"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "Dani"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "ba rulaganyago"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntoa"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masomepedi"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "le seswai"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le makgolo a tshela"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:59:41.395016981Z",
+  "model": "glm-5.3"
+}

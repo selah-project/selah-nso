@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 50:3",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צפון",
+      "rationale": "'lewatlebotšhabela' — tsafone ke lefelo le le senyegilego, le ka bodute; mo ke lefelo la sebopego."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נדו הלכו",
+      "rationale": "Mafoko a mabedi a go sepela a latelana — 'ba tšere bopele, ba tsene' — kgatišo ya Seheberu e bolokwa ka goiša."
+    },
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "'הוא' — lekgamu la go tiiša sebopego sa Seheberu; 'se' se boela gape mo phetolelong."
+    }
+  ],
+  "translation": "Gore setšhaba se tlile go tšwa lewatlebotšhabela, se tla dira ⟨את⟩ lefase la yona go ba le phoo, gomme go se ke go ba moahi go sona; go tšwa mothong go fihla diruiweng, ba tšere bopele, ba tsene.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d55672d5650b3836775db1dff3fe2beb61d8864d98793a5e56edc185d94e72d9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/50\/1-4.1792294183434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gore"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "se tlile"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "go yona"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "go tšwa lewatlebotšhabela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "se tla dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase la yona"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "lefase la yona"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "go ba le phoo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme go se ke go ba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "moahi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go sona"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "go tšwa mothong"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "diruiweng"
+    },
+    {
+      "surface": "נדו",
+      "gloss": "ba tšere bopele"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ba tsene"
+    }
+  ],
+  "timestamp": "2026-10-18T03:29:43.435722552Z",
+  "model": "glm-5.3"
+}

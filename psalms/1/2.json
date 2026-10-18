@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כי אם",
+      "rationale": "Kopanyo ya go gana-go fetola: 'eupša' (ntle le) — go swana le verse ya 4"
+    },
+    {
+      "kind": "substitution",
+      "subject": "o bokolla",
+      "rationale": "יהגה e bolela go bokolla ka go la go nagana — modumo wa go bua kgauswi-ntlle, go epa ka molomo"
+    }
+  ],
+  "translation": "Eupša thato ya gagwe ⟨ke⟩ go Torateng ya Yahwe, gomme go Torateng ya gagwe o bokolla bosasa le bošego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/1\/1-4.1792297164577.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Eupša"
+    },
+    {
+      "surface": "אם",
+      "gloss": "eupša"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "go Torateng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "thato ya gagwe"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "gomme go Torateng ya gagwe"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "o bokolla"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "bosasa"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "le bošego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:19:24.578592528Z",
+  "model": "glm-5.3"
+}

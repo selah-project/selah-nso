@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 125,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עקלקלותם",
+      "rationale": "עקלקלות reduplication of עקל (crooked) mimics twisting paths — lost in Sepedi 'tše di kgopameng'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יוליכם את פעלי האון",
+      "rationale": "'lead them with the workers of iniquity' (company) vs 'lead them away to' (banishment) — KJV 'with', BSB 'banish with'"
+    },
+    {
+      "kind": "idiom",
+      "subject": "שלום על ישראל",
+      "rationale": "benediction formula 'peace upon Israel', rendered as kagiso e tla ba go Yisraele"
+    }
+  ],
+  "translation": "Gomme ba ba kobogago ka ditsela tša tšona tše di kgopameng, Yahwe o tla ba tliša le ⟨את⟩ bao ba šomago sebe — kgalothlo! Šhalalelo go swana le seo: kagiso e tla ba go Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "77e57cbb0eefeb92bde67babb3a747e55bb582fbf55cbe4469e75c45d3504480",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/125\/5-5.1792298902472.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "gomme ba ba kobogago"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "ka ditsela tša tšona tše di kgopameng"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "o tla ba tliša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bao ba šomago sebe"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "bao ba šomago"
+    },
+    {
+      "surface": "האון",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:22.472738105Z",
+  "model": "glm-5.3"
+}

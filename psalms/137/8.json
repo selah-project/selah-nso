@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השדודה",
+      "rationale": "Verbal ya go phasa ga se leina: 'yo a šweleditšwego' (yo a tla phuthegwa) kgahlanong le 'o šweleditšwe ka mo go hlwailwego' (e šetše e le mafelelo)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שישלם\/גמל",
+      "rationale": "Ditlhaka tša go boela morago: שׁלם (go duela) le גמל (go duela ka tsela e swanago) di bopa sekgoba sa boikokobetši — go duelwa ka se o se duetšwego; se se fosagetšego ka Sepedi."
+    },
+    {
+      "kind": "you",
+      "subject": "Babela",
+      "rationale": "Temana e bitša Babela ka go tlhoma tema: 'morwadi wa Babela' — polelo ya kgopi go yena."
+    }
+  ],
+  "translation": "Morwadi wa Babela, yo a šweleditšwego go phuthegwa, mohumelelwa ke yena yo a go duelago ⟨את⟩ se o se dirego go rena.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "4e2b8f578031453a4e11d879f07504e39e23c3f3a4b6014bc30edd948aca1c47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/137\/8-8.1792305309596.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "wa Babela"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "yo a šweleditšwego go phuthegwa"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "mohumelelwa"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "yo a go duelago"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "se o se dirego"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "duelgo ya gago"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "o se dirego"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rena"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:09.597552700Z",
+  "model": "glm-5.3"
+}

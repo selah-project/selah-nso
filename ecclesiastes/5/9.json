@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומי אהב",
+      "rationale": "קריאה כשאלה (‘gomme ke mang yo a ratago?’) kgahlanong le קריאה יחסית (‘yo a ratago’); KJV e latela sengolwa se fapaanego."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כסף…כסף",
+      "rationale": "Go boletša ga silibera ga rialo ga bedi — sebopego sa go bušetša, se se laelago go sehone ka ntle."
+    },
+    {
+      "kind": "elision",
+      "subject": "לא תבואה",
+      "rationale": "Bolediši bja Seheberu bja go gana (‘ga e tle’) bo fetotšwe go ba ‘e ka se be gona’."
+    }
+  ],
+  "translation": "Yo a ratago silibera o ka se tlatše ka silibera; gomme yo a ratago bontši — tšwelediso e ka se be gona; se gape ke hevele.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "4632ec4aaa2098b83ecc721b2b13f6a0616dadb8765a466c0c091d42c1aeb6c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/5\/9-12.1792301450979.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "yo a ratago"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "a ka se tlatše"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ka silibera"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "gomme yo a ratago"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "a ratago"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "bontši"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "tšwelediso"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hevele"
+    }
+  ],
+  "timestamp": "2026-10-18T05:30:50.980178482Z",
+  "model": "glm-5.3"
+}

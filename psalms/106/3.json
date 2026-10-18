@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeko",
+      "rationale": "צדקה e šumišwa ka moka go Sepedi ka tsedeko go ya le D2"
+    }
+  ],
+  "translation": "Mahlogonolo a ba ba hlolago kahlolo, ba dirago tsedeko nako ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c97acf7b309a65bd50d82d14ecca4a928e612d4104ddb5879a7055030dbe54d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/1-4.1792298647325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mahlogonolo a"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ba ba hlolago"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ba dirago"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nako ka moka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "nako"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:07.326834597Z",
+  "model": "glm-5.3"
+}

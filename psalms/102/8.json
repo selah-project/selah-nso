@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צפור",
+      "rationale": "KJV e ngwala 'sparrow'; Seheberu se bolela nonyana e nnyane fele — e sego mohuta wo itšego"
+    }
+  ],
+  "translation": "Ke sa khutše ke sa robale, gomme ke fela bjalo ka nonyana e le nngwe le nosi godimo ga phane.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1637c8fa76edae5b28ccf4206cff48971a4625b2172e769b74d0e33631a48276",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/102\/5-8.1792298554840.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "ke sa khutše ke sa robale"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "gomme ke fela"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "bjalo ka nonyana"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "e le nngwe le nosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "גג",
+      "gloss": "phane"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:34.841728535Z",
+  "model": "glm-5.3"
+}

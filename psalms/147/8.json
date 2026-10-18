@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "maru",
+      "rationale": "עבים literally 'envelopes\/densities' — thick clouds; rendered simply 'maru' (clouds)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "המכסה... המכין... המצמיח",
+      "rationale": "Three participles each opening with המ prefix create rhythmic triplet naming Yahwe's deeds; the alliteration is lost in Sepedi."
+    }
+  ],
+  "translation": "Yo a fitlago magodimo ka maru, yo a rulaganyago pula le lefase, yo a tšweleditšago bjang go dithaba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "197f8a025a94d4651a5cf12482eb14957af0c5edf2fc3d77d11688bba581a8f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/147\/5-8.1792299109025.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "yo a fitlago"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ka maru"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "yo a rulaganyago"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "le lefase"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "pula"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "yo a tšweleditšago"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "go dithaba"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "bjang"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:49.026202329Z",
+  "model": "glm-5.3"
+}

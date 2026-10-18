@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ראמים",
+      "rationale": "tau ya naga (reem) kgahlanong le 'unicorn' ya KJV; e le phoofolo ya naga ya kgale"
+    },
+    {
+      "kind": "addition",
+      "subject": "o di dira gore",
+      "rationale": "Sepedi e nyaka tlhalošo ya go dira pele eishwa; Seheberu se na le lentšu le tee fela"
+    }
+  ],
+  "translation": "Gomme o di dira gore di thume bjalo ka kwana ya dikgomo; Lebanone le Shirione bjalo ka mosebe wa ditau tša naga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "007ebbf8d910a3c8e7e7d2e2d2e22dba0019bd0f8e94a2bfbc19dc384540295b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/29\/5-8.1792297448743.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "gomme o di dira gore di thume"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "kwana ya dikgomo"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Lebanone"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "le Shirione"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mosebe wa"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "ditau tša naga"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:08.744080137Z",
+  "model": "glm-5.3"
+}

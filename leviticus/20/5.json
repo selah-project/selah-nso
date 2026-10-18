@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go iphitlha",
+      "rationale": "לזנות e šomišwa ka mokgwa wa seswantšho bakeng sa go senyega ka bobedi; JPS e fetošetše e le 'go strae'"
+    },
+    {
+      "kind": "crux",
+      "subject": "המלך \/ Moleke",
+      "rationale": "Ditlhaka tše di tšwago go 'kgoši' eupša ke leina la modimo Moloke; bao ba ganeago leina ba ngwala 'the king'"
+    },
+    {
+      "kind": "addition",
+      "subject": "nna",
+      "rationale": "אני e tsebagatša betshwari, e sego go oketša — Sepedi se e hloka bakeng sa boikhetho"
+    }
+  ],
+  "translation": "Mme nna ke tla bea ⟨את⟩ sefahleho sa ka go motho yoo le go lapa la gae, gomme ke tla ⟨את⟩ mo ralala, le ⟨את⟩ botlhe bao ba iphitlhang ka morago ga yena, go iphitlha ka morago ga Moleke, go tšwa gare ga setšhaba sa bona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/20\/5-8.1792284090981.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ke tla bea"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahleho sa ka"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahleho sa ka"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "go motho"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yoo"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "le go lapa la gae"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "gomme ke tla ralala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "botlhe bao ba iphitlhang"
+    },
+    {
+      "surface": "כל",
+      "gloss": "botlhe"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "bao ba iphitlhang"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ka morago ga yena"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "go iphitlha"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Moleke"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "go tšwa gare ga"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "setšhaba sa bona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:41:30.982285080Z",
+  "model": "glm-5.3"
+}

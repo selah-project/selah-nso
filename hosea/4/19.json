@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ruakh",
+      "rationale": "רוח ke modu o tee — phefo, moya, maemodumo; ka mošomo wa phefo mo, fela leina le bolokwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "maphego",
+      "rationale": "בכנפיה: 'maphego' (ja nonyana, KJV\/ASV) kgahlanong le 'dikobo tša yona' (JPS, maphego a aparwa) — leina le tee, diswantšho tše pedi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ba tla swaba",
+      "rationale": "יבשו le ka bala 'ba tla omela' — go swaba le go oma le tloga go tlwaelega go leina letee."
+    }
+  ],
+  "translation": "Ruakh e mo kotile ⟨את⟩ ka maphego a yona, gomme ba tla swaba ka mahlabelo a bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "623db11338dc7f46d03e3c62fb8039bbcad6eed2e692d53b58b3080dd4d302d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/4\/17-19.1792295874718.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "e mo kotile"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "Ruakh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "maphego a yona"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "ka maphego a yona"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "gomme ba tla swaba"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ka mahlabelo a bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:57:54.719647848Z",
+  "model": "glm-5.3"
+}

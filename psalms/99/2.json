@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 99,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke yo",
+      "rationale": "Sepedi e nyaka kopula ye Seheberu e se nago yona"
+    }
+  ],
+  "translation": "Yahwe ke yo mogolo go Tšione, gomme o phagame godimo ga dišhaba ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "26528d91dd57b87863a3560a2ea61d7f173173cd0977bfa23dac6782166b6cee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/99\/1-4.1792298520795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "go Tšione"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "yo mogolo"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "o phagame"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "dišhaba"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:00.796534405Z",
+  "model": "glm-5.3"
+}

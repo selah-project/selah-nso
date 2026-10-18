@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ממכריו",
+      "rationale": "'dilo tša gagwe tšeo a di thekgago' — diphuthelwana di fapana: 'theetšo ya boswa' (KJV) kgahlanong le 'dilo tša go rekišwa' (LXX)"
+    },
+    {
+      "kind": "crux",
+      "subject": "על האבות",
+      "rationale": "'go ya ka malapa a bo-ntate' — YLT 'le bo-ntate'; mošomo wa polelwa על wa dikaego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חלק כחלק",
+      "rationale": "go boela ga lentšu 'karolo bjalo ka karolo' — kopanyo ya go swana, e bolokwa"
+    }
+  ],
+  "translation": "Karolo bjalo ka karolo ba a e ja, ka ntle le dilo tša gagwe tšeo a di thekgago, go ya ka malapa a bo-ntate.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d4f36b77386d4930422ae304e8b30a0bb4eee6c84b89fc106a55aca6020d6119",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/18\/5-8.1792285985366.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "Karolo"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "bjalo ka karolo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ba a e ja"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ka ntle le"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "dilo tša gagwe tšeo a di thekgago"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya ka"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "malapa a bo-ntate"
+    }
+  ],
+  "timestamp": "2026-10-18T01:13:05.367429655Z",
+  "model": "glm-5.3"
+}

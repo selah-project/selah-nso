@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "lesome le lesome",
+      "rationale": "Palo — mitheo ye lesome, dikgetsana tše lesome; sebopego sa tempole ka dipalo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mitheo",
+      "rationale": "מכונה ke 'setheo\/sebeka' sa dikgetsana; mitheo e boloka taelo ya kago."
+    }
+  ],
+  "translation": "le ⟨את⟩ mitheo ye lesome, le ⟨את⟩ dikgetsana tše lesome godimo ga mitheo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0d34374412dbb1a9a0b46d35129c63877bf8e6526b8bec3f34af50c5dd946def",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/7\/41-44.1792289719752.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mitheo ye lesome"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mitheo"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dikgetsana tše lesome"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "dikgetsana"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tše lesome"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "mitheo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:15:19.753474632Z",
+  "model": "glm-5.3"
+}

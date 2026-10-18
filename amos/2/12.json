@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הנזרים...הנביאים",
+      "rationale": "Go sotla ga mantsu a mabedi a a hlokang boteng — banaziri le baporofeta — ka moka a timilwe ka Sepedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "lo se ke la profeta",
+      "rationale": "Seheberu se bolela go thibela go profeta ka boomo; go se be le go fetoša sebopego sa lentšu"
+    }
+  ],
+  "translation": "Le ile la nwesa ⟨את⟩ banaziri beine, le la laela baporofeta go re: Lo se ke la profeta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "43d2e154267841f210e7ca85ba64e9495a4a05f5cbcb119e33166a3c35f0bb66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/2\/9-12.1792296142199.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "le ile la nwesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banaziri"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "banaziri"
+    },
+    {
+      "surface": "יין",
+      "gloss": "beine"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "baporofeta"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "la laela"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "go re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ke"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "la profeta"
+    }
+  ],
+  "timestamp": "2026-10-18T04:02:22.200902297Z",
+  "model": "glm-5.3"
+}

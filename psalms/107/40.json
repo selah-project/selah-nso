@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 107:40",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נדיבים",
+      "rationale": "e bolela bao ba abago ka bokgethwa — bakgosi goba bafsa; 'bakgosi' ka gobane ke ba kgoro"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בתהו לא דרך",
+      "rationale": "tšošo ya Genesi 1:2 — tohu; boitlhaotlhao bjo bo se nago tsela, sebopego sa lefase le le senyegilego se boela gape"
+    }
+  ],
+  "translation": "O phutholla tlhwaro godimo ga bakgosi, gomme a ba tšoša boitlhaotlhao, go sego tsela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0a76bb418e8ac9b7fcc85f1f000cf59f3a68eece92414ddbfee56ba39d3661e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/107\/37-40.1792298682661.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "O phutholla"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "tlhwaro"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "bakgosi"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "gomme a ba tšoša"
+    },
+    {
+      "surface": "בתהו",
+      "gloss": "boitlhaotlhao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "go sego"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:42.663130413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 108:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 108,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hlatlamela",
+      "rationale": "hošia e bolela go pholosa; hlatlama e tliša mmušo wa pholoho"
+    },
+    {
+      "kind": "crux",
+      "subject": "us vs me",
+      "rationale": "Seheberu se ngwala ʿaneni (araba nna) mme dikgethi tše dingwe di bala arabe rena"
+    },
+    {
+      "kind": "you",
+      "subject": "go Elohim",
+      "rationale": "mothaladi go Elohim ka thapelo"
+    }
+  ],
+  "translation": "Gore ba ratwago ba gago ba lokollwe; hlatlamela ka letšatši la gago la go ja le ⟨ya⟩ o arabe nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ebf1dfccfb133959c4a17023cba50f6e34255510c0a881783435432bd6fbb4c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/108\/5-8.1792298726739.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "ba lokollwe"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "ba ratwago ba gago"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "hlatlamela"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "⟨ya⟩ letšatši la gago la go ja"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "o arabe nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:26.740145971Z",
+  "model": "glm-5.3"
+}

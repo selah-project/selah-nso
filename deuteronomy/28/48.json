@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 28:48",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "על ברזל",
+      "rationale": "'yoke of iron' — the Hebrew על (yoke) is rendered 'khurumetšo' (yoke\/bond); alternative Sepedi 'khurumetšo ya tšhipa'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "על צוארך",
+      "rationale": "'Upon your neck' — literally the back of the neck where burdens are bound, rendered as 'mpeng ya gago' (your neck)."
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "Pronoun 'a' (he) supplied for the enemy as subject of 'timetša' — Hebrew uses infinitive construct."
+    }
+  ],
+  "translation": "O tla šoma ⟨את⟩ manaba a gago, ao Yahwe a tla ba romela go wena, ka tlala, ka nyaka, ka mahala, le ka go hloka tšohle; gomme o tla bea khurumetšo ya tšhipa mpeng ya gago go fihlela a o timetša ⟨את⟩.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1f73694980dbef0bf8ab8657d8e1cba56fe22d008ade40749fde568454a7594b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/28\/45-48.1792286242427.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבדת",
+      "gloss": "o tla šoma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manaba a gago"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "manaba a gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "a tla ba romela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "ka tlala"
+    },
+    {
+      "surface": "ובצמא",
+      "gloss": "ka nyaka"
+    },
+    {
+      "surface": "ובעירם",
+      "gloss": "ka mahala"
+    },
+    {
+      "surface": "ובחסר",
+      "gloss": "le ka go hloka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "o tla bea"
+    },
+    {
+      "surface": "על",
+      "gloss": "khurumetšo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ya tšhipa"
+    },
+    {
+      "surface": "על",
+      "gloss": "mpeng"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "ya gago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "a o timetša"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T01:17:22.428753625Z",
+  "model": "glm-5.3"
+}

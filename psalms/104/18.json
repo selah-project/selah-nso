@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שפנים",
+      "rationale": "Hyraus ya thaba (dišhafane) — KJV e re 'conies', e sego nku ya manta"
+    },
+    {
+      "kind": "elision",
+      "subject": "סלעים מחסה",
+      "rationale": "Seheberu ga se na copula; 'ke' ya Sepedi e okeditswe"
+    }
+  ],
+  "translation": "Dithaba tše phagamego ke tša dipudi tša dithaba; maswika ke šireletšo bakeng sa dišhafane.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "bb12136aa4ac2b2dcf0e8ee103f3a10e39528ce26466c502cab7300acb151dea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/18-19.1792305277824.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "tše phagamego"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "bakeng sa dipudi tša dithaba"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "maswika"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "šireletšo"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "bakeng sa dišhafane"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:37.824937996Z",
+  "model": "glm-5.3"
+}

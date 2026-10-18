@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "kahlolang ke kgopela",
+      "rationale": "taelelo go babogedi — ba kgopelwa gore ba kahlole ka gare ga tshepedišo ya saene"
+    },
+    {
+      "kind": "you",
+      "subject": "go lakuwa ba Yerushalayime le banna ba Yehuda",
+      "rationale": "poelelo e tobilego go baagi ba Yerushalayime le Yehuda"
+    }
+  ],
+  "translation": "Gomme bjale, lakuwa ba Yerushalayime le banna ba Yehuda, kahlolang, ke kgopela, gare ga nna le gare ga kgoro ya ka ya merara.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "eaf4b995f23c0a289731a73115ec447ff30ac863496a6e76492b5b2df9c0cf38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/5\/1-4.1792291354011.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Gomme bjale"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "lakuwa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ba Yerushalayime"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "le banna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yehuda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "kahlolang"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kgopela"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "gare ga nna"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "le gare ga"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "kgoro ya ka ya merara"
+    }
+  ],
+  "timestamp": "2026-10-18T02:42:34.012902051Z",
+  "model": "glm-5.3"
+}

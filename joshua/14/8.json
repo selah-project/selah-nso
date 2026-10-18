@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מלאתי אחרי",
+      "rationale": "Sefoko sa Seheberu go tlatša ka morago ga — go latela ka botlalo; ka Sepedi go latela ka botlalo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba tlogetše e nyamela",
+      "rationale": "המסיo bolela go sala molala\/tšhaba — pelo ya setšhaba e tšhabile"
+    }
+  ],
+  "translation": "Eupša bana-baena ba ka bao ba namileng le nna ba tlogetše ⟨את⟩ pelo ya setšhaba e nyamela; gomme nna ka latela Yahwe Elohim wa ka ka botlalo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3228cea5e9ee0d13a6e61600ceb225fd217f8feaabfe4a73ff4c017facdb59bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/14\/5-8.1792286824072.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "eupša bana-baena ba ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ba namileng"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "ba tlogetše e nyamela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo ya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ka latela ka botlalo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T01:27:04.074233635Z",
+  "model": "glm-5.3"
+}

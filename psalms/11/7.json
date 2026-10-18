@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka copula; Seheberu ga se na yona"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדיק \/ צדקות",
+      "rationale": "modumo o tee o boa gabedi: yo a lokilego o rata bokgoni — go swana ga dintho tše pedi"
+    }
+  ],
+  "translation": "Ka gobane Yahwe ⟨ke⟩ yo a lokilego, o rata tsedeke; ba se nago phoko ba tla bona sefahlego sa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5f1e56125751dfffeb940472ce815466585af3ada1439e3fabfedd1fc9d2e27b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/11\/5-7.1792297256220.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a lokilego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "o rata"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ba se nago phoko"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "ba tla bona"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "sefahlego sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:56.221170988Z",
+  "model": "glm-5.3"
+}

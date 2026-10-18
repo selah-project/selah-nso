@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 17:19",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הרפות",
+      "rationale": "ריפות, pounded\/bruised grain, appears only here in the Tanakh — rendered 'peu yeo e roletšwego' (pounded grain)."
+    },
+    {
+      "kind": "crux",
+      "subject": "הרפות",
+      "rationale": "KJV 'ground corn', JPS 'groats', ASV 'bruised grain' — all guessing at how this rare plural looked spread over the well-cover."
+    },
+    {
+      "kind": "secret",
+      "subject": "taba ga e tsejwe",
+      "rationale": "The verse's climax is that the matter stayed unknown — the concealment succeeds."
+    }
+  ],
+  "translation": "Gomme mosadi a nga, a phatlalatša ⟨את⟩ sephiri godimo ga sephahla sa sediba, gomme a phatlalatša godimo ga sona peu yeo e roletšwego, gomme taba ga e tsejwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2d71b50cd8a9e2a9e26b4079c477a1c0cea2e3e4995c5486c2e452a11c303ac7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/17\/17-20.1792289214913.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "Gomme a nga"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "ותפרש",
+      "gloss": "a phatlalatša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sephiri"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "sephiri"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sephahla sa"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "sediba"
+    },
+    {
+      "surface": "ותשטח",
+      "gloss": "a phatlalatša"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "godimo ga sona"
+    },
+    {
+      "surface": "הרפות",
+      "gloss": "peu yeo e roletšwego"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "e tsejwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    }
+  ],
+  "timestamp": "2026-10-18T02:06:54.914255502Z",
+  "model": "glm-5.3"
+}

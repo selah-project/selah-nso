@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 32:6",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קנך",
+      "rationale": "'He acquired you' — KJV 'bought thee', JPS 'gotten thee'; root covers create, acquire, purchase."
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba",
+      "rationale": "Direct rhetorical questions addressed to Israel as a people."
+    }
+  ],
+  "translation": "A go Yahwe le go mo duela se, setšhaba se sefofolo le se sa bohlale? A ga se ena papa wa gago, yo a go rekileng? Ke yena yo a go dirilego, gomme a go theha.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/32\/5-8.1792286417964.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ה",
+      "gloss": "a"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "תגמלו",
+      "gloss": "le go mo duela"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "עם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "sefofolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le se sa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "bohlale"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ga se"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ena"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa wa gago"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "yo a go rekileng"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yena"
+    },
+    {
+      "surface": "עשך",
+      "gloss": "yo a go dirilego"
+    },
+    {
+      "surface": "ויכננך",
+      "gloss": "gomme a go theha"
+    }
+  ],
+  "timestamp": "2026-10-18T01:20:17.965273791Z",
+  "model": "glm-5.3"
+}

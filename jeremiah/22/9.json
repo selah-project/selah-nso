@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 22:9",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על אשר",
+      "rationale": "gobane + gore: Sepedi e nyaka kopanyi ye pedi moo Seheberu se nago tee fela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אלהיהם \/ אלהים אחרים",
+      "rationale": "Elohim wa bona le medimo ye mengwe — lentšu le tee la Seheberu le šumišwa gabedi, kgahlanong ye daletšego."
+    }
+  ],
+  "translation": "Gomme ba tla re: Ka gobane ba tlogetše ⟨את⟩ kgwerano ya Yahwe Elohim wa bona, gomme ba inamisitše boboro go medimo ye mengwe, gomme ba šometše yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "68e313fa423846f545e34bf1cd0b4e2cc22250a1989a922465a63d0384f1e1cc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/22\/9-12.1792293307476.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Gomme ba tla re"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ba tlogetše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgwerano"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "gomme ba inamisitše boboro"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ye mengwe"
+    },
+    {
+      "surface": "ויעבדום",
+      "gloss": "gomme ba šometše yona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:15:07.476931388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "jeremiah 51:45",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "tsšwa ... pholose",
+      "rationale": "Yahwe o bitša setšhaba sa gagwe go tšwa Babilona — mafelelo a motheo a lentšu le."
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa ka",
+      "rationale": "Puo e lebeletše ka otlollo go setšhaba sa Yisraele se Babilona."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke 'moya\/bophelo' e sego 'moya wa ka mehla' — ke bophelo ba go hema."
+    },
+    {
+      "kind": "idiom",
+      "subject": "חרון אף",
+      "rationale": "'Go fisa ha seffi' — idiom ya mogale; seffi ke lefelo la tlharelo go Seheberu."
+    }
+  ],
+  "translation": "Etšwa gare ga yona, setšhaba sa ka, gomme mongwe le mongwe a pholose ⟨את⟩ moya wa gagwe go tšwa go tlharelo ya seffi sa Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "41683d93fd285dc3c3c82ccec9514e66dd74b9de66325b1b0e2692b7cdfe438e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/51\/45-48.1792294264821.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צאו",
+      "gloss": "etšwa"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "gare ga yona"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "ומלטו",
+      "gloss": "gomme ... a pholose"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "moya wa gagwe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa gagwe"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "go tlharelo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ya seffi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:31:04.821914375Z",
+  "model": "glm-5.3"
+}

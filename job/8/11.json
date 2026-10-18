@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גמא \/ אחו",
+      "rationale": "Gome e senyegile: bakeng sa גֹּמֶא (papyrus, mošufi) le אָחוּ (dikhwi tša serapa) go mphinya diegane — dithlarapa tše pedi tša lewatle"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mmolo",
+      "rationale": "גמא e ka ba 'papyrus' ka botlalo, eupša 'mmolo' o boloka sebopego sa melaetša ya sehlare sa meetse"
+    }
+  ],
+  "translation": "A mmolo o ka godima ntle le serapa? A dikhwi di ka gola ntle le meetse?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "beda7c3bb7c108b4aa7fdd86ab6bfa2626227bdffa1ec19deae0163fd119070c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/8\/9-12.1792300153902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "A o ka godima"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "mmolo"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "serapa"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "di ka gola"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "dikhwi"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:13.903738367Z",
+  "model": "glm-5.3"
+}

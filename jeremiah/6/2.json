@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דמיתי",
+      "rationale": "Bafetoledi ba fapana: 'ke mo tšhwantšhitše' (KJV, go tšwa go דָּמָה go tšhwantšha) kgahlanong le 'ke mo fedile' (ASV\/JPS, go tšwa go דָּמָה go fela); sethala se nyakile sedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Yahwe o re⟩",
+      "rationale": "Sepedi se nyaka mošomi; Seheberu se mo ntšha."
+    }
+  ],
+  "translation": "⟨Yahwe o re⟩ yo a phedimago le yo a bonago ka botlalose, ke mo fedile — morwadi wa Tsione.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ce034e7494189da34e25a48e89a75395785afb3971c68b39f0f17df39daea6da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/6\/1-4.1792292875783.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "yo a phedimago"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "le yo a bonago ka botlalose"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "ke mo fedile"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi wa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    }
+  ],
+  "timestamp": "2026-10-18T03:07:55.784222800Z",
+  "model": "glm-5.3"
+}

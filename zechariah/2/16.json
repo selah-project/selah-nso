@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "bjalo ⟨ka⟩",
+      "rationale": "Seheberu se na le sekopanyi fela; Sepedi se nyaka 'bjalo ka' go hlalosa thwathwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "godimo ga lefase la bokgethwa",
+      "rationale": "על אדמת הקודש — 'godimo ga lefase ye e kgethilwego' kgathanong le 'lefeleng la bokgethwa'; JPS 'in the holy land'"
+    }
+  ],
+  "translation": "Gomme Yahwe o tla rua ⟨את⟩ Yehuda bjalo ⟨ka⟩ karolo ya gago, godimo ga lefase la bokgethwa, gomme o tla kgetha Yerushalayime gape.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "388487df2e78417945281c8ea2ebe3a3394fb147bdf3db5208a12c7a875f9b0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/2\/13-16.1792296859237.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "gomme o tla rua"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "karolo ya gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "lefase la"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "gomme o tla kgetha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T04:14:19.238863365Z",
+  "model": "glm-5.3"
+}

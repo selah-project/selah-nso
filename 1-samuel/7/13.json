@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 7:13",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "godimo ga",
+      "rationale": "בפלשתים literally 'in\/against the Philistines'; Sepedi needs a relational phrase"
+    },
+    {
+      "kind": "elision",
+      "subject": "עוד",
+      "gloss-field": "gloss is empty because ba sa tlale covers לא יספו עוד as one idiom 'they did not again continue'",
+      "rationale": "idiom לא יספו עוד = 'they did not add again to'"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kol yeme Shemuel",
+      "rationale": "verse spans time: 'all the days of Samuel'"
+    }
+  ],
+  "translation": "Gomme Ba-Pelishte ba ikrobile, gomme ba sa tlale go tsena mollong wa Yisraele; gomme letšatši le lengwe le le lengwe la matšatši a Šemuele seatla sa Yahwe se be se le godimo ga Ba-Pelishte.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "cc126d82ab0bdd07b982bdc9d029e63a177d4ac923e938d784b748baead6cb1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/7\/13-16.1792287960408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "ba ikrobile"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Ba-Pelishte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba sa"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "tlale"
+    },
+    {
+      "surface": "עוד",
+      "gloss": ""
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "go tsena"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "mollong wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "gomme … e be e le"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sa Yahwe"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "godimo ga Ba-Pelishte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "le ka moka"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "la matšatši a"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "a Samuele"
+    }
+  ],
+  "timestamp": "2026-10-18T01:46:00.409468786Z",
+  "model": "glm-5.3"
+}

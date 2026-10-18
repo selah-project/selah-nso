@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "החלב",
+      "rationale": "חֵלֶב = mafura a dinamane, karolo ye nngwe ya sehlabelo; 'mafura' ga se 'lehaliba'"
+    }
+  ],
+  "translation": "⟨את⟩ mafura le a ja, gomme ⟨את⟩ bofodiwa le bo apara, tše di nonilego le di hlabela, dinku le dipudi ga le di badise.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bf690e89f003df85ce4769192af2962884b9bcb35a26ec5151f19959a53b1c63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/34\/1-4.1792295417486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le a ja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "bofodiwa"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "bofodiwa"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "le bo apara"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "tše di nonilego"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "le di hlabela"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dinku le dipudi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "le di badise"
+    }
+  ],
+  "timestamp": "2026-10-18T03:50:17.487219232Z",
+  "model": "glm-5.3"
+}

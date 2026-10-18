@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרתי אתכם",
+      "rationale": "'go khaola kgwerano' — Seheberu se bolela 'go khaola kgwerano', mokgwa wa Sepedi o bolokwa ka go khaola"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le kopula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba se boletšwego sona",
+      "rationale": "Mošomo wo o arotšwe bathong ba Aggeyo — 'le se ke la tšhoa'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "אל תיראו",
+      "rationale": "Taelo ya go se tšhoa e bitša barutiwa ka bye"
+    }
+  ],
+  "translation": "⟨ke⟩ lentšu leo ke lago khaola ⟨את⟩ kgwerano ya lona ge le tšwa Mitsrayime, gomme ruakh ya ka e eme gare ga lona; le se ke la tšhoa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/haggai\/2\/5-8.1792296755489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ke lago khaola"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ge le tšwa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "gomme ruakh ya ka"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "e eme"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "gare ga lona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "la tšhoa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:12:35.490380451Z",
+  "model": "glm-5.3"
+}

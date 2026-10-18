@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אל...אל...ואל...אל",
+      "rationale": "go gana ga mararo (אַל) go bileditše le El ya mafelelo — sebopego se senyegile ka Sepedi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "thapelo",
+      "rationale": "petogo go Elohim ya go se homole"
+    }
+  ],
+  "translation": "Elohim, o se ke wa phahama, o se ke wa homola, gomme o se ke wa ikhutša, El.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "21d8328b83fadc756d7172552d095977548bff823a49a200eb389f27773326b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/83\/1-4.1792298287915.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "phahama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "homola"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme o se ke wa"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "ikhutša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:07.916447149Z",
+  "model": "glm-5.3"
+}

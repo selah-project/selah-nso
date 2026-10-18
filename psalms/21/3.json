@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "molomo",
+      "rationale": "שפתיו ke 'mepe ya gagwe' ka botlalo; 'molomo' ke lentšu la kgonthe la Sepedi, eupša mepe ke moedi o tlwaelegilego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תאות\/ארשת",
+      "rationale": "Mantšu a mabedi a Sepedi a 'toro' le 'kopo' a hlokomolosa kgolagano ya dikakaretšo tša Seheberu — bobedi ke ditoro tše di boelago"
+    }
+  ],
+  "translation": "Toro ya pelo ya gagwe o e file, gomme kopo ya molomo wa gagwe o e sa ganetše. Sela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6ee1fd41d4ce2ee00416719f0b5f4f425827e67a2f68b0305fa27a52e60697bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/21\/1-4.1792297383828.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "toro"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "o e file"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨mo⟩"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "gomme kopo"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ya molomo wa gagwe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "⟨sa⟩"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "o e ganetše"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:03.829700437Z",
+  "model": "glm-5.3"
+}

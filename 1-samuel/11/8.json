@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "go lekola",
+      "rationale": "palo ya sesole — go bala banna ba Yisraele le Yehuda go Bezeke"
+    },
+    {
+      "kind": "crux",
+      "subject": "300 000",
+      "rationale": "makgolo a mararo a dikete — palo e kgolo kgahlanong le mafelelo a mangwe a bolela 'dikete tše makgolo a mararo a diruiwa' (1 Sam 13:2); dinomoro di ngwalwa go boloka palo"
+    }
+  ],
+  "translation": "A ba lekola go Bezeke; gomme bana ba Yisraele ba be ba le 300 000, gomme banna ba Yehuda ba le 30 000.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d1fdf19e0aec7b7a0182e32cbe18bab4225c670421f3abaf49ea7f0b3759d005",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/11\/5-8.1792288157917.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "a ba lekola"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "go Bezeke"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "gomme ba be ba le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "gomme banna ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "masometharo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    }
+  ],
+  "timestamp": "2026-10-18T01:49:17.919068032Z",
+  "model": "glm-5.3"
+}

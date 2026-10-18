@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mane",
+      "rationale": "מן e tšwa potšišo \"man hu?\" — ke eng? Lentšu la dipotšišo le fetohile leina"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וימטר",
+      "rationale": "go na ka mane bjalo ka pula — sepela sa pula se šumišitšwe bakeng sa sejakwa"
+    }
+  ],
+  "translation": "Gomme o ile a na ka mane go bona gore ba je, gomme o ile a fa bona bogobe bja magodimo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "da57fde5bf333c2237b2715ecd4a86ab6c59a3732dd97f0a4f93e32741e3d531",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/21-24.1792298225795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "Gomme o ile a na ka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "mane"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "gore ba je"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "gomme o ile a fa bona bogobe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "bja magodimo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "go bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:05.796868856Z",
+  "model": "glm-5.3"
+}

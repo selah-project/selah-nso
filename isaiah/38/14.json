@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 38:14",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כסוס עגור",
+      "rationale": "Maina a dinonyana a se kgauswi: KJV 'crane or a swallow', ASV 'swallow or a crane' — ka dithoto tše nyenyane fela."
+    },
+    {
+      "kind": "crux",
+      "subject": "ערבני",
+      "rationale": "'Nkwela teng' (go ba molati) kgathanong le 'nkgomotsa' (Geneva 'comfort me'); motheo ke go ba molati wa tšhelete, go kwela bohlatse."
+    }
+  ],
+  "translation": "Bjalo ka kuru goba seaka, gongwe ke a gošoša; ke lla bjalo ka lepara; mahlo a ka a hweletše go ya godimo; Adonai, o a nk hatekela — nkwela teng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f50c46082cd122090cc0ec0bdc5c5b77db5417280e7b826880434fe0783f0f27",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/38\/13-16.1792292007716.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסוס",
+      "gloss": "bjalo ka kuru"
+    },
+    {
+      "surface": "עגור",
+      "gloss": "seaka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gongwe"
+    },
+    {
+      "surface": "אצפצף",
+      "gloss": "ke a gošoša"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ke lla"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "bjalo ka lepara"
+    },
+    {
+      "surface": "דלו",
+      "gloss": "a hweletše"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "go ya godimo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עשקה",
+      "gloss": "o a nk hatekela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "n-"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "nkwela teng"
+    }
+  ],
+  "timestamp": "2026-10-18T02:53:27.716896340Z",
+  "model": "glm-5.3"
+}

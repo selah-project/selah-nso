@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עלה תמיד",
+      "rationale": "'se namile ka go ya go leelele' — sehlwa sa sefidintšhi se seboutšago sehlabelo sa go fišwa; moya wa go bouta ka pelo e sego ya go ema."
+    },
+    {
+      "kind": "alternative",
+      "subject": "קול",
+      "rationale": "Kgotla e nngwe: 'modumo' — eupša lentšu le boloka boteng bja taba (se ba se bolelago)."
+    }
+  ],
+  "translation": "A se ke wa lebala lentšu la ba ba go lebanego; sekhohola sa ba ba go phahlago se namile ka go ya go leelele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "39cb3110782b1e51d8213863432bb7799bec990105c6d57346399b1de4477c38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/74\/21-23.1792298237826.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a se ke wa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "lebala"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "la ba ba go lebanego"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "sekhohola"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "sa ba ba go phahlago"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "se namile"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka go ya go leelele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:17.826931428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Sepedi e nyaka modiragatsi; Seheberu ga se o nyale"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עליהם",
+      "rationale": "כחעליהם ka botlalo e re 'godikaganya bona' — kgadilo ya dikgoši e direlwa bona"
+    }
+  ],
+  "translation": "Ga ⟨o⟩ a ba lokolla motho a ba oke mehlangwaneng, gomme o kgadile dikgoši ka baka la bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f8e07101dbfd6108dbbe04af095734c83378cfef496d0f6f947c42b4260fb684",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/14-15.1792305268888.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga…a"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "a lokolla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "go ba oka"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "gomme o kgadile"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka baka la bona"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:28.888407842Z",
+  "model": "glm-5.3"
+}

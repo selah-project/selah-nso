@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke sephopho seo se hemago — mafoko a Sepedi a se nago lentšu le tee le swanago"
+    },
+    {
+      "kind": "crux",
+      "subject": "שקקה",
+      "rationale": "Go tlola bjalo ka phoofolo ya mmusi \/ go nyaka ka tlhofo — 'longing' kgathanong le 'thirsting'"
+    }
+  ],
+  "translation": "Ka gobane o tlaleditše moya woo o nyakago ka tlhofo, gomme moya woo a swafetšego o tlaleditše ka botse.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fa2b43ed24c66df6cd26b57e8a2bfa3111682000e5d407cf23a768b653f78263",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/107\/9-12.1792298666449.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "o tlaleditše"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "woo o nyakago ka tlhofo"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "gomme moya"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "woo a swafetšego"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "o tlaleditše"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ka botse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:26.449850630Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 5:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "באשים",
+      "rationale": "'merara ye mpe' — dikgohlano: 'morara wa mohlwa' kgahlanong le 'di-beere tše nngoang bophara bjalo ka botšo' (poison-berries)"
+    },
+    {
+      "kind": "elision",
+      "subject": "שרק",
+      "rationale": "'morate wa makgethwa' — lentšu le la bonolo le amega ka morara wa mmala wa name, sepego sa 'go kgetha'"
+    }
+  ],
+  "translation": "gomme a e ariša, a ntšha maswika a yona, a rišetša morate wa makgethwa, a aga toara bohareng bja yona, gomme gape a bapola setšelo sa veine mo go yona; gomme a le tela e tla dira merara, gomme e dirile merara ye mpe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "eaf4b995f23c0a289731a73115ec447ff30ac863496a6e76492b5b2df9c0cf38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/5\/1-4.1792291354011.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזקהו",
+      "gloss": "gomme a e ariša"
+    },
+    {
+      "surface": "וסקלהו",
+      "gloss": "a ntšha maswika a yona"
+    },
+    {
+      "surface": "וטעהו",
+      "gloss": "a rišetša"
+    },
+    {
+      "surface": "שרק",
+      "gloss": "morate wa makgethwa"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "a aga"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "toara"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "bohareng bja yona"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "gomme gape"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "setšelo sa veine"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "a bapola"
+    },
+    {
+      "surface": "בו",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "gomme a le tela"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "merara"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "gomme e dirile"
+    },
+    {
+      "surface": "באשים",
+      "gloss": "merara ye mpe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:42:34.012758026Z",
+  "model": "glm-5.3"
+}

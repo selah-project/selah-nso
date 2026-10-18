@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "העשק",
+      "rationale": "tlhamo: 'bošoro' (go hlokometša ba bangwe) goba 'khumo ya bošoro' — mehlala ya kgale e a fapana."
+    },
+    {
+      "kind": "crux",
+      "subject": "מתנה",
+      "rationale": "'mpho' ka kakaretšo goba 'sehopi' — dikgatišo tše dingwe di re 'sehopi sa kgwerano'."
+    }
+  ],
+  "translation": "Gobane bošoro bo tlhotlolla mohlalebi, gomme mpho e senya ⟨את⟩ pelo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/7\/5-8.1792301424590.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "bošoro"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "bo tlhotlolla"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "mohlalebi"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "e senya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "pelo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "mpho"
+    }
+  ],
+  "timestamp": "2026-10-18T05:30:24.591318344Z",
+  "model": "glm-5.3"
+}

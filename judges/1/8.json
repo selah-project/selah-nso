@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ka mollomo wa tšhoša",
+      "rationale": "לפי חרב literally 'molomo wa tšhoša' — Sepedi se boloka sebopego sa ka ntle ga go fa sephetho sa 'thari'"
+    },
+    {
+      "kind": "elision",
+      "subject": "toropo",
+      "rationale": "Sepedi se nyaka lentšu la dilo — העיר ya Seheberu e fetoga 'toropo', gomme sephekanyo se feleletša se bolela"
+    }
+  ],
+  "translation": "Bana ba Yuda ba lwa le Yerushalayime, ba e hwetša ka go e hlasela, ba e betša ka mollomo wa tšhoša, ba romela ⟨את⟩ toropo go molllo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ffe47007b9a925708348fd3e8d52e9a4269d343800f88cf0886fce1b62eced73",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/1\/5-8.1792287095401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "le Yerushalayime"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "ba e hwetša ka go e hlasela"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "Yerushalayime"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "ba e betša"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka mollomo wa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "toropo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ba romela"
+    },
+    {
+      "surface": "באש",
+      "gloss": "go molllo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:31:35.403623680Z",
+  "model": "glm-5.3"
+}

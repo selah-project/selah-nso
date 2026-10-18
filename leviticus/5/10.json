@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וכפר",
+      "rationale": "modu wa Seheberu ke 'go khupetla' (cover) — 'go hlwekiša' ke kgopolo, sebono sa go khupetla se timetse"
+    },
+    {
+      "kind": "addition",
+      "subject": "molato",
+      "rationale": "לו fela gona; lentšu 'molato' le okeditšwe go hlaloša go ogelela ga Seheberu"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ ya bobedi a e dira sebego sa go fišwa go ya ka kahlolo, gomme moperisita a mo hlwekiša ka sebeng sa gagwe seo a se dirilego, gomme a mo se ogela molato.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "04fdf67e4e53a653f878c816bcafd8b67f5691456f565c931940409e1c365061",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/5\/9-12.1792283678773.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ya bobedi"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya bobedi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a e dira"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "sebego sa go fišwa"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "go ya ka kahlolo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "gomme a mo hlwekiša"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ka ga yena"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "go tšwa sebeng sa gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "a se dirilego"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "gomme a mo se ogela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "molato"
+    }
+  ],
+  "timestamp": "2026-10-18T00:34:38.774607654Z",
+  "model": "glm-5.3"
+}

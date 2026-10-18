@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go wena",
+      "rationale": "Sepedi e nyaka lediri le sephetho se feletšego; go wena ge se bopegiwa ka moka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Tlotša",
+      "rationale": "כבד ke 'go ba boima' — tlotša e swara lesedi la lentšu, e sego botho"
+    },
+    {
+      "kind": "invitation",
+      "subject": "go Israele",
+      "rationale": "Taologo ye e sepelela go Israele kua Sinayi, taolo ya bohlano"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mangwalo a gago a atule",
+      "rationale": "Taelo e hlahisa sebaka sa mangwalo bjalo ka moputso wa go tlotša batswadi"
+    }
+  ],
+  "translation": "Tlotša ⟨את⟩ papa wa gago le ⟨את⟩ mma wa gago, gore mangwalo a gago a atule godimo ga lefase yeo Yahwe Elohim wa gago a e go fa ⟨go⟩ wena.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "edb98f6667062163b90303e6077bf9863043734684cfbf1ce326528624e90812",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/20\/12-12.1792304598203.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Tlotša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "papa wa gago"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "papa wa gago"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mma wa gago"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "mma wa gago"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "a atule"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "mangwalo a gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a e fa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:18.204200225Z",
+  "model": "glm-5.3"
+}

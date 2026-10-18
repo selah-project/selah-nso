@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 64,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יחפשו\/חפש\/מחפש",
+      "rationale": "modumo o tšwago o mongwe o o boeletšwego ga raro (š-š-š) — kopano ya lentšu la go nyakinyaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "תמנו",
+      "rationale": "'ba phethile' goba 'ba ile ba phetha' — KJV: 'diligent search'; Sepedi se boloka go phetha"
+    },
+    {
+      "kind": "substitution",
+      "subject": "e tebilego",
+      "rationale": "עמק 'ya go ela' — pelo e tebilego, e sa bonagaleng ka fase"
+    }
+  ],
+  "translation": "Ba nyaka diphoso; ba phetha sebopego se se utilwego — seo se ka gare sa motho le pelo e tebilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e4c926892af85c968b9c94d9a9a9cd39e2d0b004f518b1f88a54f79e6d22fed4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/64\/5-8.1792297991796.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "ba nyaka"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "diphoso"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "ba phetha"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "sebopego se se utilwego"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "se se nyakilwego"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "seo se ka gare"
+    },
+    {
+      "surface": "איש",
+      "gloss": "sa motho"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "le pelo"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "e tebilego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:11.797799855Z",
+  "model": "glm-5.3"
+}

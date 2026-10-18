@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Moshe",
+      "rationale": "Yitro a bolela ka go lebana le Moshe: \"Nna, molekane wa gago\""
+    },
+    {
+      "kind": "alternative",
+      "subject": "ke tla",
+      "rationale": "תilb o re \"ke tla\"; diphetoše tše dingwe di re \"ke tsereletše\" bjalo ka ye e šomilego"
+    }
+  ],
+  "translation": "A re go Moshe: Nna, molekane wa gago, Yitro, ke tla go wena, le mosadi wa gago le bana ba yena ba babedi, le yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1462f57dd45120a449fc42a0966db636b332ad3bdc9f0379665d15af46473121",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/18\/5-8.1792282785085.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "molekane wa gago"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Yitro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ke tla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "le mosadi wa gago"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "bana ba yena"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "le yena"
+    }
+  ],
+  "timestamp": "2026-10-18T00:19:45.086847534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 4:16",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "פני כהנים לא נשאו",
+      "rationale": "kgopolo ya go epa sefahlego: 'ba sa ikgantšhe sefahlego sa baperisita' — ka sebele go Seheberu go re 'ba sa beše sefahlego'"
+    },
+    {
+      "kind": "crux",
+      "subject": "פני יהוה חלקם",
+      "rationale": "חלקם go tšwa go חלק (go phadima, go aloga): bafetoledi ba bangwe ba fetoša bjalo ka 'mašufi a Morena' (KJV 'anger') — 'se ba phadime' ke sebotse se kopantšwego"
+    },
+    {
+      "kind": "alternative",
+      "subject": "זקנים",
+      "rationale": "goba 'baholo' (baetapele ba setšhaba), e sego fela batho ba bagolo ka mengwaga"
+    }
+  ],
+  "translation": "Sefahlego sa Yahwe se ba phadime, se ka se sa ba lebelela ⟨gape⟩; ba sa ikgantšhe ⟨ka⟩ sefahlego sa baperisita, gomme bagolo ba sa fiwe mohau.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7815c1e5e26d9059fcdacec0d4ec5b5fbd7234af19a13fe0f1f4db6e74b00ca8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/4\/13-16.1792301194188.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "sefahlego sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "se ba phadime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se ka se sa"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "⟨gape⟩"
+    },
+    {
+      "surface": "להביטם",
+      "gloss": "ba lebelela"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlego sa"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "baperisita"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ikgantšhe ⟨ka⟩"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa fiwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "mohau"
+    }
+  ],
+  "timestamp": "2026-10-18T05:26:34.189215009Z",
+  "model": "glm-5.3"
+}

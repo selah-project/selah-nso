@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 24:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שאו שערים ראשיכם",
+      "rationale": "Seheberu se re 'godimong dikgoro hloho ya tšena' — kgoro ga e na hloho; ke seemedi sa go bulwa ka phagamo."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ye godimong",
+      "rationale": "Taello ye e bitša dikgoro ka go di laela gore di phagame."
+    },
+    {
+      "kind": "substitution",
+      "subject": "kgethwa",
+      "rationale": "הכבוד ke 'boima, khanya'; kgethwa e tšwa go tlwaelo ya -kgethwa go swantšha khanya."
+    }
+  ],
+  "translation": "Ye godimong, dikgoro, hloho ya tšena gomme ye godimong, mabati a go sa felego, gore kgoši ya kgethwa e tsene.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e7eae905f0368a9af2f2d148930bcf6117e88c097bb4896a730cfc6517dc9813",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/24\/9-10.1792297409423.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "ye godimong"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "dikgoro"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "hloho ya tšena"
+    },
+    {
+      "surface": "ושאו",
+      "gloss": "gomme ye godimong"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "mabati"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "a go sa felego"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "gore e tsene"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "ya kgethwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:29.423624830Z",
+  "model": "glm-5.3"
+}

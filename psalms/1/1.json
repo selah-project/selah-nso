@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu ga se na kopula; mahlogonolofa ke tlhaku ya go makatša ye e se nago kerifi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הלך \/ עמד \/ ישב",
+      "rationale": "Go sepela → go ema → go dutša: go wa ga kaelo ya go theoga gka kgaleng ye tharo, yeo e latelwago ka go bapetša (Ps 1:4–5)"
+    },
+    {
+      "kind": "you",
+      "subject": "go mmadi",
+      "rationale": "Psalmo ye e bulwa ka go bitša mmadi ka go makatša — mahlogonolofa motho"
+    }
+  ],
+  "translation": "Mahlogonolofa ⟨ke⟩ motho yo a sa sepelago ka megwaneng ya bakgofi, gomme tseleng ya baetsi-dibe ga a eme, gomme setileng sa basomi ga a dutše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0b7bde8d463856105adba8cd3bf11fb810073a8be120a6130bdb28fd37d54ef9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/1\/1-4.1792297164577.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mahlogonolofa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "sepelago"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "ka megwaneng"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya bakgofi"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "gomme tseleng"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ya baetsi-dibe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "a eme"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "gomme setileng"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "sa basomi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a dutše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:19:24.578405059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tlhohlo",
+      "rationale": "קנאה ke tlhohlo\/hlwekheko — boineelo bjo bo fošagetšego bja mafoko a mabedi a Sebheberu"
+    },
+    {
+      "kind": "crux",
+      "subject": "בעים",
+      "rationale": "v15: lentšu le tlwaelegilego; mo v13 וצררי = bao ba thibanago\/ba gatelelago vs 'manaba'"
+    }
+  ],
+  "translation": "Gomme tlhohlo ya Efrayime e tlo temiwa, gomme bao ba gatelelago Yehuda ba tla kgaolwa; Efrayime a ka se hlwekhlweke ⟨את⟩ Yehuda, gomme Yehuda a ka se gatelele ⟨את⟩ Efrayime.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9f61b4d71260feb10497706973338ffb27fa5354ddbb5a8b6c93c535b53fa45c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/11\/13-16.1792291456410.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "e tlo temiwa"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "tlhohlo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "bao ba gatelelago"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "ba tla kgaolwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "hlwekhlweke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "gomme Yehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "gatelele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Efrayime"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayime"
+    }
+  ],
+  "timestamp": "2026-10-18T02:44:16.411513749Z",
+  "model": "glm-5.3"
+}

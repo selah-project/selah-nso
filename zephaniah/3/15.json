@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu ga se na kopula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "crux",
+      "subject": "פנה",
+      "rationale": "'o file sefahlego lenaba' kgathanong le 'o thibetše\/o ile a feditše lenaba' — mabapi le sebopego sa פנה (go retologa\/go leba)"
+    },
+    {
+      "kind": "alternative",
+      "subject": "משפטיך",
+      "rationale": "'dikahlolo' goba 'dihlabelo tša kahlolo' — dikahlolo tše di ntšhitšwego di ka ba tša kgwerano ya Jeremia"
+    }
+  ],
+  "translation": "Yahwe o ntšhitše dikahlolo tša gago, o file sefahlego lenaba la gago; kgoši ya Yisraele, Yahwe, ⟨ke⟩ karologo ya gago; o se ke wa tšoga sebe gape.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e2b334d80f6cc2dbf70f7bc997366bfbe79139ff9a01477e342a3ff30d29af37",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zephaniah\/3\/13-16.1792296727557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "o ntšhitše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "dikahlolo tša gago"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "o file sefahlego"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "lenaba la gago"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "karologo ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "tšoga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    }
+  ],
+  "timestamp": "2026-10-18T04:12:07.558818632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדק e tsejwa ka lentšu le tee la Seheberu; ga se 'toka' fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "serope",
+      "rationale": "Hebrew has two words for loins here (מתנים, חלצים); Sepedi has only serope, so the pair is levelled"
+    }
+  ],
+  "translation": "Gomme tsedeke e tla ba thaka ya serope sa gagwe, gomme botegi thaka ya serope sa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8799e02c347ffacd8918c42986c81e0d95e63a6dfe9bb5f62e20b8e4b9614a53",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/11\/5-8.1792291470796.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "gomme e tla ba"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "thaka"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "ya serope sa gagwe"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "gomme botegi"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "thaka"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "ya serope sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:44:30.796936646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 5:9",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "naga ya bosekgoa",
+      "rationale": "מדברה bolela bothopi go swana le naga ya bosekgoa moo diruiwa di rolwago gona"
+    },
+    {
+      "kind": "elision",
+      "subject": "go boseletša",
+      "rationale": "למזרח ke leina la go tela ga letsatsi, se bolela boseletša; go se nwe go swanetše go oketšwa"
+    }
+  ],
+  "translation": "Gomme go boseletša o ile a dula go fihlela moo go tsenago naga ya bosekgoa, go tšwa go nokeng ya Perate, ka gobane diruiwa tša bona di ile tša oketšega lefaseng la Gileade.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f1c0a151bed1fe92ec8ab1f0875548163ffbf5fbbcf837f02ba4920e03afb080",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/5\/9-12.1792302942986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולמזרח",
+      "gloss": "gomme go boseletša"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o ile a dula"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "moo go tsenago"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "naga ya bosekgoa"
+    },
+    {
+      "surface": "למן",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "nokeng"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ya Perate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "מקניהם",
+      "gloss": "diruiwa tša bona"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "di ile tša oketšega"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "la Gileade"
+    }
+  ],
+  "timestamp": "2026-10-18T05:55:42.987408709Z",
+  "model": "glm-5.3"
+}

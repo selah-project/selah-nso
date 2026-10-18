@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o ile a",
+      "rationale": "Sepedi e nyaka thuso ya go dira; Seheberu se na le e se nago yona."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויצל \/ הציל",
+      "rationale": "Mmele o mongwe le o mongwe wa kgaleho (נצל) wa go boloka o tšewa gabedi, ka go boelela ga leina Dafida."
+    }
+  ],
+  "translation": "Gomme Dafida o ile a lokološa ⟨את⟩ tšohle seo Amaleke o se thobile; le ⟨את⟩ basadi ba babedi ba gagwe Dafida o ile a ba lokološa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/30\/17-20.1792288701069.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "a lokološa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tšohle seo Amaleke o se thobile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "o se thobile"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amaleke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "basadi ba babedi ba gagwe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ba babedi"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basadi ba gagwe"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "a lokološa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T01:58:21.070538337Z",
+  "model": "glm-5.3"
+}

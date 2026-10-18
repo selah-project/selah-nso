@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 10:11",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ba⟩",
+      "rationale": "Seheberu ga se buele mošomi; 'ba' gokišitšwe gore sefoko se bontšhe setšhaba se se bolelwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "lewatleng ya kgatelelo",
+      "rationale": "צרה = 'kgatelelo\/thlolo'; badiphetolo ba fapana — 'lewatle ya bokgole' kgotalo le 'o tla feta lewatle a kgolo' (ba-ṣarah bjalo ka modumo o mongwe)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "setho sa bogoši",
+      "rationale": "שבט ke motho wa kgoši (sceptre); 'setho sa bogoši' ke tlhaloso, e sego lentšu la tlhaka la Sepedi."
+    }
+  ],
+  "translation": "Gomme ⟨ba⟩ tla feta lewatleng ya kgatelelo, gomme ba tla o betša magorwana lewatleng, gomme bogolo bjo bja noka bjo bo tla oma; gomme boima bja Ashure bo tla theoga, gomme setho sa bogoši sa Mitsrayime se tla fapoga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0c72e884c6151fcf4478a0c4be256f1d359d0cf03acef6ee95a1265cd650e7cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/10\/9-12.1792296972624.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "gomme ba tla feta"
+    },
+    {
+      "surface": "בים",
+      "gloss": "lewatleng"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ya kgatelelo"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "gomme ba tla o betša"
+    },
+    {
+      "surface": "בים",
+      "gloss": "lewatleng"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "magorwana"
+    },
+    {
+      "surface": "והבישו",
+      "gloss": "gomme bjo bo tla oma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bogolo bjo bja"
+    },
+    {
+      "surface": "מצולות",
+      "gloss": "bogolo bjo bja noka"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "noka"
+    },
+    {
+      "surface": "והורד",
+      "gloss": "gomme bo tla theoga"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "boima"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "bja Ashure"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "gomme setho sa bogoši"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "sa Mitsrayime"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "se tla fapoga"
+    }
+  ],
+  "timestamp": "2026-10-18T04:16:12.625264186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mathomong a bosoši bja yena",
+      "rationale": "Nako e laetšwa ka go nemela — mathomong a bosoši bja Akhašueroše."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tatofatšo",
+      "rationale": "שטנה ke mangwalo wa go hlolelana — 'sitišo ye e ngwalwago'; tatofatšo ke karolo ya yona ya sephiring, fela lentšu le akaretša go hlolelana ka mongwalo."
+    }
+  ],
+  "translation": "Gomme ka bosošing bja Akhašueroše, mathomong a bosoši bja yena, ba ngwala tatofatšo kgahlanong le badudi ba Yuda le Yerushalayime.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "cebcd1c2d5db7c1032d76f990de8f6ba96f03719a9161daae9df580ce415f644",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/4\/5-8.1792302248351.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "Gomme ka bosošing bja"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhašueroše"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "mathomong a"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "bosoši bja yena"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "ba ngwala"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "tatofatšo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "badudi ba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "le Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T05:44:08.352470603Z",
+  "model": "glm-5.3"
+}

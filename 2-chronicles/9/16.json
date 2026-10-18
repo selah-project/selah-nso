@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "koko",
+      "rationale": "מגן ke koko-nyana (e nnyane) kgathanong le צנha koko kgolo ya temaneng ya 15 — mo ka moka 'koko', fapa-mo go nyametše."
+    },
+    {
+      "kind": "elision",
+      "subject": "shekele",
+      "rationale": "Palo e eme nosi ('makgolo a tharo tša gauta') — kelo e sa bolelwago, e tlhaloswa ka temana ya 15."
+    },
+    {
+      "kind": "measurement",
+      "subject": "dikoko tše makgolo a tharo; 300 go e tee",
+      "rationale": "Palo ya dikoko le kelo ya gauta go nngwe le nngwe."
+    }
+  ],
+  "translation": "Gomme dikoko tše makgolo a tharo tša gauta ye kgobilwego; gauta ya makgolo a tharo e ile ya ea go koko e tee; gomme kgoši a di bea ka ntlong ya sehlaka sa Lebanone.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ed74386c79c2606b92095c6a3600b2c60dbc8c86ace6139c53df08e99eb51652",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/9\/13-16.1792303777247.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "gomme tše tharo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "dikoko"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tša gauta"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ye kgobilwego"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya gauta"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "e ile ya ea"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "koko"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "e tee"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "gomme a di bea"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlong ya"
+    },
+    {
+      "surface": "יער",
+      "gloss": "sehlaka"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "sa Lebanone"
+    }
+  ],
+  "timestamp": "2026-10-18T06:09:37.248791503Z",
+  "model": "glm-5.3"
+}

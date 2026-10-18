@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sehlabelo",
+      "rationale": "שלל ke dihlabelo tše di thuntšhwago — dilo tše di laolwago mpheng; 'sehlabelo' ke se sengwe ga 'plunder'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "bonang",
+      "rationale": "הנה e bitša mmadi go lebelela se se tlago go direga"
+    },
+    {
+      "kind": "you",
+      "subject": "Jerusalem",
+      "rationale": "suffix -ך e bolela lefase le le latotšwego, Jerusalem"
+    }
+  ],
+  "translation": "Bonang, letšatši le tla go Yahwe, gomme sehlabelo sa gago se tla arogwa gare ga gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cce2866ceba8eafebeb4cf0ff28a21cff42b6ec859c6040f99d39587f2fd2ed0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/14\/1-4.1792297041559.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "בא",
+      "gloss": "le tla"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "gomme se tla arogwa"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "sehlabelo sa gago"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "gare ga gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:17:21.560283418Z",
+  "model": "glm-5.3"
+}

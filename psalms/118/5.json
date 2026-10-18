@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 118,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מצר\/מרחב",
+      "rationale": "Khithišano ya lefelo le le kgolokwego le le pharologago — sekhumba se tee sa Seboka se sa lokelwa go se lahlwa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lefelong le le kgolokwego",
+      "rationale": "המצר ke 'lefelo le le kgolokwego' e sego fela 'kgatelelo'; ענני gape 'o arabetše' — mmušo wa sebopego, e sego foša ya maikutiwa."
+    }
+  ],
+  "translation": "Go tswa lefelong le le kgolokwego ke bitsitše Yah; Yah o arabetše ka bophara.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d1f158183503e33ea23efd3424494acda8b8320abb90d908340f6dee26a33c78",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/118\/5-8.1792298793308.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "go tswa"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "lefelong le le kgolokwego"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ke bitsitše"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "o arabetše"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "ka bophara"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:33.309247442Z",
+  "model": "glm-5.3"
+}

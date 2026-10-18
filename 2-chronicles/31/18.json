@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 31:18",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "botepa",
+      "rationale": "באמונתם: 'ka botepa bja bona' kgahlanong le 'bošomong bja bona' (KJV 'set office') — KJV e bala באמנתם go tšwa lefoko le lengwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ba ikgethwa bokgethweng",
+      "rationale": "קדש e šumišitšwe go fitlhelela bokgethwa go ya ka D2, e sego 'halalela' ya Sesotho"
+    }
+  ],
+  "translation": "gomme go ngwalwa moloko ga bana ba bona ba manyana, basadi ba bona, barwa ba bona le barwadi ba bona, go setšhaba sohle, ka gobane ka botepa bja bona ba ikgethwa bokgethweng.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "abaf1e32ed97e641b859f4a69f1019bb79d2451268292dd488242392dffde3b5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/31\/17-20.1792304364639.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולהתיחש",
+      "gloss": "gomme go ngwalwa moloko"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "bana ba bona ba manyana"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "basadi ba bona"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "barwa ba bona"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "barwadi ba bona"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go setšhaba"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "באמונתם",
+      "gloss": "ka botepa bja bona"
+    },
+    {
+      "surface": "יתקדשו",
+      "gloss": "ba ikgethwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethweng"
+    }
+  ],
+  "timestamp": "2026-10-18T06:19:24.640936358Z",
+  "model": "glm-5.3"
+}

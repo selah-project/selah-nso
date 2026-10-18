@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "kgwedi ya Habibu",
+      "rationale": "Go hlaloswa kgwedi ya go tšwa — tshepediso ya nako."
+    },
+    {
+      "kind": "alternative",
+      "subject": "Habibu",
+      "rationale": "Leina la kgwedi le fetolelwa ka modumo; Egbibu ya sepelele: ‛khwiša ya pele ya poe."
+    }
+  ],
+  "translation": "Letšatši le le gago le tšwa, kgweding ya Habibu.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8cfaa083276e493d83eaeef57f6f56548a84ff7ef53d067ae85b75ae855d5efc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/13\/1-4.1792282601867.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "letšatši le"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le gago"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "le tšwa"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "kgweding ya"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Habibu"
+    }
+  ],
+  "timestamp": "2026-10-18T00:16:41.868732436Z",
+  "model": "glm-5.3"
+}

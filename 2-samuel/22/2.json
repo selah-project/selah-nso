@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopula 'ke'; Seheberu ga se na yona."
+    },
+    {
+      "kind": "crux",
+      "subject": "מצדתי",
+      "rationale": "'boreile' (fastness) kgahlanong le 'net' (tšhitišo ya phoso); mo e bolela boreile."
+    },
+    {
+      "kind": "elision",
+      "subject": "לי",
+      "rationale": "Sesomi-mafelelo se kopantšwe le 'mokolotši wa ka'."
+    }
+  ],
+  "translation": "Gomme a re: Yahwe ke leswika la ka, le boreile bja ka, le mokolotši wa ka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "22829b331f01b37e5e509c3177c4a99e24074ca3f0057e4dd5dd4cb715f1d438",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/22\/1-4.1792289371057.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "leswika la ka"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "le boreile bja ka"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "le mokolotši wa ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "la ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:09:31.058343277Z",
+  "model": "glm-5.3"
+}

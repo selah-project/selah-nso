@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 8:20",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "makgolo a mabedi le masomepedi",
+      "rationale": "Palo ya Netinime: 220."
+    },
+    {
+      "kind": "substitution",
+      "subject": "נקבו",
+      "rationale": "Seheberu sa נקב se bolela 'go tua \/ go laetša ka botlalo'; 'ba laetšwa ka maina' e boloka sebopego sa go bontšha ka botlalo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נתינים",
+      "rationale": "Leina le tšwa go נתן 'go fa' — bao ba filwego go mošomo wa tempole; nakong e tee le שנתנ 'ba ba filwego'."
+    }
+  ],
+  "translation": "Gomme go tšwa go Netinime, bao Dafida le boaetapele ba ba filwego bakeng sa mošomo wa Balewi: Netinime, makgolo a mabedi le masomepedi; ba ka moka ba ile ba laetšwa ka maina.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "6c5717d1e6f7bc7455e4001b4b13060e52efe02c4985ad84eddedd134461fa77",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/8\/17-20.1792302414246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "gomme go tšwa go"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "Netinime"
+    },
+    {
+      "surface": "שנתן",
+      "gloss": "bao ba filwego"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "le boaetapele"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "bakeng sa mošomo wa"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Balewi"
+    },
+    {
+      "surface": "נתינים",
+      "gloss": "Netinime"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "makgolo a mabedi"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "le masomepedi"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ba ka moka"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "ba ile ba laetšwa"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ka maina"
+    }
+  ],
+  "timestamp": "2026-10-18T05:46:54.247929823Z",
+  "model": "glm-5.3"
+}

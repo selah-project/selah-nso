@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "phahamo",
+      "rationale": "גאון ke go ikakanya\/phahamo ya moya, e sego letshwao le lebonago fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבר\/כשלון",
+      "rationale": "Mareo a mabedi a go senyega (go thubega\/go wa) a aga parallel, Sepedi se boloka tlhakorelo ka mareo a mabedi"
+    }
+  ],
+  "translation": "Pele ga go thubega go na le phahamo; gomme pele ga go wa go na le ruakh e phahamego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bcd9366600b6cf5bd47f5796dbd5cbf7160ffe9ebc4f8adc61694b8cac87a44e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/16\/17-20.1792299493860.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "go thubega"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "phahamo"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "gomme pele ga"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "go wa"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "e phahamego"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-18T04:58:13.861653996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 100,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sepsalmere",
+      "rationale": "מזמור ke selete sa mmino wo o binalwego — 'sepsalmere' se boloka sebopego sa lona"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Bagolago",
+      "rationale": "Taollo ya go bitša setšhaba ka moka go tšwa go Yahwe"
+    }
+  ],
+  "translation": "Sepsalmere sa toka: Bagolago go Yahwe, lefase ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "35d5e1f7dad9795984e0e28cdd4f74ce6799c74303717d8415c0327079276727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/100\/1-4.1792298529480.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Sepsalmere"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "sa toka"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Bagolago"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:09.480603965Z",
+  "model": "glm-5.3"
+}

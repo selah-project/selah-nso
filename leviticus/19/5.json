@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לרצנכם",
+      "rationale": "KJV 'at your own will' vs ASV\/JPS 'that ye may be accepted' — go ya ka thato ya lona kgahlanong le bakeng sa go amogelelwa ga lona."
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Yisraele",
+      "rationale": "Taodišo ye e bolela go Yisraele ka mošomo wa bokgethwa."
+    }
+  ],
+  "translation": "Gomme ge le hlabela sehlabelo sa khotso go Yahwe, le se hlaele go ya ka thato ya lona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d5afeb929d4b000f574ca67650360a92ee191ae9b8594ea880768493d7a8ff5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/19\/5-8.1792284034378.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "le hlabela"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "sa khotso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "go ya ka thato ya lona"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "le se hlaele"
+    }
+  ],
+  "timestamp": "2026-10-18T00:40:34.378674582Z",
+  "model": "glm-5.3"
+}

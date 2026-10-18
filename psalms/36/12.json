@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 36,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רֶגֶל \/ יָד",
+      "rationale": "Kopanyo e swanago: leoto la boikakabetšo kgahlanong le seatla sa ba beišago bobe — mebele ye mebedi ya go hlasela."
+    },
+    {
+      "kind": "crux",
+      "subject": "תְנִדֵנִי",
+      "rationale": "נוּד e bolela go dikega\/go gogelela — 'go nkgaogantšwa' kgahlanong le 'go dikegwa'; dipheto tše pedi di kopantšwe."
+    }
+  ],
+  "translation": "Leoto la boikakabetšo a se ke sa tla go nna, gomme seatla sa ba beišago bobe a se ke a nkgaogantša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "770e5f4e7b6cd2b3a2e29726d5bc1fe99ae4427a2ffaeba58196f77c6a6039b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/36\/9-12.1792297560084.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "sa tla go nna"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "leoto"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "la boikakabetšo"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "gomme seatla"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sa ba beišago bobe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "a nkgaogantša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:00.085092282Z",
+  "model": "glm-5.3"
+}

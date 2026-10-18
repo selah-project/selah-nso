@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 103:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפש ke thlogo\/moya\/bophelo, e sego 'moya' fela; Sepedi ga se na lentšu le tee le swanago"
+    },
+    {
+      "kind": "you",
+      "subject": "to moya wa mongwadi",
+      "rationale": "Moopedi o ipolelela — tlhomo ya go kgothaletša boitshokoso"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Hlohlela, moya wa ka",
+      "rationale": "Taelo ya go hlohlela e bitša moopedi ka nošeng ya motheo wa psalme ye"
+    }
+  ],
+  "translation": "Ya Dafida. Hlohlela, moya wa ka, ⟨את⟩ Yahwe, gomme cokolo coka tše di ka hare ga me ⟨את⟩ leina la bokgethwa bja hae.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5d7842f1cc76a792b5698e3ac41f741f2510068c2c0a3b2077e97ee9b4e2d2b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/103\/1-4.1792298558557.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ya Dafida"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Hlohlela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme cokolo coka"
+    },
+    {
+      "surface": "קרבי",
+      "gloss": "tše di ka hare ga me"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la bokgethwa bja hae"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "bokgethwa bja hae"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:38.557755722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סוד",
+      "rationale": "'seiphiri' kgahlanong le 'kgotla' (JPS: counsel) le 'bokgabo ba mogwera' (ASV: friendship)"
+    },
+    {
+      "kind": "secret",
+      "subject": "seiphiri sa Yahwe",
+      "rationale": "סוד — seiphiri, kgotla ya batswakala; se sibiletšwego seriping sa yona"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na le kopu; Sepedi se e nyaka"
+    }
+  ],
+  "translation": "Seiphiri sa Yahwe ke sa bao ba mo fefago, gomme kgwerano ya gagwe ⟨ke⟩ go ba tsebiša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2a4a084d38c9048d9451005b7fcdac57ce53288afb945c9eaa0475b240f2053a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/25\/13-16.1792297441096.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "seiphiri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "ke sa bao ba mo fefago"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "gomme kgwerano ya gagwe"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "go ba tsebiša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:24:01.097274939Z",
+  "model": "glm-5.3"
+}

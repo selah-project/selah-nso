@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "עלליך",
+      "rationale": "עולל ke lesela la go nwela (suckling); 'bana ba manyenyane' ke go ikamanya, e sego go hlaloša lesela ka botlalo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ונפץ",
+      "rationale": "go thuthafatša (go phuthafatša ka maatla) kgahlanong le 'go foka' goba 'go phatlalatša' — diphetolelo tše dingwe di re 'scatter'"
+    }
+  ],
+  "translation": "Mahlapo ⟨ke⟩ yo a tlowago go tšerea gomme a thuthafatša ⟨את⟩ bana ba gago ba manyenyane go leswikeng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ddbf5be047b0c59f4f4211d7e0f17a42b95cc817b727d729817064730199a74c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/137\/9-9.1792298997709.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵי",
+      "gloss": "Mahlapo"
+    },
+    {
+      "surface": "שֶׁיֹּאחֵז",
+      "gloss": "yo a tlowago go tšerea"
+    },
+    {
+      "surface": "וְנִפֵּץ",
+      "gloss": "gomme a thuthafatša"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba gago ba manyenyane"
+    },
+    {
+      "surface": "עֹלָלַיִךְ",
+      "gloss": "bana ba gago ba manyenyane"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הַסָּלַע",
+      "gloss": "leswikeng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:57.710770405Z",
+  "model": "glm-5.3"
+}

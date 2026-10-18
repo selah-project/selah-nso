@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "goroga",
+      "rationale": "יחיל ke go dutla-go dikologa ga pelo; 'go goroga' ke go welwa ke hloko, se sa laetše mohuta wa go tsehla"
+    }
+  ],
+  "translation": "Pelo ya ka e a goroga ka gare ga ka, gomme ditšhogo tša lefu di theohile go ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5ae239ef97c42c3352964e5516d57741f85c1846c41c65d3502152908a7afc05",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/55\/5-8.1792297857686.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "e a goroga"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ka gare ga ka"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "gomme ditšhogo tša"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lefu"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "di theohile"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:57.687610109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a busa",
+      "rationale": "וירד (radad) le bolela 'go fenya, go tlamiša ka maoto' — go busa ke phetolelo ya mošomo, e sego sebopego sa lentšu."
+    },
+    {
+      "kind": "measurement",
+      "subject": "go tloga lewatlong go ya go lewatle",
+      "rationale": "Sebedišwa se atisa go lekanya bogoši ka meya ya sebopego: lewatle go ya go lewatle, noka go fihla mafelo a lefase."
+    },
+    {
+      "kind": "crux",
+      "subject": "noka",
+      "rationale": "מנהר e na le artigo — 'Noka' ye e tsebjago (Yufurate), e sego noka e nngwe le e nngwe."
+    }
+  ],
+  "translation": "Gomme a busa go tloga lewatlong go ya go lewatle le lengwe, gomme go tloga nokeng go fihla mafelo a lefase.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c07e49b71e36c574ac965af47e929611dd9a30523244b42404434000e3de31ce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/72\/5-8.1792298131745.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "gomme a busa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "go tloga lewatlong"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle le lengwe"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "gomme go tloga nokeng"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "mafelo a"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:31.746831953Z",
+  "model": "glm-5.3"
+}

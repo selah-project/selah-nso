@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וישובו \/ שבתם",
+      "rationale": "Root שׁוב repeated — 'returned \/ turned back' — the king's question echoes the verb of the narration; the repetition is kept in Sepedi (boela \/ boetše)."
+    },
+    {
+      "kind": "you",
+      "subject": "to the messengers of Ahab",
+      "rationale": "Direct question addressed by the king to his returning messengers."
+    }
+  ],
+  "translation": "Gomme baromuwa ba boela go yena, gomme a ba botša: Ke eng se — le boetše!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "97cc0f4454f1bb67eb36789a6950b83f483f1e1cff2e7eb9fe806c336eb90cbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/1\/5-8.1792290470956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "ba boela"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "baromuwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a ba botša"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ke eng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "le boetše"
+    }
+  ],
+  "timestamp": "2026-10-18T02:27:50.957541940Z",
+  "model": "glm-5.3"
+}

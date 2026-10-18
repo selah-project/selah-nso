@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu ga se na kopula; Sepedi se e nyaka gabedi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דבר … דבר",
+      "rationale": "Phetišo ya 'taba' gabedi — paralele ya uta\/karola e bolokwa ka go buseletša lentšu le tee."
+    },
+    {
+      "kind": "secret",
+      "subject": "הסתר דבר",
+      "rationale": "Eupša e bolela ka dilo tša utilwego tša Elohim kgathanong le go nyaretaba ga dikgoši."
+    }
+  ],
+  "translation": "Kgalalelo ya Elohim ⟨ke⟩ go uta taba, gomme kgalalelo ya dikgoši ⟨ke⟩ go nyaretaba go fodiša taba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f992d1e4ab323a6140d847215fa2fe87e2a2def12c7eba812f094039f80e8ae4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/25\/1-4.1792299825343.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "kgalalelo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "go uta"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "gomme kgalalelo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ya dikgoši"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "go nyaretaba go fodiša"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    }
+  ],
+  "timestamp": "2026-10-18T05:03:45.344216331Z",
+  "model": "glm-5.3"
+}

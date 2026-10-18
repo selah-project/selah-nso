@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "טל",
+      "rationale": "Sepedi ga e na lentšu le tee le hlaka la kotsi ya bosigo — 'dikeledi tša bosigo' ke tlhalošo ya seswantšho."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "setemong se sengwe",
+      "rationale": "Pisego ya pedi: kgalefo ya kgoši go sechwanwa le tau, thato le kotsi — sebopego se a swana ka mahlakore a mabedi."
+    }
+  ],
+  "translation": "Go gutaguta ga tau ya botse — kgalefo ya kgoši; gomme bjalo ka dikeledi tša bosigo godimo ga bjalwa — thato ya yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f4871258a5b0102f27d87b773629a10dcf76954aa9f09c7dfe29be92cd68d5e3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/19\/9-12.1792299605061.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "go gutaguta"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "ga tau ya botse"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "kgalefo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ya kgoši"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "gomme bjalo ka dikeledi tša bosigo"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bjalwa"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "thato ya yena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:05.062948510Z",
+  "model": "glm-5.3"
+}

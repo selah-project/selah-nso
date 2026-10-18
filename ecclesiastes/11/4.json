@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e tla go moya goba phefo goba maemo — lentšu le tee la Seheberu le bolela tše tharo; go gatelelwa go šomiša modumo wa Seheberu."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "maru",
+      "rationale": "Maru a kopana le temana ya 3 — sedirišwa se sengwe se sa tsejweng (maru) se tiišetsa tlhahlo ya temana."
+    }
+  ],
+  "translation": "Yo a lebeledišago ruakh ga a pei, gomme yo a lebegago marung ga a sege.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "d138aca0704de1a9db0eef7ca0039ec2e27ef3e5e234cc7b7c29d720e593ddd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/11\/1-4.1792301484073.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "yo a lebeledišago"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "a pei"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "gomme yo a lebegago"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "marung"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "a sege"
+    }
+  ],
+  "timestamp": "2026-10-18T05:31:24.075293624Z",
+  "model": "glm-5.3"
+}

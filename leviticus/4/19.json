@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mafura",
+      "rationale": "חלב ke mafura a sehlabelo — a fišwa go Yahwe, ga se aja"
+    }
+  ],
+  "translation": "Gomme mafura a yona ⟨את⟩ ka moka o a tloša go e na, a a fise aletareng.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "27cd989a54048d85595feded3d4dc31b528dec9973fdf4d341bbfa15eba3c3f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/4\/17-20.1792283611689.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "mafura a yona ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "mafura a yona"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "o a tloša"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go e na"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "a a fise"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "aletareng"
+    }
+  ],
+  "timestamp": "2026-10-18T00:33:31.690472871Z",
+  "model": "glm-5.3"
+}

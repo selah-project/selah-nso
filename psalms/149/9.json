@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "חסידיו",
+      "rationale": "'bao ba nago le hesede ya gage' kgahlanong le 'batšepegi ba gage' — ḥesed ke lentšu le tee la Seheberu, le hlokomolwa ka sebopego sa lona."
+    },
+    {
+      "kind": "crux",
+      "subject": "הדר הוא",
+      "rationale": "KJV\/ASV 'this honor have all his saints' (kahlolo ke tlotla ya batswadi) kgahlanong le JPS 'He is the glory of all His saints' (Elohim ke kgebego ya bona)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו יה",
+      "rationale": "Halelu-Yah — moedi wa pshamele, go swanetšwe go bolokwa bjalo ka Hallelujah goba go phatlalatšwa ka lentšu le tee."
+    }
+  ],
+  "translation": "Go dira go bona kahlolo yeo e ngwalwago; se ke bokgebego bakeng sa bao ba nago le hesede yotlhe ya gage. Dumelang Yah!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "160c2a340697673a20fbb6ffed151693873661293a24c2ec985b104fe9f2e0c9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/149\/9-9.1792299072236.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "e ngwalwago"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "bokgebego"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "se ke"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bakeng sa yotlhe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "bao ba nago le hesede ya gage"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dumelang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:12.236921727Z",
+  "model": "glm-5.3"
+}

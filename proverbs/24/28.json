@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 24:28",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Seheberu se se na sekopanyi; Sepedi e nyaka 'go ba mothubi'"
+    },
+    {
+      "kind": "crux",
+      "subject": "חנם",
+      "rationale": "'ka maso' (gratis, ka ntle mabaka) — KJV 'without cause'; go ka ba gape 'ka ntle le maduetšo'"
+    },
+    {
+      "kind": "invitation",
+      "subject": "go mmadi",
+      "rationale": "Taetšo ya go gana yeo e ka sepetšago yo a balago: o se ke wa…"
+    }
+  ],
+  "translation": "O se ke wa ba mothubi ka maso go mogwera wa gago, gomme o se ke wa foša ka disepe tša gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "aa910965656cf62a28bd6d01c5aa3711daf4ebf69ddea540827e525aa64bee3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/24\/25-28.1792299797178.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "⟨go⟩ ba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "mothubi"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ka maso"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "go mogwera wa gago"
+    },
+    {
+      "surface": "והפתית",
+      "gloss": "gomme wa foša"
+    },
+    {
+      "surface": "בשפתיך",
+      "gloss": "ka disepe tša gago"
+    }
+  ],
+  "timestamp": "2026-10-18T05:03:17.179070980Z",
+  "model": "glm-5.3"
+}

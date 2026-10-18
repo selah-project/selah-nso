@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o lokiša",
+      "rationale": "זוקף e bolela 'go thoma go lokiša se se kgobogilego go ema' — seeta sa sebopego, se fetotšwe ka mošomo wa go lokiša"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הנפלים\/הכפופים",
+      "rationale": "Diphapano tša go ba tlasa le go kgoboga di bopa boemeling bjo bo swanago — dilo tše pedi tše di laellanago"
+    }
+  ],
+  "translation": "Yahwe o thekga go ba ba dowlego, gomme o lokiša go ba ba kgobogilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "182428ec6198e09165699b61781f8c5b05fe3a768ba0af602c8cdfb469c66174",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/145\/13-16.1792299114918.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "o thekga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ba ba dowlego"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "gomme o lokiša"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "ba ba kgobogilego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:54.919596598Z",
+  "model": "glm-5.3"
+}

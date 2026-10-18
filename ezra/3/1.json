@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כאיש אחד",
+      "rationale": "'bjalo ka motho a le tee' — idiom ya botee bja setšhaba, e sego palo ya batho"
+    },
+    {
+      "kind": "measurement",
+      "subject": "kgwedi ya bošupa",
+      "rationale": "Palo ya kgwedi (šupa) e bula boemo bja meletlo"
+    }
+  ],
+  "translation": "Gomme kgwedi ya bošupa e fihlile, gomme bana ba Yisraele ba dula metseeng; gomme setšhaba sa phuthwa bjalo ka motho ⟨a le tee⟩ go Yerushalayime.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1d66040f1b731ef9028b4cae650142809fe564e7ba8e19574869158ae90a5279",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/3\/1-4.1792302240983.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "gomme e fihlile"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ya bošupa"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "gomme bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "metseeng"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "gomme ba phuthwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "bjalo ka motho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "a le tee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T05:44:00.984189787Z",
+  "model": "glm-5.3"
+}

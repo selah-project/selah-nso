@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 48:19",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Sepedi se nyaka sebopego sa 'go' pele ga setšo; Seheberu se na le אל feela."
+    },
+    {
+      "kind": "you",
+      "subject": "go yo a dutšego Aroere",
+      "rationale": "Taolo ya go ema setšweng le go botšiša e laediwa mmudi wa Aroere."
+    },
+    {
+      "kind": "invitation",
+      "subject": "dipotšišo",
+      "rationale": "Potšišo ya 'Go diragetše eng?' e bitša mmadi go akanya ka tšhollo ya Moabe."
+    }
+  ],
+  "translation": "Emo setšweng, o lebelele, oo yo a dutšego Aroere; botšiša mopheišwa le yo a phololetšego, o re: Go diragetše eng?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "24180ecb7746ac9582e7deffd06560300a68f61806168a20c241392fd8db85f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/48\/17-20.1792294085515.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "⟨go⟩"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "setšweng"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "Emo"
+    },
+    {
+      "surface": "וצפי",
+      "gloss": "o lebelele"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "oo yo a dutšego"
+    },
+    {
+      "surface": "ערוער",
+      "gloss": "Aroere"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "botšiša"
+    },
+    {
+      "surface": "נס",
+      "gloss": "mopheišwa"
+    },
+    {
+      "surface": "ונמלטה",
+      "gloss": "le yo a phololetšego"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "o re"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "Go diragetše"
+    }
+  ],
+  "timestamp": "2026-10-18T03:28:05.516671028Z",
+  "model": "glm-5.3"
+}

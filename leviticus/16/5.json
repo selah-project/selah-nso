@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "שעירי עזים",
+      "rationale": "גְּעִירֵי עִזִּים — 'dibudi sa dibudi tša methaladi' — go bolela ka go lekana go babelwa ka 'dibudi' fela"
+    },
+    {
+      "kind": "measurement",
+      "subject": "dipalo",
+      "rationale": "tše pedi le e tee — palo ya sehlabelo e bolokwa ka botlalo"
+    },
+    {
+      "kind": "addition",
+      "subject": "sa dibudi",
+      "rationale": "עזים e hlalosa mohuta; e kopantšwe le šעירי go hlokomologa go pheta"
+    }
+  ],
+  "translation": "Gomme go tšwa go ⟨את⟩ setšhaba sa bana ba Yisraele o tla tšea dibudi tše pedi bakeng sa sebe, le pholo ya nku e tee bakeng sa sebego sa go fišwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "944eda1228738cb0d634cd8c362a87d7b9f0c1241d839c15bf5b819456315147",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/16\/5-8.1792283980310.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "go ⟨את⟩"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "o tla tšea"
+    },
+    {
+      "surface": "שני",
+      "gloss": "tše pedi"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "dibudi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "sa dibudi"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "bakeng sa sebe"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "le pholo ya nku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "e tee"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "bakeng sa sebego sa go fišwa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:39:40.310916762Z",
+  "model": "glm-5.3"
+}

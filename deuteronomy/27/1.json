@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba re",
+      "rationale": "לאמר hloka mokgwa wa go bolela ka Sepedi; 'go re' o oketšegile ka mo halofo"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Yisraele",
+      "rationale": "Taelo e a bitšwa ka go se šwe, e hlomphago setšhaba ka bobedi bja bontši"
+    }
+  ],
+  "translation": "Gomme Moshe le bagolo ba Yisraele ba laela ⟨את⟩ setšhaba, ba re: Bolokang ⟨את⟩ taelo ye ka moka yeo ke e laelago ⟨את⟩ lenu lehono.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "94e96fb1ff8c31bc936b16b303a1d667fa8d0dbbd8893b8e4cf7c9e1d6634fe5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/27\/1-4.1792286143477.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ba laela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "le bagolo ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "Bolokang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo ye ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo ye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "e laelago"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lenu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    }
+  ],
+  "timestamp": "2026-10-18T01:15:43.478203652Z",
+  "model": "glm-5.3"
+}

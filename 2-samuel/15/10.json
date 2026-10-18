@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 15:10",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ge le kwa… le tla re",
+      "rationale": "Taello ya Abesalome go dikgasi — sefoko sa go bitša setšhaba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ke kgoši… o buša",
+      "rationale": "מלך ke lediri (go ba kgoši); Sepedi e nyaka tlhalošo ya leina le lediri ka bobedi."
+    }
+  ],
+  "translation": "Abesalome a roma dikgasi go dika merafo ya Yisraele, a re: Ge le kwa ⟨את⟩ modumo wa šofara, le tla re: Kgoši ke Abesalome, o buša go Heberona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2f9b65b202d8697f061b683cabc6f35670a5f11505bf6137667edfca4e58158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/15\/9-12.1792289178029.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a roma"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abesalome"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "dikgasi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "go dika"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "merafo ya"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "כשמעכם",
+      "gloss": "ge le kwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "modumo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "wa šofara"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "le tla re"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ke kgoši"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abesalome"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "go Heberona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:06:18.030790965Z",
+  "model": "glm-5.3"
+}

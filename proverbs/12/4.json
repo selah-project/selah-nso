@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mong wa gagwe",
+      "rationale": "בעל ke 'mong' — lentšu le bolela mong goba monna; le swanetše go dula ka sebopego sa lona"
+    },
+    {
+      "kind": "elision",
+      "subject": "yo a swabisago",
+      "rationale": "המבישה participial; Sepedi e nyaka tlhalošo ya motho yo a swabisago mong wa gagwe"
+    }
+  ],
+  "translation": "Mosadi wa maatla ke sekgoro sa mong wa gagwe; eupša yo a swabisago ke bjalo ka go bola ka marapong a gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0638d996d48731068fb7026737d18735acaf4c13abd6173197b0aa539974cd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/12\/1-4.1792299421030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wa maatla"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "sekgoro"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "sa mong wa gagwe"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "eupša bjalo ka go bola"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "ka marapong a gagwe"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "yo a swabisago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:57:01.031090899Z",
+  "model": "glm-5.3"
+}

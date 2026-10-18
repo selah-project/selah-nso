@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 28:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "משיבי מלחמה שערה",
+      "rationale": "'ba ba bušago ntwa go ya kgorong' (ntwa e bušetšwa kgoro ya toropong) kgahlanong le 'ba ba laolang ntwa kgorong' — kediro ya šupa e tletše kgethollo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "ruakh e bolokwa ka modumo wa Seheberu go ya ka D2 — e sego 'moya' fela."
+    }
+  ],
+  "translation": "Gomme bakeng sa ruakh ya kahlolo, go yo a dutšego kahlolong, le bakeng sa maatla, go ba ba bušago ntwa go ya kgorong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d009954a72b2c994961dde176f4f309a37b9330fd8a4345c3882541b99b39e2f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/28\/5-8.1792291779950.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולרוח",
+      "gloss": "gomme bakeng sa ruakh ya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "ליושב",
+      "gloss": "go yo a dutšego"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "kahlolong"
+    },
+    {
+      "surface": "ולגבורה",
+      "gloss": "le bakeng sa maatla"
+    },
+    {
+      "surface": "משיבי",
+      "gloss": "go ba ba bušago"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwa"
+    },
+    {
+      "surface": "שערה",
+      "gloss": "go ya kgorong"
+    }
+  ],
+  "timestamp": "2026-10-18T02:49:39.950905645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קרבם",
+      "rationale": "KJV 'mahlale a ka hare' kgatlhanong le BSB 'mabitla' — kirbam go ka ba 'peleng ya bona' goba 'sekahare sa bona'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "matlo",
+      "rationale": "משכנתם ke matlo a go dula — Mishkane, go tšwa go go dula"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לדר ודר",
+      "rationale": "poledo ya go pheta-pheta — pmogeng le pmogeng, mahlakoreng a mabedi a lentšu"
+    }
+  ],
+  "translation": "Peleng ya bona malapa a bona a dula go fihla lehileng, matlo a bona go pmogeng le pmogeng; ba laleditše ⟨את⟩ maina a bona godimo ga mafase.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/49\/9-12.1792297768492.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "Peleng ya bona"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "malapa a bona"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla lehileng"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "matlo a bona"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "go pmogeng"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le pmogeng"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ba laleditše"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "maina a bona"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "mafase"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:28.493321276Z",
+  "model": "glm-5.3"
+}

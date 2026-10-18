@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מגורי",
+      "rationale": "מגור: 'bohudugi' (baagi ba nakwana) kgahlano le 'boahlami' — bophelo bo se nago kgolokwe, bo sego tumelo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dipina",
+      "rationale": "זמרות e bolela dipina tša sebinišwa le sedirišwa — modu wa mmino o timetse ka Sepedi."
+    }
+  ],
+  "translation": "Dipina di bile tša ka meloko ya gago, mo gae ga go huduga ga ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9436762ab9cfb774137d9b4ea8f9a7e0d6bc0c56891c9a58eaa37b100b21d52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/53-56.1792298822809.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "dipina"
+    },
+    {
+      "surface": "היו",
+      "gloss": "di bile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tša ka"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "meloko ya gago"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo gae ga"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "go huduga ga ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:02.812455510Z",
+  "model": "glm-5.3"
+}

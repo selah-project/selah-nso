@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mollō",
+      "rationale": "D4: אש ka mehla ke mollō — e sego lelo goba molelo"
+    }
+  ],
+  "translation": "A ba etaleta ka maru mosegare, le bosigo ka moka ka lesedi la mollō.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/13-16.1792298229594.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "a ba etaleta"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ka maru"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "mosegare"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ka moka"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ka lesedi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollō"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:09.594680907Z",
+  "model": "glm-5.3"
+}

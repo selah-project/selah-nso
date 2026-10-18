@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "להרע",
+      "rationale": "'Go hloka bobe' kgahlanong le 'go wetša bobe' — ba fetoledi ba fapana: go tshepela seo se go hlabelago (sephiri) goba go hloka (masego); mo: go hloka bobe bjalo ka sephetho sa seana"
+    },
+    {
+      "kind": "addition",
+      "subject": "eupša",
+      "rationale": "Sebopego sa seheberu se bontšha phapano magareng ga go gana le go tlotša; Sepedi e nyaka motsamaisi wa phapano"
+    },
+    {
+      "kind": "alternative",
+      "subject": "yo a nyatwago o gannwe",
+      "rationale": "Pukwana e ka ba 'a nyatsa yo a gannwago ka mahlong a gagowo' — mabapi le sebopego sa maemo ao ba fetoledi ba a tšerego"
+    }
+  ],
+  "translation": "Yo a nyatwago, o gannwe ka mahlong a gagowo; eupša o tlotša ⟨את⟩ bao ba tšabago Yahwe; yo a tshepileng go hloka, gomme ga a fetoge.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/15\/1-4.1792297305078.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "yo a nyatwago"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ka mahlong a gagowo"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "o gannwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "bao ba tšabago Yahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "bao ba tšabago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "o tlotša"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "yo a tshepileng"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "go hloka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "a fetoge"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:45.079061521Z",
+  "model": "glm-5.3"
+}

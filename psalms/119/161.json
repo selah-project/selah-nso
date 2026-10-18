@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka masele",
+      "rationale": "חנם literally 'gratis, without reason' — 'without cause'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "le tšhogile",
+      "rationale": "פחד 'to be startled, fear' — 'my heart trembles at' as second reading"
+    }
+  ],
+  "translation": "Dikgoši di ntšhotšitše nna ka masele, gomme lentšu la gago le tšhogile pelo ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "40b480d59ff28122080475f92498f1cd11a9812163a3519b94a7b1e31c18e905",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/161-164.1792298829031.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "di ntšhotšitše nna"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ka masele"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "gomme lentšu la gago"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "le tšhogile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "pelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:09.032325021Z",
+  "model": "glm-5.3"
+}

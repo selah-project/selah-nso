@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lerumo",
+      "rationale": "מקל is a walking-stick, staff; 'lerumo' (stick held in hand) chosen to keep the concrete object"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Hebrew הוא is pronoun 'it'; Sepedi needs copula 'ke'"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "direct instruction to Israel at the first Pesaka"
+    }
+  ],
+  "translation": "Gomme bjalo le ka ja ⟨את⟩ yona: dithoeng tša lona di kgobilego, ditlhako tša lona maotong a lona, le lerumo la lona letsweng la lona; gomme le ka ja ⟨את⟩ yona ka tshepo ya maretele — Pesaka ke ya Yahwe.",
+  "provenance": {
+    "system-sha256": "24f00113e3b121e9b95e2ccf5a651357778f494e3f9bd9fa2b770ac9d2daaabf",
+    "user-sha256": "03c8e6ad77d0ee0aeb033797fb4e62a140a8c314bc101fddcd8e6bd5172c51fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/12\/9-12.1792282589591.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "gomme bjalo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "le ka ja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "dithoeng tša lona"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "di kgobilego"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "ditlhako tša lona"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "maotong a lona"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "le lerumo la lona"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "letsweng la lona"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "gomme le ka ja"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "ka tshepo ya maretele"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesaka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:16:29.593171548Z",
+  "model": "glm-5.3"
+}

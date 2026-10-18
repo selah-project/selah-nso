@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 18:24",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "השיב את פני",
+      "rationale": "„go bušetša sefahlego“ = go fenya go ikana ga molaodi — sefahleho-sefahleho ka Sepedi."
+    },
+    {
+      "kind": "you",
+      "subject": "go Khizkiyahu le balaodi ba gagwe",
+      "rationale": "Potsotšo ya go nyefola e lebitša morena wa Juda ka nama."
+    }
+  ],
+  "translation": "Gomme o ka bušetša bjang ⟨את⟩ sefahlego sa molaodi o tee wa bahlanka ba ba nnyane ba mong wa ka, ge o ikantšitše go wena godimo ga Mitsrayime bakeng sa dikoloi tša ntoa le balaodi ba dipere?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e02be63bd46f325cb0e75e84dce684fa6c864b3fa16a5e4649abcf77cd289312",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/18\/21-24.1792290943988.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואיך",
+      "gloss": "Gomme o ka bušetša bjang"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "bušetša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahlego sa molaodi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlego sa"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "o tee"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "wa bahlanka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ba mong wa ka"
+    },
+    {
+      "surface": "הקטנים",
+      "gloss": "ba ba nnyane"
+    },
+    {
+      "surface": "ותבטח",
+      "gloss": "gomme o ikantšitše"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "bakeng sa dikoloi tša ntoa"
+    },
+    {
+      "surface": "ולפרשים",
+      "gloss": "le balaodi ba dipere"
+    }
+  ],
+  "timestamp": "2026-10-18T02:35:43.990801683Z",
+  "model": "glm-5.3"
+}

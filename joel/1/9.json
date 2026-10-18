@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 1:9",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "e kgethilwe",
+      "rationale": "הכרת ke 'go kgaola'; minkha le mošomo wa go nuela ga di kgaolwe, di emilwe"
+    },
+    {
+      "kind": "elision",
+      "subject": "הכהנים",
+      "rationale": "artefact ya artsekoleng ga e fetišwe — Sepedi ga o na artsekele"
+    }
+  ],
+  "translation": "E kgethilwe minkha le mošomo wa go nuela go tšwa ntlung ya Yahwe; ba llela bakgole, ba šomofo ba Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d6805fefa645284de3b62507b0dfdff2192c84a50a2be0a3dbb687edf093f52c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/1\/9-12.1792296137604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכרת",
+      "gloss": "e kgethilwe"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "le mošomo wa go nuela"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "go tšwa ntlung"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אבלו",
+      "gloss": "ba llela"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "bakgole"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "ba šomofo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:02:17.605011250Z",
+  "model": "glm-5.3"
+}

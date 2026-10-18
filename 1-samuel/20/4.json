@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa gago",
+      "rationale": "נפשך — bophelo\/moya wa motho, go nyaka selo ka pelo"
+    },
+    {
+      "kind": "invitation",
+      "subject": "to David",
+      "rationale": "Yehonatane o moleta Dafida go bolela se a se nyakago"
+    }
+  ],
+  "translation": "Gomme Yehonatane a re go Dafida: Moya wa gago o bolela eng? Mme ke tla se dira go wena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6d66e6609d243c353465cc473237776ac9c59b0fd7b2b14f5079b45416bfd90e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/20\/1-4.1792288526228.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Yehonatane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "מה",
+      "gloss": "eng"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "o bolela"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya wa gago"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "ke tla se dira"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:55:26.230277850Z",
+  "model": "glm-5.3"
+}

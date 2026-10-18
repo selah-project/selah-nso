@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 6:6",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Tattenai le bagwera ba gagwe",
+      "rationale": "taelo ya kgoši e bolela ka boeleele go balaodi ba profense"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Noka",
+      "rationale": "נהרה ke Noka ya Eufrate; Seheberu ga se bolele leina la noka ka botlalo"
+    },
+    {
+      "kind": "elision",
+      "subject": "הוו",
+      "gloss—rationale": "keren ya 'go ba' e phetišitšwe ka 'ba ba lego'"
+    }
+  ],
+  "translation": "Bjale ka fao, Tattenai, molaodi wa go feta Noka, Shetare-Bozenai le balekane ba lona Aparsekai, ba ba lego go feta Noka — le kgonyege kgakala le moo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "db2a9506d0978a4d516292d211da5fb80738a9305179e358930e38c807773204",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/6\/5-8.1792302283882.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כען",
+      "gloss": "bjale ka fao"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "Tattenai"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "Noka"
+    },
+    {
+      "surface": "שתר",
+      "gloss": "Shetare-"
+    },
+    {
+      "surface": "בוזני",
+      "gloss": "Bozenai"
+    },
+    {
+      "surface": "וכנותהון",
+      "gloss": "le balekane ba lona"
+    },
+    {
+      "surface": "אפרסכיא",
+      "gloss": "Aparsekai"
+    },
+    {
+      "surface": "די",
+      "gloss": "ba ba lego"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "go feta"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "Noka"
+    },
+    {
+      "surface": "רחיקין",
+      "gloss": "le kgonyege kgakala"
+    },
+    {
+      "surface": "הוו",
+      "gloss": "—"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "תמה",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:44:43.883697835Z",
+  "model": "glm-5.3"
+}

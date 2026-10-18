@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 24:25",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "go rula kgwerano",
+      "rationale": "Seheberu se re 'go kgaola kgwerano' (כרת ברית) — kgwerano e rulwa ka go kgaola; Sepedi se šomiša 'go rula'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "go sona",
+      "rationale": "'לו' e ka boela e be 'go bona' — goa botšwa setšhaba se boletšwego pelong."
+    }
+  ],
+  "translation": "Gomme Yehoshua a rula kgwerano go setšhaba ka letšatši leo, gomme a bea ⟨go sona⟩ molao le kahlolo go Shekeme.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0ea6fac4e53442ab14b92e2bd76b615d1d1ef32e85e05d23b0a442b331fef423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/24\/25-28.1792287091383.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "a rula"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "go setšhaba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "gomme a bea"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go sona"
+    },
+    {
+      "surface": "חק",
+      "gloss": "molao"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "le kahlolo"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "go Shekeme"
+    }
+  ],
+  "timestamp": "2026-10-18T01:31:31.383815221Z",
+  "model": "glm-5.3"
+}

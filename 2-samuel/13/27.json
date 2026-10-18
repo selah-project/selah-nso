@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 13:27",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "kgoši",
+      "rationale": "Sehlogo sa וישלח se tlišwa ka bobotla; Seheberu se se sa se bolele"
+    },
+    {
+      "kind": "secret",
+      "subject": "letšatši la go ruiwa",
+      "rationale": "Sepetlele sa Abeshalome se agwa ka boikwei — sepodisi se sa bolelwa kae"
+    }
+  ],
+  "translation": "Gomme Abeshalome a dikanetša go yena; gomme ⟨kgoši⟩ a romela ⟨את⟩ le yena ⟨את⟩ Amonone, le ⟨את⟩ barwa ba kgoši ka moka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a1777aada9a877ef59f3562ee5e913a1d1863261ceeb29e646f5ba7cadae7026",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/13\/25-28.1792289063494.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפרץ",
+      "gloss": "a dikanetša"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abeshalome"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amonone"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amonone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "barwa ba kgoši ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ba kgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T02:04:23.495812730Z",
+  "model": "glm-5.3"
+}

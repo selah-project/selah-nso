@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 120,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "yo a filwego",
+      "rationale": "Kganetšo ya bafoleledi: sefela se re ke wena (lolome) se se fiwego goba ke o mongwe (Elohim) yo a bego go se fiša"
+    },
+    {
+      "kind": "you",
+      "subject": "lolome la bošoro",
+      "rationale": "Poko ye e lebella lolome la bošoro ka tlhamalalo"
+    }
+  ],
+  "translation": "Ke eng se se tla go filwego, gomme ke eng se se tla go oketšwago, wena lolome la bošoro?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b108509a34098b717f606829818a4d5ea29c52490a7b38e16d0cb090d829696a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/120\/1-4.1792298899566.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ke eng"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "se tla go filwego"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "gomme ke eng"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "se se tla go oketšwago"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "lolome"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "la bošoro"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:19.567632488Z",
+  "model": "glm-5.3"
+}

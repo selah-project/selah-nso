@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Elohim",
+      "rationale": "Poelelo ye ke popego ya go kopa go Yahwe\/Elohim ka kotologo ya lefase leo le senyegilego."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lebala la gago",
+      "rationale": "אף ka sebopego ke nko\/lebala; fa e bolela makatu, mmadi o tla bolela ka lebala le le ntšago mosi."
+    },
+    {
+      "kind": "elision",
+      "subject": "re",
+      "rationale": "Seheberu se se na sebopego sa re; ⟨re⟩ se okeditšwe ka Sepedi go bontšha bao ba kopišwago, go swana le mokgwa wa Sepedi."
+    }
+  ],
+  "translation": "Poelelo ya go ruta, ya Asafe. Ke ka eng, Elohim, o ganne ⟨re⟩ ka go felela? Lebala la gago le ntšha mosi godimo ga mohlape wa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "064e49d03dbdcc4cffb63d4566098b25fe5a5867a68e7e0fa3d7ad05241f9919",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/74\/1-4.1792298239347.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "poelelo ya go ruta"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ya Asafe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ke ka eng"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "o ganne"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka go felela"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "le ntšha mosi"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "lebala la gago"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "godimo ga dinku le dipudi"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "mohlape wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:19.348485720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "leina la ngwana",
+      "rationale": "קרא šמו — \"bitša leina la gagwe\"; mang a bolela a sa bontšhwe ka botlalo (Yahwe go hlantšha ga sephiri se sego sa 1:4)."
+    },
+    {
+      "kind": "elision",
+      "subject": "אהיה לכם",
+      "rationale": "Seheberu se re fela \"nka se be bakeng sa lona\" — KJV e oketša \"Modimo wa lona\"; Sepedi se dula ka go se bontšhe selo se se okeditšwego."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לא עמי",
+      "rationale": "Leina Lo-Ammi (\"Ga se setšhaba sa ka\") le bapala le אהיה — go se be — go tsweletša maaka a maina a Hosea 1."
+    }
+  ],
+  "translation": "Gomme a re: Bitša leina la gagwe Lo-Ammi, ka gobane lona ga le na setšhaba sa ka, gomme nna nka se be ⟨⟨Modimo⟩⟩ wa lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d0b80b7aeffca42215d533f24984fc8f564c28384dc661b562b9e97a36af51b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/1\/9-9.1792295847734.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "bitša"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (setšhaba sa ka)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nka se"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wa lona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:57:27.735171436Z",
+  "model": "glm-5.3"
+}

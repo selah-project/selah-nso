@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 116,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "o thutša sekoto",
+      "rationale": "הטה אזנו 'go thutša sekoto' — kanetšo ya Seheberu ya go theetša ka tlhokomelo; ka Sepedi e bolokwa ka go thutša."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ka mengwaga ya ka",
+      "rationale": "בימי ka bontši 'matsatsing a ka' ka konokono; 'mengwaga ya ka' e swantšha 'ka nako ye ka moka ya bophelo bja ka' (go swana le kjv 'as long as I live')."
+    }
+  ],
+  "translation": "Ka gobane o thutša sekoto sa gagwe go ya go nna, gomme ka mengwaga ya ka ke tla mo bitša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5897e4c1e51bf2c50d80e75a595ba47d56c93cfae3d2e2a5233a0143986693db",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/116\/1-4.1792298787763.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "o thutša"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sekoto sa gagwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go ya go nna"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "gomme ka mengwaga ya ka"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ke tla mo bitša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:27.764367917Z",
+  "model": "glm-5.3"
+}

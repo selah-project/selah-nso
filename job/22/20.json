@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 22:20",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "קימנו",
+      "rationale": "'Bao ba re tlalogago' (ba-ka) kgahlanong le 'bohwa bja rena' (KJV, JPS) — ditselana tša ditlhaka tše pedi"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אם לא",
+      "rationale": "'A ga go bjalo' — seheberu se šomiša potšišo ya 'a se ke' bjalo ka go tiisa, e sego potšišo ya nnete"
+    },
+    {
+      "kind": "hapax",
+      "subject": "קים",
+      "rationale": "Lentšu le le tšwa go 'go nama' — 'ba ba namago kgahlanong', le tšwelela ka bonyenyane mo Tanakheng"
+    }
+  ],
+  "translation": "A ga go bjalo — bao ba re tlalogago ba ile ba nyamela, gomme tše di sa tšwago go bona mollo o di jele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5604adf21904d7e7c69009cec48db614adb6fdd8e0cb30c73d57b097fca58d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/22\/17-20.1792300425105.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "A ga go bjalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a ga"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ba nyamela"
+    },
+    {
+      "surface": "קימנו",
+      "gloss": "bao ba re tlalogago"
+    },
+    {
+      "surface": "ויתרם",
+      "gloss": "tše di sa tšwago go bona"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "o di jele"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:13:45.106482064Z",
+  "model": "glm-5.3"
+}

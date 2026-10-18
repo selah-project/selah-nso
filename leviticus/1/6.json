@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sebego sa go fišwa",
+      "rationale": "'olah' e bolela 'seo se tlago godimo' — sefišo se se fihlelago godimo; mmetšo wa go fišwa o bolokwa."
+    },
+    {
+      "kind": "addition",
+      "subject": "letlalo",
+      "rationale": "'go kutla' ka Sepedi go nyaka 'letlako' — Seheberu se re 'o tloša seaparo sa sona' fela."
+    }
+  ],
+  "translation": "Gomme a kutla letlalo la ⟨את⟩ sebego sa go fišwa, gomme a e kgaola ⟨את⟩ yona go dikgaolo tša yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "7ab9af0c71b0302942b0f6a2cfe83901fe36afeeb8c96ce7d95b609a9e04c55f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/1\/5-8.1792283466004.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "gomme a kutla letlalo la"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebego sa go fišwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sebego sa go fišwa"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "gomme a e kgaola"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "go dikgaolo tša yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:31:06.005976719Z",
+  "model": "glm-5.3"
+}

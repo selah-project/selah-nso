@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu ga se na kopula; Sepedi e e nyaka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "phegelo",
+      "rationale": "מרפא bolela sehlodi\/mohlala wa go phiša — 'phegelo' ke kgonthe ya mmele."
+    }
+  ],
+  "translation": "Ka gobane ke bophelo ⟨ke⟩ go ba ba di hwetsago, gomme phegelo go nama ya gagwe ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b2539e7a0347d7f16fae38d48b1d93f538331f1377a1e8c55e0c515a02a0cdd7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/4\/21-24.1792299206102.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ke ⟨ke⟩"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "go ba ba di hwetsago"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "gomme go ... ka moka"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "nama ya gagwe"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "phegelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:53:26.102979338Z",
+  "model": "glm-5.3"
+}

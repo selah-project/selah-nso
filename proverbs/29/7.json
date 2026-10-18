@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "Negation ya Sepedi e nyaka 'ga a kholwe' — 'a' e okeditšwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kahlolo",
+      "rationale": "דין gape e ka ba 'taba ya kahlolo' — ditheko tše pedi di dumelelwa go D2"
+    }
+  ],
+  "translation": "Yo a kgethwago o tseba kahlolo ya ba humanegago; mmôšwa ga ⟨a⟩ kholwe tsebo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c644f8531f7bbd514f8bcfd93b0aaa606ef3edfad4bbfd71ecdbde04cafbe7dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/29\/5-8.1792299936703.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "o tseba"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a kgethwago"
+    },
+    {
+      "surface": "דין",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ba humanegago"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mmôšwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "a kholwe"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:36.704210802Z",
+  "model": "glm-5.3"
+}

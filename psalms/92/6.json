@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le kopula; Sepedi se e nyaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גדלו \/ עמקו",
+      "rationale": "Parallelishomo ya go swana: gadiša (go ba kgolo) le amoqe (go ba tebilego) — ditemana tše pedi tša go swana"
+    }
+  ],
+  "translation": "E sa le kgolo kae mošomo wa gago, Yahwe; mešupamanego ke dikakanyo tša gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7a01b7cac8a0993826577aef2028b6bac8e98634d302f26036a23c7ee9130e3c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/92\/5-8.1792298472218.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "e sa le kae"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "e sa le kgolo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mošomo wa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "mešupamanego"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "di a kitimela"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "dikakanyo tša gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:12.219354920Z",
+  "model": "glm-5.3"
+}

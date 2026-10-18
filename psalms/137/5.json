@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 137,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "letlakala le tloge",
+      "rationale": "Seheberu se re תשכח fela — 'o tlo gopola' goba 'o tlo lahlegelwa ke bokgoni'; mehlala ya kgale e oketša 'go bina' goba 'bokgoni'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשכחך \/ תשכח",
+      "rationale": "phetogo ya lebopišo: 'ke tlo gopola' \/ 'o tlo gopola' — mokgwa wa go boela morago ga lentšu le tee"
+    },
+    {
+      "kind": "substitution",
+      "subject": "letlakala la go ja",
+      "rationale": "ימין ke letlakala la go ja — mokgatši wa maatla"
+    }
+  ],
+  "translation": "Ge ke tlogetše gopola wena, Yerushalayime, letlakala la ka la go ja le tloge ⟨go šoma⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "25d1b7e231f2a191d3639ebda193d3e341c19ea442e0f03606e1ccc2d8c1cf26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/137\/5-8.1792299042282.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ke tlogetše gopola wena"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "le tloge"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "letlakala la ka la go ja"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:42.283589887Z",
+  "model": "glm-5.3"
+}

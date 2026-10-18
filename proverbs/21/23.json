@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefesh ke maphelo\/moya wa bophelo, e sego moyo wa ka ntle bjalo ka kgopolo ya morago."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר…שמר",
+      "rationale": "go boela ga lentšu la go boloka gabedi — sebopego sa sesupo se se senyegago ka phetolelong."
+    }
+  ],
+  "translation": "Yo a bolokago momo wa gagwe le leleme la gagwe, o boloka moya wa gagwe mathateng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fd65c157d470685326a28cb0a39faf5395728b49cec7e0b6409d8328ba072e86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/21\/21-24.1792299539784.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "yo a bolokago"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "momo wa gagwe"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "le leleme la gagwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "o boloka"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "mathateng"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:58:59.785762528Z",
+  "model": "glm-5.3"
+}

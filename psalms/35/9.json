@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelo",
+      "rationale": "נפש ke moya\/bophelo bja nama, e sego pelo ka tsela ya Sekriste"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תגיל\/תשיש",
+      "rationale": "ditlhaka tše pedi tša go nyakalla tše di latelanago — go boa ga lentšu ga go bonagale go Sepedi"
+    }
+  ],
+  "translation": "Gomme pelo ya ka e tla nyakalla go Yahwe, e tla nyakalla ⟨ka⟩ polokego ya gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "088f89f98256a3dcaf5591a239c92a161ee60ee0a7f64da7ce0697f7d344267d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/35\/9-12.1792297524781.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "gomme pelo ya ka"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "e tla nyakalla"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "e tla nyakalla"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "⟨ka⟩ polokego ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:24.782313382Z",
+  "model": "glm-5.3"
+}

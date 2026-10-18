@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "šita",
+      "rationale": "שטים — mokgwa wa šita, modumo wa Seheberu o bolokwa (acacia)"
+    }
+  ],
+  "translation": "Gomme a dira ⟨את⟩ diphao tša mokgwa wa šita, gomme a di khupetša tmongwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/38\/5-8.1792283385487.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gomme a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diphao"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "diphao"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "mokgwa"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "wa šita"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "gomme a di khupetša"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩+⟨di⟩",
+      "marks": "diphao"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "tmongwa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:29:45.488358952Z",
+  "model": "glm-5.3"
+}

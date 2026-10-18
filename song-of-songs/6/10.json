@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 6:10",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "ke mang yona",
+      "rationale": "Potsiso ye e bulelang e bitša mmadi gore a arabe; e boetši e tsamaea le 3:6 le 8:5"
+    },
+    {
+      "kind": "crux",
+      "subject": "כנדגלות",
+      "rationale": "'Bjalo ka tše di phadimago mefoko' kgathanong le 'bjalo ka dinaledi tše di emego ka mokgwa' (BSB); lentšu le ra go phadima lefoko, go bonala"
+    }
+  ],
+  "translation": "Ke mang yona, yo a shelelago ka ntle bjalo ka moso? E ntle bjalo ka kgwedi, e hlwekile bjalo ka letsatsi, go tšhabisa bjalo ka masole a mefoko?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6f38d403ae09845fc89e09fc897603b7a6828239b85cf63706400c3330e480dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/6\/9-12.1792300920633.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yona"
+    },
+    {
+      "surface": "הנשקפה",
+      "gloss": "yo a shelelago ka ntle"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "moso"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "e ntle"
+    },
+    {
+      "surface": "כלבנה",
+      "gloss": "bjalo ka kgwedi"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "e hlwekile"
+    },
+    {
+      "surface": "כחמה",
+      "gloss": "bjalo ka letsatsi"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "go tšhabisa"
+    },
+    {
+      "surface": "כנדגלות",
+      "gloss": "bjalo ka masole a mefoko"
+    }
+  ],
+  "timestamp": "2026-10-18T05:22:00.633803121Z",
+  "model": "glm-5.3"
+}

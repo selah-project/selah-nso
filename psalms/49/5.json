@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sephiring",
+      "rationale": "חידה ke taba ya sephiring, bothata bjo bo bofilwego — e sego fela 'paele'"
+    },
+    {
+      "kind": "mystery",
+      "subject": "חידה",
+      "rationale": "pesa ye e ipolela e le bothata bjo bo bofilwego, bjo bo bulelwago ka kinora"
+    }
+  ],
+  "translation": "Ke khotla tlhako ya ka go maele, ke bula sephiring sa ka ka kinora.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "63e10de462bb6e8e97396804c2f7b13371307327f9d91e9facfe5c4c8d3f26f4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/49\/5-8.1792297740862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "ke khotla"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "go maele"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "tlhako ya ka"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ke bula"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ka kinora"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "sephiring sa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:00.862533177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 12:3",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "וישלחו ויקראו לו",
+      "rationale": "'Ba romile, ba mo laletša' — modumo wa go romela mmušo wa go laletša motho, e sego go romela letho."
+    }
+  ],
+  "translation": "Ba ba romile, ba mo laletša; gomme Yarabeame le phuthego ya Yisraele ka moka ba tla, ba bolela le Rekhabeame, ba re:",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5e5d03b1531c119dd8d5f6136213bc6b58de308d064d2ab6f0932245c218c7bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/12\/1-4.1792290058079.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "ba ba romile"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "ba mo laletša"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tla"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarabeame"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le … ka moka"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "phuthego"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "ba bolela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "le"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rekhabeame"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    }
+  ],
+  "timestamp": "2026-10-18T02:20:58.080402938Z",
+  "model": "glm-5.3"
+}

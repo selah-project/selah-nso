@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke mofuta wa maphelo — botho, takatšo, maphelo a nama — e sego 'moya' ka botlalo; Sepedi ga se na lentšu le tee la yona."
+    },
+    {
+      "kind": "crux",
+      "subject": "מי אודך — ke mang ya go tlotlago",
+      "rationale": "Kganetšo ya ditirhamuso: batho ba mengwaga ye mengwe ba tla go tlotla, goba baahelani ba gago ba nako ya gagwe fela — kahlolo ye kgolo ya psalme 49."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תיטיב לך",
+      "rationale": "Ka Seheberu e bolela 'o dira botse bakeng sa moya wa gago' — go ipaša; ka Sepedi go iketla go bolokile modu wo."
+    }
+  ],
+  "translation": "Moya wa gagwe o tla ipuela mabotse ka bophelo bja gagwe; gomme ba tla go tlotla, ka gobane o iketla bakeng sa wena ⟨gago⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/49\/17-20.1792297793269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa gagwe"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "ka bophelo bja gagwe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "o tla ipuela mabotse"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "gomme ba tla go tlotla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "o iketla bakeng sa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "sa wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:53.270143401Z",
+  "model": "glm-5.3"
+}

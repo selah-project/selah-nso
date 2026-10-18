@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עטרת",
+      "rationale": "'atar — go apesa korone; ngwaga o apeswa botseba bjalo ka kgoši"
+    },
+    {
+      "kind": "substitution",
+      "subject": "דשן",
+      "rationale": "deshen — mafura a sehlabelo, sekaseka bontši; Sepedi mafura"
+    }
+  ],
+  "translation": "O kgethile ngwaga ka botseba bja gago; gomme ditsela tša gago di nouša mafura.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9b9ebbb87df1819ee5900992b9001697afc9aa7f454ddbe306bfb719cfddfd24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/65\/9-12.1792297962877.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "o kgethile"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "ka botseba bja gago"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "gomme ditsela tša gago"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "di nouša"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "mafura"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:42.878403772Z",
+  "model": "glm-5.3"
+}

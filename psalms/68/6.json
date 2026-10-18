@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨Ke⟩",
+      "rationale": "Seheberu ga se na kopula; Sepedi e e nyaka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ודין",
+      "rationale": "dine 'kahlolo' — 'moloki wa baswetši' ke mošomo wa molaodi."
+    }
+  ],
+  "translation": "⟨Ke⟩ raka ya bana ba senago batswadi, ⟨gomme⟩ moloki wa baswetši — Elohim nageng ⟨ya⟩ bokgethwa bja gage.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d0d34de8574f5ca09af12f3c917fe14629431bc70132e977351d89f717c99169",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/68\/5-8.1792298045104.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "raka"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "bana ba senago batswadi"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "moloki"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "baswetši"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "nageng ⟨ya⟩"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "bokgethwa bja gage"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:05.105640998Z",
+  "model": "glm-5.3"
+}

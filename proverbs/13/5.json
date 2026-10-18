@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o bowa mohono",
+      "rationale": "יבאיש ka moko o bolela 'go nwa mmono' — sebopego sa ho hlatswa se fetotšwe go 'go hlwaya ka mašwiro'"
+    },
+    {
+      "kind": "crux",
+      "subject": "יבאיש ויחפיר",
+      "rationale": "Ba fetoleli ba a fapana: 'o hlwaya ba bangwe' (causative) kgahlanong le 'o hlwaywa' — mo go hlwaywa go kgethilwe"
+    }
+  ],
+  "translation": "Lentšu la lešiši, yo a lokilego o le hloya; gomme mobe o bowa mohono gomme a swarwa ke mašwiro.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "681d23404d87e076aca5c7ec2700c89b2de65f149e5d9a23ca74e428611d6a9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/13\/5-8.1792299386263.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "la lešiši"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "o la hloya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a lokilego"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "gomme mobe"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "o bowa mohono"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "gomme a swarwa ke mašwiro"
+    }
+  ],
+  "timestamp": "2026-10-18T04:56:26.264395240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "boloi",
+      "rationale": "חמת ka mokgwa o mongwe ke 'bokwetši\/bosoasoa'; mo e bolela boloi bja noga."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שננו",
+      "rationale": "'Go nelela' — go nelela thipa ya lerumo le leleme ka bobedi; seswantšho se se lebanego ka Sepedi ka 'go neleditše'."
+    }
+  ],
+  "translation": "Ba neleditše maleme a bona bjalo ka noga, boloi bja noga ya mangala bo ka fase ga meono a bona. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "32e3063b81051368d8f9b67f6dc106f4a46ecb935a48160577bf6111a226253f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/140\/1-4.1792299043315.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "ba neleditše"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "maleme a bona"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "noga"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "boloi"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "noga ya mangala"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fase ga"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "meono a bona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:43.317191724Z",
+  "model": "glm-5.3"
+}

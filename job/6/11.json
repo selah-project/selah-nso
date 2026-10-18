@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 6:11",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelo ya ka",
+      "rationale": "נפשי ga se 'pelo' fela; ke moya wa bophelo, moya wa go hema — 'bophelo bja ka' le bone bo ka duma"
+    },
+    {
+      "kind": "you",
+      "subject": "Jobo",
+      "rationale": "Dipotšišo tše di bušwa ke Jobo ka boyena, go araba bafokodi ba gagwe"
+    }
+  ],
+  "translation": "Ke eng maatla a ka, gore ke be le tshepo? Gomme ke eng mafelelo a ka, gore keokane pelo ya ka?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "671760bb976709a9f9abe80a24b05c2ca760148014d1ec445f7cbefb10f33f06",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/6\/9-12.1792300092035.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "maatla a ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "ke be le tshepo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "gomme ke eng"
+    },
+    {
+      "surface": "קצי",
+      "gloss": "mafelelo a ka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אאריך",
+      "gloss": "keokane"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "pelo ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:08:12.036703830Z",
+  "model": "glm-5.3"
+}

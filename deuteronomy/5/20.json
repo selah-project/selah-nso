@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ענה",
+      "rationale": "'Go araba' (YLT) go lebanya fela; 'go nea bosupi bja mafele' (KJV) ke tlhaloso; Seheberu se re 'go araba kgahlanong le mošomong wa gago'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רע",
+      "rationale": "רע ke 'mošomong-mohloked' (mošomong wa kgauswi), e sego 'mošomong' fela; Sepedi se dirisa 'mohloked' go swara sebopego sa lentšu."
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraele",
+      "rationale": "Taelo ye e bolelwa go setšhaba sa Yisraele."
+    }
+  ],
+  "translation": "Gomme o se ke wa araba ka Mohlakaretši ⟨wa⟩ mohloked wa gago bosupi bja mafele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b05ceaf03aae089f1cb66b671b8a50398f424e07ec0b09de177525c82f965289",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/5\/17-20.1792285606003.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "wa araba"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ka mohloked wa gago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bosupi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "bja mafele"
+    }
+  ],
+  "timestamp": "2026-10-18T01:06:46.004325638Z",
+  "model": "glm-5.3"
+}

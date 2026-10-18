@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kgalabo ya ka",
+      "rationale": "כבוד bolela 'boima\/tšhabalalo' — e šomišwa mo bjalo ka selaodi sa go bina; KJV 'my glory', BSB 'my heart'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ידם",
+      "rationale": "דמם: 'go nnetefala' (go thothomela mahlatse) goba 'go fhela'; diphetošo di fapana"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨wa ka⟩",
+      "rationale": "Seheberu se na le sekopanyi se sengwe fela (ךָ) se kopanyago Yisraele le Elohim; Sepedi se nyaka kgatlhanopolelo"
+    }
+  ],
+  "translation": "Ela gore kgalabo ya ka e tle e opelle ⟨o⟩ gomme e se ke ya nnetefala, Yahwe Elohim ⟨wa ka⟩, go fihla nako yeo e sa felago ke tla go leboga.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1bb6b56875b296c3d88d4175d51e3bd256d0f31ba32a2b66edfbf9127f426eb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/30\/13-13.1792297418318.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ela gore"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "e tle e opelle ⟨o⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgalabo ya ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme e se ke ya"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "nnetefala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ⟨wa ka⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go fihla nako yeo e sa felago"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ke tla go leboga"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:38.318516640Z",
+  "model": "glm-5.3"
+}

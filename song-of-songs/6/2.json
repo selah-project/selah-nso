@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 6:2",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "go fula",
+      "rationale": "לרעות ka botego ke go fula\/diphologolo; baduti bangwe ba e bala bjalo ka 'go iphuma monyako' ka gobane mafoko a šomišwa ka mokgwa wa seswantšho."
+    },
+    {
+      "kind": "substitution",
+      "subject": "šošanim",
+      "rationale": "שושנים — dihlamunu; Sepedi ga se na lentšu le tlwaelegilego, ka ge o ngwalwa ka modumo."
+    }
+  ],
+  "translation": "Yo a ratego wa ka o theogile ka serapeng sa gagwe, go diporakwari tša dihlare, go fula ka direng le go kgeta šošanim.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "86deea1028d5d6cf7d803e3b0354d532e5706514d306058ad9f26c30b015fbb6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/6\/1-4.1792301001641.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "yo a ratego wa ka"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "o theogile"
+    },
+    {
+      "surface": "לגנו",
+      "gloss": "ka serapeng sa gagwe"
+    },
+    {
+      "surface": "לערוגות",
+      "gloss": "go diporakwari"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "tša dihlare tše tlhatlhago"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "go fula"
+    },
+    {
+      "surface": "בגנים",
+      "gloss": "ka direng"
+    },
+    {
+      "surface": "וללקט",
+      "gloss": "le go kgeta"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "šošanim"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:21.642109993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 33:1",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to Iyobo",
+      "rationale": "Elihu addresses Iyobo directly with imperatives."
+    },
+    {
+      "kind": "invitation",
+      "subject": "theetša",
+      "rationale": "Summons to hear — imperative hook opening the speech."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ke kopa",
+      "rationale": "נא is a particle of entreaty, not a full verb 'I beg'."
+    }
+  ],
+  "translation": "Eupša, ke kopa, Iyobo, theetša mantšu a ka, gomme go ⟨go⟩ lentšu ka moka la ka theetša ka tlhokomelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c95f0e869cbb0b60370b3167500d79a829f2ac3535c5bf511a253f5553f34934",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/33\/1-4.1792300650212.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "eupša"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "theetša"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Iyobo"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "mantšu a ka"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme ka moka"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lentšu la ka"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "theetša ka tlhokomelo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:17:30.212826621Z",
+  "model": "glm-5.3"
+}

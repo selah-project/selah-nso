@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba-eunuche",
+      "rationale": "סריסים ke ba-eunuche ba kgoši, gomme gantsi ba šoma bogosing; Sepedi ga se na lentšu la motheo, ka gona le amogetšwe"
+    },
+    {
+      "kind": "idiom",
+      "subject": "ka seatla sa",
+      "rationale": "ביד — 'ka seatla sa' ke mokgwa wa Seheberu wa go bolela ka mo goba sediriswa seo taelo e fetilwe ka sona"
+    },
+    {
+      "kind": "you",
+      "subject": "go baseli",
+      "rationale": "potšišo ya kgoši e rometšwe go baseli ba bohlale — apeletšo ya botseno bja kahlolo"
+    }
+  ],
+  "translation": "Go ya ka dathe, ke eng seo se swanetšego go dirwa le kgošikgadi Washti, ka gobane ga a ka a dira ⟨את⟩ taelo ya kgoši Akhashuveroshi ka seatla sa ba-eunuche?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "000c78ed98783adeb85c44567e944948094a25e0548c23ad87b4b98452ddd4fa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/1\/13-16.1792301599875.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "Go ya ka dathe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dirwa"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "le kgošikgadi"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Washti"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "a ka a dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgoši"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhashuveroshi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "ba-eunuche"
+    }
+  ],
+  "timestamp": "2026-10-18T05:33:19.876764069Z",
+  "model": "glm-5.3"
+}

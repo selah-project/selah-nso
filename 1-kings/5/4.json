@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 5:4",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a laola",
+      "rationale": "רדה go lebanya ke 'go nama ka maoto' \/ go fenya — go šoma fela go la boelda thwhagafatšo"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Sepedi e nyaka modiriši; Seheberu se na le הוא go kgathomotsha fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עבר ... עבר ... עבריו",
+      "rationale": "כי הוא רדה בעבר הנהר — 'mošola' o tšwele ga raro, sebopego se se phasantswego"
+    }
+  ],
+  "translation": "ka gobane ⟨o⟩ a laola lefaseng ka moka leo le lego mošoleng wa noka, go tšwa Tifsake go fihla Gaza, le dikgoši ka moka tša mošola woo wa noka; gomme kagiso e be e le ya gagwe go tšwa mafaseng a moka a mo dikologago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "53a5300943b37a034dac9ae92d281bfc4ab2f8fb0dd50e11fd3579b949c184b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/5\/1-4.1792289776489.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨o⟩"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "a laola"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mošoleng"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "wa noka"
+    },
+    {
+      "surface": "מתפסח",
+      "gloss": "go tšwa Tifsake"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "mošola"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "wa noka"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "gomme kagiso"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e be e le"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya gagwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "go tšwa ... ka moka"
+    },
+    {
+      "surface": "עבריו",
+      "gloss": "mafaseng a"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "a mo dikologago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:16:16.490793873Z",
+  "model": "glm-5.3"
+}

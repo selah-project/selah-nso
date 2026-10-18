@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 98,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ירננו",
+      "rationale": "Root רנן literally 'to creak\/emit a strident sound'; rendered 'di opela ka thabo' (sing for joy)."
+    },
+    {
+      "kind": "hapax-adjacent",
+      "subject": "מחא כף",
+      "rationale": "Striking hands together as exultation — rivers given human palms, personification kept literal."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יחד",
+      "rationale": "'Mmogo' carries the unit-sense of יחד: mountains singing as one body."
+    }
+  ],
+  "translation": "Dinoka di phadime diatla; mmogo dithaba di opela ka thabo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d0c70d0449de28f277a4e22571880ac3cd848c2108023311254a4152dd585472",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/98\/5-8.1792298537730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Dinoka"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "di phadime"
+    },
+    {
+      "surface": "כף",
+      "gloss": "diatla"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "di opela ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:17.730878816Z",
+  "model": "glm-5.3"
+}

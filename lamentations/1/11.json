@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 1:11",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke 'moya wa bophelo \/ pelo ya go nyaka' — e sego 'moya' ka moka; Sepedi ga se na lentšu le tee leo le swanago."
+    },
+    {
+      "kind": "you",
+      "subject": "thapelo go Yahwe",
+      "rationale": "BoFSWA bja thapelo: 'Lebelela, Yahwe, gomme o lebelele' — polelo go Yahwe ka tlhogo."
+    },
+    {
+      "kind": "crux",
+      "subject": "זוללה",
+      "rationale": "Lentšu le bohlokwa: 'ke tlwešitšwe' kgathanong le 'ke tlotšwe' — bothata bja mofetoledi."
+    }
+  ],
+  "translation": "Setšhaba sa yona ka moka se ahla, se nyaka bogobe; ba file dilo tša bona tše ntle go swana le dijo go bušetša moya. Lebelela, Yahwe, gomme o lebelele ka tlhokomelo, ka gobane ke fetogile ya tlwešegile.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "b06e9ec64673604ad70a1d7e07ef63215918f44796f7c02b3ddc823fa7e0a590",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/1\/9-12.1792301218534.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "setšhaba sa yona"
+    },
+    {
+      "surface": "נאנחים",
+      "gloss": "se ahla"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "se nyaka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba file"
+    },
+    {
+      "surface": "מחמודיהם",
+      "gloss": "dilo tša bona tše ntle"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "go swana le dijo"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "go bušetša"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "lebelela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והביטה",
+      "gloss": "gomme o lebelele ka tlhokomelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke fetogile"
+    },
+    {
+      "surface": "זוללה",
+      "gloss": "ya tlwešegile"
+    }
+  ],
+  "timestamp": "2026-10-18T05:26:58.535152695Z",
+  "model": "glm-5.3"
+}

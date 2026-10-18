@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 18:12",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e ka ba moya goba phefo; 'e tla go rwala' e ka ba moya wa motho goba phefo — Sepedi o swanela mantšu a mabedi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מאתך \/ את",
+      "rationale": "Preposition םאתך (go tloga go wena) le DO-marker את di bapana ka medumo — tšea ka mo gare ga lentšu le tee."
+    }
+  ],
+  "translation": "Gomme go tla direga, fa ke tlogele go wena ⟨את⟩, gomme ruakh ya Yahwe e tla go rwala moo ke sa tsebego; gomme ke tla tla go bolelela Ahab, gomme a se go hwetše, a mpole; gomme mohlanka wa gago o tšhaba ⟨את⟩ Yahwe go tloga bjaneng bja ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4b0c4c5dc21bfd004cf0ce2f3e00097a96ceade25a02410306408cde8f6a2423",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/18\/9-12.1792290199271.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "go tla direga"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke tlogele"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "go tloga go wena ⟨את⟩"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "gomme ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "ישאך",
+      "gloss": "e tla go rwala"
+    },
+    {
+      "surface": "על",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ke sa tseba"
+    },
+    {
+      "surface": "ובאתי",
+      "gloss": "gomme ke tla tla"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "go bolelela"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "ימצאך",
+      "gloss": "go hwetše"
+    },
+    {
+      "surface": "והרגני",
+      "gloss": "a mpole"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "gomme mohlanka wa gago"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "o tšhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מנערי",
+      "gloss": "go tloga bjaneng bja ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:23:19.272231774Z",
+  "model": "glm-5.3"
+}

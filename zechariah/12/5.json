@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 12:5",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dikgoši",
+      "rationale": "אלופי: 'dikgoši' (D4b, Genesi 36) kgahlanong le 'balaodi' goba 'bafeti' — lentšu le bolela dikgoši tša merafo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elohim wa bona",
+      "rationale": "Seheberu se na le bontši: Elohim — mongwalo wa bobedi o laelwa ka D1."
+    }
+  ],
+  "translation": "Gomme dikgoši tša Yuda di tla re ka dipelong tša tšona: maatla a ka ke ba dulago Yerushalayime, go Yahwe Tsebaote, Elohim wa bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9fc7e8b277b894d38155f3df1df5fa574214d5e163035269080d4f4705c3c727",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/12\/5-8.1792297060296.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "gomme di tla re"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "tša Yuda"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ka dipelong tša tšona"
+    },
+    {
+      "surface": "אמצה",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "a ka"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba dulago"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wa bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:17:40.296663469Z",
+  "model": "glm-5.3"
+}

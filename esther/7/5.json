@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מי הוא זה ואי זה הוא",
+      "rationale": " repetition of הוא זה — 'who is this, where is this' — doubled emphasis lost in Sepedi"
+    },
+    {
+      "kind": "you",
+      "subject": "to Esther",
+      "rationale": " the king directly questions Queen Esther"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מלאו לבו",
+      "rationale": " literally 'his heart filled him' — idiom for presumption; rendered 'pelo ya gagwo e mo tladitšego'"
+    }
+  ],
+  "translation": "Gomme kgoši Akhasuerosho a bolela, a re go Esetere kgosigadi: Ke mang yena, gomme ke kae yena, yo pelo ya gagwo e mo tladitšego go dira bjalo?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "4e58881efdbb408e4cbb684fbddf32dfc30cb28cddca718a788bd2de04804ccb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/7\/5-8.1792301760490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Akhasuerosho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "go Esetere"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kgosigadi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "gomme ke kae"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "e mo tladitšego"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:36:00.491280746Z",
+  "model": "glm-5.3"
+}

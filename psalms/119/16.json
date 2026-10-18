@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אשתעשע",
+      "rationale": "šaʿa — go itumela ka dilo tše di phelago ka sephego, go iphuma ka bosutu; 'go iphuma' ke gaufi-le-gaufi fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשתעשע",
+      "rationale": "bopele bja lentšu — šaʿ bja go boela morago bja Lentšu; go se lahlegile go Sepedi"
+    }
+  ],
+  "translation": "Ka melawana ya gago ke tla iphuma, ntle le go laelwa ga ke lebale lentšu la gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a103e228e52cbf7f75f96eca95234b9257a48fdd132605aaf0d044e4e94c0c61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/13-16.1792298790339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "ka melawana ya gago"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "ke tla iphuma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ke lebale"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lentšu la gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:30.340332768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "potšišo",
+      "rationale": "Potšišo ya go hlahisa tlhokomelo: 'Bao ke bomang?' — sehooko se bitago mmadi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עב \/ תעופינה",
+      "rationale": "Go swana ga modu pakeng tša 'maru' (עב) le 'go fofa' (עוף) — dithaka tša motswalle, tšeo di sa phologelago."
+    },
+    {
+      "kind": "crux",
+      "subject": "ארבתיהם",
+      "rationale": "'mafesetere' goba 'manyatokoro a dikhukhu' — ארובה e bolela sekgoba sa mapai a dikhukhu; KJV 'windowe', JPS 'cotes'."
+    }
+  ],
+  "translation": "Bao ke bomang, bao ba fofago bjalo ka maru, le bjalo ka dikhukhu go mafesetere a tšona?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "00cb4385c2fef0c074be0944cca7dba7054fe21fb565244ba2bf8776676a51d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/60\/5-8.1792292503946.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke bomang"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "bao"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "bjalo ka maru"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "ba fofa"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "le bjalo ka dikhukhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "mafesetere a tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:01:43.947458630Z",
+  "model": "glm-5.3"
+}

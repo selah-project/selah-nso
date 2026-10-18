@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "selo sa mmino, se fetotšwe ka modumo wa lona fela — Sela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "עולמים",
+      "rationale": "bontši bja עולם (pl.) bo ra 'nakong tša go sa fela'; Sepedi ga se na bontši bjo bo swanago"
+    }
+  ],
+  "translation": "Ke tla fala ka tenteng ya gago nakong yeo e sa felago, ke tla iphema mošufing wa maphego a gago. Sela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/61\/5-8.1792298018542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "ke tla fala"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ka tenteng ya gago"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "nakong yeo e sa felago"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ke tla iphema"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "mošufing"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "wa maphego a gago"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:38.543254332Z",
+  "model": "glm-5.3"
+}

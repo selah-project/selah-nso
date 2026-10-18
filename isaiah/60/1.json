@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Jerusalem",
+      "rationale": "Feminine singular imperatives addressed to Zion\/Jerusalem, absent from the Hebrew text itself."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אורי\/אורך",
+      "rationale": "Verb 'shine!' and noun 'your light' share one root אור; Sepedi phadima\/lesedi loses the echo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tlhageletše",
+      "rationale": "זרח is the sun's rising (shooting forth beams), rendered with the Sepedi verb of the sun dawning."
+    }
+  ],
+  "translation": "Tšoga, phadima, gobane lesedi la gago le fihlile, gomme botumo bja Yahwe bo tlhageletše godimo ga gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "91bf5f6dbb3a6bec6b81062e753b9d77763f8fdf85e70d112d8b24a4d6dee0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/60\/1-4.1792292555346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "Tšoga"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "phadima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "le fihlile"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "lesedi la gago"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "gomme botumo bja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "godimo ga gago"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "bo tlhageletše"
+    }
+  ],
+  "timestamp": "2026-10-18T03:02:35.346614502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "thipa",
+      "rationale": "תער ke thipa ya go ntšha mafofa; 'thipa' e ya ka go e hlalosa ntle le setšo sa go ntšha mafofa"
+    },
+    {
+      "kind": "you",
+      "subject": "go Doege",
+      "rationale": "Pele go latela tlhwekiso ya v3 — lentšu la gagwana le bolelwa go Doege"
+    }
+  ],
+  "translation": "Ditlolo o di hlahlama ka lentšu la gago, bjalo ka thipa e betšwago e ntle, wena mošomi wa bofošodi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f53f127600fa1f91334ca755f7b424bccba594c7ab4464e288652a14083aeb69",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/52\/1-4.1792297886602.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "Ditlolo"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "o di hlahlama"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ka lentšu la gago"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "bjalo ka thipa"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "e betšwago e ntle"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "mošomi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "wa bofošodi"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:26.602971150Z",
+  "model": "glm-5.3"
+}

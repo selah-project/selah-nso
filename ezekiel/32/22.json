@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 32:22",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ashure",
+      "rationale": "Ashure (Assyria) e bitšwa ka setšo sa lefatshe la bafu — 'go gona' e šupa Sheole ya setshwa."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חללים ... בחרב",
+      "rationale": "Go boela ga mantšu 'ba tlhabišwego, ba welelago ke tšhoša' ka dikgao tše latelanang (22–24) — sebopego sa poesie se se latelago."
+    }
+  ],
+  "translation": "Go gona Ashure le phuthego ya yena ka moka; mabitla a wona a dikologile ka mo go yena; ka moka ke ba tlhabišwego, ba welelago ke tšhoša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "371b18a9c5bc0978f1150d1f8630165c74c1f0072ece071cd9852c9065b8f3f1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/32\/21-24.1792295388917.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Go gona"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ... ka moka"
+    },
+    {
+      "surface": "קהלה",
+      "gloss": "phuthego ya yena"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "a dikologile"
+    },
+    {
+      "surface": "קברתיו",
+      "gloss": "mabitla a wona"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ba tlhabišwego"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ba welelago"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ke tšhoša"
+    }
+  ],
+  "timestamp": "2026-10-18T03:49:48.919312298Z",
+  "model": "glm-5.3"
+}

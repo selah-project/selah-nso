@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יפרצו",
+      "rationale": "Bao ba gadimilego: 'ba ka se atologe' (bontši bja bana) kgahlano le 'ba ka se fetlhege' — go fetoga ga motheo wa šumo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bonyatsi",
+      "rationale": "זנה e šomišwa ka moaparo go bolela boitshwaro bja badudišani le medimo ya ditšhaba, e sego bonyatsi bja mmele fela."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ba sa hlokomela",
+      "rationale": "לשמר ka boomo ke ditemana — 'go hlokomela ⟨mo⟩'; ngwalelo e dira gore go bonagale gore ba tlogetše go hlokomela."
+    }
+  ],
+  "translation": "Gomme ba tla ja gomme ba ka se gotše; ba dirile bonyatsi gomme ba ka se atologe, ka gobane ba tlogetše ⟨את⟩ Yahwe, ba sa hlokomela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "61fd4fa7e45da5a249ce1a742f6a4b5f09e252b4f90ba37b927373d011f5b48a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/4\/9-12.1792295880642.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "gomme ba tla ja"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba ka se"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "gotše"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "ba dirile bonyatsi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba ka se"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "atologe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "ba tlogetše"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "go hlokomela"
+    }
+  ],
+  "timestamp": "2026-10-18T03:58:00.643393134Z",
+  "model": "glm-5.3"
+}

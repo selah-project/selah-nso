@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go yena",
+      "rationale": "ועליו e hlalosa go sekgofatša go motho yo a ganwago"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויראו\/וייראו",
+      "rationale": "go bona le go tšhoga di a swarana ka modumo wa Seheberu — sepheo se se latelago se fokotšegile Sepedi"
+    }
+  ],
+  "translation": "Ba lokilego ba tla bona, ba tla tšhoga, ba tla sekgofatša go yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "666400d223fe6cf286c73de32d4fbe9fba816680b00151162d82d6ed1e0aac97",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/52\/5-8.1792297892002.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ba tla bona"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokilego"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ba tla tšhoga"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ba tla sekgofatša"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:32.003370937Z",
+  "model": "glm-5.3"
+}

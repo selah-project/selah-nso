@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 25:8",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ba laola dikgoro tša mašome",
+      "rationale": "הפיל גורלות idiom: go latlha masole a mo go swanetšego — dikgoro tša mašome"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mo go lekanego",
+      "rationale": "משמרת...לעמת — tirelo e kgahlanong le tirelo; 'mo go lekanego' ka tlasana le tlasana"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כקטן כגדול \/ מבין עם תלמיד",
+      "rationale": "meambo ya dikgakanetšo: nyenyane\/bogolo, mo utwisise\/moithuti — go lekalekana ka go latlha masole"
+    }
+  ],
+  "translation": "Gomme ba laola dikgoro tša mašome, mo go lekanego, bjalo ka mo nyenyane bjalo ka bogolo, yo a utwisisego le moithuti.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a86308fc40aa8628645eda1de031fae1ac2ab8ecc7876c9fbd5117bb1ae0d20b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/25\/5-8.1792303406243.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "gomme ba laola dikgoro"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "tša mašome"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "mo go lekanego"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "mo go lekanego le"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "bjalo ka mo nyenyane"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "bjalo ka bogolo"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "yo a utwisisego"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "תלמיד",
+      "gloss": "moithuti"
+    }
+  ],
+  "timestamp": "2026-10-18T06:03:26.244507673Z",
+  "model": "glm-5.3"
+}

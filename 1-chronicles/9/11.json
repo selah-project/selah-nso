@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 9:11",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mokgwa wa meloko",
+      "rationale": "Mokgwa wa meloko e mehlano o balega go fihla go Azaraja"
+    },
+    {
+      "kind": "substitution",
+      "subject": "molaodi",
+      "rationale": "נגיד ke yo a lego pele — molaodi goba moetapele, e sego moperisita yo mogolo ka sephetho"
+    }
+  ],
+  "translation": "Gomme Azaraja, morwa wa Khilkiya, morwa wa Meshulame, morwa wa Tsadoke, morwa wa Merayote, morwa wa Akhitube, molaodi wa ntlo ya Elohim.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c00825f8d877eb3a4d44fb529c1c356071c3d7b15fba802f1cd7d35a9ce02bbb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/9\/9-12.1792303066758.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Gomme Azaraja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Khilkiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Meshulame"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadoke"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayote"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa wa"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Akhitube"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "molaodi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wa ntlo"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ya Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T05:57:46.760406309Z",
+  "model": "glm-5.3"
+}

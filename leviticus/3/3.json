@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sefišwa",
+      "rationale": "אשה ke sehlabelo sa go fišwa ka mollong — mmolo wa motho"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sephudugo",
+      "rationale": "קרב ke sephudungo — dikarolo tša ka gare"
+    }
+  ],
+  "translation": "Gomme o fiše go tšwa sehlabelong sa shelamime sefišwa sa Yahwe: ⟨את⟩ mafura a kwago sephudugo, le ⟨את⟩ mafura ka moka ao a lego godimo ga sephudugo;",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3bba28306a52eec2db1ebbbd3645931648e80204eacb9d8f139da4f597db29b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/3\/1-4.1792283536681.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "Gomme o fiše"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "go tšwa sehlabelong"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "sa shelamime"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "sefišwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sa Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "a kwago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sephudugo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sephudugo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "על",
+      "gloss": "a lego godimo ga"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "sephudugo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:32:16.683167790Z",
+  "model": "glm-5.3"
+}

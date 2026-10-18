@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "יורה",
+      "rationale": "Seheberu se re 'go nwela bjalo ka pula \/ go lahla' — Sepedi se ra 'go ruta', seswantšho sa morutwi se laetšwe ke tsela ya yona"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גמולי\/עתיקי",
+      "rationale": "Mantšu a mabedi a šumišwa ka go lekana bakeng sa 'ba ntšhitšwego' — go se nwe ga lenyalo la go nwa mashi, se se laetša bana ba manyenyane"
+    }
+  ],
+  "translation": "⟨את⟩ mang a ka mo ruta tsebo, gomme ⟨את⟩ mang a ka mo tlhalošetša seo a se kwago? Ba ba ntšhitšwego go lebala la mashi, ba ba tlošitšwego go masenwelo!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a1e58da1d627cba7d7308cf88327d072fa531b1a05a0d6d50c9d2e528f7cdaa9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/28\/9-12.1792291737655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "mo ruta"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "mang"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "mo tlhalošetša"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "seo a se kwago"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "ba ba ntšhitšwego"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "go lebala la mashi"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "ba ba tlošitšwego"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "go masenwelo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:48:57.655644679Z",
+  "model": "glm-5.3"
+}

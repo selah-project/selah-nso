@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 4:29",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go fišwa",
+      "rationale": "העלה ke sebego sa go fišwa ka botlalo — sefišwa; mabapi le aletare ya sone"
+    },
+    {
+      "kind": "elision",
+      "subject": "הָעֹלָה",
+      "rationale": "artikole ya Seheberu ga e ngwalwe, ka gobane Sepedi ga se na article"
+    }
+  ],
+  "translation": "A be a beha ⟨את⟩ letsogo la gagwe hodimo ga hloko ya sehlabelo sa sebe, gomme a hlaba ⟨את⟩ sehlabelo sa sebe lefelong la go fišwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1f05f5a6c05331690d58bdfacebbe2c0f90bbf59622d893c37155537fa32ebd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/4\/29-32.1792283654960.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "a be a beha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letsogo la gagwe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letsogo la gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "hodimo ga"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hloko"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "ya sehlabelo sa sebe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "gomme a hlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa sebe"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "sehlabelo sa sebe"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "lefelong la"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "go fišwa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:34:14.961462673Z",
+  "model": "glm-5.3"
+}

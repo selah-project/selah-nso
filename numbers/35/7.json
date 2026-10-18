@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "48 = 6 + 42",
+      "rationale": "Palo e kopantšwego: tshela tša bošabelo le masome a mane le pedi = masome a mane le seswai."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na kopula pele ga אתהן; Sepedi se e nyaka."
+    }
+  ],
+  "translation": "Ditoropo ka moka tše le di fago ba-Lewi: dikae tše masome a mane le seswai — ⟨ke⟩ tšona ⟨את⟩ le ⟨את⟩ naga ya mabapi ya tšona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ca2676a78566c18bac3bd56dd920fbae5e8651834e283676d044088c12c380c0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/35\/5-8.1792285510335.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ditoropo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "le di fa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ba-Lewi"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "masome a mane"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "le seswai"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "dikae"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "ditoropo tšeo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "naga ya mabapi ya tšona"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "naga ya mabapi ya tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:05:10.336717727Z",
+  "model": "glm-5.3"
+}

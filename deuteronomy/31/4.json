@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikgoši ta Emorite",
+      "rationale": "מלכי האמרי ke construct — 'dikgoši tša Emorite' — š e a nyakega, e sego 'kgosi'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ta",
+      "rationale": "Sepedi e nyaka kopanyi go gokaganya 'dikgoši' le 'Emorite'; Seheberu se e dira ka construct"
+    }
+  ],
+  "translation": "Gomme Yahwe o tla dira go bona bjalo ka ge a dirile go Sihone le go Oge, dikgoši tša Emorite, le go lefase la bona, ao a di fedisitšego ⟨את⟩ bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "d5d5022c61f18402249d64e9e48d3e7574a31eb8ca521880d764417e7ce7ef17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/31\/4-4.1792304740728.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "gomme o tla dira"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dirile"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "go Sihone"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "le go Oge"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ta Emorite"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "le go lefase la bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "a fedisitšego"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:25:40.728770871Z",
+  "model": "glm-5.3"
+}

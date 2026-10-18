@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "שמעו",
+      "rationale": "Plural imperative 'Hear' opens the address and summons the hearer."
+    },
+    {
+      "kind": "addition",
+      "subject": "batho ba",
+      "rationale": "Sepedi needs the connector 'batho ba' for 'men of Judah'; Hebrew bound construct אישׁ יהודה has none."
+    }
+  ],
+  "translation": "Theetšeng ⟨את⟩ mantšu a kgwerano ye, gomme o bolele batho ba Yuda le baagi ba Yerushalayime:",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4e32f8bd0ea42e0ea90de0012431447227c898775ba84b1222e022390b23b397",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/11\/1-4.1792293043635.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Theetšeng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mantšu a kgwerano ye"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "a kgwerano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ye"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "gomme o bolele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "batho ba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "batho"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le baagi ba"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "baagi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T03:10:43.636337139Z",
+  "model": "glm-5.3"
+}

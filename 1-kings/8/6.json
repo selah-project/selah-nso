@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 8:6",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bokgethwa bja bokgethwa",
+      "rationale": "Hebrew construct chain קדש הקדשים is 'set-apart of set-aparts' — holy-of-holies kept as bound construct"
+    },
+    {
+      "kind": "addition",
+      "subject": "bja",
+      "rationale": "Sepedi construct requires a genitive linker absent in the Hebrew construct chain"
+    }
+  ],
+  "translation": "Gomme baperisita ba tsenya ⟨את⟩ araka ya kgwerano ya Yahwe go lefelo la yona, go Debire ya ntlo, go bokgethwa bja bokgethwa, go ka fasana ga maphego a makerube.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5debe3e4ed32217bf843fe82ab49ce537f7e98583486509e81228d12e603efb3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/8\/5-8.1792289884655.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "gomme ba tsenya"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "baperisita"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "araka ya kgwerano ya Yahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "araka"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ya kgwerano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "lefelo la yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Debire"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ya ntlo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "bja bokgethwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka fasana ga"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "maphego"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "a makerube"
+    }
+  ],
+  "timestamp": "2026-10-18T02:18:04.656836415Z",
+  "model": "glm-5.3"
+}

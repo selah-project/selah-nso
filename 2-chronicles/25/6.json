@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "ditálente tše lekgolo",
+      "rationale": "Kelo ya tšhelete: 100 000 banna ka 100 ditálente tša silibera."
+    },
+    {
+      "kind": "addition",
+      "subject": "banna",
+      "rationale": "Sepedi e oketša 'banna'; Seheberu se bolela fela 'גבור חיל'."
+    }
+  ],
+  "translation": "Gomme a hira go tšwa go Yisraele dikete tše lekgolo tša banna ba bagale ba maatla, ka ditálente tše lekgolo tša silibera.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5681a1be4c246aa526f9d1c2fd7594b1bf1623433f96e5a00bbd222a22b251bb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/25\/5-8.1792304150916.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "gomme a hira"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "go tšwa go Yisraele"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "a dikete"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ba bagale"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ba maatla"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "ka tše lekgolo"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "a ditálente"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "tša silibera"
+    }
+  ],
+  "timestamp": "2026-10-18T06:15:50.917545186Z",
+  "model": "glm-5.3"
+}

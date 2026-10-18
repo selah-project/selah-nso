@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba itsebiša le",
+      "rationale": "ויתערבו semologo e re 'ba tsekametše, ba aparetše' — go tšwa go itshwaraganywa, bjalo ka go kgoma thapo"
+    },
+    {
+      "kind": "addition",
+      "subject": "le",
+      "rationale": "Sepedi e nyaka 'le' bakeng sa kgaoganyo ya ערב ba-; Seheberu se e hlalosa ka botebo fela"
+    }
+  ],
+  "translation": "Gomme ba itsebiša le ditšhaba, gomme ba ithuta mošomo wa tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bc1945d688b20fc5f89cfc6c0c2511330e5a2c83611c2f56f83df6d2cd8e68de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/33-36.1792298641457.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "gomme ba itsebiša le"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "gomme ba ithuta"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "mošomo wa tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:01.457913054Z",
+  "model": "glm-5.3"
+}

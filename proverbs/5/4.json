@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lerotho",
+      "rationale": "לענה wormwood, a specific bitter plant; lerotho is Sepedi's bitter weed — nearest local plant"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "פיות",
+      "rationale": "dual 'two mouths' of a sword — kept literally as dilomo tše pedi; most versions say 'two-edged'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ואחריתה",
+      "rationale": "'her end' vs 'its end' (of the seduction) — Hebrew suffix is feminine singular, could be either"
+    }
+  ],
+  "translation": "Gomme mafelelo a yena a le bogale bjalo ka lerotho, e tlhwa bjalo ka tšhoša ya dilomo tše pedi.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b1e6ea5b569940579bb87cb85b03bae997f4e737367cd044479011bfb1390459",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/5\/1-4.1792299252926.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "gomme mafelelo a yena"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "a le bogale"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "bjalo ka lerotho"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "e tlhwa"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "bjalo ka tšhoša"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "ya dilomo tše pedi"
+    }
+  ],
+  "timestamp": "2026-10-18T04:54:12.927985085Z",
+  "model": "glm-5.3"
+}

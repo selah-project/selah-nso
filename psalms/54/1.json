@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למנצח",
+      "rationale": "lemma e bolela 'go kganya ka lefase, go ba le botumo' — 'molaodi' ke sebopego sa mošomo, sefokwe se se botse se ka se theeletšwe"
+    }
+  ],
+  "translation": "Go ya go molaodi, ka dinka tša mmino, poelešo ya Dafida.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "221244fa5816e7db6ed61e4d63409e2faad2b6c6e86cf7c783b5b3d23d3319f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/54\/1-4.1792297864099.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go ya go molaodi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ka dinka tša mmino"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "poelešo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:04.100025957Z",
+  "model": "glm-5.3"
+}

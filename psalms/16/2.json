@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se sa na le kopula; Sepedi se e nyaka."
+    },
+    {
+      "kind": "crux",
+      "subject": "בל עליך",
+      "rationale": "'Ga sepe ka godimo ga wena' goba 'ga sepe ntle le wena' — ditirhiso tše pedi tša על di a ganetšana."
+    }
+  ],
+  "translation": "Ke ile ka re go Yahwe: Adonai, wena ⟨ke⟩; botle bja ka ga bo na sepe ntle le go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dac7418744feaab5a3e0868637f42acc9b8efebf12029a003f62e88da584ce76",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/16\/1-4.1792297285986.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ke ile ka re"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "botle bja ka"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga bo na sepe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ntle le go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:25.987586301Z",
+  "model": "glm-5.3"
+}

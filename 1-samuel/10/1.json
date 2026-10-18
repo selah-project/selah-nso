@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוא כי",
+      "rationale": "Potšišo ya Seheberu ya go tiša (\"a ga se bjalo? ka gobane...\") e ka se fetolelwe ka mo go lokilego; mantšu a mabedi a dira potšišo e tee."
+    },
+    {
+      "kind": "you",
+      "subject": "Saulo",
+      "rationale": "Samuele o bolela go Saulo ka nama — go tlodišwa ga gagwe go boletšwe ka nama."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לנגיד",
+      "rationale": "לנגיד ke \"yo a pemiletšego ka pele\" — moetapele; ga se kgoši ka botlalo."
+    }
+  ],
+  "translation": "Gomme Samuele a nka ⟨את⟩ sekipa sa mafura, gomme a se thela godimo ga hlogo ya gagwe, gomme a mo bosa, gomme a re: A ga se bjalo? Ka gobane Yahwe o go tlodile go ba moetapele godimo ga boswa bja yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "664bb81c04a5a4d4a0f452db9b626464bf5577547fb7e52cabd91925e8063c9b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/10\/1-4.1792288197033.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a nka"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sekipa sa mafura"
+    },
+    {
+      "surface": "פך",
+      "gloss": "sekipa"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "sa mafura"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "a se thela"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hlogo ya gagwe"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "a mo bosa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a ga se bjalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "o go tlodile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "boswa bja yena"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "go ba moetapele"
+    }
+  ],
+  "timestamp": "2026-10-18T01:49:57.034318997Z",
+  "model": "glm-5.3"
+}

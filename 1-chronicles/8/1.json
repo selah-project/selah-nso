@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa gagwe",
+      "rationale": "Sepedi e nyaka sehlakani seo Seheberu se se tlolego go se hlatha"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mošušweti wa pele · wa bobedi · wa boraro",
+      "rationale": "go bala go tswalano ga bana bjalo ka tatelano ya mathomo, bobedi, boraro"
+    }
+  ],
+  "translation": "Gomme Benjamine o beletše ⟨את⟩ Bela, mošušweti wa gagwe wa pele, Ashbele wa bobedi, le Achrakh wa boraro.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "0f1e06e25412f021c74b48f1291d84477a5280bc83062d985c9da25bce5c2863",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/8\/1-4.1792303028852.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "Gomme Benjamine"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "o beletše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "mošušweti wa gagwe wa pele"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ashbele"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "le Achrakh"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wa boraro"
+    }
+  ],
+  "timestamp": "2026-10-18T05:57:08.853447157Z",
+  "model": "glm-5.3"
+}

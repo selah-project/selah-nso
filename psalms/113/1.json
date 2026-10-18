@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "dumelang",
+      "rationale": "Go thoma ka go laela ga thlargo — ditaogo tše tharo tša 'dumelang' di laela bašomi ba Yahwe."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הללו ×3",
+      "rationale": "Poelelo ya lefoko la go duma ka nako tše tharo, sebopego sa pesa ya go duma se sa fetolwe."
+    }
+  ],
+  "translation": "Dumelang Yah, dumelang, bakeng baa le bašomi ba Yahwe, dumelang ⟨את⟩ leina la Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/113\/1-4.1792298694001.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "dumelang"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumelang"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bašomi baa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumelang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:54.002476081Z",
+  "model": "glm-5.3"
+}

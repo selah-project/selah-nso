@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nahum 1:5",
+  "book": "nahum",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lefase le nago le batho",
+      "rationale": "תבל ke lefase le le nago le batho, lentšu le fapaneng le הארץ"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותשא",
+      "rationale": "KJV 'e fišwa' kgathanong le ASV\/JPS 'e tsegoditšwa' — nasa ke 'go godiša'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "רעשו \/ התמגגו",
+      "rationale": "Go thothomela le go nyamela ga dithaba — mmelemele wa go fetoga ga lefase"
+    }
+  ],
+  "translation": "Dithaba di thothomela go tšwa go yena, mme dithaba tše nnyane di nyamela; mme lefase le tsegoditšwe ⟨ka⟩ pele ga yena, le lefase le nago le batho, le ⟨ba⟩ ba dulago go lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2753e24e13d4cfac7b4006ad05314ad699fbf76baec817c473e4a5a738a79613",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nahum\/1\/5-8.1792296649314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "רעשו",
+      "gloss": "di thothomela"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tšwa go yena"
+    },
+    {
+      "surface": "והגבעות",
+      "gloss": "mme dithaba tše nnyane"
+    },
+    {
+      "surface": "התמגגו",
+      "gloss": "di nyamela"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "mme … le tsegoditšwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "pele ga yena"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "le lefase le nago le batho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ka moka"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba ba dulago"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:10:49.314877414Z",
+  "model": "glm-5.3"
+}

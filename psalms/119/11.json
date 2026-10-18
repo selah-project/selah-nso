@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "secret",
+      "subject": "go hlwa",
+      "rationale": "צפן e bolela go uta ka boikaelego — lentšu le utotšwe pelong bjalo ka sephiri."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sebe",
+      "rationale": "חטא e šišinya 'go fopholetša sepheo'; 'dira sebe' ke tumedišo ya tlwaelo."
+    }
+  ],
+  "translation": "Pelong ya ka ke kwaditše ⟨את⟩ lentšu la gago, gore nke ke se ke wa dira sebe go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/9-12.1792298805333.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "pelong ya ka"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ke kwaditše"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "lentšu la gago"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nke ke se ke wa"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "dira sebe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:45.334064932Z",
+  "model": "glm-5.3"
+}

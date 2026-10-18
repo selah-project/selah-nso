@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "למשכב",
+      "rationale": "Bokao bo tlwaelegilego ke 'go ela mmaleng' — go wa mo tšhololong; 'go tšholola' e tšere sebopego sa go sa sepele ga goša."
+    },
+    {
+      "kind": "elision",
+      "subject": "אגרף",
+      "rationale": "'lenyatšo' — seatla se phaletše; Seheberu se bolela 'seatla se kwaleletšego'."
+    }
+  ],
+  "translation": "Gomme ge banna ba hlola, motho a tlaba ⟨את⟩ mošomišani wa gagwe ka leswika goba ka lenyatšo, a sa hwe, a wa go tšholola,\n18",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d5352c7f5f844fac632059f2264444e8979e24fa55031a1f48b238c59e18606d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/21\/17-20.1792282933425.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "ba hlola"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "a tlaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mošomišani wa gagwe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mošomišani wa gagwe"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ka leswika"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "ka lenyatšo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "a sa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hwe"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "a wa"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "go tšholola"
+    }
+  ],
+  "timestamp": "2026-10-18T00:22:13.426202409Z",
+  "model": "glm-5.3"
+}

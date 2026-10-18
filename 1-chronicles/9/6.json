@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mabodre",
+      "rationale": "'ba ka bona' go šupiša bana-ba-mošemane, Seheberu se re ואחיהם fela."
+    },
+    {
+      "kind": "measurement",
+      "subject": "690",
+      "rationale": "Palo ya bahlanka ba lelapa la Zerakh."
+    }
+  ],
+  "translation": "Gomme go tšwa go barwa ba Zerakh: Jeuela, le ba ka bona ba mabodre, tše makgolo a tshela le masomesenyane.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "56f9dd9c07bd323f8f336fe866d353d3ea707eaadc17072000eb0c20ab7e6dc4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/9\/5-8.1792303067763.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Zerakh"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Jeuela"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "le ba ka bona ba mabodre"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tshela (makgolo)"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "le masomesenyane"
+    }
+  ],
+  "timestamp": "2026-10-18T05:57:47.764602453Z",
+  "model": "glm-5.3"
+}

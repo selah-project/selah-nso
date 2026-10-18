@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "boledisani",
+      "rationale": "שיחו bolela go nahana le go bolela ka lentšu — 'go boledisana' e tšere karolo ya go bolela fela."
+    },
+    {
+      "kind": "invitation",
+      "subject": "verse 9",
+      "rationale": "Mašaledi a boela-bolelo go setšhaba: opelang, binaleng, boledisani."
+    }
+  ],
+  "translation": "Opelang go yena, binaleng go yena, boledisani ka dilo tša makgethwa tša gagwe ka moka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "81ddc519dd746b5909b234c39b3cfe716555d41f37cabdbcd35e601fbed67f8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/16\/9-12.1792303181150.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Opelang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "binaleng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "boledisani"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "dilo tša makgethwa tša gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:59:41.150698471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אצק...אצק",
+      "rationale": "Go dupa ga lentšu 'go sephela' ga gabedi go hlaganisa meetse le ruakh — meetse a sepha godimo ga yo a nyorago, ruakh godimo ga peo; sekgoba sa khopolo se bolokwa ka go dupa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "ruakh ga e fetolwe go 'moya' fela — lentšu le tee le bolela Moya, phefo le go hema ka ntle le mo."
+    }
+  ],
+  "translation": "Ka gobane ke tla sephela meetse godimo ga yo a nyorago, le dilo tše di elelago godimo ga lefase la omilego; ke tla sephella ruakh ya ka godimo ga peo ya gago, le thoriso ya ka godimo ga bana ba gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "396a7e0731e46733a07176e845cda5d3659e60453e1af09ccec3d6171d89d04a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/44\/1-4.1792292192504.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "ke tla sephela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "yo a nyorago"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "le dilo tše di elelago"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "lefase la omilego"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "ke tla sephella"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "ruakh ya ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "peo ya gago"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "le thoriso ya ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "bana ba gago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:56:32.505273988Z",
+  "model": "glm-5.3"
+}

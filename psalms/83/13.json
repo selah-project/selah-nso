@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 83,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "matšhulo",
+      "rationale": "נאות e bolela lehaufi le madulo a kudu — 'matšhulo' (mabjo a dikgomo) kgahlanong le 'magae' (habitats) tša ditlhaka tše dingwe"
+    },
+    {
+      "kind": "you",
+      "subject": "go dira le ditšhaba tše di hlotšwego",
+      "rationale": "tšhomo ye e bolela ka mahlaodi a Yisraele ao a bolelang go eleruela magae a Elohim"
+    }
+  ],
+  "translation": "Bao ba ile ba re: A re rue ⟨את⟩ matšhulo a Elohim go rena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3a2aca48bae78c1fa2b32b6f4b36eeea1721c5d1353370da30cb41cfa9628ce8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/83\/13-16.1792298323856.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "ba ile ba re"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "a re rue"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "matšhulo a Elohim"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "matšhulo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:43.857077482Z",
+  "model": "glm-5.3"
+}

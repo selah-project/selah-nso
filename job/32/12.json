@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 32:12",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ka botlalo",
+      "rationale": "Sepedi e nyaka kgodišo ya go lebelela; Seheberu se re עדיכם fela — go fihla go lena"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mo kgethi",
+      "rationale": "מוכיח ke yo a laolang ka mehla ga molato — 'mo kgethi' o boloka sebopego sa molao, e sego 'mo ganaši'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אתבונן",
+      "rationale": "hitpael ya בין — go ipšerehatsa, go ikgaogantša ka mo go utolago polelo; modu o ile wa feleletša ka go kwetlisetša"
+    }
+  ],
+  "translation": "Gomme ke ile ka le kwetlisetša ka botlalo, gomme bonang, ga go mo kgethi wa Yobe, wa go arabela mantšu a gagwe, go tšwa go lena.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2938020a70ede697ba91e42be4b9cb893206ddbe0f85c34c51bca1cab4bc1f71",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/32\/12-12.1792305372171.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועדיכם",
+      "gloss": "ka le kwetlisetša ka botlalo"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ka le kwetlisetša"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "gomme bonang"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "mo kgethi wa Yobe"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "mo kgethi"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "wa go arabela"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "mantšu a gagwe"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "go tšwa go lena"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:12.171900970Z",
+  "model": "glm-5.3"
+}

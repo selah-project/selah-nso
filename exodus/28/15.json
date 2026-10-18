@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 28:15",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khošene",
+      "rationale": "חשן ga se na lehlathi la Sepedi; leina le latela modumo wa Seheberu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tekelete · argamele",
+      "rationale": "Mebala ya Seheberu e latela modumo — tekelete (botala-bosetša) le argamele (bokgokobri), e sego mebala ya Sepedi."
+    },
+    {
+      "kind": "hapax",
+      "subject": "משזר",
+      "rationale": "Temušo ya go kgotlega ya šše\/lenene — lentšu le rare kudu Temušong."
+    }
+  ],
+  "translation": "Gomme o tla dira khošene ya kahlolo, mošomo wa bokgoni; go swana le mošomo wa efode o e dira; gauta, tekelete, le argamele, le šane ya mokgokgoro, le lenene la go kgotlega, o e dira ⟨את⟩ yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8af7dc851610b916a89b57dd3ef42c14ba9c1516a86a119b5e95285705d9b81f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/28\/13-16.1792283084834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Gomme o tla dira"
+    },
+    {
+      "surface": "חשן",
+      "gloss": "khošene"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ya kahlolo"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "wa bokgoni"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "go swana le mošomo"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "wa efode"
+    },
+    {
+      "surface": "תעשנו",
+      "gloss": "o e dira"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelete"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "le argamele"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "le mokgokgoro"
+    },
+    {
+      "surface": "שני",
+      "gloss": "šane"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le lenene"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "la go kgotlega"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o e dira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "khošene"
+    }
+  ],
+  "timestamp": "2026-10-18T00:24:44.835781731Z",
+  "model": "glm-5.3"
+}

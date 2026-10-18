@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "Paseka",
+      "rationale": "Selo se se dirwago se sa bolelwa ka leina mo temaneng ye; se tšwa go temana tše di fetilego"
+    }
+  ],
+  "translation": "Kgoboketšo ya Yisraele ka moka e tla dira ⟨אתו⟩.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "bb8032791660e10bf0f99cce5005c4375d5ae7bec534cb1bc6fd28bbfb17bde0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/12\/45-48.1792282633748.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "kgoboketšo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "e tla dira"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Paseka"
+    }
+  ],
+  "timestamp": "2026-10-18T00:17:13.749711136Z",
+  "model": "glm-5.3"
+}

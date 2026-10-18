@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "go kgwara kgwerano",
+      "rationale": "כרת e bolela 'go kgaola' — Seheberu se kgaola kgwerano; Sepedi se šomisa 'go dira\/kgwara', seswantšho sa go kgaola se lahlegile"
+    },
+    {
+      "kind": "elision",
+      "subject": "yeo",
+      "rationale": "אשר e šupetša kgwerano ya psalma 105:8 yeo e sa bulwago mo temaneng ye"
+    }
+  ],
+  "translation": "yeo a e kgwarilego ⟨את⟩ Abrahama, gomme lekano la yago go Yitshake",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/9-12.1792298632339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "a e kgwarilego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Abrahama"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "gomme lekano la yago"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "go Yitshake"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:52.339542403Z",
+  "model": "glm-5.3"
+}

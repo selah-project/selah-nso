@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 12:2",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "se hlwekile",
+      "rationale": "טמא ke go se hlwekega ga mošomo, e sego bohlole goba sebe"
+    },
+    {
+      "kind": "crux",
+      "subject": "a apola peu",
+      "rationale": "תזריע 'go apola peu' — diphetolelo tše dingwe di phutholla go re 'ge a imolwa'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "וטמאה \/ תטמא",
+      "rationale": "go bušwa ga modu wa טמא ka bobedi mafelelong a temana, se se laelago go se kwale Sepedi"
+    },
+    {
+      "kind": "you",
+      "subject": "go Moshe",
+      "rationale": "taaelo yeo e laelelwago Moshe gore a e phetele go bana ba Yisraele"
+    }
+  ],
+  "translation": "Bualela go bana ba Yisraele, o re: Mosadi ge a apola peu gomme a belega mosesane, o tla se hlwekile malatsi a šupa; bjalo ka malatsi a kgetho ya bolwetši bja yona o tla se hlwekile.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5c0924bd47da843baaf9bd1bd72aad899b6e29825c77d1d1952d2cdcd9afa4ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/12\/2-3.1792304698485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Bualela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "o re"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "Mosadi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "תזריע",
+      "gloss": "a apola peu"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "gomme a belega"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mosesane"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "o tla se hlwekile"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "a šupa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "bjalo ka malatsi a"
+    },
+    {
+      "surface": "נדת",
+      "gloss": "kgetho ya"
+    },
+    {
+      "surface": "דותה",
+      "gloss": "bolwetši bja yona"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "o tla se hlwekile"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:58.486511822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Yehuda",
+      "rationale": "Yahwe o kgetha kgoši ya Yehuda ka lebaka la go lwa kgahlanong le Mokenaane."
+    },
+    {
+      "kind": "substitution",
+      "subject": "o tla nyaka go swarwa",
+      "rationale": "עלה ke go ya godimo (go nyaka), eupša mo go bolela go swaa lefase; Sepedi e nyaka tlhalošo ya mošomo wo."
+    }
+  ],
+  "translation": "Gomme Yahwe a re: Yehuda o tla nyaka go swarwa; bonang, ke file ⟨את⟩ lefase ka seatleng sa hae.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d1129f2329c1b72422b143523df811443aee86531bca11335d3273254ceee50d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/1\/1-4.1792287154095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "o tla nyaka go swarwa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke file"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ka seatleng sa hae"
+    }
+  ],
+  "timestamp": "2026-10-18T01:32:34.096131446Z",
+  "model": "glm-5.3"
+}

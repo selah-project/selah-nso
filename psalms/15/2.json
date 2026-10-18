@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yo a ... ago",
+      "rationale": "Seheberu se na le mahlatla fela (participles) ntle le leina la motho; Sepedi e nyaka sebopego sa mošomo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "botee",
+      "rationale": "תמים e bolela 'yo a felileng, a se nago sepho' — botee ke boikaelo bjo bo atlegilego kudu"
+    }
+  ],
+  "translation": "Yo a sepelago ka botee, gomme a dira tsedeke, gomme a bolela nnete pelong ya gagowo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/15\/1-4.1792297305078.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "yo a sepelago"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ka botee"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "gomme a dira"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "gomme a bolela"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nnete"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "pelong ya gagowo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:45.078737291Z",
+  "model": "glm-5.3"
+}

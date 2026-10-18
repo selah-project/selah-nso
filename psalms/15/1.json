@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "dipotšišo tše pedi tša go bula",
+      "rationale": "Sepsle se phadima mmadi ka potšišo ya go rwala — 'ke mang?' ka makga a mabedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מי ... מי",
+      "rationale": "Go boela ga potšišo ya 'ke mang' gabedi — sebopego sa go baela, se se bolokwago ka go boela ga 'ke mang' ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dula",
+      "rationale": "יגור e bolela goologa\/ba motšhwareng wa nakwana; 'dula' e bolela go nna ka nako e telele — שכר e šomilwe ka 'go šetšega' bakeng sa go nna ka go le gantši"
+    }
+  ],
+  "translation": "Psalme ya Dafida. Yahwe, ke mang yo a ka dula ka tenteng ya gago? Ke mang yo a ka šetšego thabeng ya bokgethwa bja gago?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7bd07a927db12a3c9f3ba9985d72ca75203c33e4e56e90f4e39c2c8eb5ed67a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/15\/1-4.1792297305078.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalme"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "yo a ka dula"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ka tenteng ya gago"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "yo a ka šetšego"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ya bokgethwa bja gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:45.078566236Z",
+  "model": "glm-5.3"
+}

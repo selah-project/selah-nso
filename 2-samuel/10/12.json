@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 10:12",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Abishai",
+      "rationale": "Taollo ya Yoabe go Abishai: 'Tiiša, re tiiše' — mogato wa go kgothaletša"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חזק\/נתחזק",
+      "gloss": "",
+      "rationale": "go tiiša le go itiiša — go boelela ga modumo o tee, Sepedi se bontša ka 'Tiiša, re tiiše'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "הטוב בעיניו",
+      "rationale": "'se sengwe ka mahlong a gagwe' — sephetho se sa tsejwa pele; diphetholelo tše dingwe di re 'se sengwe se sebotse'"
+    }
+  ],
+  "translation": "Tiiša, re tiiše, bakeng sa setšhaba sa rena le bakeng sa metse ya Elohim wa rena; gomme Yahwe a dire se sengwe ka mahlong a gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8eebf12e4a91924ac82a487f94f9b05d103bfadeba2d6d16feef6b9b48e03179",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/10\/9-12.1792289042701.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Tiiša"
+    },
+    {
+      "surface": "ונתחזק",
+      "gloss": "re tiiše"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "setšhaba sa rena"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "le bakeng sa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "metse ya"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rena"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "gomme Yahwe"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a dire"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ka mahlong a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:04:02.703139578Z",
+  "model": "glm-5.3"
+}

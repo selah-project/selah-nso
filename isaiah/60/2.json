@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 60:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 60,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "eupša",
+      "rationale": "Hebrew has no adversative; the contrast between v.2a and v.2b is marked by word order alone."
+    },
+    {
+      "kind": "substitution",
+      "subject": "leru la lefsifsi",
+      "rationale": "ערפל is heavy gloom like an overcast sky; a compound 'cloud of darkness' supplies the picture."
+    },
+    {
+      "kind": "alternative",
+      "subject": "le tla foka",
+      "rationale": "Some read the imperfects as present ('darkness covers') rather than future; context supports imminent future."
+    }
+  ],
+  "translation": "Gobane bonwe, lefsifsi le tla foka lefase, gomme leru la lefsifsi ditšhabeng; ⟨eupša⟩ go wena Yahwe o tla tlhagelela, gomme botumo bja gae bo tla bonagala godimo ga gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "91bf5f6dbb3a6bec6b81062e753b9d77763f8fdf85e70d112d8b24a4d6dee0f0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/60\/1-4.1792292555346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Gobane"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonwe"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "le tla foka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "gomme leru la lefsifsi"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ditšhabeng"
+    },
+    {
+      "surface": "ועליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "o tla tlhagelela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וכבודו",
+      "gloss": "gomme botumo bja gae"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "godimo ga gago"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bo tla bonagala"
+    }
+  ],
+  "timestamp": "2026-10-18T03:02:35.346795197Z",
+  "model": "glm-5.3"
+}

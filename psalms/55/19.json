@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפש ke sephiring sa botshelo\/theko — e sego 'moya' ka tsela ye nngwe."
+    },
+    {
+      "kind": "crux",
+      "subject": "מקרב לי",
+      "rationale": "'go thwalanong le nna' (KJV) kgahlanong le 'go yo a kgaufsi le nna' (YLT) — lenaneo le ka bolela bothata goba motho."
+    },
+    {
+      "kind": "crux",
+      "subject": "ka bontši ba be le nna",
+      "rationale": "ברבים היו עמדי: 'ba be le nna' (ba mphemotše, ASV) goba 'ba be kgahlanong le nna' (KJV 'with me' ka go thunya)."
+    }
+  ],
+  "translation": "O ntšollotše ka khotso moya wa ka, go thwalanong le nna; ka gobane ka bontši ba be le nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "787cf71366563e4e3c6040ee191cee17e8bcd99e8663d70c165a716f77e7edd1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/55\/17-20.1792297893673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "O ntšollotše"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ka khotso"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "go thwalanong"
+    },
+    {
+      "surface": "לי",
+      "gloss": "le nna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "ka bontši"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ba be"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "le nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:33.674040661Z",
+  "model": "glm-5.3"
+}

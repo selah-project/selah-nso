@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-samuel 2:36",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "אגורת",
+      "rationale": "A small 'gathering' (piece) of silver — occurs only here in the Tanakh."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bogobe",
+      "rationale": "לחם rendered 'bogobe' per the fixed vocabulary; 'bread\/food' in general."
+    },
+    {
+      "kind": "crux",
+      "subject": "לאגורת כסף",
+      "rationale": "Either the price they pay for a favour, or the pittance they beg for — translators split."
+    }
+  ],
+  "translation": "Gomme go tla ba gore yo moka yo a salego ka ntlong ya gago o tla tla go khunama go yena, bakeng sa kota ya silibera le sedikwa sa bogobe, gomme a re: Ntshelediša, ke kopa, go ye tee ya boperisita, gore ke je serwana sa bogobe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "bd6537b0a6538b6c6c0d7d0fe903ec07bad21e437752913b2685e52b74bbff55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/2\/33-36.1792287907148.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Gomme go tla ba gore"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo moka"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "yo a salego"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ka ntlong ya gago"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "o tla tla"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "go khunama"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "לאגורת",
+      "gloss": "bakeng sa kota"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ya silibera"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "le sedikwa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sa bogobe"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "ספחני",
+      "gloss": "Ntshelediša"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ye tee"
+    },
+    {
+      "surface": "הכהנות",
+      "gloss": "ya boperisita"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "gore ke je"
+    },
+    {
+      "surface": "פת",
+      "gloss": "serwana"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sa bogobe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:45:07.149742813Z",
+  "model": "glm-5.3"
+}

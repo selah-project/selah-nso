@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הותר",
+      "rationale": "'go tlogela ba ba tswaletšwego' (hophal) kgahlanong le 'go boloka' (KJV\/ASV 'preserve') — root יתר"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bana ba lehu",
+      "rationale": "בני תמותה — bao ba laetšwego lehu, e sego bana ka tlhago"
+    },
+    {
+      "kind": "you",
+      "subject": "go Adonai",
+      "rationale": "thapelo ka bapolegiši ba swanetše go lokollwa"
+    }
+  ],
+  "translation": "A go tsoge go fihle pele ga gago sefako sa molegoši, go swana le bogolo bja leoto la gago, o tlogetše bana ba lehu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/79\/9-12.1792298320965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "a go tsoge go fihle"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "sefako sa"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "molegoši"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "go swana le bogolo bja"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "leoto la gago"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "o tlogetše"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "lehu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:40.966463893Z",
+  "model": "glm-5.3"
+}

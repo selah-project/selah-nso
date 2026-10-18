@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 18:29",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mosegare",
+      "rationale": "הצהרים ke dual — 'diphedi tša sehla', e bolela gare ga letsatsi; mosegare o tšea sebopego se sengwe"
+    },
+    {
+      "kind": "elision",
+      "subject": "mantsiboa",
+      "rationale": "Seheberu se se re 'minkha e fišwa' ntle le gore ke ya mantsiboa — context e bolela se"
+    }
+  ],
+  "translation": "Gomme go ile go ba gore ge mosegare o fetile, ba profeta go fihla nako ya go fišwa ga minkha; gomme ga go na modumo, ga go na ya arago, gomme ga go na go theetša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c0b03cddd8893bba021619887d6c3e8cbfc9c10cca53549386b23d05113ae0ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/18\/29-32.1792290278307.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "go ile go ba gore"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "ge o fetile"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "mosegare"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "ba profeta"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "go fišwa"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ya arago"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ga go na"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "go theetša"
+    }
+  ],
+  "timestamp": "2026-10-18T02:24:38.308439245Z",
+  "model": "glm-5.3"
+}

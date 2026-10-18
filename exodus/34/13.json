@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אשריו",
+      "rationale": "KJV 'groves' vs 'Asherim' (di-Ashera) — ke leina la modimo wa mosadi wa Kanana, e sego serapa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "maswika a maemo",
+      "rationale": "מצבת ke leoto la leswika la go emela, e sego 'image' ka mantšu a a kwagalago."
+    }
+  ],
+  "translation": "Gobane ⟨את⟩ aletare ya tšona le tla di theola, le ⟨את⟩ maswika a tšona a maemo le a thuba, le ⟨את⟩ di-Ashera tša gagwe le di kgaola.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "ee0715402b3258dedc41e0ed42b2c7c9aa9b1feb58c64b69706f7868f29e4bdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/34\/13-16.1792283235047.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aletare ya tšona"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "aletare ya tšona"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "le tla di theola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "maswika a tšona a maemo"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "maswika a tšona a maemo"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "le a thuba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "di-Ashera tša gagwe"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "di-Ashera tša gagwe"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "le di kgaola"
+    }
+  ],
+  "timestamp": "2026-10-18T00:27:15.048402208Z",
+  "model": "glm-5.3"
+}

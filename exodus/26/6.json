@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 26:6",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikgokgo",
+      "rationale": "קרסים ke sebopiwa se segolo se se rummyago (swelling form); 'kgokgo' e tšea sebopego seo, e sego 'mokgotla'."
+    },
+    {
+      "kind": "idiom",
+      "subject": "אשה אל אחתה",
+      "rationale": "'Mosadi go kgaetšedi wa gagwe' — sefela sa go swana, se fetoletšwe bjalo ka 'se sengwe go se sengwe'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "masomehlano",
+      "rationale": "Palo ya dikgokgo e latela palo ya diphuphu ya temana ya 5."
+    }
+  ],
+  "translation": "Gomme o tla dira masomehlano a dikgokgo tša gauta, gomme o tla kopantšha ⟨את⟩ diripa, se sengwe go se sengwe, ka dikgokgo; gomme Mishkane o tla ba tee.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "505dcc2faede235c10f79b09d8c21112796956b5b7033dce6f475a74007984f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/26\/5-8.1792283022907.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Gomme o tla dira"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masomehlano"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "a dikgokgo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tša gauta"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "gomme o tla kopantšha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diripa"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "diripa"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "se sengwe"
+    },
+    {
+      "surface": "בקרסים",
+      "gloss": "ka dikgokgo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "gomme o tla ba"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Mishkane"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "tee"
+    }
+  ],
+  "timestamp": "2026-10-18T00:23:42.908204462Z",
+  "model": "glm-5.3"
+}

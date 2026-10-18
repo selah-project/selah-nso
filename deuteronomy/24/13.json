@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 24:13",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "השב תשיב",
+      "rationale": "Infinitive-absolute pair, 'go bušetša o tla bušetša' — intensity e feletšego yeo e laelago ka boikokobetso."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tsedeke",
+      "rationale": "צדקה ga se fela 'toka' — ke boikokobetso bjo bo dirwago, bo bontšhago boteng pele ga Yahwe."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopula yeo Seheberu se se se nago"
+    }
+  ],
+  "translation": "Go bušetša o tla mo bušetša ⟨את⟩ sehlwa sa gagwe ge letsatsi le fihla go tsena, gomme o tla roalateše ka sekgwerešo sa gagwe gomme a go kaofatše; gomme go wena go tla ba ⟨ke⟩ tsedeke pele ga Yahwe Elohim wa gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6aaea6d8910b8e00cf423ccccbde75dab512cc0914e1836a2a4df4845ad17941",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/24\/13-16.1792286127343.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "go bušetša"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "o tla bušetša"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlwa sa gagwe"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "sehlwa sa gagwe"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ge letsatsi le fihla go tsena"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "gomme o tla roala"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "ka sekgwerešo sa gagwe"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "gomme a go kaofatše"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "gomme go wena"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "go tla ba"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:15:27.344426075Z",
+  "model": "glm-5.3"
+}

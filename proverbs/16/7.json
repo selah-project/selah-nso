@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ישלם",
+      "rationale": "shalem root is 'make whole\/peace', rendered 'make peace with'"
+    }
+  ],
+  "translation": "Ge ditsela tša monnayo di a ratea ke Yahwe, le manaba a gagwe a di dira kagiso ⟨את⟩ le yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3f3f2b6eb85bb179256fc399fbce0e6b8a36fede4dad8df4aeea82b7ea42199b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/16\/5-8.1792299498829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "ge di a ratea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ke Yahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ditsela tša"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monnayo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "manaba a gagwe"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "a di dira kagiso"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "le yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:58:18.830039988Z",
+  "model": "glm-5.3"
+}

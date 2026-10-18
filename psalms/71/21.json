@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ותסב",
+      "rationale": "סובב ka mahlakore ka moka (KJV) kgahlanong le go boela gape (JPS, ASV); ke kgethile go boela ka gobane e fetoša moralo wa go duduša gape."
+    },
+    {
+      "kind": "addition",
+      "subject": "nna",
+      "rationale": "Sepedi e nyaka sedirišwa; Seheberu se swara ketengi kgethilwe ka -ני."
+    }
+  ],
+  "translation": "O tla oketša bogolo bja ka, gomme o boela, o duduše ⟨nna⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9eae377d08fa422a71de1313d2bb2fc5b61164dda0f551778d99eed8940867dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/71\/21-24.1792298076815.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "o tla oketša"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "bogolo bja ka"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "gomme o boela"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "o duduše nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:36.816450156Z",
+  "model": "glm-5.3"
+}

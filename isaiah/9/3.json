@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o bo phutile",
+      "rationale": "החתת ke 'go phutulla, go thuba' — modiragatsi o sa bontšhwa ka pelo, KJV o oketša 'wena o bo thubile'"
+    },
+    {
+      "kind": "crux",
+      "subject": "כיום מדין",
+      "rationale": "'bjalo ka letšatši la Midyane' — go ya botšo ga Gideon, Ditshupetšo 7; tšhupetšo ya mahala le yona e se nago mošomo"
+    }
+  ],
+  "translation": "Ka gobane ⟨את⟩ bokgoka bja bothata bja gagwe, le ⟨את⟩ motse wa magetlago a gagwe, sethware sa mošamedi wa gagwe, o bo phutile, bjalo ka letšatši la Midyane.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "20fb27f973d38d3fc8cba60489bbb6fab767816f6b9618c840519859f8263d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/9\/1-4.1792291353192.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokgoka bja bothata bja gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "bokgoka"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "bja bothata bja gagwe"
+    },
+    {
+      "surface": "וואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "motse wa magetlago a gagwe"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "motse"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "wa magetlago a gagwe"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sethware sa"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "mošamedi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wa gagwe"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "o bo phutile"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bjalo ka letšatši la"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midyane"
+    }
+  ],
+  "timestamp": "2026-10-18T02:42:33.194083083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-kings 8:58",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go goamantša",
+      "rationale": "להטות semele go kgokola\/go goamantša — 'go ikokobetša' e be e tla ba go itira, e sego sebopego sa kgokolo sa Seheberu."
+    },
+    {
+      "kind": "elision",
+      "subject": "צוה + את",
+      "rationale": "Seheberu se na le את ya go laela; Sepedi e nyaka go bušwa 'a di laeditše' bakeng sa go swana le dikahlolo."
+    }
+  ],
+  "translation": "go goamantša pelo ya rena go yena, go ya ditsela tša gagwe ka moka, le go bolokela ditaelo tša gagwe le melawana ya gagwe le dikahlolo tša gagwe, tšeo a laeditšego ⟨את⟩ bo-ntate wa rena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d611074c2dce6dc2205ae58c87777883de1ccc264ba1c45a58d28c1951626fb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/8\/57-60.1792289911872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "go goamantša"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "pelo ya rena"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ditsela tša gagwe"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "le go bolokela"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "ditaelo tša gagwe"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "le melawana ya gagwe"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "le dikahlolo tša gagwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laeditše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bo-ntate wa rena"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bo-ntate wa rena"
+    }
+  ],
+  "timestamp": "2026-10-18T02:18:31.873311935Z",
+  "model": "glm-5.3"
+}

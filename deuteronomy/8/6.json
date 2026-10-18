@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "go sepela mekgwang",
+      "rationale": "בדרכיו\/ללכת — 'go sepela mekgwang ya gagwe' ke seteamano sa bophelo, e sego go sepela ka maoto fela"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Taello ya ka mo go bonagalago go Yisraele"
+    }
+  ],
+  "translation": "Gomme o tla boloka ⟨את⟩ melao ya Yahwe Elohim ya gago, go sepela mekgwang ya gagwe, le go ⟨את⟩ mo sepega.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c27dabee088dc1fb09f9df2aadcbfbf6da9496268d9d172abb055ed4a69efd83",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/8\/5-8.1792285737401.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "gomme o tla boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "melao ya Yahwe Elohim ya gago"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "melao"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go sepela"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "mekgwang ya gagwe"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "le go mo sepega"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ mo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:08:57.402680299Z",
+  "model": "glm-5.3"
+}

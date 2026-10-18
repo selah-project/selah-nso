@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 15:30",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "molomo wa gagwe",
+      "rationale": "פיו — molomo wa mang? Ba fetoledi ba bangwe (ASV, JPS) ba bona wa Elohim; sengwalwa se sa bolelela sehlabelo se sengwe fela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "lefsifsi",
+      "rationale": "חשך e bolela lefsifsi le dikotsi le lehu ka moya; mo e šumišwa bjalo ka lefelo la kgahlanong."
+    }
+  ],
+  "translation": "O ka se tloše go lefsifsi; mollo o tla omiša mošo wa gagwe, gomme o tla tlošwa ka ruakh ya molomo wa gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a8bcaa390c87ce71762439cbb59e98dc614e067ab78b1cb4c970a6b4c74fa02f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/15\/29-32.1792300324678.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o ka se"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "tloše"
+    },
+    {
+      "surface": "מני",
+      "gloss": "go"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "mošo wa gagwe"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "o tla omiša"
+    },
+    {
+      "surface": "שלהבת",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "ויסור",
+      "gloss": "gomme o tla tlošwa"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ka ruakh ya"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "molomo wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:12:04.679477201Z",
+  "model": "glm-5.3"
+}

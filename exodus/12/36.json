@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 12:36",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישאלום",
+      "rationale": "KJV 'ba ba kadile' kgahlanong le 'ba ile ba fa ba kgopelo' — pušo yeo e sa dutšego e kwa go Egepeta, e sego go Baiseraele."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וינצלו",
+      "rationale": "Natzal — go hlotša\/go ntšha ka maatla; 'ba ile ba hlotša ⟨את⟩ Mitsrayime' go boloka sebopego sa federated pušo."
+    }
+  ],
+  "translation": "Gomme Yahwe a fa setšhaba ⟨את⟩ mohau mahlong a baagi ba Mitsrayime, ba ba fa seo ba se kgopilego; ba ile ba hlotša ⟨את⟩ Mitsrayime.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "dee89cab50acc11b6e2a9a7235c4cad3cc5547e49e720e6db3e5656404e824fe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/12\/33-36.1792282651994.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Gomme Yahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mohau"
+    },
+    {
+      "surface": "חן",
+      "gloss": "mohau"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baagi ba Mitsrayime"
+    },
+    {
+      "surface": "וישאלום",
+      "gloss": "ba ba fa"
+    },
+    {
+      "surface": "וינצלו",
+      "gloss": "ba ile ba hlotša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrayime"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    }
+  ],
+  "timestamp": "2026-10-18T00:17:31.996033465Z",
+  "model": "glm-5.3"
+}

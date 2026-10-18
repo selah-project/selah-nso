@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 72,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אמן ואמן",
+      "rationale": "Go boelediwa ga Ame gabedi — mafelelo a pego ya thapelo ya gobe, go tiisa polelo"
+    },
+    {
+      "kind": "addition",
+      "subject": "le",
+      "rationale": "Copula ya Sepedi e okeditšwe ('le a gatišwa'), Seheberu se na le participle fela"
+    }
+  ],
+  "translation": "Gomme leina la kgalalelo ya gagwe le a gatišwa go sa fele; gomme kgalalelo ya gagwe a e tlatše ⟨את⟩ lefase ka moka; Ame, gomme Ame.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "d4193433031fb1c88c17793e794381f5d0f7f9afe7ab5a66f13c86d8dc085f9d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/72\/18-19.1792305283334.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "Gomme ... le a gatišwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina la"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kgalalelo ya gagwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go sa fele"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "gomme a e tlatše"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "kgalalelo ya gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ame"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "gomme Ame"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:43.334953169Z",
+  "model": "glm-5.3"
+}

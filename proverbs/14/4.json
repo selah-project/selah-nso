@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בר",
+      "rationale": "Bar e ka ba 'se hlwekile' goba 'se se se nago selo' — dinomoro tše pedi di nyoretšwe ka moka (KJV 'clean', YLT 'empty')."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אבוס",
+      "rationale": "Sebolokogo se tšwa leadong el-vasos mabapi le go ba gona ga lona Proverbs le Isaiah."
+    }
+  ],
+  "translation": "Go se nago dikgomo, sebolokogo se hlwekile; gomme lepo e ntsi e tla ka maatla a kgomo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "92140400659569df3ba77072ccf0569b26db16f94ecfeaeb3693a617fe82ee6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/14\/1-4.1792299433703.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "go se nago"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikgomo"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "sebolokogo"
+    },
+    {
+      "surface": "בר",
+      "gloss": "se hlwekile"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "gomme e ntsi"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "lepo"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ka maatla"
+    },
+    {
+      "surface": "שור",
+      "gloss": "a kgomo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:57:13.704643248Z",
+  "model": "glm-5.3"
+}

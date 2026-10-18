@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 18:24",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "אלהי fapaneng — ka ditlhaka tše nnyene bakeng sa medimo ya diswantšho, go swana le Ekisodo 32:8; D1 e dumelela"
+    },
+    {
+      "kind": "idiom",
+      "subject": "מה לך",
+      "rationale": "mokgwa o mobodi wa go botšiša: 'go go hlwaletše eng?'"
+    },
+    {
+      "kind": "elision",
+      "subject": "זה",
+      "rationale": "'se' se hlakantšha potšišo ya go kgopela lebaka, e sego sehlakantšhi sa motho"
+    }
+  ],
+  "translation": "A re: ⟨את⟩ medimo ya ka, yeo ke e dirilego, e tšerwe, le ⟨את⟩ moperisita; mme le tsweile — se se setseng go nna ke eng? Gomme ke eng se le se bolelago go nna, go re: Ke eng go wena?",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e6942a3e40b0169bc8eba13b2db582dd1f0670b2f9d4de45f9197d133864502e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/18\/21-24.1792287848473.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo ya ka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "medimo ya ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ke e dirilego"
+    },
+    {
+      "surface": "לקחתם",
+      "gloss": "e tšerwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "moperisita"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "ותלכו",
+      "gloss": "le tsweile"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "se se setseng"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "gomme ke eng"
+    },
+    {
+      "surface": "זה",
+      "gloss": "se"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "le se bolelago"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:44:08.474817451Z",
+  "model": "glm-5.3"
+}

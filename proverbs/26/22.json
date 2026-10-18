@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 26:22",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "כמתלהמים",
+      "rationale": "Le lentšu le tee fela thwii go Tanakh; go tšwa go להם 'dijo'"
+    },
+    {
+      "kind": "crux",
+      "subject": "dijo tše monate",
+      "rationale": "KJV e be e re 'matlhatlagoro' (go tšwa go להם ya go baba); ASV\/JPS di re 'dijo tše monate' — khonferense e thailwe mo lentsweng la go baba"
+    }
+  ],
+  "translation": "Mantšu a mošiti a bjalo ka dijo tše monate, gomme wona a theogela go ya dikamoreng tša mpa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8edf0b5fc6bdf771a940ca5dc3b8345ef3b7ca2293e1821674b1f63a9620c58a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/26\/21-24.1792299877406.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "a mošiti"
+    },
+    {
+      "surface": "כמתלהמים",
+      "gloss": "a bjalo ka dijo tše monate"
+    },
+    {
+      "surface": "והם",
+      "gloss": "gomme wona"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "a theogela"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "go ya dikamoreng"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "tša mpa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:04:37.406964776Z",
+  "model": "glm-5.3"
+}

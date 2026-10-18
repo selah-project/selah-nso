@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 32:5",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עד פקדי אתו",
+      "rationale": "פקד e bolela 'go etela' ka maikemišetšo a molemo goba a mabe — 'go etela' (KJV) kgahlanong le 'go gopola' (JPS); sebopego se sa lokollwa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "את הכשדים",
+      "rationale": "את ya bobedi ga se ⟨את⟩ ya sehlaka — ke lentšu le tee le sa nyakego, e fetotšwe go ba 'le'."
+    },
+    {
+      "kind": "elision",
+      "subject": "eupša",
+      "rationale": "Sepedi se nyaka sekopanyi sa phenygo (eupša) go hlalosa lefoko la Kgwebišano; Seheberu se na le לא fela."
+    }
+  ],
+  "translation": "Gomme Babele e tla isa ⟨את⟩ Tsidkiyahu, gomme a dule fela gona, go fihla ge nka la ⟨את⟩⟨mo⟩ etela, go bolela Yahwe; gobane le ka lwa le ⟨את⟩ Bakasdi, eupša le ka se atlega.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d262bbcd2c219f3d218b162deac27f509959fe74538c6a6f89d504f6dfbcdff5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/32\/5-8.1792293718230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובבל",
+      "gloss": "Gomme Babele"
+    },
+    {
+      "surface": "יולך",
+      "gloss": "e tla isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidkiyahu"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiyahu"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "gomme a dule fela gona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "a dule"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla ge"
+    },
+    {
+      "surface": "פקדי",
+      "gloss": "nka etela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩⟨mo⟩",
+      "marks": "Tsidkiyahu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "le ka lwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ le",
+      "marks": "Bakasdi"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "Bakasdi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e sego"
+    },
+    {
+      "surface": "תצליחו",
+      "gloss": "le ka se atlega"
+    }
+  ],
+  "timestamp": "2026-10-18T03:21:58.231422265Z",
+  "model": "glm-5.3"
+}

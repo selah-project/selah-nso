@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "חסידה",
+      "rationale": "Leina la sekowe le tšwa go חסד (hesede, botho) — 'nonyana ya botho'; se se welwa ka Sepedi."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הדוכיפת",
+      "rationale": "Leina la sekgwatla le hlaga ka mehla e mebedi fela go Tanakh (Levetiko 11:19, Deuteronomio 14:18)."
+    },
+    {
+      "kind": "crux",
+      "subject": "האנפה",
+      "rationale": "Mefuta ya nonyana ye ga e a bonala — 'heron' (KJV) kgahlanong le 'parrot' go ya le dikaelo tša lemma."
+    }
+  ],
+  "translation": "le ⟨את⟩ sekowe, mokgwa-meetse go ya ka mohuta wa yona, le ⟨את⟩ sekgwatla, le ⟨את⟩ sefofo-sa-bosigo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4adbb0eca54bd254fe6c40c14044bbb8dcc24df06e1ba126b8139e8383848e82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/17-20.1792283810016.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekowe"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "sekowe"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "mokgwa-meetse"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "mohuta-wa-yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sekgwatla"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "sekgwatla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sefofo-sa-bosigo"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "sefofo-sa-bosigo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:36:50.017592858Z",
+  "model": "glm-5.3"
+}

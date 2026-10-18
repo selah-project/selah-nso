@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 18:19",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בנדת",
+      "rationale": "lit. 'separation\/impurity (menstruation)'; Sepedi expands into clause"
+    }
+  ],
+  "translation": "Le go mosadi, ka mo a kgaotšego ka go hlohlwa ga go hlwekilega ga gagwe, o se ke wa atamela go hlakola sephahla sa gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6a05889e1099dd6b5e49bc51fd66988a953cdf55fb93ed9cf36eb849d22b92d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/18\/17-20.1792284016136.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "בנדת",
+      "gloss": "ka mo a kgaotšego"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "go hlohlwa ga go hlwekilega ga gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "wa atamela"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "go hlakola"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "sephahla sa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:40:16.137201406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "toko",
+      "rationale": "צדיק 'yo a lolamileng' — tsedeke ka fao D2 e boletšego, e sego 'halalela' ya Sesotho."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נח נח ... נח",
+      "rationale": "Leina la Noa le bulelwa gate-gate kgauswi kgauswi mo temaneng — go bolela ga Sesotho se a se lahlegatša."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בדרתיו",
+      "rationale": "'manyaleng a gagwe' goba 'malokong a gagwe' — bothata bjo bo tsejwego: toko ya Noa e bolelwa go swana le manyale ao a mabya."
+    }
+  ],
+  "translation": "Ke tše tša lelapa la Noa. Noa e be e le motho wa toko, a phethileng ka bolokolohi manyaleng a gagwe; Noa o ile a sepela le ⟨את⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5ee1f75996a92b08adde24a7a8e64ba790027802da88a955f1ee45df12785864",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/6\/9-10.1792304559443.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ke tše"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "ta lelapa la"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wa toko"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "a phethileng ka bolokolohi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e be e le"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "manyaleng a gagwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "a sepela"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:39.444340993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Sepedi se nyaka sekopanyi — Seheberu se dira kgwerano fela: 'yo a dulago dumešo tša Yisraele'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישב \/ תהלות",
+      "rationale": "Construct ye e tseneletšego: 'o dutše' gape e bolela 'o buša go dutša setulong' — seswantšho sa bogoši se bolokilwe ka 'a dutšego'."
+    }
+  ],
+  "translation": "Gomme wena o kgethwa, yo a dutšego ⟨go⟩ dumešo tša Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1f377ff2861ad5d39d4b6ab6e36301de183a672594ae4acfa7b61725f2b88b0b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/22\/1-4.1792297355486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Gomme wena"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "o kgethwa"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "yo a dutšego"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "dumešo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "tša Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:35.487856029Z",
+  "model": "glm-5.3"
+}

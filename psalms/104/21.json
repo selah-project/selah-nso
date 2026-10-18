@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 104,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikubu",
+      "rationale": "הכפירים ke dikubu, e sego tau ye ntshehla; lentšu la go laela go bolela bonyenyane"
+    }
+  ],
+  "translation": "Dikubu di hlaola sebagi, gomme di nyaka dijo tša tšona go tšwa go El.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9e7b141356948e4cd92bb06f6f5e2f705ad6ad6ab93b8c20b8b5a2a07d0ec7ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/21-24.1792298565616.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "dikubu"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "di hlaola"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "sebagi"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "gomme di nyaka"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "go tšwa go El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "dijo tša tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:45.616628489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "masomepedi ama",
+      "rationale": "Botee bja tempole bo ela go ama tše masomepedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka botee",
+      "rationale": "Seheberu se sa bolele botee ka go thoma; palo le ama fela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "tempole",
+      "rationale": "ההיכל ke 'ntsokami ya kgolo, ya kgoši' — 'tempole' ke lentšu la modumo, sebopego sa yona se la tloga."
+    }
+  ],
+  "translation": "Gomme ntlo, ke yona tempole, pele ga ⟨yona⟩, e be e le masomepedi ama ka botee.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "7a3262eff569e0b8a13346a08a229aa2c0cb523a307bcba4ff70c2c08f75b7ee",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/6\/17-20.1792289684217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "gomme masomepedi"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "go ama"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e be e le"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke yona"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "tempole"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    }
+  ],
+  "timestamp": "2026-10-18T02:14:44.217739457Z",
+  "model": "glm-5.3"
+}

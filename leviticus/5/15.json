@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 5:15",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפש",
+      "rationale": "nefesh ke sephiring-moyo\/thoho; 'motho' ke bokao bja motheo fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "איל",
+      "rationale": "ke pudi e ntswhi ya dikokoana ya nama, e sego 'ram' ya Sesotho; dikgomo tše dingwe ga di lumelelwa"
+    },
+    {
+      "kind": "hapax-manner",
+      "subject": "מעל מעל",
+      "rationale": "go boela ga lentšu m-a-'-l gabedi — go makatša boikano — go boutšwa ka go boela ga lentšu"
+    },
+    {
+      "kind": "measurement",
+      "subject": "שקלים בשקל הקדש",
+      "rationale": "palo ya šhekele ka tekanyo ya bokgethwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "קדש",
+      "rationale": "-kgethwa go ya ka D2; 'halalela' ke Sesotho"
+    }
+  ],
+  "translation": "Ge e ba motho a makatša boikano gomme a dira sebe ka phošo dilo tša bokgethwa tša Yahwe, o tla isa ⟨את⟩ sehlabelo sa boikano sa gagwe go Yahwe: pudi e ntswhi ya dikokoana go tšwa go dinku le dipudi, ka tekanyo ya gago ya silibera — dišhekele ka šhekele ya bokgethwa — bakeng sa sehlabelo sa boikano.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "da4d7036be3b177abe28848a36548d1b2b08e0d65a3bdd2d518e81b041f30cc6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/5\/13-16.1792283592688.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge e ba"
+    },
+    {
+      "surface": "תמעל",
+      "gloss": "a makatša boikano"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "boikano"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "gomme a dira sebe"
+    },
+    {
+      "surface": "בשגגה",
+      "gloss": "ka phošo"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "dilo tša bokgethwa tša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "o tla isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sehlabelo sa boikano sa gagwe"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "sehlabelo sa boikano sa gagwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "pudi e ntswhi ya dikokoana"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "e ntswhi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "dinku le dipudi"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "ka tekanyo ya gago"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silibera"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "dišhekele"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ka šhekele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ya bokgethwa"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "bakeng sa sehlabelo sa boikano"
+    }
+  ],
+  "timestamp": "2026-10-18T00:33:12.689327643Z",
+  "model": "glm-5.3"
+}

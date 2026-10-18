@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dithunya",
+      "rationale": "יונקת ke 'mošo o motala, yo a monyago a nwa mošomong wa modu' — seswantšho sa go sala se monyane"
+    },
+    {
+      "kind": "alternative",
+      "subject": "di tla sepela",
+      "rationale": "ילכו 'go sepela' — dipheto tše ntšhi di fetoša go ba 'go phatlalala', eupša lentšu la Seheberu ke go sepela fela"
+    }
+  ],
+  "translation": "Dithunya tša gagwe di tla sepela, gomme tlotlo ya gagwe e tla ba bjalo ka mohiri, gomme moya wa gagwe o monate bjalo kua Lebhanone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "33a70dbb1802f770e32d7c3d826afaea8dc33bfe9a56dc0f61b012e18af35e66",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/14\/5-8.1792296077778.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "di tla sepela"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "dithunya tša gagwe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "bjalo ka mohiri"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "tlotlo ya gagwe"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "gomme moya o monate"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wa gagwe"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "bjalo kua Lebhanone"
+    }
+  ],
+  "timestamp": "2026-10-18T04:01:17.779408566Z",
+  "model": "glm-5.3"
+}

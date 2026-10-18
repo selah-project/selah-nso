@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 87,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o thwago",
+      "rationale": "Seheberu se sepha se fetoša se se šomago; kopokopano ya Sepedi e nyaka se se šomago"
+    },
+    {
+      "kind": "addition",
+      "subject": "wa",
+      "rationale": "sebopego sa bopaganyi sa Seheberu se hlalositšwe ka sebopegwa sa borena sa Sepedi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "motheo",
+      "rationale": "semaokeng sa go aga toropo, motheo o hlamišwa"
+    }
+  ],
+  "translation": "Bana ba Korake, mokošo wa kopelo. Motheo wa yona o thwago dithabeng tša bokgethwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8c6aa5064dd80e36c9debcb9f6ad6cf7edec2ad45144a997687deff431543d13",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/87\/1-4.1792298344937.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korake"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokošo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "wa kopelo"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "motheo wa yona"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "dithabeng tša"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:04.937638170Z",
+  "model": "glm-5.3"
+}

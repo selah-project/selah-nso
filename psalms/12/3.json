@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בלב ולב",
+      "gloss": "\"ka pelo le pelo\" = pelo tše pedi",
+      "rationale": "Go ba le dilo tše pedi — go bolela se sengwe sefating, se sengwe pelong."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ידברו … ידברו",
+      "gloss": "go bušetša ga go bolela go feleletša sehlogo",
+      "rationale": "Sebopego se a bontšha go diega ga boithati."
+    },
+    {
+      "kind": "substitution",
+      "subject": "חלקות",
+      "gloss": "\"boikakaso\" — שחלקות e bolela go phaphatha",
+      "rationale": "Boteng bja lentšu ke go phaphatha — buše bjo bo bontšhago se se sego selo."
+    }
+  ],
+  "translation": "Mafeletšo a bolela motho le ⟨את⟩ mošwiši wa gagwe; sefate sa boikakaso, ka pelo le pelo, a bolela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "af181a9c7589d9413926546bc65c6c541f32605c19b46848134afce61f4b5d5b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/12\/1-4.1792297263010.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "mafeletšo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mošwiši wa gagwe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "mošwiši wa gagwe"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "sefate"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "sa boikakaso"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ka pelo"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "le pelo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "a bolela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:03.011669376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimo ya bona",
+      "rationale": "אלהיהן — 'medimo ya bona' ka lintlha tše nnyane — tše dingwe tša medimo tša motho fela, go sa tše legato la Leina"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba nago",
+      "rationale": "Sepedi e nyaka kopula boemong bja setšhaba pele ga mašomong a seswantšho; Seheberu se e se na"
+    }
+  ],
+  "translation": "Gomme bjalo a dira go basadi ba gagwe bohle ba bafaladi, ba nago ba fiša mešunto le go hlabela medimo ya bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e57c78e1f7c9fca019d2ef49a9ee66025e2be40748568ca4db381e7aae6d132a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/11\/5-8.1792290006511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "gomme bjalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go bohle"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "basadi ba gagwe"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "ba bafaladi"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "ba fiša mešunto"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "le go hlabela"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "medimo ya bona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:20:06.512491438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 1:17",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויחרימו \/ חרמה",
+      "rationale": "Toropo e bitšwa Khorma ka gobane e ile ya hloekantšhwa (ḥerem) — modu o timetše ka Sepedi ge re ra 'ba e senyeditše'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ויחרימו",
+      "rationale": "ḥerem ke go laela se sennye go timiwa go dielela Modimo; 'ba e senyeditše' ke seripa se sebotse fela."
+    },
+    {
+      "kind": "elision",
+      "subject": "את (v.17 polelo ya pele)",
+      "rationale": "את ya pele ke lentišo 'le' (go ya le); e hlabilwe bjalo ka ⟨את⟩ go boloka sebopego."
+    }
+  ],
+  "translation": "Gomme Yuda a ya le ⟨את⟩ Shimeone mnaesi wa gagwe, gomme ba otla ⟨את⟩ Mokenaana yo a dulago Tsefate, gomme ba e senyeditše ⟨את⟩ ka botlalo, gomme a bitša ⟨את⟩ leina la motse Khorma.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "290862e9a05af5639074b8211d654953005dcbf5ebb379d23f7a2e84bd7a776f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/1\/17-20.1792287176134.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Shimeone"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Shimeone"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mnaesi wa gagwe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba otla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mokenaana"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokenaana"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "yo a dulago"
+    },
+    {
+      "surface": "צפת",
+      "gloss": "Tsefate"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "ba e senyeditše"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "motse wa Tsefate"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "a bitša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "la motse"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Khorma"
+    }
+  ],
+  "timestamp": "2026-10-18T01:32:56.135263880Z",
+  "model": "glm-5.3"
+}

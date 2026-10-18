@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a gago",
+      "rationale": "suffix ya bobedi bja bongši ya Seheberu e nyakega ka Sepedi"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויעשנו",
+      "rationale": "ןimperfect ya go bowa (mooko) — 'di tla bowa' kgahlanong le 'di tla nyamela'; mooko ke seswantšho sa go galefa ga Elohim"
+    }
+  ],
+  "translation": "Yahwe, o thule magodimo a gago gomme o theoge; o kganye mehlaba gomme di tlo ntšha mooko.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3823681dd95ba4e8da74844860cec153bb0ccfe1195e43e232858978f5b1f86d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/144\/5-8.1792299138693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "o thule"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "magodimo a gago"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "gomme o theoge"
+    },
+    {
+      "surface": "גע",
+      "gloss": "o kganye"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "mehlaba"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": ""
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "gomme di tlo ntšha mooko"
+    }
+  ],
+  "timestamp": "2026-10-18T04:52:18.693819062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ויקרא",
+      "rationale": " Sepedi go 7:11: sefela se feletšego 'ויקרא' se na le sehlopha sa bontši 'השערים' — KJV e fetošetše 'he called the porters'; JPS le BSB di tšeela bašireledi bjalo ka sehlopha se diretswego go bitša"
+    },
+    {
+      "kind": "addition",
+      "subject": "gomme",
+      "rationale": "kopanyi ya Sepedi e okeditšwe go hlalosa go latelana ga ditiragalo"
+    }
+  ],
+  "translation": "Bašireledi ba kgoro ba bitša, gomme ba tsebiša ntlong ya kgoši ka teng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f83fd481bd16c2de971c566aadd909b4cb021e4067f6a9494737b8f1928de09c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/7\/9-12.1792290708405.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ba bitša"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "bašireledi ba kgoro"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "gomme ba tsebiša"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgoši"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "ka teng"
+    }
+  ],
+  "timestamp": "2026-10-18T02:31:48.406248198Z",
+  "model": "glm-5.3"
+}

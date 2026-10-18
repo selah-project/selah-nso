@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mahlong a Yahwe",
+      "rationale": "בעיני יהוה — 'mahlong a' bolela 'ka ponahalo ya'; Sepedi se boloka seswantšho sa mahlo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bobebe",
+      "rationale": "הרע — seabe sa Seheberu se bolela 'sebe goba se se mpe'; 'bobebe' boloka khutšo ya lentšu."
+    }
+  ],
+  "translation": "Gomme a dira bobebe mahlong a Yahwe, gomme a sepela ka morago ga dibe tša Yeroboeamo mora Nebate, yeo a dirilego gore Yisraele e dira ⟨את⟩ sebe; ga a ka a fapogela go yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "03b9f9c9d9298eb2810642908d702e3f68bc60e87e0c50a20643d7fa406224bc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/13\/1-4.1792290785688.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "gomme a dira"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "bobebe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "gomme a sepela"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "dibe tša"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yeroboeamo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "a dirile gore e dira sebe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga a ka"
+    },
+    {
+      "surface": "סר",
+      "gloss": "a fapogela"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "go yona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:33:05.689164233Z",
+  "model": "glm-5.3"
+}

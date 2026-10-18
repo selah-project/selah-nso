@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 5:14",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sefate",
+      "rationale": "עצים ke ditlhare\/lesfate — setšhaba se fetotše sefate sa mollwane"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mollwane o tla se ja",
+      "rationale": "ואכלתם semantšo sa pele ke 'o tla ba ja' — motho wa pele o (Yeremia) goba mollwane ka boyona; mollwane ke go bolela ga semoya"
+    }
+  ],
+  "translation": "Ka gona bjalo o boletše Yahwe, Elohim wa Tsebaote: ka gobane le boletše ⟨את⟩ lentšu le, bonang, ke neela mantšu a ka ka molomong wa gago go ba mollwane, gomme setšhaba se se ka sefate, gomme mollwane o tla se ja.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2cd3d107cf5962f7ad97c2e8cef84760f614636e30b11229a8fa7e31b7b1d499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/5\/13-16.1792292757788.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka gona bjalo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "o boletše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "דברכם",
+      "gloss": "le boletše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lentšu le"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonang-ke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ke neela"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "mantšu a ka"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ka molomong wa gago"
+    },
+    {
+      "surface": "לאש",
+      "gloss": "go ba mollwane"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "gomme-setšhaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "se ka sefate"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "gomme-o tla se ja"
+    }
+  ],
+  "timestamp": "2026-10-18T03:05:57.789556154Z",
+  "model": "glm-5.3"
+}

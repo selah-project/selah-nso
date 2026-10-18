@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨tšona⟩",
+      "rationale": "Sebopego sa mafele se nyakega go hlaloša ba latelwago"
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלקלקות",
+      "rationale": "Lentšu le hlaloša dilo tše bonolo gomme di makatša — tše di ka go theoga, sebopego sa pene-mpe sa go ralala le חשך"
+    }
+  ],
+  "translation": "Tsela ya tšona e be lefsifsi le tše phaphathegilego, gomme moela wa Yahwe a latela ⟨tšona⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2cd652a6c2ab2b5db7d020ccc77f4d525584910dabecdda16ec45f856edc0d4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/35\/5-8.1792297581207.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "e be"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "tsela ya tšona"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "gomme tše phaphathegilego"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "gomme moela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "a latela ⟨tšona⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:21.208604802Z",
+  "model": "glm-5.3"
+}

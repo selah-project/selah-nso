@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 2:16",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "copula ye e hlokago ka Sepedi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "151 450",
+      "rationale": "palo moka ya kampa ya Reubene — dikgoru tharo tša mokgatlo o mongwe le o mongwe"
+    },
+    {
+      "kind": "crux",
+      "subject": "ושנים",
+      "rationale": "ד qopha: 'ba bobedi' (mokgatlo wa bobedi) goba 'ba tla boela ba sepela' — bontši bo ka bolela bobedi"
+    }
+  ],
+  "translation": "Bao ka moka ba badilwego go tšwa go kampa ya Reubene, ⟨ke⟩ dikete tše lekgolo le masomehlano le tee, le makgolo a nne le masomehlano, go ya ka masole a tšona; gomme ba tla sepela ba bobedi.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2b500ff97263ae027f2b9a5a001f7822a3a1ea33061a9f6788b5047fc31b239c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/2\/13-16.1792284423115.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "bao ba badilwego"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "go tšwa go kampa ya"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reubene"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "lekgolo"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "le tee"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masomehlano"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "le nne"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masomehlano"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "go ya ka masole a tšona"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "gomme ba bobedi"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "ba tla sepela"
+    }
+  ],
+  "timestamp": "2026-10-18T00:47:03.116779591Z",
+  "model": "glm-5.3"
+}

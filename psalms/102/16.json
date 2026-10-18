@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 102:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 102,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bokgabo",
+      "rationale": "כבוד is literally 'weight, heaviness' — figuratively splendour; Sepedi 'bokgabo' (splendour\/beauty) renders the figurative sense, losing the weight metaphor."
+    },
+    {
+      "kind": "elision",
+      "subject": "second verb for kings",
+      "rationale": "Hebrew supplies no second 'fear' for the kings; Sepedi 'le' carries the verb over, as in KJV 'and all the kings... thy glory'."
+    }
+  ],
+  "translation": "Gomme ditšhaba di tla tšhaba ⟨את⟩ leina la Yahwe, le dikgoši ka moka tša lefase ⟨את⟩ bokgabo bja gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "57ca60887d70e9a5896c96996fd6eba208bd2f7779dd9c5b8e7c2e2a3d1970f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/102\/13-16.1792298566281.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "Gomme di tla tšhaba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leina la Yahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le ka moka"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgoši tša"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bokgabo bja gago"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "bokgabo bja gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:46.282960153Z",
+  "model": "glm-5.3"
+}

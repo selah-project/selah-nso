@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨re⟩",
+      "rationale": "לנו e bolela 'go rena'; modiredi o tsego go tšwa mothalong o fašitšwe"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ditatlanoko",
+      "rationale": "עונות lentšu le tee le 'dibe' ka bobedi; go hlopha go bolokwa go fapantšha mafoko a mabedi a Seheberu"
+    }
+  ],
+  "translation": "Ga a ka a dira go ya ka dibe tša rena, gomme ga a ka a re dušetša go ya ka ditatlanoko tša rena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5eace37ea168adbb12bf2cd218734c76da5492dcc98c24c42bbb589000dc3e43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/103\/9-12.1792298535571.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga a ka"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "go ya ka dibe tša rena"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨re⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga a ka"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "go ya ka ditatlanoko tša rena"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "a re dušetša"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "go rena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:15.572726404Z",
+  "model": "glm-5.3"
+}

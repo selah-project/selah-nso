@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 6:14",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sebopego sa temana",
+      "rationale": "Seheberu se sa kopanya sephetho: KJV\/JPS e bolela molao (hesede e swanetše go fiwa), YLT e bolela kgalefo (go nyenyefatša bagwera ke tlhompho) — sephetho se sa hlaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "hesede (חסד)",
+      "rationale": "e bolokilwe ka modumo go ya le D2 — e swara moya wa botho le kgwerano, e sego 'khotso' fela"
+    }
+  ],
+  "translation": "Mokhubetšego o swanetše go fiwa hesede go tšwa go mogwera wa gage, eupša yo a tlošago go tšaba Shadai.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "909cd8ffb3b005356da559a8ecac52352bc5bffc51b511688ca1dd1e4462779c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/6\/13-14.1792305345737.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למס",
+      "gloss": "mokhubetšego"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "mogwera wa gage"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "hesede"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "le go tšaba"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "יעזוב",
+      "gloss": "a tloša"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:45.738066899Z",
+  "model": "glm-5.3"
+}

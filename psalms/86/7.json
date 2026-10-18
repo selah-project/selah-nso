@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 86,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sekhutšo",
+      "rationale": "צרה ke 'go nyakafala' — sekhutšo e bontšha sebopego sa modumo"
+    }
+  ],
+  "translation": "Ka letšatši la sekhutšo sa ka ke tla go bitša, ka gobane o mpula.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "133a5716555a948c169a21ead9202567d83ea7b4b64b79463ae64f1592b09734",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/86\/5-8.1792298386954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "la sekhutšo sa ka"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ke tla go bitša"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "o mpula"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:46.955169778Z",
+  "model": "glm-5.3"
+}

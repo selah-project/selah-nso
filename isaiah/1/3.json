@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יָדַע...לֹא יָדַע",
+      "rationale": "Verb 'know' repeated in contrast: ox knows, Israel does not know — verbal echo across the verse."
+    },
+    {
+      "kind": "crux",
+      "subject": "אֵבוּס",
+      "rationale": "Rare word: 'crib\/manger' — some render 'stall\/feeding trough'; sekwakwa keeps the feeding-trough picture."
+    },
+    {
+      "kind": "hapax",
+      "subject": "אֵבוּס",
+      "rationale": "אבוס appears only three times in the Tanakh, rare concrete noun."
+    }
+  ],
+  "translation": "Kgomo e a tseba mong wa yona, le phoofolo ya mouta sekwakwa sa mong wa yona; Yisraele ga ea tseba, setšhaba sa ka ga sa uta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6beb105412b3d0f341ff93a7b970e93c6ed9f7caf9493d7e48af5de34a864aa0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/1\/1-4.1792291163873.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "e a tseba"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Kgomo"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "mong wa yona"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "gomme phoofolo ya mouta"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "sekwakwa"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sa mong wa yona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ea tseba"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "sa uta"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:23.874195180Z",
+  "model": "glm-5.3"
+}

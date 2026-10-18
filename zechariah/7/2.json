@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 7:2",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חלות פני",
+      "rationale": "Literal 'to soften\/rub the face of Yahwe' — idiom for entreating favor; rendered 'go kgopela sefahlego'"
+    },
+    {
+      "kind": "crux",
+      "subject": "בית אל",
+      "rationale": "Read as sender 'Bethel sent' (place) or as name-part Bethel-Sarezer (JPS) — 'Baetele sent' follows the first"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מלך",
+      "rationale": "רגם מלך may be the proper name Regem-Melek or 'Regem the king's officer'; taken as one name"
+    }
+  ],
+  "translation": "Gomme Baetele a romela ⟨את⟩ Sharetsera le ⟨את⟩ Regeme-Meleke le batho ba gagwe, go kgopela ⟨את⟩ sefahlego sa Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d7b0edd3675cb954dffea531ba275f6a4a73589086cc58cb26e4c70cfb108852",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/7\/1-4.1792296888786.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "a romela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bae"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tele"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Share"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "tsera"
+    },
+    {
+      "surface": "וורגם",
+      "gloss": "gomme Regeme"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Meleke"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "le batho ba gagwe"
+    },
+    {
+      "surface": "לחלות",
+      "gloss": "go kgopela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sefahlego sa Yahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlego sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:14:48.787466347Z",
+  "model": "glm-5.3"
+}

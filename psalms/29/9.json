@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "diapole tša phaphathakgofu",
+      "rationale": "אילות: 'diapole' (BSB) kgahlanong le 'mekgwa\/selokho' (KJV go tšwa karolwana e nngwe ya lentšu); ylt o re 'diaka'."
+    },
+    {
+      "kind": "crux",
+      "subject": "כבוד",
+      "rationale": "'Kgethwa' (kgetho, boima) — kahlolo ya mantšu: 'Kgethwa!' kgahlanong le 'Sebate!' (Sesotho, AOWA)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קול יהוה",
+      "rationale": "Phetelo ya 'modumo wa Yahwe' ga rareretše gabotse go tšwa setšeneng se se fetilego — kgoboketšo ya ga seithuti."
+    }
+  ],
+  "translation": "Modumo wa Yahwe o dira gore diapole tše di sego tša phaphathakgofu, gomme o a hlweka dikhgweng — gomme ka tempele ya gagwe, ka moka ba re: Kgethwa!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "72de4c19d358056f472487a268c5baea71f324be6f164b6e97c70f23a6a4f309",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/29\/9-11.1792297428052.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "modumo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "o dira gore di sego"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "diapole tša phaphathakgofu"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "gomme o a hlweka"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "dikhgweng"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "gomme ka tempele ya gagwe"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Kgethwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:48.053276701Z",
+  "model": "glm-5.3"
+}

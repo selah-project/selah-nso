@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 22:17",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "המעט לנו",
+      "rationale": "Rhetorical question: 'is it too little for us' vs 'is it little to us' — a complaint that Peor's guilt still clings to all Israel."
+    },
+    {
+      "kind": "alternative",
+      "subject": "הנגף",
+      "rationale": "Could read as the specific past plague of Numbers 25 rather than a general scourge."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨le⟩",
+      "rationale": "Sepedi needs the demonstrative 'le' after lehono; Hebrew demonstrative הזה folded into 'go fihla lehono le'."
+    }
+  ],
+  "translation": "A e nyenyane ka rena ⟨את⟩ sebe sa Peore, seo re sa hlwekago go tšwa go sona go fihla lehono ⟨le⟩, gomme go bile le sehu setšhabeng sa Yahwe?",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3ccb1489a3cadd1da06a99ad9639b63e7cf76748d57ce51c67b1ad8101ab4149",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/22\/17-20.1792287039815.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "המעט",
+      "gloss": "a e nyenyane"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ka rena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sebe sa Peore"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Peore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "הטהרנו",
+      "gloss": "re sa hlwekago"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tšwa go sona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨le⟩"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go bile le"
+    },
+    {
+      "surface": "הנגף",
+      "gloss": "sehu"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "setšhabeng"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sa Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:30:39.815800751Z",
+  "model": "glm-5.3"
+}

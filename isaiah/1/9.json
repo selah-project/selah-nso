@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 1:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כמעט",
+      "rationale": "'a very little' ka kgolokhutšo (KJV) goba 'a few survivors' (BSB); Sepedi e latela 'se senyenyane'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Sedomo le Amoraha",
+      "rationale": "Maina a mafelo a fetwa ka modumo wa Seheberu, a sa fetolelwa."
+    }
+  ],
+  "translation": "Ega e sego Yahwe Tsebaote o ile a siea go rena sešulego se senyenyane, re ka be re le bjalo ka Sedomo, go Amoraha re ka be re swane le yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fcfdbc9c76af9b83e210a0543159b4583687a5a8484808fc6d8bb80296f62090",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/1\/9-12.1792291119542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "ega e sego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "הותיר",
+      "gloss": "o ile a siea"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rena"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "sešulego"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "se senyenyane"
+    },
+    {
+      "surface": "כסדם",
+      "gloss": "bjalo ka Sedomo"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "re ka be re le"
+    },
+    {
+      "surface": "לעמרה",
+      "gloss": "go Amoraha"
+    },
+    {
+      "surface": "דמינו",
+      "gloss": "re ka be re swane le yona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:38:39.542594491Z",
+  "model": "glm-5.3"
+}

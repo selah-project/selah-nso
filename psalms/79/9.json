@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 79,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tokoloho",
+      "rationale": "ישע ke tokoloho, go lokollwa — e sego 'phegelo' ya tlwaelegilego"
+    },
+    {
+      "kind": "crux",
+      "subject": "וכפר",
+      "rationale": "'go phusa' (go lieka) kgahlanong le 'go fofa ka lefaufau'; YLT: 'cover over'"
+    },
+    {
+      "kind": "you",
+      "subject": "go Elohim",
+      "rationale": "thapelo e direlwa Elohim ka bowena"
+    }
+  ],
+  "translation": "Rea re thusa, Elohim wa tokoloho ya rena, ka lebaka la kgodiso ya leina la gago, gomme re lokollwe, gomme dibe tša rena di phusego, bakeng sa leina la gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "edf39761c57cdfb835e9bdffc14709e5c682091683f7a2016cd8716bf8408884",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/79\/9-12.1792298320965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "rea re thusa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "tokoloho ya rena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kgodiso"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "gomme re lokollwe"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "gomme di phusego"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "dibe tša rena"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:38:40.966116404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 20:3",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וישר במגרה",
+      "rationale": "'a se sega ka segari' — barwaledi ba kgohlakana: go sega batho (KJV, JPS) kgahlanong le go ba šomiša mešini ya go sega (BSB); lentšu le ka bolehla fela 'go sega'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "חריצי הברזל",
+      "rationale": "'dithare tša tšhipi' — seheberu: dikhutlo tše dikgethwago tša tlhapi tša go gogolla dikoro, e sego thare ya Sepedi ka mo go tlwaelegilego"
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ setšhaba se se seng go sona a se ntšha, a se sega ka segari le ka dithare tša tšhipi le ka dilegari; gomme Dafida a dira bjalo metse yohle ya bana ba Amono; gomme Dafida le setšhaba ka moka ba boela Yerushalayime.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "166339903ef4d3dca5fe8bf8701053c1c4e8b4e368a6010bea850e3aea65c5cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/20\/1-4.1792303371939.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se seng"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go sona"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "a se ntšha"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "a se sega"
+    },
+    {
+      "surface": "במגרה",
+      "gloss": "ka segari"
+    },
+    {
+      "surface": "ובחריצי",
+      "gloss": "le ka dithare"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "tša tšhipi"
+    },
+    {
+      "surface": "ובמגרות",
+      "gloss": "le ka dilegari"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "gomme bjalo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go yohle"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "metse"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amono"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ba boela"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba ka moka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    }
+  ],
+  "timestamp": "2026-10-18T06:02:51.941317475Z",
+  "model": "glm-5.3"
+}

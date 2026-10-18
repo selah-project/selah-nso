@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי",
+      "rationale": "כי ya bobedi: e hlalosa (gore) goba e ganetša (empa, bjalo ka JPS\/Geneva); mo go tšea setilo sa ganetšo"
+    },
+    {
+      "kind": "invitation",
+      "subject": "o boife Elohim",
+      "rationale": "Go laelwa ka tlhamalako: o boife Elohim — motheo wa kgaolo ye ka moka"
+    }
+  ],
+  "translation": "Gore ka bontši bja mapina le mafoforo le mantšu a mantsi; ⟨empa⟩ o boife ⟨את⟩ Elohim.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "3bb4f776930c8569185c768a12a7729af61f2e989338b1c8829e9a8722be85ae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/5\/5-8.1792301488606.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ka bontši bja"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "mapina"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "le mafoforo"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "le mantšu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨empa⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "o boife"
+    }
+  ],
+  "timestamp": "2026-10-18T05:31:28.607390755Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גור יגור",
+      "rationale": "Moelelo o thata: go gobaletšwa mafatšeng (balwetši) goba go kgobokana (dira), go tšwa go mlhlabadi; KJV 'gather', JPS 'gather together'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גור יגור ... גר",
+      "rationale": "Infinitive absolute e boeleditšwe le go boa ga lentšu: sebopego se sa loka ka botlalo ka Sepedi."
+    },
+    {
+      "kind": "you",
+      "subject": "to Zion",
+      "rationale": "Taba ya boraro bja bošedi go Setšion."
+    }
+  ],
+  "translation": "Bonang, go gobeletšwa go tla gobeletšwa, ga selo ⟨את⟩ go tšwa go nna; yo a gobeletšago ⟨את⟩ le wena, o tla wa go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "07029e31779e38e20ce40c5d90e7c0bc6d56c8d23c6e669cd8b4f80e4e214651",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/54\/13-16.1792292362400.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "גור",
+      "gloss": "go gobeletšwa"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "go tla gobeletšwa"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "ga selo"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "yo a gobeletšwago"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "a gobeletšago"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ le wena"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "o tla wa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:22.401844614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 16:7",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מואב למואב כלה ייליל",
+      "rationale": "Go boela ga lentšu 'Moabe' le 'o tla llela' ga bobedi — sebopego sa go lla se se ipoeletšago"
+    },
+    {
+      "kind": "crux",
+      "subject": "אשישי",
+      "rationale": "'dikuku tša miri' (yeo e tlwaelegilego) kgatlhanong le 'thehgo' (KJV foundations) — lentšu le bolela dikuku tša miri tše omilego"
+    },
+    {
+      "kind": "hapax",
+      "subject": "אשישי",
+      "rationale": "Palo ya botši ya lentšu le — e lebakantšwe le Hoshea 3:1 fela"
+    }
+  ],
+  "translation": "Ka ge leo, Moabe o tla llela Moabe, Moabe ka moka o tla llela; bakeng sa dikuku tša miri tša Kire-Kerešete le tla lla, le gona ba otlwegile kudu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c943102781b07f1a3b11ad3ac3a5d786f2ed28dd65a05f7ef13a0d10af7cebc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/16\/5-8.1792291606115.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ka ge leo"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "o tla llela"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "Moabe"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ייליל",
+      "gloss": "o tla llela"
+    },
+    {
+      "surface": "לאשישי",
+      "gloss": "bakeng sa dikuku tša miri"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kire"
+    },
+    {
+      "surface": "חרשת",
+      "gloss": "Kerešete"
+    },
+    {
+      "surface": "תהגו",
+      "gloss": "le tla lla"
+    },
+    {
+      "surface": "אך",
+      "gloss": "le gona"
+    },
+    {
+      "surface": "נכאים",
+      "gloss": "ba otlwegile kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T02:46:46.116255967Z",
+  "model": "glm-5.3"
+}

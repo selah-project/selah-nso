@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ארור … וארור",
+      "rationale": "Go boeledwa ga lefoko la 'o a sotlwa' ka moka — papadi ya modumo ye e bolokilwego ka go Sepedi ka go boeledwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "naganeng",
+      "rationale": "בשדה — naga (lefase la ntle); 'polaseng' e ka ba taelo ya mošomo wa diatla fela"
+    }
+  ],
+  "translation": "O a sotlwa motseng, gomme o a sotlwa naganeng.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d11719aa63fd31fbce0f707cee1bccf32c215b86e3fad413e2241fc9ef0e0879",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/28\/13-16.1792286288735.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "o a sotlwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "motseng"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "o a sotlwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "naganeng"
+    }
+  ],
+  "timestamp": "2026-10-18T01:18:08.736589229Z",
+  "model": "glm-5.3"
+}

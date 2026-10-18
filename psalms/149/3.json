@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 149,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "במחול",
+      "rationale": "'Ka go bina' (bina bjalo ka sedumo sa selete) kgahlanong le 'mo go binwang' bjalo ka lefala la bino"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kenora",
+      "rationale": "כנור ke letswalo la Seheberu; lentšu le ngwalwa ka modumo wa lona"
+    }
+  ],
+  "translation": "Ba dumise leina la yena ka go bina; ka sesepa le kenora ba mo opeleng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "207302da79d7a429801265f61941fcacd9212f46dd4d4d2d5241d922294d54cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/149\/1-4.1792299110260.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Ba dumise"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la yena"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "ka go bina"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ka sesepa"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "le kenora"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "ba opeleng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:50.261389669Z",
+  "model": "glm-5.3"
+}

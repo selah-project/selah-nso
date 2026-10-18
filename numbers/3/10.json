@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "הזר",
+      "rationale": "zar: 'yo a sa rwego maemo' — motho yo a sego wa lelapa la baperisita, e sego moafrika ka tsela ya kajeno."
+    },
+    {
+      "kind": "crux",
+      "subject": "תפקד",
+      "rationale": "paqad: 'go laetša \/ go hlahlamya' (muster) — diphetolelo tše ntši di re 'appoint'."
+    }
+  ],
+  "translation": "Gomme ⟨את⟩ Aharone le ⟨את⟩ bana ba gagwe o a ba laetša, gomme ba šireletša ⟨את⟩ boperisita bja bona; gomme motho wa ka ntle yo a atametseng o tla bolaelwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "93b481a4f8bd6fab686fa6dd2b859e127539f22b96e2d84e36b96bf6c279c18b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/3\/9-12.1792284409311.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "Aharone"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba gagwe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "o a ba laetša"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "gomme ba šireletša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "boperisita bja bona"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "boperisita bja bona"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "gomme motho wa ka ntle"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "yo a atametseng"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "o tla bolaelwa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:46:49.312545073Z",
+  "model": "glm-5.3"
+}

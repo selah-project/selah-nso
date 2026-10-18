@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש e atametše go 'moya\/bophelo' — sefofiso sa motho yo a phefago, e sego 'moya' wa Sesotho"
+    },
+    {
+      "kind": "idiom",
+      "subject": "bo le letlhakoreng la ka",
+      "rationale": "נפשי בכפי — 'bophelo bja ka go seatla sa ka' — ke seerapeng sa go bea bophelo kotsing"
+    },
+    {
+      "kind": "addition",
+      "subject": "e",
+      "rationale": "Sepedi se nyaka lediri la thuso leo Seheberu se se senago"
+    }
+  ],
+  "translation": "Bophelo bja ka bo le letlhakoreng la ka ka mehla, gomme Toraha ya gago ga e ka ke ya e hlokomologa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c25d66ebf54a4637bc1d45fc35c5552b129120b3f369161dad96001cefcd08b9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/109-112.1792298840380.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja ka"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "bo le letlhakoreng la ka"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka mehla"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "gomme Toraha ya gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "e ka ke ya e hlokomologa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:20.381064779Z",
+  "model": "glm-5.3"
+}

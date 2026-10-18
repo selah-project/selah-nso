@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 81,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ka potlako",
+      "rationale": "כִּמְעַט literally 'like a little' — a small thing, quickly; 'ka potlako' (quickly) is the idiomatic sense"
+    },
+    {
+      "kind": "substitution",
+      "subject": "manaba",
+      "rationale": "צָרִים literally 'those in a tight place \/ distressers', rendered as 'manaba' like אויבים; the nuance of narrowness is lost"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אויביהם \/ צריהם",
+      "rationale": "parallel pair of near-synonyms for enemies, kept as a pair in Sepedi"
+    }
+  ],
+  "translation": "Ka potlako o be a fokoša manaba a bona, gomme lekgahlanong le manaba a bona o be a bušetša ⟨seatla⟩ sa gage.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "864e5b869f57b09e73749a0c6f853dd14d61cd9e9e9749dab8ef8e80d23d10a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/81\/14-15.1792305271731.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ka potlako"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "manaba a bona"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "go fokoša"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "gomme kgahlanong le"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "manaba a bona"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "go bušetša"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa gage"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:31.731849686Z",
+  "model": "glm-5.3"
+}

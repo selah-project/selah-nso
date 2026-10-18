@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "עד התמהמהם",
+      "rationale": "'ka ge ba diega' — mo go feditšwe ka go hlalosa, e sego ka lentšu le tee"
+    },
+    {
+      "kind": "crux",
+      "subject": "הפסילים",
+      "rationale": "KJV 'quarries', YLT 'images' — diphologelo tša maina; 'medimo' ke kahlolo ya lebaka la bošego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "השעירתה",
+      "rationale": "Leina la lefelo, le phetololetšwe ka modumo: Seirata"
+    }
+  ],
+  "translation": "Gomme Ehude a phologa ka nako ya go diega ga bona; gomme a feta ⟨את⟩ medimo, a phologa a ya Seirata.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "8aa77610e050e976349ece5b4026db83b6187a405cb3c64e8b132bf0233d280d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/3\/26-27.1792304744741.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "Gomme Ehude"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "a phologa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ka nako ya"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "go diega ga bona"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "gomme yena"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "a phologa"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "a ya Seirata"
+    }
+  ],
+  "timestamp": "2026-10-18T06:25:44.742307403Z",
+  "model": "glm-5.3"
+}

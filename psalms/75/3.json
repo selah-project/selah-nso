@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 75,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ekaḥ mo'ed",
+      "rationale": "'go tswelela nako ye e kgethwilwego' — LXX e hlalosa 'ka komedi', KJV 'go amogela phuthego'; ke Lentšu la Yahwe le bolelago fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "anokhi",
+      "rationale": "'nna ka norena' — pronoun e tiilega bakeng sa go gatelela gore ke Yahwe feela a kahlolago"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ka toka",
+      "rationale": "meisharim — 'bokagodimo', go se fetoge; e šumišitšwe bakeng sa kahlolo ya go loka"
+    }
+  ],
+  "translation": "Ge nka tswelela nako ye e kgethwilwego, nna ka norena ke a kahlola ka toka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b03b27197604dfb3d511b421df87fa378d82451e20f94e732280864af02e7751",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/75\/1-4.1792298203785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "nka tswelela"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "nako ye e kgethwilwego"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nna ka norena"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ka toka"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ke a kahlola"
+    }
+  ],
+  "timestamp": "2026-10-18T04:36:43.786544246Z",
+  "model": "glm-5.3"
+}

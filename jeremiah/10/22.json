@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 10:22",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dipiri",
+      "rationale": "תנים usually 'jackals' here; KJV 'dragons' from תנין confusion — jackal fits ruined cities"
+    },
+    {
+      "kind": "addition",
+      "subject": "lentšu la",
+      "rationale": "Sepedi needs connective 'la' between 'lentšu' and 'tsebišo'; Hebrew construct needs none"
+    },
+    {
+      "kind": "mystery",
+      "subject": "lentšu la tsebišo",
+      "rationale": "the report arrives from the dark north — what it announces is withheld"
+    }
+  ],
+  "translation": "Lentšu la tsebišo, bonang, le a tla, gomme modumo wa go thunya o mogolo go tšwa lefaseng la leboa, go dira ⟨את⟩ magoro a Yudaha go senyega, mo gae wa dipiri.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "93273d961e0ece9667e215f449193c52e7cd634457e66cadb78ef9de3b0cf20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/10\/21-24.1792292941673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "la tsebišo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "באה",
+      "gloss": "le a tla"
+    },
+    {
+      "surface": "ורעש",
+      "gloss": "gomme modumo wa go thunya"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "o mogolo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "go tšwa lefase"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "la leboa"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "magoro a Yudaha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "magoro"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "a Yudaha"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "go senyega"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "mo gae"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "wa dipiri"
+    }
+  ],
+  "timestamp": "2026-10-18T03:09:01.674601348Z",
+  "model": "glm-5.3"
+}

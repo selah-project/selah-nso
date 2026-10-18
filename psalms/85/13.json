@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 85,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "יתן\/תתן",
+      "rationale": "Go boela ga lenaneo la go fa — Yahwe o fa, lefase le nea — go diegile ka go ana gantsi, go phelwa ka tsela ye nngwe fela ka Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "leme",
+      "rationale": "יבולה ke sebakelwa sa lefase (leme, khundu ya leruo); lentšu la Sepedi le bolela khundu ka moka."
+    }
+  ],
+  "translation": "Ruri Yahwe o tla fa se se botse, gomme lefase la rena le tla nea leme la yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cf0931526d8497ec42f1c5180566b79e392002d141456bdd64445ef32aba1d3e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/85\/13-14.1792298344974.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ruri"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "o tla fa"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "se se botse"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "gomme lefase la rena"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "le tla nea"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "leme la yona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:04.975292705Z",
+  "model": "glm-5.3"
+}

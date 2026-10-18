@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ערף\/יזל",
+      "rationale": "Ditiro tše pedi tša go nona (go nolla le go tlala) di a swana; peakanyo ya go fetofetoga ga pula le kogodi e phelwa ka tsela e nngwe feela ka Sepedi."
+    },
+    {
+      "kind": "alternative",
+      "subject": "שעירם",
+      "rationale": "Lentšu le ka bolela gape 'dipula tše makoa'; ke tše dibiledi tše dinnyane tša go namela, ka baka leo 'dipula tše gobogabo'."
+    }
+  ],
+  "translation": "Thuto ya ka e tle e nolle bjalo ka pula, polelo ya ka e tle e tlale bjalo ka kogodi; bjalo ka dipula tše gobogabo go bjang bjo bo tšwago, le bjalo ka madinko go bjang.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5ea134ecc658e6dcff41e48ec371637446f66eb77588760d54d8fcd24bfc9dfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/32\/1-4.1792286448382.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "e tle e nolle"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "bjalo ka pula"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "thuto ya ka"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "e tle e tlale"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "bjalo ka kogodi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "polelo ya ka"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "bjalo ka dipula tše gobogabo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "bjang bjo bo tšwago"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "le bjalo ka madinko"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "bjang"
+    }
+  ],
+  "timestamp": "2026-10-18T01:20:48.383668366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מדבר",
+      "rationale": "'naga e sego ya go fofa' (e sego teraka) kgahlanong le 'bohole'\/'thata' — lehlakoreng la bophara bjalo ka sebaka seo dikgomo di bjalago go sona"
+    },
+    {
+      "kind": "addition",
+      "subject": "a le",
+      "rationale": "Sepedi e nyaka kopanya yeo Seheberu se e tlošago ka bophara ka בהיותו"
+    }
+  ],
+  "translation": "Sefoko sa mmino sa Dafida, ge a be a le nageng ya go fofa e sego ya Yehuda.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/63\/1-4.1792297989531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "sefoko sa mmino"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sa Dafida"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ge a be a le"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nageng ya go fofa e sego"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ya Yehuda"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:09.532070760Z",
+  "model": "glm-5.3"
+}

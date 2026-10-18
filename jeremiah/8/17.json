@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 8:17",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לחש",
+      "rationale": "boiled down to a whispered incantation of a snake-charmer — 'bopia' (charm) or 'go hudisa' (to hush); ke there is no charming for these snakes."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צפענים",
+      "rationale": "vipers, kept in shape as 'dinoga tša tshipi' — not a monstrous 'cockatrice'."
+    }
+  ],
+  "translation": "Ka gobane bonang, ke romela go lona dinoga tša tshipi, tše di se nago bopia, gomme di tla lo loma ⟨את⟩ lona, go bolela Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "32ddecbe859807b6cc7aecc64e5123110dbb3d2c69ae6fb69ebd204f6850b85e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/8\/17-20.1792293025786.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bonang"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ke romela"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "נחשים",
+      "gloss": "dinoga"
+    },
+    {
+      "surface": "צפענים",
+      "gloss": "tša tshipi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "אין",
+      "gloss": "di se nago"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨di⟩"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "bopia"
+    },
+    {
+      "surface": "ונשכו",
+      "gloss": "gomme di tla lo loma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:10:25.787409093Z",
+  "model": "glm-5.3"
+}

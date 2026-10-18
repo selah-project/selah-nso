@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 18:16",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba kgopoma godimo ga",
+      "rationale": "וישקפו ka boithomelo ke go kgopoma (fasetereng) — sefahlegong sa Sodoma, e sego go lebanya feela"
+    },
+    {
+      "kind": "idiom",
+      "subject": "על פני סדם",
+      "rationale": "Sefahlego sa — go bolela \"ka tsela ya \/ lehlakoreng la\" Sodoma; mme potego ya go kgopoma e bolokwa"
+    },
+    {
+      "kind": "alternative",
+      "subject": "go ba iswa pele",
+      "rationale": "לשלחם ke go ba romela ka tsela; go iswa pele ke sebopego se se tlwaelegilego, gomme \"go ba romela\" e ka šomišwa"
+    }
+  ],
+  "translation": "Gomme banna ba tloga moo, ba kgopoma godimo ga sefahlegong sa Sodoma; gomme Abrahama o sepela le bona go ba iswa pele.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "3c982714c615f040ddd6ae72560099898f7789f21a7100b0f136b9d24b52cd6b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/18\/15-16.1792304570385.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ba tloga moo"
+    },
+    {
+      "surface": "משם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "וישקפו",
+      "gloss": "ba kgopoma godimo ga"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "פני",
+      "gloss": "sefahlegong sa"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sodoma"
+    },
+    {
+      "surface": "ואברהם",
+      "gloss": "gomme Abrahama"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "o sepela"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "le bona"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "go ba iswa pele"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:50.385839968Z",
+  "model": "glm-5.3"
+}

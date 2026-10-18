@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דבר בליעל",
+      "rationale": "Ke lentšu la Beliyale goba bothata bjo bo botse — dibakeng tše dingwe di fapana: 'bolwetši bjo bo botse' (KJV) kgahlanong le 'lentšu la Beliyale' (JPS)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכב \/ לקום",
+      "rationale": "Go robala le go tlouwa — dipu tše pedi tše di ganetsanago, kgopolo ya psalme yohle ya go wa le go tloutšwa."
+    }
+  ],
+  "translation": "Lentšu la Beliyale le a rothwa go yena, gomme yo a robetšego ga a ka ke a tlouwa gape.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fd4a393a7a8fb0e0c383820ad07bde823acd1d499ac584924b4a22bac82110a3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/41\/9-12.1792297681583.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "la Beliyale"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "le a rothwa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "gomme yo a"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "robetšego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "a ka ke a"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "tlouwa gape"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:01.584933937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go sepela",
+      "rationale": "ללכת e bolela 'go sepela' ka mošomo wa bophelo — go latelela Torah e ya go feta tsela ya maoto"
+    }
+  ],
+  "translation": "Ga ba a šireletša kgwerano ya Elohim, gomme Toratšeng ya gagwe ba gana go sepela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7b4797252d14c233ace718b6cd2f67837c715536e793f14b29097e5fbca2110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/9-12.1792298221002.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "ba a šireletša"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "gomme Toratšeng ya gagwe"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ba gana"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "go sepela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:01.003849200Z",
+  "model": "glm-5.3"
+}

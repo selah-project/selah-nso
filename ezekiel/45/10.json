@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dimeko · efa · bate",
+      "rationale": "Pale ya dikelo tša tsedeke — sekala, efa (poone) le bate (meetse)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צדק ×3",
+      "rationale": "Phetišetšo ga raro ya tsedeke — go a swara ga lentsu, se se theilwego Sepeding."
+    }
+  ],
+  "translation": "Dimeko tša tsedeke, gomme efa ya tsedeke, gomme bate ya tsedeke, a di be go lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "03ac006ed8195ed750984cd3e44b61199d42dc8a1a88cc70cc8d021dc40f9dc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/45\/9-12.1792295731686.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "dimeko"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "gomme efa"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "gomme bate"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "a be"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:55:31.687404809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אנכי אנכי",
+      "rationale": "go bowa ga nna ga bediri go bontšha maatla a phošo; Sepedi: Nna, nna"
+    },
+    {
+      "kind": "addition",
+      "subject": "ga go",
+      "rationale": "ga go ga Seheberu se hlalositšwego ka ואין se fetilwego"
+    }
+  ],
+  "translation": "Nna, nna ke Yahwe, gomme ntle le nna ga go ⟨את⟩ mošomi-ponši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2086284d44258a805aeeb1f6ef139858f95212ee8d470fe6876a6f00ce54e638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/43\/9-12.1792292094088.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Nna"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme ga go"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ntle le nna"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "mošomi-ponši"
+    }
+  ],
+  "timestamp": "2026-10-18T02:54:54.089550505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 4:3",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "loso",
+      "rationale": "גורל ke leswika la go laetše loso — go ala boemong, go bala."
+    },
+    {
+      "kind": "substitution",
+      "subject": "beine",
+      "rationale": "יין ke beine; se sa fetolwe go 'mokgwa' goba se sengwe."
+    }
+  ],
+  "translation": "gomme ba laetše loso bakeng sa setšhaba sa ka; gomme ba file mosa go seantšwana sa go dira bohlwelega, gomme ba rekisetše mosetsana ka beine, gomme ba noa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b6cf6963f1864771f3262726935207976b11e55b038b4f936c806bdb5674f15e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/4\/1-4.1792296203177.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "gomme bakeng sa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ba laetše loso"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "loso"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "gomme ba file"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "mosa"
+    },
+    {
+      "surface": "בזונה",
+      "gloss": "go seantšwana sa go dira bohlwelega"
+    },
+    {
+      "surface": "והילדה",
+      "gloss": "gomme mosetsana"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ba rekisetše"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "ka beine"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "gomme ba noa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:03:23.178167429Z",
+  "model": "glm-5.3"
+}

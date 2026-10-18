@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 44:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תהו",
+      "rationale": "tohu — lentšu la Genesi 1:2 (lefeela, phošofelo), le šomišwa mo bakeng sa diswantšho; modupi wa kgokagano o bolokwa ka lentšu le tee."
+    },
+    {
+      "kind": "crux",
+      "subject": "ועדיהם המה",
+      "rationale": "'bopaki ba bona ke bona' — bopaki ke babopiši ba ka bo bona, goba diswantšho ka bobedi; ditlhahlobo di fapana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יבשו",
+      "rationale": "boitšošo ba mahlo — 'go ba mahlonokong' ke sebopego sa setšo sa Sepedi, e sego 'go fifadima mahlo'."
+    }
+  ],
+  "translation": "Babopiši ba diswantšho, ka bobedi ke lefeela; gomme dilo tša bona tše di dumelego di ka se šome; bopaki ba bona — ⟨ke⟩ bona — ga ba bone, gomme ga ba tsebe, gore ba be mahlonokong.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "568802be28bbe9a40bc47a03890735dc4eade70cf24bd44470cb9a3a3cdc4a35",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/44\/9-12.1792292227560.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יצרי",
+      "gloss": "Babopiši"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "diswantšho"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ka bobedi"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "lefeela"
+    },
+    {
+      "surface": "וחמודיהם",
+      "gloss": "gomme dilo tša bona tše di dumelego"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "di ka se šome"
+    },
+    {
+      "surface": "ועדיהם",
+      "gloss": "bopaki ba bona"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ba bone"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ba tsebe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ba be mahlonokong"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:07.561299425Z",
+  "model": "glm-5.3"
+}

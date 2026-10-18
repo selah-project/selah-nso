@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "נרדפה",
+      "rationale": "Go phinya go ya tsebong: 're phinyeng go tseba' (JPS 'eagerly strive') kgathanong le KJV 'if we follow on' — ya bolela ge re sa phinya re ka se tsebe."
+    },
+    {
+      "kind": "hapax",
+      "subject": "מלקוש",
+      "rationale": "Pula ya mafehla ya selemo; lentšu le nyakile thata Tanakeng, le apišwa le yoresh (Joela 2:23)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "pula ya selemo",
+      "rationale": "מלקוש ke pula ya mafehla ya selemo, e sego ya thomo; 'ya selemo' e hlalosa nako ya yona."
+    }
+  ],
+  "translation": "Gomme re tla tseba, re phinyeng go tseba ⟨את⟩ Yahwe; bjalo ka mesong, go tšwa ga yena go tlwaetše; gomme o tla tla go re bjalo ka pula, bjalo ka pula ya selemo e nosago lefase.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ccd4e587470c4a05d8e068da3c391b409f88903cb9c8f66738ad549b22dd4730",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/6\/1-4.1792295938589.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "gomme re tla tseba"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "re phinyeng"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "go tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "bjalo ka mesong"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "go tlwaetše"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "go tšwa ga yena"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "gomme o tla tla"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "bjalo ka pula"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go re"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "bjalo ka pula ya selemo"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "e nosago"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T03:58:58.590998867Z",
+  "model": "glm-5.3"
+}

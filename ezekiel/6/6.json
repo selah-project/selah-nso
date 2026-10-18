@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 6:6",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "תחרבנה\/יחרבו",
+      "rationale": "verb חרב repeated on cities and altars — same desolation word, sound-echo lost"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mabanta",
+      "rationale": "במות 'high places' rendered as 'mabanta' (raised shrines)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ויאשמו",
+      "rationale": "'be guilty\/punished' vs 'be desolate' (as many versions read); kept as senyega-guilty blend"
+    }
+  ],
+  "translation": "Go dulo tša lena ka moka, metse e tla šetšwa go se nago sepe, mme mabanta a tla senyega; gore dialetare tša lena di šetšwe go se nago sepe le go senyega, diswantšho tša lena di thuntšhganye le go fediwa, diphillare tša letšatši tša lena di name go ritwa, gomme mošomo wa lena o fediswe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ff8ef4e60a891e2b5ad546b2ca22b976be2285ce1d7afd100ea97d45a04f0419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/6\/5-8.1792294422373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "go … ka moka"
+    },
+    {
+      "surface": "מושבותיכם",
+      "gloss": "dulo tša lena"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "metse"
+    },
+    {
+      "surface": "תחרבנה",
+      "gloss": "di tla šetšwa go se nago sepe"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "mme mabanta"
+    },
+    {
+      "surface": "תישמנה",
+      "gloss": "a tla senyega"
+    },
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "di šetšwe go se nago sepe"
+    },
+    {
+      "surface": "ויאשמו",
+      "gloss": "le go senyega"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "dialetare tša lena"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "di thuntšhganye"
+    },
+    {
+      "surface": "ונשבתו",
+      "gloss": "le go fediwa"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "diswantšho tša lena"
+    },
+    {
+      "surface": "ונגדעו",
+      "gloss": "di name go ritwa"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "diphillare tša letšatši tša lena"
+    },
+    {
+      "surface": "ונמחו",
+      "gloss": "gomme … o fediswe"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "mošomo wa lena"
+    }
+  ],
+  "timestamp": "2026-10-18T03:33:42.374615621Z",
+  "model": "glm-5.3"
+}

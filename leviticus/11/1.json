@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "go bona",
+      "rationale": "אלהם (go bona) e kwala gore lentšu le sepelela go Moshe le Aharone ka bobedi"
+    },
+    {
+      "kind": "you",
+      "subject": "Moshe le Aharone",
+      "rationale": "Yahwe o bolela ka kotego go Moshe le go Aharone"
+    }
+  ],
+  "translation": "Yahwe o ile a bolela go Moshe le go Aharone, a ba re:",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f325a37d19a2507b9a81746b40d2b4bc2c77ccac2efe7b2611dcda5a2983ec1c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/1-4.1792283797724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a ba re"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "go bona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:36:37.725543651Z",
+  "model": "glm-5.3"
+}

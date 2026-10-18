@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אזכיר\/אזכרה",
+      "rationale": "Root זכר repeated twice — 'remember... I will remember' — the repetition strengthens the vow and is kept."
+    },
+    {
+      "kind": "alternative",
+      "subject": "mediro",
+      "rationale": "מעללי can be acts good or bad; 'diketšo' (works) is another option, 'mediro' keeps the neutral 'deeds'."
+    }
+  ],
+  "translation": "Ke tla gopola mediro ya Yah; gobane ke tla gopola makgopša a gago a go tloga kgale.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "dbcfc1e6d7c97efa87df2400710bf8755c77c30169b91bf2aaaf499d51ff4d4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/77\/12-12.1792305253447.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ke tla gopola"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "mediro"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ke tla gopola"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "a go tloga kgale"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "makgopša a gago"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:13.448298130Z",
+  "model": "glm-5.3"
+}

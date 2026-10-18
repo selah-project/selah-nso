@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joel 2:25",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "senene, sejegi, mosenyi, segapi",
+      "rationale": "Mehlala e nne ya dikoko (ארבה · ילק · חסיל · גזם) — diphetholelo di fapana: ba bangwe di ra gore mehuta ya menene, ba bangwe mehuta ya menene ka mehuta e mene ya go gola."
+    },
+    {
+      "kind": "substitution",
+      "subject": "le lefeletša",
+      "rationale": "ושלמתI (šalem) ke go duša ka botlalo go ya ka tekanyo — go lefeletša ga go beale tekanyo yeo e botse ge go bapetšwa le go duša."
+    },
+    {
+      "kind": "substitution",
+      "subject": "masole",
+      "rationale": "חיל e ka bolela sesole, bohlatse goba mafele — Sepedi se kgetha 'masole' ka gobane ke sesole sa dikoko seo Yahwe a se romilego."
+    }
+  ],
+  "translation": "Gomme ke tla le lefeletša ⟨את⟩ mengwaga yeo senene, sejegi le mosenyi le segapi e e jegilego — masole a ka a magolo, ao ke a romilego go lena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "85b29dad6f984164a19f15b8721e300f0de7b4e577c1fa996cde3579d63f923c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/2\/25-27.1792296152512.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושלמתי",
+      "gloss": "gomme ke tla le lefeletša"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "go lena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mengwaga"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "e jegilego"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "senene"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "sejegi"
+    },
+    {
+      "surface": "והחסיל",
+      "gloss": "gomme mosenyi"
+    },
+    {
+      "surface": "והגזם",
+      "gloss": "gomme segapi"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "masole a ka"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "a magolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ke a romilego"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "go lena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:02:32.513551121Z",
+  "model": "glm-5.3"
+}

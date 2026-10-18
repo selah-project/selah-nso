@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 21:4",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke mokgwana wa bophelo — mmala, tlhapi ya moya, sepapatlelo; 'moya' o atametše, eupša seheberu se na le medumo e mentši."
+    },
+    {
+      "kind": "idiom",
+      "subject": "ותקצר נפש",
+      "rationale": "Sethošo sa Seheberu 'moya wa ba mokopano' = boikutlo bja go hloka tshepo; KJV 'discouraged', JPS 'impatient'."
+    },
+    {
+      "kind": "crux",
+      "subject": "ים סוף",
+      "rationale": "'Lewatle la Dinala' ka tlwaelo; סוף ke dinaledinala (papyrus) — 'Lewatle le Lefifsi' ke Selwadi la semmuso feela."
+    }
+  ],
+  "translation": "Ba tloša mašakeng go thwana ya Hore, ka tsela ya Lewatle la Dinala, go dikala ⟨את⟩ lefase ya Edome; moya wa setšhaba o ile wa ba mokopano ka tsela.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5a5565236b19cab88eba94ea7deea28af558303e9fb9ad29fdfd29f46756ddd5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/21\/1-4.1792284969934.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ba tloša mašakeng"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Hore"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thwana"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ka tsela"
+    },
+    {
+      "surface": "ים",
+      "gloss": "Lewatle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "la Dinala"
+    },
+    {
+      "surface": "לסבב",
+      "gloss": "go dikala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase ya Edome"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edome"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "wa ba mokopano"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "moya"
+    },
+    {
+      "surface": "העם",
+      "gloss": "wa setšhaba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ka tsela"
+    }
+  ],
+  "timestamp": "2026-10-18T00:56:09.935977529Z",
+  "model": "glm-5.3"
+}

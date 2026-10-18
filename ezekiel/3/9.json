@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 3:9",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "shamire",
+      "rationale": "šamir: leswika le tiilego (adamant\/diamond) kgahlanong le lentšu la mantšu a tlala; ke phetolelo ya mmatladi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "leloko la go gana",
+      "rationale": "bait meri = 'leloko la botswhahlo\/bohlaswa'; 'leloko la go gana' e boloka botho bja lefoko"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se na le nominal clause ye e se nago kopula; ⟨ke⟩ e okeditšwe"
+    }
+  ],
+  "translation": "Bjalo ka shamire, le le tiilego go feta leswika, ke beile ⟨את⟩ mahlogono a gago; o se ke wa ba tšoha, gomme o se ke wa tšoenyega mahlong a bona, ka gobane ke leloko la go gana ⟨ke⟩ bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "84a6f5ea000c804b8f93c4b1b8fd58ec51b5c30a84b34c8e1fe867143f2a8311",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/3\/9-12.1792294417083.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כשמיר",
+      "gloss": "bjalo ka shamire"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "le le tiilego"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "go feta leswika"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke beile"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "mahlogono a gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wa ba tšoha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "wa tšoenyega"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "mahlong a bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בית",
+      "gloss": "leloko"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "la go gana"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ke⟩ bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:33:37.085064210Z",
+  "model": "glm-5.3"
+}

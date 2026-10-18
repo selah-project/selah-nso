@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 30:5",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "מן גו",
+      "rationale": "Literally 'from the back\/midst' — rendered 'go legareng' (from the midst)."
+    },
+    {
+      "kind": "crux",
+      "subject": "יריעו",
+      "rationale": "'They shout' or 'one shouts' — subject ambiguous; KJV reads passive 'they cried after them'."
+    }
+  ],
+  "translation": "Go legareng ba a rumišwa; ba a goa ka bona bjalo ka lešoro.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3e283dcd27359b971c36abb8df37e3fb458a49dc7496d52452750b9d6dad5f3f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/30\/5-8.1792300591987.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "go"
+    },
+    {
+      "surface": "גו",
+      "gloss": "legareng"
+    },
+    {
+      "surface": "יגרשו",
+      "gloss": "ba a rumišwa"
+    },
+    {
+      "surface": "יריעו",
+      "gloss": "ba a goa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ka bona"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "bjalo ka lešoro"
+    }
+  ],
+  "timestamp": "2026-10-18T05:16:31.987571231Z",
+  "model": "glm-5.3"
+}

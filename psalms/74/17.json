@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 74,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "selemo le mariga",
+      "rationale": "קיץ וחרף literally harvest-season and autumn\/winter-season; Sepedi seasons selemo (summer) and mariga (winter) keep the pair but lose the harvest nuance."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חרף",
+      "rationale": "Same root as reproach in v.18 (חרף) — Yahwe formed the חרף (winter), the enemy חרף (reproached) Him; wordplay lost in Sepedi."
+    }
+  ],
+  "translation": "O beile mellwane yohle ya lefase; selemo le mariga O di hlagisitše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3e75c41b88e06c8b472ba8954393a62ef7c09a1fb584779e2e479e176987f910",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/74\/17-20.1792298221365.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "O"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "o beile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "mellwane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ya lefase"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "selemo"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "gomme mariga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "O"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "o di hlagisitše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:01.365537991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "מגורת",
+      "rationale": "Le ka bolela 'tšhogo' (se a se segofago) goba 'selo se a se segofadago'; ya bobedi e kgethwa, go swana le YLT"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "chiasm",
+      "rationale": "Sebopego se senyane sa go bapetša: se moloi a se segofadago se mo fihlela — se ba lokilego ba se ratago se fiwa; papiso e bolokwa ka go swana"
+    }
+  ],
+  "translation": "Se moloi a se segofadago — sona se tla mo fihlela, gomme se se ratwago ke ba lokilego se tla fiwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "35e2dedde7db6097628b2f0c28a78ac0d4091f87c8c1dcafc5b61ba04f31d46b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/10\/21-24.1792299364446.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "se a se segofadago"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moloi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sona"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "se tla mo fihlela"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "gomme se se ratwago"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ke ba lokilego"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "se tla fiwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:56:04.447315259Z",
+  "model": "glm-5.3"
+}

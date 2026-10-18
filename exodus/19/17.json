@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tlase ga thaba",
+      "rationale": "בתחתית ke 'karolo ya go fapafapana e ka tlase' — 'nether part' ya tlwaelegilego"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba",
+      "rationale": "Seheberu se sa nyake sebopego sa go ikantšha ka morago ga setšhaba"
+    }
+  ],
+  "translation": "Gomme Moshe a ntšha ⟨את⟩ setšhaba go kopana le Elohim, a tšwa kgamong; gomme ba ikantšha tlase ga thaba.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "aae6e2106044cc9c31726f5899703e598132946ac6e1b36e76bb06390bd662c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/19\/17-20.1792282804060.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "a ntšha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "go kopana le"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "a tšwa"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kgamong"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "ba ikantšha"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "tlase ga"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thaba"
+    }
+  ],
+  "timestamp": "2026-10-18T00:20:04.061115447Z",
+  "model": "glm-5.3"
+}

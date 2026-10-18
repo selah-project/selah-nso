@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 31:20",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "diropo di nthabafera",
+      "rationale": "Seheberu: 'diropo tša gagwe di ka mpolla ka mohlala' — puo yeo e bontšha tebogo ya mmele o fufuletšwego; Sepedi se tšere 'go thabafera' go swana le yona"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dinku",
+      "rationale": "כבשי ke dipoo tše nnyane tša dinku (ram-lambs); 'dinku' ke sephuthi sa mohuta, bja ka bja lentšu le pharaletše kudu"
+    }
+  ],
+  "translation": "ge diropo tša gagwe di sa nthabafera, gomme a sa ifufulelwa ka leswe la dinku tša ka —",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ac5a585a0cb7c7cf53d43d252c4c6825a3972ab14fb327139150228dbc849521",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/31\/17-20.1792300660246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "ברכוני",
+      "gloss": "di nthabafera"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "diropo tša gagwe"
+    },
+    {
+      "surface": "ומגז",
+      "gloss": "gomme ka leswe la"
+    },
+    {
+      "surface": "כבשי",
+      "gloss": "dinku tša ka"
+    },
+    {
+      "surface": "יתחמם",
+      "gloss": "a ifufulelwa"
+    }
+  ],
+  "timestamp": "2026-10-18T05:17:40.247617459Z",
+  "model": "glm-5.3"
+}

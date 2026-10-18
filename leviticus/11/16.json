@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "morwadia Yaana",
+      "rationale": "בת היענה ke 'morwadia ya ostrich' — sebopego sa 'morwadi' se bolokwa, e sego 'ostrich' feela."
+    },
+    {
+      "kind": "crux",
+      "subject": "takmaše",
+      "rationale": "התחמס: 'night-hawk' goba 'owl' — lentšu le sa tsejwe ka botlalo, le hlailwe go tšwa go 'violence'."
+    }
+  ],
+  "translation": "le ⟨את⟩ morwadia Yaana, le ⟨את⟩ takmaše, le ⟨את⟩ šakafe, le ⟨את⟩ neše, go ya ka mohuta wa wona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d3d0184346def9ce19653054fc240a4e7c449dba372d5bf4ba2acc167f77440e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/13-16.1792283725434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "morwadia Yaana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadia"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "Yaana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "takmaše"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "takmaše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "šakafe"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "šakafe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "neše"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "neše"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "go ya ka mohuta wa wona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:35:25.435995585Z",
+  "model": "glm-5.3"
+}

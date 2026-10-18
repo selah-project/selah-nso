@@ -1,0 +1,133 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 8:7",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sekokotlo se se bopilwego ka go nanela",
+      "rationale": "חשב: 'se bopilwego ka boikhwebo' (KJV 'curious') kgathanong le 'se rušwago kagare' — lentšu le tutuetšego"
+    },
+    {
+      "kind": "alternative",
+      "subject": "את pele ga המעיל",
+      "rationale": "את (H854 'le') mona e ka ba sekgopanyi sa 'le', e sego lesupo la objekte — mehla ka mehla di tsešwa bjalo ka ⟨את⟩"
+    },
+    {
+      "kind": "addition",
+      "subject": "mo",
+      "rationale": "Sepedi e nyaka objekte ya mothwaledi — עליו le לו di feletše 'mo'"
+    }
+  ],
+  "translation": "Gomme a mo apesa ⟨את⟩ hempe, a mo ruša ka sekokotlo, a mo apesa ⟨את⟩ kobo, gomme a mo bea ⟨את⟩ efode, a mo ruša ka sekokotlo se se bopilwego ka go nanela sa efode, gomme a bofa ka go mo šomela ka sona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "79a5c207485bc6a3e6543ae785f7e83747b87d26801b80b684c6fd4c3eda13bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/8\/6-7.1792304712593.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "a mo bea"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hempe"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "hempe"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "a mo ruša"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sekokotlo"
+    },
+    {
+      "surface": "באבנט",
+      "gloss": "ka sekokotlo"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "a mo apesa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kobo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kobo"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "kobo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a mo bea"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "efode"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "a mo ruša"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sekokotlo sa efode"
+    },
+    {
+      "surface": "בחשב",
+      "gloss": "ka sekokotlo"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "efode"
+    },
+    {
+      "surface": "ויאפד",
+      "gloss": "a bofa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka sona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:25:12.593902407Z",
+  "model": "glm-5.3"
+}

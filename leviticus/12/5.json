@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 12:5",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dibeke tše pedi, malatsi a masomehlano le a tshela",
+      "rationale": "Palo e tlankanela: dibeke tše pedi (14) + malatsi a 66 bakeng sa mosaetsana, go feta malatsi a 40 a mosaleswana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go sa hlweke",
+      "rationale": "טמא mo e sa hlweka ka moya wa mošomo wa Setemple, e sego sepe sa bošula bja maitshwaro."
+    },
+    {
+      "kind": "alternative",
+      "subject": "שבועים",
+      "rationale": "Lentšu le bolela 'dibeke tše pedi' (šupa ga gabedi), e sego 'masomešupa'."
+    }
+  ],
+  "translation": "Ge e le gore o belega mosaetsana, o tla dula a sa hlweke dibeke tše pedi, bjalo ka nakong ya yona ya go hloka, gomme o tla dula malatsi a masomehlano le a tshela go madi a go hlweka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b8775c1365dc84cc92fe4139ee5b4f98f27063e187f6d004c969d426c37f9a24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/12\/5-8.1792283858187.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ge e le gore"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "mosaetsana"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "a belega"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "a sa hlweke"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "dibeke tše pedi"
+    },
+    {
+      "surface": "כנדתה",
+      "gloss": "bjalo ka nakong ya yona ya go hloka"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "a masomehlano"
+    },
+    {
+      "surface": "יום",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "le a tshela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "malatsi"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "a tla dula"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "madi"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "a go hlweka"
+    }
+  ],
+  "timestamp": "2026-10-18T00:37:38.188768989Z",
+  "model": "glm-5.3"
+}

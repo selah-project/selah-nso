@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כסאך אלהים",
+      "rationale": "Elohim e bolelela kgoši (vocative: 'Kgoro ya gago, Elohim' — KJV\/Geneva) goba e bolela Modimo ('Elohim ke ya gago', goba JPS 'kgoro yeo Elohim a e filwego')"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na kopula; Sepedi se e nyaka"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבט ... שבט",
+      "rationale": "phetelelo ya 'sethapo ... sethapo' — sebopego se bolokwa ka botlalo"
+    }
+  ],
+  "translation": "Kgoro ya gago, Elohim, ke ya le ka naroe, e bile ya go sa fela; sethapo ya boilokeleng ke sethapo ya bogoši bja gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/45\/5-8.1792297821180.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "kgoro ya gago"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ya le ka naroe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "gomme ya go sa fela"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sethapo"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "ya boilokeleng"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "sethapo"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "ya bogoši bja gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:21.181862888Z",
+  "model": "glm-5.3"
+}

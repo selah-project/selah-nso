@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 5:26",
+  "book": "daniel",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Se-Aramaic ga se na kopula; Sepedi se e nyaka."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מנא \/ מנה",
+      "rationale": "Mongwalo wa mene o hlalošwa ka lediri le le swanago la go bala (menah) — pontšo ya gore lentšu la maru le bolela go bala."
+    }
+  ],
+  "translation": "Sena ke hlalošo ya lentšu: Mene — Eloha o beditše bogoši bja gago, gomme o bo phethile.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "8f78deaf002935d2573450ccd01fdd5fbb23dc6cc5ba29af327bd7e307ab97c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/5\/25-28.1792301798677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "sena"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "hlalošo"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "ya lentšu"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Mene"
+    },
+    {
+      "surface": "מנה",
+      "gloss": "o beditše"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "bogoši bja gago"
+    },
+    {
+      "surface": "והשלמה",
+      "gloss": "gomme o bo phethile"
+    }
+  ],
+  "timestamp": "2026-10-18T05:36:38.677781057Z",
+  "model": "glm-5.3"
+}

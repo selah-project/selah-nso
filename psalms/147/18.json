@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 147,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e swara moya le phefo ka bobedi; lentšu le tee la Sepedi le ka se latole mehuta y ka moka"
+    }
+  ],
+  "translation": "O romela lentšu la gagwe gomme la di nyefola; o dušetša ruakh ya gagwe — meetse a a elela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4589482b212d111c5e480abc4637813234e773414154ac4a2f9cd7ae1bc7d3ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/147\/17-20.1792299115879.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "o romela"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "lentšu la gagwe"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "gomme la di nyefola"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o dušetša"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh ya gagwe"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "a a elela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:55.880385829Z",
+  "model": "glm-5.3"
+}

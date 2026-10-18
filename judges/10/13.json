@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "medimo ya bangwe",
+      "rationale": "medimo ka ditlhaka tše nnye bakeng sa elohim a mangwe — dithšomišo tša ditšhaba, go swana le Ekisodo 32:8"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "aleph-tav e kopantšwe le sehlabelwa se tletšego — ⟨את⟩ e bolokwa, 'lona' e hlalositšwe gare ga gase"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Yahwe o bolela ka o tlwaetše go bana ba Yisraele"
+    }
+  ],
+  "translation": "Gomme lona le tlogetše ⟨את⟩ nna, la šoma medimo ya bangwe; ka gobane nka se ke ka la phologša ⟨את⟩ gape.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f95d2268d339b9a5c4c6657fa10ae58efca22ffdfb6860ae3ab264e8d37e671f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/10\/13-16.1792287435675.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "lona"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "le tlogetše"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "la šoma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ya bangwe"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "nka ke ka la"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "go phologša"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:37:15.676610555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sa kgotsofatša",
+      "rationale": "חליתי את פני — tlhago ke 'go foka sefahleho sa Yahwe'; kgotsofatša ke tlhaloso"
+    },
+    {
+      "kind": "idiom",
+      "subject": "sefahleho sa Yahwe",
+      "gloss": "פני יהוה — 'sefahleho sa Yahwe' ke mogwera wa Seheberu, o bolokilwe ka botlalo"
+    },
+    {
+      "kind": "crux",
+      "subject": "ka me ikweba",
+      "rationale": "ואתאפק — 'ka ikweba \/ ka itepa': go ikokobetsa go sa lugago; KJV 'I forced myself', JPS 'I forced myself therefore'"
+    }
+  ],
+  "translation": "gomme ka re: bjale Ba-Pelishta ba tla theoga ba tle go nna go Gilgala, gomme sefahleho sa Yahwe nka sa se kgotsofatša; ka me ikweba, ka fiša sebego sa go fišwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e44bac68101a6d610ae204f3b0252869f1554c5f7a2954cfcbd37d3ab4409e56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/13\/9-12.1792288137024.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ka re"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ba tla theoga"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Pelishta"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgala"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "gomme sefahleho sa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nka"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "sa kgotsofatša"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "ka me ikweba"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "ka fiša"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sebego sa go fišwa"
+    }
+  ],
+  "timestamp": "2026-10-18T01:48:57.026035686Z",
+  "model": "glm-5.3"
+}

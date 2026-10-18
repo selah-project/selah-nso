@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 12:2",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מכליותיהם",
+      "rationale": "'diphio' — Seheberu ke 'diphio' bjalo ka setšo sa go ikuela ka gare ga motho; mo e šomišwa ka boikakaretšo bakeng sa sebopego se se felilego, se feletšego se sa tsejwego."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם...גם",
+      "rationale": "Go boelwa ga 'gomme... gomme' ka moka ga dihlatse tše pedi tša sehlogo se sengwe le se sengwe, se se agago mokgwa o mo go one go begwa ka bophara bja go ba gona ga modiro."
+    }
+  ],
+  "translation": "O di hhlotše, gomme di ometše mididi; di tswelela pele, gomme di ile tša hlaga pohlo; o kgauswi o mmong wa tšona, gomme o kgakala le diphio tša tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/12\/1-4.1792293060168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נטעתם",
+      "gloss": "O di hhlotše"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "di ometše mididi"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "di tswelela pele"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gomme"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "di ile tša hlaga"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "pohlo"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "o kgauswi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "o mmong wa tšona"
+    },
+    {
+      "surface": "ורחוק",
+      "gloss": "gomme o kgakala"
+    },
+    {
+      "surface": "מכליותיהם",
+      "gloss": "le diphio tša tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:11:00.169906183Z",
+  "model": "glm-5.3"
+}

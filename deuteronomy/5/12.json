@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שמור",
+      "rationale": "Eksodo 20:8 e ngwala ‘go gopola’ (זכור); mo Doiteronomio go šumiša ‘go boloka’ (שמור) — diphopholetšo tše nne tša Shabata di fapana ka lentšu le tee"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Taelo e lebella Yisraele ka thoko, bjalo ka taelo ya pele"
+    }
+  ],
+  "translation": "Boloka ⟨את⟩ letšatši la Shabata, go e kgethwa, bjalo ge a go laeditše Yahwe Elohim ya gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "da4241a86ee7643c13d661f19cab627a0344dbc421eac136c11cba150dd2b5b6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/5\/9-12.1792285626965.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Boloka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letšatši la Shabata"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "la Shabata"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "go e kgethwa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ge"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "a go laeditše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:07:06.966317814Z",
+  "model": "glm-5.3"
+}

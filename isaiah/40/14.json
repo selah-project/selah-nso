@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "משפט",
+      "rationale": "kahlolo — Seheberu se bolela kahlolo\/toka, e sego feela toka"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka yona",
+      "rationale": "Sepedi se nyaka thwii ya go bolela tsela ya kwešišo"
+    }
+  ],
+  "translation": "O kgokgantšitše le ⟨את⟩ ⟨ke⟩ mang, gore a mo kwešišise, gomme a mo rute tsela ya kahlolo, gomme a mo rute tsebo, le tsela ya kwešišo a mo tsebisa ka yona?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3fc8a823deaa516ab678914f33ce538d2f1607201e1a99423619026b04dad2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/40\/13-16.1792292118785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ke mang"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "a kgokgantšitše le"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "a mo kwešišise"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "a mo rute"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "tsela ya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "a mo rute"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "tsebo"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "le tsela ya"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "kwešišo"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "a mo tsebisa ka yona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:55:18.786608612Z",
+  "model": "glm-5.3"
+}

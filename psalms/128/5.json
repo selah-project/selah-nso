@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 128,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a go reretše kagiso",
+      "rationale": "ברך ka goanela e bolela go thabela; Sepedi e nyaka gohlantšha Lentšu la go reretše kagiso"
+    },
+    {
+      "kind": "addition",
+      "subject": "bja gago",
+      "rationale": "suffix ya Seheberu −ך e tsewa ka praemiti ya Sepedi gomme gape e boletšwe ka lentšu le phethilego"
+    },
+    {
+      "kind": "you",
+      "subject": "go motho yo a tšhabago Yahwe",
+      "rationale": "domela go motho wa psalme o mongwe le o mongwe wa lelapa"
+    }
+  ],
+  "translation": "Yahwe a go reretše kagiso go tšwa Tsiyone, gomme o bone se sebotse sa Yerushalayime, matšatši ka moka a bophelo bja gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e206f8ef259e99df1014c7f33292f5f6536466b405d31c30e8d72f2affd7a24e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/128\/5-6.1792298929216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "a go reretše kagiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "go tšwa Tsiyone"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "gomme o bone"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "se sebotse"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "sa Yerushalayime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matšatši"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "a bophelo bja gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:48:49.217067581Z",
+  "model": "glm-5.3"
+}

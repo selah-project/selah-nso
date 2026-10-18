@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 89,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחללו",
+      "rationale": "'go nyefola\/goba go hlwekiša' — KJV 'break', JPS 'profane', YLT 'pollute'; go tšwa go חלל, go beda, go bula"
+    },
+    {
+      "kind": "substitution",
+      "subject": "melawana",
+      "rationale": "חקות — melao yeo e kgethilwego; fapana le Torah ya temana ya 31"
+    }
+  ],
+  "translation": "Ge ba nyefola ⟨את⟩ melawana ya ka, gomme ditaelo tša ka ba di se ke ba hlokometše,",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "44a1fb6ceed65330fbf0723690a502908ac14a1f7b1fd6423dc9f4c14cb0a934",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/89\/31-32.1792305278201.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "melawana ya ka"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ba nyefola"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "gomme ditaelo tša ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba se ke"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "ba di hlokometše"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:38.202064254Z",
+  "model": "glm-5.3"
+}

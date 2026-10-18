@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 2:2",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "literally 'cut a covenant', rendered 'make a covenant'"
+    },
+    {
+      "kind": "crux",
+      "subject": "ולא שמעתם",
+      "rationale": "some read the whole as past command ('I commanded... but you did not obey'), others as quoted command plus accusation"
+    }
+  ],
+  "translation": "Gomme lena le se ke la kgwerana le baagi ba lefase le; mapolare a wona le a otlolle. Fela ga le a theetša lentšu la ka — ke eng se le se dirilego?",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f4d98866d0660774491603ae922cb4a9aa7100e7d9f72585df464d40164fe51c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/2\/1-4.1792287183325.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "gomme lena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke la"
+    },
+    {
+      "surface": "תכרתו",
+      "gloss": "kgwerana"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "le baagi ba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "מזבחותיהם",
+      "gloss": "mapolare a wona"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "le a otlolle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "fela ga"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "le a theetša"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "lentšu la ka"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "le se dirilego"
+    }
+  ],
+  "timestamp": "2026-10-18T01:33:03.326691012Z",
+  "model": "glm-5.3"
+}

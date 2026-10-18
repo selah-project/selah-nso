@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 35:9",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ופריץ חיות",
+      "rationale": "Lit. 'a violent one of living-creatures' — dibapadi di ka ra 'phoofolo ya go hlohleletša' (KJV 'ravenous beast') goba 'motho wa bofoka-foka'; Sepedi e dira se sengwe le se sengwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "go ela",
+      "rationale": "יעלנה 'go ela' e šumišwa bakeng sa עלה 'go namela', ka gobane tsela e eya godimo go Tsiyone."
+    },
+    {
+      "kind": "addition",
+      "subject": "moo",
+      "rationale": "דברים tša maemong a sephethi: 'ba tla sepela moo' — goba 'boemong bjo'."
+    }
+  ],
+  "translation": "A se ke go ba le tau gona, gomme wa go foka-foka ga se a swanela go ela mo go yona; a ka se hwetwe gona; eupša bao ba golotšwego ba tla sepela moo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "40429b73887078280b88c88f0006d7b9e6e0aabf1f2f8075b8740cb9270de90a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/35\/9-10.1792291965461.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "go ba goba"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "אַרְיֵה",
+      "gloss": "tau"
+    },
+    {
+      "surface": "וּפְרִיץ",
+      "gloss": "gomme wa go foka-foka"
+    },
+    {
+      "surface": "חַיּוֹת",
+      "gloss": "mo go yona"
+    },
+    {
+      "surface": "בַּל",
+      "gloss": "ga se a swanela"
+    },
+    {
+      "surface": "יַעֲלֶנָּה",
+      "gloss": "go ela"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "a ka se"
+    },
+    {
+      "surface": "תִּמָּצֵא",
+      "gloss": "hwetwe"
+    },
+    {
+      "surface": "שָׁם",
+      "gloss": "gona"
+    },
+    {
+      "surface": "וְהָלְכוּ",
+      "gloss": "gomme ba tla sepela"
+    },
+    {
+      "surface": "גְּאוּלִים",
+      "gloss": "bao ba golotšwego"
+    }
+  ],
+  "timestamp": "2026-10-18T02:52:45.462047506Z",
+  "model": "glm-5.3"
+}

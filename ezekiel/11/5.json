@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 11:5",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨—⟩",
+      "rationale": "Seheberu se na le go kgaoganya go feta ga lentšu; sephetho se tlišitšwe ke pelethaoshe"
+    },
+    {
+      "kind": "crux",
+      "subject": "magato a ruakh ya lona",
+      "rationale": "מעלות רוחכם: 'magato a moya wa lona' (YLt) kgahlanong le 'dilo tše di tlang thogong ya lona' (KJV\/ASV); magato a bolola moya bjalo ka go sepela"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "gloss-alternative": "moya fela",
+      "rationale": "רוח ke lentšu le tee — moya, phefo, go hema; ka mehla ruakh (D2)"
+    }
+  ],
+  "translation": "Gomme ruakh ya Yahwe ya wa go wena, a mmolediša a re: Bolela, go bolela Yahwe: Bjalo le boletše, ntlo ya Yisraele, gomme magato a ruakh ya lona — ke a tseba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9479fba0d70351b7b878e681557005729a0aad4369cf9b312c7147adaac4315c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/11\/5-8.1792294550585.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "gomme ... ya wa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a mmolediša"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Bolela"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "le boletše"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ya Yisraele"
+    },
+    {
+      "surface": "ומעלות",
+      "gloss": "gomme magato a"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "ruakh ya lona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ידעתיה",
+      "gloss": "a tseba"
+    }
+  ],
+  "timestamp": "2026-10-18T03:35:50.585997235Z",
+  "model": "glm-5.3"
+}

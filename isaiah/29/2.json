@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 29:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨o⟩",
+      "rationale": "Seheberu se sena sebopegi sa motho; Sepedi se se nyaka."
+    },
+    {
+      "kind": "crux",
+      "subject": "כאריאל",
+      "rationale": "'bjalo ka Areiele': kamoo diphetho tše mmalwa di bego 'bjalo ka aletare ya badimong' — toropo e tla ba lemo-dingwaga tša bofaladi bjalo ka aletare."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לי",
+      "rationale": "Literal 'go nna'; Sepedi 'go wena' lebile letšatši la sebopego sa seholo."
+    }
+  ],
+  "translation": "Gomme ke tla gatelela Areiele, gomme go tla ba le go lla le go huwa, gomme ⟨o⟩ tla ba go wena bjalo ka Areiele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "217386adc6eda6c3d147d3479c38d8cb6d699a62d33bf4d1013a8dd528243e47",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/29\/1-4.1792291882437.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והציקותי",
+      "gloss": "Gomme ke tla gatelela"
+    },
+    {
+      "surface": "לאריאל",
+      "gloss": "Areiele"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "gomme go tla ba"
+    },
+    {
+      "surface": "תאניה",
+      "gloss": "go lla"
+    },
+    {
+      "surface": "ואניה",
+      "gloss": "go huwa"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "gomme go tla ba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "כאריאל",
+      "gloss": "bjalo ka Areiele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:51:22.438675205Z",
+  "model": "glm-5.3"
+}

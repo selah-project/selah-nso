@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כרע\/קרס",
+      "rationale": "Dintlha tše pedi tša go wa ga medimo (go khunama \/ go theoga) di abelana mehuta ya modumo — se se laelwa ka Sepedi ka dintlha tše pedi tša go fapana."
+    },
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "עצבים = diswantšho tša borapedi; 'medimo' ka ditlhaka tše nnyane go ya ka D1 bakeng sa medimo ya ditšhaba."
+    },
+    {
+      "kind": "crux",
+      "subject": "נשאתיכם",
+      "rationale": "Kganetšo: 'dilo tša lêna tše di rwalegago' (moroalo wo lêna o o rwalegago bakeng sa medimo) kgatlhanong le 'ba ba go rwalelago lêna' (KJV)."
+    }
+  ],
+  "translation": "Bele o khunamile, Nebo o theogile; medimo ya tšona e be e le ya diphoofolo tša naga le ya diruiwa; tša lêna tše di rwalegago di rwetšego, moroalo go ya lapilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "929378757d3c63c681e5ccdedcaeaa2a743f6eac32b856611b017741e34ba79c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/46\/1-4.1792292225528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "o khunamile"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Bele"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "o theogile"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Nebo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "e be e le"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "medimo ya tšona"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "ya diphoofolo tša naga"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "le ya diruiwa"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "tša lêna tše di rwalegago"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "di rwetšego"
+    },
+    {
+      "surface": "משא",
+      "gloss": "moroalo"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "go ya lapilego"
+    }
+  ],
+  "timestamp": "2026-10-18T02:57:05.529244407Z",
+  "model": "glm-5.3"
+}

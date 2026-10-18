@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 30:14",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mollо",
+      "rationale": "אש = mollо, e sego 'lelo' (ke dikeledi) goba 'molelo' (Setswana)."
+    },
+    {
+      "kind": "crux",
+      "subject": "הכרתי",
+      "rationale": "Kherethe: batho ba Kereth goba balaodi ba Tšhere; diphetholelo di fapana."
+    },
+    {
+      "kind": "you",
+      "subject": "moprofeta-ya-ikutšo",
+      "rationale": "Mošemane o bolela le Dafida ka go ithaopa — polelo ye e lebego leetheuswa."
+    }
+  ],
+  "translation": "Re ile ra hlasela borwa bja balaodi ba Kherethe, le ⟨את⟩ naga ya Yehuda, le borwa bja Kalebe; gomme ⟨את⟩ Tsikelage re e fise ka mollо.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "f73069f458c3c8329b7fb56c6e0b6994870cdd8633f6e2ed9eec8c5d7fa54ce4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/30\/13-16.1792288703923.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנחנו",
+      "gloss": "rena"
+    },
+    {
+      "surface": "פשטנו",
+      "gloss": "ra hlasela"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "הכרתי",
+      "gloss": "balaodi ba Kherethe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "naga"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "ya Yehuda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "borwa"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsikelage"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsikelage"
+    },
+    {
+      "surface": "שרפנו",
+      "gloss": "re e fise"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollо"
+    }
+  ],
+  "timestamp": "2026-10-18T01:58:23.924257333Z",
+  "model": "glm-5.3"
+}

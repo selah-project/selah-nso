@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lewatle la Suf",
+      "rationale": "ים סוף ke 'lewatle la matswiri a Suf'; maina a a dula ka modumo wa Seheberu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כמדבר",
+      "rationale": "naga ya go omilego e lomaganya le go oma ga lewatle — mareo a mabedi a tšwa go חרב"
+    }
+  ],
+  "translation": "Gomme a kgalema lewatle la Suf, gomme la oma; a ba hlagisa mafuleng, bjalo ka nageng ya go omilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7b53a52a7fa97b27f156b0fea1c40b210d5c3b5da97c0edb572e2909762caa2a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/9-12.1792298653306.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "gomme a kgalema"
+    },
+    {
+      "surface": "בים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "la Suf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "gomme la oma"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "a ba hlagisa"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "mafuleng"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "bjalo ka nageng ya go omilego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:13.306773408Z",
+  "model": "glm-5.3"
+}

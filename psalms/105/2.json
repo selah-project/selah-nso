@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "moletši wa psalme",
+      "rationale": "Ditaellwa tše tharo: opelang, binang, bolediseng."
+    },
+    {
+      "kind": "alternative",
+      "subject": "bolediseng",
+      "rationale": "שיחו e ka bolela go nahanela (go bua le moya), eupša mo go latela mokgwa wa ditaellwa tša phoko."
+    }
+  ],
+  "translation": "Opeleng yena, binang yena, bolediseng ka makgahlego a gagwe ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "479a558f69a2717c6e0fa80ca306f14c443e691993689c0e8f6caefdabacf49b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/1-4.1792298612314.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Opeleng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "binang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "bolediseng ka"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "makgahlego a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:32.315119986Z",
+  "model": "glm-5.3"
+}

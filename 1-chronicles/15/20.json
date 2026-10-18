@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 15:20",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dinebalim",
+      "rationale": "נבלים ke dinebale — diphinifa tša mmino; 'dinebalim' lentšu la modumo wa Seheberu, ka gobane Sepedi ga se la sona."
+    },
+    {
+      "kind": "crux",
+      "subject": "עלמות",
+      "rationale": "'Alamote' — modumo wa basadi\/soprano (kaloso ya lento ya mošomo wa mmino) kgathanong le YLT 'go bana-basadi' kgathonong; kahlolo ya modumo ke ya go kgetha."
+    }
+  ],
+  "translation": "Gomme Zekarjahu, Aziele, Shemiramote, Yekiele, Une, Eliabe, Maasejahu le Benajahu — ka dinebalim, ka modumo wa bo-alamote.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "8a4df17afd2251ff5888bee062b38d79338c347a60e4f986176a84385b9e3223",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/15\/17-20.1792303226269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזכריה",
+      "gloss": "Gomme Zekarjahu"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "Aziele"
+    },
+    {
+      "surface": "ושמירמות",
+      "gloss": "Shemiramote"
+    },
+    {
+      "surface": "ויחיאל",
+      "gloss": "Yekiele"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "Une"
+    },
+    {
+      "surface": "ואליאב",
+      "gloss": "Eliabe"
+    },
+    {
+      "surface": "ומעשיהו",
+      "gloss": "Maasejahu"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בנבלים",
+      "gloss": "ka dinebalim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "bo-alamote (modumo wa basadi)"
+    }
+  ],
+  "timestamp": "2026-10-18T06:00:26.270799784Z",
+  "model": "glm-5.3"
+}

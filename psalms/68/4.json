@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "צדיקים",
+      "rationale": "ba lokilego — go be le seabe sa tsedekе, ba lokile"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ישמחו\/ישישו\/שמחה",
+      "rationale": "go boela ga 'thaba' ga mararo — kgologano ya lentšu le le tee"
+    }
+  ],
+  "translation": "Gomme ba lokilego ba thaba, ba atametše pele ga Elohim, gomme ba thabe ka thabo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "218b294a7986a0204d0638f3c633a17a5d4da59cbbec78714547abb52da4b063",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/68\/1-4.1792298006731.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "gomme ba lokilego"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ba thaba"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "ba atametše"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "gomme ba thabe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ka thabo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:26.732141750Z",
+  "model": "glm-5.3"
+}

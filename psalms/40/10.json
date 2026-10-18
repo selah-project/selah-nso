@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בשרתי",
+      "rationale": "'go phatlalatsa molaetsa o mobotse' kgatlhanong le 'go ruta' — besorah e bolela molaetsa wa mohlolo, e sego thuto"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "tsedeke...tsedeke (v11)",
+      "rationale": "צדק go v10 le צצדקה go v11 di bopa motsoko o mongwe, o lahlago ka Sepedi"
+    }
+  ],
+  "translation": "Ke phatlaladitše ⟨את⟩ tsedeke go setšhaba se segolo; bona, molomo wa ka ga ke a o tswalela, Yahwe, wena o a tseba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "91eced36a45d2fc058f527b35a65514f4e07413fbfe2c39fdaafac82224baf61",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/40\/9-12.1792297688544.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ke phatlaladitše"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "go setšhaba"
+    },
+    {
+      "surface": "רב",
+      "gloss": "se segolo"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "molomo wa ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "ke a o tswalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o a tseba"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:08.545270376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 7:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לדלקים",
+      "rationale": "דלק e bolela go tuka le go latelela — 'bao ba tukago' (YSB\/ASV: 'maleffi a go tuka') kgahlanong le 'bao ba mo hlotšago' (KJV\/Geneva); mantšu a mabedi a ka ba gona ka go le tee."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yena⟩",
+      "rationale": "Sepedi e nyaka sehlodi sa ולו; Seheberu se na le sehlodi fela."
+    }
+  ],
+  "translation": "Gomme o išeditše ⟨yena⟩ dilo tša lehu; maleffi a gagwe o a dira bao ba tukago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cde8a333cd66e7f1e6340b4957c7a2c26ead845377c63444c6458b18cbe08ba2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/7\/13-16.1792297126395.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "gomme o išeditše ⟨yena⟩"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "o išeditše"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "dilo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "tša lehu"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "maleffi a gagwe"
+    },
+    {
+      "surface": "לדלקים",
+      "gloss": "bao ba tukago"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "o a dira"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:46.396292950Z",
+  "model": "glm-5.3"
+}

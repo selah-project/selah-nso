@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 4:8",
+  "book": "amos",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "di tsamailo",
+      "rationale": "ונעו — go dikhuduega \/ go tsamaya ka ntle ga moela; 'ditoropo di tsamailo' ke mothofatšo o tlwaelegilego wo o nyakago lentšu la Sesotho sa motho"
+    },
+    {
+      "kind": "addition",
+      "subject": "goba",
+      "rationale": "Seheberu se ngwala 'pedi tharo' ka ntle le kopanyi; Sepedi se nyaka ⟨goba⟩ go hlaloša palo"
+    },
+    {
+      "kind": "you",
+      "subject": "le sa boela go nna",
+      "rationale": "Sengwalwa se bitša Yisraele ka go lebana — sehlakahlaka sa go se boela ga bona se boeletšwa gabedi (4:6)"
+    }
+  ],
+  "translation": "Gomme ditoropo tše pedi goba tše tharo di tsamailo go toropo e tee go noa meetse, gomme di sa tlatšwa; gomme le sa boela go nna, go bolela Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "01788a73c3911aba3f095390bfb732025a645c717b7074fc86890dd3e1b34069",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/4\/5-8.1792296260429.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונעו",
+      "gloss": "gomme di tsamailo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "tše pedi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "goba tše tharo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ditoropo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e tee"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "go noa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme di sa"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "tlatšwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme le sa"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "boela"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:04:20.430509857Z",
+  "model": "glm-5.3"
+}

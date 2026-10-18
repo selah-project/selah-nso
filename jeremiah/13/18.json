@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 13:18",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go kgoši le go kgosigadi",
+      "rationale": "taeletšo ya go lebela go kgoši (Yehoyakime?) le kgosigadi (Nehešta)"
+    },
+    {
+      "kind": "crux",
+      "subject": "מראשותיכם",
+      "rationale": "senswa sa 'bogoši bja lona' (KJV 'principalities') kgathanong le 'ditaola tša dihlogo' (JPS 'headtires'); lentšu ke bontši bja 'bogolo bja hlogo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kgetho",
+      "rationale": "תפארת ke 'botego\/kgetho' — seaparo sa go khantšha, e sego 'kerete'"
+    }
+  ],
+  "translation": "Boleláng go kgoši le go kgosigadi: Iketleng, dutseng; ka gobane ditaola tša go apara dihlogo tša lena di theogile, sefahlegong-kgoši sa kgetho ya lena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "80e5b47075691074f4ecace86bc603c3b28c8848c517efaf656d5d11b92090ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/13\/17-20.1792293132665.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Boleláng"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go kgoši"
+    },
+    {
+      "surface": "ולגבירה",
+      "gloss": "le go kgosigadi"
+    },
+    {
+      "surface": "השפילו",
+      "gloss": "Iketleng"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "dutseng"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "di theogile"
+    },
+    {
+      "surface": "מראשותיכם",
+      "gloss": "ditaola tša go apara dihlogo tša lena"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "sefahlegong-kgoši"
+    },
+    {
+      "surface": "תפארתכם",
+      "gloss": "sa kgetho ya lena"
+    }
+  ],
+  "timestamp": "2026-10-18T03:12:12.666443466Z",
+  "model": "glm-5.3"
+}

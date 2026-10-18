@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 30:4",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dipaela",
+      "rationale": "לבדים ke dipaela tša go rwala aletare; \"mafelo a dipaela\" bolela לבתים le לבדימ mmogo"
+    },
+    {
+      "kind": "addition",
+      "subject": "ka tšona",
+      "rationale": "בהמם ke proena ya Sesemelwa; Sepedi e nyaka \"ka tšona\""
+    }
+  ],
+  "translation": "Gomme dikhutlo tše pedi tša gauta o tla di dira go yona, ka mo tlase ga serapa sa yona, le ka mahlakore a yona a mabedi o tla di dira, ka mahlakore a yona a mabedi; di tla ba mafelo a dipaela go rwala ⟨את⟩ yona ka tšona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c1adbe715a292f985d482873e77ea895e49169ad141f650e3592857536c02aff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/30\/1-4.1792283168261.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "omme tše pedi"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "dikhutlo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "tša gauta"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla di dira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yona"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ka mo tlase"
+    },
+    {
+      "surface": "לזרו",
+      "gloss": "ga serapa sa yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "צלעתיו",
+      "gloss": "mahlakore a yona"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "o tla di dira"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שני",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "צדיו",
+      "gloss": "mahlakore a yona"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "di tla ba"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "mafelo a dipaela"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "dipaela"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "go rwala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (aletare)"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ka tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:26:08.264790694Z",
+  "model": "glm-5.3"
+}

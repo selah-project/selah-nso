@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 42:1",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lefelo leo le arogilego",
+      "rationale": "הגזרה e bolela 'sebopišo\/lefelo leo le rogotšego' — diphetholelo di fapana: 'separate place' kgathanong le 'temple courtyard' (BSB)"
+    },
+    {
+      "kind": "elision",
+      "subject": "הדרך דרך",
+      "rationale": "go boela ga lentšu la tsela — go hlakantšwe go kgotla go bušetšwa gatee"
+    }
+  ],
+  "translation": "Gomme a ntšha go kgotla ya ka ntle, ka tsela ya leboa; gomme a nkisetša go kamore ye e lego pejana ga lefelo leo le arogilego, le ye e lego pejana ga yago, go leboa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "61363905da4a61e663605f2fda365cca3ac4473e4659fc84f2ab6b774a9c71d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/42\/1-4.1792295696836.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויוצאני",
+      "gloss": "gomme a ntšha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "kgotla"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "ya ka ntle"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela ya"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "leboa"
+    },
+    {
+      "surface": "ויבאני",
+      "gloss": "gomme a nkisetša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "kamore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ye e lego"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pejana ga"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "lefelo leo le arogilego"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "le ye e lego"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "pejana ga"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "yago"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "leboa"
+    }
+  ],
+  "timestamp": "2026-10-18T03:54:56.836952259Z",
+  "model": "glm-5.3"
+}

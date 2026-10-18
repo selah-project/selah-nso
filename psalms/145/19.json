@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kganyogo",
+      "rationale": "רצון ke 'thabo ya go rata' \/ 'seo a se ratago'; 'kganyogo' e bontšha seo se nyaketšego go dirwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "יראיו",
+      "rationale": "'ba mo segofolego' kgatlhanong le 'ba mo segofofago' — ירא e hlama segofoseo le tumelo ka nnete"
+    }
+  ],
+  "translation": "Kganyogo ya bao ba mo segofolego e tla e dira, gomme ⟨את⟩ seetse sa bona se tla se theetša gomme a ba hlankola.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f47c414869819a76e70b46732b17f901a1344239eccf6af168e501655b3c4f38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/145\/17-20.1792299103647.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "kganyogo"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ya bao ba mo segofolego"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "e tla e dira"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "seetse sa bona"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "seetse sa bona"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "se tla se theetša"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "gomme a ba hlankola"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:43.648734029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "טוב ברע \/ רע בטוב",
+      "rationale": "Kiasama ya botse–mpe \/ mpe–botse; tatelano ya go fetola ga e utolale ka botlalo ka Sepedi."
+    },
+    {
+      "kind": "idiom",
+      "subject": "המר ימיר",
+      "rationale": "Infinitive absolute — go tiša go bontšha go gatelela, 'ge a fetola ka boikokobetši'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "תמורה",
+      "rationale": "Sefetošwa — sehlare sa go phetoša, se hlatšitšwe bjalo ka phetošo."
+    }
+  ],
+  "translation": "A e se ke wa e fetoša, gomme a e se ke wa e fetola ⟨את⟩ e botse ka e mpe, goba e mpe ka e botse; gomme ge a fetola ka go tiša phoofolo ka phoofolo, e tla ba yona le sefetošwa sa yona di tla ba bokgethwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e174fe90c7428d0f767fae28221089bd4291412d7cfd52f5551113b1989b8244",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/27\/9-12.1792284362081.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "e se ke wa e fetoša"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "e se ke wa e fetola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "e botse"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "e botse"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ka e mpe"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "רע",
+      "gloss": "e mpe"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ka e botse"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ka go tiša"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "a fetola"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "phoofolo"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ka phoofolo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "e tla ba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "le sefetošwa sa yona"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "di tla ba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:46:02.082091292Z",
+  "model": "glm-5.3"
+}

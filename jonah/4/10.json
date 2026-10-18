@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שבן לילה ... ובן לילה",
+      "rationale": "Idiom 'son of a night' = one night old; Sepedi keeps 'morwa wa bošego' to preserve the repeated idiom."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבן לילה \/ ובן לילה",
+      "rationale": "Symmetrical repetition: born in a night, perished in a night — the verse's whole rhetoric."
+    },
+    {
+      "kind": "hapax",
+      "subject": "הקיקיון",
+      "rationale": "The gourd word occurs only in Jonah 4 in the Tanakh."
+    }
+  ],
+  "translation": "Gomme Yahwe a re: Wena o hlokometše sefate sa lehutla, seo o sa dirago mošomo go sona, gomme o sa se atolositše — seo e bego e le morwa wa bošego, mme morwa wa bošego o ile a tima.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "66d4c6f21497030f10824e4d916018cd2d47e0ae7967b7a4c22e1e62b8fe2738",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jonah\/4\/9-11.1792296440993.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Gomme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "o hlokometše"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka ga"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "sefate sa lehutla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o sa"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "dirago mošomo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go sona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o sa"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "se atolositše"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wa bošego"
+    },
+    {
+      "surface": "היה",
+      "gloss": "e bego e le"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "mme morwa"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wa bošego"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "o ile a tima"
+    }
+  ],
+  "timestamp": "2026-10-18T04:07:20.994494260Z",
+  "model": "glm-5.3"
+}

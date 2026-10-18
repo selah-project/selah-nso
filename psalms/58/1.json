@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 58,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אל תשחת",
+      "rationale": "'Se o senye' — mahlodi a fapana: maina a koša ya thwii (JPS) kgahlanong le go ngwala 'ya Dafida, yu. mo nyaketšego'"
+    },
+    {
+      "kind": "hapax",
+      "subject": "מכתם",
+      "rationale": "Sepedi se se ngwadile ka modumo: 'miktame' — bokao bo sa tsejwego, go ka ba poko e ngokotšwago"
+    }
+  ],
+  "translation": "Go moetapele wa koša; Se o senye; psalema ya Dafida; miktame.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "476db0d769a2558c08b8fad5a679c3e9d65646bb14f5559487010d517925623f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/58\/1-4.1792297916671.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moetapele wa koša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se"
+    },
+    {
+      "surface": "תשחחת",
+      "gloss": "o senye"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "psalema ya Dafida"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "miktame"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:56.671686612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "go tlatsa letogo",
+      "rationale": "מלא יד — 'go tlatsa letogo' — ke mošomo wa go kgethwa; Seheberu se bolela 'go tlatsa letogo' ka tlwaelo, e sego 'go kgetha'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨gagwe⟩",
+      "rationale": "לו — sebopego saSeheberu; sekopanyi se fetošitšwe go ba pronoun"
+    },
+    {
+      "kind": "crux",
+      "subject": "consecrated",
+      "rationale": "KJV\/JPS di roala 'consecrated'; YLT e boloka 'letogo' ka botlalo — phetolelo ya Sepedi e boloka sebopego sa go tlatsa letogo"
+    }
+  ],
+  "translation": "Gomme Mika a tlatsa ⟨את⟩ letogo la Molefi, gomme mosalanyana a ba moperisita wa ⟨gagwe⟩, gomme a dutše ntlong ya Mika.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "04a734819732134f9593f89b1857c2d5da236b6abb5f9390e91e6f31b0d24285",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/17\/12-12.1792304795802.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "gomme … a tlatsa"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Mika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "letogo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "letogo"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "la Molefi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "gomme … a ba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨gagwe⟩"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "mosalanyana"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "gomme … a dutše"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ya Mika"
+    }
+  ],
+  "timestamp": "2026-10-18T06:26:35.803385499Z",
+  "model": "glm-5.3"
+}

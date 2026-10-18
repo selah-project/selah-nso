@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 10:36",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dikabelo tša mathomo",
+      "rationale": "בכורי — 'dikabelo tša mathomo' bakeng sa 'matšwa a mathomo' (firstfruits); sefoko sa Sepedi se sa tsewe ka bo sole."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנה בשנה",
+      "rationale": "Go buseletša 'ngwaga le ngwaga' — sebopego sa Seheberu se bolokwa."
+    }
+  ],
+  "translation": "Gomme go isa ⟨את⟩ dikabelo tša mathomo tša lefase la rena, le dikabelo tša mathomo tša peuruso ya dihlare tše moka, ngwaga le ngwaga, ntlong ya Yahwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "9e4d1af697ba2441d25c7c8362889556690450b9006a572d9dfe556f62c23f99",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/10\/33-36.1792302704065.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולהביא",
+      "gloss": "Gomme go isa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikabelo tša mathomo tša lefase la rena"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "dikabelo tša mathomo"
+    },
+    {
+      "surface": "אדמתנו",
+      "gloss": "tša lefase la rena"
+    },
+    {
+      "surface": "ובכורי",
+      "gloss": "le dikabelo tša mathomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "tša"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "peuruso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ya dihlare tše"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "moka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "le ngwaga"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:51:44.066814096Z",
+  "model": "glm-5.3"
+}

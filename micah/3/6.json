@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 3:6",
+  "book": "micah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "לילה לכם מחזון",
+      "rationale": "'night to you for a vision' (night replacing vision, Geneva\/YLT) vs 'night so that you have no vision' (KJV\/JPS inferred negative)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "וקדר",
+      "rationale": "lit. 'be black\/ashy' also connotes mourning in sackcloth; rendered simply 'lefsifsi'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "bosigo \/ lefsifsi \/ letsatsi",
+      "rationale": "Verse piles night-darkness-sun-day images into an inversion: day turns dark for the prophets."
+    }
+  ],
+  "translation": "Ka gobane bosigo bo tla ba gare ga lona go sa le ponelopele, gomme lefsifsi le tla ba gare ga lona go sa laolle; gomme letsatsi le tla šologa godimo ga baprofeta, gomme letšatši le tla ba lefsifsi godimo ga bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2680b664c7e946c26f44baf00f8b880f5be4781886087ef0e7fff611f0a6c890",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/micah\/3\/5-8.1792296479139.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "bosigo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gare ga lona"
+    },
+    {
+      "surface": "מחזון",
+      "gloss": "ponelopele"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "gomme lefsifsi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "gare ga lona"
+    },
+    {
+      "surface": "מקסם",
+      "gloss": "laollo"
+    },
+    {
+      "surface": "ובאה",
+      "gloss": "le tla šologa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letsatsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "baprofeta"
+    },
+    {
+      "surface": "וקדר",
+      "gloss": "le tla ba lefsifsi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "godimo ga bona"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letšatši"
+    }
+  ],
+  "timestamp": "2026-10-18T04:07:59.140410431Z",
+  "model": "glm-5.3"
+}

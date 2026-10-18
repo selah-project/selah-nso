@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עורה…עורה…אעירה",
+      "rationale": "Go boela ga lenti la go tsohwa ga ga raro (paronomasia), go timetse ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bosasa",
+      "rationale": "Seheberu se re 'ke tla tsohgosa ⟨את⟩ bosasa' — bosasa bjalo ka selo se ka tsohwašoa, e sego sephetho se sene"
+    },
+    {
+      "kind": "crux",
+      "subject": "bosasa",
+      "rationale": "'go tsohgosa bosasa' (JPS, ke kgodiši) kgahlanong le 'go tsohwa ka pela mesong' (KJV): שחר ke leina goba sephetho?"
+    }
+  ],
+  "translation": "Tsohwa, tlhagelešo ya ka; tsohwa, nebele le kenora; ke tla tsohgosa ⟨bosasa⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "88b234e884a18acd4462a9af204869aa65553829ce71268139fe7702a98395d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/57\/9-12.1792297869414.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "tsohwa"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "tlhagelešo ya ka"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "tsohwa"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "nebele"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "gomme kenora"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ke tla tsohgosa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "bosasa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:09.415727441Z",
+  "model": "glm-5.3"
+}

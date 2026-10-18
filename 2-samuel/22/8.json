@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 22:8",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelo ya gagwe e tuka",
+      "rationale": "חרה לו semologilego e re 'go tuka go ena' — Sepedi e nyaka 'pelo' go bolela bophelo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "געש\/רעש\/רגז",
+      "rationale": "dirišo tše tharo tša go gogoma tša sehlakana — mošomo wa modumo o timetse ka Sepedi"
+    }
+  ],
+  "translation": "Gomme lefase la gogoma la thwathwatlha; thehilo ya magodimo ya tsogotla, ya gogoma, ka gobane pelo ya gagwe ⟨e⟩ ile ⟨ya⟩ tuka.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b65ca0144051ef5bc38f683dc73604406e7f894bd97708628f44c79ec5eee71b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/22\/5-8.1792289343625.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "la gogoma"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "la thwathwatlha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "thehilo ya"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "ya tsogotla"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "ya gogoma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "pelo ... tuka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:09:03.626522852Z",
+  "model": "glm-5.3"
+}

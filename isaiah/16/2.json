@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 16:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "נודד \/ משלח",
+      "rationale": "Go bueša go namelela le go romelwa ga nonyana — sefala se tlošitšwe, bjalo ka barwadi ba Moaba ba balegileng; sebopego se a laetša botšhotšho."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mafelong a go feta",
+      "rationale": "מעברת ke mafora a noka (diletefate tša Arnone); Sepedi se hlalosa ka mafelo a go feta."
+    }
+  ],
+  "translation": "E tla ba bjalo ka nonyana ye e namelelago, sefala se se rometšwego: barwadi ba Moaba ba tla ba mafelong a go feta a Arnone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "86aef55c88c6abaebbbd0cdbb38eae1e97a3a11d224c676b6f1fd42f20eddb0f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/16\/1-4.1792291617391.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "E tla ba"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "bjalo ka nonyana"
+    },
+    {
+      "surface": "נודד",
+      "gloss": "ye e namelelago"
+    },
+    {
+      "surface": "קן",
+      "gloss": "sefala"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "se se rometšwego"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ba tla ba"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "barwadi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moaba"
+    },
+    {
+      "surface": "מעברת",
+      "gloss": "mafelong a go feta"
+    },
+    {
+      "surface": "לארנון",
+      "gloss": "a Arnone"
+    }
+  ],
+  "timestamp": "2026-10-18T02:46:57.391892609Z",
+  "model": "glm-5.3"
+}

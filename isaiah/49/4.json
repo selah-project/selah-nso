@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 49:4",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e dula",
+      "rationale": "Seheberu se se na kopanyi (\"is with\") — tlhaloši e okeditšwe ka Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "משפטי",
+      "rationale": "\"Kahlolo\" kgotsa \"toka ya ka \/ sebego sa molato\" — dikgati di fapana: \"right\/vindication\/recompense\"."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לריק \/ לתהו והבל",
+      "rationale": "Thaloso ya go se loka ga re tharo ka go latelana (ריק, תהו, הבל) — tema ya go hloka tlhago."
+    }
+  ],
+  "translation": "Ke ile ka re: Ka go se loka ke ile ka ikgweretša, ka go se loka le sephiri ke šetše maatla a ka; eupša kahlolo ya ka ⟨את⟩ e dula go Yahwe, le sebego sa ka se sa ⟨את⟩ Elohim ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "85ad3399b816184519876bf3c16aa2a936ac1fdc3ae4aea8d378dcd7f6a8debc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/49\/1-4.1792292288032.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ke ile"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ka re"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ka go se loka"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "ke ikgweretša"
+    },
+    {
+      "surface": "לתהו",
+      "gloss": "ka go se loka le sephiri"
+    },
+    {
+      "surface": "והבל",
+      "gloss": "le sephiri"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "maatla a ka"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ke šetše"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "eupša"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kahlolo ya ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ופעלתי",
+      "gloss": "le sebego sa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim ya ka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T02:58:08.033801338Z",
+  "model": "glm-5.3"
+}

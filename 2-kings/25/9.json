@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שרף … שרף באש",
+      "rationale": "Letšatši le amogela lefišo: וישרף ka thomong le שרף באš ka mafelelo — go phetiša ga lentšu leo le tee, se se se nago sepe kgahlanong le Sepedi."
+    },
+    {
+      "kind": "crux",
+      "subject": "כל בית גדול",
+      "rationale": "KJV\/JPS: 'ntlo ya monna yo mogolo ka moka'; YLT\/ASV\/BSB: 'ntlo ye kgolo ka moka' — ka botlalo בית גדול e bolela 'ntlo ye kgolo', e sego 'ntlo ya motho yo a kgethegilego'."
+    }
+  ],
+  "translation": "Gomme a fiša ⟨את⟩ ntlo ya Yahwe, le ⟨את⟩ ntlo ya kgoši, le ⟨את⟩ malapa ka moka a Yerushalayime; gomme ntlo ye nngwe le ye nngwe ye kgolo a e fišitše ka mollo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "650b1b5144749519842384e6b9d6ed3cc418075f9bdd6a7cf264c2824ea6e756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/25\/9-12.1792291145469.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "gomme a fiša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya Yahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ya kgoši"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgoši"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "malapa ka moka a Yerushalayime"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "a Yerushalayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "ntlo ye nngwe le ye nngwe ye kgolo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ye nngwe le ye nngwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ye kgolo"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "a e fišitše"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:05.470627670Z",
+  "model": "glm-5.3"
+}

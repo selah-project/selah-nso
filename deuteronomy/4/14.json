@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 4:14",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתם",
+      "rationale": "Aleph-tav ya go šupa sephethi (tšona) e ile ya hlahlelwa ka ⟨את⟩ ka gobane Sepedi e bea lentšu ka mo o mongwe."
+    }
+  ],
+  "translation": "Gomme Yahwe o laeditše ⟨את⟩ nna ka nako yeo, go ruta ⟨את⟩ lona melao le dikahlolo, gore le di dire ⟨את⟩ tšona lefaseng leo le sepelago kona go le hwetša.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "3eecf7ee101dc8c26e19ecbf1f6594179a575a56d87ac516868ed04520af422d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/4\/13-16.1792285643601.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna (Moshe)"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "o laeditše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ka nako"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "go ruta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "melao"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "le dikahlolo"
+    },
+    {
+      "surface": "לעשתכם",
+      "gloss": "gore le di dire"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "tšona (melao le dikahlolo)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "le sepelago"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kona"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "go le hwetša"
+    }
+  ],
+  "timestamp": "2026-10-18T01:07:23.602795353Z",
+  "model": "glm-5.3"
+}

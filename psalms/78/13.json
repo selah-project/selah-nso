@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "בקע",
+      "rationale": "go bula go tšwa nakong ya go feta go boeletšwa gape ya 15 go bula maswika — tšhaka ya mabitlolo tšeo di sa bontšhwego ge di fapantšhwa"
+    },
+    {
+      "kind": "crux",
+      "subject": "נד",
+      "rationale": "tholo ya meetse: נד e bolela mošomo\/mokgomo wa meetse ao a emilego go tswalela — 'bjalo ka tholo' go sego 'bjalo ka lebati'"
+    }
+  ],
+  "translation": "O bula lewatle, a ba fetoša ⟨go feta⟩; gomme a emiša ⟨את⟩ meetse bjalo ka tholo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "72c6c5410ab05fc6c4f97fac561837ad9097507f1b394ff4793951fcaa5d00eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/13-16.1792298229594.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "o bula"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "a ba fetoša"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "a emiša"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "נד",
+      "gloss": "tholo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:09.594515090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tumelo",
+      "rationale": "לכבוד e šala boima le khutšo; 'tumelo' e tšwa tumelong ya bošego bja motho — botebo bja khutšo"
+    },
+    {
+      "kind": "addition",
+      "subject": "mmošwao wa gago",
+      "rationale": "Sepedi se nyaka mmošwao; Hebrew e na le 'אחיך' fela — go swanetše go bontšhwa ke para"
+    },
+    {
+      "kind": "you",
+      "subject": "Moshe",
+      "rationale": "Taelo ya go lebella Moshe ka bowena — o swanetše go diaparo tša bokgethwa tša Aharone"
+    }
+  ],
+  "translation": "Gomme o dire diaparo tša bokgethwa go Aharone, mmošwao wa gago, bakeng sa tumelo le bontši.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "d39237e2a887e75d4214c30137ed9f5b17788d52b196a871f321d7c4071004cb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/28\/2-3.1792304614528.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "gomme o dire"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "diaparo tša"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "go Aharone"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "mmošwao wa gago"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "bakeng sa tumelo"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "gomme bontši"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:34.528854787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 26:36",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tekelete",
+      "rationale": "תכלת — mmala wa botala-bjala o tšwa go sephuthedi sa lewatle — o ngwalwa ka modumo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "kgogokgubedu",
+      "rationale": "תולעת שני — 'kgogo ya kgetlwa' — mmala wa bokgubedu o tšwa go selo se se phelago se senyegago"
+    },
+    {
+      "kind": "crux",
+      "subject": "רקם",
+      "rationale": "'mošomo wa go bopa ka mebala' — baphetoleli ba fapana: 'go bordonwa' kgahlanong le 'go hloma mebala'"
+    }
+  ],
+  "translation": "Gomme o dirile sephuthedi sebakeng se se bulelago sa theente ya tekelete, pora, kgogokgubedu, le leshefe le le kgotleditšwego — mošomo wa go bopa ka mebala.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9e95b6355f2a7811fc417cdad5b1ec31f41beb388786189f6cbb95c16b1cff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/26\/33-36.1792283084754.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "gomme o dirile"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "sephuthedi"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "sebakeng se se bulelago"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "theente"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "tekelete"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "pora"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "kgogokgubedu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "e kgetlwago"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "leshefe"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "le le kgotleditšwego"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "רקם",
+      "gloss": "wa go bopa ka mebala"
+    }
+  ],
+  "timestamp": "2026-10-18T00:24:44.755391469Z",
+  "model": "glm-5.3"
+}

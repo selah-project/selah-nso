@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ena",
+      "rationale": "Sehlotšwana sa mafelelo se nyaka seina sa Sesotho sa Sepedi; Seheberu se bea fela אנכי pele ga Leina."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Bolelo bja go thothomela go setšhaba sa Yisraele — theetša, setšhaba sa ka."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Theetša",
+      "rationale": "Taelo ya go theetša e bula polelo ya Elohim — sekgopa se se kutwego."
+    }
+  ],
+  "translation": "Theetša, setšhaba sa ka, gomme ke tla bolela; Yisraele, gomme ke tla fa bosupi go wena: Elohim, Elohim wa gago, ke ⟨ena⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "bf13bd3ed971bfd0f5d86715090ab94a5dcb4a7732bec2946798fcb190971bbf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/50\/5-8.1792297782191.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Theetša"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "setšhaba sa ka"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "gomme ke tla bolela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "gomme ke tla fa bosupi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke ⟨ena⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:42.191980966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa yena",
+      "rationale": "נפש ה mopša-kgomo\/throat\/bophelo — gomme 'moya' ke go kgetha ga bobedi, e sego sephetho"
+    },
+    {
+      "kind": "addition",
+      "subject": "ya",
+      "rationale": "Sepedi e nyaka sekopanyi sa bure-kgetho gare ga mpeng le bafosegi"
+    }
+  ],
+  "translation": "Tokatoko e ja go khotsofatša ⟨את⟩ moya wa yena; gomme mpeng ya bafosegi e a tlhaela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ccca0a766737d01783c5100890cb8b191844fa6b052813071620d84488539b42",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/13\/25-25.1792299332023.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "tokatoko"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "e ja"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "go khotsofatša"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa yena"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "gomme mpeng"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ya bafosegi"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "e a tlhaela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:32.024596817Z",
+  "model": "glm-5.3"
+}

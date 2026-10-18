@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וריבה ריבי",
+      "rationale": "go roloka ga modu: tiro le leina go bopa mofoko o tee, se se laelwa ka 'o lwelle kgang ya ka'"
+    },
+    {
+      "kind": "you",
+      "subject": "to Elohim",
+      "rationale": "motho wa thapelo o bolela ka go lebega le Elohim ka bye"
+    },
+    {
+      "kind": "elision",
+      "subject": "מגוי...חסיד",
+      "rationale": "go hlaka ga Seheberu 'go tšwa setšhabeng se se sa hlankeng botho' go phetololetšwe bjalo ka kgahlanong le"
+    }
+  ],
+  "translation": "O nkahlola, Elohim, gomme o lwelle kgang ya ka kgahlanong le setšhaba se se sa hlankeng botho, le motho wa mafeko le tšhotšho o mplogetše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "41ab8dd1895d64a93406ebbb3da9594cefb1eb7969d8a9bb66103e591d4fbece",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/43\/1-4.1792297713993.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "o nkahlola"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "gomme o lwelle"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "kgang ya ka"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "kgahlanong le setšhaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se se sa"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "hlankeng botho"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "le motho wa"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "mafeko"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "le tšhotšho"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "o mplogetše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:33.994479055Z",
+  "model": "glm-5.3"
+}

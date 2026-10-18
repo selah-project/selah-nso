@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 119:48",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "godiša matsoho go ditaelo",
+      "rationale": "Seheberu se bolela 'go godiša mašafa a seatla' go thwasa go ditaelo — sebopego sa thapelo; ke gore ke thapelo ya go thwasa go lentšu."
+    },
+    {
+      "kind": "substitution",
+      "subject": "seatla sa ka",
+      "rationale": "כפי ke matala a mašafa ('matala a ka') — bontši; 'seatla' bo tloša seswantšho sa matala a mo opeago."
+    }
+  ],
+  "translation": "Gomme ke tla godiša seatla sa ka go ditaelo tša gago, tšeo ke di ratago, gomme ke tla nagana diteka tša gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e1e9edb61584885156890815718eff87acc05ffed81ce85e53bed441f5f4cfe6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/45-48.1792298816046.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "gomme ke tla godiša"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "matsoho a ka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ditaelo tša gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ke di ratago"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "gomme ke tla nagana"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "diteka tša gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:56.047882100Z",
+  "model": "glm-5.3"
+}

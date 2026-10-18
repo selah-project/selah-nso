@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מישראל",
+      "rationale": "Seheberu se re 'go tšwa go Yisraele' ka mantšu a mantši; Sepedi a ka se se bue ka tsela eo, ka gona 'bana ba Yisraele'"
+    },
+    {
+      "kind": "elision",
+      "subject": "המה",
+      "rationale": "'ba mphsa' ha e phetiše botee bja polelo ka Sepedi; e latofaditšwe"
+    }
+  ],
+  "translation": "Setšhaba sohle seo se sa ilegoago — Bakheti, Baemori, Baperizi, Bahivi le Bayebusi — bao e sego bana ba Yisraele:",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "0cd70edb6853391723cb2988f4c5aaba27d706b0e18de56ecae86812517c383d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/8\/5-8.1792303845538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "sohle"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "seo se sa ilegoago"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Bakheti"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "Baemori"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "Baperizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "Bahivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "le Bayebusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "bao"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e sego"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "bana ba Yisraele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-10-18T06:10:45.539816734Z",
+  "model": "glm-5.3"
+}

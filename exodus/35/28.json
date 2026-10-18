@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go tlodilwa",
+      "rationale": "המשחה — 'go tlodilwa': šoma le leina Mashiakh; mafura a go tlodilwa a šumišwa go kgethwa baahlami le dilwana"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mosi",
+      "rationale": "קטרת — 'mosi wa dinamane': se sengwe le se sengwe se se fišago se hlahisa mosi wo a nago le namune"
+    }
+  ],
+  "translation": "Le ⟨את⟩ dinamane, le ⟨את⟩ mafura — bakeng sa lesedi, le bakeng sa mafura a go tlodilwa, le bakeng sa mosi wo a nago le namune.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9bfee707a3aadb4d0f766b8030ffa0c068b883e12485322e31b4d79248048805",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/35\/25-28.1792283259431.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "dinamane"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "dinamane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "mafura"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "mafura"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "bakeng sa lesedi"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "le bakeng sa mafura a"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "go tlodilwa"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "le bakeng sa mosi"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "dinamane"
+    }
+  ],
+  "timestamp": "2026-10-18T00:27:39.432820677Z",
+  "model": "glm-5.3"
+}

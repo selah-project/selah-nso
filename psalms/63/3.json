@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 63,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bokgethjwa",
+      "rationale": "קדש e sa tšwa go go kgethwa; sefoko sa Sesotho 'halalela' se ganwa"
+    }
+  ],
+  "translation": "Bjalo ka ge ke go bonile bokgethjwang, go bona matla a gago le kgalalelo ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dc79e24376d86015fac8a97b52f20ca2365d9ec20f1fd7deb0321802bda5c305",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/63\/1-4.1792297989531.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "bokgethjwang"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "ke go bonile"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "matla a gago"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "le kgalalelo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:09.532417201Z",
+  "model": "glm-5.3"
+}

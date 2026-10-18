@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yo a dulago",
+      "rationale": "אשר gona fela; go dulago go okeditšwe go hlalosa moafola."
+    },
+    {
+      "kind": "substitution",
+      "subject": "moafola",
+      "rationale": "גר ke moafola — moeti yo a sa lego moahi wa botlalo; e sego 'motho wa lefase ka bophara'."
+    }
+  ],
+  "translation": "Bana ba lona ba sennyane, basadi ba lona, le moafola wa gago yo a dulago ka gare ga dikampa tša gago, go motsegi wa dikgong tša gago go fihla go mošwi wa meetse a gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "613764cbd906a2d63bb9cfe5d19264aead3614839c7c7a0fe55c8496ca3849b1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/29\/9-12.1792286273575.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "bana ba lona ba sennyane"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "basadi ba lona"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "le moafola wa gago"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo a dulago"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ka gare ga"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "dikampa tša gago"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "go motsegi wa"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "dikgong tša gago"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla go"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "mošwi wa"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "meetse a gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:17:53.576382754Z",
+  "model": "glm-5.3"
+}

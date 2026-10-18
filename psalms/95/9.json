@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 95,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "גם ראו",
+      "rationale": "KJV\/ASV 'and saw my work' kgahlanong le JPS\/BSB 'le ge ba bone' (ge ba be ba sa tshepe ka ge ba ile ba bona) — go bona go tlhagile pele goba ka morago ga teko."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נסוני \/ בחנוני",
+      "rationale": "Ditiragalo tše pedi tša go leka (go leka \/ go hhiba bjalo ka tšhipi) di phuthetšwe mmogo — sepetero se laleditšwe ka pušo ya Sepedi."
+    }
+  ],
+  "translation": "Ge makgohlo a lona a ntšeše, a ile a nkhiba, le ge a bone mošomo wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "31ad06238abde40becff53422bc1a7a4603b320c8617d2636113f0bd59aad6f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/95\/9-11.1792298450994.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "a ntšeše"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "makgohlo a lona"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "a nkhiba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "le ge"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "a bone"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "mošomo wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:50.994570299Z",
+  "model": "glm-5.3"
+}

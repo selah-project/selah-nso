@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le copula; Sepedi e e nyaka — ⟨ke⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go tswalisa",
+      "rationale": "ותחולל e bolela go thothomala\/go tswalisa bjalo ka mosadi; 'bopa' e ka ba tlase kudu"
+    }
+  ],
+  "translation": "Pele dithaba di sa tšolwego, gomme pele o sa tswalisa lefase le le nago le badudi, go tloga nakong ya khale go ya nakong ya go sa fele, wena ke ⟨El⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/90\/1-4.1792298456851.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "pele"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "dithaba"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "di sa tšolwego"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "gomme o sa tswalisa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "le le nago le badudi"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "go tloga nakong ya khale"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "nakong ya go sa fele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:56.852130781Z",
+  "model": "glm-5.3"
+}

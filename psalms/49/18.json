@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ba ka se theoge",
+      "rationale": "ירד אחריו — 'go theoga ka morago ga yena' — Sesotho se bolela gore se atlegile se sa mo fetolela lehu; picture ya go theoga ke ya Sheole."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "כבוד",
+      "rationale": "Bokao bja konokono ke 'boima' — se atlegile se boima sa nama se sa se tšee le ge a hwetša; boima bo timetse ka lehu."
+    }
+  ],
+  "translation": "ka gobane ge a hwetša, ga ⟨את⟩ tšohle a tla di tšea; tlotlo ya gagwe e ka se theoge e mo latela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e05fb71515cee11022f7c26bbd2e6428d750500abb376f9135e9707b79a9e2d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/49\/17-20.1792297793269.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "ge a hwetša"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "a tla di tšea"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "tšohle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ka se"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "theoge"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "e mo latela"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "tlotlo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:53.269958306Z",
+  "model": "glm-5.3"
+}

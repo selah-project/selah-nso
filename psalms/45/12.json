@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mong wa gago",
+      "rationale": "אדניך ke adon wa motho (mong\/mong wa gago), e sego Leina la Modimo — mo kgoshi ya lefatshe."
+    },
+    {
+      "kind": "you",
+      "subject": "go morwedi (kgošigadi)",
+      "rationale": "Taelo ya go ikepela e tšwelela go kgošigadi ya v10–11."
+    }
+  ],
+  "translation": "Gomme kgoshi e tla rata bokgabane bja gago, ka gobane ke ena mong wa gago; gomme o inkepele go yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "15bd46efc475de8ce0b91834e51b08724dc0458c8621ee8945062f58d2a616a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/45\/9-12.1792297777723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "Gomme e tla rata"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoshi"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "bokgabane bja gago"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ke ena"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "mong wa gago"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "gomme o inkepele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:37.724169635Z",
+  "model": "glm-5.3"
+}

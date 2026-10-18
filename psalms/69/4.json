@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "momme",
+      "rationale": "גרון ke momme ka go nwa le go mina — e sego 'throat' ka boikgetlo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "כלו עיני",
+      "rationale": "'mahlo a fedile' — goba 'a fokola', fela 'a fedile' ke sebopego sa כלה sa go phetha"
+    }
+  ],
+  "translation": "Ke khutšetše ka go lla ka lebito la Elohim, momme wa me o omile, mahlo a me a fedile, ke emetše Elohim wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "53de061516384eb7bb4e8853497ff060c0db10355e8fa1cadbf7984d9cf2a2d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/69\/1-4.1792298072941.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "ke khutšetše"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ka go lla ka lebito la"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "o omile"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "momme wa me"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "a fedile"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a me"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "ke emetše"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Elohim wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:32.942166094Z",
+  "model": "glm-5.3"
+}

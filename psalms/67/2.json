@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 67,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתנו",
+      "rationale": "את ya H854 (le) e sego modulasetulo wa ⟨את⟩ wa H853; dipheto tše dingwe di nagana gore ke H853 ka medumo e tšwago go nawane (אִתָּנוּ)"
+    }
+  ],
+  "translation": "Elohim a re fofe mohau gomme a re humiše, a thadifatše sefahlego sa gagwe ⟨את⟩ le rena. Selah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4c5ce1a2835f37e54c6874feaffd4e42e7f06998b1b43ac47104c0d6394c6581",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/67\/1-4.1792297968026.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "a re fofe mohau"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "gomme a re humiše"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "a thadifatše"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sefahlego sa gagwe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ le rena",
+      "marks": "le rena"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:32:48.026973616Z",
+  "model": "glm-5.3"
+}

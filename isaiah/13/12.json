@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אוקיר",
+      "rationale": "Yaʿaqar e bolela 'go dira bohloko' goba 'go dira ba fokola ka palo' (go ba wa bohloko ka bophara); YLT le ASV di kgetha 'rare', KJV 'precious'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מפז \/ מכתם",
+      "gloss": "maboko a mabedi a gauta a a hlwekileng — 'gauta ya phodupho' le 'gauta ya khetamo'; phapano ya maboko e phelile."
+    }
+  ],
+  "translation": "Ke tla dira motho a be wa bohloko go feta gauta ya phodupho, gomme motho go feta gauta ya khetamo ya Ofire.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7172fdf9010dbf11caecab6fb94919ef7e8f8ffb21b6e4fa0276dde7df32abae",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/13\/9-12.1792291387692.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Ke tla dira a be wa bohloko"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "go feta gauta ya phodupho"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "gomme motho"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "go feta gauta ya khetamo"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ya Ofire"
+    }
+  ],
+  "timestamp": "2026-10-18T02:43:07.693911681Z",
+  "model": "glm-5.3"
+}

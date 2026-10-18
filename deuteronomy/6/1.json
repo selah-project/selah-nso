@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na le kopula; Sepedi se e nyaka"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתכם",
+      "rationale": "את ya bontši e kopantšwe le lentšu la go rutša; ga e hlakanye ka boyona"
+    }
+  ],
+  "translation": "Ye ⟨ke⟩ taelo, melawana le dikahlolo, yeo Yahwe Elohim ya lona a laeditšego go e rutša lona, gore le e dire lefaseng leo le tlalogago go lona go se e hlagisa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "450205fa0e8c99b45cfa23adcd99956390ed1c9d9dad9b29ece66b7fbd822170",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/6\/1-4.1792285685273.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ye"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "melawana"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "le dikahlolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "a laeditšego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim ya lona"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "go rutša"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ lona"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dire"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "le"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "tlalogago"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "go se hlagisa"
+    }
+  ],
+  "timestamp": "2026-10-18T01:08:05.274464865Z",
+  "model": "glm-5.3"
+}

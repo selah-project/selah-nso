@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 2:8",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨a⟩",
+      "rationale": "לו ke lentšu la boitšhwaro la Seheberu ('go ikwgagela') — Sepedi e nyaka ⟨a⟩."
+    },
+    {
+      "kind": "elision",
+      "subject": "ויקח",
+      "rationale": "Hlogo ya polelo e sego ya bolela mothoši ('Gomme') — sebopego sa Seheberu se tšwelago pele polelong ya 2:7."
+    }
+  ],
+  "translation": "Gomme a tšere ⟨a⟩ segwadi sa letsopa go ikgwaga ka sona; gomme ena a dutše gare ga lerole.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dcc2ad8e5586abc31c88729202a96bda0340f7952bb1329573ea994d70a22086",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/2\/5-8.1792300027625.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Gomme a tšere"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨a⟩"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "segwadi sa letsopa"
+    },
+    {
+      "surface": "להתגרד",
+      "gloss": "go ikgwaga"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka sona"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "gomme ena"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "a dutše"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "lerole"
+    }
+  ],
+  "timestamp": "2026-10-18T05:07:07.626660548Z",
+  "model": "glm-5.3"
+}

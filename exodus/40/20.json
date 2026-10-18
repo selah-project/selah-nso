@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa bobedi go areka",
+      "rationale": "Sepedi needs the doer of the verbs; the Hebrew names no subject in this verse."
+    }
+  ],
+  "translation": "A be a tšea, a bea ⟨את⟩ bopaki go areka, a bea ⟨את⟩ dikobo go areka, gomme a bea ⟨את⟩ khaforetse godimo ga areka ka godimo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9b292847f9a64783364f7652d99e4e0d0a705c68284c16d9f4a995cfa7706462",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/40\/17-20.1792283520886.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "a be a tšea"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bopaki"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "bopaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "areka"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikobo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "dikobo"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "areka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "khaforetse"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "khaforetse"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "areka"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ka godimo"
+    }
+  ],
+  "timestamp": "2026-10-18T00:32:00.887783090Z",
+  "model": "glm-5.3"
+}

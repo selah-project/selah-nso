@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "badiredi ba ka",
+      "rationale": "שרי = ditlhogo tša seo长短 sa motho wa maemo; kholomo ya bokao e fapana"
+    },
+    {
+      "kind": "crux",
+      "subject": "יחדו",
+      "rationale": "mmala o mongwe: 'ba babo²bana kgotla' kgathanong le 'ba tletše-bokgoši'; 'al-together' (KJV) kgathanong le 'all of them' (JPS)"
+    },
+    {
+      "kind": "elision",
+      "subject": "הלא",
+      "gloss": "potsiso ya go gana; e elegilwe go 'Na ... sego'"
+    }
+  ],
+  "translation": "Gobe o tla re: Na badiredi ba ka ba sego ba babona-kgotla, kgoši ka moka le e nngwe le e nngwe?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "eaab1d5ee76068bd73a0bcf3c823198ac9ee67e3ff96fcca6a128a735743f47d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/10\/8-8.1792304925403.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobe"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "o tla re"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "na ... sego"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "badiredi ba ka"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ka moka le e nngwe le e nngwe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "kgoši"
+    }
+  ],
+  "timestamp": "2026-10-18T06:28:45.404403064Z",
+  "model": "glm-5.3"
+}

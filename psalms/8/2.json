@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "wa rena",
+      "rationale": "Sepedi e nyaka sehlakana sa botšedi, Seheberu se na le sesuti fela -ינו"
+    },
+    {
+      "kind": "addition",
+      "subject": "le",
+      "rationale": "Seheberu ga se na kernele go מה־אדיר; Sepedi e nyaka 'le' ya thwii"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Seteramane se bitša Yahwe ka leina ka boomo — kopano ya kgoši"
+    },
+    {
+      "kind": "invitation",
+      "subject": "mahlatse a maholo",
+      "rationale": "Temana ye e bulwa ke teramane ya go makala yeo e gogago mmadi ka gare"
+    }
+  ],
+  "translation": "Yahwe, Adonai wa rena, leina la gago le magolo bjang go lefase ka moka, woo o beileng bokgogedi bja gago godimo ga magodimo!",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c312715747babd4542f4e1e3d30dfd0588d703237998de6f5adefea83c970ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/8\/2-3.1792305203202.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Adonai wa rena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "bjang"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "le magolo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "go ... ka moka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "woo"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "o beileng"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "bokgogedi bja gago"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    }
+  ],
+  "timestamp": "2026-10-18T06:33:23.202696310Z",
+  "model": "glm-5.3"
+}

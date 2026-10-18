@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "diphapano",
+      "rationale": "פחים: magala a go fiša (JPS 'coals') kgathanong le diphapano\/ditrese (KJV 'snares') — lentšu le na le ditlhaka tše pedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "sulufa",
+      "rationale": "גפרית ke resin ya cypress e tšwago go sekele sa Sephedi sa lewatle, e šomišwa bjalo ka sela sa go fiša"
+    },
+    {
+      "kind": "measurement",
+      "subject": "karolo ya kopi ya tšona",
+      "rationale": "מנת כוסם — karolo e alogago ya bona, e swantšhitšwego ka kopi"
+    }
+  ],
+  "translation": "O tla na ka diphapano godimo ga ba fošagetšego, mollo le sulufa; gomme ruakh ya go fiša thata ke karolo ya kopi ya tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5f1e56125751dfffeb940472ce815466585af3ada1439e3fabfedd1fc9d2e27b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/11\/5-7.1792297256220.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "o tla na ka"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba fošagetšego"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "diphapano"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mollo"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "le sulufa"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "gomme ruakh"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ya go fiša thata"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "ya kopi ya tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:56.221015788Z",
+  "model": "glm-5.3"
+}

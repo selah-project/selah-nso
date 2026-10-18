@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "yo ... a lego",
+      "rationale": "Sepedi needs a relative construction where Hebrew has bare noun phrases."
+    },
+    {
+      "kind": "crux",
+      "subject": "מסלות",
+      "rationale": "Highways (pilgrim roads to Zion) vs BSB 'hearts set on pilgrimage'; rendered literal 'ditsela tše kgolo' (big roads)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אשרי ... אדם",
+      "rationale": "Second אשרי in a row (v.5, v.6) — macarism repetition structure."
+    }
+  ],
+  "translation": "Mahlogonolo a motho yo maatla a gagwe a lego go wena, yo ditsela tše kgolo di lego pelong ya yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7c26eed9bb9dc138c7e5a43ae00b8c0c9dfb838360c3a120f890190b9f9b63eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/84\/5-8.1792298399848.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "mahlogonolo a"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "maatla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "a gagwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ditsela tše kgolo"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "pelong ya yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:59.848890753Z",
+  "model": "glm-5.3"
+}

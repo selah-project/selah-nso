@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 146,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוחo e šumišwa ka modumo wa Seheberu go ya le D2 — e bolela moya, phefo le go hema ka lentšu le tee"
+    },
+    {
+      "kind": "hapax",
+      "subject": "עֶשְׁתֹּנֹתָיו",
+      "rationale": "Sephuthi se se rare kudu, se bolela mekgwa ya go nagana; diphetolelo tše ntši di re 'thoughts' goba 'plans'"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi se nyaka mohlami go hlalosa sebopego sa thwalo"
+    }
+  ],
+  "translation": "Ruakh ya hae e a ntšhwa, o boela go lerou le hae; ka letšatši leo mekgwa ya gagwe ya go nagana e a hwetša ⟨ke⟩ phoo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "552c2065f5016f5c7001ce21f18294a102c438aef5b86677dd3ab2bdf74abad5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/146\/4-4.1792305314028.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "e a ntšhwa"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "ruakh ya hae"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "o boela"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "go lerou le hae"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "e a hwetša phoo"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "mekgwa ya gagwe ya go nagana"
+    }
+  ],
+  "timestamp": "2026-10-18T06:35:14.028995975Z",
+  "model": "glm-5.3"
+}

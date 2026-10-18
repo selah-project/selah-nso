@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 92,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "makhura a tala",
+      "rationale": "רענן e bolela 'e tala, e mpshafaditšwego'; pono ya tshimo e nyeletše ka Sepedi"
+    },
+    {
+      "kind": "alternative",
+      "subject": "reeme",
+      "rationale": "ראים e tsewa bjalo ka phoofolo ya naga e tiilego; ba bangwe ba e ruta bjalo ka phoofolo ye e sa tsejwego"
+    }
+  ],
+  "translation": "O ile a godimatša ⟨את⟩ lenaka la ka bjalo ka la reeme; ke tlotšwa ka makhura a tala.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ccb29bba7eab0d6769349d3ffd820dfd370e974b97e7c1334d1ae31883a0070a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/92\/9-12.1792298450834.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "o ile a godimatša"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "bjalo ka la reeme"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "lenaka la ka"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ke tlotšwa ka"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "makhura"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "a tala"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:50.835564082Z",
+  "model": "glm-5.3"
+}

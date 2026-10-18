@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 144,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a mantsi",
+      "rationale": "רבים e na le bontši; Sepedi e nyaka mofuta wa semorao"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go meetse a mantsi",
+      "rationale": "םמים רבים — meetse a mantsi bjalo ka seswantšho sa kotsi, e sego meetse a nnete fela"
+    }
+  ],
+  "translation": "O romelle matogo a gago go tšwa godimo; o ntšhe, o ntlokolole go meetse a mantsi, go tšwa seatleng sa bana ba babela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3823681dd95ba4e8da74844860cec153bb0ccfe1195e43e232858978f5b1f86d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/144\/5-8.1792299138693.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "o romelle"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "matogo a gago"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "go tšwa godimo"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "o ntšhe"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "o ntlokolole"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "go meetse"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "a mantsi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "go seatleng sa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "babela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:52:18.694201891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "Šaule a busa go rona",
+      "rationale": "ימלך can be read as a question ('Shall Saul reign?') or as indignant quotation ('Saul does reign over us!' — so YLT); most versions take the question"
+    },
+    {
+      "kind": "you",
+      "subject": "to Šemuele",
+      "rationale": "the people address Samuel directly, demanding the dissenters"
+    }
+  ],
+  "translation": "Gomme setšhaba se re go Šemuele: Ke mang yo a boletšego, Šaule a busa go rona? Le nea ⟨את⟩ banna bao, gomme re ba bolae.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "53cf25570542505c951b92bd76edc9d4bb62050e171184edbd1287d73d785a32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/11\/9-12.1792288123516.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "se re"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Šemuele"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "yo a boletšego"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaule"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "go rona"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "le nea"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna bao"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "gomme re ba bolae"
+    }
+  ],
+  "timestamp": "2026-10-18T01:48:43.517778179Z",
+  "model": "glm-5.3"
+}

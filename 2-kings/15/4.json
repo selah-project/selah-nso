@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mabapa",
+      "rationale": "במות ka moko ke 'mabapa' (melo e menehilweng, madirelo a godimo) — e sa tsewe 'madirelo a kgethwa'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "se fiša dupa",
+      "rationale": "מקטרים ka moko 'go dupa \/ go dira muso wa dupa' — 'go fiša dupa' ke go fa sehlare se bodilweng."
+    }
+  ],
+  "translation": "Feela mabapa ga a tlošwa; go sa feleng setšhaba se hlabela gomme se fiša dupa ka mabapa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2e2b7ca35547245dcec68244e5ea961a7a6da19c6f22aa08252c0638217c24cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/15\/1-4.1792290819795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "feela"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "mabapa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "a tlošwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "go sa feleng"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "se hlabela"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "gomme se fiša dupa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ka mabapa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:33:39.796119304Z",
+  "model": "glm-5.3"
+}

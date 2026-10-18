@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "אתי mo ke H854 'le nna' (go ba kgauswi), e sego seka sa ⟨את⟩ ya go laela selo; e bolokwa go hlakanya sebopego."
+    },
+    {
+      "kind": "invitation",
+      "subject": "psalms 34:4",
+      "rationale": "Se psalme se bitša batho ba bangwe: 'Godisang Yahwe le nna' — se sa laela go tšea karolo."
+    }
+  ],
+  "translation": "Godisang Yahwe ⟨את⟩ le nna, gomme re godiše leina la gae mmogo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "524b62f9fa7c2d2af2a94384b2df7c93efd856ea353531d4cc63798ac3604083",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/1-4.1792297549412.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "Godisang"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ le nna",
+      "marks": "go godisa Yahwe mmogo"
+    },
+    {
+      "surface": "וונרוממה",
+      "gloss": "gomme re godiše"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gae"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:49.413911314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "וכל",
+      "rationale": "Sešopanyi se aba godimo ga ‘Yisraele’ — ‘yohle’ se hlama se sengwe ka go qalwa ga lentšu."
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Sepetlele sa ditšhaba tša Israele ka moka — thwathlha ya go kwa le go tšhaba."
+    }
+  ],
+  "translation": "Gomme Yisraele yohle e tla kwa, e tla tšhaba, e se ke ya oketša go dira bjalo ka taba e mpe ye gare ga gago.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "18bb400e2036e72450fa56b09ff687eb6ca95326e0b18c292b31a2aa27c65ec5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/13\/9-12.1792285846419.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "gomme ... yohle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "e tla kwa"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "e tla tšhaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "e se ke"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "ya oketša"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "go dira"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "bjalo ka taba"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "e mpe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ye"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "gare ga gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:10:46.420382203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 24:4",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dihloki",
+      "rationale": "אביונים (bao ba hlokago) le עניי (bao ba sotlwago) ka bobedi di fetošeditšwe 'dihloki' — mmele o a boela, ge o nyaka go fapantšha: ba hlokago \/ ba sotlwago."
+    },
+    {
+      "kind": "alternative",
+      "subject": "di iphitše mmogo",
+      "rationale": "Ka mo go tlwaelegilego ba ba phofaditšwego ka bobedi ba iphitša; eupša mo go dumelwa gape gore 'ba di ihlaile mmogo' ke ba osi."
+    }
+  ],
+  "translation": "Ba tlogosa dihloki tša tseleng; dihloki tša lefase di iphitše mmogo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b89365a7508d833473dbff6c61f88fcf79aed3c280ae79e7fded76d84c496105",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/24\/1-4.1792300541927.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יטו",
+      "gloss": "ba tlogosa"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "dihloki"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "חבאו",
+      "gloss": "di iphitše"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "dihloki tša"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    }
+  ],
+  "timestamp": "2026-10-18T05:15:41.928193072Z",
+  "model": "glm-5.3"
+}

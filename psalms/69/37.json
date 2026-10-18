@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 69:37",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 69,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "la gagwe",
+      "rationale": "bopaelo bja sebopego sa Seheberu se nyaketše gantsi; go ya ka mafelelo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "peu",
+      "rationale": "זרע bolela 'peu' ka tlwaelo; 'ditlogolo' ke mošomo, sebopego se lahlegile"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ינחלוה",
+      "rationale": "suffix ya kgwarwana ya sesadi -ה e šupa lefase (Zione) la sesadi la psalme 69:35; go se nago leina la go ela tlhoko go Sepedi"
+    }
+  ],
+  "translation": "Gomme peu ya bahlanka ba gagwe e tla e hlaka, gomme ba ba ratago leina la gagwe ba tla dula go yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "da3a4184a082a585f417f390c0147b52becaec31662dcd7a765bd6b24afc3ae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/69\/37-37.1792298037724.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וזרע",
+      "gloss": "gomme peu"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "ya bahlanka ba gagwe"
+    },
+    {
+      "surface": "ינחלוה",
+      "gloss": "e tla e hlaka"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "gomme ba ba ratago"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "leina la gagwe"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ba tla dula"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go yona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:57.725220663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 38,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "talenta tše 100 le di-shekele tše 1 775",
+      "rationale": "Palo e tee ya silibera yeo e badilwego, go ya ka shekele ya bokgethwa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בשקל הקדש",
+      "rationale": "Sefela sa bokgethwa se feletše ka bokgethwa go ya ka D2 — e sego 'halalela' ya Sesotho."
+    }
+  ],
+  "translation": "Gomme silibera ya bao ba badilwego go setšhaba e be ⟨ke⟩ talenta tše makgolo a lekgolo, le sekete le makgolo a šupa le masomešupa le hlano tša di-shekele, ka shekele ya bokgethwa;",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "72142e2c512027b19cb84e1c8f31c09de88e3e9e3d206baab9789faea5f974e9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/38\/25-28.1792283418668.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "gomme silibera"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "ya bao ba badilwego"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "makgolo a lekgolo"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talenta"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "le sekete"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "le makgolo a šupa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo a šupa"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "le hlano"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "masomešupa"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "di-shekele"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ka shekele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "bokgethwa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:30:18.669772141Z",
+  "model": "glm-5.3"
+}

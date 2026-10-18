@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "census",
+      "rationale": "Go balwa ba maoto ba dikete tše makgolo a mabedi le banna ba Yuda ba dikete tše lesome."
+    },
+    {
+      "kind": "crux",
+      "subject": "וישמע",
+      "rationale": "lentšu le tee le bolela go theetša — fela mo go bolela go bitša setšhaba ka taelo; diphetošebo tše ntši di re 'a ba bitša'."
+    }
+  ],
+  "translation": "Gomme Šaule a bitša ⟨את⟩ setšhaba, a ba lekola Telaimeng — ba maoto ba dikete tše makgolo a mabedi, le ⟨את⟩ banna ba Yusa le dikete tše lesome.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "515699c93f8316b01d7fa1de08c0bf88d896bf97bc4beb0b107cae6327e558f5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/15\/1-4.1792288230514.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "a bitša"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Šaule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "a ba lekola"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "Telaimeng"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "makgolo a mabedi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ba maoto"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "tše lesome"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "banna ba Yuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ba Yuda"
+    }
+  ],
+  "timestamp": "2026-10-18T01:50:30.515853081Z",
+  "model": "glm-5.3"
+}

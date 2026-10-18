@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 23:7",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Setšo sa Sapiro-Pedi se nyaka selo se se šomwago; Seheberu se se ngwala ka sekonope sa go fela (-ם)"
+    },
+    {
+      "kind": "crux",
+      "subject": "la iša kholiso ka lona",
+      "rationale": "תשביעו: go dira gore ba kholišwe ka leina la medimo yeo, goba go kholiša batho ba bangwe ka yona — dipheto tše pedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "אלהיהם ya ditšhaba — modimo ka ditlhaka tše nnye go ya ka D1, e sego Elohim"
+    }
+  ],
+  "translation": "gore le se ke la tsenela go ditšhaba tše, tše di sa lego go lona ⟨את⟩; gomme leina la medimo ya bona le se ke la le gopola, le se ke la iša kholiso ka lona, le se ke la šoma ⟨ke⟩ tša bona, le se ke la ikokobetša go tšona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5f5a2ed8404013cbe60c3c7ed3c6193131bb971a95de5526e700e35030e42703",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/23\/5-8.1792287183653.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לבלתי",
+      "gloss": "gore le se ke"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "la tsenela"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "go ditšhaba tše"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "tše di sa lego"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "go lona ⟨את⟩"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "gomme leina"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "la medimo ya bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תזכירו",
+      "gloss": "la le gopola"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תשביעו",
+      "gloss": "la iša kholiso ka lona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "la šoma ⟨ke⟩ tša bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "la ikokobetša"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:33:03.654903775Z",
+  "model": "glm-5.3"
+}

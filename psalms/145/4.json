@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 145,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "דור לדור",
+      "rationale": "Go boelwa ga lentšu sedika go sedika — phetolelo e boloka phetogo ye"
+    },
+    {
+      "kind": "addition",
+      "subject": "a magolo",
+      "rationale": "גבורות e bolela matla a mogolo a ntwa; mantšu a mabedi a Sepedi a hlalosa lentšu le tee"
+    }
+  ],
+  "translation": "Sedika go sedika se tla leboga mošomo wa gago, gomme matla a gago a magolo a tla bolelwa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c75e2c3935a863208f7b83342017afaf0e0381497f5a0e2093666fe8e45e4748",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/145\/1-4.1792299096847.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "sedika"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "go sedika"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "se tla leboga"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "mošomo wa gago"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "gomme matla a gago a magolo"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "a tla bolelwa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:36.848925652Z",
+  "model": "glm-5.3"
+}

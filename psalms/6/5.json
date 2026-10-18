@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש e atisha go ba lerumo\/thoaro\/moya wa bophelo; 'bophelo' ke bo bo gaufi ka go Sepedi"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Poko ye e lebeleletše Yahwe ka go kgetha, ya boela ya lopa polokego"
+    },
+    {
+      "kind": "invitation",
+      "subject": "Boela",
+      "rationale": "Poeletšo ya go laela Yahwe gore a boele — seokelelo sa go goga modiredi"
+    }
+  ],
+  "translation": "Boela, Yahwe, ntšha bophelo bja ka; mpoloke ka lebaka la hesede ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "654446ea1857b20d0c48f0d4ee76169dcfe347c262c2c42551f3b5fd3270fb10",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/6\/5-8.1792297115956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Boela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "ntšha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja ka"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "mpoloke"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:18:35.957233061Z",
+  "model": "glm-5.3"
+}

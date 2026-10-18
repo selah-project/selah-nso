@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מורה",
+      "rationale": "Mora: 'tšhabo' (mora) go swana le KJV\/JPS; 'moetapele' (morah, mmatladi) go swana le YLT."
+    },
+    {
+      "kind": "substitution",
+      "subject": "אנוש",
+      "rationale": "Enosh ga se motho feela — ke motho yo a felego, yo a swago; 'batho' ga bontše phapano ye le adam."
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le kopula; Sepedi se e nyaka."
+    },
+    {
+      "kind": "elision",
+      "subject": "סלה",
+      "rationale": "Selah ke letšatši la mmino — ga se lentšu la taba; le bolokwa bjalo ka sešla."
+    }
+  ],
+  "translation": "Bea Yahwe tšhabo godimo ga bona, gore ditšhaba di tlo tseba gore batho ⟨ke⟩ ba fele, sešla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "60f23c74c0b7a0dda8c2730f3e0f7b723a2ac2caa1d68f3be95aacc4ba63cb00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/9\/21-21.1792297213351.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "bea"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "tšhabo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "godimo ga bona"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "di tlo tseba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "batho ba fele"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ke bona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "sešla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:13.352115198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 15:2",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "leleng",
+      "rationale": "הלשן ke 'lentšu' — sefahlego sa lewatle se swana le leleng; 'leleng' boloka sebopego"
+    },
+    {
+      "kind": "measurement",
+      "subject": "molelwane wa borwa",
+      "rationale": "Go hlalosa molelwane — go ela gore o thoma kae"
+    }
+  ],
+  "translation": "Gomme ba be le molelwane wa borwa go thoko ya lewatle la mangle, go tšwa leleleng leo le lego mahlonogong a borwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a2987bc052a89e383e03b6d6af677d83b94d83b83b4dede1430cdd13f7fed002",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/15\/1-4.1792286779246.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go ba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba be le"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "molelwane"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "wa borwa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "go thoko ya"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "la mangle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "הלשן",
+      "gloss": "leleng"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "leo le lego mahlonogong"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "a borwa"
+    }
+  ],
+  "timestamp": "2026-10-18T01:26:19.246912829Z",
+  "model": "glm-5.3"
+}

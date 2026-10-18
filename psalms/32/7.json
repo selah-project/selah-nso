@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na seoposengwe; Sepedi se nyaka ⟨ke⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "מצר",
+      "rationale": "tlhaka ya lenti: 'lefsifsi\/fetšhelo' — sebopego sa sefahlegwe sa go tswalelwa; 'go tšhwenyo' ke bothata fela"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "mošenwi o bolela ka go Yahwe ka mo go tlwaelegilego"
+    }
+  ],
+  "translation": "Wena ke phithego ya ka; go tšhwenyo o mphephetša; ka dipina tša phologo o nkgausweditše. Sela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "929057b53e058c483a4deb1586a4e22673d6879e0027ed784a7b0d1bb6aaec36",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/32\/5-8.1792297618052.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "phithego"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya ka"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "go tšhwenyo"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "o mphephetša"
+    },
+    {
+      "surface": "רני",
+      "gloss": "dipina"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "tsa phologo"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "o nkgausweditše"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:58.053770253Z",
+  "model": "glm-5.3"
+}

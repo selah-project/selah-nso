@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 103,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מעולם ועד עולם",
+      "rationale": "Repetition of עולם — 'from vanishing-point to vanishing-point' — rendered go tšwa maswitsi go fihla maswitsi."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני בנים",
+      "rationale": "Sons of sons — bana ba bana bona keeps the doubled construct."
+    }
+  ],
+  "translation": "Gomme hesede ya Yahwe go tšwa maswitsi go fihla maswitsi go ba ba mo tšhabago, le tsedeke ya gagwe go bana ba bana bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2ed312f170965d0b1999dbd283f2022e3498415a54f083213ea30f0eacb7e436",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/103\/17-20.1792298554882.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "gomme hesede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ya Yahwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "go tšwa maswitsi"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "maswitsi"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "ba ba mo tšhabago"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "le tsedeke ya gagwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bana bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:42:34.883345705Z",
+  "model": "glm-5.3"
+}

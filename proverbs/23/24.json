@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "גול יגול",
+      "rationale": "Leina la boitumelo (גיל) le lefoko la go bolla (יגיל) tšwago le lona le tiišeditšwego ka go bošwa ga lona — modumo o mošwitwi o wa loka ka Sepedi."
+    },
+    {
+      "kind": "hapax",
+      "subject": "יולד",
+      "rationale": "Sebopego se sa kgalelo (yo a belego) ga se ya dumelelwa gabohle; tšwaelo ke ילד — ke kgalelo ya qalego ya mongwalo."
+    },
+    {
+      "kind": "alternative",
+      "subject": "yo a lokilego",
+      "rationale": "צדיק gape e ka ba 'molatedi wa toka'; mo go tšewa e le 'yo a lokilego' go boloka sebopego sa motho."
+    }
+  ],
+  "translation": "Boitumelo bo tla bolla tate wa yo a lokilego; mme yo a belego ngwana yo a hlalo o tla thaba ka yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e92b0a7b96c6ca27ad0ed2e7d7f28bd931ca0350ca145a23445f7edfddcbb74f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/23\/21-24.1792299787184.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Boitumelo"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "bo tla bolla"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "tate wa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a lokilego"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "yo a belego"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yo a hlalo"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "o tla thaba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ka yena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:03:07.185073378Z",
+  "model": "glm-5.3"
+}

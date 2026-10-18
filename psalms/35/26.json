@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 35:26",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "a ba apese mahlonogo",
+      "rationale": "ילבשו בשת — 'go apara mahlonogo', seswantšho sa Seheberu se tšeletšego ka go bapala"
+    },
+    {
+      "kind": "addition",
+      "subject": "a (go kgopela)",
+      "rationale": "Hebreu e šomiša kgetho e sego la go kgopela — 'a' e oketšitšwe go bontšha thapelo"
+    }
+  ],
+  "translation": "A ba tshwarwe ke mahlonogo le maitemogelo mmogo, ba ba nyakago sefofu sa ka; a ba apese mahlonogo le tshwaro-kgolo, ba ba itsegodisago godimo ga ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1a8a109cff1d3550a9527086c0ee2255af580618ec08de39586da90e95afd527",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/35\/25-28.1792297577373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "a ba tshwarwe ke mahlonogo"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "le maitemogelo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "mmogo"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "ba ba nyakago"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "sefofu sa ka"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "a ba apese"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "mahlonogo"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "le tshwaro-kgolo"
+    },
+    {
+      "surface": "המגדילים",
+      "gloss": "ba ba itsegodisago godimo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ga ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:17.374863039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "רשע\/רעה",
+      "rationale": "mobe\/bobe — medu ya Seheberu e a swana (r-sh-ʿ goba r-ʿ), sephetho se la Sepedi se se se bolokago ka seripa"
+    },
+    {
+      "kind": "crux",
+      "subject": "יאשמו",
+      "rationale": "go tla tlela molato kgahlanong le 'ba tla hlongwa' (KJV 'desolate') — go swana le go bolawa ke kahlolo"
+    }
+  ],
+  "translation": "Bobe bo bolaya mobe; gomme bao ba hloilwego yo a lokilego ba tla tlela molato.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d36f55ed0d71b2f1a8e2e25a2781e79b4d6736842c3e68296853adf2636c3455",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/21-23.1792297527117.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "bo bolaya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mobe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "gomme bao ba hloilwego"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yo a lokilego"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "ba tla tlela molato"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:27.118524061Z",
+  "model": "glm-5.3"
+}

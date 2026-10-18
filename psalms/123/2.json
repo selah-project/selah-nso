@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 123,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "כעיני…כעיני…כן",
+      "rationale": "Go boela ga go swana ga 'bjalo ka mahlo' ga mmala o mongwe le o mongwe — peakanyo ya ditekano tše tharo, ya a hlwa ka go ba ga Yahwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mohau",
+      "rationale": "חנן ke go kgontha se ntle go ya fase; Sepedi o nyaka lentšu — mohau o jwanetše, eupša ke lentšu le le okeditšwego ge e bapetšwa le modumo wa go itlhophela ga Seheberu."
+    }
+  ],
+  "translation": "Bonang, bjalo ka mahlo a bahlanka go seatla sa beng ba bona, bjalo ka mahlo a mohlanka-wa-mosadi go seatla sa mofumahadi wa yena — bjalo gape mahlo a rena go Yahwe Elohim wa rena, go fihla ge a re fele mohau.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dc17681d7942feadc3e890e9ffe72e07bb398e28650735db0cccbc12a1873510",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/123\/1-4.1792298990266.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonang"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "bjalo ka mahlo a"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "bahlanka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla sa"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "beng ba bona"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "bjalo ka mahlo a"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "mohlanka-wa-mosadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla sa"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "mofumahadi wa yena"
+    },
+    {
+      "surface": "כן",
+      "gloss": "bjalo gape"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "mahlo a rena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "ge a re fele mohau"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:50.267690595Z",
+  "model": "glm-5.3"
+}

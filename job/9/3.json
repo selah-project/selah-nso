@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ga a mo arabe",
+      "rationale": "יעננו: baditiragatši ba fapana — 'El ga mo arabe' (KJV bontši) kgahlanong le 'motho ga kgone go araba' (LXX); Sepedi se latelaaboladišano-botee"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨yena⟩",
+      "rationale": "mošomi wo o okeditšwego go fa mothaladi o tlaelesegago ga El"
+    }
+  ],
+  "translation": "Ge a ka rata go ganetšana le yena, ⟨yena⟩ ga a mo arabe ka le tee go tšwa go sekete.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c1b6947af0ba77d61bd1e76f710097f58aaf19fe477d4e464aba186aa4332638",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/9\/1-4.1792300145864.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "a ka rata"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "go ganetšana"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "a mo arabe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ka le tee"
+    },
+    {
+      "surface": "מני",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    }
+  ],
+  "timestamp": "2026-10-18T05:09:05.865370486Z",
+  "model": "glm-5.3"
+}

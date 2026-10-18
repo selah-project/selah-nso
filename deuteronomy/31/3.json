@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi se nyaka kopula; Seheberu se e hloka ka go hlama ka הוא"
+    },
+    {
+      "kind": "substitution",
+      "subject": "וירשתם",
+      "rationale": "'go ba dinku le dipudi tša gago' — seswantšho sa go šoma sa Seheberu, se sa bolele go dira diphoofolo; go feta go ya go diruiwa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוא עבר לפניך",
+      "rationale": "Phetišo e phetišwa gabedi — Yahwe le Yehoshua ka moka ba feta pele — go bontšha go swana ga mošomo"
+    }
+  ],
+  "translation": "Yahwe, Elohim wa gago, ⟨ke⟩ yena yo a fetago pele ga gago; yena o tla fenya ⟨את⟩ ditšhaba tše go tšwa pele ga gago, gomme o di tla ba dinku le dipudi tša gago; Yehoshua, yena yo a fetago pele ga gago, bjalo ka ge Yahwe a boletše.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5e43ed356c5951ee3abaedd604cacedded7acef80f811777fb72d323138acbe8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/31\/2-3.1792304757078.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yo a fetago"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "o tla fenya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ditšhaba tše"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "tše"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "go tšwa pele ga gago"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "gomme o di tla dinku le dipudi tša gago"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshua"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "yo a fetago"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga gago"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a boletše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T06:25:57.079421399Z",
+  "model": "glm-5.3"
+}

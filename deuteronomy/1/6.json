@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "rav lakhem",
+      "rationale": "kgopolo ya Moheberu: 'e kgolo go lena' — 'go lekane le' ke khopolo ya go swana le yona"
+    },
+    {
+      "kind": "you",
+      "subject": "Yisraele",
+      "rationale": "Madio a sephiring a bolelwa go Israele godimo ga thaba ya Kherebe"
+    }
+  ],
+  "translation": "Yahwe Elohim wa re o boletše go re go Kherebe, a re: Go lekane le go dula thabeng ye.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/1\/5-8.1792285526754.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa re"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "o boletše"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "go re"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "go Kherebe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "רב",
+      "gloss": "go lekane"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "le"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "go dula"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ye"
+    }
+  ],
+  "timestamp": "2026-10-18T01:05:26.755552144Z",
+  "model": "glm-5.3"
+}

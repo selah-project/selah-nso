@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o",
+      "rationale": "Seheberu ga se na sehlagifi sa modiri; ⟨o⟩ se okeditšwe gore polelo e be selo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mmu",
+      "rationale": "אדמתו ke 'mmu wa gagwe' (lefsifsi le lehibiditsweng), e sego lefase — mme 'borwa' gotee le kgoši ya Borwa."
+    }
+  ],
+  "translation": "Gomme ⟨o⟩ tla go bogošing bja kgoši ya borwa, gomme a boa go mmu wa gagwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "03836e91b6badd55106d4ca2904c87e1e18395c7472f5504dba8865e5c8d2b8b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/11\/9-12.1792302135130.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "gomme o tla"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "go bogošing"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ya borwa"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "gomme a boa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "mmu wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:42:15.131258144Z",
+  "model": "glm-5.3"
+}

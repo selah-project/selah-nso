@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "e be le",
+      "rationale": "Seheberu se se na kopulela go ⟨e be le⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maabane",
+      "rationale": "לפנים — 'pele', 'ka mengwaga ye e fetilego'; maabane ke lentšu le lebotse la go feta"
+    },
+    {
+      "kind": "you",
+      "subject": "mabapi le Kiriath-Arba",
+      "rationale": "Taba ya go hlalosa leina la bogologolo e rometšwe mmading"
+    }
+  ],
+  "translation": "Gomme Yuda a ya go Mokanana yo a dulago Hebrone, gomme leina la Hebrone maabane e be le Kiriath-Arba; gomme ba mogae ⟨את⟩ Sheshai le ⟨את⟩ Ahimane le ⟨את⟩ Talmai.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "736ac4d67e767c7d1e33ea1fa4642e4c995e12a11f0029d4c91643b5ad935348",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/1\/9-12.1792287116106.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a ya"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Mokanana"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "yo a dulago"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Hebrone"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "gomme leina la"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebrone"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "maabane"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kiriath-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ba mogae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sheshai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sheshai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ahimane"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Ahimane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-10-18T01:31:56.107452932Z",
+  "model": "glm-5.3"
+}

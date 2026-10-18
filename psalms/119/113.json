@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "סעפים",
+      "rationale": "Ba ba arogilego megopola kgahlanong le 'bao ba pelontšu' (ba-mešomo ye mefsa) goba 'dikganetšo tša lefofo' — seeo se se raragantšego se sa hlago."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na le kopula; Sepedi se e nyaka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Torah",
+      "rationale": "D2: Torah e dula e le Torah — e sego 'molao' fela."
+    }
+  ],
+  "translation": "Bao ba arogilego megopola ke ba hloile, gomme Torah ya gago ⟨ke⟩ e ratile.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0012912ccfab3190faede15b8ae883b42dc59729d781b0882da2feb139e89989",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/113-116.1792298851631.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "bao ba arogilego megopola"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ke ba hloile"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "gomme Torah ya gago"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ke e ratile"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:31.631808252Z",
+  "model": "glm-5.3"
+}

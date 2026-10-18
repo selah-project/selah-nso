@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Sepedi ga se na lentšu le le swanago; le hladilwe ka ⟨go kopa⟩"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שלום ×4",
+      "rationale": "Poeletšo ya 'kagiso' ga nne ka ntle kgauswi; karabo ya sehlogo e tee 'kagiso' e tswaletše bohloko bja yena"
+    },
+    {
+      "kind": "you",
+      "subject": "Gehazi",
+      "rationale": "Taetšo ya go.taboga e ya go Gehazi"
+    }
+  ],
+  "translation": "Bjale, taboga ⟨go kopa⟩ go mo swara, gomme o mo botše: A go na le kagiso? A monna wa gago o na le kagiso? A ngwana o na le kagiso? Gomme a re: Kagiso.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "13cf0e66206493277a93fa565b96abb369df5f747afdca86ec6ef77d6dc3b584",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/4\/25-28.1792290535884.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "taboga"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨go kopa⟩"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "go mo swara"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "gomme o mo botše"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "a go na le kagiso"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "a monna o na le kagiso"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "monna wa gago"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "a ngwana o na le kagiso"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "ngwana"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    }
+  ],
+  "timestamp": "2026-10-18T02:28:55.885235429Z",
+  "model": "glm-5.3"
+}

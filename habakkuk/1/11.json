@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "רוח",
+      "rationale": "Crux e tsebahago: ruakh e le phefo ye e fetago (ASV), moya wa tlhaselo (Geneva), goba moya wa Chaldea o fetošwago; kahlolo ya 3 motho."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "Go ya le D2, רוח ga se fetoletšwe — ke moya, phefo le go hema ka lentšu le tee."
+    }
+  ],
+  "translation": "Ka nako yeo ruakh e feta gomme e fetisha, mme e šala e le sebe; ye ke maatla a yona go Elohim wa yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "174a7df9aabb8509ca348d35d8bd9110670b027d09b98329007cd69e748d0a54",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/habakkuk\/1\/9-12.1792296576154.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ka nako yeo"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "e feta"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "gomme e fetisha"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "mme e šala e le sebe"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "maatla a yona"
+    },
+    {
+      "surface": "לאלהו",
+      "gloss": "go Elohim wa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:09:36.155758806Z",
+  "model": "glm-5.3"
+}

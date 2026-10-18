@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "malapa",
+      "rationale": "משפחות ke 'malapa\/dik lapo' — lelapa la bengwana"
+    },
+    {
+      "kind": "addition",
+      "subject": "go",
+      "rationale": "go hlatlamanya lediri le leina ka Sepedi"
+    }
+  ],
+  "translation": "Gomme Kotse a begeta ⟨את⟩ Anube le ⟨את⟩ Tsobeba, le malapa a Akharkele, mora wa Harume.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7678e41596076479fe7e3fbae83b05648f80451685e48af60b370706998969bd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/4\/5-8.1792302940181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "Kotse"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "a begeta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anube"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Anube"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Tsobeba"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Tsobeba"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "le malapa"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "a Akharkele"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "wa Harume"
+    }
+  ],
+  "timestamp": "2026-10-18T05:55:40.182257917Z",
+  "model": "glm-5.3"
+}

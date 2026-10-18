@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 27:14",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "peu",
+      "rationale": "צאצאים ke tšweletšo ya bana; 'peu' e bitša se sengwe se tšwelago pele"
+    },
+    {
+      "kind": "crux",
+      "subject": "ke tša tšhoša",
+      "rationale": "למו חרב: 'bakeng sa tšhoša' (KJV) kgatlhanong le 'ba tla bolawa ka tšhoša' (Wycliffe)"
+    }
+  ],
+  "translation": "Ge bana ba gagwe ba ka oketšega, ke tša tšhoša; gomme peu ya gagwe e ka se kube bogobe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ed7f2830669d749005b9095f1a28f5a0640e4340e318d35472884227d66f219b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/27\/13-16.1792300493976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ge"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "ba ka oketšega"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bana ba gagwe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ke tša"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "וצאצאיו",
+      "gloss": "gomme peu ya gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e ka se"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "kube"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "bogobe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:14:53.976925464Z",
+  "model": "glm-5.3"
+}

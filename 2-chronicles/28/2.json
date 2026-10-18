@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 28:2",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dipontšho tša tšhipi e ntsitšwego",
+      "rationale": "מסכות ke dipontšho tša go duta tšhipi — sebopego sa lentšu se bolokwa"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מסכות",
+      "rationale": "go tšwa go motsobo wa go hlatsela\/go duta; senepe se a hlalosa"
+    }
+  ],
+  "translation": "Gomme a sepela mehlaleng ya dikgoši tša Yisraele, gomme gape a dira dipontšho tša tšhipi e ntsitšwego bakeng sa Baale.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "d9e594cb3f5e8af00810fa4bc7664f313392e5d5b0ca9987195954ae866c9da6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/28\/1-4.1792304127604.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "a sepela"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "mehlaleng ya"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "dikgoši tša"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "gomme gape"
+    },
+    {
+      "surface": "מסכות",
+      "gloss": "dipontšho tša tšhipi e ntsitšwego"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "bakeng sa Baale"
+    }
+  ],
+  "timestamp": "2026-10-18T06:15:27.605291882Z",
+  "model": "glm-5.3"
+}

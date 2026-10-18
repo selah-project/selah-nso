@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ba",
+      "rationale": "patikele ya Seheberu e se na serapa; ⟨ba⟩ e tšwa go dihlogo tša setsemo sa 3:9."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ka madi",
+      "rationale": "בדמים ke bontši — 'ka madi a mantši', madi a batho bao ba bolailwego; a bolokwa bjalo ka sesupo sa tlhodiso."
+    }
+  ],
+  "translation": "⟨Ba⟩ aga Tsione ka madi, gomme Yerushalayime ka bobe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8054e25b9379e10f4e79d295d88785af63e5dc9fa92df8248ac3686478ef1f17",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/micah\/3\/9-12.1792296441888.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ba aga"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ka madi"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "gomme Yerushalayime"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "ka bobe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:07:21.889537879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחפש אדם",
+      "rationale": "KJV\/ASV 'motho a ipatla' (Hiphil ya go ipatla) kgathanong le JPS 'motho o nyakwa' — metšhene e mmedi ya kgodišo ya חפש"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בעלץ\/בקום",
+      "rationale": "phadišano ya dika tše pedi: go thabela (go tlhatloga) kgathanong le go tšwa ga ba boleng — palo ya sebopego se se tsenelegilego"
+    }
+  ],
+  "translation": "Ge batlokagalale ba thabela go direla, botumo bo golo; gomme ge ba boleng ba tšwa, motho a ipatla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5adb8c82565ed10a27f45a90d617a81dccea475c80677554a7a8ae2e4214d7af",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/28\/9-12.1792299904370.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "ge ba thabela go direla"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "batlokagalale"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "bo golo"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "botumo"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "gomme ge ba tšwa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba boleng"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "a ipatla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:04.371960912Z",
+  "model": "glm-5.3"
+}

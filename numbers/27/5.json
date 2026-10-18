@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a atamisa",
+      "rationale": "ויקרב ke 'go atamisa' ka boomo; kahlolo e atamiswa pele ga Yahwe, e sego fela 'go tlhagisa'"
+    }
+  ],
+  "translation": "Gomme Moshe a atamisa ⟨את⟩ kahlolo ya tšona pele ga Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "97a3e1530783b115ea9bdae9e1baec99bf92541ba0362106bb55e6d445b98624",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/27\/5-8.1792285223295.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "a atamisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kahlolo ya tšona"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "kahlolo ya tšona"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:00:23.296084687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 3:4",
+  "book": "zephaniah",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ba phaphathegilego",
+      "rationale": "פחזים go tšwa go go foka bjalo ka meetse a bilesego — 'ba phaphathegilego' kgahlanong le 'ba sa tswalego sepe ka pelong'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חמסו תורה",
+      "rationale": "'Ba dirile tsogu go Torah' — go šomiša lentšu la tsogu ya mmele go taba ya moya; sebopego se tletšego ke Habakuku 1:4"
+    }
+  ],
+  "translation": "Baprofeta ba yona ba phaphathegilego, banna ba bokgoka; baperisita ba yona ba hloile bokgethwa, ba gateletše Torah.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "55145628e3fe4c7b4f83faf509ed27ca8d44ccee802c73e77eab97dd692eb160",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zephaniah\/3\/1-4.1792296801077.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נביאיה",
+      "gloss": "Baprofeta ba yona"
+    },
+    {
+      "surface": "פחזים",
+      "gloss": "ba phaphathegilego"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "בגדות",
+      "gloss": "bokgoka"
+    },
+    {
+      "surface": "כהניה",
+      "gloss": "baperisita ba yona"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "ba hloile"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "bokgethwa"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ba gateletše"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Torah"
+    }
+  ],
+  "timestamp": "2026-10-18T04:13:21.078574154Z",
+  "model": "glm-5.3"
+}

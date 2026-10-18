@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 19:19",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "העברה",
+      "rationale": "lefelo la go feta meetse (sefeta) — lentšu le tala lenaneong la Tanakh"
+    },
+    {
+      "kind": "addition",
+      "subject": "go ya mose",
+      "rationale": "go isa go feta go nyaka tlhalo ya Sepedi; Seheberu se re fela 'לעביר'"
+    }
+  ],
+  "translation": "Gomme sefeta se ile sa feta go isa ⟨את⟩ ntlo ya kgosi go ya mose, le go dira sebotse mahlong a gagwe; gomme Šimi, mora Gera, a wa pele ga kgosi ge a feta Yorodane.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "312fa536f2ed41b050ed27c41226ea915659f49899ddeb1f60d2a071ae0d8098",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/19\/17-20.1792289315789.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועברה",
+      "gloss": "se ile sa feta"
+    },
+    {
+      "surface": "העברה",
+      "gloss": "sefeta"
+    },
+    {
+      "surface": "לעביר",
+      "gloss": "go isa go feta"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ntlo ya kgosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ntlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ya kgosi"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "le go dira"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "sebotse"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "mahlong a gagwe"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "Šimi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "גרא",
+      "gloss": "Gera"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "a wa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgosi"
+    },
+    {
+      "surface": "בעברו",
+      "gloss": "ge a feta"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "Yorodane"
+    }
+  ],
+  "timestamp": "2026-10-18T02:08:35.790224464Z",
+  "model": "glm-5.3"
+}

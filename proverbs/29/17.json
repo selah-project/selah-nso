@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 29:17",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "pelo",
+      "rationale": "נפש e atametše 'mothopo wa bophelo\/moya wa bophelo'; Sepedi e nyaka sehlogwana, 'pelo' ke sona"
+    },
+    {
+      "kind": "addition",
+      "subject": "ee",
+      "rationale": "go hlakantšha ka Sepedi phetolelo ya parelele, e sego sehlogwana sa Seheberu"
+    },
+    {
+      "kind": "you",
+      "subject": "go motsadi",
+      "rationale": "taelelo ya go lalea motsadi ka o ngwalo"
+    }
+  ],
+  "translation": "O lale ⟨את⟩ morwana wa gago, gomme ⟨o⟩ tla go nea khutšo; ee, o tla fa pelo ya gago dilo tše monate.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "247a2fa37d1a26cd1ef80a95662cc3b3e7ac41c8d228c9f10c65be049b47cfac",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/29\/17-20.1792299937376.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "o lale"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwana wa gago"
+    },
+    {
+      "surface": "ויניחך",
+      "gloss": "gomme o tla go nea khutšo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "o tla fa"
+    },
+    {
+      "surface": "מעדנים",
+      "gloss": "dilo tše monate"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "pelo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:37.377167863Z",
+  "model": "glm-5.3"
+}

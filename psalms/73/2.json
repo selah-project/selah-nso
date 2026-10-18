@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 73,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "שפכה אשרי",
+      "rationale": "Sefela: 'go thula dikgato' — se nagle se hlalosa go tlošwa ga bothati"
+    },
+    {
+      "kind": "addition",
+      "subject": "dikgato tša ka",
+      "rationale": "בְּאַשֻׁרָי שפכה karolo ya katledi e hlatsošitšwe go Sepedi"
+    }
+  ],
+  "translation": "Gomme nna, maoto a ka a be a nakwa ga se kae; dikgato tša ka di be di theoge go swana le go se gona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "32f836a9178951769eba19d6e1f91a3afb7992f5dc65d6f6d50084340a98bfef",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/73\/1-4.1792298130299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "gomme nna"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ga se kae"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "a be a nakwa"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "maoto a ka"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "go swana le go se gona"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "di be di theoge"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "dikgato tša ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:30.300513842Z",
+  "model": "glm-5.3"
+}

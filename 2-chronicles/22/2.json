@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 22:2",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mošemong wa 42",
+      "rationale": "Hebrew text says 42, but 2 Kings 8:26 says 22; some LXX manuscripts read 22 here; YLT follows 22."
+    },
+    {
+      "kind": "crux",
+      "subject": "morwadi wa Omri",
+      "rationale": "'daughter of Omri' — literally granddaughter (daughter of Ahab, son of Omri); BSB renders 'granddaughter'."
+    },
+    {
+      "kind": "measurement",
+      "subject": "mengwaga",
+      "rationale": "Ages and reign-length given: 42 years at accession, 1 year reigning in Jerusalem."
+    }
+  ],
+  "translation": "Mošemong wa mengwaga ye 42 Akhazjahu ka go ba kgoši, gomme o ile a busa ngwaga o tee Yerushalayime; gomme leina la mmaagwe e be e le Ataljahu, morwadi wa Omri.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "bbd22f21c97c920e672bc73dad2cf3061b99f803b2d36df352e0561f6d792e9e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/22\/1-4.1792304096548.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "mošemong"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "42"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "42"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Akhazjahu"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ka go ba kgoši"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "ngwaga"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "o tee"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "a busa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "mmaagwe"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Ataljahu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    }
+  ],
+  "timestamp": "2026-10-18T06:14:56.551875094Z",
+  "model": "glm-5.3"
+}

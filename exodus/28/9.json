@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "shohame",
+      "rationale": "שהם: onyx kgahlanong le beryl — leswika ka bohlaodi bo botala bjo bo fofego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go phutlela",
+      "rationale": "פתח go bolela 'go bula' — go kgokološa go šomišitšwe bjalo ka mošomo wa go engraefa"
+    },
+    {
+      "kind": "you",
+      "subject": "go Moshe",
+      "rationale": "Taelo e abetšwe Moshe ka go ithaopa ga modumo"
+    }
+  ],
+  "translation": "Gomme o tla tšea ⟨את⟩ maswika a mabedi a shohame, gomme o tla phutlela ka godimo ga wona maina a bana ba Yisraele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a455dad548e83e8729fdf79d3c1b001a7fad2a6efdd7d17575ac4f890142bdf7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/28\/9-12.1792283050862.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "omme o tla tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "maswika a mabedi a shohame"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "a mabedi"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "maswika"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "a shohame"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "omme o tla phutlela"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ka godimo ga wona"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "maina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "a bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T00:24:10.863073430Z",
+  "model": "glm-5.3"
+}

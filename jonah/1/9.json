@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ke mo sesego",
+      "rationale": "ירא — go sesega go akaretša bothaba le go tšhaba; 'go tšhaba' fela go fokotša boteng bja lentšu"
+    },
+    {
+      "kind": "you",
+      "subject": "balemi ba sekepe",
+      "rationale": "Jonase o araba potšišo ya balemi ka go itlhantšha ka boyena"
+    }
+  ],
+  "translation": "Gomme a ba re: Mmue wa Heberu ke nna, gomme ⟨את⟩ Yahwe, Elohim wa magodimo, ke mo sesego, yo a dirileng ⟨את⟩ lewatle le ⟨את⟩ naga e omilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "27ecf72afd82bbba95c18210a05a1b117c81fcfef6b83d53c8f449dabf9cdfdc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jonah\/1\/9-12.1792296446071.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "Mmue wa Heberu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ke mo sesego"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "a dirileng"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lewatle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "naga e omilego"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "naga e omilego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:07:26.072018864Z",
+  "model": "glm-5.3"
+}

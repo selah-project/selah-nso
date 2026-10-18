@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 8:13",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ראשי האבות",
+      "rationale": "'mathata a malapa' — kgauswi le 'bantši ba malapa' go swana le go laola setšhaba."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הבריחו",
+      "rationale": "ברח e hlalosa go balela\/go boloka ka go tsamaya — go baleletše."
+    },
+    {
+      "kind": "addition",
+      "subject": "ba bantši",
+      "rationale": "Sepedi e nyaka lentšu la go hlalosa bohlokwa; Seheberu se na le המה feela."
+    }
+  ],
+  "translation": "gomme Beria le Shema — ba bantši ba malapa a badudi ba Ayalone; bona ba baleletše ⟨את⟩ badudi ba Gate;",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "595d79ef62734dfa2fec266e5f21b8aa9ef0b3750e8286b8f271ed8071427810",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/8\/13-16.1792303038748.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וברעה",
+      "gloss": "gomme Beria"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "le Shema"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ba bantši"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ba bantši ba"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "malapa"
+    },
+    {
+      "surface": "ליושבי",
+      "gloss": "a badudi ba"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ayalone"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "הבריחו",
+      "gloss": "ba baleletše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badudi ba Gate"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "badudi ba"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gate"
+    }
+  ],
+  "timestamp": "2026-10-18T05:57:18.748726492Z",
+  "model": "glm-5.3"
+}

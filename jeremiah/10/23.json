@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 10:23",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Yahwe",
+      "rationale": "direct address to Yahwe opens the prayer of verses 23–25"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לאדם \/ לאיש",
+      "rationale": "parallel 'not to adam... not to ish' — the doubled negation is rhetorical heightening, kept as repeated 'ga'"
+    }
+  ],
+  "translation": "Ke tseba, Yahwe, gore tšela ya motho ga e yo go ena; ga e yo go motho yo a sepelago go itaetša ⟨את⟩ dikgato tša gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "93273d961e0ece9667e215f449193c52e7cd634457e66cadb78ef9de3b0cf20c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/10\/21-24.1792292941673.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ke tseba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "go motho"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "tšela ya gagwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "go motho"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "yo a sepelago"
+    },
+    {
+      "surface": "והכין",
+      "gloss": "go itaetša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dikgato tša gagwe"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "dikgato tša gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:09:01.674761714Z",
+  "model": "glm-5.3"
+}

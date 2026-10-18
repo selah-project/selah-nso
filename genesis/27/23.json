@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 27:23",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שערת",
+      "rationale": " Lentšu le bolela 'bošweu bja puku ya naga' (ša'ir, bošweu); la hlaloswa bjalo ka 'a nago maširi' — sebopego sa lona sa bošweu se la hlwekilega."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עשו\/שערת",
+      "rationale": "Go tšwana ga modumo gare ga Esaw le sešweu (ša'ar) — go tlotšwa ka mo go sa ka ga tswelela ka Sepedi."
+    },
+    {
+      "kind": "elision",
+      "subject": "הכירו",
+      "rationale": "Etišo e bolela 'go lebelela ka tlhokomelo gore a tsebe'; e kgutšitšwe go 'go tsebe'."
+    }
+  ],
+  "translation": "Gomme a sa mo tsebe, ka gobane matsogo a gagwe a be bjalo ka matsogo a Esaw, mogolowe wa gagwe, a nago maširi; gomme a mo thaba.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "a88cab52aea6ca4f5844a01f2167f58739fef524fe8c0a394691f5c92b6dbe50",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/27\/23-24.1792304575384.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme a sa"
+    },
+    {
+      "surface": "הכירו",
+      "gloss": "mo tsebe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "היו",
+      "gloss": "a be"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "matsogo a gagwe"
+    },
+    {
+      "surface": "כידי",
+      "gloss": "bjalo ka matsogo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "a Esaw"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "mogolowe wa gagwe"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "a nago maširi"
+    },
+    {
+      "surface": "ויברכהו",
+      "gloss": "gomme a mo thaba"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:55.384837457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke motho-fela-moya ya go hema, maphelo; e sego `moya wa go rera` ka moka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maatla",
+      "rationale": "מאדך bontšha maatla a magolo kudu — tlhago ya lentsu ke `go feta tekano`"
+    }
+  ],
+  "translation": "Gomme o rate ⟨את⟩ Yahwe Elohim ya gago, ka pelo ya gago ka mehla, le ka moya wa gago ka mehla, le ka maatla a gago ka mehla.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2cc6d3aec31d90024fe908c7815c1c5ab018ff8f1ed18f7a952c182e11d3de23",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/6\/5-8.1792285630418.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "Gomme o rate"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe Elohim ya gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim ya gago"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka mehla"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "pelo ya gago"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka mehla"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "moya wa gago"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "le ka mehla"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "maatla a gago"
+    }
+  ],
+  "timestamp": "2026-10-18T01:07:10.418798830Z",
+  "model": "glm-5.3"
+}

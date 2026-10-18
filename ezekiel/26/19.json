@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 26:19",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tehome",
+      "rationale": "תהום ke meetse a matepo, a ma šakeng — a bakeng sa lewatle ka bophara; modumo wa Seheberu o bolokwa"
+    },
+    {
+      "kind": "you",
+      "subject": "to Tshore",
+      "rationale": "Adonai Yahwe o bolela ka tlhamalalo go Tshore — kotlo ya go itšetla ka meetse"
+    }
+  ],
+  "translation": "Ka gobane bjalo go bolela Adonai Yahwe: Ge ke go dira ⟨את⟩ toropo yeo e senyegilego, bjalo ka ditoropo tše di sa dutywago, ge ke go ntšha godimo go wena ⟨את⟩ tehome, gomme meetse a mantsi a go khupetša.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e9905a1bde69a4b3a9efe183f510682f1327c7262a17d89250ec56d9c3f79cb1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/26\/18-19.1792305179111.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "כה",
+      "gloss": "bjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "Ge ke go dira"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "toropo yeo e senyegilego"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "נחרבת",
+      "gloss": "yeo e senyegilego"
+    },
+    {
+      "surface": "כערים",
+      "gloss": "bjalo ka ditoropo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tše"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "נושבו",
+      "gloss": "dutywago"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "ge ke go ntšha godimo"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tehome"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "tehome"
+    },
+    {
+      "surface": "וכסוך",
+      "gloss": "gomme a go khupetša"
+    },
+    {
+      "surface": "המים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "a mantsi"
+    }
+  ],
+  "timestamp": "2026-10-18T06:32:59.112366567Z",
+  "model": "glm-5.3"
+}

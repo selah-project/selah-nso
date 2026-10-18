@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba mo qosa",
+      "rationale": "פתה — go qosa\/go se nne nnete; 'flatter' ya KJV ke tekanyetso"
+    }
+  ],
+  "translation": "Gomme ba mo qosa ka molomo wa bona, gomme ka leleme la bona ba mo logela maaka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2b971d857eeacbd88287acb27b1a30f59104f8a47b10e9f68508965e551653f6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/33-36.1792298253565.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "gomme ba mo qosa"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ka molomo wa bona"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "gomme ka leleme la bona"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "ba logela maaka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "mo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:33.566114856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "go Ithiele, go Ithiele le go Ukale",
+      "rationale": "Maina a Ithiele le Ukale kgahlanong le go bala ga YLT 'ke khutuhetše go Elohim, ke khutuhetše go Elohim gomme ke feditše' (le-ithyah-el go šetšwa bjalo ka magežo a hlamilwego)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "Agure · Yake · Ukale",
+      "rationale": "Maina a mangwalo o a bonwa fela mo temaneng ye ka bophara bja Tanakh"
+    },
+    {
+      "kind": "elision",
+      "subject": "נאם הגבר",
+      "rationale": "Go bolela motho — sebopego sa pokello sa Seheberu seo se nyakago kopanyo ya ⟨ke⟩ go Sepedi"
+    }
+  ],
+  "translation": "Mantšu a Agure, mora wa Yake — ⟨ke⟩ morwalo: go bolela motho go Ithiele, go Ithiele le go Ukale.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c1f519550c5932c037aff7281dde419de295c41d45ca261f3051263f39fa2982",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/30\/1-4.1792299964082.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "Agure"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora wa"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "Yake"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "morwalo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "motho"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "go Ithiele"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "go Ithiele"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "le go Ukale"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:04.082745253Z",
+  "model": "glm-5.3"
+}

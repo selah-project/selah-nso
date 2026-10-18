@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 3:21",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a tšwela pele",
+      "rationale": "ויסף e bolela 'go oketša' — Sepedi se bolela 'go tšwela pele', tlhago ya modu e laetšwe ke kopanyo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נגלה",
+      "rationale": "גלה e bolela 'go ntšha diaparo \/ go hlalosa' — mo e bolela go iponagatša, go se floge dithutong tša ka morago"
+    }
+  ],
+  "translation": "Gomme Yahwe o ile a tšwela pele go iponagatša ko Šilo, ka gobane Yahwe o ile a iponagatša go Samuele ko Šilo, ka lentšu la Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0223bf0e0c14c41e546221cb3933934321619262a856560fd6108d1708721656",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/3\/21-21.1792287918138.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "a tšwela pele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "go iponagatša"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "ko Šilo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "o ile a iponagatša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Samuele"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "ko Šilo"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ka lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:45:18.138573361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 50:19",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 50,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa yena",
+      "rationale": "נפש ke moya\/bophelo — seeteleke sa go fepa, e sego \"moya\" wa kaheretori"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "kwana\/legae",
+      "rationale": "ponto ya mohlape e tšwelapele: kwana ye e phatlalalitšwego (v17) e busetšwa legaeng la yona ya go feta"
+    }
+  ],
+  "translation": "Gomme ke tla busetša ⟨את⟩ Yisraele go legae la yena, o tlame go feta go Karmele le go Bashane, gomme thabeng ya Efrayime le go Gilade moya wa yena o tla a swarwa ka gogolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "08d29edd99006fd870efea385a8e3beff0458c5b1bf363ca6811b531ecce6b32",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/50\/17-20.1792294160454.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבבתי",
+      "gloss": "gomme ke tla busetša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "legae la yena"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "o tlame go feta"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "go Karmele"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "le go Bashane"
+    },
+    {
+      "surface": "ובהר",
+      "gloss": "gomme thabeng"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ya Efrayime"
+    },
+    {
+      "surface": "והגלעד",
+      "gloss": "le go Gilade"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "o tla a swarwa ka gogolo"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "moya wa yena"
+    }
+  ],
+  "timestamp": "2026-10-18T03:29:20.455963412Z",
+  "model": "glm-5.3"
+}

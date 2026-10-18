@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 106:29",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sefuba",
+      "rationale": "מגפה: 'sefuba' (pestilence) kgahlanong le 'tihelo' (defeat) — dilo tše pedi tše di lego lentšung le tee."
+    },
+    {
+      "kind": "elision",
+      "subject": "מושל (מי בעל פעור ga di bonagale)",
+      "rationale": "Seheberu se se bolela go gopola — se fedišitšwe ka mo go se nago selo."
+    }
+  ],
+  "translation": "Gomme ba mo gopola ka ditiro tša bona, gomme sefuba se se bile godimo ga bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9f3419b065176ead4aff283b6c319055849ef011e69e14d1cdca7b6ada534d56",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/29-32.1792298653790.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכעיסו",
+      "gloss": "ba mo gopola"
+    },
+    {
+      "surface": "במעלליהם",
+      "gloss": "ka ditiro tša bona"
+    },
+    {
+      "surface": "ותפרץ",
+      "gloss": "gomme se se bile godimo ga"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "מגפה",
+      "gloss": "sefuba"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:13.790534216Z",
+  "model": "glm-5.3"
+}

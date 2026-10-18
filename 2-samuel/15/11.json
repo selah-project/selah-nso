@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "makgolo a mabedi a banna",
+      "rationale": "Palo ya banna ba ba ilego le Abesalome — 200."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ka botlalo",
+      "rationale": "לתמם le bolela 'ka boikokobetšo ba go se tsebe' (botlalo\/bohlale); 'simplicity' ga e nwele ka botlalo."
+    }
+  ],
+  "translation": "Le ⟨את⟩ Abesalome ba ile makgolo a mabedi a banna, go tšwa Yerushalayime, ba bitšwago, ba sepago ka botlalo, gomme ba sa tseba sepehle sa taba.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2f9b65b202d8697f061b683cabc6f35670a5f11505bf6137667edfca4e58158c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/15\/9-12.1792289178029.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Abesalome"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ba ile"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "makgolo a mabedi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "go tšwa Yerushalayime"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "ba bitšwago"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "ba sepago"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "ka botlalo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba sa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tseba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sepehle sa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    }
+  ],
+  "timestamp": "2026-10-18T02:06:18.031032008Z",
+  "model": "glm-5.3"
+}

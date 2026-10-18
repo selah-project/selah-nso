@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "judges 8:33",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bohule",
+      "rationale": "זנה ke 'go dira bohule' — ksetsong ya kgwerano le Baale; senepe sa lenyalo se phophoma ka Sepedi ka tsela e swanago"
+    },
+    {
+      "kind": "idiom",
+      "subject": "אחרי הבעלים",
+      "rationale": "'ka morago ga Baale' — Seheberu se bolela go latela modimo wa mangwe bjalo ka lesaka"
+    },
+    {
+      "kind": "addition",
+      "subject": "wa bona",
+      "rationale": "Sepedi se nyaka seabi sa bontši se se nago gona go Seheberu"
+    }
+  ],
+  "translation": "Gomme go bile ka mo go swanetšego ge Gideone a hwile, gomme bana ba Yisraele ba boa, ba dira bohule ka morago ga Baale, gomme ba bea Baal-Berith go ba Elohim ⟨wa bona⟩.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a2474b97b7277b52bb7b605dbb6e4284280bc694a97b6079539f26435249bbdf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/8\/33-35.1792287372181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme go bile"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ka mo go swanetšego ge"
+    },
+    {
+      "surface": "מת",
+      "gloss": "a hwile"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideone"
+    },
+    {
+      "surface": "וישובו",
+      "gloss": "ba boa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "ויזנו",
+      "gloss": "ba dira bohule"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ka morago ga"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "Baale"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "gomme ba bea"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baal-"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Berith"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-18T01:36:12.181710148Z",
+  "model": "glm-5.3"
+}

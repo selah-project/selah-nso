@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 113,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "o \/ e",
+      "rationale": "Sepedi e nyaka copula; Seheberu se na le maropafatšo fela — רם 'o phagame', כבודו 'tšhwetšo ya gagwe'."
+    },
+    {
+      "kind": "alternative",
+      "subject": "tšhwetšo",
+      "rationale": "כבוד ke boima le kgalalelo; 'kgalalelo ya gagwe' e ka ba khetho ya bobedi."
+    }
+  ],
+  "translation": "Yahwe o phagame godimo ga ditšhaba ka moka, gomme tšhwetšo ya gagwe e godimo ga magodimo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c0852a409decb447994df9aa4fc3408b61805740d0bf14922ede1fbd76068fde",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/113\/1-4.1792298694001.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "o phagame"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "tšhwetšo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:54.003242303Z",
+  "model": "glm-5.3"
+}

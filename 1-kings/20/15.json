@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "232 le 7 000",
+      "rationale": "palo ya basomana (232) le ya setšhaba (7 000) e hlalosa ka botlalo"
+    },
+    {
+      "kind": "elision",
+      "subject": "שבעת",
+      "rationale": "'šupa' le 'dikete' di kopantšwe ka separomi se sengwe — dikete tše šupa"
+    }
+  ],
+  "translation": "Gomme a bala ⟨את⟩ basomana ba dikgoši tša dinaga; ba beba makgolo a mabedi, masometharo le pedi; gomme ka morago ga bona a bala ⟨את⟩ setšhaba ka moka, bana ba ka ba Yisraele, dikete tše šupa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9e103acdd39ddccaaf50c4e922632ef9e94a61497601bcceb98bdd7ca5703183",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/20\/13-16.1792290313127.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "gomme a bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "basomana ba dikgoši tša dinaga"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "basomana"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ba dikgoši"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "tša dinaga"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ba beba"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "makgolo a mabedi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "le pedi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "masometharo"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "gomme ka morago ga bona"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "a bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setšhaba ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka ba ka moka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "dikete tše šupa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "dikete tše šupa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:25:13.129049283Z",
+  "model": "glm-5.3"
+}

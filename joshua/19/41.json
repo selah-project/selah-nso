@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 19:41",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Ir-Shemesh",
+      "rationale": "עיר שמש = 'motse wa letsatsi'; leina le fetolelwe ka botlalo, mongwalo o tee ga o dumelelwa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mollwan wa bofalwa",
+      "rationale": "lenaneo la mollwan wa kabelo ya lefapa la Dane"
+    }
+  ],
+  "translation": "Gomme mollwan wa bofalwa bja bona o be o le: Tsoreha, le Eshtaole, le motse wa letsatsi (Ir-Shemeshe).",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1a5fe825d5c44bdb34f60d21d851297494ab30890c35cd091becba66b3cef248",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/19\/41-44.1792286945376.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme o be o le"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "mollwan"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "bofalwa bja bona"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsoreha"
+    },
+    {
+      "surface": "ואשתאול",
+      "gloss": "le Eshtaole"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "le motse wa"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "letsatsi"
+    }
+  ],
+  "timestamp": "2026-10-18T01:29:05.377288480Z",
+  "model": "glm-5.3"
+}

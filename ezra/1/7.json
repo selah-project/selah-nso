@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "modimo wa gagwe",
+      "rationale": "אלהיו e le bontši bja Elohim ka Seheberu eupša e bolela modimo wa pele ya Koreše — 'modimo' ka ditlhaka tše nnye go ya le dithopo tša D1"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הוציא ... הוציא",
+      "rationale": "Go bušetšwa ga lentšu 'go ntšha' — Koreše o bušetša seo Nebukadnesara a se ntšhitšego; tlhaka e a bolokwa"
+    }
+  ],
+  "translation": "Gomme kgoši Koreše o ntšhitše ⟨את⟩ didirišwa tša ntlo ya Yahwe, tšeo Nebukadnesara a di ntšhitšego go tšwa Yerushalayime, gomme a di bea ka ntlong ya modimo wa gagwe.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "3122b01cea18a0175b919a360e3d7ccdc1ae405872dd545a65cbe591de497b4f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/1\/5-8.1792302190609.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "gomme kgoši"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koreše"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "o ntšhitše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "didirišwa"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "didirišwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "tša ntlo ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "a di ntšhitšego"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnesara"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "go tšwa Yerushalayime"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "gomme a di bea"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ka ntlong ya"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "modimo wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:43:10.610792938Z",
+  "model": "glm-5.3"
+}

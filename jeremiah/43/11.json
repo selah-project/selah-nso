@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "למות למות · לשבי לשבי · לחרב לחרב",
+      "rationale": "Go boelediwa ga methati-e-meupelo ka lente tše tharo; Sepedi se boloka go boelediwa ka 'go lehu go lehu, go ba legolegwa go ba legolegwa, go tšhoša go tšhoša'."
+    },
+    {
+      "kind": "addition",
+      "subject": "a beilwego",
+      "rationale": "Seheberu se tlogela karolo ya go baewa (כי אשר למות — 'ao a swanetšego lehu'); Sepedi se e oketša go hlaloša.'"
+    }
+  ],
+  "translation": "gomme a tla tla, gomme a kgotše ⟨את⟩ lefase la Mitsrayime: ao a beilwego lehu, go lehu; ao a beilwego go ba legolegwa, go ba legolegwa; ao a beilwego tšhošeng, go tšhoša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a2b7ec600564be6afff3d97d9455bca6314df696f77db8a3fed9be12beaa3e88",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/43\/9-12.1792293995696.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "gomme a tla tla"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "gomme a kgotše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase la Mitsrayime"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "la Mitsrayime"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "למות",
+      "gloss": "a beilwego lehu"
+    },
+    {
+      "surface": "למות",
+      "gloss": "go lehu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "a beilwego go ba legolegwa"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "go ba legolegwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "a beilwego tšhošeng"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "go tšhoša"
+    }
+  ],
+  "timestamp": "2026-10-18T03:26:35.697988857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mošufi",
+      "rationale": "נפש ke moya\/kanegelo\/bophelo — e sego 'moya' fela"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "חסיה \/ אחסה",
+      "rationale": "lediri le le tee ka dikgatelelo tše pedi — go ikobilela, ke tla ikhupa — botshepegi bja modu bo timetse go Sepedi"
+    },
+    {
+      "kind": "addition",
+      "subject": "a",
+      "rationale": "copula ya Sepedi e okeditšwe bakeng sa יעבר"
+    }
+  ],
+  "translation": "Nkgofoše, Elohim, nkgofoše, ka gobane go wena mošufi wa ka o ikobilela; gomme ka sekateng sa maphego a gago ke tla ikhupa, go fihlela masetlapelo a feta.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d9e16379a7b9d56d469c1d2d3802e3db3a926d926af845591578736d2477456a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/57\/1-4.1792297917601.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "nkgofoše"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "nkgofoše"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "o ikobilela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mošufi wa ka"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "gomme ka sekateng"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sa maphego a gago"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ke tla ikhupa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "a feta"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "masetlapelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:57.604979413Z",
+  "model": "glm-5.3"
+}

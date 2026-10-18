@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "verse",
+      "rationale": "Matla a go bitša: 'Le tle, gomme le bone' — mmadi o laletšwa go tšwa le go lebelela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "wa go tšhabisa",
+      "rationale": "נורא ke modusa-tšhoo wa go tšhaba, e sego fela 'go tšhaba'; o bolela sepego seo se tšhabisago sepe."
+    }
+  ],
+  "translation": "Le tle, gomme le bone mošomo wa Elohim, wa go tšhabisa ka diphopholetšo tša gagu go bana ba batho.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a053864c231e7b93af25ede034cb9125ad962863e7cde04a752eba69391ddb84",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/66\/5-8.1792298014223.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "le tle"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "gomme le bone"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "mošomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "wa go tšhabisa"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "diphopholetšo tša gagu"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:34.224451626Z",
+  "model": "glm-5.3"
+}

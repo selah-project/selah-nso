@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "התשפט התשפוט",
+      "rationale": "Potto ya potšišo ye e phetišwego ka makga a mabedi — go totobaletša kgokgontšho ya go kahlola."
+    },
+    {
+      "kind": "crux",
+      "subject": "go kahlola",
+      "rationale": "Sepedi se sa na le lentšu le tlwaelegilego bakeng sa go ahlotla; 'kahlola' le tšwago go 'kahlolo' (D2) — le emetše tšebe ya Sepedi."
+    },
+    {
+      "kind": "invitation",
+      "subject": "morwa wa motho",
+      "rationale": "Potšišo ye e hlabago — taelo ye e laelago moprofeta go ba kopana le dibe tša bomagoro."
+    }
+  ],
+  "translation": "Na o ba kahlola, na o ba kahlola, morwa wa motho? Ba tsebise ⟨את⟩ dilo tše makgaphetšego tša bomagoro bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e03b63b3b514bd616ce8ab2dad0ef937c1cda17b4c91606493cfeec9dedf05ea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/20\/1-4.1792294970326.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "na o kahlola"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ba"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "na o kahlola"
+    },
+    {
+      "surface": "בן",
+      "gloss": "morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dilo tše makgaphetšego"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "dilo tše makgaphetšego"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "tsa bomagoro bona"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "ba tsebise"
+    }
+  ],
+  "timestamp": "2026-10-18T03:42:50.327635611Z",
+  "model": "glm-5.3"
+}

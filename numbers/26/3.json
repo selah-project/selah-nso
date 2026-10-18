@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 26:3",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אתם",
+      "rationale": "׀ KJV e re 'ba bolela le bona'; badudi ba bangwe ba ela hloko aleph-tav bjalo ka seswa sa go laela dipaka tša Moabe."
+    },
+    {
+      "kind": "addition",
+      "subject": "ba re",
+      "rationale": "לאמר e rendritšwe 'ba re' go tšwela pele puo pele."
+    }
+  ],
+  "translation": "Gomme Moshe le Elazara moperisita ba bolela ⟨את⟩ bona ka dipaka tša Moabe, gaufi le Jorodane le Jerikho, ba re:",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "9f791db1380c77a7650ba7abcb71779213d542ef6b50378c002d1ea6d780ff41",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/26\/1-4.1792285128354.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ba bolela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "le Elazara"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dipaka tša Moabe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "ka dipaka"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "tša Moabe"
+    },
+    {
+      "surface": "על",
+      "gloss": "gaufi le"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Jorodane"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Jerikho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    }
+  ],
+  "timestamp": "2026-10-18T00:58:48.355564369Z",
+  "model": "glm-5.3"
+}

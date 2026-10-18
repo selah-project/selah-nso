@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bogoši",
+      "rationale": "הממלכה ke 'bogoši' — bogoši bja mafoko a mabapi le kgoši; 'peu ya bogoši' = latela ba bogoši"
+    },
+    {
+      "kind": "addition",
+      "subject": "wa yena",
+      "rationale": "Sepedi e nyaka botonzi bja mongwadi bjale ka ge Seheberu se bolela 'morwa wa yena'"
+    }
+  ],
+  "translation": "Gomme Atalia, mma wa Ahasia, ge a bona gore morwa wa yena o hwetše, a thoma gomme a fedisa ⟨את⟩ ka moka peu ya bogoši.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2913560deea56681cd7c69193475db5a6d72f7af4d9ee48b68a24d0b781a2669",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/11\/1-4.1792290655174.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "Gomme Atalia"
+    },
+    {
+      "surface": "אם",
+      "gloss": "mma wa"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahasia"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "ge a bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מת",
+      "gloss": "o hwetše"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "morwa wa yena"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "a thoma"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "a fedisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ka moka peu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "peu"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "ya bogoši"
+    }
+  ],
+  "timestamp": "2026-10-18T02:30:55.175530767Z",
+  "model": "glm-5.3"
+}

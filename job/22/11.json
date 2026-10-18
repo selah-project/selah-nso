@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 22:11",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "או",
+      "rationale": "Ba bangwe ba balwa 'goba' (kgokgontšho e nngwe); ba bangwe 'goba ga o bone' — sebopego se sa pelaelo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bo go phethe",
+      "rationale": "כסה ke go kwala\/go phethega — meetse a mantsi a go kwala"
+    }
+  ],
+  "translation": "Goba lefsifsi leo o sa le bone, gomme bontši bja meetse bo go phethe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d01e6bc1e0bab6467131e7d87dc627bb025d9f844b0fdaa1e6f12a788e0889c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/22\/9-12.1792300421699.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "lefsifsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o sa le bone"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "⟨o⟩ bone"
+    },
+    {
+      "surface": "ושפעת",
+      "gloss": "gomme bontši bja"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "bo go phethe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:13:41.700209186Z",
+  "model": "glm-5.3"
+}

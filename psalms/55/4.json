@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 55,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tlhahlo",
+      "rationale": "af — sefose, euphemism ya tlhahlo\/kgopolo e mpe; Sepedi e šomiša 'tlhahlo' go swana le sebopego sa mmele sa Seheberu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "mikol \/ mifne",
+      "rationale": "Go bušetwa ga 'go tšwa go...' gabedi (mikol, mifne) — sekapa se tlwaelegilego sa psalme, se bolokilwe ka go boelediša"
+    }
+  ],
+  "translation": "Go tšwa go modumo wa lenaba, ka baka la gateetšo ya molao, ka gobane ba tloditše bobe godimo ga ka, gomme ba nkgetholla ka tlhahlo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ab6c04bd53aeebb59181e135386ea4b27d8a3a55c0af490ef5368af0b2ea7bd6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/55\/1-4.1792297902600.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "go tšwa go modumo wa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lenaba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "gateetšo ya"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "molao"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "ba tloditše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga ka"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobe"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "gomme ka tlhahlo"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "ba nkgetholla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:42.601124735Z",
+  "model": "glm-5.3"
+}

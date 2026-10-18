@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "o fiša",
+      "rationale": "להט e bolela 'go nama ka maleme' — mollo o nama ka maleme; pontšo ya go nama e lahletšwe"
+    }
+  ],
+  "translation": "Mollo o sepela ka pele ga gagwe, gomme o fiša manaba a gagwe ka dikologa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6132a85d5aeea181f6f17975a173e10a5836314319f892a36c13ee769dc04cf5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/97\/1-4.1792298479639.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Mollo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ka pele ga gagwe"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "o sepela"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "gomme o fiša"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ka dikologa"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "manaba a gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:19.640830120Z",
+  "model": "glm-5.3"
+}

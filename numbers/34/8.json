@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 34:8",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תאה",
+      "rationale": "poledišano ya lentšu le le tlwaelegilego go tšwa temaneng ya 34:7"
+    },
+    {
+      "kind": "crux",
+      "subject": "לבא חמת",
+      "rationale": "'go tsena Khamate' kgahlanong le leina la sekgoba 'Lebo-Khamate' (BSB)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mollwane",
+      "rationale": "tšweletšo ya go ela mollwane waboa"
+    }
+  ],
+  "translation": "Go tšwa thabeng ya Hora le tla tshwaya go ya go tsena Khamate, mme mafelelo a mollwane a tla ba go Tsedada.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4065e5f01dfa1be1cb6ba4283ddffd2227a6ebe77872d4f10cef8ebf42e343f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/34\/5-8.1792285414247.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "go tšwa thabeng ya Hora"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thabeng"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "le tla tshwaya"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "go ya go tsena"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Khamate"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "mme a tla ba"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "mafelelo"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "a mollwane"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "go Tsedada"
+    }
+  ],
+  "timestamp": "2026-10-18T01:03:34.248743561Z",
+  "model": "glm-5.3"
+}

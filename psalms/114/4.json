@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 114,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dipudi tše ditona",
+      "rationale": "אילים le tutuetša maatla (strength) gomme a bolela dipudi\/diphoofolo tše ditona; Šepedi e nyaka tlhalošo."
+    }
+  ],
+  "translation": "Dithaba di tshotša bjalo ka dipudi tše ditona, dithabana bjalo ka dikwana tša dinku.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9e8c1e1190f1f892769b99bb0256d222b1c2238d7b3acb74f40eaab74e7382fc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/114\/1-4.1792298739949.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Dithaba"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "di tshotša"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "bjalo ka dipudi tše ditona"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "dithabana"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "bjalo ka bana ba"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku (le dipudi)"
+    }
+  ],
+  "timestamp": "2026-10-18T04:45:39.950812737Z",
+  "model": "glm-5.3"
+}

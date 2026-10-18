@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "ruakh ke moya, phefo le maikutlo ka lentšu le tee; Sepedi se se ka se bolele ka lentšu le tee ka tsela ye e feletšego, ka gare gore le ka se fetolwe ka 'moya' fela."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "טוב...טוב",
+      "rationale": "phetelelo ya 'go botse' gabedi, sebopego sa kgwathanong sa Qohelete se bolokwa."
+    }
+  ],
+  "translation": "Go botse mafelelo a taba go feta mathomo oa yona; go botse yo a nago le ruakh ye telele, go feta yo a phahamego ka ruakh.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "3c76ffd76d5268fcc23e84eebccc32f72e9e2a3da275c9ae6a28e1493253cfcf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/7\/5-8.1792301424590.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "go botse"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "mafelelo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "a taba"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "go feta mathomo oa yona"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "go botse"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "yo a nago le ye telele"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "go feta yo a phahamego"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-18T05:30:24.591457828Z",
+  "model": "glm-5.3"
+}

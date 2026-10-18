@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 34:31",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "צאני ... צאן",
+      "rationale": "Go bušetša ga צאן gabedi ka go latelana — sebopego se se tsweletšego sa seswantšho sa modisa se bolokilwe ka go bušetša."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מרעיתי",
+      "rationale": "Ke 'bofaswa bja ka' (pasture) — e sego 'dinku tša ka'; seswantšho se a bolokwa."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yisraele",
+      "rationale": "Go bolela go rialo go dinku tša Yahwe — setšhaba se bitšwa ka go lebana, 'lena ke batho'."
+    }
+  ],
+  "translation": "Gomme lena, dinku le dipudi tša ka, dinku le dipudi tša bofaswa bja ka, lena ke batho; ke nna Elohim wa lona, go bolela Adonai Yahwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "90c6e1b91d0bdf78768a7abc01dced1d94d35a526e78298aa63217f9291f427a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/34\/29-31.1792295343849.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "gomme lena"
+    },
+    {
+      "surface": "צאני",
+      "gloss": "dinku le dipudi tša ka"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "dinku le dipudi"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "tša bofaswa bja ka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "lena"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ke nna"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Elohim wa lona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T03:49:03.850788312Z",
+  "model": "glm-5.3"
+}

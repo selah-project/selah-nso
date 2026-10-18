@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 15:8",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "molomo wa tšhoša",
+      "rationale": "לפי חרב ke 'ka molomo wa tšhoša' — 'molomo' e bolokwa, e sego 'thari' fela."
+    },
+    {
+      "kind": "crux",
+      "subject": "החרים",
+      "rationale": "חרם — 'a se laila' (go laila go fediswa); ditumelano di fapana: 'a fedista ka botlalo' kgathanong le 'a se laila bjalo ka sehlabelo'."
+    }
+  ],
+  "translation": "A tšea ⟨את⟩ Agage, kgoši ya Amaleke, a phela; gomme ⟨את⟩ setšhaba ka moka a se laila ka molomo wa tšhoša.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0a955b7d8dae29e8aef1339ddbc58eb33abd967e7699924eaa4a1d829a501b09",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/15\/5-8.1792288277628.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "A tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agage"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "Agage"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ya Amaleke"
+    },
+    {
+      "surface": "חי",
+      "gloss": "a phela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "setšhaba ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "a se laila"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ka molomo wa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhoša"
+    }
+  ],
+  "timestamp": "2026-10-18T01:51:17.629716086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a leleša",
+      "rationale": "ויגל le bolela go hlohlatša \/ go ntšha ka tšhogo — go leleša ke lentšu la Sepedi la go ntšha batho nageng ya bone"
+    },
+    {
+      "kind": "crux",
+      "subject": "noka ya Ghozane",
+      "rationale": "גוזן ke leina la porofense; go swanetše go bapetšwa — noka ke Khalabore, e sego Ghozane"
+    }
+  ],
+  "translation": "Gomme kgoši ya Ashure a leleša ⟨את⟩ Yisraele go Ashure, gomme a ba bea Khalakhe, le Khalabore, noka ya Ghozane, le ditoropong tša Media.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "edd11d51a2f50f3c90352ca2c2f79f18df630e970699f2ccb545e2d6893c2af5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/18\/9-12.1792290885299.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "a leleša"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashure"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "go Ashure"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "a ba bea"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "Khalakhe"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "le Khalabore"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "noka"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Ghozane"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "le ditoropong"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Media"
+    }
+  ],
+  "timestamp": "2026-10-18T02:34:45.300967702Z",
+  "model": "glm-5.3"
+}

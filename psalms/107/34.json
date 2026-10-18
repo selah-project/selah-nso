@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 107:34",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 107,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lefele la letswai",
+      "rationale": "למלחה e re 'lefase le nang letswai' — KJV 'barrenness' e laeditše dilo, e sego seltši"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba ba",
+      "rationale": "Sepedi e nyaka mohlalingwa (relative) o se nago mo Seheberung"
+    }
+  ],
+  "translation": "lefase la pego go ba lefele la letswai, ka baka la bobe ba ba ba dulago go lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d0c73c4f1f9925a3e7cca95fcea039311e58fb63474b7041fe49065e361f4a26",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/107\/33-36.1792298697597.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "la pego"
+    },
+    {
+      "surface": "למלחה",
+      "gloss": "go ba lefele la letswai"
+    },
+    {
+      "surface": "מרעת",
+      "gloss": "ka baka la bobe"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ba ba ba dulago"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go lona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:57.598001204Z",
+  "model": "glm-5.3"
+}

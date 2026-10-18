@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "kafo",
+      "rationale": "כף ke seatla se se bulegilego — seditšwana sa gauta se ile sa fetwa ka kafo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "mashomenne",
+      "rationale": "Boima bja shekele le leshome bja gauta"
+    }
+  ],
+  "translation": "Le kafo e tee ya gauta, ya mashomenne shekele, e tletše kotorote.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c846c29cdc00f52bdd43dc2eaa122f53da1229b0a0b968d0f135893ae8328980",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/7\/13-16.1792284529145.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "kafo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "e tee"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ya mashomenne"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ya gauta"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "e tletše"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "kotorote"
+    }
+  ],
+  "timestamp": "2026-10-18T00:48:49.145786298Z",
+  "model": "glm-5.3"
+}

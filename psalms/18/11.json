@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "רוח e swerwe bjalo ka ruakh go ya ka D2 — go akaretša moya, phefo le go hema ka lentšu le tee."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ויעף\/וידא",
+      "rationale": "difofo tše pedi tša Seheberu — go fofa le go thula ka lebelo — di fetisitšwe ka go fapana ga go fofa le go thulela."
+    }
+  ],
+  "translation": "O nametše godimo ga kerube mme a fofa, o thulela godimo ga maphego a ruakh.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9cf51954dd183cfb042f9c423f4bdb6e91bd98f8166bde785bb175b0addbb432",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/18\/9-12.1792297324909.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "O nametše"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerube"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "mme a fofa"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "o thulela"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "maphego a"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:04.910121865Z",
+  "model": "glm-5.3"
+}

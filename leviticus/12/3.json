@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "la yena",
+      "rationale": "serapa sa possessive se okeditšwego go hlaloša gore ke la ngwana"
+    },
+    {
+      "kind": "measurement",
+      "subject": "letšatši la seswai",
+      "rationale": "palo ya malatsi — ye seswai e laetšwe ka botlalo bjalo ka Seheberu"
+    }
+  ],
+  "translation": "Gomme ka letšatši la seswai letlalo la pele la nama ya yena le tla rolwa.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "5c0924bd47da843baaf9bd1bd72aad899b6e29825c77d1d1952d2cdcd9afa4ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/12\/2-3.1792304698485.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "Gomme ka letšatši la"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "seswai"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "le tla rolwa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "nama ya"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "letlako la pele la yena"
+    }
+  ],
+  "timestamp": "2026-10-18T06:24:58.486726602Z",
+  "model": "glm-5.3"
+}

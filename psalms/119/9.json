@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "potšišo",
+      "rationale": " Verse e bulela ka potšišo yeo e bitšago mmadi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "hlwekiša",
+      "rationale": "זכה ke 'go ba se se phatsimago\/go se na sebe'; 'hlwekiša' ke bokao bjo bo tletšego."
+    }
+  ],
+  "translation": "Ka eng mošanyana a ka hlwekiša ⟨את⟩ tsela ya gagwe? Ka go e šireletša go ya ka lentšu la gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dc235ddb44b36c6fa72b283d64820a10dbee3cc83c52b6377d9b22d699f789da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/9-12.1792298805333.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "ka eng"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "a ka hlwekiša"
+    },
+    {
+      "surface": "נער",
+      "gloss": "mošanyana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tsela ya gagwe"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "tsela ya gagwe"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "go šireletša"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "go ya ka lentšu la gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:45.333699772Z",
+  "model": "glm-5.3"
+}

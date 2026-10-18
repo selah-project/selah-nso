@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 140,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "ירומו",
+      "rationale": "KJV\/ASV e aga 'gore ba se ke' (ka gobane o latela lebošego); YLT e e tlogela bjalo ka polelo ye pejana — Sepedi mo e latela bjalo ka sephetho."
+    },
+    {
+      "kind": "substitution",
+      "subject": "זממו",
+      "rationale": "זמם ke mogwalo wa diphiri; 'mošomo' ke karolo ya yona fela, e sa swarella diphiri tša go bolaya."
+    }
+  ],
+  "translation": "O se ke wa fa, Yahwe, dilo tše mobe a di kgahlegago; mošomo wa gagwe o se ke wa o ntšha; gore ba se ke ba itlhologona. Sela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "db49c15584be05e5ebb283b31fde4f7517fe03da85e02036b4390c4f2a7ec45b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/140\/9-12.1792299041277.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "wa fa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "dilo tše a di kgahlegago"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "mobe"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "mošomo wa gagwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "wa o ntšha"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "ba itlhologona"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:41.278658033Z",
+  "model": "glm-5.3"
+}

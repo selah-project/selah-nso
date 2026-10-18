@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מכתף הימנית קדמה",
+      "rationale": "'go tšwa seropeng la go ja moja, bochabela' — KJV e bona 'go la go ja moja bochabela', ASV e oketša 'ya ntlo'; Seheberu se se laela fela lehlakore"
+    },
+    {
+      "kind": "substitution",
+      "subject": "lewatle",
+      "rationale": "הים ke leina la seswana se segolo sa tšhere — se fetotšwe 'lewatle' ka gobane ke leina la sona"
+    }
+  ],
+  "translation": "Gomme a bea ⟨את⟩ lewatle go tšwa seropeng, go la letsogo la go ja moja, bochabela, go lebane le borwa.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "6f61e0638e90538c0ef142914a2d9b4251cdb6abfc5adaea92b83287633cd3c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/4\/9-12.1792303614962.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "lewatle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "go tšwa seropeng"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "go la letsogo la go ja moja"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "bochabela"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "go lebane le"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "borwa"
+    }
+  ],
+  "timestamp": "2026-10-18T06:06:54.963507904Z",
+  "model": "glm-5.3"
+}

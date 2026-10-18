@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 27:25",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שרותיך",
+      "rationale": "šur II: 'dikepe tša gago tše dikgolo thekisong' (ASV caravans) kgathanong le 'di go ile tša opela' (KJV, go tšwa go šir — go opela); Sepedi e latela polelo ya go sepela-thekiso."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ותכבדי",
+      "rationale": "kavod — 'go boima' le 'go tlotšwa' ka moo; JPS e bolokile go boima ('made very heavy')."
+    }
+  ],
+  "translation": "Dikepe tša Tarshishe di be tša sepela-thekiso go thekiso ya gago; gomme o tlwaditšwe, o tlotšitšwe kudu, pelong ya mawatle.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "acf9f92b1b59575e8050dd0b1863f855f17b12ce101e31419276513b29bb8fec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/27\/25-28.1792295253996.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אניות",
+      "gloss": "dikepe"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "tša Tarshishe"
+    },
+    {
+      "surface": "שרותיך",
+      "gloss": "di be tša sepela-thekiso"
+    },
+    {
+      "surface": "מערבך",
+      "gloss": "go thekiso ya gago"
+    },
+    {
+      "surface": "ותמלאי",
+      "gloss": "gomme o tlwaditšwe"
+    },
+    {
+      "surface": "ותכבדי",
+      "gloss": "o tlotšitšwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "pelong"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ya mawatle"
+    }
+  ],
+  "timestamp": "2026-10-18T03:47:33.997078849Z",
+  "model": "glm-5.3"
+}

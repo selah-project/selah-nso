@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bokgethwa",
+      "rationale": "קדש se fetolelwa ka modu o tee wa go kgethagatša go ya ka tafole ya mantšu, e sego 'halalela' ya Sesotho"
+    },
+    {
+      "kind": "you",
+      "subject": "toropokgolo",
+      "rationale": "Jeremia o bolela a lebiletše toropokgolo ya Yerushalayime"
+    }
+  ],
+  "translation": "Bokgethwa bja ka o bo nyoretše, gomme ⟨את⟩ diShabatha tša ka o di dirile tša se sa kgethega.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e4349d419cca91a0f7b943244050b137c2fb91373f257b51c78bb5813b15e3e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/22\/5-8.1792294978601.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "bokgethwa bja ka"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "o bo nyoretše"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "diShabatha tša ka"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "diShabatha tša ka"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "o di dirile tša se sa kgethega"
+    }
+  ],
+  "timestamp": "2026-10-18T03:42:58.603211366Z",
+  "model": "glm-5.3"
+}

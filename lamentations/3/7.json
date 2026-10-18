@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "sekgodi sa koporó",
+      "rationale": "נחשת is literally 'copper'; the metal stands for the fetter — 'copper fetter' keeps both."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨nna⟩",
+      "rationale": "בעדי 'around me' is absorbed into the verb; the pronoun is bracketed to mark it."
+    }
+  ],
+  "translation": "O nkalaretše ka lerako, gomme ke ka se tšeefe; o ile a boiša sekgodi sa me sa koporó.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "f108a9a6b76c3eec05168b7f33cbdfd9855c89b6c8b6bf536d5181bb7514c819",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/lamentations\/3\/5-8.1792301148554.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "o nkalaretše ka lerako"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "⟨nna⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme... go se"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ke ka se tšeefe"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "o ile a boiša"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "sekgodi sa me sa koporó"
+    }
+  ],
+  "timestamp": "2026-10-18T05:25:48.554876733Z",
+  "model": "glm-5.3"
+}

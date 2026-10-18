@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 26:6",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 26,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu se se na sekopanyi; sephego se se nyaka sone"
+    },
+    {
+      "kind": "substitution",
+      "subject": "tshenyo",
+      "rationale": "חמס ka nnete ke tlhaso\/khutšo e mpe — 'tshenyo' ke khutšo e bonwego; šedi e nyakega"
+    },
+    {
+      "kind": "idiom",
+      "subject": "go hwa tshenyo",
+      "rationale": "'go hwa khutšo' — ponagalo ya Seheberu ya go amogela se se mpe ka gare, e ka se dumelelwe ka go Sepedi ka mo o tlwaelegilego"
+    }
+  ],
+  "translation": "Go kgaša maoto gomme go hwa tshenyo — ⟨ke⟩ go romela mantšu ka seatla sa lesilo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "75d48ab1bd013f5bd106e5b070039e47079f81c2deef9c24b655f1c01f12447b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/26\/5-8.1792299814186.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Go kgaša"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "maoto"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "tshenyo"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "go hwa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "go romela"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "lesilo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:03:34.186858587Z",
+  "model": "glm-5.3"
+}

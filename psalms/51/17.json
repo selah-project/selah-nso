@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "dipounama tša me \/ molomo wa me",
+      "rationale": "Seheberu se na le poletšo fela (dipounama, molomo) — popagano ya possessive e okeditšwe ka Sepedi"
+    },
+    {
+      "kind": "you",
+      "subject": "go Adonai",
+      "rationale": "Poeletšo ye e bitša Adonai ka kgauswi, kopi ya motho ka bomong"
+    }
+  ],
+  "translation": "Adonai, o bulele dipounama tša me, gomme molomo wa me o tla bolela tlotlo ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "01a448002bf81ede559e3a8e2da5a496bb26d9544bf329aa8a6254a3171b2918",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/51\/17-20.1792297847662.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "dipounama tša me"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "o bulele"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "gomme molomo wa me"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "o tla bolela"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "tlotlo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:47.662686069Z",
+  "model": "glm-5.3"
+}

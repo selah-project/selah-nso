@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "palo ya matsatsi",
+      "rationale": "Palo ya malapa a mangwe — Elohim o solofetše go e phetha; go bala mengwaga go kgathile tema."
+    },
+    {
+      "kind": "addition",
+      "subject": "bana",
+      "rationale": "משכלה ka bolona e re go fofa bana ka mpsha — lentšu la Sepedi le nyaka \"ke bana\" go hlaloša."
+    }
+  ],
+  "translation": "Ga go tla ba le go lahlegelwa ke bana lehupe go lefaseng la gago; ⟨את⟩ palo ya malapa a gago — matsatsi a gago — ke tla e phetha.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "09aea98edcf83508f9a87ce90569f2bc5090005b642b125e73dd8042a31f12da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/23\/25-28.1792282880951.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga go tla ba"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "e tla ba gona"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "go lahlegelwa ke bana"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "lehupe"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "go lefaseng la gago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "palo ya matsatsi a gago"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "palo"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "matsatsi a gago"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "ke tla e phetha"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:20.952010890Z",
+  "model": "glm-5.3"
+}

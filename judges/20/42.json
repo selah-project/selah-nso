@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 20:42",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "mo",
+      "rationale": "pronoun ya gagwe yeo e okeditšwego ka gare ga ⟨…⟩ go bontšha sehlabelo sa ⟨את⟩"
+    },
+    {
+      "kind": "substitution",
+      "subject": "naga",
+      "rationale": "המדבר e bolela lefase la go sa hlala, morutišwa o fokotšeditšwe go naga"
+    }
+  ],
+  "translation": "Ba bušetša ka pele ga monna wa Yisraele go ya tsela ya naga, gomme ntoa e mo ile wa mo nametša, gomme bao ba tšwago ditoropong ba senya ⟨את⟩ ⟨mo⟩ ka gare ga yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "43653826fb48b1a52140556f7050b487d2433044684541d9dbd5f4e2520b6591",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/20\/41-44.1792287777772.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "Ba bušetša"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ka pele ga"
+    },
+    {
+      "surface": "איש",
+      "gloss": "monna"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go ya"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ya naga"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "gomme ntoa"
+    },
+    {
+      "surface": "הדביקתהו",
+      "gloss": "e mo ile wa mo nametša"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "gomme bao"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "ba tšwago ditoropong"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "ba senya"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "mo"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "ka gare ga yona"
+    }
+  ],
+  "timestamp": "2026-10-18T01:42:57.773621423Z",
+  "model": "glm-5.3"
+}

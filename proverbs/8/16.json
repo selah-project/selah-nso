@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 8:16",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שפטי צדק",
+      "rationale": "Construct: 'baahlodi ba tsedeke' (baahlodi ba a hlankela toka) kgathanong le 'baahlodi ba lefase' — kjv e oketša 'ba lefase' go tšwa go mogwalo wa mafoko a mengwe."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka nna",
+      "rationale": "Preposition ב a beilwe gape ka tlase ga 'šledi' — mo go latelang boipoletšo bja sefefo."
+    }
+  ],
+  "translation": "Ka nna balaodi ba laola, gomme bagodi, baahlodi bohle ba tsedeke.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5298c9b4aa4fdca0ae007e485b353920cb2b5e71d3e467f379336aacbc41cf6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/8\/13-16.1792299302346.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "ka nna"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "balaodi"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ba laola"
+    },
+    {
+      "surface": "ונדיבים",
+      "gloss": "gomme bagodi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bohle"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "baahlodi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:02.347316075Z",
+  "model": "glm-5.3"
+}

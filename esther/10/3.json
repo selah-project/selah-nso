@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 10:3",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "motswnenyadi wa bobedi",
+      "rationale": "משנה le bolela 'phatišo, phatišo' — mo e bolela maemo a bobedi go kgoši"
+    },
+    {
+      "kind": "substitution",
+      "subject": "peo ya gagwe",
+      "rationale": "זרע ke 'peu' — sebopego sa pele sa ditlogolo, se bolokilwe ka Sepedi"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "דרש\/דבר",
+      "rationale": "paronomasia: go nyaka (doreš) le go bolela (dover) — diteko tše pedi tša go hloka mafoko a mabedi ka Sepedi"
+    }
+  ],
+  "translation": "Ka gobane Modekai moyahuda e be e le wa bobedi go kgoši Ahashuerosh, gomme yo mogolo go bayahuda, yo a amogetšwego ke bontši bja ba banašwena ba gagwe, yo a nyakago sebotse setšhabeng sa gagwe, gomme a bolela kagiso go peo ya gagwe ka moka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "29b796585a0543d16a5c2b1a9929059f852632dde09f023113bf3667d50739a8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/10\/1-3.1792301671910.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Modekai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "moyahuda"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wa bobedi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "go kgoši"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Ahashuerosh"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "gomme yo mogolo"
+    },
+    {
+      "surface": "ליהודים",
+      "gloss": "go bayahuda"
+    },
+    {
+      "surface": "ורצוי",
+      "gloss": "yo a amogetšwego"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ke bontši"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bja ba banašwena ba gagwe"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "yo a nyakago"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "sebotse"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "setšhabeng sa gagwe"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "gomme a bolela"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go ... ka moka"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "peo ya gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:34:31.912113988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 16:6",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "moedi",
+      "rationale": "tšweletšo ya moedi — go sepela ga moedi go ya lewatle, go dikanya go ya bohlaba"
+    },
+    {
+      "kind": "alternative",
+      "subject": "o feta",
+      "rationale": "וְעָבַר אוֹתוֹ gape a ka hlatholla 'o feta go yona' (noka) go sego 'go tšwa bohlaba'"
+    }
+  ],
+  "translation": "Gomme moedi o tšwa o ya lewatleng go ya go Mikhmetathe ka leboa; gomme moedi o dikanya ka bohlaba go ya go Taanate-Silo, gomme o feta ⟨את⟩ go tšwa bohlaba go ya go Janoake.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "84ee85e2fbce130027ef2212ca2343e7771ede97bfec44043414909ef217ad43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/16\/5-8.1792286920411.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "o tšwa"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "moedi"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "go ya lewatleng"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "Mikhmetathe"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ka leboa"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "o dikanya"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "moedi"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ka bohlaba"
+    },
+    {
+      "surface": "תאנת",
+      "gloss": "Taanate"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Silo"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "o feta"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "go tšwa bohlaba"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "go tšwa bohlaba"
+    },
+    {
+      "surface": "ינוחה",
+      "gloss": "Janoake"
+    }
+  ],
+  "timestamp": "2026-10-18T01:28:40.412693054Z",
+  "model": "glm-5.3"
+}

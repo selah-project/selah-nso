@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "נא",
+      "rationale": "netefatšo ya puo ya go kgopela; 'gabonolo' e sumetša se, e sego sehlapa sa ka ntle"
+    },
+    {
+      "kind": "alternative",
+      "subject": "gabonolo",
+      "rationale": "e ka ba 'bjale' — נא e bewa le go laela, 'a le tle bjale'"
+    }
+  ],
+  "translation": "Bonwe, bona ba re go nna: Lentšu la Yahwe le kae? A le tle gabonolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "682bd467a9d8d9e88bf64fa6158d0d0ef869a338d91fb4daf469584167b31bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/17\/13-16.1792293245264.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "איה",
+      "gloss": "le kae"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lentšu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "la Yahwe"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "A le tle"
+    },
+    {
+      "surface": "נא",
+      "gloss": "gabonolo"
+    }
+  ],
+  "timestamp": "2026-10-18T03:14:05.265271478Z",
+  "model": "glm-5.3"
+}

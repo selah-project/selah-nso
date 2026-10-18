@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 3:16",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "גמד",
+      "rationale": "Gomede — lentšu le le ratwang fela mo, le bolela bophara bja seatla; se fokotšitšwe go 'gomede' ka mabaka a go lokiša"
+    },
+    {
+      "kind": "crux",
+      "subject": "גמד",
+      "rationale": "Babalwa ba fapana: 'phopho ya seatla' (span) kgahlanong le 'gomo' (cubit, go ya le LXX)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "פיות",
+      "rationale": "פה ke 'molomo' — 'melomo pedi' e bolokile sebopego sa Seheberu sa tšhoša yeo e nago le melomo pedi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "botelele bja yona gomede",
+      "rationale": "Palo ya botelele bja tšhoša — gomede (phopho ya seatla)"
+    }
+  ],
+  "translation": "Gomme Ehude a dira go yena tšhoša, gomme e na le melomo pedi — botelele bja yona gomede — gomme a e kgokola ka tlase ga diaparo tša gagwe, ka leoto la gagwe la go ja.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e1a914e3c3918ffd16a357e472d87ac5ba08ac687e189319c20d5939bdc05333",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/3\/13-16.1792287237030.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dira"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehude"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "gomme e na le"
+    },
+    {
+      "surface": "שני",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "melomo"
+    },
+    {
+      "surface": "גמד",
+      "gloss": "gomede"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "botelele bja yona"
+    },
+    {
+      "surface": "ויחגר",
+      "gloss": "a e kgokola"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "tšhoša"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ka tlase"
+    },
+    {
+      "surface": "למדיו",
+      "gloss": "ga diaparo tša gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "leoto"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "la gagwe la go ja"
+    }
+  ],
+  "timestamp": "2026-10-18T01:33:57.032051562Z",
+  "model": "glm-5.3"
+}

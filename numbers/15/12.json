@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "מספר ... מספרם",
+      "rationale": "Go bušetša ga 'palo' ka gatelelo — se boletšwego gabedi mo temaneng e tee, se sa laolwa ke diphetolelo."
+    },
+    {
+      "kind": "measurement",
+      "subject": "palo",
+      "rationale": "Tema e hlalosa go laelwa ga dipalo tša sehlabelo se sengwe le se sengwe."
+    }
+  ],
+  "translation": "Go ya ka palo yeo e ka dirwago, bjalo ka se dirwa go e tee, go ya le dipalo tša tšona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "6cc536ac4fdff24196fd86a631f3253c273d4d54a5527620e9f99c20d25b7b24",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/15\/9-12.1792284828320.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "go ya ka palo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "e ka dirwago"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "se dirwa"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "go e tee"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "go ya le dipalo tša tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:53:48.321939502Z",
+  "model": "glm-5.3"
+}

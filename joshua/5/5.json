@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 5:5",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go gogiwa",
+      "rationale": "מול ke go kgača nama ye e dikologago; go gogiwa ke lentšu la Sepedi la koma, sebopego sa lentšu se bolokwa"
+    },
+    {
+      "kind": "addition",
+      "subject": "e be e le",
+      "rationale": "Seheberu se na le היו; ⟨ke⟩ e ngwadilwe go dira sebopego sa Sepedi"
+    }
+  ],
+  "translation": "Gore setšhaba sotlhe seo se tšwego se be se gogile, gomme setšhaba sotlhe seo se belegwego nageng, tseleng, ge ba tšwa go Mitsrayime, ga se sa gogiwa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0b61caaeffa52e2ccd2b329534fb2da4ce913a0ab708d9c86b98f947afb0cacc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/5\/5-8.1792286560805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "ba gogile"
+    },
+    {
+      "surface": "היו",
+      "gloss": "e be e le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "seo se tšwego"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "seo se belegwego"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "nageng"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "tseleng"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ge ba tšwa"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "go Mitsrayime"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "sa gogiwa"
+    }
+  ],
+  "timestamp": "2026-10-18T01:22:40.806616646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 32:8",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בני ישראל",
+      "rationale": "MT 'sons of Israel' vs 4QDeut(j) and LXX 'sons of Elohim' (angels of the nations, cf. v.9 LXX 'angels of God') — BSB follows the Qumran reading."
+    },
+    {
+      "kind": "measurement",
+      "subject": "למספר",
+      "rationale": "Borders set by a number — counting governs the division of the nations."
+    }
+  ],
+  "translation": "Ge Elyone a neela ditšhaba kabelo, ge a arogantšha bana ba Adama, a bea mellwane ya ditšhaba go palo ya bana ba Yisraele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "01e6404bb23e7f38f11084473686e15dfc1ce45994dce4abc0e18121c9a1abce",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/32\/5-8.1792286417964.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בהנחל",
+      "gloss": "ge a neela kabelo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "בהפרידו",
+      "gloss": "ge a arogantšha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ba Adama"
+    },
+    {
+      "surface": "יצב",
+      "gloss": "a bea"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "mellwane"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ya ditšhaba"
+    },
+    {
+      "surface": "למספר",
+      "gloss": "go palo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T01:20:17.966045251Z",
+  "model": "glm-5.3"
+}

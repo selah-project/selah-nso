@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 27:14",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עזבוניך",
+      "rationale": "KJV 'thy fairs' kgahlanong le YLT 'thy remnants' — עזבון e bolela kgwebo\/thehelo; Sepedi e tšea 'thehelo ya kgwebo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "dipitša tša ntoa",
+      "rationale": "פרשים ke dipitša tša go thoga go fihla koloi ya ntoa, e sego 'barena ba dipitša' (riders) bjalo ka KJV"
+    }
+  ],
+  "translation": "Ba ntlong ya Togarma ba nea dipitša le dipitša tša ntoa le dibaka ⟨go tšwa⟩ bakeng sa thehelo ya kgwebo ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "1602e6e1c68a13bed739779e9c9f3c4a46e7815ff65de9aedf14ecc2492dfcb5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/27\/13-16.1792295211687.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבית",
+      "gloss": "ba ntlong ya"
+    },
+    {
+      "surface": "תוגרמה",
+      "gloss": "Togarma"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "dipitša"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "le dipitša tša ntoa"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "le dibaka"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ba nea"
+    },
+    {
+      "surface": "עזבוניך",
+      "gloss": "bakeng sa thehelo ya kgwebo ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T03:46:51.688622296Z",
+  "model": "glm-5.3"
+}

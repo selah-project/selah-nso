@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "laentitye",
+      "rationale": "ניר ke sengwalwa sa go fiša mafuta; 'laentitye' e swara sebopego sa go ba le molora"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Sepedi e nyaka kopula ye Seheberu se se sa e bego"
+    }
+  ],
+  "translation": "Lentšu la gago ke laentitye ya maoto a ka, gomme ke lesedi tseleng ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e4be5865587e246529232cae052f1e6369426b9193540936774286dfc547db87",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/105-108.1792298830718.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "laentitye"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "maoto a ka"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "lentšu la gago"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "gomme ke lesedi"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "tseleng ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:10.719539358Z",
+  "model": "glm-5.3"
+}

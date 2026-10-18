@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "log",
+      "rationale": "לג ke kelo ya metswako e tebileng — sehlabelo sa loke e tšwa go makhura a loke"
+    },
+    {
+      "kind": "measurement",
+      "subject": "log",
+      "rationale": "Kelo ya makhura — log ya go šomišwa mehleng ya Taberenakele"
+    }
+  ],
+  "translation": "Gomme moperisita a tšea sehlabelo sa makhura a loke — gomme a thula godimo ga sediri sa letsogo la moperisita la ka go la nngele.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b11f18e47f81d439321057a275afa8702d4cc7dcb1e6b20a022b0b2d8181d049",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/14\/13-16.1792283904434.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "gomme a tšea"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "sehlabelo sa loke"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "a makhura a loke"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "gomme a thula"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כף",
+      "gloss": "sediri sa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "moperisita"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "la ka go la nngele"
+    }
+  ],
+  "timestamp": "2026-10-18T00:38:24.436839975Z",
+  "model": "glm-5.3"
+}

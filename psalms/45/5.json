@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 45:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 45,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "דבר אמת",
+      "rationale": "'lentšu la nnete' kgatlhanong le 'ka baka la nnete' (KJV\/ASV ba phutha 'dabar' e le 'ka baka la')"
+    },
+    {
+      "kind": "crux",
+      "subject": "ותורך",
+      "rationale": "root ya ירה: 'go ruta' (Geneva, KJV) kgatlhanong le 'go bontšha' (BSB, YLT)"
+    },
+    {
+      "kind": "you",
+      "subject": "kgoši",
+      "rationale": "poeletšo ye e bolelela kgoši ka boeemedi, e sego mošomi"
+    }
+  ],
+  "translation": "Gomme ka botšogatsi bja gago — o atlege, o nametše ka lebaka la nnete, le boikhutšego, le tsedeke; gomme seatla sa gago sa go ja se tla go ruta dilo tše di makatšago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "629bded34f53d67fc575652ae2097649e1ec92627abe711e50b62f34c967bf30",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/45\/5-8.1792297821180.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והדרך",
+      "gloss": "gomme ka botšogatsi bja gago"
+    },
+    {
+      "surface": "צלח",
+      "gloss": "o atlege"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "o nametše"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka lebaka la"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "nnete"
+    },
+    {
+      "surface": "וענוה",
+      "gloss": "gomme boikhutšego"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "ותורך",
+      "gloss": "gomme se tla go ruta"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "dilo tše di makatšago"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "seatla sa gago sa go ja"
+    }
+  ],
+  "timestamp": "2026-10-18T04:30:21.181542849Z",
+  "model": "glm-5.3"
+}

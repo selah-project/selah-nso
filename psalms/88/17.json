@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 88,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "legalelo",
+      "rationale": "חרוניך e bolela 'go fisa ga bolalelo' — 'burning of anger'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "צמתותני",
+      "rationale": "E ka bo e le 'di ka fedile' (go fedisa ka gare) go e na le 'go timetša'"
+    }
+  ],
+  "translation": "Legalelo la gago le fetile ka godimo ga ka; ditsibi tša gago di ka timetše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "eda71151d2410ae7e9ab6e9c08f5e534f649778bee36cadc75d74ff1f725fda3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/88\/17-19.1792298346931.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ka godimo ga ka"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "di fetile"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "legalelo la gago"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "ditsibi tša gago"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "di ka timetše"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:06.932374691Z",
+  "model": "glm-5.3"
+}

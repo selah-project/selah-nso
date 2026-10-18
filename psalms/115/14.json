@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 115,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עליכם עליכם",
+      "rationale": "Boeletši bja עליכם gabedi bja bopeloki — go a bolokwa ka go 'go lona, go lona'."
+    },
+    {
+      "kind": "you",
+      "subject": "go lona",
+      "rationale": "Sefoko se lebelela ka go otlela go setšhaba kponente se se bolelago."
+    }
+  ],
+  "translation": "Yahwe a oketše go lona, go lona le go bana ba lona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "94fdd6dfbc9af7eca968cd0d3b2707bef8936df77625e627c8acbdad3d4cef3d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/115\/13-16.1792298768665.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "a oketše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le go"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "bana ba lona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:46:08.666195855Z",
+  "model": "glm-5.3"
+}

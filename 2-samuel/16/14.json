@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "וינפש",
+      "rationale": "נפש ke 'moya\/mafi a bophelo' — go iphumula ke mpho ya moya; mo e bolela gore ba khutšeditše"
+    }
+  ],
+  "translation": "Kgoši le setšhaba sotlhe se se lego ⟨את⟩ yena ba fihla ba hweletše; gomme ba iphumule moo.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2cf21a1dc7d58e1874bd745e3be4a13a311665ef4984752676e76b78e3635516",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/16\/13-16.1792289224114.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ba fihla"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le setšhaba sotlhe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se se lego"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena (kgoši)"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "ba hweletše"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "ba iphumule"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:07:04.115352045Z",
+  "model": "glm-5.3"
+}

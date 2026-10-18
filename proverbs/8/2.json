@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בית",
+      "rationale": "'ntlha ya ditsela' (betša-piša ya ditsela) e fetotšwe go ba 'gare ga ditsela' — sebopego sa kgopanyo se phantšhegile."
+    },
+    {
+      "kind": "alternative",
+      "subject": "בראש מרומים",
+      "rationale": "'ka hlogo ya diphaphathi' ka mokgwa wa Sesotho sa Leboa o bolela 'ka godimo ga diphaphathi' — go swana le YLT 'At the head of high places'."
+    }
+  ],
+  "translation": "Ka godimo ga diphaphathi tše phagamego, ka ntle ga tsela, gare ga ditsela tše mmalwa o eme.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2ebf4a203f97e6c6dd408f833f771f5c873d60ebe2e728c12d425ba970159efa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/8\/1-4.1792299320328.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "ka godimo ga"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "diphaphathi tše phagamego"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka ntle ga"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "tsela"
+    },
+    {
+      "surface": "בית",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "ditsela tše mmalwa"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "o eme"
+    }
+  ],
+  "timestamp": "2026-10-18T04:55:20.329264103Z",
+  "model": "glm-5.3"
+}

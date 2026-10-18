@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "potšišo go mmadi",
+      "rationale": "Potšišo ya go aga kgang ya Khelete ka moka; e bitša mmadi gore a arabe."
+    },
+    {
+      "kind": "alternative",
+      "subject": "letšatši",
+      "rationale": "'Ka tlase ga letšatši' e ka ntšhiwa bjalo ka mošomo wa letšatši (e seng letsatsi la megolo) — mokgwa wa go šoma o tšwelago pele."
+    }
+  ],
+  "translation": "Ke eng mokgebo go motho ka mošomo wa gagwe ka moka, woo a šomago ka o ka tlase ga letšatši?",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "afe5a10b8e4d5804652009388f716bf5e3c9dd731419a59f6bb831e8b5edcc8c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/1\/1-4.1792301339560.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "mokgebo"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "go motho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "mošomo wa gagwe"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "woo a šomago"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ka tlase ga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "letšatši"
+    }
+  ],
+  "timestamp": "2026-10-18T05:28:59.561046541Z",
+  "model": "glm-5.3"
+}

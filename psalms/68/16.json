@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "הר ×4",
+      "rationale": "go boelelwa ga 'thaba' ga nne ka go hlaba ka lehlakori — sebopego sa kgorokgotho se bolokwa ka botlalo"
+    },
+    {
+      "kind": "crux",
+      "subject": "הר אלהים",
+      "rationale": "'thaba ya Elohim' — kgethišo e bolela thaba e kgolo kudu goba thaba ya Modimo ka boena; kgetho ya mohuta o swanetšego go latela"
+    },
+    {
+      "kind": "measurement",
+      "subject": "diphahamo",
+      "rationale": "thaba e bapetšwa ka diphahamo tša yona — go bapetša le go ela bogolo"
+    }
+  ],
+  "translation": "Thaba ya Elohim ke thaba ya Bashane; thaba ya diphahamo ke thaba ya Bashane.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "332e26d3e902df686a11d308ceb207dbff09942d7d48b00832af7ed49536235d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/68\/13-16.1792298103997.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashane"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "diphahamo"
+    },
+    {
+      "surface": "הר",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Bashane"
+    }
+  ],
+  "timestamp": "2026-10-18T04:35:03.999015996Z",
+  "model": "glm-5.3"
+}

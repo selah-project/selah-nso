@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 43:13",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 43,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בית שמש",
+      "rationale": "Sepedi: leina la lefelo la Wonnapo (Beith-SHEMEŠ) kgathanong le 'tempele ya letšatši' — KJV\/JPS di boloka leina, BSB e fetolela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "אלהי מצרים ke medimo ya ditšhaba — ka ditlhaka tše nnyane go ya ka D1, e sego Elohim."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka mollwo",
+      "rationale": "באש — Sepedi e nyaka 'ka' yeo Seheberu se sa e nago ka pele ga lentšu la mollwo."
+    }
+  ],
+  "translation": "Gomme o tla go thuba ⟨את⟩ dipilare tša Beith-SHEMEŠ, tšeo di lego lefasing la Mitsrayime, gomme ⟨את⟩ malapa a medimo a Mitsrayime o tla a fiša ka mollwo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f7bfefa2d4fcd9474f48cfeb5c333334ff515a4eef972d0ae15cd39c700da75c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/43\/13-13.1792293932100.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "gomme o tla go thuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dipilare tša Beith-SHEMEŠ"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "dipilare"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beith-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "SHEMEŠ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo di lego"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefasing la"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "malapa a medimo a Mitsrayime"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "malapa a"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "medimo a"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayime"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "o tla a fiša"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollwo"
+    }
+  ],
+  "timestamp": "2026-10-18T03:25:32.101483363Z",
+  "model": "glm-5.3"
+}

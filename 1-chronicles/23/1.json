@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mengwaga",
+      "rationale": "ימים literally 'days'; idiom 'full of days' means fullness of years"
+    },
+    {
+      "kind": "elision",
+      "subject": "וימלך",
+      "rationale": "causative 'he caused to reign' rendered as 'a dira gore a busa'"
+    }
+  ],
+  "translation": "Gomme Dafida a be a bofola gomme a tlala mengwaga, gomme a dira ⟨את⟩ Šelomo mora wa yena gore a busa go Yisraele.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1d016336ea05e3701619ffcde0a8fd28e75b6d7f40cc20795aeab6bef2a9f4a9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/23\/1-4.1792303388125.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Gomme Dafida"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "a bofola"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "gomme a tlala"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "a dira gore a busa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Šelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Šelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "mora wa yena"
+    },
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T06:03:08.126246298Z",
+  "model": "glm-5.3"
+}

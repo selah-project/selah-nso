@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ya",
+      "rationale": "Sepedi e nyaka sekopanyi go gokaganya sehlogwana"
+    }
+  ],
+  "translation": "Pina, mokošo, ya bana ba Korakh.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "28f4083d8d3b98147ca1e9642c468f8f7ce93a957e56d8149347d86db5af5978",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/48\/1-4.1792297791897.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokošo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ya bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakh"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:51.897590103Z",
+  "model": "glm-5.3"
+}

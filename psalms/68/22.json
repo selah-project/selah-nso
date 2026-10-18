@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 68,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "theke",
+      "rationale": "קדקד ke theko ya hlogo — karolo ye e logago kgonthe, e sego 'hlogo' fela"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מתהלך באשמיו",
+      "rationale": "Hitpael e bolela 'go sepela go le gantsi ka boithatišo' — mo a sa inyorogi mengwageng ya dikabo tša gagwe"
+    }
+  ],
+  "translation": "Ka nnete Elohim o tla phutholola hlogo ya manaba a gagwe, theko e nang le moriri wa yo a sepelago bohle ka dikabong tša gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7d1ce227a1f20f3019b18c287bbf851593961d95f40d6f997cd7aca082101515",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/68\/21-24.1792298060676.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ka nnete"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "o tla phutholola"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ya manaba a gagwe"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "theko"
+    },
+    {
+      "surface": "שער",
+      "gloss": "e nang le moriri"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "yo a sepelago bohle"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "ka dikabong tša gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:20.677382092Z",
+  "model": "glm-5.3"
+}

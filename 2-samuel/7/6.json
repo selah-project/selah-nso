@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "thetentego",
+      "rationale": "אהל ke thetente; Mishkane bolokilwe ka mokgwa wa D2."
+    },
+    {
+      "kind": "measurement",
+      "subject": "go tloga... go fihla lehono",
+      "rationale": "palo ya nako — go tloga go tšwa Mitsrayime go fihla lehono."
+    }
+  ],
+  "translation": "Ka gobane ga se ke ga dula ntlong, go tloga letšatšing leo ke ntšhitšego ⟨את⟩ bana ba Yisraele go tšwa Mitsrayime, go fihla lehono; gomme ke be ke sepela ka thetentego le ka Mishkane.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b1ef885071b0e92929955911a85d1e3be452551a1c2c5ffcb0af6c864f7f98f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/7\/5-8.1792289000795.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se ke ga"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "dula"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "go tloga letšatšing"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "ke ntšhitšego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bana ba Yisraele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "go tšwa Mitsrayime"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "gomme ke be"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ke sepela"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ka thetentego"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "le ka Mishkane"
+    }
+  ],
+  "timestamp": "2026-10-18T02:03:20.796470118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 4:24",
+  "book": "judges",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "seatla sa bana ba Yisraele sa ya",
+      "rationale": "'Seatla' (יד) se emetše maatla le boikgwatho — e sego seatla sa mmele; 'go ya' (הלוך) le 'go thatafala' (וקשה) di bolela go fella pele ka pela-pela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "הכריתו",
+      "rationale": "Lentšu le bolela 'go ripa' (go kgaola) — 'go ripa' ka bowe ke sa go fenya ka go feletša; KJV e hlalosa 'go fetola' (destroy)."
+    }
+  ],
+  "translation": "Gomme seatla sa bana ba Yisraele sa ya, se fella pele, se thatafala godimo ga Yabine, kgoši ya Kenaane, bafe ba ripile ⟨את⟩ Yabine, kgoši ya Kenaane.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "cdb3339b56234e8368f94cfe0ee0ed683166f23aae1ad5c2123f837903bfc5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/4\/21-24.1792287275370.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "sa ya"
+    },
+    {
+      "surface": "יד",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "go fella pele"
+    },
+    {
+      "surface": "וקשה",
+      "gloss": "se thatafala"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yabine"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenaane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "bafe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "הכריתו",
+      "gloss": "ba ripile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yabine"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Yabine"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ya Kenaane"
+    }
+  ],
+  "timestamp": "2026-10-18T01:34:35.371442646Z",
+  "model": "glm-5.3"
+}

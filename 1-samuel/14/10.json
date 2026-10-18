@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עלו \/ ועלינו",
+      "rationale": "Boitshekantšhi bja modu: 'ēlogang' (taetšo ya bona) kgahlanong le 're ēla' (karolo ya Yonathane) — lentšu le tee la go ēloa, le bušwa gabedi; se sa lahlegwa ka Sepedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopula 'ke'; Seheberu ga se e na."
+    }
+  ],
+  "translation": "Gomme ge ba ka re ka mo: Ēlogang, le tle go rena, gomme re ēla, gobane Yahwe o ba file ka seatla sa rena; gomme se ke ⟨ke⟩ sesupo go rena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "10018b4478227d75f97b3a7f3bb705d85c3f89b6fcba2a78850440bfa3f2ce0c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/14\/9-12.1792288264963.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ka mo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ba ka re"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Ēlogang"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "le tle go rena"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "gomme re ēla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "o ba file"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "ka seatla sa rena"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "gomme se"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rena"
+    },
+    {
+      "surface": "האות",
+      "gloss": "ke sesupo"
+    }
+  ],
+  "timestamp": "2026-10-18T01:51:04.964531350Z",
+  "model": "glm-5.3"
+}

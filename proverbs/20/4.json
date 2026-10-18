@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "מחרף",
+      "rationale": "ba banegi ba bangwe ba ngwala 'sego sa mariga' goba 'lehuva la mariga'; 'mariga' e laetša nako ya go loma"
+    },
+    {
+      "kind": "substitution",
+      "subject": "letala",
+      "rationale": "עצל ke lentšu la go hloka mogato wa mošomo; 'letala' e lebisitše ka sebopego sa lentswe"
+    }
+  ],
+  "translation": "Ka lebaka la mariga letala ga le je go loma; ka nako ya go kgetha le tla kgopela, gomme ga go se sengwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0f9c7c64221fc5c6bfd97993f683221b708f6b467088b670700d2ab997dbd0cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/20\/1-4.1792299605308.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "ka lebaka la mariga"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "letala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "le je go loma"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "le tla kgopela"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ka nako ya go kgetha"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme ga go se sengwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:00:05.309715490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "bakgethwa",
+      "rationale": "הקדשים (ha-qedishim, 'the consecrated ones') rendered by KJV 'sodomites'; literally cult prostitutes — Sepedi keeps the consecration sense with -kgethwa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "הגללים literally 'the round logs', a contemptuous word for idols; rendered medimo (idols) since Sepedi has no word carrying the log-image."
+    },
+    {
+      "kind": "elision",
+      "subject": "bo-ntate-bagolo",
+      "rationale": "'Fathers' = ancestors; Sepedi plural form required by sense."
+    }
+  ],
+  "translation": "Gomme a ntšha bakgethwa go tšwa lefaseng, gomme a tloša ⟨את⟩ medimo yohle yeo bo-ntate-bagolo ba gagwe ba e dirilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ec9ef6b61e5365a130cda9d0125011fa2d62dea08417bea72f164226365200cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/15\/9-12.1792290120570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "a ntšha"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "bakgethwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "a tloša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "medimo yohle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yohle"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ba e dirilego"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntate-bagolo ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:22:00.571682243Z",
+  "model": "glm-5.3"
+}

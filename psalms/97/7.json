@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "to the gods",
+      "rationale": "Imperative 'worship him' addresses the gods (medimo) directly."
+    },
+    {
+      "kind": "crux",
+      "subject": "elohim",
+      "rationale": "Here אלהים is plural ('all you gods'), not Elohim the Name; lowercase medimo per D1."
+    },
+    {
+      "kind": "alternative",
+      "subject": "השתחוו",
+      "rationale": "Read as jussive 'let them bow' rather than pure imperative; context supports either."
+    }
+  ],
+  "translation": "A nyenyefale bašomi ba lešwantšho ka moka, bao ba ikakago ka medimo; kgumamang go yena, medimo ka moka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "90ca7e6f79129eb100cd2a224c5a80a2d7aa9fcba58f34eadf132578bf49818c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/97\/5-8.1792298506775.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "a nyenyefale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "bašomi ba"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "lešwantšho"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "bao ba ikakago"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "ka medimo"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "kgumamang"
+    },
+    {
+      "surface": "לו",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:41:46.776720932Z",
+  "model": "glm-5.3"
+}

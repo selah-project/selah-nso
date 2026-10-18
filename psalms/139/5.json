@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 139,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "o mpshetše",
+      "rationale": "צרתני go tšwa go צור 'go tsenya mošomong \/ go pshetša'; ba bangwe ba bala 'o nngwadileša' (יצר), go bopa — dipolelo tše pedi tše di tsebjago."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אחור וקדם",
+      "rationale": "pedi ka go kgoma — morago le pele — sephetho se tee sa go swana, se sa felelegago ka Sepedi."
+    }
+  ],
+  "translation": "Morago le pele o mpshetše, gomme o beletše letšatšo la gago godimo ga ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "23f34992f0abf9b1e73c5c3835e92c0678749504d7c9181fb223e4ca452c589f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/139\/5-8.1792299026707.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "morago"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "gomme pele"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "o mpshetše"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "gomme o beletše"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga ka"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "letšatšo la gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:26.707753395Z",
+  "model": "glm-5.3"
+}

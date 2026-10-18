@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בעצומיו",
+      "rationale": "Le ka ba 'diatla tša gagwe tša maatla' (tao ya tau, JPS 'claws') goba 'ba ba nonnego ba gagwe' (KJV 'his strong ones')."
+    },
+    {
+      "kind": "hapax",
+      "subject": "חלכאים",
+      "rationale": "Lentšu le ra 'bao ba hlokofaditswego' le hlaga ka go 5:9 (e le mo go seng kae) — le rare hahulu."
+    }
+  ],
+  "translation": "O thubega, o ikokobetša, gomme bao ba hlokofaditswego ba wa ka matla a gagwe a magolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "69f62e88b52dde268b8a777f9383ad20cf58fde3d420c1357272749c9bc674a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/10\/9-12.1792297241109.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "o thubega"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "o ikokobetša"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ba wa"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "ka matla a gagwe a magolo"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "bao ba hlokofaditswego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:41.110188751Z",
+  "model": "glm-5.3"
+}

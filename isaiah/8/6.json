@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ומשוש",
+      "rationale": "mahala-ka: 'o ikakantšha le Retisine' (go dumelelana le bona, bjalo ka KJV) kgahlanong le 'o ikgantšha ka' — bobedi bo dumelelwa."
+    },
+    {
+      "kind": "substitution",
+      "subject": "meetse a Shiloakh",
+      "rationale": "metswedi ya Yerushalayime e swantšhitšwe ka khotso; meetse a nokeng ao a tlang (setšatše 8:7) ke seswantšho sa seswantšho."
+    }
+  ],
+  "translation": "Ka gobane setšhaba se se gannego ⟨את⟩ meetse a Shiloakh ao a sepelago ka khotso, gomme se ikakantšha ka ⟨את⟩ Retisine le morwa wa Remaljahu,",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ae956f6740edf3dd83b534d5057fb32e69ecf81f5f871274daf64ff86e8c7017",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/8\/5-8.1792291292799.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "se ganne"
+    },
+    {
+      "surface": "העם",
+      "gloss": "setšhaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "meetse a Shiloakh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "a Shiloakh"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ao a sepelago"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "ka khotso"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "gomme se ikakantšha ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Retisine le morwa wa Remaljahu"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retisine"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "le morwa"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "wa Remaljahu"
+    }
+  ],
+  "timestamp": "2026-10-18T02:41:32.800199546Z",
+  "model": "glm-5.3"
+}

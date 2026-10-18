@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "Two imperatives close the psalm — 'Tšoga' (Arise!) and 'o re lokolole' (redeem us!) — a direct summons to Yahwe to act."
+    },
+    {
+      "kind": "you",
+      "subject": "to Yahwe",
+      "rationale": "Direct second-person plea addressed to Yahwe, grounded in his hesede."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Copula supplied: Hebrew says 'Arise, a help to us' without a verb of being."
+    }
+  ],
+  "translation": "Tšoga, o be ⟨ke⟩ thušo go rena, gomme o re lokolole bakeng sa hesede ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "17217f569acff8ee961a15015fd62000bc868b72aab02af2f64f532683fe88a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/44\/25-27.1792297735942.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "tšoga"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "thušo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "go rena"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "gomme o re lokolole"
+    },
+    {
+      "surface": "למען",
+      "gloss": "bakeng sa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "hesede ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:55.943514615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 1:5",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תוסיפו סרה",
+      "rationale": "KJV 'ye will revolt more' (statement) vs YLT 'ye add apostasy' (accusation); Sepedi latela kgopolo ya YLT ya go oketša sebe"
+    },
+    {
+      "kind": "you",
+      "subject": "setšhaba sa Yuda",
+      "rationale": "Potšišo ye e bitša setšhaba ka boena — sefoko sa go kgalwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "go hloka-botšo",
+      "rationale": "סרה ke go fapafapana le Yahwe; Sepedi e nyakile lentšu la seswantšho"
+    }
+  ],
+  "translation": "Go ka eng le ka tloga le otlega gape? Le ka oketša go hloka-botšo. Hlogo ka moka ⟨e⟩ lwala, le pelo ka moka e a babja.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "818241d23022fe02b67d7d043b9190ccc1e32e753c10d71bf5b6f521c7bc6dd2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/1\/5-8.1792291153439.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "go"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ka eng"
+    },
+    {
+      "surface": "תכו",
+      "gloss": "le otlega"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "תוסיפו",
+      "gloss": "le ka oketša"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "go hloka-botšo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hlogo"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "e lwala"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "le pela ka moka"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "e a babja"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:13.439781935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אמר יאמר",
+      "rationale": "Infinitive-absolute plus finite verb — 'saying he shall say' — plain speech emphasised; rendered as 'a bolela ka go re'."
+    },
+    {
+      "kind": "addition",
+      "subject": "le",
+      "rationale": "Conjunction 'le' supplied before the third object list item for natural Sepedi."
+    },
+    {
+      "kind": "elision",
+      "subject": "אמר",
+      "gloss-note": "",
+      "rationale": "The infinitive absolute is folded into the adverbial 'ka go re'; no separate word stands for it."
+    }
+  ],
+  "translation": "Gomme ge mohlanka a bolela ka go re: Ke ratile ⟨את⟩ morena wa ka, ⟨את⟩ mosadi wa ka le ⟨את⟩ bana ba ka; nka se tšwe a lokologile.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "4fb8d9a4ae9dd3e86665aa1bf4f2a60d7ed35013124515229867744d8ecf9064",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/21\/5-8.1792282918095.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "gomme ge"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "go bolela"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "a bolela ka go re"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "mohlanka"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ke ratile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morena wa ka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa ka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa ka"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "mosadi wa ka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nka se"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "tšwe"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "a lokologile"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:58.096136257Z",
+  "model": "glm-5.3"
+}

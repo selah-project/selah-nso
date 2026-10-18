@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 54:6",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 54,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כי תמאס",
+      "rationale": "KJY 'ge o gannego' (phego ya go fetoga) kgathanong le JPS 'a ka ganwa?' (potšišo); re latela go bala ga KJY"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨bjale ge⟩",
+      "rationale": "כי ya bobedi e hlalosa maemo, e hlotše kopanyo ya Sepedi"
+    }
+  ],
+  "translation": "Ka gobane Yahwe o go bitšile bjalo ka mosadi yo a tlošetšwego le yo a sotlegago ka ruakh, mosadi wa bonyana, yo a ganwago; a bolela Elohim wa gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e7d414f47096a4f253e65e462e261a681cb96d6a240a59df6707c891915566fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/54\/5-8.1792292365669.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כאשה",
+      "gloss": "bjalo ka mosadi"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "yo a tlošetšwego"
+    },
+    {
+      "surface": "ועצובת",
+      "gloss": "le yo a sotlegago"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ka ruakh"
+    },
+    {
+      "surface": "קראך",
+      "gloss": "o go bitšile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "נעורים",
+      "gloss": "wa bonyana"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨bjale ge⟩"
+    },
+    {
+      "surface": "תמאס",
+      "gloss": "yo a ganwago"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wa gago"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:25.670235413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 24,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ba baholo",
+      "rationale": "atsilei: 'ba baholo' (bajalefa) kgahlanong le 'ba a begago ka godi' ya Yesaya 41:9"
+    },
+    {
+      "kind": "idiom",
+      "subject": "go phatlalatša letšatši",
+      "rationale": "'šalach yado' — go otlolla seatla — ke temana ya Sepedi ya go nyatša; go boloka modumo wa Seheberu ka go phatlalatša"
+    }
+  ],
+  "translation": "Gomme go atsela ba baholo ba bana ba Yisraele ga a be a phatlalatša letšatši la gago; gomme ba lebelela ⟨את⟩ Elohim, gomme ba ja gomme ba noa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "76aab1f6f0da20091688ce2fda593455a4a3835a058e8c058584ccfbf9f6a1d6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/24\/9-12.1792282907606.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "ba baholo ba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a phatlalatša"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "letšatši la gago"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "ba lebelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ba ja"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "ba noa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:47.607234442Z",
+  "model": "glm-5.3"
+}

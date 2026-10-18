@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 30:13",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "למו",
+      "rationale": "Setho sa fela -mo ('go yena') se se fetotšwego selo se sengwe; se hlatsetšwe ka ⟨gohlare⟩ bjalo ka pontšo ya sehlopha."
+    },
+    {
+      "kind": "crux",
+      "subject": "yo a se nago mothuši",
+      "rationale": "לא־עזר למו: ba bangwe ba bona 'yo a se nago mothuši' (Yobe), ba bangwe 'ba ba se nago mothuši' (ba tlhaseli, KJV\/ASV)."
+    }
+  ],
+  "translation": "Ba ripa tsela ya ka, ba ipaša ka phoofo ya ka, yo a se nago mothuši ⟨gohlare⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cc2300392ea2cf92f3b6de8b78930383b51be9fdd5d0aa53af54fcd2212ec3e0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/30\/13-16.1792300622311.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נתסו",
+      "gloss": "ba ripa"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "tsela ya ka"
+    },
+    {
+      "surface": "להותי",
+      "gloss": "phoofo ya ka"
+    },
+    {
+      "surface": "יעילו",
+      "gloss": "ba ipaša"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "mothuši"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨gohlare⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T05:17:02.311809785Z",
+  "model": "glm-5.3"
+}

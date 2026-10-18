@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "בוטה",
+      "rationale": "lemma ya בוטא e hlaga ka tsela ye mo Tanakh — lentšu la go bolela ka tlhogo"
+    },
+    {
+      "kind": "crux",
+      "subject": "yo a bolelago ka tlhogo",
+      "rationale": "בוטה: ba bangwe ba balwa 'yo a hlaba ka lentšu', ba bangwe 'yo a bolela ka tsela e botse'"
+    }
+  ],
+  "translation": "Go na le yo a bolelago ka tlhogo, bjalo ka dintšha tša tšhoša; eupša leleme la ba hlalefi ke phegelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d2b247a064930752ec0018257715f3a815efa746933b395b4820daac39f82d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/12\/17-20.1792299417511.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "go na le"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "yo a bolelago ka tlhogo"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "bjalo ka dintšha"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tša tšhoša"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "eupša leleme"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "la ba hlalefi"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "phegelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:56:57.514693270Z",
+  "model": "glm-5.3"
+}

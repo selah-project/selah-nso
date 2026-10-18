@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 77,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mengwaga",
+      "rationale": "שנות: 'mengwaga' (KJV) kgatlhanong le 'diphetogo' (JPS, go tšwa go שנוי) — kganetšo ya kgale"
+    },
+    {
+      "kind": "addition",
+      "subject": "nna",
+      "rationale": "Sepedi e nyaka seengwa se fetogilego, Seheberu se se na sona"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bolwetši",
+      "rationale": "חלותי: go lwala\/go nwa mafatshe; KJV 'bophara bja ka', Geneva 'lehu la ka'"
+    }
+  ],
+  "translation": "Gomme nna ka re: bolwetši bja ka ke bjo — mengwaga ya seatla sa Elyone.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "94f15aab0e7be8426ea4d94049ee9dc4528a84cecdbc264dcd12098acb7a1a74",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/77\/10-11.1792305264872.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Gomme nna ka re"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "bolwetši bja ka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ke bjo"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "seatla"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    }
+  ],
+  "timestamp": "2026-10-18T06:34:24.873174632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 138,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "Seheberu 'nose\/apha' — se fetoletšwe bjalo ka tlhaselo (anger), sebopego sa lentšu se laela."
+    },
+    {
+      "kind": "substitution",
+      "subject": "ידך \/ ימינך",
+      "rationale": "'Letšatšo' e šumišwa bakeng sa sebopego sa matogo — se tlwaelegilego Sepeding."
+    }
+  ],
+  "translation": "Ge ke sepela gare ga bothata, o tla mpshafatša; kgahlanong le tlhaselo ya manaba a ka o romela letšatšo la gago, gomme letšatšo la gago la go ja le tla ntshokotša.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "03f768f62ec1f0d8e16514526a6444e1d58a2434200d049e7785a2c6cbe84cfd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/138\/5-8.1792299025967.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ke sepela"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "bothata"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "o tla mpshafatša"
+    },
+    {
+      "surface": "על",
+      "gloss": "kgahlanong le"
+    },
+    {
+      "surface": "אף",
+      "gloss": "tlhaselo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "manaba a ka"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "o romela"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "letšatšo la gago"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "gomme ... le tla ntshokotša"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "letšatšo la gago la go ja"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:25.969754662Z",
+  "model": "glm-5.3"
+}

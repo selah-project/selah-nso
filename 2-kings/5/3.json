@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "אחלי",
+      "rationale": "Sefoko sa go laketša: 'Ee, ge ... a ka ba'; go bolela se a se nyakago."
+    },
+    {
+      "kind": "substitution",
+      "subject": "יאסף",
+      "rationale": "Tlhakoro 'go kgoboketša' e šumišwa bjalo ka 'go ntšha'; 'a ka mo ntšha' e beile sebopego sa polokego."
+    }
+  ],
+  "translation": "Gomme a bolela go mong wa gagwe wa mosadi: Ee, ge mong wa ka a ka ba pele ga mopropheta yo a lego Shomeronike, o be a ka mo ntšha ⟨את⟩ bokgading ba gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a6a8d8d4ea4a9f3edbaec983a33844bc88ff8242752b0e5901fa3784aa65c7c3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/5\/1-4.1792290582309.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Gomme a bolela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "mong wa gagwe wa mosadi"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ee, ge"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa ka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "pele ga"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mopropheta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yo a lego"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "Shomeronike"
+    },
+    {
+      "surface": "אז",
+      "gloss": "o be"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "a ka mo ntšha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "bokgading ba gagwe"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "bokgading ba gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:29:42.310476185Z",
+  "model": "glm-5.3"
+}

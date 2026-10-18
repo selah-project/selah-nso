@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Ezekiel",
+      "rationale": "Yahwe addresses the fallen prophet directly: 'son of man, stand'."
+    },
+    {
+      "kind": "invitation",
+      "subject": "ema ka maoto a gago",
+      "rationale": "Imperative summons that opens the prophet's commissioning."
+    },
+    {
+      "kind": "crux",
+      "subject": "ben adam",
+      "rationale": "'Morwa wa motho' — literally 'son of man\/humanity', Ezekiel's title; not 'mortal' as a role-label."
+    }
+  ],
+  "translation": "Gomme a re go nna: Morwa wa motho, ema ka maoto a gago, gomme ke tla go bolela ⟨את⟩ wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2fa70f0dc9bac73f5fd46b045468bb0a495b2f46e4d916cb021c47c406292974",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/2\/1-4.1792294322492.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gomme a re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Morwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "wa motho"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ema"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "maoto a gago"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "gomme ke tla go bolela"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    }
+  ],
+  "timestamp": "2026-10-18T03:32:02.493315515Z",
+  "model": "glm-5.3"
+}

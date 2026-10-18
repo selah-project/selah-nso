@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "ויקבצו \/ ויקבץ",
+      "rationale": "go bušetšwa ga lentšu la go kgoboketša: Ba-Plisita ba kgobokana, Shaule o kgoboketša — sebopego sa go swana"
+    }
+  ],
+  "translation": "Gomme Ba-Plisita ba kgobokana, ba tsena, ba kampa ka Shuneme; gomme Shaule a kgoboketša ⟨את⟩ Yisraele ka moka, gomme ba kampa ka Gilboa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/28\/1-4.1792288730708.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ba kgobokana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Plisita"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ba tsena"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba kampa"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "ka Shuneme"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "a kgoboketša"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shaule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele ka moka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ba kampa"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "ka Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-18T01:58:50.709786910Z",
+  "model": "glm-5.3"
+}

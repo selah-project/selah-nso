@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 16,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש is throat\/life-force, not an immaterial 'soul'; 'go moya' holds the life-breath sense loosely."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צוף דבש \/ מתוק",
+      "rationale": "dripping honeycomb frames the whole verse; sweetness of words mirrors sweetness of honey — picture kept literal."
+    }
+  ],
+  "translation": "Kômbo ya madintši mantšu a botse, a monate go moya gomme a fodisa marapo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a2a26b2926c5a6c9d78f47c4d95bc9e829814a7a6e93bf4af424907c3800658b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/16\/21-24.1792299466803.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "kômbo"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ya madintši"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "a botse"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "a monate"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "go moya"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "gomme a fodisa"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "marapo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:57:46.806357104Z",
+  "model": "glm-5.3"
+}

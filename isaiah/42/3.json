@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "כהה",
+      "rationale": "'dim\/faint' — of a smoldering wick (KJV 'smoking', JPS 'dimly burning') vs merely 'feeble'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכבנה",
+      "rationale": "Feminine suffix -נה points back to the wick\/flax, tying the clause tightly to its object."
+    }
+  ],
+  "translation": "Lehlaku le rothoditšwego ga a tla le phatlalatša, gomme lesela la phašpane le bofila ga a tla le timaša; ka nnete o tla ntšha kahlolo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd2ca8d61bfceae2fe30530508ee3017504949d0dda979b6861b7814d17f8126",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/42\/1-4.1792292205582.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "lehlaku"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "le rothoditšwego"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "a tla le phatlalatša"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "gomme lesela la phašpane"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "le bofila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "a tla le timaša"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "ka nnete"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "o tla e ntšha"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kahlolo"
+    }
+  ],
+  "timestamp": "2026-10-18T02:56:45.583690179Z",
+  "model": "glm-5.3"
+}

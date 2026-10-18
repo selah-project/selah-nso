@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "בליעל",
+      "rationale": "'ba sa leago sephethwe' — sebopego sa lentšu ke 'ya se nago phethwe\/mohola', e sego leina la motho."
+    },
+    {
+      "kind": "elision",
+      "subject": "ו- ha bohleng ba ba-sa-leago-sephethwe",
+      "rationale": " kopana le leina, ga se kgokagano ya 'gomme'; Sepedi e hlopha ka tsela e nngwe."
+    }
+  ],
+  "translation": "Le bao ba sa leago sephethwe — bjalo ka dikolu tše di hlatšwego ke ka moka bona; ka gobane ga ba ka ke ba swarwa ka seatla.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b690968deb40faef342d74d4037030699f524e865a9c91e63673a58b67c483b7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/23\/5-8.1792289470216.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "le bao ba sa leago sephethwe"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "bjalo ka dikolu"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "tše di hlatšwego"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "ka moka bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga ba ka ke"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ba swarwa"
+    }
+  ],
+  "timestamp": "2026-10-18T02:11:10.217617200Z",
+  "model": "glm-5.3"
+}

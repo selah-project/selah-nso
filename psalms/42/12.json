@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 42,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya wa ka",
+      "rationale": "נפש ke moya wa bophelo — mogala wa momo, go lla, bophelo; ga se 'moea' ka boteng bo boletšego"
+    },
+    {
+      "kind": "crux",
+      "subject": "thokgolo ya sefahlego sa ka",
+      "rationale": "ישועת פני: 'thokgolo ya sefahlego sa me' (sefahlego sa moprofeta) kgatlhanong le 'ya sefahlego sa gagwe' (ya Elohim) — dikgethi tša bagatewayi di fapana"
+    },
+    {
+      "kind": "invitation",
+      "subject": "moya wa ka",
+      "rationale": "psalma e ipolelela moya wa yona ka boweni — go kgothaletšwa go bea tsholofelo go Elohim"
+    }
+  ],
+  "translation": "Ke eng wa ikhutsafatša, moya wa ka, gomme ke eng wa lla ka go nna? Bea tsholofelo go Elohim, gobe gape ke tla dumelela ⟨yena⟩, thokgolo ya sefahlego sa ka, le Elohim wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "dd0bffdb5820e29ed6499137322efd3aa7881cb0c2854312e051700e8e3994fb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/42\/9-12.1792297708034.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ke eng"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "wa ikhutsafatša"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "gomme ke eng"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "wa lla"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka go nna"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "bea tsholofelo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ke tla dumelela ⟨yena⟩"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "thokgolo"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ya sefahlego sa ka"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "le Elohim wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:28.035834384Z",
+  "model": "glm-5.3"
+}

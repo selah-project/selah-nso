@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "rerellang",
+      "rationale": "Sefoko se sa go laela se bitša ba lokilego go opela ka thabo go Yahwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "רננו",
+      "rationale": "Tlhaku ya Seheberu e bolela modumo wo mokgetlwa — 'go roroma ka thabo' ke go jatga gore o thabile."
+    }
+  ],
+  "translation": "Rerellang ka thabo, ba lokilego, go Yahwe; go ba tlhologelelo go lokile teboho.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f9ffe45fb34d931b0cbbb06d4112e266f1b27b006bca2088bcc7503e8e40fae5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/1-4.1792297544980.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "rerellang ka thabo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ba lokilego"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "go ba tlhologelelo"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "go lokile"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "teboho"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:44.980993916Z",
+  "model": "glm-5.3"
+}

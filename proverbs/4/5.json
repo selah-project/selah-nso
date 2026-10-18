@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "khokagano",
+      "rationale": "חכמה ke bokgoni bja go hlaphanya le go hlwaya phapano — Sepedi ga se na lentšu le tee le se swanago ka botlalo"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קנה…קנה",
+      "rationale": "go boeletša ga taelo go hlagisa — go boeletšwa gabedi go hlomilwe ka go lebeletšwa, go fokotšegile ka tsela ye nngwe"
+    },
+    {
+      "kind": "invitation",
+      "subject": "taelo ye",
+      "rationale": "matšhutisetši a go hwetša a bitša mogedi\/1"
+    }
+  ],
+  "translation": "Hwetša khokagano, hwetša go kwešiša; o se ke wa lebala, gomme o se ke wa tlogela mantšu a mošomo wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd9419f502958688fd0ea0b697c6bad33ee7ca2b6d4e0b770f35d3df457c15c4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/4\/5-8.1792299227649.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "hwetša"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "khokagano"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "hwetša"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "go kwešiša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "wa lebala"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תט",
+      "gloss": "wa tlogela"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a mošomo wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:53:47.650202253Z",
+  "model": "glm-5.3"
+}

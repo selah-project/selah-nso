@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a rena",
+      "rationale": "Sepedi demonstrative needed to render האלה 'these'"
+    },
+    {
+      "kind": "elision",
+      "subject": "אל",
+      "rationale": "בית אל is one place-name Bethele; the second token carries no separate gloss"
+    },
+    {
+      "kind": "measurement",
+      "subject": "מדי שנה בשנה",
+      "rationale": "yearly circuit itinerary: Bethel, Gilgal, Mizpah"
+    }
+  ],
+  "translation": "Gomme a sepela ka ngwaga le ngwaga, a dikhutla go Bethele le go Gilgale le go Misphe, gomme a ahlola ⟨את⟩ Yisraele go ⟨את⟩ mafelo ohle a rena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "cc126d82ab0bdd07b982bdc9d029e63a177d4ac923e938d784b748baead6cb1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/7\/13-16.1792287960408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "a sepela"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngwaga le ngwaga"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ka ngwaga"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "a dikhutla"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bethele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "Gilgale"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "Misphe"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "a ahlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mafelo ohle a rena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ohle"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "mafelo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "a rena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:46:00.410080646Z",
+  "model": "glm-5.3"
+}

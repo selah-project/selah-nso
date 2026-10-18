@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "go fihla go Tsoare",
+      "rationale": "continuation of the delimited survey with עד"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mošwang",
+      "rationale": "הככר is literally 'the circle\/round' — the Jordan circle plain"
+    }
+  ],
+  "translation": "le ⟨את⟩ Negebe, le ⟨את⟩ mošwang, sekala sa Yerikhoe, toropo ya dihintha, go fihla go Tsoare.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "915f56d21b0ce35b6ec202dd94e7633e5115049bbfadaf86f9de2c7eadd79037",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/34\/1-4.1792286437932.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Negebe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "mošwang"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "sekala sa"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Yerikhoe"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "ya dihintha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoare"
+    }
+  ],
+  "timestamp": "2026-10-18T01:20:37.933482491Z",
+  "model": "glm-5.3"
+}

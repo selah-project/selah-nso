@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וענה",
+      "rationale": "'bo arabela' (answer\/testify, KJV\/JPS) kgahlanong le 'bo a tlotofaditšwa' (be humbled, YLT); both possible from ענה."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יכשלו \/ כשל",
+      "rationale": "Kgokgokgolo ya go thotheka ga šupa makga a mabedi; sebopego se a bolokwa ka go bošwa ga lentšu."
+    }
+  ],
+  "translation": "Gomme boihlogo bja Yisraele bo arabela sefateng sa ⟨gagwe⟩; gomme Yisraele le Efrayime di tla thotheka mebeong ya tšona; go thothekile gape Yehuda le bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "33bc10890e812f1962563ffdd9e8a23024e53304a18fe3407db9381355926979",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/5\/5-8.1792295917971.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "bo arabela"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "boihlogo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "sefateng sa ⟨gagwe⟩"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "gomme Yisraele"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "le Efrayime"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "di tla thotheka"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "mebeong ya tšona"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "go thothekile"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "le bona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:58:37.971693445Z",
+  "model": "glm-5.3"
+}

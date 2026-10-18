@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 52:16",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "לכרמים וליגבים",
+      "rationale": "dihlogo tše pedi tša mošomo — baetsi ba mere le babee ba mmu; ditemana tše dingwe di bulela 'bašomi ba bokgoni' (2 Mal. 25:12)."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מדלות",
+      "rationale": "kelohlogo ya lefoko le tee le lekgolo la mehleng ya go hudušwa (52:15 le 16), se bontšha go swana ga boditšhabatšhaba bja kahlolo ye."
+    }
+  ],
+  "translation": "Mme bahlatši ba lefase, Nevuzaradane, mogolo wa badiredi, o ba tlogetše ba tlhokomela mere le go bea.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "147537507fc136d2a289e7cf3030d02b180097892482214ddc60f25bb2116285",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/52\/13-16.1792294299108.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומדלות",
+      "gloss": "gomme bahlatši"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ba lefase"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "o ba tlogetše"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Nevuzaradane"
+    },
+    {
+      "surface": "רב",
+      "gloss": "mogolo"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wa badiredi"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "ba tlhokomela mere"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "gomme go bea"
+    }
+  ],
+  "timestamp": "2026-10-18T03:31:39.109848510Z",
+  "model": "glm-5.3"
+}

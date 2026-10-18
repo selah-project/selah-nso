@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "selekane",
+      "rationale": "זונה: kgethišano gare ga 'mosadi yo a hwekago' le 'selekane'; mo se tsejwa ka diaparo tša yona, e sego ka sebopego"
+    },
+    {
+      "kind": "substitution",
+      "subject": "yo a boleregago pelo",
+      "rationale": "נצרת לב ka nnete ke 'yo a rwalelego pelo' — e ra go hloka botee, e fetoletšwe bjalo ka bohlenong"
+    }
+  ],
+  "translation": "Gomme lebelela, mosadi a mo fihla, a apere diaparo tša selekane, yo a boleregago pelo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "fbac9cc4dd90a4963e5eba25fd1b7a5243986de6745fb49ce8abd68ad9e327de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/7\/9-12.1792299268190.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "Gomme lebelela"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "mosadi"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "a mo fihla"
+    },
+    {
+      "surface": "שית",
+      "gloss": "a apere diaparo tša"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "selekane"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "yo a boleregago"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:54:28.191740469Z",
+  "model": "glm-5.3"
+}

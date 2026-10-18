@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 29,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ba foka",
+      "rationale": "יפיחו: 'go foka' (moya) — KJV 'ba tsea mootse mo sehlareng' kgathanong le ASV\/JPS 'ba fiša mootse'; go foka ga moya ke modumo wa motheo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bohale",
+      "rationale": "אף ka boliterale ke 'nose\/sepini' — sebopego sa bogale sa Seheberu se lahlegile"
+    }
+  ],
+  "translation": "Banna ba go segiša ba foka mootse; gomme bahlalefi ba bušetša bohale.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c644f8531f7bbd514f8bcfd93b0aaa606ef3edfad4bbfd71ecdbde04cafbe7dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/29\/5-8.1792299936703.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "banna ba"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "go segiša"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "ba foka"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "mootse"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "gomme bahlalefi"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ba bušetša"
+    },
+    {
+      "surface": "אף",
+      "gloss": "bohale"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:36.704341486Z",
+  "model": "glm-5.3"
+}

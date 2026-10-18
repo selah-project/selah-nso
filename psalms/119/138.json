@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 138,
+  "ref": "psalms 119:138",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 119,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "צדק",
+      "rationale": "Go ya ka moralo goba go hlalosa: 'o laeditše tsedeke ka bopaki' (JPS) kgahlanong le 'bopaki bja gago bo a loka' (KJV)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "boikgethelo",
+      "rationale": "אמונה ke go tiilego go se fetoge — 'boikgethelo' bo seka se bo swara ka botlalo"
+    }
+  ],
+  "translation": "O laeditše ⟨את⟩ tsedeke ka bopaki bja gago, gomme boikgethelo kudu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b987db0bca1f7e9f00ff1062d3b0206eed3bf04da98588dd2b441e88a71559a4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/119\/137-140.1792298831472.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "צוית",
+      "gloss": "o laeditše"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedeke"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "bopaki bja gago"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "gomme boikgethelo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kudu"
+    }
+  ],
+  "timestamp": "2026-10-18T04:47:11.473582328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dithapelo",
+      "rationale": "הגיון ke modumo wa go Dinoka-godimo, go ithuta ka go ipolela — e sego fela 'dithapelo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "leswika",
+      "rationale": "צור ke leswika le lebole — e sego 'maatla' bjalo ka dikgati tše ntši"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Thapelo ye e bitša Yahwe ka tlasebja — go bolela kgauswi"
+    }
+  ],
+  "translation": "A be mantšu a molomo wa ka, le dithapelo tša pelo ya ka, bakeng sa thabo pele ga sebopego sa gago, Yahwe, leswika la ka le mohlophi wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ab223a6635e9dbb49aa4a0363b93f0cc301ce685932b0143bda6c6fac7b8865e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/19\/13-15.1792297346194.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "a be"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "bakeng sa thabo"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "mantšu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "a molomo wa ka"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "le dithapelo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "tša pelo ya ka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "pele ga sebopego sa gago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "leswika la ka"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "le mohlophi wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:22:26.195700944Z",
+  "model": "glm-5.3"
+}

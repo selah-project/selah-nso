@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 105,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "karolo",
+      "rationale": "חבל ka boikgethelo e bolela 'thapo ya go ela' (mošomo wa go ela lefase); 'karolo' ke sebopego sa bokgoni, thapo e lahlegile"
+    },
+    {
+      "kind": "you",
+      "subject": "Go wena",
+      "rationale": "Pušo ye e lebela Abrahama le Yisraele ka tlwaelo — lonetšo la abetši"
+    }
+  ],
+  "translation": "go bolela gore: Go wena ke tla fa ⟨את⟩ lefase la Kenayana, karolo ya boswa bja lona",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "281b702be77580cfef6a9e9522809a895b22fdd38e94667581fa73996f316440",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/105\/9-12.1792298632339.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "go bolela gore"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Go wena"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lefase la Kenayana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "la Kenayana"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "karolo"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ya boswa bja lona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:43:52.339840999Z",
+  "model": "glm-5.3"
+}

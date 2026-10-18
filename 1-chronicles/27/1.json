@@ -1,0 +1,148 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 27:1",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "masomepedi le nne dikete",
+      "rationale": "Palo ya sehlabelo sa mohlakore — masomepedi le nne dikete (24 000) ka kgwedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "go be go na le",
+      "rationale": "Seheberu ga se na copula; Sepedi e e nyaka."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mohlakore",
+      "rationale": "מחללקת ke 'mahlakore\/karolo' ya botho, e sego leina la sesole fela."
+    }
+  ],
+  "translation": "Gomme bana ba Yisraele go ya ka palo ya bona — dihlogo tša bo-ntate, dikgoši tša dikete le tša makgolo a mabedi, le bao ba laolago ba tšona, ba šomelago ⟨את⟩ kgoši go taba ye nngwe le ye nngwe ya mahlakore, ao a tsenago le a tšwago kgwedi ka kgwedi, go dikgwedi ka moka tša ngwaga — mohlakoreng o mongwe le o mongwe ⟨go be go na le⟩ masomepedi le nne dikete.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "7457e84ce4292d8094b74b6dddfd3ee06a3ab4847d01b152933f00ac85d65b00",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/27\/1-4.1792303500105.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Gomme bana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ba Yisraele"
+    },
+    {
+      "surface": "למספרם",
+      "gloss": "go ya ka palo ya bona"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "dihlogo"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "tša bo-ntate"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "le dikgoši"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "tša dikete"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "le tša makgolo a mabedi"
+    },
+    {
+      "surface": "ושטריהם",
+      "gloss": "le bao ba laolago ba tšona"
+    },
+    {
+      "surface": "המשרתים",
+      "gloss": "ba šomelago"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kgoši"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go taba ye nngwe le ye nngwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "taba"
+    },
+    {
+      "surface": "המחלקות",
+      "gloss": "ya mahlakore"
+    },
+    {
+      "surface": "הבאה",
+      "gloss": "eo e tsenago"
+    },
+    {
+      "surface": "והיצאת",
+      "gloss": "gomme e tšwago"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "kgwedi"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ka kgwedi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "go"
+    },
+    {
+      "surface": "חדשי",
+      "gloss": "dikgwedi"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ka moka tša ngwaga"
+    },
+    {
+      "surface": "המחלקת",
+      "gloss": "mohlakoreng"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "o mongwe le o mongwe"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "masomepedi"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "le nne"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    }
+  ],
+  "timestamp": "2026-10-18T06:05:00.106376255Z",
+  "model": "glm-5.3"
+}

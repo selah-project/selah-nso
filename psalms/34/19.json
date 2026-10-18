@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba ruakh e phuthetšwego",
+      "rationale": "דכאי ke 'ba phefatšwego go ba lerole' — sehlabelo sa go phuthetšwa; sehwahla sa 'crushed\/contrite' sa se tšwa go seripa se sengwe"
+    },
+    {
+      "kind": "addition",
+      "subject": "ba",
+      "rationale": "Pronoun e okeditšwe go hlaloša gore ba bolelwago ke bafe"
+    }
+  ],
+  "translation": "Yahwe o kgauswi le ba pelo e robetšwego, gomme ba ruakh e phuthetšwego o ba lokolla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "deacfc4a563e0f4dbb1bc795bbc0156b1a79fc87098c7cd4335ebe683ef5b97d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/34\/17-20.1792297540804.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "o kgauswi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "le ba e robetšwego"
+    },
+    {
+      "surface": "לב",
+      "gloss": "pelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ba ruakh e phuthetšwego"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "ba e phuthetšwego"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "o ba lokolla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:40.805548753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 4:23",
+  "book": "ezra",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "באדרע וחיל",
+      "rationale": "Literally 'with arm and strength' — rendered 'ka maatla le nonofo' to keep the doubled force figure"
+    },
+    {
+      "kind": "hapax",
+      "subject": "פרשגן",
+      "rationale": "paršegen, 'copy of a document', appears in the Tanakh only in the Aramaic of Ezra"
+    },
+    {
+      "kind": "addition",
+      "subject": "go ya go",
+      "rationale": "Sepedi needs the motion verb 'ya' with 'go' where Aramaic uses a single preposition על"
+    }
+  ],
+  "translation": "Ka nako yeo, go tšwa ge khophi ya ngwalwa ya Artakhšashta kgoši e ile ya balwa pelong ya Rekume, le Šimšai mongwadi, le bašakani ba bona, ba ile ka pela go Yerushalayime go ya go Bajuda, gomme ba ba emišitše ka maatla le nonofo.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "ca046bd20883f9f08a14a02e1631db62ac592dcc0489c9ca31f3ea7e47e36d82",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/4\/21-24.1792302243782.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Ka nako yeo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "די",
+      "gloss": "ge"
+    },
+    {
+      "surface": "פרשגן",
+      "gloss": "khophi"
+    },
+    {
+      "surface": "נשתונא",
+      "gloss": "ya ngwalwa"
+    },
+    {
+      "surface": "די",
+      "gloss": "ya"
+    },
+    {
+      "surface": "ארתחששתא",
+      "gloss": "Artakhšashta"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "e ile ya balwa"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "pelong ya"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "Rekume"
+    },
+    {
+      "surface": "ושמשי",
+      "gloss": "le Šimšai"
+    },
+    {
+      "surface": "ספרא",
+      "gloss": "mongwadi"
+    },
+    {
+      "surface": "וכנותהון",
+      "gloss": "le bašakani ba bona"
+    },
+    {
+      "surface": "אזלו",
+      "gloss": "ba ile"
+    },
+    {
+      "surface": "בבהילו",
+      "gloss": "ka pela"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "go Yerushalayime"
+    },
+    {
+      "surface": "על",
+      "gloss": "go ya go"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "Bajuda"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "gomme ba ba emišitše"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ba"
+    },
+    {
+      "surface": "באדרע",
+      "gloss": "ka maatla"
+    },
+    {
+      "surface": "וחיל",
+      "gloss": "le nonofo"
+    }
+  ],
+  "timestamp": "2026-10-18T05:44:03.783332279Z",
+  "model": "glm-5.3"
+}

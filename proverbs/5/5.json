@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "Sheole",
+      "rationale": "שאול ga se dihele goba kotlo — lefase la bafu, le ngwalwa ka modumo wa lona (D2)"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "maoto\/mehambo",
+      "rationale": "paralele: maoto–mehambo, lehufa–Sheole; mokgwa wa Sepedi o boloka sebopego"
+    }
+  ],
+  "translation": "Maoto a yona a theogela lehufa; mehambo ya yona e kgoma Sheole.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "634bdf2d6c230691f8124e9cca7f27563ca1031179649cca180354209e6297ba",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/5\/5-8.1792299199075.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "maoto a yona"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "a theogela"
+    },
+    {
+      "surface": "מות",
+      "gloss": "lehufa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sheole"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "mehambo ya yona"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "e kgoma"
+    }
+  ],
+  "timestamp": "2026-10-18T04:53:19.076398948Z",
+  "model": "glm-5.3"
+}

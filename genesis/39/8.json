@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "nso",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "אתי",
+      "rationale": "Hebrew preposition 'with me' (H854), not the direct-object marker; carried as ⟨את⟩ ka nna per corpus convention."
+    },
+    {
+      "kind": "substitution",
+      "subject": "מה",
+      "rationale": "interrogative 'what?' rendered as relative 'se se lego' (that which is), following the idiom 'he knows not what is in the house'."
+    },
+    {
+      "kind": "you",
+      "subject": "to the master's wife",
+      "rationale": "Yosefe directly addresses mosadi wa mong wa yena; direct speech refusing her."
+    },
+    {
+      "kind": "addition",
+      "subject": "ka nna",
+      "rationale": "Sepedi needs the prepositional phrase ka nna to render אתי 'with me' explicitly."
+    }
+  ],
+  "translation": "Gomme a gana, a bolela go mosadi wa mong wa yena: Bonwe, mong wa ka ga a tseba se se lego ka nna ⟨את⟩ mo ntlong, gomme se sengwe le se sengwe seo a nago le sona o se file seatleng sa ka.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "1f32a349ae835460cb002ead636218179cd7919d444b51e163d08485210d32ab",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/39\/8-8.1792304542956.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "gomme a gana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi wa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "mong wa yena"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Bonwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "mong wa ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "a tseba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ka nna",
+      "marks": "se se lego mo ntlong"
+    },
+    {
+      "surface": "מה",
+      "gloss": "se se lego"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "mo ntlong"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme se sengwe le se sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "seo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "a nago"
+    },
+    {
+      "surface": "לו",
+      "gloss": "le sona"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "o se file"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "seatleng sa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T06:22:22.956596147Z",
+  "model": "glm-5.3"
+}

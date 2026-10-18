@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 34,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "על חמץ",
+      "rationale": "'go bolaeya ga bowa madi' — Seheberu se re שחט על חמץ; ba fetoleli ba bangwe ba re 'kgotle ka bowa' goba 'go bowa go se kgone go lokišwa'"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ילין לבקר",
+      "rationale": "'a se ke wa dula go fihla bosasa' — lentšu לין le bolela go dula bosigo, mo se hlalosa go sa swanela go sala"
+    }
+  ],
+  "translation": "O se ke wa bolaeya ka bowa madi a sehlabelo sa ka; gomme sehlabelo sa moletlo wa Paseka a se ke wa se tlogela go fihla bosasa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2d6bd0adbc87d9a368c6f1c18a6b150108173d678c61e712bcb3ca3b2ecaa4ec",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/34\/25-28.1792283275230.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "wa bolaeya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "bowa"
+    },
+    {
+      "surface": "דם",
+      "gloss": "madi"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "sehlabelo sa ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "wa se tlogela go dula"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "go fihla bosasa"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sehlabelo"
+    },
+    {
+      "surface": "חג",
+      "gloss": "moletlo"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "wa Paseka"
+    }
+  ],
+  "timestamp": "2026-10-18T00:27:55.231572735Z",
+  "model": "glm-5.3"
+}

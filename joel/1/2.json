@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Theelang se, bagolo",
+      "rationale": "Mošomo o bitša baleedi ka boikgafišo bja go theetla."
+    },
+    {
+      "kind": "you",
+      "subject": "bagolo le ba dulago lefaseng",
+      "rationale": "Boledisi bja ka mo go lebanya go setšhaba ka moka."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨Na⟩",
+      "rationale": "Seheberu se nga se photse; potšišo e nyakega go bontšha sebolelo sa potšišo."
+    }
+  ],
+  "translation": "Theelang se, bagolo, gomme theelang ka tšhomi, ba bagolo yo ba dulago lefaseng ka moka. Na se seile ge le sa le gona matsatsing a lona, goba le ka matsatsing a bo-ntate lona?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "45ec4144656b393b5be42ca51f70630482d559c7d6c577947af9d11450d8110e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joel\/1\/1-4.1792296096976.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Theelang"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "bagolo"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "gomme theelang ka tšhomi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ba dulago"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefaseng"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "Na se seile"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "se"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "matsatsing a lona"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "goba le"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "matsatsing a"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "bo-ntate lona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:01:36.977733555Z",
+  "model": "glm-5.3"
+}

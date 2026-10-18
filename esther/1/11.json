@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 1:11",
+  "book": "esther",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "a apere",
+      "rationale": "Hebreu ga e bolele gore o a e apara — korona e hlagile fela"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Hebreu ga e na kopula; ḿe היא e emiswe ka 'motho'"
+    }
+  ],
+  "translation": "go tliša ⟨את⟩ Washeti kgošikgadi go ya pele ga kgoši, a apere korona ya bogoši, go bontšha ditšhaba le badisa ⟨את⟩ botele bja yena, ka gobane ⟨ke⟩ motho wa sebopego se sebotse.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "fe5a3fb65ca18f924811ba7cb1573bd07e27d81351854287fbf50aec3b545b39",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/1\/9-12.1792301576677.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "להביא",
+      "gloss": "go tliša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Washeti kgošikgadi"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Washeti"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "kgošikgadi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "go ya pele ga"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "בכתר",
+      "gloss": "a apere korona"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ya bogoši"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "go bontšha"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "le badisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "botele bja yena"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "botele bja yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "wa sebotse"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "wa sebopego"
+    },
+    {
+      "surface": "היא",
+      "gloss": "motho"
+    }
+  ],
+  "timestamp": "2026-10-18T05:32:56.679033339Z",
+  "model": "glm-5.3"
+}

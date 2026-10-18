@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 25:21",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "a lelekwa",
+      "rationale": "גלה ka tlwaelo ke go seswa gagolwa; mo go bolela go lelekwa ga Juda go tšwa nageng"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mmu wa yona",
+      "rationale": "אדמה ke mmu (go tšwa go botsomamera), e fapana le ⟨lefase⟩ ya ארץ"
+    }
+  ],
+  "translation": "Gomme kgoši ya Babylona a hlaba ⟨את⟩ bona, a ba bolaya ka Ribleha, lefasing la Hamate; gomme Juda a lelekwa go tšwa go mmu wa yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "43deb50f9c9195ae2a5429a20e9ba63de09b553f0d1058b0d9c7c695a2e3c499",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/25\/21-24.1792291172829.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "a hlaba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ya Babylona"
+    },
+    {
+      "surface": "וימיתם",
+      "gloss": "a ba bolaya"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "ka Ribleha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lefasing"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "la Hamate"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "a lelekwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Juda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "go tšwa go"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "mmu wa yona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:39:32.830669827Z",
+  "model": "glm-5.3"
+}

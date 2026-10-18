@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 51:5",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אלמן",
+      "rationale": "Tema e bolela 'yo a lahlegilweng bjalo ka yo a hlakantšhweng' — diphetolelo di fapana: 'widowed\/forsaken' (KJV) le 'widowed' (JPS); go lahlwa ke monyadiwa ke seswantšho sa motheo."
+    },
+    {
+      "kind": "substitution",
+      "subject": "sebe",
+      "rationale": "אשם ke bothata bo bo botho — sehlôho goba sehlabelo sa sebe; 'sebe' e tloša modu wa sehlabelo."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "מקדוש ישראל",
+      "rationale": "Leina la bokgethwa le boela morago ga tlhaselo ya sebe — tšhitišo ya kgahlano: lefase la tletša sebe go Mokgethwa wa Yisraele."
+    }
+  ],
+  "translation": "Ka gobane Yisraele ga se molahlediwe, le Yeuda, go tšwa go Elohim wa gagwe, go tšwa go Yahwe Tsebaote; ka gobane lefase la bona la tletša sebe go Mokgethwa wa Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "82c3b9a6ca7a0e787b7bad66e3b682316d48e30fcbd34ecc782917694fecd745",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/51\/5-8.1792294198716.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "אלמן",
+      "gloss": "molahlediwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "le Yeuda"
+    },
+    {
+      "surface": "מאלהיו",
+      "gloss": "go tšwa go Elohim wa gagwe"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "go tšwa go Yahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsebaote"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "lefase la bona"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "la tletša"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "sebe"
+    },
+    {
+      "surface": "מקדוש",
+      "gloss": "go Mokgethwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T03:29:58.717475824Z",
+  "model": "glm-5.3"
+}

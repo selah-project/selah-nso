@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nahum 2:6",
+  "book": "nahum",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "sephuthedi (הסכך)",
+      "rationale": "KJV 'the defence', JPS 'mantelet' — sekgoba sa go itšhireletša se se ahilwego godimo ga diboto; mohuta wo o nyenyane wa Seheberu o bušwa ka mo go sa nepagalago"
+    },
+    {
+      "kind": "alternative",
+      "subject": "מִי",
+      "rationale": "Mang yo a gopolago — kgoši ya Nineve (KJV) goba modiri wa yona; Seheberu ga se bolele ka pela"
+    }
+  ],
+  "translation": "O gopola bagodi ba gagwe; ba tlhotsela go sepela ga bona; ba kittafatša go leboto la yona, gomme sephuthedi se hlotšwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f17016049f1019e14771de4c3f2cf32c6d86157f09b6dfb9a89a9c8669f908d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nahum\/2\/5-8.1792296589618.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יזזכר",
+      "gloss": "o gopola"
+    },
+    {
+      "surface": "אדיריו",
+      "gloss": "bagodi ba gagwe"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ba tlhotsela"
+    },
+    {
+      "surface": "בהלכותם",
+      "gloss": "go sepela ga bona"
+    },
+    {
+      "surface": "ימהרו",
+      "gloss": "ba kittafatša"
+    },
+    {
+      "surface": "חומתה",
+      "gloss": "go leboto la yona"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "gomme se hlotšwe"
+    },
+    {
+      "surface": "הסכך",
+      "gloss": "sephuthedi"
+    }
+  ],
+  "timestamp": "2026-10-18T04:09:49.619377886Z",
+  "model": "glm-5.3"
+}

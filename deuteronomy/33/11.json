@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 33:11",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מתנים",
+      "rationale": "'mokate\/tharing' — mahlabelo a emetšwego e šireletša sebopego sa 'go thula mokate'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "קמיו \/ יקומון",
+      "rationale": "go boa ga qomo go tšwa qomong e tee — 'bao ba emelago ba se ke ba emela gape'; se latela Sepedi ka go boakanya emela\/tlhalanela"
+    },
+    {
+      "kind": "elision",
+      "subject": "מן",
+      "gloss-e": "—",
+      "rationale": "'mokgatla' o ela ka go boakanya — sebopego sa go se bue se hlakile ka moka"
+    }
+  ],
+  "translation": "Yahwe, o tlogo\/okeletša maatla a gabo, gomme mošomo wa matogo a gagwe o o dumele; o thule mahlabelo a bao ba mo emelago, gomme bao ba mo hloilego — ba se ke ba tlhalanela.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "77d40ea29f102d9d8aff5a4584383bf911f798bf42e0cebab41778bb53c3cc1e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/33\/9-12.1792286379490.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברך",
+      "gloss": "o tlogo\/okeletša"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "maatla a gabo"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "gomme mošomo"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "wa matogo a gagwe"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "o o dumele"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "o thule"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "mahlabelo a bao ba mo emelago"
+    },
+    {
+      "surface": "קמיו",
+      "gloss": "bao ba mo emelago"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "gomme bao ba mo hloilego"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "ba tlhalanela"
+    }
+  ],
+  "timestamp": "2026-10-18T01:19:39.491263680Z",
+  "model": "glm-5.3"
+}

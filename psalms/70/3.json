@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 70,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "nefesh ke 'moya wa bophelo \/ sephego sa bophelo', e sego 'moya' feela ka boona."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "יבשו\/ויחפרו\/ויכלמו",
+      "rationale": "Pelelo ya mantsu a mane a maikutlo a manasi a mabelo-pedi, sebopego se a laleditšwa ke go tliša ga sefoko se sengwe le se sengwe."
+    }
+  ],
+  "translation": "Ba tloge ba nyenyetšwe gomme ba tloge ba swarwe ke maikutlo a manasi, bao ba nyakago ⟨את⟩ moya wa ka wa bophelo; ba boele morago gomme ba tloge ba sotloa, bao ba ratago bowo bja ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7460f835e149b447375fa1fedeeda630ef165f4394ff2d5a21b9823cfa1060d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/70\/1-4.1792298045538.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ba tloge ba nyenyetšwe"
+    },
+    {
+      "surface": "וגחפרו",
+      "gloss": "gomme ba tloge ba swarwe ke maikutlo a manasi"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "bao ba nyakago"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka wa bophelo",
+      "marks": "moya wa ka wa bophelo"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "ba boele morago"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "morago"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "gomme ba tloge ba sotloa"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "bao ba ratago"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "bowo bja ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:05.539995017Z",
+  "model": "glm-5.3"
+}

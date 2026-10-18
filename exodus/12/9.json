@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 12:9",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "כי אם",
+      "rationale": "the pair 'כי אם' is one restrictive 'but only'; glossing each separately would double it"
+    },
+    {
+      "kind": "substitution",
+      "subject": "maoto",
+      "rationale": "כרעיו is dual, legs from knee to ankle"
+    },
+    {
+      "kind": "alternative",
+      "subject": "קרבו",
+      "rationale": "'mo teng ga yona' — the inner parts; literally its inward part"
+    }
+  ],
+  "translation": "Le se ke la ja go tšwa go yona e sa apeilwe, goba e apilwe ka metsi ka moka, efela e fišwe ka mollong; hlogo ya yona godimo ga maoto a yona le mo teng ga yona.",
+  "provenance": {
+    "system-sha256": "24f00113e3b121e9b95e2ccf5a651357778f494e3f9bd9fa2b770ac9d2daaabf",
+    "user-sha256": "03c8e6ad77d0ee0aeb033797fb4e62a140a8c314bc101fddcd8e6bd5172c51fd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/12\/9-12.1792282589591.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "le se ke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "la ja"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go tšwa go yona"
+    },
+    {
+      "surface": "נא",
+      "gloss": "e sa apeilwe"
+    },
+    {
+      "surface": "ובשל",
+      "gloss": "goba e apilwe"
+    },
+    {
+      "surface": "מבשל",
+      "gloss": "e apilwe ka moka"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka metsi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "efela"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "צלי",
+      "gloss": "e fišwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ka mollong"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "hlogo ya yona"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "maoto a yona"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "le mo"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "teng ga yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:16:29.592649161Z",
+  "model": "glm-5.3"
+}

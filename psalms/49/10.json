@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 49,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "השחת",
+      "rationale": "lebitla\/phuthego (sheol) kgatlhanong le 'bolaye-tlhago' (KJV corruption) — shakhat ke sefala leo go hwelelwa go lona"
+    },
+    {
+      "kind": "you",
+      "subject": "mohlanka wa mmopi",
+      "rationale": "Tšebe ya 49 e hudulela moemedi wa sekgoa yo mongwe le yo mongwe: o se ke wa tšhoa mašutu"
+    }
+  ],
+  "translation": "A dule a phela go ya le nako yeo, a se ke a bona ⟨את⟩ lebitla.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "07a09197444b8ba553ea899406abd9453ff4ed45de683c7988dfd30e845fe201",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/49\/9-12.1792297768492.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "a dule a phela"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "go ya le"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "nako yeo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "a bona"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "lebitla"
+    }
+  ],
+  "timestamp": "2026-10-18T04:29:28.492999700Z",
+  "model": "glm-5.3"
+}

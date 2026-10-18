@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמרה\/נצרה",
+      "rationale": "Dithoakanyo tše pedi tša go lebelela tše di latelanago — mokgwa wa sehlare woo o nyamela go Sepedi."
+    },
+    {
+      "kind": "addition",
+      "subject": "la",
+      "rationale": "`על` e fetošitšwe go kopanya go latelana ga `דל שפתי`; go sego tlhamane."
+    }
+  ],
+  "translation": "Beha, Yahwe, molebedi mothong wa ka; boloka lebati la mollwane wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d8d5ab5faecd126e6dd5f69cf8d88ebaaed02bba0296454339c2cfc5c4280d5d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/141\/1-4.1792299057657.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Beha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "molebedi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "mothong wa ka"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "boloka"
+    },
+    {
+      "surface": "על",
+      "gloss": "la"
+    },
+    {
+      "surface": "דל",
+      "gloss": "lebati"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "mollwane wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:50:57.659039182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש ke mokopu\/mošomo wa bophelo, e sego 'moya' goba 'moya wa ka moya'."
+    },
+    {
+      "kind": "crux",
+      "subject": "e bušetša",
+      "rationale": "משיבת — 'go bušetša' (go boa) kgathanong le 'go fetola' (converting) goba 'go phediša' (reviving)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "yo a sa tsebego",
+      "rationale": "פתי ke yo a ka lahlego ka bonolo — 'sefofu' ka Sepedi ke yo a sa bonago."
+    }
+  ],
+  "translation": "Torah ya Yahwe e phethagetše, e bušetša ⟨את⟩ bophelo; bošupi bja Yahwe bo tshepagala, bo dira bohlale ⟨את⟩ yo a sa tsebego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/19\/5-8.1792297397408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Torah ya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "e phethagetše"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "e bušetša"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "bophelo"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "bošupi bja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "bo tshepagala"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "bo dira bohlale"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "yo a sa tsebego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:17.409205499Z",
+  "model": "glm-5.3"
+}

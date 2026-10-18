@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 90,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "dikete tša mengwaga",
+      "rationale": "Pale ya nako — sekete sa mengwaga, letšatši, mošomo wa bosigo"
+    },
+    {
+      "kind": "crux",
+      "subject": "כי יעבר",
+      "rationale": "'ge le fetile' (letšatši la maabane) kgatlhanong le go bala 'bjalo ka mogala wa leitlhari' (LXX) — diphetho tše kaonafetšego"
+    }
+  ],
+  "translation": "Gore dikete tša mengwaga go mahlong a gago ke bjalo ka letšatši la maabane, ge le fetile, le bjalo ka mošomong wa bosigo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "793b4dff5a195143da8df587045aa4146363998a898bd36a7177264be70aa5d5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/90\/1-4.1792298456851.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "sekete"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "dikete tša mengwaga"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "go mahlong a gago"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "bjalo ka letšatši"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "la maabane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "le fetile"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "le bjalo ka mošomong"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "wa bosigo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:56.852523810Z",
+  "model": "glm-5.3"
+}

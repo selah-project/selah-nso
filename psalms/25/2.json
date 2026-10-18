@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 25,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go tshepiša",
+      "rationale": "בטח — go ineela go ya phokong, 'trust' ke sebopego se se pharologanyego"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "thapelo ye e bolella Yahwe ka tlwaelo"
+    }
+  ],
+  "translation": "Elohim wa ka, go wena ke tshepišitše; se ke wa nnyefola, se ke wa dira manaba a ka go thaba ka nna.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "56d834fc48cd39fa425568609f45759f0e111a0509b1b30db4b1353c12ed8308",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/25\/1-4.1792297432358.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ke tshepišitše"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke wa"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "nnyefola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "se ke wa dira"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "go thaba"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "manaba a ka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ka nna"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:52.359435271Z",
+  "model": "glm-5.3"
+}

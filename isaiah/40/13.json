@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 40,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "תכן",
+      "rationale": "a sekaseka (go ela gore go lekanne) kgahlanong le a gokgontšha\/a ruta — diphetošo tša kgale di fapana"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ruakh",
+      "rationale": "ruakh ga se fetoletšwe go ba moya — lentšu le tee le bolela Moya le phefo"
+    }
+  ],
+  "translation": "Ke mang yo a sekasekitšego ⟨את⟩ ruakh ya Yahwe, gomme ke mang yo a mo tsebisetšego, yo a lego ⟨ya⟩ morero wa gagwe?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3fc8a823deaa516ab678914f33ce538d2f1607201e1a99423619026b04dad2a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/40\/13-16.1792292118785.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "a sekasekitšego"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ruakh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ruakh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "gomme ke mang"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "morero wa gagwe"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "a mo tsebisetšego"
+    }
+  ],
+  "timestamp": "2026-10-18T02:55:18.786381050Z",
+  "model": "glm-5.3"
+}

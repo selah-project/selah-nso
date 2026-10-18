@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 17:35",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "a kgaola kgwerano",
+      "rationale": "'go kgaola kgwerano' — Seheberu כרת ברית se ra 'go kgaola kgwerano', sebopego seo se bolokwa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "medimo",
+      "rationale": "אלהים אחרים — medimo e mengwe, ka ditlhaka tše nnye go ya ka D1"
+    }
+  ],
+  "translation": "Gomme Yahwe o ile a kgaola ⟨את⟩ bona kgwerano, gomme a ba laeda a re: Lo se ke la tšaba medimo e mengwe, gomme lo se ke la ikhunyafatša go yona, gomme lo se ke la di šomela, gomme lo se ke la di hlabela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/17\/33-36.1792290860416.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "gomme o ile a kgaola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "gomme a ba laeda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lo se ke la"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "tšaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "medimo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "e mengwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme lo se ke la"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "ikhunyafatša"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go yona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme lo se ke la"
+    },
+    {
+      "surface": "תעבדום",
+      "gloss": "di šomela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme lo se ke la"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "di hlabela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "go yona"
+    }
+  ],
+  "timestamp": "2026-10-18T02:34:20.418059986Z",
+  "model": "glm-5.3"
+}

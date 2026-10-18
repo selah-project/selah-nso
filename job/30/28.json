@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 30:28",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בלא חמה",
+      "rationale": "'Without the sun' (KJV) vs 'blackened, but not by the sun' (BSB, reading בלא as negation of cause); קדר means to be blackened with mourning."
+    }
+  ],
+  "translation": "Ke ile ka sepela ka boetwa ntle le letšatši; ka ema kgoboketšong, ke kua.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "03d2b1aec17e7cdb0335e4d0c4fbe586ff2633e3fae4e266daa8cb50815396de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/30\/25-28.1792300636428.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "קדר",
+      "gloss": "ka boetwa"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ke ile ka sepela"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "letšatši"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "ka ema"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "kgoboketšong"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ke kua"
+    }
+  ],
+  "timestamp": "2026-10-18T05:17:16.429014549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 6:29",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "gore",
+      "rationale": "Hebrew uses plain infinitive לְ prefix; Sepedi needs gore before purpose verb"
+    },
+    {
+      "kind": "you",
+      "subject": "go mosadi yo mobjiang",
+      "rationale": "mosadi a bolela ka go bile kgošing, thwii go mohlanka"
+    }
+  ],
+  "translation": "Ra beša ⟨את⟩ morwa wa ka gomme ra mo ja; gomme ka letšatši le latelago ra re go yena: E fa ⟨את⟩ morwa wa gago gore re mo je; gomme o ile a pata ⟨את⟩ morwa wa yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5a46683d16cb1c94bb415f65bf1e56f315c8a2067167e163fd1d71a9cc4a6c4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/6\/29-32.1792290572734.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונבשל",
+      "gloss": "ra beša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa ka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "morwa wa ka"
+    },
+    {
+      "surface": "ונאכלהו",
+      "gloss": "ra mo ja"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ra re"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "go yena"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ka letšatši"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "le latelago"
+    },
+    {
+      "surface": "תני",
+      "gloss": "e fa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa gago"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "re mo je"
+    },
+    {
+      "surface": "ותחבא",
+      "gloss": "a pata"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "morwa wa yena"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "morwa wa yena"
+    }
+  ],
+  "timestamp": "2026-10-18T02:29:32.735560605Z",
+  "model": "glm-5.3"
+}

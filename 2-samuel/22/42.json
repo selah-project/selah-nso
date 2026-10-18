@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ישעו",
+      "rationale": "Ša'ah e bolela go lebelela ka tshepo ya thuso; 'ba lebelela' e boloka sebopego, e sego 'ba kopa thuso'."
+    },
+    {
+      "kind": "crux",
+      "subject": "אל יהוה",
+      "rationale": "Go ela Yahwe: kgathanong le ba ba šupilego — ba ipelaile ba se nago sepe ba ile go Yahwe, gomme gomme a ba araba."
+    }
+  ],
+  "translation": "Ba lebelela, gomme ga go wa šumi go ba lokolla; go Yahwe, gomme ga a ba araba.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b75fdaae818cbd2e8bb81776f209da940ba35380ff2582dc6423cfedbaeb3bbc",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/22\/41-44.1792289425111.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "ba lebelela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "gomme ga go"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "wa šumi go ba lokolla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "a ba araba"
+    }
+  ],
+  "timestamp": "2026-10-18T02:10:25.111825783Z",
+  "model": "glm-5.3"
+}

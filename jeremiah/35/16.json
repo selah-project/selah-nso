@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 35:16",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 35,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הזה",
+      "rationale": "Sepedi demonstrative 'se' e phethile sebopego sa setšhaba; sehleng sa Seisemane 'this people' e nyaka lentšu le hlabago."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שמעו אלי",
+      "rationale": "'theetše go nna' — šala go šoma, e sego go theetša fela; go ea go swana le 'ba sa mNamego'."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צום\/מצות",
+      "rationale": "petišetšo ya tlhano le ya taelo (tsere-tšere ya mantšu) — go phethwa ga taelo go boletšwe gabedi, se se latolohilego ke setšhaba."
+    }
+  ],
+  "translation": "Ka gobane bana ba Yehonadabe mora Rekhabe ba phethile ⟨את⟩ taelo ya tatago bona, yeo a ba laeditšego; gomme setšhaba se se sa theetše go nna.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "6530a8f766dba7862f6042d5f28a4aaadf61ebd95d5f2cc9bf5877a12f15c615",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/35\/16-16.1792305027939.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הקימו",
+      "gloss": "ba phethile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana ba"
+    },
+    {
+      "surface": "יהונדב",
+      "gloss": "Yehonadabe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "mora"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Rekhabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "taelo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "taelo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "ya tatago bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "צום",
+      "gloss": "a ba laeditšego"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "gomme setšhaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "theetše"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    }
+  ],
+  "timestamp": "2026-10-18T06:30:27.939964706Z",
+  "model": "glm-5.3"
+}

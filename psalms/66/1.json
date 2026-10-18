@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 66,
+  "notes": [
+    {
+      "kind": "invitation",
+      "subject": "Gogomolang",
+      "rationale": "Setšhaba se laletšwa go gogomola ka modumo go Elohim — go la go swanela lefase ka bophara."
+    },
+    {
+      "kind": "substitution",
+      "subject": "mokoša",
+      "rationale": "מזמור ke mmino wa dithiši — mokoša o jwalo, eupša lefa la dithiši le nyelela."
+    },
+    {
+      "kind": "you",
+      "subject": "lefase ka bophara",
+      "rationale": "Mošišinyi ke lefase ka bophara, e sego Isiraele fela."
+    }
+  ],
+  "translation": "Go molaedi. Pina, mokoša. Gogomolang ka modumo go Elohim, lefase ka ⟨bophara⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "b1a7f2ef87df232157658b0047ad671fbd7c46dccc167f0b2676a262b8f74fdd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/66\/1-4.1792297987805.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go molaedi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "pina"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mokoša"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "gogomolang ka modumo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "go Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase ka bophara"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:07.806279485Z",
+  "model": "glm-5.3"
+}

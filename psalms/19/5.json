@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "kgoka",
+      "rationale": "קו = thodi ya go ela; LXX e bala φθόγγος (modumo) — 'lentšu la tšona' kgathanong le 'kgoka ya tšona'."
+    },
+    {
+      "kind": "elision",
+      "subject": "לשמש",
+      "rationale": "sebopiši l- se feditše ka 'go' — Sepedi se nyaka sebopego sa sehleng."
+    }
+  ],
+  "translation": "Go lefase ka moka kgoka ya tšona e tšwile, gomme mantšu a tšona go mafelelo a lefase; go šomo o beile ⟨את⟩ tšente go tšona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "73bb08ed4490463475a9943ea2b668c2e3cd9ef031e5d289ebbb23f35c88913c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/19\/5-8.1792297397408.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "e tšwile"
+    },
+    {
+      "surface": "קום",
+      "gloss": "kgoka"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "gomme go mafelelo a"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "mantšu a tšona"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "go šomo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "o beile"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tšente"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "go tšona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:17.408730191Z",
+  "model": "glm-5.3"
+}

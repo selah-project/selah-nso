@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 52:32",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go bolela ka botho",
+      "rationale": "Dikgutšo di re 'ka botho'; Seheberu se re 'dilo tše dibotse' (טבות) — sebopego se bolokwa"
+    },
+    {
+      "kind": "elision",
+      "subject": "אתו",
+      "rationale": "H854 'le yena' — e šomišwa bjalo ka sekopanyi, e sego montšhi wa seripa sa mošomo fela"
+    }
+  ],
+  "translation": "Gomme a bolela ⟨את⟩ le yena dilo tše dibotse, gomme a bea ⟨את⟩ setulo sa gagwe godimo ga di-setulo tša dikgoši tšeo di nago le yena Babela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "f8cb9a5b4dd041780de374819e937fe7fe45f88ff2970885a3110905602fe8d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/52\/29-32.1792294328438.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Gomme a bolela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ le yena"
+    },
+    {
+      "surface": "טבות",
+      "gloss": "dilo tše dibotse"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "gomme a bea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "setulo sa gagwe"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "setulo sa gagwe"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "di-setulo tša"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "dikgoši"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "di nago ⟨את⟩ le yena"
+    },
+    {
+      "surface": "בבבל",
+      "gloss": "Babela"
+    }
+  ],
+  "timestamp": "2026-10-18T03:32:08.440533665Z",
+  "model": "glm-5.3"
+}

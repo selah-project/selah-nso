@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "nso",
+  "chapter": 15,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "mahlong a Yahwe",
+      "rationale": "'Straight in the eyes of Yahwe' — Hebrew idiom of approval, kept literally."
+    },
+    {
+      "kind": "substitution",
+      "subject": "se setelelego",
+      "rationale": "הישר is 'the straight (thing)'; rendering keeps the concrete image of straightness."
+    }
+  ],
+  "translation": "Gomme Asa a dirile ⟨את⟩ se setelelego mahlong a Yahwe, bjalo ka Dafida nnagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ec9ef6b61e5365a130cda9d0125011fa2d62dea08417bea72f164226365200cd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/15\/9-12.1792290120570.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "a dirile"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "se setelelego"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "bjalo ka Dafida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "nnagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T02:22:00.571532770Z",
+  "model": "glm-5.3"
+}

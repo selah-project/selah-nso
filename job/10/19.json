@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 10:19",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "se",
+      "rationale": "Kgatišo ya go gatelela 'ke se seyo' — Seheberu se re fela 'lo be ke seyo'"
+    },
+    {
+      "kind": "crux",
+      "subject": "אובל",
+      "rationale": "Tlhaku e bolela 'go isiwa ka mohumagadi\/thari'; KJV 'carried', YLT 'I am brought' — mohumagadi o phuthilegate mo Sepedi"
+    }
+  ],
+  "translation": "Bjalo ka ge ke be ke se ⟨se⟩ seyo, nka ba ke seyo; go tšwa mošompeng go ya mokatupeng, ke be ke isiwa.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "e8a6ecc5774c7140cc2e484883a4506ff4d668d72e36e24b7afc34da4346605f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/10\/18-19.1792305369581.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "bjalo ka ge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga se"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ke be ke seyo"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "nka ba ke seyo"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "mošompeng"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "go ya mokatupeng"
+    },
+    {
+      "surface": "אובל",
+      "gloss": "ke be ke isiwa"
+    }
+  ],
+  "timestamp": "2026-10-18T06:36:09.582556359Z",
+  "model": "glm-5.3"
+}

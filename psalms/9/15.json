@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "morwedi wa Tsione",
+      "rationale": "'בת ציון' — sebopego sa Seheberu sa motse bjalo ka morwedi; sa tšwaela gore Tsione ke motse wa Yahwe."
+    },
+    {
+      "kind": "substitution",
+      "subject": "polokego",
+      "rationale": "ישועה ke 'seo se polokilego \/ polokego' — polokego ya gago, e sego leina la motho."
+    }
+  ],
+  "translation": "Gore ke bolele makgoša a gago ka moka kadikgorong tša morwedi wa Tsione; ke tla nyakalla ka polokego ya gago.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7177c1999b3dac1e63867afd0dc8bb3174a434db8c9474bf88cdd1be3a620ff9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/9\/13-16.1792297240168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ke bolele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "makgoša a gago"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "kadikgorong"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwedi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsione"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ke tla nyakalla"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ka polokego ya gago"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:40.169400563Z",
+  "model": "glm-5.3"
+}

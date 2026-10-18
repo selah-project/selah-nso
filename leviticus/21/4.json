@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "mong",
+      "rationale": "ba'al: 'mong' (monna yo a nyetswego) kgantšha 'mong wa setšhaba\/kgoši' — diphetholelo tša kgale di fapana"
+    },
+    {
+      "kind": "alternative",
+      "subject": "mong wa setšhaba",
+      "rationale": "KJV le JPS di bala 'yo a lego kgoši go setšhaba sa gagwe'; sebopego sa lentšu le ka bolela monna wa kgaetšedi"
+    }
+  ],
+  "translation": "A se fetoge sehlwa ⟨bjalo ka⟩ mong, go setšhaba sa gagwe, go iphafolletša.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "a6508db9da17225b0f10434f35683c180c6502314d0992536520fa4b7174f560",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/21\/1-4.1792284152996.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a se"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "fetoge sehlwa"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "mong"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "go setšhaba sa gagwe"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "go iphafolletša"
+    }
+  ],
+  "timestamp": "2026-10-18T00:42:32.997499130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ba šoma ka thata ka maphego",
+      "rationale": "ויחתרו semmuso ke 'go bula tselago thwii bjalo ka leperi' — sepopišo se ra go hlwa ka maphego"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "הולך וסער",
+      "rationale": "Seheberu: 'lewatle le a sepela gomme le a galefa' — palelelo ya go fokotsega ga menate, se se laeditšwego ke go feta ga sekgoba"
+    },
+    {
+      "kind": "elision",
+      "subject": "עליהם",
+      "rationale": "go ba galefa go hlatlamantšhitšwe ka go tlala ga lentšu, go dira gore boithatišo bja lewatle bo bonale"
+    }
+  ],
+  "translation": "Gomme banna ba ile ba šoma ka thata ka maphego go boela ⟨⟩ lefaseng la omilego, eupša ba sa kgone, ka gobane lewatle le be le fapafapana gomme le ba bogalefaletše.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jonah\/1\/13-16.1792296451367.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "ba šoma ka thata ka maphego"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "banna"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "go boela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨⟩ lefaseng"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "la omilego"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "eupša ba sa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kgone"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lewatle"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "le fapafapana"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "le ba bogalefaletše"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "go feta go ba galefa"
+    }
+  ],
+  "timestamp": "2026-10-18T04:07:31.368031496Z",
+  "model": "glm-5.3"
+}

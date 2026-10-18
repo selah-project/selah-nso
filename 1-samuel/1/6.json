@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 1:6",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "הרעמה",
+      "rationale": "רעם e bolela 'go kgokgomoša ka modumo wa majale' — mo e šomišwa ka seswantšho: go hlotla ka lentšu le thata; modumo wona o nyelela ka Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "צרה",
+      "rationale": "Mošabi (mogatsa bobedi yo a lwisanago) — lentšu la Seheberu le bolela 'go skinnyane\/kgatelelo', ya nyalanago le monna o tee."
+    }
+  ],
+  "translation": "Gomme mošabi wa yena o ile a mo hlahlafala gape, a mo hlotla, ka gobane Yahwe o tswaletše mpa wa yena.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "8d53538950ae5ec51f8cf8c5467dfaae6f3e3dd5c38dbc6a6408594dca7ba8de",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/1\/5-8.1792287835962.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכעסתה",
+      "gloss": "o ile a mo hlahlafala"
+    },
+    {
+      "surface": "צרתה",
+      "gloss": "mošabi wa yena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "go hlahlafala"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ka baka la"
+    },
+    {
+      "surface": "הרעמה",
+      "gloss": "a mo hlotla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "o tswaletše"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "go"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "mpa wa yena"
+    }
+  ],
+  "timestamp": "2026-10-18T01:43:55.963730848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "go hlolola lephego",
+      "rationale": "גלה כנף — 'go hlolola lephego' — ke mošomo wa Seheberu wa go bona thobalano; polokego ya sebopego e bolokwa."
+    },
+    {
+      "kind": "crux",
+      "subject": "tekano ya dikane",
+      "rationale": "Dikane tše dintši (KJV, ASV) di bula ka Lentšu la 23:2 la go kgoboka; sengwalwa sa Seheberu se bula ka motho yo a tšeago mosadi wa tate wa gagwe (bjalo ka JPS)."
+    }
+  ],
+  "translation": "Motho a se ke a tšea ⟨את⟩ mosadi wa tate wa gagwe, gomme a se ke a hlolola lephego la tate wa gagwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "eb4129bc2faeda18b5719cfc8cacc7f6a8d82ee068b1a311486b76b946c1cbea",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/23\/1-4.1792286172926.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a se ke"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "go tšea"
+    },
+    {
+      "surface": "איש",
+      "gloss": "motho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mosadi wa tate wa gagwe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "mosadi wa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "tate wa gagwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a se ke"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "go hlolola"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "lephego"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "la tate wa gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:16:12.927264671Z",
+  "model": "glm-5.3"
+}

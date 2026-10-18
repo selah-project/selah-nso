@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 133,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שבת",
+      "rationale": "יָשַׁב ke go dutša\/go hlakana; 'ba hlakana' e beja ka gobane Sepedi se bolela ka taba ya go phetša mmogo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "אחים",
+      "rationale": "'bana ba mma' bakeng sa baena — Sepedi se na le lentšu le tee la botho, e sego la bong"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גם יחד",
+      "rationale": "phetišo ya 'gape mmogo' — Sepedi e boloka melawana ye mebedi ya go hlakana"
+    },
+    {
+      "kind": "invitation",
+      "subject": "הנה",
+      "rationale": "בihono lebitšo le bitša mmadi go lebelela"
+    }
+  ],
+  "translation": "Pina ya mašupi, ya Dafida. Lebona, go le botse kae le go monotša kae, ge bana ba mma ba hlakana, le ba ba hlakantšwego gape mmogo!",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cd01cf1a5aa45a65271cdcac5b8a3fb10b8fa8c1e3c8645086da0e7163124107",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/133\/1-3.1792298950168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Pina"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ya mašupi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Lebona"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kae"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "go le botse"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "gomme kae"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "go monotša"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ge ba hlakana"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "bana ba mma"
+    },
+    {
+      "surface": "גם",
+      "gloss": "gape"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "mmogo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:10.168990387Z",
+  "model": "glm-5.3"
+}

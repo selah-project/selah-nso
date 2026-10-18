@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 71,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨go⟩",
+      "rationale": "Sepedi e nyaka 'go' pele ga 'nna'; Seheberu se na le לי fela."
+    },
+    {
+      "kind": "crux",
+      "subject": "צוית",
+      "rationale": "'O laeditše go ntlokolla' (Marema a Kgotso) kgahlanong le 'o ile wa laela go ntlokolla' (Sefela sa Dafida) — nakwana kgahlanong le e fetilego."
+    },
+    {
+      "kind": "substitution",
+      "subject": "boreme",
+      "rationale": "מצודה e bolela lefelo le le matla la go itšhireletša; 'boreme' (lefelo le le phagamego le le tiilego) ke ponagalo ye e gaufi."
+    }
+  ],
+  "translation": "Eba ⟨go⟩ nna leswika la bonno, la go tsena ka mehla; o laeditše go ntlokolla, gobane leswika la ka le boreme bja me ke wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "38058d90d99057f2165ca77799e41e1aa7540a660bf582d3cd81aac6bf69eb7d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/71\/1-4.1792298076365.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "eba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "leswika la"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "bonno"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "la go tsena"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ka mehla"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "o laeditše"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "go ntlokolla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "leswika la ka"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "le boreme bja ka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ke wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:34:36.366045071Z",
+  "model": "glm-5.3"
+}

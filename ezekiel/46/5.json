@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 46:5",
+  "book": "ezekiel",
+  "lang": "nso",
+  "chapter": 46,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "efa le hine",
+      "rationale": "Sejerungo se seneela dikelo tša minkha (efa) le moro (hine) go ya ka sehlabelo se sengwe le se sengwe."
+    },
+    {
+      "kind": "crux",
+      "subject": "mpho ya seatla sa gagwe",
+      "rationale": "מתת ידו: ba fetoleli ba bangwe ba re 'go swana le maatla a gagwe', ba bangwe ba re 'mpho ya seatla sa gagwe' — sekerete sa Seheberu se bolela mpho ya go ikhweletša."
+    },
+    {
+      "kind": "substitution",
+      "subject": "minkha",
+      "rationale": "מנחה e bolokwa bjalo ka minkha go ya ka D2 — e sego 'sehlabelo sa bogobe' fela."
+    }
+  ],
+  "translation": "Gomme minkha: efa ⟨e tee⟩ go nare ya nku, le go dikwana minkha, mpho ya seatla sa ⟨gagwe⟩, gomme moro, hine go efa.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d53d1f324503bceff50bd99a42f1bfd1d15256ea276508d9984faff887461a43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/46\/5-8.1792295739802.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ומנחה",
+      "gloss": "gomme minkha"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "efa ⟨e tee⟩"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "go nare ya nku"
+    },
+    {
+      "surface": "ולכבשים",
+      "gloss": "le go dikwana"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minkha"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ya seatla sa ⟨gagwe⟩"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "gomme moro"
+    },
+    {
+      "surface": "הין",
+      "gloss": "hine"
+    },
+    {
+      "surface": "לאיפה",
+      "gloss": "go efa"
+    }
+  ],
+  "timestamp": "2026-10-18T03:55:39.802836867Z",
+  "model": "glm-5.3"
+}

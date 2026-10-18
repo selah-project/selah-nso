@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "שכם",
+      "rationale": "šebe\/lehlogo: 'sehlogo' ka Sepedi; KJV 'turn their back' e latela Aramaic šēkem; YLT 'a butt' (sebaka sa go thunya)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "dikgokaganyo tša otha",
+      "rationale": "מיתריך — thari ya otha; Sepedi ga e na lentšu le tee le hlalošago, ka gobane diphueletšo tše pedi."
+    },
+    {
+      "kind": "elision",
+      "subject": "תכונן",
+      "rationale": "Sepedi e nyaka go hlala ('go lebana le') seo Seheberu se se swaretšego ka gare ga lentšu le tee."
+    }
+  ],
+  "translation": "Ka gobane o tla bea ⟨את⟩ sehlogo sa bona, ka dikgokaganyo tša otha ya gago o tla e lokišetša go lebana le sefahlego sa bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0044df2dba283a55fb7ded3279a7420f3729d437ed36f52db4edb4d696940dbe",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/21\/13-14.1792297314171.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "o tla bea"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "sehlogo"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "ka dikgokaganyo tša otha ya gago"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "o tla e lokišetša"
+    },
+    {
+      "surface": "על",
+      "gloss": "go lebana le"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "sefahlego sa bona"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:54.172430844Z",
+  "model": "glm-5.3"
+}

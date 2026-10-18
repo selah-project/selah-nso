@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 61,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "matšatši le mengwaga",
+      "rationale": "palo ya nako: matšatši a kgoši a oketšwa, mengwaga ya gagwe e bapetšwa le meloko"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ימים על ימי",
+      "rationale": "poeletšo ya יום godimo ga יום — matšatši godimo ga matšatši — phetišano yeo e bolokwang"
+    }
+  ],
+  "translation": "O tla oketša matšatši godimo ga matšatši a kgoši; mengwaga ya gagwe a e be bjalo ka moloko le moloko.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e514c71f90a4fc1c9677f6e8e9538a38e3818fd64769b312040f215d9a183196",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/61\/5-8.1792298018542.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "matšatši"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "matšatši a"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "o tla oketša"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "mengwaga ya gagwe"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "bjalo ka"
+    },
+    {
+      "surface": "דר",
+      "gloss": "moloko"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le moloko"
+    }
+  ],
+  "timestamp": "2026-10-18T04:33:38.543600144Z",
+  "model": "glm-5.3"
+}

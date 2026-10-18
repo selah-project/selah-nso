@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 12,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bogale",
+      "rationale": "אנף\/אף literally means nose\/nostrils flaring with rage; Sepedi must use 'anger'"
+    },
+    {
+      "kind": "addition",
+      "subject": "wena",
+      "rationale": "vocative pronoun supplied; Hebrew addresses Yahwe directly in the verb forms only"
+    }
+  ],
+  "translation": "Gomme o tla re letšatšing leo: Ke tla go leboga, wena Yahwe, ka gobane o be o nkaleletše; bogale bja gago bo bušetšwe, gomme o a nthomola.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7b11a1770a91e83a3b027b120f03b4a3702eec15948219e84aca02524f2b22ad",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/12\/1-4.1792291397783.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "gomme o tla re"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "letšatšing"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leo"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ke tla go leboga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "o be o nkaleletše"
+    },
+    {
+      "surface": "בי",
+      "gloss": "⟨nna⟩"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "bo bušetšwe"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "bogale bja gago"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "gomme o a nthomola"
+    }
+  ],
+  "timestamp": "2026-10-18T02:43:17.783880825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "copula ye e hlokago ka Sepedi"
+    },
+    {
+      "kind": "measurement",
+      "subject": "45 650",
+      "rationale": "palo ya masole a setšhaba sa Gade"
+    }
+  ],
+  "translation": "Gomme masole a yona, le bao ba badilwego go tšwa go yona, ⟨ke⟩ dikete tše masome nne le hlano, le makgolo a tshela le masomehlano.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2b500ff97263ae027f2b9a5a001f7822a3a1ea33061a9f6788b5047fc31b239c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/2\/13-16.1792284423115.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "gomme masole a yona"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "le bao ba badilwego go tšwa go yona"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "hlano"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "le masome nne"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "dikete"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "le tshela"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "le masomehlano"
+    }
+  ],
+  "timestamp": "2026-10-18T00:47:03.116617267Z",
+  "model": "glm-5.3"
+}

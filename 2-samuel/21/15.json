@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "mo e sego lesupo la genoe, ke sephekerwana sa 'le' — ka mo gwa boemong bja genoe; hlogo ya yona e fapana (854, e sego 853)"
+    },
+    {
+      "kind": "addition",
+      "subject": "e be",
+      "rationale": "Sepedi e nyaka copula; Seheberu se šoma ka wayyiqtol fela"
+    }
+  ],
+  "translation": "Gomme ntwana e be gape ya Ba-Pelishte le ⟨את⟩ Yisraele; gomme Dafida a theoga le bahloko ba gagwe le yena, gomme ba lwa le ⟨את⟩ Ba-Pelishte; gomme Dafida a feletšwe ke maatla.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "aab3924c7b965dca57193e03caceac34ebf2949af9c938c5a67ff357e836da6c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/21\/13-16.1792289330807.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "e be"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "gape"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ntwana"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "ya Ba-Pelishte"
+    },
+    {
+      "surface": "את",
+      "gloss": "le ⟨את⟩",
+      "marks": "Yisraele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraele"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "a theoga"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "le bahloko ba gagwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "le yena"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ba-Pelishte"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Ba-Pelishte"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "a feletšwe ke maatla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T02:08:50.808353805Z",
+  "model": "glm-5.3"
+}

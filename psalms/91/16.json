@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ארך ימים",
+      "rationale": "Sefoko sa Seheberu 'bolelele bja matšatši' = bophelo bjo bo leelele."
+    }
+  ],
+  "translation": "Ka bophelo bjo bo leelele ke tla mo atlafatša, gomme ke tla mo bontšha polokego ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "350e53d9d9d1a37ee4016964f01e5c78257c6a62f78b4d7de4dedb33cf8fdf58",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/91\/13-16.1792298439300.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "boleele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bophelo bjo bo leelele"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "ke tla mo atlafatša"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "gomme ke tla mo bontšha"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "polokego ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:39.301937677Z",
+  "model": "glm-5.3"
+}

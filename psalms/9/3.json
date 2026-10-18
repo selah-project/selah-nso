@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Dikošo tše di bolela go Yahwe ka go leboga go we."
+    },
+    {
+      "kind": "substitution",
+      "subject": "Elyone",
+      "rationale": "עליון leina la kgoši — le bolokwa ka modumo; 'Ea Phahamilego' e be e le phetolelo."
+    }
+  ],
+  "translation": "Ke tla nyakalla gomme ke tla ikgantšha ka go wena; ke tla opela leina la gago, Elyone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "6d9df4af184fd4e81cc4b0d2ec260639cbfbd651ea58300a17f895f57dda1832",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/9\/1-4.1792297252313.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "Ke tla nyakalla"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "gomme ke tla ikgantšha"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ka go wena"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ke tla opela"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "leina la gago"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyone"
+    }
+  ],
+  "timestamp": "2026-10-18T04:20:52.314291184Z",
+  "model": "glm-5.3"
+}

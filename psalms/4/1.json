@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "molaodi",
+      "rationale": "למנצח 'to the one who makes eminent\/overseer' rendered as 'to the director' — technical superscription term"
+    }
+  ],
+  "translation": "Go molaodi, ka diphala tša dinaga; pesa ya Dafida.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8c174a185ab4aa0e751ac7befed73883264b6c3469270b59a657583123ea5fff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/4\/1-4.1792297159181.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go molaodi"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ka diphala tša dinaga"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "pesa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ya Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T04:19:19.181758763Z",
+  "model": "glm-5.3"
+}

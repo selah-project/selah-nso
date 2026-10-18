@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 31:23",
+  "book": "numbers",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "go hlaneka",
+      "rationale": "יתחטא ke Piel wa חטא — 'go hlaneka', e sego 'go sebe'; Seheberu se bolela go ntšha sebe"
+    },
+    {
+      "kind": "crux",
+      "subject": "מי נדה",
+      "rationale": "'meetse a go hlaneka' — KJV 'water of separation', JPS 'water of sprinkling'; נדה ka botalo ke 'go hlatšwa thogo'"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na le kopula go וטהר, ⟨ke⟩ e okeditšwe"
+    }
+  ],
+  "translation": "Selo sefe le sefe se se ka tsego ka mollo, se tlašang ka mollo, mme se tla ba hlwekile; fela se tla hlanekwa ka meetse a go hlaneka; gomme se sengwe le se sengwe se sa tsego ka mollo, se tlašang ka meetse.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "bdeb230bf365f37698b8483f76a5b9fe80377f12a847ba04af5739618fba7756",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/31\/21-24.1792285331625.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "se sengwe le se sengwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "selo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "se ka tsego"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "תעבירו",
+      "gloss": "se tlašang"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "mme se tla ba hlwekile"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "במי",
+      "gloss": "ka meetse a"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "go hlaneka"
+    },
+    {
+      "surface": "יתחטא",
+      "gloss": "se tla hlanekwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "gomme se sengwe le se sengwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "se"
+    },
+    {
+      "surface": "לא",
+      "gloss": "se sa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "tsego"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ka mollo"
+    },
+    {
+      "surface": "תעבירו",
+      "gloss": "se tlašang"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ka meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T01:02:11.627005576Z",
+  "model": "glm-5.3"
+}

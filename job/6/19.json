@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 6:19",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bahlaloki",
+      "rationale": "ארחות here 'caravans' (the travelers), not 'paths' as in v.18 — same word, two senses."
+    },
+    {
+      "kind": "addition",
+      "subject": "e tšona",
+      "rationale": "למו archaic particle 'for them' rendered as resumptive pronoun."
+    }
+  ],
+  "translation": "Bahlaloki ba Tema ba lebile, meputso ya Sheba e letetše ⟨e tšona⟩.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "cc637b8423d63b370b86aac4f5866ae281b04411f863c06cc05a73d2346bfbed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/6\/17-20.1792300100521.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "ba lebile"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "bahlaloki"
+    },
+    {
+      "surface": "תמא",
+      "gloss": "ba Tema"
+    },
+    {
+      "surface": "הליכת",
+      "gloss": "meputso"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ya Sheba"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "e letetše"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨e tšona⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T05:08:20.522289708Z",
+  "model": "glm-5.3"
+}

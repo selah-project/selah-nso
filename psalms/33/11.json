@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 33,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עצת\/מחשבות — temana le seterekeng sa 10",
+      "rationale": "Mantšu a feletšego a boela: sego ditšhaba sego feditše (10), eupša a Yahwe a ema (11) — go tšwa go go wa go ya go go ema."
+    },
+    {
+      "kind": "alternative",
+      "subject": "תעמד",
+      "rationale": "Sebopego sa gone bjale 'go ema' goba se sa kgalele 'o ema'; go tšwa morago ga seterekeng sa 10 se feditše, mo se bolela kgalele."
+    }
+  ],
+  "translation": "Mohlaula wa Yahwe o tla ema go ya le nararo; dithulaganyo tša pelo ya gagwe go moloko le moloko.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ec459b6d1061b212e6727725a9817f1cb65ce7e36288a40482e5131b10c94f0e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/33\/9-12.1792297524217.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "mokgwa wa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "go ya le nararo"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "o tla ema"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "dithulaganyo tša"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "pelo ya gagwe"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "go moloko"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "le moloko"
+    }
+  ],
+  "timestamp": "2026-10-18T04:25:24.218361954Z",
+  "model": "glm-5.3"
+}

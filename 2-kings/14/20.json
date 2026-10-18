@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "nso",
+  "chapter": 14,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "ויקבר",
+      "rationale": "Sebopego sa Seheberu se bolela 'ba mo boloka'; Sepedi se šomiša sebopego sa go bolokwa ka mehla."
+    }
+  ],
+  "translation": "Gomme ba mo isiša ⟨את⟩ ka dipitse, gomme a bolokwa Jerushalayime le bo-ntate wa gagwe, toropong ya Dafida.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "42916f86b791faf0802ca37091077189f70618fcb35cb6e734f83d0ff95fc554",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/14\/17-20.1792290787669.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Gomme ba mo isiša"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (Amatsiahu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "dipitse"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "gomme a bolokwa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerushalayime"
+    },
+    {
+      "surface": "עם",
+      "gloss": "le"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bo-ntate wa gagwe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "toropong ya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dafida"
+    }
+  ],
+  "timestamp": "2026-10-18T02:33:07.670838931Z",
+  "model": "glm-5.3"
+}

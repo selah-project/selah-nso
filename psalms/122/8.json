@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 122,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "go Yerushalayime",
+      "rationale": "Mmuši o bolela ka go sego seregeng le motse wa Yerushalayime yeo a bušago ka yona."
+    },
+    {
+      "kind": "elision",
+      "subject": "נא",
+      "rationale": "Seripa sa kopo sa Seheberu se feletšegile ka ⟨ke kopa⟩ ka gobane Sepedi ga se na lentšu le le swanago le le sesane."
+    }
+  ],
+  "translation": "Bakeng sa baena ba ka le balekane ba ka, ke tla bolela ⟨ke kopa⟩ gore: kagiso e be go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "14184fee368cd1ac8bb7e05239d149d4f3e46268a5915a20954dda9a634b60d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/122\/5-8.1792298980561.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Bakeng sa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "baena ba ka"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "le balekane ba ka"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ke tla bolela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ke kopa⟩"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kagiso"
+    },
+    {
+      "surface": "בך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:49:40.562840912Z",
+  "model": "glm-5.3"
+}

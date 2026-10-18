@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seantšha",
+      "rationale": "מזרה is winnowing language — tossing grain to separate chaff; 'scatter' (KJV) loses the agricultural picture."
+    },
+    {
+      "kind": "crux",
+      "subject": "sefatanaga",
+      "rationale": "אופן is a wheel — likely the threshing wheel (Isa 28:27); 'wheel' vs 'threshing wheel' is the standard disagreement."
+    }
+  ],
+  "translation": "Kgoši ya bohlale e seantšha ba mpe, gomme e bušetša sefatanaga godimo ga bona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3733b31310b815b78eda709ccef9694eece5e795eb3f8ce2999a3f0839a35c33",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/20\/25-28.1792299574110.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "e seantšha"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ba mpe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ya bohlale"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "gomme e bušetša"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "godimo ga bona"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "sefatanaga"
+    }
+  ],
+  "timestamp": "2026-10-18T04:59:34.112123951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "כרת ברית",
+      "rationale": "'to cut a covenant' — rendered with Sepedi idiom 'go ipaela kgwerano'; literal cutting lost"
+    }
+  ],
+  "translation": "Yahwe Elohim wa rena o ile a ipaela kgwerano le rena go Khorebe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "24ccd86a492357d5404e135610d0360475aac33abb530a37833f9221eb3add5f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/5\/1-4.1792285622902.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Elohim wa rena"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "o ile a ipaela"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "le rena"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "kgwerano"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "go Khorebe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:07:02.903063325Z",
+  "model": "glm-5.3"
+}

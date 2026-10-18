@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "ונפל",
+      "rationale": "'le wa' — נפל fela ke go wa; mo go bolela gore lentšu le tlile ka magetla go Yisraele."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "Yaakobo \/ Yisraele",
+      "rationale": "Maboko a mabedi a motho o tee a swanetšego — parallel structure yeo e sa laolwego ke phetolelo."
+    }
+  ],
+  "translation": "Lentšu Adonai a le romile ka go Yaakobo, gomme le wa go Yisraele.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2bbdfc49d2fcd5360d3546ccb096bdc7b6771e1c99f012b8e26825b675f1b0bf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/9\/5-8.1792291427888.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "lentšu"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "a le romile"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "ka go Yaakobo"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "gomme le wa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "go Yisraele"
+    }
+  ],
+  "timestamp": "2026-10-18T02:43:47.889800006Z",
+  "model": "glm-5.3"
+}

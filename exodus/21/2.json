@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 21:2",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "mengwaga ye tshela",
+      "rationale": "palo ya bošomi bja mohlanka: mengwaga ye tshela, golgo ya bošupa o lokologa"
+    },
+    {
+      "kind": "substitution",
+      "subject": "mahala",
+      "rationale": "חנם e bolela ka ntle le tšhelete goba lebaka — o sa lefella sepe go tšwa ga gagwe"
+    }
+  ],
+  "translation": "Ge o reka mohlanka wa Seheberu, o tla šoma mengwaga ye tshela; gomme ka ngwaga wa bošupa o tla ntšhwa a lokologile, mahala.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "e00d3a443c679e325a2cdeb91bc8db30e8f2f8b9ede0ddde24b640bf33a8f61d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/21\/1-4.1792282931157.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ge"
+    },
+    {
+      "surface": "תקנה",
+      "gloss": "o reka"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "mohlanka"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "wa Seheberu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "tshela"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "mengwaga"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "o tla šoma"
+    },
+    {
+      "surface": "ובשבעת",
+      "gloss": "ka ngwaga wa bošupa"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "o tla ntšhwa"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "a lokologile"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    }
+  ],
+  "timestamp": "2026-10-18T00:22:11.158530985Z",
+  "model": "glm-5.3"
+}

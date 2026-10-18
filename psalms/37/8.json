@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "אף",
+      "rationale": "אף ke nko\/sefahlogo; se bolela bogale — 'hloka kutlo' ke sephetho se sengwe sa bogale (gobane kutlo e tšwa go moya, e sego nko)."
+    },
+    {
+      "kind": "alternative",
+      "subject": "אך להרע",
+      "rationale": "'e le go dira sebe fela' e ka ba 'go fihlela go sehlare fela' — אך le letlakala la go fetola sebopego sa thwii."
+    }
+  ],
+  "translation": "Kgaotša go hloka kutlo, gomme tloša makgopelwa a mabe; o se ke wa fufegela, e le go dira sebe fela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "98c18dcb6728e7f29dbb7de9d5244f72da13f2a491b26a5e734f7d4cce0ca2c5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/37\/5-8.1792297591475.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Kgaotša"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "go hloka kutlo"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "gomme tloša"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "makgopelwa a mabe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke wa"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "fufegela"
+    },
+    {
+      "surface": "אך",
+      "gloss": "fela"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "go dira sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:26:31.476173978Z",
+  "model": "glm-5.3"
+}

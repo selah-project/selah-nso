@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 3:13",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨e⟩",
+      "rationale": "Sepedi e nyaka kopula ye Seheberu se sa e se nago"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שכב\/ישן\/נוח",
+      "rationale": "dithulaganyo tše tharo tša go ikhutša tše di latelanago — go beletše, go robetše, go phuma"
+    }
+  ],
+  "translation": "Ka gobane bjale ka be ke beletše gomme ke phumutše, ka robetše — ka moka phumolo e be ⟨e⟩ ya ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8a181b5fc0d00486d693f5149c13c170114b2e44865f92d27c8aabb3761f5a52",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/3\/13-16.1792300007752.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "bjale"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ka be ke beletše"
+    },
+    {
+      "surface": "ואשקוט",
+      "gloss": "gomme ke phumutše"
+    },
+    {
+      "surface": "ישנתי",
+      "gloss": "ka robetše"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "phumolo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ya ka"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:47.752702718Z",
+  "model": "glm-5.3"
+}

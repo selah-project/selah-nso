@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "lekgoba",
+      "rationale": "פילגש ke mokgoba wa mosadi wa go nyalwa ka tlase ga mosadi wa pele — 'lekgoba la' ga e tsele ka botlalo"
+    },
+    {
+      "kind": "crux",
+      "subject": "Keturah",
+      "rationale": "Genesi 25:1 e mmolela 'mosadi' fela; Dibere 1:32 gape 'pilgesh' — diphopholetšo tše pedi tša mongwalo"
+    },
+    {
+      "kind": "measurement",
+      "subject": "lenaneo la maina",
+      "rationale": "Go hlaloswa ga tlhago ya Keturah le bara ba gagwe ba tlhano"
+    }
+  ],
+  "translation": "Gomme bara ba Keturah, lekgoba la Abrahama: yena a belega ⟨את⟩ Zimrane le Yokshane le Medane le Midiane le Yishbake le Shuakhe. Gomme bara ba Yokshane: Sheba le Dedane.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "4ef063860bd0ae2c89f9246b26ecddb61eb79fca4786ed9d54676e5916d804d8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/1\/29-32.1792302778771.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Gomme bara ba"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Keturah"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "lekgoba la"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abrahama"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "yena a belega"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Zimrane"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Zimrane"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "le Yokshane"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "le Medane"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "le Midiane"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "le Yishbake"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "le Shuakhe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Gomme bara ba"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Yokshane"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "le Dedane"
+    }
+  ],
+  "timestamp": "2026-10-18T05:52:58.772816112Z",
+  "model": "glm-5.3"
+}

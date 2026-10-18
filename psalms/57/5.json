@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 57,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moya",
+      "rationale": "נפש ke 'mokoko\/go phela', ga se moya (ruakh) — Sepedi ga e na lentšu le tee le swanago"
+    },
+    {
+      "kind": "crux",
+      "subject": "ba lafišitšwego",
+      "rationale": "להטים: 'ba lafišitšwego' (mollo) kgotalhanong le 'ba lolameditšwego' (go loma, go šoma ka meno)"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Sepedi e nyaka kopula ye Seheberu e se nago yona"
+    }
+  ],
+  "translation": "Moya wa ka o le gare ga ditau; ke tla lala gare ga bao ba lafišitšwego, bana ba batho, meno a bona ⟨ke⟩ lerumo le mesele, gomme leleme la bona ⟨ke⟩ tšhoša e fero.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "84411a8859fb53a749c3e95403a297451a264393a89b9c982b88286514726b0d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/57\/5-8.1792297918249.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "moya wa ka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "gare ga"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "ditau"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ke tla lala"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "bao ba lafišitšwego"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "batho"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "meno a bona"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "lerumo"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "le mesele"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "le leleme la bona"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "tšhoša"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "e fero"
+    }
+  ],
+  "timestamp": "2026-10-18T04:31:58.251529079Z",
+  "model": "glm-5.3"
+}

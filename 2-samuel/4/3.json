@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "הזה",
+      "rationale": "'lehono' ka Sepedi se šala se ra 'day e ye'; sefapano sa Seheberu se kopantšwe ka pelong"
+    },
+    {
+      "kind": "substitution",
+      "subject": "גרים",
+      "rationale": "גרים ke ba dulago kgauswi le sa gae — 'bafaladi' e swana le 'ba dulago gabonolo bjalo ka bafaladi'"
+    }
+  ],
+  "translation": "Gomme ba-Beerote ba batile go Gitaime, gomme ba dula moo bjalo ka bafaladi go fihlela lehono.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "2fff03d6b18849ef6fba94468fecba80407aade55fd2f4234c07bd675f94ac9a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/4\/2-3.1792304902264.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "gomme ba batile"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "ba-Beerote"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "go Gitaime"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "gomme ba dula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "moo"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "bjalo ka bafaladi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihlela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lehono"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T06:28:22.265136397Z",
+  "model": "glm-5.3"
+}

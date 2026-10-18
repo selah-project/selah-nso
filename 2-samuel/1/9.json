@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 1:9",
+  "book": "2-samuel",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "השבץ",
+      "rationale": "Šabets — lentšu leo le hlago fela mo Tanakheng; bolela 'go kgangana\/go tšhoga ga maikutlo', le fetoletšwe ka go swana — 'se se nkganeditšego'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "bophelo",
+      "rationale": "נפש e atametše go 'moya\/bophelo bja mmele', e sego 'moya wa ka sephiri'."
+    },
+    {
+      "kind": "crux",
+      "subject": "godimo ga nna",
+      "rationale": "עלי: 'godimo ga nna' (go bolaya) kgahlanong le 'thoko le nna' (ASV\/JPS); lentšu le tee le dumelela dipheto tše pedi."
+    }
+  ],
+  "translation": "Gomme a re go nna: Ema, ke kopa, godimo ga nna, o mpolele ka lehu, ka gobane se se nkganeditšego se nkotše, gobane bophelo bja ka bo sa ntše bo le ka go nna.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "5619cd07f1b0d571aa6e268bbb265290d7488c073bb5ca52860133e7f48b4dca",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/1\/9-12.1792288844883.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "a re"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go nna"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ema"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke kopa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga nna"
+    },
+    {
+      "surface": "ומתתני",
+      "gloss": "o mpolele ka lehu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אחזני",
+      "gloss": "se nkotše"
+    },
+    {
+      "surface": "השבץ",
+      "gloss": "se se nkganeditšego"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kamoka"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sa ntše"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja ka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka go nna"
+    }
+  ],
+  "timestamp": "2026-10-18T02:00:44.884090259Z",
+  "model": "glm-5.3"
+}

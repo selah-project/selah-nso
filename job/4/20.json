@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 4:20",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨yo a ba beileng⟩ pelong",
+      "rationale": "מבלי משים e bolela ka mokgwa o tlhageletšego 'ntle le yo a beileng (pelo)' — לב e hlwekile; kopelwa ka Sepedi"
+    },
+    {
+      "kind": "substitution",
+      "subject": "ka go sa felge",
+      "rationale": "לנצח e bolela go ya lebaleng, tekano ya leeto — 'go sa felge'"
+    }
+  ],
+  "translation": "Go tloga mesong go fihla mantšiboa ba kgobatšwa; ntle le ⟨yo a ba beileng⟩ pelong, ka go sa felge ba a timela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "9fe6f964e9f0c9b2044212bfd797a58e4a1e5195b4fcad09549ad5728e7be682",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/4\/17-20.1792299997340.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מבקר",
+      "gloss": "Go tloga mesong"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "go fihla mantšiboa"
+    },
+    {
+      "surface": "יכתו",
+      "gloss": "ba kgobatšwa"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ntle le"
+    },
+    {
+      "surface": "משים",
+      "gloss": "⟨yo a ba beileng⟩ pelong"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ka go sa felge"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ba a timela"
+    }
+  ],
+  "timestamp": "2026-10-18T05:06:37.341512369Z",
+  "model": "glm-5.3"
+}

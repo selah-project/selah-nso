@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 32,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "חי אנכי",
+      "rationale": "hlaka ya go ikana ya Seheberu — 'ke phela, nna' — go ikana ka bophelo bja modimo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לעלם",
+      "rationale": "'ka narara' bakeng sa 'bophara bja nako e sa felago' — modumo o tee, sebopego se fapana"
+    }
+  ],
+  "translation": "Gore ke tla godiša seatla sa ka go magodimo, gomme ke tla bolela: Ke phela, nna, ka narara.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1587efc7bb06a7ec286b79766b3718ac91eb5701e7edb39f3647766155d4c912",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/32\/37-40.1792286401258.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gore"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ke tla godiša"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "magodimo"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "seatla sa ka"
+    },
+    {
+      "surface": "ו אמרתי",
+      "gloss": "gomme ke tla bolela"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ke phela"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "nna"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ka narara"
+    }
+  ],
+  "timestamp": "2026-10-18T01:20:01.259871073Z",
+  "model": "glm-5.3"
+}

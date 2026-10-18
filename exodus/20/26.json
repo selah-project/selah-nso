@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "phologo",
+      "rationale": "עֶרְוָה ke phologo\/tihlogodipo; dikgethi tše dingwe di re 'bosenyi' — se senna sa mmele ke sengwe le sengwe."
+    },
+    {
+      "kind": "elision",
+      "subject": "אשר",
+      "rationale": " Lentšu la kgokagano le fetotšwe go ba 'gore' go hlalosa lebaka; Seheberu se se raego ka mo go tlwaelegilego."
+    }
+  ],
+  "translation": "Gomme o se ke wa namesa ka ditepigo godimo ga aletare ya ka, gore phologo ya gago e se ke ya iponagala godimo ga yona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "d40b2b47895515cc0540a214d7328ca1aba8ec56d29b8e57ea51caea42e15bb4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/20\/25-26.1792282861091.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme o se ke"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "wa namesa"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "ka ditepigo"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "aletare ya ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "e se ke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ya iponagala"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "phologo ya gago"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "godimo ga yona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:21:01.092222914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 31,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "lewa",
+      "rationale": "mishleg — sekgošo ka lewa: ba bangwe ba mpshafatsa gore o sa tshabe lewa ka gobane legole le a apara; bontši bja diphetolelo bo bolela 'bokhubedu' (shani)"
+    },
+    {
+      "kind": "substitution",
+      "subject": "bokhubedu",
+      "rationale": "shani ke mmala wa sekhubedu o tšwang go kgokolo, e sego feela 'bokhubedu'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "lewa le bokhubedu",
+      "rationale": "go phadišana ga mmaala o mosweu (lewa) le mmala o sekhubedu — tšhitišo ya mmaala e timetše ka Sepedi"
+    }
+  ],
+  "translation": "Ga o tshabe go tšwa lewa go legole la gae, ka gobane legole la gage ka moka di apere bokhubedu.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5eac4d701ffd51344d8454f29a9617e2ef99fe52fbc32abd0564fd1ef28442da",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/31\/21-24.1792299958517.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "o tshabe"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "legole la gae"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "lewa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "legole la gage"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "di apere"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "bokhubedu"
+    }
+  ],
+  "timestamp": "2026-10-18T05:05:58.517702779Z",
+  "model": "glm-5.3"
+}

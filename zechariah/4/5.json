@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 4:5",
+  "book": "zechariah",
+  "lang": "nso",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨A⟩",
+      "rationale": "הלוא ke potšišo ya go ganetša; ⟨A⟩ e bontšha modumo wa potšišo wo Sepedi se o nyakago"
+    },
+    {
+      "kind": "substitution",
+      "subject": "morena wa ka",
+      "rationale": "אדני mo ke morena wa motho (malengife), e sego Adonai wa Modimo"
+    }
+  ],
+  "translation": "Gomme malengife a go bolela ka gare ga ka a araba, a mpotša a re: A o sa tsebe gore ke eng tšeo? Gomme ka re: Aowa, morena wa ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2ba4e2cd5c2a2ccf1ad85b88a671ba1a1e5877aa0aadc06bb095023cc00381e6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/4\/5-8.1792296895470.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "a araba"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "malengife"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "a go bolela"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ka gare ga ka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "a mpotša"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "a <⟨A⟩>"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "o sa tsebe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "gore ke eng"
+    },
+    {
+      "surface": "המה",
+      "gloss": "tšona"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "tšeo"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ka re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aowa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "morena wa ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:14:55.470675904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 2:20",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "את",
+      "rationale": "This את is the pronoun אַתְ 'you' (feminine), not the direct-object marker — rendered 'wena', not ⟨את⟩."
+    },
+    {
+      "kind": "crux",
+      "subject": "verb subjects",
+      "rationale": "Ketiv reads the perfects as 1cs 'I broke' (Yahwe as subject); qere and many versions read 2fs 'you broke' — the object-reversal is a famous crux."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "גבעה גבהה",
+      "rationale": "Alliteration: 'hill... high' — the root sounds repeat, lost in Sepedi."
+    },
+    {
+      "kind": "substitution",
+      "subject": "o nyantšha",
+      "rationale": "זנה is cultic prostitution\/fornication as metaphor for idolatry; 'nyantšha' keeps the sexual picture the prophets intend."
+    }
+  ],
+  "translation": "Ka gobane go tloga kale o phutheletše bokgole bja gago, o lotše dikgogo tša gago, gomme o ile wa re: Nke ke šome; ka gobane godimo ga thaba e nngwe le e nngwe e phagamego, le ka fasana ga mohlare o mongwe le o mongwe o talago, wena o sepela o nyantšha.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "82885541c6f21ed67d46aec70e3efca3f7618696944013cd0cfcb3e6fd9363cf",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/2\/17-20.1792292681244.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ka gobane"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "go tloga kale"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "o phutheletše"
+    },
+    {
+      "surface": "עלך",
+      "gloss": "bokgole bja gago"
+    },
+    {
+      "surface": "נתקתי",
+      "gloss": "o lotše"
+    },
+    {
+      "surface": "מוסרתיך",
+      "gloss": "dikgogo tša gago"
+    },
+    {
+      "surface": "ותאמרי",
+      "gloss": "gomme o ile wa re"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nke"
+    },
+    {
+      "surface": "אעבד",
+      "gloss": "ke šome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "על",
+      "gloss": "godimo ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "e nngwe le e nngwe \/ o mongwe le o mongwe"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "thaba"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "e phagamego"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "le ka fasana ga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "o mongwe le o mongwe"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "mohlare"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "o talago"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "צעה",
+      "gloss": "o sepela"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "o nyantšha"
+    }
+  ],
+  "timestamp": "2026-10-18T03:04:41.245533675Z",
+  "model": "glm-5.3"
+}

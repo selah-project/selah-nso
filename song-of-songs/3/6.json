@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 3:6",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "תימרות",
+      "rationale": "Lentšu le le tšwago fela mo go Tanakh — dikholomo tša moukwe."
+    },
+    {
+      "kind": "mystery",
+      "subject": "ke mang ye",
+      "rationale": "Potšišo ye e sa arabelwago — sephiri se sa tsebjwego, go hlahla mmadi."
+    },
+    {
+      "kind": "crux",
+      "subject": "רוכל",
+      "rationale": "Molekane wa go rwala mehwabo, goba mošomi wa mehwabo ye mengwe — dikgopolo tše pedi."
+    }
+  ],
+  "translation": "Ke mang ye, e bilego go tšwa go lefaseng la go foka, bjalo ka dikholomo tša moukwe, e nkilwe ka mure le lebone, ka phofo ya molekane ka moka?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "48fa7a29f10decce6ab0f3002e71442ed7dc27e7e8d6de591df172940d227039",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/3\/5-8.1792300962261.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ke mang"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ye"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "e bilego"
+    },
+    {
+      "surface": "מן",
+      "gloss": "go tšwa"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "lefaseng la go foka"
+    },
+    {
+      "surface": "כתימרות",
+      "gloss": "bjalo ka dikholomo"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "tša moukwe"
+    },
+    {
+      "surface": "מקטרת",
+      "gloss": "e nkilwe"
+    },
+    {
+      "surface": "מור",
+      "gloss": "ka mure"
+    },
+    {
+      "surface": "ולבונה",
+      "gloss": "le lebone"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "אבקת",
+      "gloss": "phofo"
+    },
+    {
+      "surface": "רוכל",
+      "gloss": "ya molekane"
+    }
+  ],
+  "timestamp": "2026-10-18T05:22:42.261938060Z",
+  "model": "glm-5.3"
+}

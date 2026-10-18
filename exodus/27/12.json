@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 27:12",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 27,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bophirima",
+      "rationale": "ים ka moka e bolela 'lewatle' — lehlakore la bophirima le rewa ka lewatle (Lewatle le Legolo)"
+    },
+    {
+      "kind": "measurement",
+      "subject": "masomehlano, lesome",
+      "rationale": "bophara bja bophirima: ma-amo masomehlano, dikholomo le ditheo tše lesome"
+    }
+  ],
+  "translation": "Mme bophara bja seterata lehlakoreng la bophirima: dilere tša ma-amo masomehlano, dikholomo tša tšona lesome, le ditheo tša tšona lesome.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "589aa9bf494ccb0db3abecbeeeff8860bd697dc46c27970f62bd968a95847a96",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/27\/9-12.1792283020730.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "mme bophara"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "bja seterata"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "lehlakoreng la"
+    },
+    {
+      "surface": "ים",
+      "gloss": "bophirima"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "dilere"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "masomehlano"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ma-amo"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "dikholomo tša tšona"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "le ditheo tša tšona"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "lesome"
+    }
+  ],
+  "timestamp": "2026-10-18T00:23:40.731331514Z",
+  "model": "glm-5.3"
+}

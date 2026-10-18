@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 22:17",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "למו",
+      "rationale": "Sefela se bolela 'go bona' goba 'go re' — diphetolelo di fapana (KJV 'them', ASV 'us')"
+    },
+    {
+      "kind": "substitution",
+      "subject": "סור",
+      "rationale": "'Tloga' — lentšu la Seheberu le bolela 'go fapafapana, go epa ka thoko'"
+    }
+  ],
+  "translation": "Ba re go El: Tloga go re; gomme Shadai o ka ba direlang ⟨bona⟩?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "5604adf21904d7e7c69009cec48db614adb6fdd8e0cb30c73d57b097fca58d86",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/22\/17-20.1792300425105.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "Ba re"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "go El"
+    },
+    {
+      "surface": "סור",
+      "gloss": "Tloga"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "go re"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "gomme… eng"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "o ka direlang"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadai"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨bona⟩"
+    }
+  ],
+  "timestamp": "2026-10-18T05:13:45.105971064Z",
+  "model": "glm-5.3"
+}

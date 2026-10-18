@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 48:21",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 48,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ge",
+      "rationale": "Hebrew nominal clause lacks a temporal connector; Sepedi requires 'ge' for 'when he led them'"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "צור ... ויבקע צור",
+      "rationale": "rock repeated — the source (from the rock) becomes the split object; chiasm of water-rock \/ rock-water with מים opening and closing"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויזבו",
+      "rationale": "'a ile a phaphamela' (gushed); literal alternative 'a ile a rula' (flowed freely), following the verb's core sense of flowing"
+    }
+  ],
+  "translation": "Gomme ba se ke ba nyorilwe ge a ba tseletše mafaseng a omileng; meetse a dumedetše go bona go tšwa leswikeng, gomme a loga ⟨את⟩ leswika, gomme meetse a ile a phaphamela.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "8666b08b1aa6b119c564b64d5c9d0423cb79acd205d160858571bdb52dc137c7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/48\/21-22.1792292190755.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "gomme ba se ke"
+    },
+    {
+      "surface": "צמאו",
+      "gloss": "ba nyorilwe"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "mafaseng a omileng"
+    },
+    {
+      "surface": "הוליכם",
+      "gloss": "a ba tseletše"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "go tšwa leswikeng"
+    },
+    {
+      "surface": "הזיל",
+      "gloss": "a dumedetše"
+    },
+    {
+      "surface": "למו",
+      "gloss": "go bona"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "gomme a loga"
+    },
+    {
+      "surface": "צור",
+      "gloss": "leswika"
+    },
+    {
+      "surface": "ויזבו",
+      "gloss": "gomme a ile a phaphamela"
+    },
+    {
+      "surface": "מים",
+      "gloss": "meetse"
+    }
+  ],
+  "timestamp": "2026-10-18T02:56:30.756279312Z",
+  "model": "glm-5.3"
+}

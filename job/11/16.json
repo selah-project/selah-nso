@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "bohloko",
+      "rationale": "עמל ke mošomo o mogolo, boitelele bja go hloka — 'bohloko' ke karolo fela ya bja botlalo"
+    },
+    {
+      "kind": "idiom",
+      "subject": "bjalo ka meetse a fetilego",
+      "rationale": "sekanwa sa Seheberu sa go fetileng — meetse a a kalang a sa bušetšwe; a hlantšwa ka lentšu le le tee ka Sepedi"
+    }
+  ],
+  "translation": "Ka gobane wena o tla lebala bohloko, o tla bo gopola bjalo ka meetse a fetilego.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "d9453ead6ef740f73e4b92ce97314adf1b44821849d067b7723c3fe54dbce252",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/11\/13-16.1792300230135.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "bohloko"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "o tla lebala"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "bjalo ka meetse"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "a fetilego"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "o tla gopola"
+    }
+  ],
+  "timestamp": "2026-10-18T05:10:30.136589388Z",
+  "model": "glm-5.3"
+}

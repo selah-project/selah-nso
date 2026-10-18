@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "nso",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "על",
+      "rationale": "causal 'upon' answered by 'why?' of previous verse, rendered 'ka gobane'"
+    }
+  ],
+  "translation": "Gomme Yahwe a re: ka gobane ba tlogetše ⟨את⟩ Torah ya ka yeo ke e file pele ga bona, gomme ga ba utwe go lentšu la ka, gomme ga ba sepela go yona.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "701b3678bb719311701aff54e5be955aa73e98dd77c779cc44587485922f1345",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/9\/9-12.1792292975799.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Gomme a re"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "ba tlogetše"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Torah ya ka"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Torah ya ka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ke e file"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "pele ga bona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ba utwe"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "go lentšu la ka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme ga"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ba sepela"
+    },
+    {
+      "surface": "בה",
+      "gloss": "go yona"
+    }
+  ],
+  "timestamp": "2026-10-18T03:09:35.800834640Z",
+  "model": "glm-5.3"
+}

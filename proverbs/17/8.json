@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "שחד",
+      "rationale": "'hlahlwa' e dumelela mpho ka bophara; lentšu le bolela hlahlwa ya go hlapaletša — sebopego sa sehlabelo se bolokwa"
+    },
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu ga se na kopula; ⟨ke⟩ e okeditšwe"
+    }
+  ],
+  "translation": "Hlahlwa ke leswika la bokgabohle mahlong a mong wa yona; kae kapa kae moo a e folegago, o atlega.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "7a87d983accc2290c15828830f664af899b684e8e6921402010114f4e44a659f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/17\/5-8.1792299534533.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "leswika"
+    },
+    {
+      "surface": "חן",
+      "gloss": "bokgabohle"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "hlahlwa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "mahlong a"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "mong wa yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kae kapa kae"
+    },
+    {
+      "surface": "כל",
+      "gloss": "moo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "a e folegago"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "o atlega"
+    }
+  ],
+  "timestamp": "2026-10-18T04:58:54.534955402Z",
+  "model": "glm-5.3"
+}

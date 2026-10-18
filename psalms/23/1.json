@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se na sekgopanyi; Sepedi se se nyaka"
+    }
+  ],
+  "translation": "Mokošo wa Dafida. Yahwe ⟨ke⟩ modisa wa ka; ga nka ke ka hloka selo.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "30dcf7afd1bdf981fb4c49a20047dc0199dc32abf65a7c8632038662ed306b48",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/23\/1-4.1792297404168.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Mokošo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "wa Dafida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "modisa wa ka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga nka ke ka"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "hloka selo"
+    }
+  ],
+  "timestamp": "2026-10-18T04:23:24.170167863Z",
+  "model": "glm-5.3"
+}

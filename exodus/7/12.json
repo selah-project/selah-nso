@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dinogakgolo",
+      "rationale": "תנינם ke dinogakgolo goba diphoofolo tše kgolo tša meetse, e sego noge tša tlwaelegilego fela"
+    },
+    {
+      "kind": "crux",
+      "subject": "lere \/ dithae",
+      "rationale": "מטה e bolela lere (thae); mo e šomišwa ka moka — lere la Aharone le dithae tša bona"
+    },
+    {
+      "kind": "you",
+      "subject": "go mmadi",
+      "rationale": "Temana e tlhalosa se se diregilego go swanela Faro; ga go na bolelo bjo bo kwagalago"
+    }
+  ],
+  "translation": "Gomme ba latlha morago mongwe le mongwe ⟨את⟩ lere la gagwe, gomme di ile tša ba dinogakgolo; gomme lere la Aharone le mokotse ⟨את⟩ dithae tša bona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "d89bc6170f8a57b1bd5e4f5666b2ae955fd772e71ce51c772aae5fdf0003c40e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/7\/12-12.1792304588193.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "ba latlha morago"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mongwe le mongwe"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "lere la gagwe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "di ile tša ba"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "dinogakgolo"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "le mokotse"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "lere"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dithae tša bona"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "dithae tša bona"
+    }
+  ],
+  "timestamp": "2026-10-18T06:23:08.193501118Z",
+  "model": "glm-5.3"
+}

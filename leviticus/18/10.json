@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ke",
+      "rationale": "Seheberu se se nago copula; Sepedi se e nyaka (הנה e šomišwa bjalo ka maemo a kopula)"
+    },
+    {
+      "kind": "crux",
+      "subject": "ערותך הנה",
+      "rationale": "'bosegagaba bja gago ke bjoa' — bagwaledi ba bangwe ba re 'bosegagaba bja bona ke bja gago' (KJV) kgahlanong le modu wa motheo"
+    }
+  ],
+  "translation": "Bosegagaba bja morwadi wa morwa wa gago goba morwadi wa morwadi wa gago — o se ke wa senola bosegagaba bja bona; gonne bosegagaba bja gago ke bjoa.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1024c7c36b88be9e668d61a1c67f471dcfdc591d7fed26ad0f667bdcf5c97d03",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/18\/9-12.1792283977510.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "bosegagaba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi wa"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "morwa wa gago"
+    },
+    {
+      "surface": "או",
+      "gloss": "goba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi wa"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "morwadi wa gago"
+    },
+    {
+      "surface": "לא",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "wa senola"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "bosegagaba bja bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "gonne"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "bosegababa bja gago"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ke bjoa"
+    }
+  ],
+  "timestamp": "2026-10-18T00:39:37.511058718Z",
+  "model": "glm-5.3"
+}

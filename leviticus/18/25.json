@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "hlanya ka go ntšha",
+      "rationale": "קוֹא ke 'go hlanya' ka nnete — seethebi se sene sa lefase se dumela sebakeng sa motho; ke seethebi se buleloago ka pelo"
+    },
+    {
+      "kind": "alternative",
+      "subject": "ואפקד",
+      "rationale": "'go laetša seabe' goba 'go kgetha dikahlolo' — פקד bolela go etela ka maikemišetšo a mabedi"
+    }
+  ],
+  "translation": "Gomme lefase le ile la ikhohomosa, gomme ke ile ka laetša seabe sa lona go lona, gomme lefase le ile la hlanya ka go ntšha ⟨את⟩ badudi ba lona.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "1f30885627880efecc6d26da538839fe4b0cc6b9f7cd9d281301bdb0fea4a8d3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/18\/25-28.1792283977644.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "le ile la ikhohomosa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ke ile ka laetša"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "seabe sa lona"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "go lona"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "le ile la hlanya ka go ntšha"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lefase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "badudi ba lona"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "badudi ba lona"
+    }
+  ],
+  "timestamp": "2026-10-18T00:39:37.645180665Z",
+  "model": "glm-5.3"
+}

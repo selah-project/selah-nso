@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 7:13",
+  "book": "song-of-songs",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "פרחה \/ פתח \/ הנצו",
+      "rationale": "Khurumetšo ya go thuntšha le go butšwa ka go latelana — go phunyega ga sehlabelo ga go phetošwe ka botlalo go Sepedi"
+    },
+    {
+      "kind": "invitation",
+      "subject": "A re phufologeleng… a re bone",
+      "rationale": "Mabitšo a koago a go lomaletša (hortative) a bitša motho yo a begwago"
+    },
+    {
+      "kind": "you",
+      "subject": "go wena",
+      "rationale": "Polelo ye e lebela go yo a ratwago (dodi)"
+    }
+  ],
+  "translation": "A re phufologeleng go merareng; a re bone ge mohlophi o thuntšhitše, borasu bo butše, digranate di thuntšhe; kheo ke tla nea ⟨את⟩ lerato laka go wena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "0cf249feedb7cfb9370f18243c053910d74b482f465f3645070afd19ff9d2888",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/song-of-songs\/7\/13-14.1792301020596.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "נשכימה",
+      "gloss": "A re phufologeleng"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "go merareng"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "a re bone"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "פרחה",
+      "gloss": "o thuntšhitše"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "mohlophi"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "o butše"
+    },
+    {
+      "surface": "הסמדר",
+      "gloss": "borasu"
+    },
+    {
+      "surface": "הנצו",
+      "gloss": "di thuntšhe"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "digranate"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kheo"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ke tla nea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lerato laka"
+    },
+    {
+      "surface": "דדי",
+      "gloss": "lerato laka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go wena"
+    }
+  ],
+  "timestamp": "2026-10-18T05:23:40.597555930Z",
+  "model": "glm-5.3"
+}

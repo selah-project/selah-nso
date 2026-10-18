@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 52:2",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 52,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "dula",
+      "rationale": "שבי e ka ra 'dula' (KJV, JPS) goba 'dula setulong sa bogoši' (ASV, BSB) — Sepedi se ngwala 'dula' feela, go sa oketše setulo sa bogoši."
+    },
+    {
+      "kind": "substitution",
+      "subject": "morwadi",
+      "rationale": "בת mo e ra 'setšhaba sa' — 'morwadi wa Tsiyone' ke selaodišo sa setšo sa Seheberu."
+    },
+    {
+      "kind": "you",
+      "subject": "go Yerushalayime",
+      "rationale": "Matswalo a a kotšiwa motse ka bowena, bjalo ka motho."
+    }
+  ],
+  "translation": "Itlolosa leroleng, tsoga, dula, Yerushalayime; itlolose dikgoreletšo tša molala wa gago, morwadi wa bokhotswe wa Tsiyone.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "82878627cbc51c07e9aaf9b90461175ba057fe9592f8c0fb9318309ff589c8eb",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/52\/1-4.1792292390998.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "התנערי",
+      "gloss": "itlolosa"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "leroleng"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "tsoga"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "dula"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayime"
+    },
+    {
+      "surface": "התפתחו",
+      "gloss": "itlolose"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "dikgoreletšo tša"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "molala wa gago"
+    },
+    {
+      "surface": "שביה",
+      "gloss": "wa bokhotswe"
+    },
+    {
+      "surface": "בת",
+      "gloss": "morwadi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyone"
+    }
+  ],
+  "timestamp": "2026-10-18T02:59:50.999493360Z",
+  "model": "glm-5.3"
+}

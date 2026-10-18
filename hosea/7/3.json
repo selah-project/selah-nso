@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "כחשים",
+      "rationale": "Setlogo se bolela go fela nama — mohuta wa go ikakaketsa; 'mabe' ke mohuta wo o tlwaelegilego, seswantšho sa nama se laetšwe."
+    },
+    {
+      "kind": "you",
+      "subject": "kgoši le dikgosana",
+      "rationale": "Sepetlele se hlalosa kamano ya setšhaba le kgoši ya seka (7:5 e latela)."
+    }
+  ],
+  "translation": "Ka bobe bja tšona ba nyakalosa kgoši, le ka mabe a tšona dikgosana.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "abe1c559178e2b65b2256ebbbe35a4c6b324685f05d2e38ce21b3603d94dccc8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/7\/1-4.1792295978723.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "ka bobe bja tšona"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ba nyakalosa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kgoši"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "le ka mabe a tšona"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "dikgosana"
+    }
+  ],
+  "timestamp": "2026-10-18T03:59:38.724326664Z",
+  "model": "glm-5.3"
+}

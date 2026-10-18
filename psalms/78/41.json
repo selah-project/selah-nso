@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 78,
+  "notes": [
+    {
+      "kind": "hapax",
+      "subject": "התוו",
+      "rationale": "תוה appears only here in the Tanakh; root sense 'to draw a line, set a mark', hence 'set bounds to' the Holy One."
+    },
+    {
+      "kind": "crux",
+      "subject": "ba mo nea melelwane",
+      "rationale": "KJV\/ASV 'limited\/provoked' vs JPS 'set bounds to' — the rare verb allows both 'drew a line around' and 'grieved'."
+    }
+  ],
+  "translation": "Gomme ba boela, ba leka ⟨את⟩ El, gomme yo a kgethwang wa Yisraele ba mo nea melelwane.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "45ad4b0f1067a6e84594ff8f6dfda82491f7d84cb55c36c28b83e59b6dc67207",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/41-44.1792298265373.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "gomme ba boela"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "ba leka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "gomme yo a kgethwang"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wa Yisraele"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "ba mo nea melelwane"
+    }
+  ],
+  "timestamp": "2026-10-18T04:37:45.374317899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "nso",
+  "chapter": 18,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "וחבר חבר",
+      "rationale": "Infinitive absolute — modu o boeleditšwe gore a pheme; phetolelo ya Sepedi e boeleda 'maneo'"
+    },
+    {
+      "kind": "substitution",
+      "subject": "moya-mmu",
+      "rationale": "אוב go tšwa modumo wa go mu-mu-šiša — 'moya woo a bolelago ka molumo o tiilo'; 'moya-mmu' ke mokgwa wa go boloka sebopego sa lone"
+    }
+  ],
+  "translation": "le yo a kgomaganyago maneo, yo a kgomaganyago maneo, yo a botšišago moya-mmu, motsebi, le yo a nyakago go bafu.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "2d78e60d156a9819c1ba92c9c919e8d3bccb2a65f0cc314098737ff1131d3bb9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/18\/9-12.1792285998361.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "le yo a kgomaganyago maneo"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "maneo"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "yo a botšišago"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "moya-mmu"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "motsebi"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "yo a nyakago go"
+    },
+    {
+      "surface": "אל",
+      "gloss": "go"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "bafu"
+    }
+  ],
+  "timestamp": "2026-10-18T01:13:18.362702966Z",
+  "model": "glm-5.3"
+}

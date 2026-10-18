@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "nso",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "tekelete",
+      "rationale": "תכלת ke mmala wa mmarapa wa lewatle, wo a bolokwang ka modumo wa Seheberu ka gobane sephetho sa wona se sa tsebje"
+    },
+    {
+      "kind": "elision",
+      "subject": "תולעת השני",
+      "rationale": "Seheberu se re 'tlowa ya shani' — setodi se ntlelang mmala wa khikhithi; e bolokilwe ka go hlaka, e sego ka 'skarlete' fela"
+    }
+  ],
+  "translation": "Gomme ba tlo tšea ⟨את⟩ gauta le ⟨את⟩ tekelete le ⟨את⟩ argamane le ⟨את⟩ tlowa-tše-šweu ya shani le ⟨את⟩ sheshe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "81c9002946f405ab8a2182999912fcd16aee4e5d5b853fda00f1a466b7d6ace5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/28\/5-8.1792283089486.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "gomme ba"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "ba tlo tšea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gauta"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "gauta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tekelete"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "tekelete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "argamane"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "argamane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "tlowa-tše-šweu ya shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tlowa-tše-šweu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ya shani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "sheshe"
+    },
+    {
+      "surface": "השש",
+      "gloss": "sheshe"
+    }
+  ],
+  "timestamp": "2026-10-18T00:24:49.487207605Z",
+  "model": "glm-5.3"
+}

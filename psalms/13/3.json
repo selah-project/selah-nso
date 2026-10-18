@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "mephelong",
+      "rationale": "נפש ke motho wa go hema \/ maphelo, e sego 'moya' goba 'moea' ka tlhaho ya wona."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "עד אנה",
+      "rationale": "Phetišo ya boraro ya 'bogolo bja nako ye kae' — mokgwa wa go aga kgopelo ya psalme ye."
+    }
+  ],
+  "translation": "Bogolo bja nako ye kae ke bea diakanyo ka mephelong ya ka, toholoho e lego pelong ya ka letšatši le letši, bogolo bja nako ye kae lenaba la ka le tla godimo godimo ga ⟨ke⟩?",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "efb8878d0b1df9c3cf30654fe996d1340f7774bfcdc4f52894d25d7b511b3322",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/13\/1-4.1792297273465.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "bogolo bja nako ye kae"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ke bea"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "diakanyo"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "ka mephelong ya ka"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "toholoho"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "e lego pelong ya ka"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "letšatši le letši"
+    },
+    {
+      "surface": "עד",
+      "gloss": "go fihla"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "bogolo bja nako ye kae"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "le tla godimo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "lenaba la ka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "godimo ga mina"
+    }
+  ],
+  "timestamp": "2026-10-18T04:21:13.466012369Z",
+  "model": "glm-5.3"
+}

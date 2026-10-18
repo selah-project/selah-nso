@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "difeme",
+      "rationale": "גרנות ke difeme tša go lopa mabele, e sego gobane se bušwa kae"
+    }
+  ],
+  "translation": "Ba mo tsebišitše go Dafida ba re: Bonani, Bapelishtime ba lwa le Keila, gomme ba timetša ⟨את⟩ difeme.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "0ff76f86f965a3bb19e8739d2615bbd7d71d83f7dc8c2ba8d4958cef6bda0e04",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/23\/1-4.1792288557608.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "ba mo tsebišitše"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "go Dafida"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ba re"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bonani"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Bapelishtime"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "ba lwa"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "le Keila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "gomme ba"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "ba timetša"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "difeme"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "difeme"
+    }
+  ],
+  "timestamp": "2026-10-18T01:55:57.609313110Z",
+  "model": "glm-5.3"
+}

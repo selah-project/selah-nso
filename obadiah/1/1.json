@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "obadiah 1:1",
+  "book": "obadiah",
+  "lang": "nso",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moromwa",
+      "rationale": "ציר ko go bolela sešomedi se se romilwego, e sego mothomišo ka bobona"
+    },
+    {
+      "kind": "crux",
+      "subject": "עליה — yena",
+      "rationale": "Setšhaba sa Edome se šomišwa e le bošedi (o) goba bontši (yona); mo ke bontši"
+    },
+    {
+      "kind": "you",
+      "subject": "ditšhaba",
+      "rationale": "Moego o bitša ditšhaba ka go re Tsogang"
+    }
+  ],
+  "translation": "Pono ya Obadia. Go bjalo a bolela Adonai Yahwe ka Edome: Moego re o utšwile go tšwa go ⟨את⟩ Yahwe, gomme moromwa o romilwe gare ga ditšhaba: Tsogang, gomme a re tsoge kgahlanong le yena go ya ntweng.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "2efa0aa278b65ef8cdf0545e6bea0e2b208456d335a6ac32a251037d6a6b1e4e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/obadiah\/1\/1-4.1792296383814.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "חזון",
+      "gloss": "pono"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Obadia"
+    },
+    {
+      "surface": "כה",
+      "gloss": "go bjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "a bolela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "ka Edome"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "moego"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "re o utšwile"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "go tšwa go ⟨את⟩",
+      "marks": "moego"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "gomme moromwa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "gare ga ditšhaba"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "o romilwe"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "tsogang"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "gomme a re tsoge"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kgahlanong le yena"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "go ya ntweng"
+    }
+  ],
+  "timestamp": "2026-10-18T04:06:23.815657692Z",
+  "model": "glm-5.3"
+}

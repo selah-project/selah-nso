@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "moetapele",
+      "rationale": "למנצח bolela 'yo a glintšago kgatelelagele', mohlanka wa mmino wa tempele; 'moetapele' ke karolo ya modimo fela"
+    },
+    {
+      "kind": "elision",
+      "subject": "למנצח",
+      "rationale": "tiro\/to the chief musician — lentšu la tiro le lokollotšwe ka go 'go'"
+    }
+  ],
+  "translation": "Go moetapele, go bana ba Korakhe, pego ya thuto.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "a528b06f9b565e1b18c9832c4a1b1b25612bf448352341f89a8b410c74eaec38",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/44\/1-4.1792297694698.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "go moetapele"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "go bana ba"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korakhe"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "pego ya thuto"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:14.699039878Z",
+  "model": "glm-5.3"
+}

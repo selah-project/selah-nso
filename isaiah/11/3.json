@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 11:3",
+  "book": "isaiah",
+  "lang": "nso",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "dumelela",
+      "rationale": "הריחו ke go duma ka monwane; Seheberu se bolela gore go tšhaba Yahwe ke monwane wa gagwe — phetolelo ya moya wa taba, e sego wa monwane."
+    },
+    {
+      "kind": "crux",
+      "subject": "והריחו",
+      "rationale": "Difetolelo di fapana: 'o tla duma ka monwane' (ya boemo bja pelo) kgatlhanong le 'moya wa go tšhaba Morena o tla mo tlatša' (Wycliffe) — polokego ya Seheberu ke ya monwane."
+    }
+  ],
+  "translation": "Gomme o tla dumelela ka go tšhaba Yahwe; gomme a ka se laetše kahlolo ka se a se bonago mahlong a gagwe, gomme a ka se kgaolle ka se a se utlwago ditsebeng tša gagwe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c74e25d4305f81d497d181d8591de47c9f818c0760129d2a473e3acfbd8daf8a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/11\/1-4.1792291514034.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והריחו",
+      "gloss": "gomme o tla dumelela"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ka go tšhaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a ka se"
+    },
+    {
+      "surface": "למראה",
+      "gloss": "ka se a se bonago"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "mahlong a gagwe"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "laetše kahlolo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "gomme a ka se"
+    },
+    {
+      "surface": "למשמע",
+      "gloss": "ka se a se utlwago"
+    },
+    {
+      "surface": "אזניו",
+      "gloss": "ditsebeng tša gagwe"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "kgaolle"
+    }
+  ],
+  "timestamp": "2026-10-18T02:45:14.035163244Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "nso",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "וSheba",
+      "rationale": "ba bolelwa ba kgethanywa: Sheba ke leina le lengwe la toropo (BSB: 'goba Sheba') goba sepelwa sa Beere-Sheba; re file lešita la yona bjalo ka Geneva\/KJV\/ylt"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שבע\/שבע",
+      "rationale": "bošwa bja maina: Sheba le Beere-Sheba — lentšu le tee le swanago le kgutliswa ka makga a mabedi"
+    }
+  ],
+  "translation": "Gomme ba be le sego ka magopong a bona: Beere-Sheba le Sheba, le Molada.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "b7bb391ebb91805c11919be2c7d00e25cf8c3f27cce6458c16ca839dd03defb2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/19\/1-4.1792286909067.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "gomme ba be le"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba bona"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "ka magopong a bona"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beere-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "le Sheba"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "le Molada"
+    }
+  ],
+  "timestamp": "2026-10-18T01:28:29.068303553Z",
+  "model": "glm-5.3"
+}

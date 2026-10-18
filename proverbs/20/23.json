@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "אבן ואבן",
+      "rationale": "Poeletlo ya 'leswika le leswika' — maswika a mabedi a go kala, a nngwe le a nngwe a boima bo fapanego; diphetholelo tše dintši di bolotše sebopego ka 'dikala tše fapanego'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "leswika",
+      "rationale": "אבן mo ke leswika la go kala, e sego leswika la motheo — sebopego sa lentšu se bolokilwe, bokgauswi bo tsamaya le dikala."
+    }
+  ],
+  "translation": "Go hloilega go Yahwe: leswika le leswika, gomme dikala tša go fofosa ga di loke.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "ab643a5f95b9cdf83f94fc9e279b2f8ffca203d0efdbdd61a83f4b8eeae0ae8f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/20\/21-24.1792299562589.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "selo se se hloilegago"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "leswika"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "gomme leswika"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "gomme dikala"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "tša go fofosa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "di loke"
+    }
+  ],
+  "timestamp": "2026-10-18T04:59:22.590285645Z",
+  "model": "glm-5.3"
+}

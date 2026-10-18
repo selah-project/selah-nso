@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 141,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "נפשי",
+      "rationale": "נפש ke moya wa bophelo, mala; 'bophelo bja ka' bo isiša ka ntle sedumedi sa 'moya'."
+    },
+    {
+      "kind": "crux",
+      "subject": "תער",
+      "rationale": "'O se ke wa ntšhola' — go hlakanya (KJV 'leave destitute') kgahlanong le 'go ntšhola' (JPS 'pour out')."
+    },
+    {
+      "kind": "you",
+      "subject": "Yahwe, Adonai",
+      "rationale": "Pego ya go bitša Yahwe ka botlalo — mopedi o bolela le Adonai ka noši."
+    }
+  ],
+  "translation": "Gobane mahlo a ka a go lebelela, wena Yahwe, Adonai; go wena ke tshepile; o se ke wa ntšhola bophelo bja ka.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "c1f94febd5895718902d127ecf6273399eae23403f6133940877d5aaf5369df5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/141\/5-8.1792299071950.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "a go lebelela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "mahlo a ka"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "go wena"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ke tshepile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "o se ke"
+    },
+    {
+      "surface": "תער",
+      "gloss": "wa ntšhola"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "bophelo bja ka"
+    }
+  ],
+  "timestamp": "2026-10-18T04:51:11.952198171Z",
+  "model": "glm-5.3"
+}

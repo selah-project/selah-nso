@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 106:41",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 106,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "seatla",
+      "rationale": "יד ke seatla; \"ka seatla sa\" ke temana ya Sepedi ya \"ka maatla a\", go swana le Seheberu"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שנאיהם",
+      "rationale": "D3: שנאים bao ba hloilego — manaba"
+    }
+  ],
+  "translation": "Gomme a ba nea ka seatla sa ditšhaba, gomme bao ba ba hloilego ba laola go ba.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "96b79bed50790099396a203d5e781d85daaa465482431e47b96ee620a5808eed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/41-44.1792298644309.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויתנם",
+      "gloss": "a ba nea"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ka seatla sa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ditšhaba"
+    },
+    {
+      "surface": "וימשלו",
+      "gloss": "ba laola"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "go ba"
+    },
+    {
+      "surface": "שנאיהם",
+      "gloss": "bao ba ba hloilego"
+    }
+  ],
+  "timestamp": "2026-10-18T04:44:04.310092126Z",
+  "model": "glm-5.3"
+}

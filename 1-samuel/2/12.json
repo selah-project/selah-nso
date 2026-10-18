@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "nso",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "בליעל",
+      "rationale": "'barwa ba go se lue' (beli-ya'al, go se na mohola) kgotalo le leina la motho 'Beliyale' — dikgati tša kgale di fapana"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "בני...בני",
+      "rationale": "go boela ga 'bara ba' gabelana — bara ba moperisita ke barwa ba go se lue; se hapile ka go boela ga lentšu"
+    }
+  ],
+  "translation": "Gomme bara ba Eli e be barwa ba Beliyale; ba ne ba sa tseba ⟨את⟩ Yahwe.",
+  "provenance": {
+    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
+    "user-sha256": "c7772cce911e9becb4225e1edb4745d07b5bb38d314a26c6d8c2ff0ec9f551a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/2\/9-12.1792287794564.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Gomme bara ba"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "barwa ba"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Beliyale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ba sa"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "tseba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-10-18T01:43:14.566330645Z",
+  "model": "glm-5.3"
+}

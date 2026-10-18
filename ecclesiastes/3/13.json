@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "nso",
+  "chapter": 3,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨ke⟩",
+      "rationale": "Seheberu ga se na kopula; Sepedi e e nyaka"
+    },
+    {
+      "kind": "substitution",
+      "subject": "a bone se se botse",
+      "rationale": "וראה טוב — go bona toka\/botlela; bakeng sa go 'thabela'"
+    }
+  ],
+  "translation": "Gomme motho yo mongwe le yo mongwe yo a jaago le go nwa, gomme a bone se se botse ka mošomo wa gagwe wa moka — mpho ya Elohim ⟨ke⟩ yona.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "c6c49b0ed4f8eb5ffb6acb03b211f58ace8c4d0db71e5c9824917b1ab8699991",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/3\/13-16.1792301344212.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Gomme"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yo mongwe le yo mongwe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "motho"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "yo a jaago"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "le go nwa"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "gomme a bone"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "se se botse"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "mošomo wa gagwe"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "mpho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ya Elohim"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    }
+  ],
+  "timestamp": "2026-10-18T05:29:04.212664374Z",
+  "model": "glm-5.3"
+}

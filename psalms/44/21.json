@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 44,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "ונפרש",
+      "rationale": "lemma e bolela go hlahlama\/ go phatlalala; diphetoledi tše ntši di re 'go phatlalatsa diatla' — letshwao la thapelo"
+    },
+    {
+      "kind": "substitution",
+      "subject": "לאל זר",
+      "rationale": "'El wa sego wa rena' — זר e bolela motho wa ka ntle, wo a sa tsejwago, e sego fela 'wa makgowere'"
+    }
+  ],
+  "translation": "Ge re ka lebala leina la Elohim wa rena, goba go atiša diatla tša rena go El wa sego wa rena —",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "39d775d0fa7ccc85d3c1cfcd00f8a2c173c10e5de7d71c8ebdd2b36c46e03845",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/44\/21-24.1792297732013.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ge"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "re ka lebala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "leina"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "la Elohim wa rena"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "gomme go atiša"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "diatla tša rena"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "go El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "wa sego wa rena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:28:52.013684271Z",
+  "model": "glm-5.3"
+}

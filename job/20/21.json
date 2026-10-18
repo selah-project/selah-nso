@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 20:21",
+  "book": "job",
+  "lang": "nso",
+  "chapter": 20,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "יחיל",
+      "rationale": "Root חול 'go hlwahla\/go nolofala': bafetoledi ba fapana — 'e ka se šireletšwe' (KJV) kgahlanong le 'e ka se dule' (ASV\/JPS)."
+    },
+    {
+      "kind": "substitution",
+      "subject": "שריד לאכלו",
+      "rationale": "Literal: 'go se šale mohedi wa dijo tša gagwe' — bontši bja diphetolelo bo bolela fela gore ga se fa dijo tša gagwe."
+    }
+  ],
+  "translation": "Ga go šala sepe sa go ja sa gagwe; ka gobane botse bja gagwe bo ka se dule.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "3714a0e51d74a7b38e8f0d9b31c34c02b4d63855425ba10ac6919cf1e2ad1a62",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/job\/20\/21-24.1792300388610.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ga go"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "šalela"
+    },
+    {
+      "surface": "לאכלו",
+      "gloss": "sa go ja sa gagwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "gobane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ga"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "ka se dule"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "botse bja gagwe"
+    }
+  ],
+  "timestamp": "2026-10-18T05:13:08.610976195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 91,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "מצודה",
+      "rationale": "Lemma e bile goba 'thapo' goba 'kago ye maatla' — kago ye maatla e kgethilwe"
+    },
+    {
+      "kind": "you",
+      "subject": "go Yahwe",
+      "rationale": "Puo ye e lebetšwe Yahwe ka boomo"
+    }
+  ],
+  "translation": "Ke rialo go Yahwe: mošireletši wa ka le thebe-kgolo ya ka, Elohim wa ka, ke a tshepa go yena.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "4378b2ae66edad1eb8182fd2f627b8f97b17efceab305f8980faf21032273c55",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/91\/1-4.1792298458954.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ke rialo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "go Yahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "mošireletši wa ka"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "le thebe-kgolo ya ka"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wa ka"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ke a tshepa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "go yena"
+    }
+  ],
+  "timestamp": "2026-10-18T04:40:58.955613507Z",
+  "model": "glm-5.3"
+}

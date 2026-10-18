@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "nso",
+  "chapter": 84,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "הסתופף",
+      "rationale": "Botiki bja sethako: go ema mormong (ngaka ya lekgotla) kgathanong le go ba mohlanka wa lemma; kgetho ya mormong e a bolokwa"
+    },
+    {
+      "kind": "measurement",
+      "subject": "letsatsi le tee ... sekete",
+      "rationale": "Palo: letsatsi le tee kgathanong le sekete — tlhwafo ya go bala go bontšha kgetho"
+    },
+    {
+      "kind": "elision",
+      "subject": "מאלף",
+      "rationale": "Seheberu se re 'go feta elefu' ntle le lefelo; 'sekete fela' se feletšego go Sepedi"
+    }
+  ],
+  "translation": "Ka gobane letsatsi le tee dikgorong tša gago ke botse go feta sekete; kgethile go ema mormong wa ntlo ya Elohim ya ka, go feta go dula ditenteng tša sebe.",
+  "provenance": {
+    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
+    "user-sha256": "e6c8cc7d871f0aa3b67593935998350e009bd1525591d60cd78812ebb8273999",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/84\/9-12.1792298367895.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ka gobane"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ke botse"
+    },
+    {
+      "surface": "יום",
+      "gloss": "letsatsi le tee"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "dikgorong tša gago"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "go feta sekete"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "kgethile"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "go ema mormong"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ntlong"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "go feta go dula"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "ditenteng"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "tša sebe"
+    }
+  ],
+  "timestamp": "2026-10-18T04:39:27.896818348Z",
+  "model": "glm-5.3"
+}

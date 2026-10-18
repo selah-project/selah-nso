@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "nso",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "⟨e ne e le⟩",
+      "rationale": "Seheberu ga se na kopula; palo e latela ka bo yona"
+    },
+    {
+      "kind": "measurement",
+      "subject": "palobatho",
+      "rationale": "go baleha ga setšhaba: dikete tše masomenné pedi, makgolo a tharo le masometshela (42 360)"
+    },
+    {
+      "kind": "hapax",
+      "subject": "רבוא",
+      "rationale": "‘myriad’ — lentšu le bolelago dikete tše masomenné; le šomišwa mo go bala bontši bjo bogolo"
+    }
+  ],
+  "translation": "Kopano ka moka, bjalo ka e tee, ⟨e ne e le⟩ 42 360.",
+  "provenance": {
+    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
+    "user-sha256": "d35f2d1a32ee9a7a5dacd9f9de2c5cbf0ee8a0c229f4b88ada223216b074f80a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/7\/65-68.1792302597624.json",
+    "code": "f7b4ad31a-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ka moka"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "kopano"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "bjalo ka e tee"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "nne"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "dikete tše masomenné"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "pedi"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "tharo"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "makgolo"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "gomme masometshela"
+    }
+  ],
+  "timestamp": "2026-10-18T05:49:57.625222200Z",
+  "model": "glm-5.3"
+}
