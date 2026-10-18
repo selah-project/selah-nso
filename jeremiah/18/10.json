@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אותו",
-      "rationale": "aleph-tav + suffix o šumišwa bjalo ka index ya sehlobo seo e dirwago; o elided ka gobane Sepedi ga o mo needže"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ke tla tufa ka go šwa ka phokotšo ya sehlobo",
-      "rationale": "נחם e ka bolela 'go hema ka tsela e nngwe' goba 'go fetola maikemišetšo'"
-    }
-  ],
-  "translation": "gomme e dira sebe mahlong a ka, go se kwa lentšu la ka, ke tla tufa ka go šwa ka phokotšo ya sehlobo seo ke boletšego go dira se sengwe le sona;",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "cb81abf17754ffca6a0538ed112c745fa2257be1153f34b19028f34897ea6f1c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/18\/9-12.1792293251680.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "gomme se dira sepe ka mahlokong a ka, go se theetše le lentšu la ka, ke tla ikhuela ka sebotse seo ke boletšego gore ke tla se dira molemo ⟨את⟩ go sona.",
   "tokens": [
     {
       "surface": "ועשה",
-      "gloss": "gomme e dira"
+      "gloss": "gomme se dira"
     },
     {
       "surface": "הרעה",
-      "gloss": "sebe"
+      "gloss": "sepe"
     },
     {
       "surface": "בעיני",
-      "gloss": "mahlong a ka"
+      "gloss": "ka mahlokong a ka"
     },
     {
       "surface": "לבלתי",
@@ -46,15 +25,15 @@
     },
     {
       "surface": "שמע",
-      "gloss": "kwa"
+      "gloss": "theetše"
     },
     {
       "surface": "בקולי",
-      "gloss": "lentšu la ka"
+      "gloss": "le lentšu la ka"
     },
     {
       "surface": "ונחמתי",
-      "gloss": "ke tla tufa ka go šwa ka phokotšo ya sehlobo"
+      "gloss": "ke tla ikhuela"
     },
     {
       "surface": "על",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "הטובה",
-      "gloss": "goba ga se kgokolo phokotšo ya sehlobo"
+      "gloss": "sebotse"
     },
     {
       "surface": "אשר",
@@ -74,13 +53,14 @@
     },
     {
       "surface": "להיטיב",
-      "gloss": "go dira se sengwe le sona"
+      "gloss": "go dira molemo"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "go sona"
     }
   ],
-  "timestamp": "2026-10-18T03:14:11.681589285Z",
+  "timestamp": "2026-10-18T17:21:11.385563422Z",
   "model": "glm-5.3"
 }

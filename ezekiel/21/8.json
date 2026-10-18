@@ -5,61 +5,35 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "צדיק",
-      "rationale": "Seheberu ga se na kopu, 'lokile' fela; Sepedi e nyaka kopanyi"
-    },
-    {
-      "kind": "hapax",
-      "subject": "מתערה",
-      "rationale": "mokgwa wa go hlwaya (razor\/scabbard) — lentšu le nyakile kudu; 'sehwahla' ke mokgwa o theilwego go mahlakoreng"
-    },
-    {
-      "kind": "you",
-      "subject": "lefase la Yisraele",
-      "rationale": "Yahwe o bolela a lebile lefase la Yisraele ka bonosi, ka morwa wa motho"
-    }
-  ],
-  "translation": "gomme o tlo re go lefase la Yisraele: go bolela Yahwe: Bonake, ke go wena, gomme ke tla ntšha tšhoša ya ka go sehwahla sa yona, gomme ke tla kgotla go tšwa go wena ⟨⟨bothlokile⟩⟩ le molato.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "9d32deb05e15fd65597d6b86865b491ffa1f3f5aa861ae629a0b080580be1424",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/21\/5-8.1792294895723.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme o tla bolela go mobu wa Yisraele: Bjalo go bolela Yahwe: Bonang, ke go wena, gomme ke tla ntšha ⟨את⟩ tšhoša ya ka go folethe ya yona, gomme ke tla kgola go tšwa go wena ⟨את⟩ yo a lokilego le ⟨את⟩ yo a fošagetšego.",
   "tokens": [
     {
       "surface": "ואמרת",
-      "gloss": "gomme o tlo re"
+      "gloss": "gomme o tla bolela"
     },
     {
       "surface": "לאדמת",
-      "gloss": "go lefase"
+      "gloss": "go mobu wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "la Yisraele"
+      "gloss": "Yisraele"
     },
     {
       "surface": "כה",
-      "gloss": "go bolela"
+      "gloss": "bjalo"
     },
     {
       "surface": "אמר",
-      "gloss": "Yahwe"
+      "gloss": "go bolela"
     },
     {
       "surface": "יהוה",
-      "gloss": "go bolela Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "הנני",
-      "gloss": "Bonake ke"
+      "gloss": "bonang, ke"
     },
     {
       "surface": "אליך",
@@ -75,11 +49,12 @@
     },
     {
       "surface": "מתערה",
-      "gloss": "go sehwahla sa yona"
+      "gloss": "go folethe ya yona",
+      "marks": "tšhoša ya ka"
     },
     {
       "surface": "והכרתי",
-      "gloss": "gomme ke tla kgotla"
+      "gloss": "gomme ke tla kgola"
     },
     {
       "surface": "ממך",
@@ -87,13 +62,13 @@
     },
     {
       "surface": "צדיק",
-      "gloss": "⟨bothlokile⟩"
+      "gloss": "yo a lokilego"
     },
     {
       "surface": "ורשע",
-      "gloss": "le molato"
+      "gloss": "le yo a fošagetšego"
     }
   ],
-  "timestamp": "2026-10-18T03:41:35.724452686Z",
+  "timestamp": "2026-10-18T17:14:35.583002987Z",
   "model": "glm-5.3"
 }

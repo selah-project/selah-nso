@@ -5,37 +5,11 @@
   "book": "zechariah",
   "lang": "nso",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "הנכשל",
-      "rationale": "'yo a warwago ke mafolofolo' goba 'yo a welago' — כשל ke go nametša maoto, go foduga."
-    },
-    {
-      "kind": "crux",
-      "subject": "moreri",
-      "rationale": "מלאך: 'moreri' (yo a romilwago) — sebopego sa tlhago, e sego 'mangeloi' wa thwii."
-    },
-    {
-      "kind": "elision",
-      "subject": "בעד",
-      "gloss": "tsepamiso e fetetše go 'šireletša' — go šomišwa ga lentšu le sa bonagala."
-    }
-  ],
-  "translation": "Ka letšatši leo Yahwe o tla šireletša yo a dulago Yerushalayime, gomme yo a warwago ke mafolofolo gare ga bona ka letšatši leo o tla ba bjalo ka Dafida, le ntlo ya Dafida bjalo ka Elohim, bjalo ka moreri wa Yahwe ka pele ga bona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "9fc7e8b277b894d38155f3df1df5fa574214d5e163035269080d4f4705c3c727",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/12\/5-8.1792297060296.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka letšatši leo Yahwe o tla šireletša yo a dutšego Yerushalayime; gomme yo a makalago gare ga bona ka letšatši leo a tla ba bjalo ka Dafida, gomme ntlo ya Dafida bjalo ka Elohim, bjalo ka moromuwa wa Yahwe ka pele ga bona.",
   "tokens": [
     {
       "surface": "ביום",
-      "gloss": "Ka letšatši"
+      "gloss": "ka letšatši"
     },
     {
       "surface": "ההוא",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "בעד",
-      "gloss": ""
+      "gloss": "⟨go⟩"
     },
     {
       "surface": "יושב",
-      "gloss": "yo a dulago"
+      "gloss": "yo a dutšego"
     },
     {
       "surface": "ירושלם",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "והיה",
-      "gloss": "gomme"
+      "gloss": "gomme ⟨a tla ba⟩"
     },
     {
       "surface": "הנכשל",
-      "gloss": "yo a warwago ke mafolofolo"
+      "gloss": "yo a makalago"
     },
     {
       "surface": "בהם",
@@ -87,11 +61,11 @@
     },
     {
       "surface": "ובית",
-      "gloss": "le ntlo"
+      "gloss": "gomme ntlo ya"
     },
     {
       "surface": "דויד",
-      "gloss": "ya Dafida"
+      "gloss": "Dafida"
     },
     {
       "surface": "כאלהים",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "כמלאך",
-      "gloss": "bjalo ka moreri"
+      "gloss": "bjalo ka moromuwa"
     },
     {
       "surface": "יהוה",
@@ -110,6 +84,6 @@
       "gloss": "ka pele ga bona"
     }
   ],
-  "timestamp": "2026-10-18T04:17:40.297305082Z",
+  "timestamp": "2026-10-18T17:38:37.975659697Z",
   "model": "glm-5.3"
 }

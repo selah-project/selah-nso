@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "מקשה",
-      "rationale": "Go bopišwa ka go hlwaya tšhego — lentšu le bontšha mošomo wa go bopa silibera ka go e hlwaya."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dikhamphane",
-      "rationale": "מחנות e bolela dikhamphane tša mašutu a setšhaba, e sego feela magae."
-    }
-  ],
-  "translation": "Dira okeletona tše pedi tša silibera, tša go bopišwa ka tšhogo o hlwaya; ⟨את⟩ tšona o di dire, gomme di tla ba go wena bakeng sa go boka setšhaba le bakeng sa go tšwa ga dikhamphane.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "ec48da0700fefbb516884a805dba57a3c68612e51ba1ddd8845f108caf35819d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/10\/1-4.1792284622003.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dira go wena diterompete tše pedi tša silibera; mošomo wa go betwa o o di dire ⟨את⟩; gomme di tla ba go wena bakeng sa go bitsa phuthego le bakeng sa go hlahlama ⟨את⟩ dikhampe.",
   "tokens": [
     {
       "surface": "עשה",
-      "gloss": "Dira"
+      "gloss": "dira"
     },
     {
       "surface": "לך",
-      "gloss": "okeletona"
+      "gloss": "go wena"
     },
     {
       "surface": "שתי",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "חצוצרת",
-      "gloss": "tša okeletoni"
+      "gloss": "diterompete"
     },
     {
       "surface": "כסף",
@@ -50,20 +29,20 @@
     },
     {
       "surface": "מקשה",
-      "gloss": "tša go bopišwa ka tšhogo o hlwaya"
+      "gloss": "mošomo wa go betwa"
     },
     {
       "surface": "תעשה",
-      "gloss": "o dire"
+      "gloss": "o di dire"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "tšona (tša okeletoni)"
+      "marks": "diterompete tše pedi tša silibera"
     },
     {
       "surface": "והיו",
-      "gloss": "di tla ba"
+      "gloss": "gomme di tla ba"
     },
     {
       "surface": "לך",
@@ -71,26 +50,26 @@
     },
     {
       "surface": "למקרא",
-      "gloss": "bakeng sa go boka"
+      "gloss": "bakeng sa go bitsa"
     },
     {
       "surface": "העדה",
-      "gloss": "setšhaba"
+      "gloss": "phuthego"
     },
     {
       "surface": "ולמסע",
-      "gloss": "le bakeng sa go tšwa"
+      "gloss": "le bakeng sa go hlahlama"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dikhamphane"
+      "marks": "dikhampe"
     },
     {
       "surface": "המחנות",
-      "gloss": "ga dikhamphane"
+      "gloss": "dikhampe"
     }
   ],
-  "timestamp": "2026-10-18T00:50:22.004603883Z",
+  "timestamp": "2026-10-18T17:33:33.674950905Z",
   "model": "glm-5.3"
 }

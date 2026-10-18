@@ -5,32 +5,11 @@
   "book": "joshua",
   "lang": "nso",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "ga tee · matsatsi a tshela",
-      "rationale": "Palo ya go dikologa le ya matsatsi e balwa ka botlalo — ga tee ka letšatši, matsatsi a tshela."
-    },
-    {
-      "kind": "you",
-      "subject": "banna ba ntwa",
-      "rationale": "Taelo e lebela banna botšhe ba ntwa ka boineelo."
-    }
-  ],
-  "translation": "Gomme le tla dikologa ⟨את⟩ motse, banna botšhe ba ntwa, go dikologa motse ga tee; bjalo o tla dira matsatsi a tshela.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "be71cc7ae851ab512c4d6208c291dcb6079c0db26b396ef784b36f0d9c454956",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/6\/1-4.1792286583339.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme le tla dikologa ⟨את⟩ motse, bahlanka ba ntoa ka moka, go dikologa ⟨את⟩ motse ga tee. Bjo le tla se dire mengwaga—e sego, matšatši a tshela.",
   "tokens": [
     {
       "surface": "וסבתם",
-      "gloss": "Gomme le tla dikologa"
+      "gloss": "gomme le tla dikologa"
     },
     {
       "surface": "את",
@@ -43,15 +22,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "botšhe"
+      "gloss": "ka moka"
     },
     {
       "surface": "אנשי",
-      "gloss": "banna ba"
+      "gloss": "bahlanka"
     },
     {
       "surface": "המלחמה",
-      "gloss": "ntwa"
+      "gloss": "ba ntoa"
     },
     {
       "surface": "הקיף",
@@ -76,11 +55,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "bjalo"
+      "gloss": "bjo"
     },
     {
       "surface": "תעשה",
-      "gloss": "o tla dira"
+      "gloss": "le tla se dire"
     },
     {
       "surface": "ששת",
@@ -88,9 +67,9 @@
     },
     {
       "surface": "ימים",
-      "gloss": "matsatsi"
+      "gloss": "matšatši"
     }
   ],
-  "timestamp": "2026-10-18T01:23:03.340786253Z",
+  "timestamp": "2026-10-18T17:27:40.236347282Z",
   "model": "glm-5.3"
 }

@@ -5,54 +5,33 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "setšhaba sa Yisraele",
-      "rationale": "Taello ye e lebellela setšhaba ka bontši"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "והתקדשתם \/ מקדשכם",
-      "rationale": "Bofedisano bja modu: 'le ikgethagatše' (v7) le 'yo a le kgethago' (v8) — modu o tee wa קדש, sebopego sa go bušetela"
-    }
-  ],
-  "translation": "Mme le boloke ⟨את⟩ melawana ya ka gomme le e dirе: nna ke Yahwe, yo a le kgethago.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "81eae7be84484b6eb4f18765251f4c3fc88d7fb023e0e78a42d6038537726f15",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/20\/5-8.1792284090981.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme le se ke la swega go lokiša dikgwerano tša ka, gomme le di dire: <1>E nne ke Yahwe, <2>yoo a le kgethago bjalo.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "le boloke"
+      "gloss": "Gomme le swego"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "melawana ya ka"
+      "marks": "dikgwerano tša ka"
     },
     {
       "surface": "חקתי",
-      "gloss": "melawana ya ka"
+      "gloss": "dikgwerano tša ka"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "gomme le e dire"
+      "gloss": "gomme le di dire"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "melawana ya ka"
+      "marks": "tšona (dikgwerano)"
     },
     {
       "surface": "אני",
-      "gloss": "nna"
+      "gloss": "E nne ke"
     },
     {
       "surface": "יהוה",
@@ -60,9 +39,9 @@
     },
     {
       "surface": "מקדשכם",
-      "gloss": "yo a le kgethago"
+      "gloss": "yoo a le kgethago bjalo"
     }
   ],
-  "timestamp": "2026-10-18T00:41:30.982901829Z",
+  "timestamp": "2026-10-18T17:40:12.099519677Z",
   "model": "glm-5.3"
 }

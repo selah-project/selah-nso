@@ -5,38 +5,7 @@
   "book": "joshua",
   "lang": "nso",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "go Yisraele",
-      "rationale": "Yosua o bolela ka tsela ya go laela setšhaba ka ditaello tše tharo"
-    },
-    {
-      "kind": "invitation",
-      "subject": "ditaello",
-      "rationale": "imperative ya go tšhaba le go šoma e bitša setšhaba go kgetha"
-    },
-    {
-      "kind": "crux",
-      "subject": "הנהר",
-      "rationale": "'Noka' (Eufrate) kgahlanong le 'noka e nngwe' — ke Eufrate go ya ka bontši bja batšhene"
-    },
-    {
-      "kind": "substitution",
-      "subject": "medimo",
-      "gloss": "אלהים a ditšhaba — ka ditlhaka tše nnye go ya ka D1"
-    }
-  ],
-  "translation": "Gomme bjale, le tšhabeng Yahwe gomme le mo šome ⟨את⟩ ka botlalo le ka nnete; gomme le tlogele ⟨את⟩ medimo yeo maloko a lona a bego a e šoma lehya Noka le Mitsrayime; gomme le šome ⟨את⟩ Yahwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "95c205cf32e1848e145bee027f1f91305aadb269a6636abbb19d65a2bb9b57ae",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/24\/13-16.1792287123526.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme bjale le tšogeng Yahwe, gomme le šomele ⟨את⟩-ena ka botee le ka nnete; gomme le tloše ⟨את⟩ medimo yeo bao ba nnyago ba bego ba e šomela ka mo mafelelong a noka, le go Mitsrayime; gomme le šomele ⟨את⟩ Yahwe.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -44,7 +13,7 @@
     },
     {
       "surface": "יראו",
-      "gloss": "le tšhabeng"
+      "gloss": "le tšogeng"
     },
     {
       "surface": "את",
@@ -57,16 +26,16 @@
     },
     {
       "surface": "ועבדו",
-      "gloss": "gomme le mo šome"
+      "gloss": "gomme le šomele"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "Yahwe"
+      "gloss": "⟨את⟩-ena",
+      "marks": "botee le nnete"
     },
     {
       "surface": "בתמים",
-      "gloss": "ka botlalo"
+      "gloss": "ka botee"
     },
     {
       "surface": "ובאמת",
@@ -74,7 +43,7 @@
     },
     {
       "surface": "והסירו",
-      "gloss": "gomme le tlogele"
+      "gloss": "gomme le tloše"
     },
     {
       "surface": "את",
@@ -91,27 +60,27 @@
     },
     {
       "surface": "עבדו",
-      "gloss": "a bego a e šoma"
+      "gloss": "ba šomilego"
     },
     {
       "surface": "אבותיכם",
-      "gloss": "maloko a lona"
+      "gloss": "bao ba nnyago"
     },
     {
       "surface": "בעבר",
-      "gloss": "lehya"
+      "gloss": "ka mo mafelelong a"
     },
     {
       "surface": "הנהר",
-      "gloss": "Noka"
+      "gloss": "noka"
     },
     {
       "surface": "ובמצרים",
-      "gloss": "le Mitsrayime"
+      "gloss": "le go Mitsrayime"
     },
     {
       "surface": "ועבדו",
-      "gloss": "gomme le šome"
+      "gloss": "gomme le šomele"
     },
     {
       "surface": "את",
@@ -123,6 +92,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T01:32:03.527278822Z",
+  "timestamp": "2026-10-18T17:27:00.683943193Z",
   "model": "glm-5.3"
 }

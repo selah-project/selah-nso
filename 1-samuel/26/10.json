@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "כי אם",
-      "rationale": "Ba-di-phetoletši ba fapana: 'except' (ga e se — YLT, JPS) kgahlanong le 'or' (KJV, ASV); Sepedi mo ya latela 'ga e se'."
-    },
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "Sekopanyi se kopantšwe le כי go hlama 'ga e se' — se sengwe se hlakantšwe."
-    }
-  ],
-  "translation": "Gomme Dafida a re: Yahwe o phela; ga e se Yahwe a ka mo kgoma, goba letšatšo la gagwe le tla mohlang a swa, goba a theoga ntweng a fele.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "2f6a56f3a536360a070684ed38632b70195ba5a206c3af16e9bf0e676f4d4294",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/26\/9-12.1792288739952.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Dafida a re: Yahwe o phela — go sa šwe kgauswi le seo, Yahwe ke yena yo a tla mo gagafago, goba letšatši la gagwe le tla tla gomme a hwala, goba o tla theoga go ya ntweng gomme a phuthwa.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "gomme … a re"
     },
     {
       "surface": "דוד",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "ga e se"
+      "gloss": "go sa šwe"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "kgauswi le seo"
     },
     {
       "surface": "יהוה",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "יגפנו",
-      "gloss": "a ka mo kgoma"
+      "gloss": "o tla mo gagafa"
     },
     {
       "surface": "או",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "יומו",
-      "gloss": "letšatšo la gagwe"
+      "gloss": "letšatši la gagwe"
     },
     {
       "surface": "יבוא",
-      "gloss": "le tla"
+      "gloss": "le tla tla"
     },
     {
       "surface": "ומת",
-      "gloss": "a swa"
+      "gloss": "gomme a hwala"
     },
     {
       "surface": "או",
@@ -82,17 +61,17 @@
     },
     {
       "surface": "במלחמה",
-      "gloss": "ntweng"
+      "gloss": "go ya ntweng"
     },
     {
       "surface": "ירד",
-      "gloss": "a theoga"
+      "gloss": "o tla theoga"
     },
     {
       "surface": "ונספה",
-      "gloss": "a fele"
+      "gloss": "gomme a phuthwa"
     }
   ],
-  "timestamp": "2026-10-18T01:58:59.953117283Z",
+  "timestamp": "2026-10-18T17:00:07.264561620Z",
   "model": "glm-5.3"
 }

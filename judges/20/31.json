@@ -5,49 +5,23 @@
   "book": "judges",
   "lang": "nso",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "banna ba masometharo",
-      "rationale": "Palo ya batho ba bolailwego — le ka ntle ga maikemišetšo a Yisraele a go itshwara go baleha."
-    },
-    {
-      "kind": "substitution",
-      "subject": "חללים",
-      "rationale": "Lentšu le le ka bolela 'ba tlhaloganywago' goba 'ba bolailwego'; mo go laetša batho ba bolailwego."
-    },
-    {
-      "kind": "elision",
-      "subject": "מן · אל · אשר",
-      "rationale": "Mekgwa ye e hlapoletšwego ka go šomiša mokgwa wa Sepedi wa maina a mabedi a kopantšwego."
-    }
-  ],
-  "translation": "Gomme bana ba Binyamine ba tšwa go kgohlakanela le setšhaba; ba hlahlwa motse o; ba thoma go otlasetša sešo go setšhaba, ba bolaya bjalo ka mehla ye mengwe, ditseleng tše kgolo — e tee e ya godimo go Bethele, e tee e ya go Gibege nageng — go swana le banna ba masometharo go Yisraele.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "7fb0cb169acced5c430d9d01a93bffe0e67e95c29cd1f87233e9da1b91e51016",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/20\/29-32.1792287861124.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme bara ba Benjamene ba tswa go kopana le setšhaba, ba hudišwa go tšwa motseṅ, ba thoma go betša setšhaba ka diphofo, bjalo ka ge ba dirile nakong e nngwe le e nngwe, ditseleng tša ka ntle, tša go swana le tšeo — tee e eleago go Bethele, gomme tee go Gibea, nageng — e ka baka banna ba ba ka bago masometharo go Yisraele.",
   "tokens": [
     {
       "surface": "ויצאו",
-      "gloss": "gomme … ba tšwa"
+      "gloss": "ba tswa"
     },
     {
       "surface": "בני",
-      "gloss": "bana ba"
+      "gloss": "bara"
     },
     {
       "surface": "בנימן",
-      "gloss": "Binyamine"
+      "gloss": "Benjamene"
     },
     {
       "surface": "לקראת",
-      "gloss": "go kgohlakanela le"
+      "gloss": "go kopana le"
     },
     {
       "surface": "העם",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "הנתקו",
-      "gloss": "ba hlahlwa"
+      "gloss": "ba hudišwa"
     },
     {
       "surface": "מן",
-      "gloss": ""
+      "gloss": "go tšwa"
     },
     {
       "surface": "העיר",
-      "gloss": "motse o"
+      "gloss": "motseṅ"
     },
     {
       "surface": "ויחלו",
@@ -71,39 +45,39 @@
     },
     {
       "surface": "להכות",
-      "gloss": "go otlasetša sešo"
+      "gloss": "go betša"
     },
     {
       "surface": "מהעם",
-      "gloss": "go setšhaba"
+      "gloss": "setšhaba"
     },
     {
       "surface": "חללים",
-      "gloss": "ba bolaya"
+      "gloss": "diphofo"
     },
     {
       "surface": "כפעם",
-      "gloss": "bjalo ka mehla"
+      "gloss": "bjalo ka ge ba dirile"
     },
     {
       "surface": "בפעם",
-      "gloss": "ye mengwe"
+      "gloss": "nakong e nngwe le e nngwe"
     },
     {
       "surface": "במסלות",
-      "gloss": "ditseleng tše kgolo"
+      "gloss": "ditseleng tša ka ntle"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "tša go swana le tšeo"
     },
     {
       "surface": "אחת",
-      "gloss": "e tee"
+      "gloss": "tee"
     },
     {
       "surface": "עלה",
-      "gloss": "e ya godimo"
+      "gloss": "e eleago"
     },
     {
       "surface": "בית",
@@ -111,15 +85,15 @@
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Bethele"
     },
     {
       "surface": "ואחת",
-      "gloss": "e tee"
+      "gloss": "gomme tee"
     },
     {
       "surface": "גבעתה",
-      "gloss": "go Gibege"
+      "gloss": "Gibea"
     },
     {
       "surface": "בשדה",
@@ -127,7 +101,7 @@
     },
     {
       "surface": "כשלשים",
-      "gloss": "go swana le … ba masometharo"
+      "gloss": "ba ba ka bago masometharo"
     },
     {
       "surface": "איש",
@@ -138,6 +112,6 @@
       "gloss": "go Yisraele"
     }
   ],
-  "timestamp": "2026-10-18T01:44:21.125284639Z",
+  "timestamp": "2026-10-18T17:29:01.603447029Z",
   "model": "glm-5.3"
 }

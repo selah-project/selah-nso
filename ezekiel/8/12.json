@@ -5,53 +5,27 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Ezekiele",
-      "rationale": "Seipotšo se se botšiša Ezekiele ka tlhamalalo — 'Na o bone, morwa wa motho?'"
-    },
-    {
-      "kind": "crux",
-      "subject": "חדרי משכיתו",
-      "rationale": "'diphapaneng tša diswantšho tša gagwe' — KJV 'chambers of his imagery', BSB 'shrine of his idol' — go sautišwa hore e le diphapaneng tša thapelo tša mošomi wa medimo."
-    },
-    {
-      "kind": "elision",
-      "subject": "אותנו",
-      "rationale": "אֹתָנוּ ke sebosogo se seswa ('rena'), e sego laela la ⟨את⟩, ka ge le kopantšwe le sebosogo."
-    }
-  ],
-  "translation": "Gomme a re go nna: Na o bone, morwa wa motho, seo bagolo ba lelapa la Yisraele ba se dirago lefsifsing, motho yo mongwe le yo mongwe diphapaneng tša diswantšho tša gagwe? Gobane ba re: Ga go Yahwe yo a re bonago, Yahwe o tlogetse ⟨את⟩ lefase.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "e9fa700c2bc192dca953e77f0df31971148dcd7058638099c5973a98e8af433c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/8\/9-12.1792294522784.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a mpolelela a re: A o bone, morwa wa motho, seo bagolo ba ntlo ya Yisraele ba se dirago lefifing, motho yo mongwe le yo mongwe diphaphiring tša seswantšho sa gagwe? Gomme ke ka gobane ba re: Yahwe ga a re bone ⟨את⟩ rena; Yahwe o tlogetse ⟨את⟩ lefase.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Gomme a re"
+      "gloss": "gomme a mpolelela"
     },
     {
       "surface": "אלי",
-      "gloss": "go nna"
+      "gloss": "go yena go nna"
     },
     {
       "surface": "הראית",
-      "gloss": "Na o bone"
+      "gloss": "a o bone"
     },
     {
       "surface": "בן",
-      "gloss": "morwa wa"
+      "gloss": "morwa"
     },
     {
       "surface": "אדם",
-      "gloss": "motho"
+      "gloss": "wa motho"
     },
     {
       "surface": "אשר",
@@ -59,15 +33,15 @@
     },
     {
       "surface": "זקני",
-      "gloss": "bagolo ba"
+      "gloss": "bagolo"
     },
     {
       "surface": "בית",
-      "gloss": "lelapa la"
+      "gloss": "ntlo"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "ya Yisraele"
     },
     {
       "surface": "עשים",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "בחשך",
-      "gloss": "lefsifsing"
+      "gloss": "lefifing"
     },
     {
       "surface": "איש",
@@ -83,15 +57,15 @@
     },
     {
       "surface": "בחדרי",
-      "gloss": "diphapaneng tša"
+      "gloss": "diphaphiring tša"
     },
     {
       "surface": "משכיתו",
-      "gloss": "diswantšho tša gagwe"
+      "gloss": "seswantšho sa gagwe"
     },
     {
       "surface": "כי",
-      "gloss": "Gobane"
+      "gloss": "ka gobane"
     },
     {
       "surface": "אמרים",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "אין",
-      "gloss": "ga go"
+      "gloss": "ga"
     },
     {
       "surface": "יהוה",
@@ -107,11 +81,12 @@
     },
     {
       "surface": "ראה",
-      "gloss": "yo a re bonago"
+      "gloss": "a re bone"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ rena"
+      "gloss": "⟨את⟩ rena",
+      "marks": "rena (e swaya rena)"
     },
     {
       "surface": "עזב",
@@ -131,6 +106,6 @@
       "gloss": "lefase"
     }
   ],
-  "timestamp": "2026-10-18T03:35:22.785966458Z",
+  "timestamp": "2026-10-18T17:15:31.128206079Z",
   "model": "glm-5.3"
 }

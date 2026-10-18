@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "השליקו",
-      "rationale": "Sehlopha sa dirišwa ga se bolelwa ka tlhamalalo — 'ba' ke ⟨ba⟩ yeo e okeditšwego go Sepedi"
-    },
-    {
-      "kind": "crux",
-      "subject": "השליקו",
-      "rationale": "'Ba lahtše dimishkane tša rena' goba 'dimishkane tša rena di re lahletše' — sebopego sa pušo se se ganetšanego"
-    }
-  ],
-  "translation": "Gore lentšu la sehu le a kwešwa go Tsiyone: Re senyegile bjang! Re ile ditlhong kudu, ka gobane re tlogetše ⟨את⟩ lefase, ka gobane ba lahtše ⟨את⟩ dimishkane tša rena.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "3fdec580f51d3c7dab461ce2991977c4f7bad13ab976bc9844df96d735cd160f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/9\/17-20.1792292996856.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane lentšu la mokopelo le a theetšwa le tšwa Tsiyone: Re šuthišitšwe kae! Re ile ka manyami kudu, ka gobane re tlogetše ⟨את⟩ lefase, ka gobane Mishkane ya rena e re hlwašitše.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "gore"
+      "gloss": "ka gobane"
     },
     {
       "surface": "קול",
@@ -38,27 +17,27 @@
     },
     {
       "surface": "נהי",
-      "gloss": "la sehu"
+      "gloss": "la mokopelo"
     },
     {
       "surface": "נשמע",
-      "gloss": "le a kwešwa"
+      "gloss": "le a theetšwa"
     },
     {
       "surface": "מציון",
-      "gloss": "go Tsiyone"
+      "gloss": "le tšwa Tsiyone"
     },
     {
       "surface": "איך",
-      "gloss": "bjang"
+      "gloss": "kae"
     },
     {
       "surface": "שדדנו",
-      "gloss": "re senyegile"
+      "gloss": "re šuthišitšwe"
     },
     {
       "surface": "בשנו",
-      "gloss": "re ile ditlhong"
+      "gloss": "re ile ka manyami"
     },
     {
       "surface": "מאד",
@@ -73,11 +52,6 @@
       "gloss": "re tlogetše"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "lefase"
-    },
-    {
       "surface": "ארץ",
       "gloss": "lefase"
     },
@@ -86,14 +60,14 @@
       "gloss": "ka gobane"
     },
     {
-      "surface": "השליקו",
-      "gloss": "ba lahtše"
+      "surface": "השליכו",
+      "gloss": "e re hlwašitše"
     },
     {
       "surface": "משכנותינו",
-      "gloss": "dimishkane tša rena"
+      "gloss": "Mishkane ya rena"
     }
   ],
-  "timestamp": "2026-10-18T03:09:56.857652716Z",
+  "timestamp": "2026-10-18T17:25:23.941093327Z",
   "model": "glm-5.3"
 }

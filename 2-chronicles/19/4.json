@@ -5,37 +5,15 @@
   "book": "2-chronicles",
   "lang": "nso",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "וישב \/ וישיבם",
-      "gloss": "",
-      "rationale": "go boela ga Yehoshafate go setšhaba le go ba boeletša go Yahwe — modu o tee wa שׁוב o boa gabedi, go boela ga kgoši le go boela ga setšhaba go tletše go swana"
-    },
-    {
-      "kind": "elision",
-      "subject": "שבע",
-      "rationale": "karolo ya bobedi ya leina Beersheba — leina le tee la lefelo, le sa fetolelwang"
-    }
-  ],
-  "translation": "Gomme Yehoshafate a dula Yerushalayime; a boela a tloša go setšhaba, go tšwa Beersheba go fihla thabeng ya Efrayime, a ba boeletša go Yahwe, Elohim ya bo-ntate ba bona.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "e9694e9d2244538fe6f12e2b81ecf85492e25723d736071a90d79fa0dd309c55",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/19\/1-4.1792304016902.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yehoshafata a dula Yerushalayime; gomme a boa a tšwa ⟨go⟩ setšhaba, go tloga Beera-Sheba go fihla thabeng ya Efrayime, gomme a ba boela go Yahwe, Elohim ya bo-ntate bona.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "gomme a dula"
+      "gloss": "a dula"
     },
     {
       "surface": "יהושפט",
-      "gloss": "Yehoshafate"
+      "gloss": "Yehoshafata"
     },
     {
       "surface": "בירושלם",
@@ -43,19 +21,19 @@
     },
     {
       "surface": "וישב",
-      "gloss": "a boela"
+      "gloss": "a boa"
     },
     {
       "surface": "ויצא",
-      "gloss": "a tloša"
+      "gloss": "a tšwa"
     },
     {
       "surface": "בעם",
-      "gloss": "go setšhaba"
+      "gloss": "⟨go⟩ setšhaba"
     },
     {
       "surface": "מבאר",
-      "gloss": "go tšwa Beersheba"
+      "gloss": "Beera-Sheba"
     },
     {
       "surface": "שבע",
@@ -71,11 +49,11 @@
     },
     {
       "surface": "אפרים",
-      "gloss": "ya Efrayime"
+      "gloss": "Efrayime"
     },
     {
       "surface": "וישיבם",
-      "gloss": "a ba boeletša"
+      "gloss": "a ba boela"
     },
     {
       "surface": "אל",
@@ -91,9 +69,9 @@
     },
     {
       "surface": "אבותיהם",
-      "gloss": "ya bo-ntate ba bona"
+      "gloss": "ya bo-ntate bona"
     }
   ],
-  "timestamp": "2026-10-18T06:13:36.903745820Z",
+  "timestamp": "2026-10-18T17:02:01.599061424Z",
   "model": "glm-5.3"
 }

@@ -5,48 +5,27 @@
   "book": "zephaniah",
   "lang": "nso",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "mehato ya kotlo",
-      "rationale": "sehlabelo se lalediwa ka lenaneo: dikgoši, bana ba kgoši, ba aparetšego diaparo tša sekhutšwana"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ke tla hlahloba",
-      "rationale": "פקד 'go etela' se šomišwa bjalo ka 'go hlahloba ka kotlo' — modumo wa go etela o falotšwe"
-    }
-  ],
-  "translation": "Gomme go tla ba gona ka letsatsi la sehlabelo sa Yahwe, ke tla hlahloba dikgoši, le bana ba kgoši, le ka moka bao ba aparetšego diaparo tša setšhaba se sengwe.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "1eb731c5e0f0e9912241346514f8cff2b9092818e7dd1f891c3361c51a6bea84",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zephaniah\/1\/5-8.1792296765513.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme go tla ba gona ka letšatši la sehlabelo sa Yahwe, ke a sepha dihlogo tša setšhaba le bana ba kgoši, le ba kamyoro ba aparetšego diaparo tša sephetšhatsho.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "Gomme go tla ba gona"
+      "gloss": "gomme go tla ba gona"
     },
     {
       "surface": "ביום",
-      "gloss": "ka letsatsi la"
+      "gloss": "ka letšatši"
     },
     {
       "surface": "זבח",
-      "gloss": "sehlabelo"
+      "gloss": "la sehlabelo"
     },
     {
       "surface": "יהוה",
-      "gloss": "sa Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "ופקדתי",
-      "gloss": "ke tla hlahloba"
+      "gloss": "ke a sepha"
     },
     {
       "surface": "על",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "השרים",
-      "gloss": "dikgoši"
+      "gloss": "dihlogo tša setšhaba"
     },
     {
       "surface": "ועל",
@@ -62,23 +41,23 @@
     },
     {
       "surface": "בני",
-      "gloss": "bana ba"
+      "gloss": "bana"
     },
     {
       "surface": "המלך",
-      "gloss": "kgoši"
+      "gloss": "ba kgoši"
     },
     {
       "surface": "ועל",
-      "gloss": "le ka moka"
+      "gloss": "le"
     },
     {
       "surface": "כל",
-      "gloss": "ka moka bao"
+      "gloss": "ba kamyoro"
     },
     {
       "surface": "הלבשים",
-      "gloss": "bao ba aparetšego"
+      "gloss": "ba aparetšego"
     },
     {
       "surface": "מלבוש",
@@ -86,9 +65,9 @@
     },
     {
       "surface": "נכרי",
-      "gloss": "tša setšhaba se sengwe"
+      "gloss": "tša sephetšhatsho"
     }
   ],
-  "timestamp": "2026-10-18T04:12:45.514230534Z",
+  "timestamp": "2026-10-18T17:38:47.521289950Z",
   "model": "glm-5.3"
 }

@@ -5,48 +5,27 @@
   "book": "1-chronicles",
   "lang": "nso",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לפני",
-      "rationale": "_modupeng_ ga papa — literal 'pele ga sefahlego sa papa wa bona'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ויכהנו",
-      "rationale": "'ba šoma bjalo ka baperisita' — seheberu se re go dira mošomo wa moperisita"
-    }
-  ],
-  "translation": "Gomme Nadabe le Abihue ba hwala pele ga ⟨⟨raki⟩⟩ papa wa bona, gomme bana ga ba ba le ⟨ba⟩ bona; gomme Elazara le Itamara ba šoma bjalo ka baperisita.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "2eba3e8651940b0bc165d42ef5f9ed31d3cecc1f37ae34e5e98849bc29af445f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/24\/1-4.1792303397782.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Nadabe mokula, le Abihuwa, ka pele ga ⟨go⟩ ntataabona, gomme bana ba be ba se na goba ba ba sego gona; gomme Elazara le Itamara ba ile ba šoma bjalo ka baperisita.",
   "tokens": [
     {
       "surface": "וימת",
-      "gloss": "gomme ba hwala"
+      "gloss": "Gomme ... mokula"
     },
     {
       "surface": "נדב",
       "gloss": "Nadabe"
     },
     {
-      "surface": "ואביהוא",
-      "gloss": "le Abihue"
+      "surface": "וַאֲבִיהוּא",
+      "gloss": "le Abihuwa"
     },
     {
       "surface": "לפני",
-      "gloss": "pele ga"
+      "gloss": "ka pele ga"
     },
     {
       "surface": "אביהם",
-      "gloss": "papa wa bona"
+      "gloss": "ntataabona"
     },
     {
       "surface": "ובנים",
@@ -54,19 +33,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ba se na"
     },
     {
       "surface": "היו",
-      "gloss": "ba le"
+      "gloss": "ba be"
     },
     {
       "surface": "להם",
-      "gloss": "go bona"
+      "gloss": "ba bona"
     },
     {
       "surface": "ויכהנו",
-      "gloss": "gomme ba šoma bjalo ka baperisita"
+      "gloss": "ba ile ba šoma bjalo ka baperisita"
     },
     {
       "surface": "אלעזר",
@@ -77,6 +56,6 @@
       "gloss": "le Itamara"
     }
   ],
-  "timestamp": "2026-10-18T06:03:17.783714013Z",
+  "timestamp": "2026-10-18T16:57:05.953961518Z",
   "model": "glm-5.3"
 }

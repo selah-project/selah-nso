@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "wa gagwe",
-      "rationale": "Seheberu se na le sesupo fela -ו; Sepedi se nyaka lentšu le feletšego"
-    },
-    {
-      "kind": "elision",
-      "subject": "לו",
-      "rationale": "etso ya go sepela 'a yo a ikgethela' — sehlodi se sa lokelago go fetoletšwa ka thoko"
-    },
-    {
-      "kind": "crux",
-      "subject": "חתנו",
-      "rationale": "raagwe-mosadi (mong wa mmateba) kgahlanong le 'rakgwebo' — mmatla ke wa motho, e sego wa sehlopha"
-    }
-  ],
-  "translation": "Gomme Moshe a romela ⟨את⟩ raagwe-mosadi ⟨wa gagwe⟩, a yo lefaseng la gagwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "bba99d2e4c5d04cad30ece01ac68fa339deeb7f04e6a5ff30b550c0440431446",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/18\/25-27.1792282769126.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Moshe a romela ⟨את⟩ sesišaka wa gagwe, gomme yena a sepela a boela lefaseng la gagwe.",
   "tokens": [
     {
       "surface": "וישלח",
@@ -44,29 +18,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "raagwe-mosadi wa gagwe"
+      "marks": "sesišaka wa gagwe"
     },
     {
       "surface": "חתנו",
-      "gloss": "raagwe-mosadi wa gagwe"
+      "gloss": "sesišaka wa gagwe"
     },
     {
       "surface": "וילך",
-      "gloss": "a yo"
+      "gloss": "a sepela"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "⟨yena⟩"
     },
     {
       "surface": "אל",
-      "gloss": "lefaseng"
+      "gloss": "go ya go"
     },
     {
       "surface": "ארצו",
-      "gloss": "la gagwe"
+      "gloss": "lefase la gagwe"
     }
   ],
-  "timestamp": "2026-10-18T00:19:29.127776047Z",
+  "timestamp": "2026-10-18T17:11:23.580892956Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "psalms",
   "lang": "nso",
   "chapter": 71,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "ספרות",
-      "rationale": "sepelopelo — lentšu le le tlwaelegilego fela temaneng ye ka bophara bja Tanakh"
-    },
-    {
-      "kind": "measurement",
-      "subject": "dipalo",
-      "rationale": "go gana go tseba dipalo — go balwa ga mabaka a se nago mellwane"
-    }
-  ],
-  "translation": "Otla wa ka o tla bolela ⟨את⟩ toko ya gago, ⟨את⟩ poloko ya gago letšatši ka moka; ka gobane ga ke tsebe dipalo tša yona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "0a1ee5dc1511e1ef3f3520935b85d72f87a00495bbe70beb00fb03821231156b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/71\/13-16.1792298105502.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Molomo wa ka o tla bolela tsedeke ya gago, letšatši ka moka polokego ya gago; gobane ga se ke tseba ⟨tša yona⟩ dipalo.",
   "tokens": [
     {
       "surface": "פי",
-      "gloss": "otla wa ka"
+      "gloss": "molomo wa ka"
     },
     {
       "surface": "יספר",
@@ -38,8 +17,7 @@
     },
     {
       "surface": "צדקתך",
-      "gloss": "⟨את⟩ toko ya gago",
-      "marks": "toko ya gago"
+      "gloss": "tsedeke ya gago"
     },
     {
       "surface": "כל",
@@ -51,26 +29,25 @@
     },
     {
       "surface": "תשועתך",
-      "gloss": "⟨את⟩ poloko ya gago",
-      "marks": "poloko ya gago"
+      "gloss": "polokego ya gago"
     },
     {
       "surface": "כי",
-      "gloss": "ka gobane"
+      "gloss": "gobane"
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ga se"
     },
     {
       "surface": "ידעתי",
-      "gloss": "ke tsebe"
+      "gloss": "ke tseba"
     },
     {
       "surface": "ספרות",
-      "gloss": "dipalo tša yona"
+      "gloss": "dipalo"
     }
   ],
-  "timestamp": "2026-10-18T04:35:05.503305919Z",
+  "timestamp": "2026-10-18T17:38:29.843273972Z",
   "model": "glm-5.3"
 }

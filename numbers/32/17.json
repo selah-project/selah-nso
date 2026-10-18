@@ -5,45 +5,19 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "עד אשר אם is a double compound 'until if'; the second particle carries no separate sense and is dropped."
-    },
-    {
-      "kind": "crux",
-      "subject": "נחלץ חשים",
-      "rationale": "Literal 'we will pull ourselves off, hurrying'; rendered as arming promptly — the root חלץ ranges from 'strip off' to 'equip for war'."
-    },
-    {
-      "kind": "you",
-      "subject": "to Moses",
-      "rationale": "The tribes of Reuben and Gad answer Moses directly in negotiated speech."
-    }
-  ],
-  "translation": "Re rona re tla ipaakantša ka potego pele ga bana ba Yisraele, go fihlela ge re ka ba hloditše go fihla lefelong la bona; gomme bana ba rena ba manyenyane ba tla dula metseeng e tiilego, ka baka la baagi ba lefase.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "3bf25416e13566a7fe89994856c4ab055f8e0ac42ff067642f9c3bd922b86ea9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/32\/17-20.1792285332530.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme rena re tla rwala dibetsa ka lebelo pele ga bana ba Yisraele, go fihla ge re ba tlisitše go lefelo la bona; gomme bana ba rena ba ba nnye ba dule ditoropong tša mabotho, ka baka la bahlali ba lefase.",
   "tokens": [
     {
       "surface": "ואנחנו",
-      "gloss": "re rona"
+      "gloss": "gomme rena"
     },
     {
       "surface": "נחלץ",
-      "gloss": "re tla ipaakantša"
+      "gloss": "re tla rwala dibetsa"
     },
     {
       "surface": "חשים",
-      "gloss": "ka potego"
+      "gloss": "ka lebelo"
     },
     {
       "surface": "לפני",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "עד",
-      "gloss": "go fihlela"
+      "gloss": "go fihla"
     },
     {
       "surface": "אשר",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "הביאנם",
-      "gloss": "re ka ba hloditše"
+      "gloss": "re ba tlisitše"
     },
     {
       "surface": "אל",
@@ -79,23 +53,23 @@
     },
     {
       "surface": "מקומם",
-      "gloss": "lefelong la bona"
+      "gloss": "lefelo la bona"
     },
     {
       "surface": "וישב",
-      "gloss": "ba tla dula"
+      "gloss": "gomme ... ba dule"
     },
     {
       "surface": "טפנו",
-      "gloss": "bana ba rena ba manyenyane"
+      "gloss": "bana ba rena ba ba nnye"
     },
     {
       "surface": "בערי",
-      "gloss": "metseeng"
+      "gloss": "ditoropong tša"
     },
     {
       "surface": "המבצר",
-      "gloss": "e tiilego"
+      "gloss": "mabotho"
     },
     {
       "surface": "מפני",
@@ -103,13 +77,13 @@
     },
     {
       "surface": "ישבי",
-      "gloss": "baagi"
+      "gloss": "bahlali ba"
     },
     {
       "surface": "הארץ",
-      "gloss": "ba lefase"
+      "gloss": "lefase"
     }
   ],
-  "timestamp": "2026-10-18T01:02:12.530862675Z",
+  "timestamp": "2026-10-18T17:35:44.157081839Z",
   "model": "glm-5.3"
 }

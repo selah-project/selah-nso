@@ -5,28 +5,7 @@
   "book": "esther",
   "lang": "nso",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הפרתמים",
-      "rationale": "Lentšu la Peresia le tšwa lelemeng ya kgoši; le phetološitšwe bjalo ka ba bagolo ba kgoši."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "חפץ ביקרו",
-      "rationale": "Phetolo ya papiso e boela gabedi ka botlalo temaneng ye — sefoko sa tlhologedilo sa sebopego."
-    }
-  ],
-  "translation": "Gomme go fiwe seaparo le pere mo seatleng sa sa mošomiši ba kgoši, ba bagolo, ba ba apeseng motho yo kgoši ya ikweledi go mo tlotša ka yena, gomme ba mo palame ka pere sekgobašego sa toropong, gomme go bitšwe ka pele ga yena: Bjalo ka se dirwa go motho yo kgoši ya ikweledi go mo tlotša.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "cab17817ff1e14b4b86f16d7cbabc5a922309a5d4dc532f7e3a2c20a028f55ca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/6\/9-12.1792301682035.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme go fiwe seaparo le pere ka seatla sa mongwe wa baholo-kudu ba kgoši, gomme ba apese ⟨את⟩ monna yo kgoši e mo ratago go mo tlotša, gomme ba mo be pere teng ba sepela ka seterata ya toropo, gomme ba llele pele ga gagwe: Bjalo ga go dirwa go monna yo kgoši e mo ratago go mo tlotša.",
   "tokens": [
     {
       "surface": "ונתון",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "על",
-      "gloss": "mo"
+      "gloss": "ka"
     },
     {
       "surface": "יד",
-      "gloss": "seatleng"
+      "gloss": "seatla"
     },
     {
       "surface": "איש",
-      "gloss": "sa"
+      "gloss": "mongwe"
     },
     {
       "surface": "משרי",
-      "gloss": "mošomiši ba"
+      "gloss": "baholo-kudu"
     },
     {
       "surface": "המלך",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "הפרתמים",
-      "gloss": "ba bagolo"
+      "gloss": "bakhurumedi ba kgoši"
     },
     {
       "surface": "והלבישו",
@@ -71,11 +50,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "motho"
+      "marks": "monna"
     },
     {
       "surface": "האיש",
-      "gloss": "motho"
+      "gloss": "monna"
     },
     {
       "surface": "אשר",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "ya ikweledi"
+      "gloss": "e mo rata"
     },
     {
       "surface": "ביקרו",
@@ -95,7 +74,7 @@
     },
     {
       "surface": "והרכיבהו",
-      "gloss": "gomme ba mo palame"
+      "gloss": "gomme ba mo be pere teng"
     },
     {
       "surface": "על",
@@ -107,19 +86,19 @@
     },
     {
       "surface": "ברחוב",
-      "gloss": "sekgobašego"
+      "gloss": "ka seterata"
     },
     {
       "surface": "העיר",
-      "gloss": "toropong"
+      "gloss": "ya toropo"
     },
     {
-      "surface": "וקראו",
-      "gloss": "gomme go bitšwe"
+      "surface": "ווקראו",
+      "gloss": "gomme ba llele"
     },
     {
       "surface": "לפניו",
-      "gloss": "ka pele ga yena"
+      "gloss": "pele ga gagwe"
     },
     {
       "surface": "ככה",
@@ -127,11 +106,11 @@
     },
     {
       "surface": "יעשה",
-      "gloss": "se dirwa"
+      "gloss": "go dirwa"
     },
     {
       "surface": "לאיש",
-      "gloss": "go motho"
+      "gloss": "go monna"
     },
     {
       "surface": "אשר",
@@ -143,13 +122,13 @@
     },
     {
       "surface": "חפץ",
-      "gloss": "ya ikweledi"
+      "gloss": "e mo rata"
     },
     {
       "surface": "ביקרו",
       "gloss": "go mo tlotša"
     }
   ],
-  "timestamp": "2026-10-18T05:34:42.036287467Z",
+  "timestamp": "2026-10-18T17:10:20.614091541Z",
   "model": "glm-5.3"
 }

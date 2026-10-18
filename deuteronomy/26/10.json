@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨e⟩",
-      "rationale": "Seheberu se na le sediriwa fela (הוא) se se bontšhago sehlahlwa, Sepedi se nyaka(ela) sehlahlwa se seng"
-    },
-    {
-      "kind": "you",
-      "subject": "go Yisraele",
-      "rationale": "Temana e bolela go mmopi wa sehlabelo, go latela taelo ya mošomo wa mathomo a pelepo"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יהוה אלהיך ×3",
-      "rationale": "Phetišo ya leina gathi tharo, se seng sa sebopego sa temana ye"
-    }
-  ],
-  "translation": "Gomme bjale, thle, ke tlišitše ⟨את⟩ mathomo a pelepo ya ⟨⟨sehla⟩⟩ ya lefase, leo o fileng ke lona, Yahwe; gomme o beile ⟨⟨e⟩⟩ pele ga Yahwe Elohim wa gago, gomme o ikobile pele ga Yahwe Elohim wa gago.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "df2215db516e6a68c83a6972df18973c862707f2c43082b1eb9c9c5f829fe8c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/26\/10-11.1792304775800.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme bjale, bona, ke tlišitše ⟨את⟩ mathomo a pojoo ya lefase, woo u mphiletšego go lona, Yahwe; gomme o a beše pele ga Yahwe Elohim wa gago, gomme o ineetše pele ga Yahwe Elohim wa gago.",
   "tokens": [
     {
       "surface": "ועתה",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "הנה",
-      "gloss": "thle"
+      "gloss": "bona"
     },
     {
       "surface": "הבאתי",
@@ -48,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mathomo"
+      "marks": "mathomo a pojoo ya lefase"
     },
     {
       "surface": "ראשית",
@@ -56,23 +30,23 @@
     },
     {
       "surface": "פרי",
-      "gloss": "pelepo"
+      "gloss": "pojoo"
     },
     {
       "surface": "האדמה",
-      "gloss": "ya lefase"
+      "gloss": "lefase"
     },
     {
       "surface": "אשר",
-      "gloss": "leo"
+      "gloss": "woo"
     },
     {
       "surface": "נתתה",
-      "gloss": "o fileng"
+      "gloss": "u mphiletšego"
     },
     {
       "surface": "לי",
-      "gloss": "ke lona"
+      "gloss": "go nna"
     },
     {
       "surface": "יהוה",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "והנחתו",
-      "gloss": "gomme o beile"
+      "gloss": "gomme o a beše"
     },
     {
       "surface": "לפני",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "והשתחוית",
-      "gloss": "gomme o ikobile"
+      "gloss": "gomme o ineetše"
     },
     {
       "surface": "לפני",
@@ -111,6 +85,6 @@
       "gloss": "Elohim wa gago"
     }
   ],
-  "timestamp": "2026-10-18T06:26:15.800777065Z",
+  "timestamp": "2026-10-18T17:09:21.472457632Z",
   "model": "glm-5.3"
 }

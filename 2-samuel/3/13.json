@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "nso",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "לא תראה את פני",
-      "rationale": "'Go bona sefahlego' — šomo ya Seheberu ya go bolela go tla pele ga motho, e sego go leba fela."
-    },
-    {
-      "kind": "addition",
-      "subject": "morwadiwa",
-      "rationale": "Sepedi se nyaka selo se hlalosago go ba mošomo wa leina, Seheberu se na le sone ka kgwetlho ya construct."
-    }
-  ],
-  "translation": "Gomme a re: Go tlwaelegilego, nna ke tla kgwera kgwerano le wena ⟨את⟩; fela taba e tee ke e kgopela go wena ⟨את⟩, go re: O ka se bone sefahlego sa ka, ntle le ge o ntšhitše Mikale morwadiwa Shauole, ge o tla go bona ⟨את⟩ sefahlego sa ka.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "65c999d0e5de395e092b7fcf926029e89116fa63a4626644362919dd51b99cc2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/3\/13-16.1792288807767.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a re: Go lobotse, ke tla kgwerano le wena ⟨אתך⟩; eupša taba e tee ke e kgošišago go tšwa go wena ⟨אתך⟩, go re: O ka se nkele sefahlego sa ka, ntle le ge o ntšha ⟨את⟩ Mikale morwadia Shaele, ge o tla go nkelo sefahlego sa ka ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -34,19 +13,19 @@
     },
     {
       "surface": "טוב",
-      "gloss": "go tlwaelegilego"
+      "gloss": "go lobotse"
     },
     {
       "surface": "אני",
-      "gloss": "nna"
+      "gloss": "ke"
     },
     {
       "surface": "אכרת",
-      "gloss": "ke tla kgwera"
+      "gloss": "ke tla kgwerano"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ le wena"
+      "gloss": "⟨אתך⟩"
     },
     {
       "surface": "ברית",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "אך",
-      "gloss": "fela"
+      "gloss": "eupša"
     },
     {
       "surface": "דבר",
@@ -70,11 +49,11 @@
     },
     {
       "surface": "שאל",
-      "gloss": "ke e kgopela"
+      "gloss": "ke e kgošišago"
     },
     {
       "surface": "מאתך",
-      "gloss": "go wena ⟨את⟩"
+      "gloss": "go tšwa go wena ⟨אתך⟩"
     },
     {
       "surface": "לאמר",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "תראה",
-      "gloss": "o bone"
+      "gloss": "nkele"
     },
     {
       "surface": "את",
@@ -103,7 +82,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "ntle le ge"
+      "gloss": "ntle le"
     },
     {
       "surface": "לפני",
@@ -111,12 +90,12 @@
     },
     {
       "surface": "הביאך",
-      "gloss": "o ntšhitše"
+      "gloss": "o ntšha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mikale"
+      "marks": "Mikale morwadia Shaele"
     },
     {
       "surface": "מיכל",
@@ -124,11 +103,11 @@
     },
     {
       "surface": "בת",
-      "gloss": "morwadiwa"
+      "gloss": "morwadia"
     },
     {
       "surface": "שאול",
-      "gloss": "Shauole"
+      "gloss": "Shaele"
     },
     {
       "surface": "בבאך",
@@ -136,7 +115,7 @@
     },
     {
       "surface": "לראות",
-      "gloss": "go bona"
+      "gloss": "go nkelo"
     },
     {
       "surface": "את",
@@ -148,6 +127,6 @@
       "gloss": "sefahlego sa ka"
     }
   ],
-  "timestamp": "2026-10-18T02:00:07.768605026Z",
+  "timestamp": "2026-10-18T17:05:57.623808059Z",
   "model": "glm-5.3"
 }

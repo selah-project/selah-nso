@@ -5,46 +5,15 @@
   "book": "genesis",
   "lang": "nso",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "Morena wa ka",
-      "gloss": "אדני ke sekopanyi, 'mong wa ka' — Ephron o hlalosa Abrahama, o mo kgoši"
-    },
-    {
-      "kind": "alternative",
-      "subject": "lefase le lekantšwego",
-      "rationale": "Seheberu se bolela fela 'lefase — shekele tše nne tsa lekgolo'; 'lekantšwego' ke tlhaloso ya dikgati tše di lego gare"
-    },
-    {
-      "kind": "addition",
-      "subject": "ke",
-      "rationale": "Copula ye Sepedi e e nyakago, Seheberu se se se nago"
-    },
-    {
-      "kind": "idiom",
-      "subject": "מה הוא",
-      "rationale": "Ephron o botša gore madi a silibera a se kgolo go swana le yena — polelo ya go otla bokgoni"
-    }
-  ],
-  "translation": "Morena wa ka, mpolelletše: lefase le lekantšwego mabapi le shekele tše nne tsa lekgolo tša silibera — gare ga nna le gare ga wena, ke eng? — gomme ⟨את⟩ yo a hwilego wa gago o mo hlokofatše.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "4b8a80d372ac4ffdd47e236261bf07c5ac7abd4e6aec471de7e4fa03a9595b10",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/genesis\/23\/14-15.1792304549246.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mong wa ka, theetša nna: lefase — diranta tše nne tša dikete tša masome a mane tša shekele tša silibera — se ke se gare ga nna le wena, ke eng? Ka fao la bolokeng ⟨את⟩ yo a hwilego wa gago.",
   "tokens": [
     {
       "surface": "אדני",
-      "gloss": "Morena wa ka"
+      "gloss": "Mong wa ka"
     },
     {
       "surface": "שמעני",
-      "gloss": "mpolelletše"
+      "gloss": "theetša nna"
     },
     {
       "surface": "ארץ",
@@ -52,11 +21,11 @@
     },
     {
       "surface": "ארבע",
-      "gloss": "nne"
+      "gloss": "tše nne"
     },
     {
       "surface": "מאת",
-      "gloss": "lekgolo"
+      "gloss": "dikete tše makgolo a mane"
     },
     {
       "surface": "שקל",
@@ -72,7 +41,7 @@
     },
     {
       "surface": "ובינך",
-      "gloss": "gare ga wena"
+      "gloss": "le wena"
     },
     {
       "surface": "מה",
@@ -80,11 +49,12 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨ke⟩"
+      "gloss": "se"
     },
     {
       "surface": "ואת",
-      "gloss": "gomme ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "yo a hwilego wa gago"
     },
     {
       "surface": "מתך",
@@ -92,9 +62,9 @@
     },
     {
       "surface": "קבר",
-      "gloss": "o mo hlokofatše"
+      "gloss": "la bolokeng"
     }
   ],
-  "timestamp": "2026-10-18T06:22:29.247339683Z",
+  "timestamp": "2026-10-18T17:16:35.615799770Z",
   "model": "glm-5.3"
 }

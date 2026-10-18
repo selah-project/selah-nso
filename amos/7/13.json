@@ -5,44 +5,23 @@
   "book": "amos",
   "lang": "nso",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "to Amose",
-      "rationale": "Amatsia o kgetha Amose ka peleng — tlhaelo ya boikarabelo bja kgoši go Bethele."
-    },
-    {
-      "kind": "substitution",
-      "subject": "bokgethwa",
-      "rationale": "מקדש ke lefelo la bokgethwa; Sepedi ga se na lentšu le tee, ka fao bokgethwa bja kgoši."
-    }
-  ],
-  "translation": "Gomme go Bethele o se ke wa oketša go profeta gape, gobane ke bokgethwa bja kgoši ke yona, gomme ke ntlo ya bogoši ke yona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "96bcfe62e093639b7d7b2273dae79d8edf7e1e656e1c311c3692d823acd2c7a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/7\/13-16.1792296312211.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme go Bethele o se ke wa oketša go profeta gape, ka gobane ke bokgethwa bja kgoši, gomme ke ntlo ya bogoši ⟨ke⟩ yona.",
   "tokens": [
     {
       "surface": "ובית",
-      "gloss": "gomme Bethele"
+      "gloss": "gomme go Bethele"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "Bethele"
     },
     {
       "surface": "לא",
-      "gloss": "o se ke wa"
+      "gloss": "o se ke"
     },
     {
       "surface": "תוסיף",
-      "gloss": "oketša"
+      "gloss": "wa oketša"
     },
     {
       "surface": "עוד",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "gobane"
+      "gloss": "ka gobane"
     },
     {
       "surface": "מקדש",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ke yona"
+      "gloss": "ke"
     },
     {
       "surface": "ובית",
-      "gloss": "gomme ntlo"
+      "gloss": "gomme ke ntlo"
     },
     {
       "surface": "ממלכה",
@@ -78,9 +57,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ke yona"
+      "gloss": "yona"
     }
   ],
-  "timestamp": "2026-10-18T04:05:12.212547232Z",
+  "timestamp": "2026-10-18T17:06:30.332992440Z",
   "model": "glm-5.3"
 }

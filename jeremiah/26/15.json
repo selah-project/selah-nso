@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ידע תדעו",
-      "rationale": "Infinitive-absolute + verb: 'tseba go lebaka la nnete' — go boelela go tiisa, go phologile sepheding."
-    },
-    {
-      "kind": "idiom",
-      "subject": "דם נקי",
-      "rationale": "'Madi a hlwekileng' — madi a motho yo a se nago sebe, a išiwa go ba ba mo bolailwego."
-    }
-  ],
-  "translation": "Fela tseba go lebaka la nnete: ge le ka ntšhuwa, le bea madi a hlwekileng go leno, le motse o, le ba ba dulago o, ka gobane ka nnete Yahwe o nthomile go lena go bolela dithekweng tša leno ⟨את⟩ mantšu ka moka a se.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "4a08fd985e6397ec078012d56fa4fee6a65c1f4221a8757421a29028fb97bfac",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/26\/13-16.1792293450027.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fela le tseba o sa šia gore ge le ka mpula ⟨את⟩ nna, le ikweleditše madi a se nago sebe go lena le go motse o, le go ba ba duloago mo go wona; ka gobane ka nnete Yahwe o nthomile go lena go bolela mo ditletlwang tša lena ⟨את⟩ mantšu ohla a.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "Fela"
+      "gloss": "fela"
     },
     {
       "surface": "ידע",
@@ -38,11 +17,11 @@
     },
     {
       "surface": "תדעו",
-      "gloss": "go lebaka la nnete"
+      "gloss": "le tseba o sa šia"
     },
     {
       "surface": "כי",
-      "gloss": "ge"
+      "gloss": "gore"
     },
     {
       "surface": "אם",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "ממתים",
-      "gloss": "le ka ntšhuwa"
+      "gloss": "la mpula"
     },
     {
       "surface": "אתם",
@@ -58,12 +37,12 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩",
-      "marks": "nna"
+      "gloss": "⟨את⟩ nna",
+      "marks": "nna (object ya go pulwa)"
     },
     {
       "surface": "כי",
-      "gloss": "—"
+      "gloss": "ka gobane"
     },
     {
       "surface": "דם",
@@ -71,7 +50,7 @@
     },
     {
       "surface": "נקי",
-      "gloss": "a hlwekileng"
+      "gloss": "a se nago sebe"
     },
     {
       "surface": "אתם",
@@ -79,19 +58,19 @@
     },
     {
       "surface": "נתנים",
-      "gloss": "bea"
+      "gloss": "la ikweleditše"
     },
     {
       "surface": "עליכם",
-      "gloss": "go leno"
+      "gloss": "go lena"
     },
     {
       "surface": "ואל",
-      "gloss": "le"
+      "gloss": "le go"
     },
     {
       "surface": "העיר",
-      "gloss": "motse o"
+      "gloss": "motse"
     },
     {
       "surface": "הזאת",
@@ -99,11 +78,11 @@
     },
     {
       "surface": "ואל",
-      "gloss": "le"
+      "gloss": "le go"
     },
     {
       "surface": "ישביה",
-      "gloss": "ba ba dulago o"
+      "gloss": "ba ba duloago mo go wona"
     },
     {
       "surface": "כי",
@@ -131,16 +110,16 @@
     },
     {
       "surface": "באזניכם",
-      "gloss": "dithekweng tša leno"
+      "gloss": "mo ditletlwang tša lena"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mantšu ka moka"
+      "marks": "mantšu ohla a (mantšu ohla)"
     },
     {
       "surface": "כל",
-      "gloss": "ka moka"
+      "gloss": "ohla"
     },
     {
       "surface": "הדברים",
@@ -148,9 +127,9 @@
     },
     {
       "surface": "האלה",
-      "gloss": "a se"
+      "gloss": "a"
     }
   ],
-  "timestamp": "2026-10-18T03:17:30.029078346Z",
+  "timestamp": "2026-10-18T17:21:48.630030468Z",
   "model": "glm-5.3"
 }

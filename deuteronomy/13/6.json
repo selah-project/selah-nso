@@ -5,33 +5,7 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "סרה",
-      "rationale": "'boikgapho bja tumelo' kgahlanong le 'kganetšo' goba 'tšhelamolao' — JPS 'perversion', KJV 'to turn away'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ובערת",
-      "rationale": "Bokao bja konokono ke 'go fiša \/ go ja ka molllo' — 'fediša' e latola seswantšho sa molllo."
-    },
-    {
-      "kind": "elision",
-      "subject": "wena bontši → wena botee",
-      "rationale": "Seheberu se fetoga go tšwa go bontši (lena) go ya go botee (gago) ka ntle le taelo — phetolelo e boloka sefetogo."
-    }
-  ],
-  "translation": "Gomme moprofeta yoo, goba molori wa loro yoo, o tla bolawa; ka gobane o boletše boikgapho bja tumelo kgahlanong le Yahwe Elohim ya lena, yo a ntšhitšego ⟨את⟩ lena go lefase la Mitsrayime, gomme a re kgolago go ntlo ya mehlanka, go le hlakantšha tseleng yeo Yahwe Elohim ya gago a go laetšego go sepela go yona; gomme o tla fediša ⟨את⟩ sebe go gare ga gago.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "eb099aedd85daf184805e78897f807560452dc1f2489903a2fd8df715b9fcade",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/13\/5-8.1792285954572.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme moprofeta yoo, goba seipolami sa ditoro seo, o bolawe, ka gobane o boletše go tlohela go Yahwe Elohim ya lona, yo a le ntšhago ⟨את⟩ lona go lefase la Mitsrayime, gomme a go lokiša go tšwa legodimong la bahlanka, go go huduša tseleng yeo Yahwe Elohim ya gago a go lailego go e sepela; gomme o tloše sebošego go gare ga gago.",
   "tokens": [
     {
       "surface": "והנביא",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "חלם",
-      "gloss": "molori"
+      "gloss": "seipolami"
     },
     {
       "surface": "החלום",
-      "gloss": "wa loro"
+      "gloss": "sa ditoro"
     },
     {
       "surface": "ההוא",
-      "gloss": "yoo"
+      "gloss": "seo"
     },
     {
       "surface": "יומת",
-      "gloss": "o tla bolawa"
+      "gloss": "o bolawe"
     },
     {
       "surface": "כי",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "סרה",
-      "gloss": "boikgapho bja tumelo"
+      "gloss": "go tlohela"
     },
     {
       "surface": "על",
-      "gloss": "kgahlanong le"
+      "gloss": "go"
     },
     {
       "surface": "יהוה",
@@ -83,48 +57,48 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim ya lena"
+      "gloss": "Elohim ya lona"
     },
     {
       "surface": "המוציא",
-      "gloss": "yo a ntšhitšego"
+      "gloss": "yo a le ntšhago"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lena",
-      "marks": "lena"
+      "gloss": "⟨את⟩",
+      "marks": "lona"
     },
     {
       "surface": "מארץ",
-      "gloss": "go lefase la"
+      "gloss": "go lefase"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayime"
+      "gloss": "la Mitsrayime"
     },
     {
-      "surface": "והפדך",
-      "gloss": "gomme a re kgolago"
+      "surface": "וְהפֹֽדְךָ",
+      "gloss": "gomme a go lokiša"
     },
     {
       "surface": "מבית",
-      "gloss": "go ntlo ya"
+      "gloss": "go tšwa legodimong"
     },
     {
       "surface": "עבדים",
-      "gloss": "mehlanka"
+      "gloss": "la bahlanka"
     },
     {
       "surface": "להדיחך",
-      "gloss": "go le hlakantšha"
+      "gloss": "go go huduša"
     },
     {
       "surface": "מן",
-      "gloss": "go"
+      "gloss": "fela"
     },
     {
       "surface": "הדרך",
-      "gloss": "tsela"
+      "gloss": "tseleng"
     },
     {
       "surface": "אשר",
@@ -132,7 +106,7 @@
     },
     {
       "surface": "צוך",
-      "gloss": "a go laetšego"
+      "gloss": "a go lailego"
     },
     {
       "surface": "יהוה",
@@ -144,25 +118,25 @@
     },
     {
       "surface": "ללכת",
-      "gloss": "go sepela"
+      "gloss": "go e sepela"
     },
     {
       "surface": "בה",
-      "gloss": "go yona"
+      "gloss": "ka yona"
     },
     {
       "surface": "ובערת",
-      "gloss": "gomme o tla fediša"
+      "gloss": "gomme o tloše"
     },
     {
       "surface": "הרע",
-      "gloss": "⟨את⟩ sebe"
+      "gloss": "sebošego"
     },
     {
       "surface": "מקרבך",
       "gloss": "go gare ga gago"
     }
   ],
-  "timestamp": "2026-10-18T01:12:34.573221662Z",
+  "timestamp": "2026-10-18T17:09:00.851857828Z",
   "model": "glm-5.3"
 }

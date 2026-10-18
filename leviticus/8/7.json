@@ -5,72 +5,46 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "sekokotlo se se bopilwego ka go nanela",
-      "rationale": "חשב: 'se bopilwego ka boikhwebo' (KJV 'curious') kgathanong le 'se rušwago kagare' — lentšu le tutuetšego"
-    },
-    {
-      "kind": "alternative",
-      "subject": "את pele ga המעיל",
-      "rationale": "את (H854 'le') mona e ka ba sekgopanyi sa 'le', e sego lesupo la objekte — mehla ka mehla di tsešwa bjalo ka ⟨את⟩"
-    },
-    {
-      "kind": "addition",
-      "subject": "mo",
-      "rationale": "Sepedi e nyaka objekte ya mothwaledi — עליו le לו di feletše 'mo'"
-    }
-  ],
-  "translation": "Gomme a mo apesa ⟨את⟩ hempe, a mo ruša ka sekokotlo, a mo apesa ⟨את⟩ kobo, gomme a mo bea ⟨את⟩ efode, a mo ruša ka sekokotlo se se bopilwego ka go nanela sa efode, gomme a bofa ka go mo šomela ka sona.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "79a5c207485bc6a3e6543ae785f7e83747b87d26801b80b684c6fd4c3eda13bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/8\/6-7.1792304712593.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a bea mo go yena ⟨את⟩ kutone, gomme a mo thaka ⟨את⟩ ka abnete, gomme a mo apesa ⟨את⟩ kobo, gomme a bea mo go yena ⟨את⟩ efode, gomme a mo thaka ⟨את⟩ ka khesheve ya efode, gomme a e khoma go yena ka yona.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "a mo bea"
+      "gloss": "gomme a bea"
     },
     {
       "surface": "עליו",
-      "gloss": "mo"
+      "gloss": "mo go yena"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "hempe"
+      "marks": "kutone"
     },
     {
       "surface": "הכתנת",
-      "gloss": "hempe"
+      "gloss": "kutone"
     },
     {
       "surface": "ויחגר",
-      "gloss": "a mo ruša"
+      "gloss": "gomme a mo thaka"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "sekokotlo"
+      "marks": "mo (ka abnete)"
     },
     {
       "surface": "באבנט",
-      "gloss": "ka sekokotlo"
+      "gloss": "ka abnete"
     },
     {
-      "surface": "ולבש",
-      "gloss": "a mo apesa"
+      "surface": "וילבש",
+      "gloss": "gomme a mo apesa"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "kobo"
+      "marks": "mo"
     },
     {
       "surface": "את",
@@ -83,11 +57,11 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "a mo bea"
+      "gloss": "gomme a bea"
     },
     {
       "surface": "עליו",
-      "gloss": "mo"
+      "gloss": "mo go yena"
     },
     {
       "surface": "את",
@@ -100,34 +74,34 @@
     },
     {
       "surface": "ויחגר",
-      "gloss": "a mo ruša"
+      "gloss": "gomme a mo thaka"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "sekokotlo sa efode"
+      "marks": "mo (ka khesheve)"
     },
     {
       "surface": "בחשב",
-      "gloss": "ka sekokotlo"
+      "gloss": "ka khesheve"
     },
     {
       "surface": "האפד",
-      "gloss": "efode"
+      "gloss": "ya efode"
     },
     {
       "surface": "ויאפד",
-      "gloss": "a bofa"
+      "gloss": "gomme a e khoma"
     },
     {
       "surface": "לו",
-      "gloss": "mo"
+      "gloss": "go yena"
     },
     {
       "surface": "בו",
-      "gloss": "ka sona"
+      "gloss": "ka yona"
     }
   ],
-  "timestamp": "2026-10-18T06:25:12.593902407Z",
+  "timestamp": "2026-10-18T17:32:45.702044994Z",
   "model": "glm-5.3"
 }

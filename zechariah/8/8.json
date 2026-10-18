@@ -5,87 +5,66 @@
   "book": "zechariah",
   "lang": "nso",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לי\/להם",
-      "rationale": "Lentšu la Sepedi la go swana le ל־ ga le gona; go oketšwa „sa ka“ le „wa bona“ ka go latela hlaka ya Seheberu."
-    },
-    {
-      "kind": "crux",
-      "subject": "באמת ובצדקה",
-      "rationale": "A go šala ka Elohim goba ka tsela ya go busa? Baphetoledi ba fapana: KJV „in truth and in righteousness“ (ka Yahwe) kgahlanong le go bala ga BSB „faithful and righteous God“."
-    }
-  ],
-  "translation": "gomme ke tla ba gakolola, ba dule bogareng bja Yerushalayime; ba be setšhaba sa ka, gomme nna ke be Elohim wa bona, ka nnete le ka toko.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "4967755a8a5f6e8ba99036ed58ce58e694133e199acbb772b9db3e37b1150d02",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/8\/5-8.1792296918657.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ke tla ba gomoketša ⟨את⟩, ba tla dula bogareng bja Yerushalayime, ba tla ba setšhaba sa ka, gomme nna ke tla ba Elohim wa bona, ka nnete le ka tsedeke.",
   "tokens": [
     {
-      "surface": "והבאתי",
-      "gloss": "gomme ke tla ba gakolola"
+      "surface": "וְהֵבֵאתִ֣י",
+      "gloss": "gomme ke tla ba gomoketša"
     },
     {
-      "surface": "אתם",
+      "surface": "אֹתָ֔ם",
       "gloss": "⟨את⟩",
-      "marks": "ba"
+      "marks": "ba (setšhaba sa Elohim)"
     },
     {
-      "surface": "ושכנו",
-      "gloss": "ba dule"
+      "surface": "וְשָׁכְנ֖וּ",
+      "gloss": "ba tla dula"
     },
     {
-      "surface": "בתוך",
+      "surface": "בְּת֣וֹךְ",
       "gloss": "bogareng bja"
     },
     {
-      "surface": "ירושלם",
+      "surface": "יְרוּשָׁלִָ֑ם",
       "gloss": "Yerushalayime"
     },
     {
-      "surface": "והיו",
-      "gloss": "ba be"
+      "surface": "וְהָי֨וּ",
+      "gloss": "ba tla ba"
     },
     {
-      "surface": "לי",
+      "surface": "לִ֣י",
       "gloss": "sa ka"
     },
     {
-      "surface": "לעם",
+      "surface": "לְעָ֗ם",
       "gloss": "setšhaba"
     },
     {
-      "surface": "ואני",
+      "surface": "וַֽאֲנִי֙",
       "gloss": "gomme nna"
     },
     {
-      "surface": "אהיה",
-      "gloss": "ke be"
+      "surface": "אֶהְיֶ֤ה",
+      "gloss": "ke tla ba"
     },
     {
-      "surface": "להם",
+      "surface": "לָהֶם֙",
       "gloss": "wa bona"
     },
     {
-      "surface": "לאלהים",
+      "surface": "לֵֽאלֹהִ֔ים",
       "gloss": "Elohim"
     },
     {
-      "surface": "באמת",
+      "surface": "בֶּאֱמֶ֖ת",
       "gloss": "ka nnete"
     },
     {
-      "surface": "ובצדקה",
-      "gloss": "le ka toko"
+      "surface": "וּבִצְדָקָֽה",
+      "gloss": "le ka tsedeke"
     }
   ],
-  "timestamp": "2026-10-18T04:15:18.658767920Z",
+  "timestamp": "2026-10-18T17:38:48.753702723Z",
   "model": "glm-5.3"
 }

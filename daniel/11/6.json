@@ -5,53 +5,27 @@
   "book": "daniel",
   "lang": "nso",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "וזרעו",
-      "rationale": "Ditlhaka tša זרעו: 'seatla sa gagwe' (זרוע) go ya go KJV\/ASV; goba 'peu ya gagwe' (זרע) go ya go Wycliffe; modu o feletšego o laola"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מישרים",
-      "rationale": "Bokao bo bofefo ke 'go tlolama\/tshwanelo'; sebopego sa bontši bo hlakang"
-    },
-    {
-      "kind": "measurement",
-      "subject": "mengwaga",
-      "rationale": "Nako e balega — 'mafelelong a mengwaga' le 'mengwageng ye'"
-    }
-  ],
-  "translation": "Gomme mafelelong a mengwaga ba tla ikopanya; gomme morwadi wa kgoši ya borwa o tla tla go kgoši ya leboa go dira ⟨את⟩ ditshwanelo; eupša maatla a seatla a ka se dumelelwe, gomme a ka se eme, le seatla sa gagwe; gomme o tla nehlwa — yena, le ba ba mo tlišago, le yo a mo belegago, le yo a mo matifatšago — mengwageng ye.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "79ae92faba7151872893198dd2ddb826404eacf6a76d35019aa08c5cf34b1ce6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/11\/5-8.1792302165993.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ka mafelelo a mengwaga ba tla kopana; gomme morwedi wa kgoši ya borwa a tla go ya go kgoši ya leboa go dira kgonthe; eupša o ka se sepele maatla a seatla, gomme a sa yo eme, le peu ya gagwe; gomme o tla neetšwa, yena le ba a ba tlisago, le yo a mo belego, le yo a mo tiisago, nakong tšeo.",
   "tokens": [
     {
       "surface": "ולקץ",
-      "gloss": "mafelelong"
+      "gloss": "ka mafelelo a"
     },
     {
       "surface": "שנים",
-      "gloss": "a mengwaga"
+      "gloss": "mengwaga"
     },
     {
       "surface": "יתחברו",
-      "gloss": "ba tla ikopanya"
+      "gloss": "ba tla kopana"
     },
     {
       "surface": "ובת",
-      "gloss": "morwadi"
+      "gloss": "gomme morwedi"
     },
     {
       "surface": "מלך",
-      "gloss": "wa kgoši"
+      "gloss": "kgoši"
     },
     {
       "surface": "הנגב",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "o tla tla"
+      "gloss": "a tla tla"
     },
     {
       "surface": "אל",
@@ -79,16 +53,15 @@
     },
     {
       "surface": "מישרים",
-      "gloss": "⟨את⟩ ditshwanelo",
-      "marks": "ditshwanelo"
+      "gloss": "kgonthe"
     },
     {
       "surface": "ולא",
-      "gloss": "eupša a ka se"
+      "gloss": "gomme o ka se"
     },
     {
       "surface": "תעצר",
-      "gloss": "dumelelwe"
+      "gloss": "sepele"
     },
     {
       "surface": "כוח",
@@ -100,7 +73,7 @@
     },
     {
       "surface": "ולא",
-      "gloss": "gomme a ka se"
+      "gloss": "gomme a sa"
     },
     {
       "surface": "יעמד",
@@ -108,11 +81,11 @@
     },
     {
       "surface": "וזרעו",
-      "gloss": "le seatla sa gagwe"
+      "gloss": "le peu ya gagwe"
     },
     {
       "surface": "ותנתן",
-      "gloss": "o tla nehlwa"
+      "gloss": "gomme o tla neetšwa"
     },
     {
       "surface": "היא",
@@ -120,21 +93,21 @@
     },
     {
       "surface": "ומביאיה",
-      "gloss": "le ba ba mo tlišago"
+      "gloss": "le ba a ba tlisago"
     },
     {
       "surface": "והילדה",
-      "gloss": "le yo a mo belegago"
+      "gloss": "le yo a mo belego"
     },
     {
       "surface": "ומחזקה",
-      "gloss": "le yo a mo matifatšago"
+      "gloss": "le yo a mo tiisago"
     },
     {
       "surface": "בעתים",
-      "gloss": "mengwageng ye"
+      "gloss": "nakong tšeo"
     }
   ],
-  "timestamp": "2026-10-18T05:42:45.994489456Z",
+  "timestamp": "2026-10-18T17:06:50.463114876Z",
   "model": "glm-5.3"
 }

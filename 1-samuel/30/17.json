@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "makgolo a mane",
-      "rationale": "Palo e hlakantšhwa: bahlankana ba 400 feela ba faloditšwe."
-    },
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "Sekopanyi sa Seheberu sa go swana se hlatsoitšwe ka 'ntle le'."
-    }
-  ],
-  "translation": "Gomme Dafida o ile a ba tloša ka magoro, go tšwa bošegong bja mahlabologo go fihla mašemong a mahlabologo a bona; mme ga go na motho yo a faloditšwego go bona, ntle le bahlankana ba makgolo a mane, bao ba neng ba namele dikamele, mme ba ile ba baleha.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "31b5fe3aca73b7a6992470c867813d96506513fc751385bf45d5038431dc2b45",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/30\/17-20.1792288701069.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Dafida o ile a ba otla go tloga bofifagonyana bja moso go fihla bošegong bja letšatši la ka morago; gomme ga go a balega go ba ⟨motho⟩ o tee, ntle le banna ba makgolo a mane, basana, bao ba nameile ka dikamele, gomme ba baleile.",
   "tokens": [
     {
       "surface": "ויכם",
-      "gloss": "a ba tloša ka magoro"
+      "gloss": "gomme o ile a ba otla"
     },
     {
       "surface": "דוד",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "מהנשף",
-      "gloss": "go tšwa bošegong bja mahlabologo"
+      "gloss": "go tloga bofifagonyana bja moso"
     },
     {
       "surface": "ועד",
@@ -46,31 +25,31 @@
     },
     {
       "surface": "הערב",
-      "gloss": "mašemong a mahlabologo"
+      "gloss": "bošegong bja mantšiboa"
     },
     {
       "surface": "למחרתם",
-      "gloss": "a bona"
+      "gloss": "bja letšatši la ka morago"
     },
     {
       "surface": "ולא",
-      "gloss": "mme ga"
+      "gloss": "gomme ga"
     },
     {
       "surface": "נמלט",
-      "gloss": "a faloditšwego"
+      "gloss": "a balega"
     },
     {
       "surface": "מהם",
-      "gloss": "go bona"
+      "gloss": "go ba"
     },
     {
       "surface": "איש",
-      "gloss": "motho"
+      "gloss": "motho o tee"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "e sego"
     },
     {
       "surface": "אם",
@@ -78,19 +57,19 @@
     },
     {
       "surface": "ארבע",
-      "gloss": "a mane"
+      "gloss": "mane"
     },
     {
       "surface": "מאות",
-      "gloss": "makgolo"
+      "gloss": "makgolo a"
     },
     {
       "surface": "איש",
-      "gloss": "bahlankana"
+      "gloss": "banna"
     },
     {
       "surface": "נער",
-      "gloss": "bahlankana"
+      "gloss": "basana"
     },
     {
       "surface": "אשר",
@@ -98,11 +77,11 @@
     },
     {
       "surface": "רכבו",
-      "gloss": "ba namele"
+      "gloss": "ba nameile"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "הגמלים",
@@ -110,9 +89,9 @@
     },
     {
       "surface": "וינסו",
-      "gloss": "ba baleha"
+      "gloss": "gomme ba baleile"
     }
   ],
-  "timestamp": "2026-10-18T01:58:21.070323278Z",
+  "timestamp": "2026-10-18T17:00:58.199747656Z",
   "model": "glm-5.3"
 }

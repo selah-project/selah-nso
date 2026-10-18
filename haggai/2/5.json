@@ -5,47 +5,16 @@
   "book": "haggai",
   "lang": "nso",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כרתי אתכם",
-      "rationale": "'go khaola kgwerano' — Seheberu se bolela 'go khaola kgwerano', mokgwa wa Sepedi o bolokwa ka go khaola"
-    },
-    {
-      "kind": "addition",
-      "subject": "ke",
-      "rationale": "Seheberu se se na le kopula; Sepedi e e nyaka"
-    },
-    {
-      "kind": "you",
-      "subject": "setšhaba se boletšwego sona",
-      "rationale": "Mošomo wo o arotšwe bathong ba Aggeyo — 'le se ke la tšhoa'"
-    },
-    {
-      "kind": "invitation",
-      "subject": "אל תיראו",
-      "rationale": "Taelo ya go se tšhoa e bitša barutiwa ka bye"
-    }
-  ],
-  "translation": "⟨ke⟩ lentšu leo ke lago khaola ⟨את⟩ kgwerano ya lona ge le tšwa Mitsrayime, gomme ruakh ya ka e eme gare ga lona; le se ke la tšhoa.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "5e4e3500ae71cb45ec9fd368eb71c05e736aa845b0f742768916a97495f86783",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/haggai\/2\/5-8.1792296755489.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ lentšu leo le nka go kgwerana ⟨את⟩ le lona ge le tšwa go Mitsrayime, gomme ruakh ya ka e eme gare ga lona: le se ke la tšhoa.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "lentšu"
+      "marks": "lentšu leo"
     },
     {
       "surface": "הדבר",
-      "gloss": "lentšu"
+      "gloss": "lentšu leo"
     },
     {
       "surface": "אשר",
@@ -53,11 +22,11 @@
     },
     {
       "surface": "כרתי",
-      "gloss": "ke lago khaola"
+      "gloss": "nka go kgwerana"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩ le lona"
     },
     {
       "surface": "בצאתכם",
@@ -65,7 +34,7 @@
     },
     {
       "surface": "ממצרים",
-      "gloss": "Mitsrayime"
+      "gloss": "go Mitsrayime"
     },
     {
       "surface": "ורוחי",
@@ -88,6 +57,6 @@
       "gloss": "la tšhoa"
     }
   ],
-  "timestamp": "2026-10-18T04:12:35.490380451Z",
+  "timestamp": "2026-10-18T17:18:57.495740892Z",
   "model": "glm-5.3"
 }

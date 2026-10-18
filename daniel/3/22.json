@@ -5,36 +5,15 @@
   "book": "daniel",
   "lang": "nso",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "מחצפה",
-      "rationale": "'harsh\/urgent' (JPS 'peremptory') vs 'raging'; rendered as a hasty, severe command."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אזה יתירא",
-      "rationale": "'heated exceedingly' — Aramaic intensives stacking heat, echoed by 'kudu go feta tša mehlale'."
-    }
-  ],
-  "translation": "Ka baka la la gore lentšu la kgoši le be le hlagile ka pela, gomme auvune e be e fišitše kudu go feta tša mehlale, lesoleo la mollo la bolaya banna ba <a re> bao ba tšerego Shadrake, Meishake le Abede-Nego.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "0359d7ce3d372823c5547351c09f803d646be5a471c1d897944bf779c144458e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/3\/21-24.1792301888180.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka baka la se ka moka — ka gobane lentšu la kgoši le be le kgahla kudu, gomme sefiši sa mollo se fišitšwe kudu-go feta — lelie la mollo le bolaye banna bao ba tlaišitšego ⟨את⟩ Shadrake, ⟨את⟩ Mesake le ⟨את⟩ Abede-Negho.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "ka baka la"
+      "gloss": "ka moka"
     },
     {
       "surface": "קבל",
-      "gloss": "la gore"
+      "gloss": "ka baka la"
     },
     {
       "surface": "דנה",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "מן",
-      "gloss": "ka baka la"
+      "gloss": "ka gobane"
     },
     {
       "surface": "די",
@@ -58,19 +37,19 @@
     },
     {
       "surface": "מחצפה",
-      "gloss": "le be le hlagile ka pela"
+      "gloss": "kgahla kudu"
     },
     {
       "surface": "ואתונא",
-      "gloss": "gomme auvune"
+      "gloss": "gomme sefiši sa mollo"
     },
     {
       "surface": "אזה",
-      "gloss": "e fišitše"
+      "gloss": "o fišitšwe"
     },
     {
       "surface": "יתירא",
-      "gloss": "kudu go feta tša mehlale"
+      "gloss": "kudu-go feta"
     },
     {
       "surface": "גבריא",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "אלך",
-      "gloss": "<a re>"
+      "gloss": "ba"
     },
     {
       "surface": "די",
@@ -86,7 +65,7 @@
     },
     {
       "surface": "הסקו",
-      "gloss": "ba tšerego"
+      "gloss": "ba tlaišitšego"
     },
     {
       "surface": "לשדרך",
@@ -94,19 +73,19 @@
     },
     {
       "surface": "מישך",
-      "gloss": "Meishake"
+      "gloss": "Mesake"
     },
     {
       "surface": "ועבד",
-      "gloss": "le Abede-Nego"
+      "gloss": "gomme Abede"
     },
     {
       "surface": "נגו",
-      "gloss": ""
+      "gloss": "Negho"
     },
     {
       "surface": "קטל",
-      "gloss": "la bolaya"
+      "gloss": "o bolaye"
     },
     {
       "surface": "המון",
@@ -114,7 +93,7 @@
     },
     {
       "surface": "שביבא",
-      "gloss": "lesoleo"
+      "gloss": "lelie"
     },
     {
       "surface": "די",
@@ -125,6 +104,6 @@
       "gloss": "mollo"
     }
   ],
-  "timestamp": "2026-10-18T05:38:08.181791491Z",
+  "timestamp": "2026-10-18T17:07:22.396729611Z",
   "model": "glm-5.3"
 }

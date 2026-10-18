@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "nso",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "153 600",
-      "rationale": "Palo ya bafaladi: lekgolo le masomehlano dikete (150 000) le dikete tše tharo (3 000) le tše tshela makgolo (600)."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויספר\/הספר\/ספרם",
-      "rationale": "Modumo wa go bala o boeleditšwego ga raro (a bala \/ palo \/ a ba balilego) — mokgwa wa go bapala ka go Sepedi ka go šomiša lentšu le tee."
-    }
-  ],
-  "translation": "Gomme Šelomo a bala banna ka moka, bafaladi bao ba bego lefasing la Yisraele, go latela palo yeo Dafida papa gagwe a ba balilego ka yona; gomme ba hwetšwa e le lekgolo le masomehlano dikete, le dikete tše tharo le tše tshela makgolo (153 600).",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "c615cececd65840b6b0f8fbc10b4a1391ac4ce9129bc351f66d35e2abb28dc93",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/2\/13-16.1792303701140.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Shelomoh a bala ⟨את⟩ banna mafoko-kgetho ka moka bao ba lego lefaseng la Yisraele, go latela palo yeo Dafida tatagagwe a ba badilego ka yona; gomme ba hwetšwa lekgolo le masomehlano sekete, dikete tše tharo, le tše tshela makgolo.",
   "tokens": [
     {
       "surface": "ויספר",
@@ -34,31 +13,31 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Šelomo"
+      "gloss": "Shelomoh"
     },
     {
       "surface": "כל",
       "gloss": "ka moka"
     },
     {
-      "surface": "האנשים",
+      "surface": "האנששים",
       "gloss": "banna"
     },
     {
       "surface": "הגירים",
-      "gloss": "bafaladi"
+      "gloss": "banna mafoko-kgetho"
     },
     {
       "surface": "אשר",
-      "gloss": "bao"
+      "gloss": "bao ba lego"
     },
     {
       "surface": "בארץ",
-      "gloss": "lefasing la"
+      "gloss": "lefaseng"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "la Yisraele"
     },
     {
       "surface": "אחרי",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "ספרם",
-      "gloss": "a ba balilego"
+      "gloss": "a ba badilego ka yona"
     },
     {
       "surface": "דויד",
@@ -82,7 +61,7 @@
     },
     {
       "surface": "אביו",
-      "gloss": "papa gagwe"
+      "gloss": "tatagagwe"
     },
     {
       "surface": "וימצאו",
@@ -98,15 +77,15 @@
     },
     {
       "surface": "אלף",
-      "gloss": "dikete"
+      "gloss": "sekete"
     },
     {
       "surface": "ושלשת",
-      "gloss": "tše tharo"
+      "gloss": "dikete tše tharo"
     },
     {
       "surface": "אלפים",
-      "gloss": "dikete"
+      "gloss": ""
     },
     {
       "surface": "ושש",
@@ -117,6 +96,6 @@
       "gloss": "makgolo"
     }
   ],
-  "timestamp": "2026-10-18T06:08:21.142380646Z",
+  "timestamp": "2026-10-18T17:02:09.740172128Z",
   "model": "glm-5.3"
 }

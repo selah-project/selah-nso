@@ -5,42 +5,11 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Shabatone · Shabata",
-      "rationale": "Mongwalo o tee o latela D2 — Shabata ga se 'Sabatha'; שבתון 'Shabatone' ke khutšo ya kgethegile."
-    },
-    {
-      "kind": "substitution",
-      "subject": "e kgethwa",
-      "rationale": "קדש go swana le D2 — 'go kgethagatša', e sego 'halalela' ya Sesotho."
-    },
-    {
-      "kind": "you",
-      "subject": "go bona",
-      "rationale": "Moshe a bolelela dikgoši tša phuthego ka dikaelo tša go apara le go boloka."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תאפו אפו · תבשלו בשלו",
-      "rationale": "Boeledi bo bopilwego ka lento le le tšwago go sona — 'seo le tla se hlabollago, se hlabolle' — se bolokwa ka go loka go Sepedi."
-    }
-  ],
-  "translation": "A ba re go bona: Se ke sona seo Yahwe a se boletšego: Shabatone, Shabata e kgethwa go Yahwe, ke gosasa. Seo le tla se hlabollago, se hlabolle, gomme ⟨את⟩ seo le tla se apeago, se apele; gomme ⟨את⟩ se sengwe se sa tšwago pele, se lokelletše bakeng sa lona go bolokwa go fihla bosasa.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "f3faeac6ea985d33457ecd8b267d935cdef99f4885a3f069d1cb53bdefbdafd5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/16\/21-24.1792282775755.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a ba re: Se ke ⟨ke⟩ seo Yahwe a se boletšego: Shabatone, Shabata e kgethwa bakeng sa Yahwe, ke bosasa; ⟨את⟩ seo le tla se bakago, bakang, gomme ⟨את⟩ seo le tla se bilago, bilang; gomme ⟨את⟩ tšohle ye e fadimegilego, e beeleng bakeng sa lena go bolokwa go fihla mesong.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a ba re"
+      "gloss": "Gomme a ba re"
     },
     {
       "surface": "אלהם",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "se ke sona"
+      "gloss": "Se ke"
     },
     {
       "surface": "אשר",
@@ -76,16 +45,16 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "go Yahwe"
+      "gloss": "bakeng sa Yahwe"
     },
     {
       "surface": "מחר",
-      "gloss": "ke gosasa"
+      "gloss": "bosasa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "seo le tla se hlabollago"
+      "marks": "seo le tla se bakago"
     },
     {
       "surface": "אשר",
@@ -93,16 +62,16 @@
     },
     {
       "surface": "תאפו",
-      "gloss": "le tla se hlabolla"
+      "gloss": "le tla se bakago"
     },
     {
       "surface": "אפו",
-      "gloss": "se hlabolle"
+      "gloss": "bakang"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "seo le tla se apeago"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "seo le tla se bilago"
     },
     {
       "surface": "אשר",
@@ -110,32 +79,32 @@
     },
     {
       "surface": "תבשלו",
-      "gloss": "le tla se apea"
+      "gloss": "le tla se bilago"
     },
     {
       "surface": "בשלו",
-      "gloss": "se apele"
+      "gloss": "bilang"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "se sengwe se sa tšwago pele"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "tšohle ye e fadimegilego"
     },
     {
       "surface": "כל",
-      "gloss": "se sengwe se sa tšwago pele"
+      "gloss": "tšohle"
     },
     {
       "surface": "העדף",
-      "gloss": "se sa tšwago pele"
+      "gloss": "ye e fadimegilego"
     },
     {
       "surface": "הניחו",
-      "gloss": "se lokelletše"
+      "gloss": "e beeleng"
     },
     {
       "surface": "לכם",
-      "gloss": "bakeng sa lona"
+      "gloss": "bakeng sa lena"
     },
     {
       "surface": "למשמרת",
@@ -147,9 +116,9 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "bosasa"
+      "gloss": "mesong"
     }
   ],
-  "timestamp": "2026-10-18T00:19:35.757314658Z",
+  "timestamp": "2026-10-18T17:10:41.086913297Z",
   "model": "glm-5.3"
 }

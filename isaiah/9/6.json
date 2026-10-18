@@ -5,48 +5,27 @@
   "book": "isaiah",
   "lang": "nso",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "לםרבה המשרה",
-      "rationale": "Masoret: 'go oketša ga bolaodi' (JPS); LXX le KJV di agišana le temana ya 5 — 'bolaodi bo tla bewa mo sekgosing sa gagwe'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "צדקה",
-      "rationale": "tsedeke — lentšu le le tee la Sepedi le sa felo, go swana le molao wa D1."
-    }
-  ],
-  "translation": "Go oketša ga bolaodi le khotso ga go na mafelelo, godimo ga setulo sa bogosi sa Dafida le godimo ga bogoši bja gagwe, go bo thea le ⟨go⟩ bo tshepetša ka kahlolo le ka tsedeke, go tloga bjale go fihla lehohle; boikgantšho bja Yahwe Tsebaote bo tla dira se.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "2bbdfc49d2fcd5360d3546ccb096bdc7b6771e1c99f012b8e26825b675f1b0bf",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/9\/5-8.1792291427888.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Go oketšega ga bogoši le go kagisong ga go wa le mafoko, godimo ga setulo sa Dafida le godimo ga bogoši bja gage, go bo [[go]] thekgile le [[go]] se hlohleleditše ka kahlolo le ka tsedeke, go tloga gona [[go]] fihla nako e sa felego — keletšo ya Yahwe Tsebaote e tla dira ⟨את⟩ se.",
   "tokens": [
     {
       "surface": "לםרבה",
-      "gloss": "go oketša ga"
+      "gloss": "go oketšega ga"
     },
     {
       "surface": "המשרה",
-      "gloss": "bolaodi"
+      "gloss": "bogoši"
     },
     {
       "surface": "ולשלום",
-      "gloss": "gomme khotso"
+      "gloss": "le go kagisong"
     },
     {
       "surface": "אין",
-      "gloss": "ga go na"
+      "gloss": "ga go wa"
     },
     {
       "surface": "קץ",
-      "gloss": "mafelelo"
+      "gloss": "le mafoko"
     },
     {
       "surface": "על",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "כסא",
-      "gloss": "setulo sa bogosi"
+      "gloss": "setulo"
     },
     {
       "surface": "דוד",
-      "gloss": "Dafida"
+      "gloss": "sa Dafida"
     },
     {
       "surface": "ועל",
@@ -66,20 +45,20 @@
     },
     {
       "surface": "ממלכתו",
-      "gloss": "bogoši bja gagwe"
+      "gloss": "bogoši bja gage"
     },
     {
       "surface": "להכין",
-      "gloss": "go bo thea"
+      "gloss": "go bo [[go]] thekgile"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "bogoši"
+      "marks": "bogoši bja gage"
     },
     {
       "surface": "ולסעדה",
-      "gloss": "gomme go bo tshepetša"
+      "gloss": "le [[go]] se hlohleleditše"
     },
     {
       "surface": "במשפט",
@@ -91,19 +70,19 @@
     },
     {
       "surface": "מעתה",
-      "gloss": "go tloga bjale"
+      "gloss": "go tloga gona"
     },
     {
       "surface": "ועד",
-      "gloss": "go fihla"
+      "gloss": "[[go]] fihla"
     },
     {
       "surface": "עולם",
-      "gloss": "lehohle"
+      "gloss": " nako e sa felego"
     },
     {
       "surface": "קנאת",
-      "gloss": "boikgantšho bja"
+      "gloss": "keletšo ya"
     },
     {
       "surface": "יהוה",
@@ -115,13 +94,13 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "bo tla dira"
+      "gloss": "e tla dira"
     },
     {
       "surface": "זאת",
       "gloss": "se"
     }
   ],
-  "timestamp": "2026-10-18T02:43:47.889662756Z",
+  "timestamp": "2026-10-18T17:20:45.150383284Z",
   "model": "glm-5.3"
 }

@@ -5,53 +5,27 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "bana ba lehu",
-      "rationale": "בני מות — 'bana ba lehu'; KJV\/ASV\/JPS e fetola go 'ba swanago go hlongwa' ( worthy to die), sebopego sa Sesemere se la"
-    },
-    {
-      "kind": "crux",
-      "subject": "בני מות",
-      "rationale": "'Bana ba lehu' (balatedi ba lehufa) kgahlanong le 'ba swanago go hlongwa' — diphetolelo tša kgale di a fapana"
-    },
-    {
-      "kind": "you",
-      "subject": "Abnere le masole",
-      "rationale": "Dafida o bolela le Abnere ('o' — sesupo se le tee) ka bobedi bja bolela ga bontši ba bona botšhe ba masole"
-    }
-  ],
-  "translation": "Ga se selo se sebotse seo o se dirilego. Yahwe a phela, ka gobane ke bana ba lehu nno, ge le sa boloke mong wa leno, yo a tloditšwego wa Yahwe; gomme bjale bona kae lhari ya kgoši le ⟨את⟩ sephego sa meetse seo se bego se le mo tlase ga hlogo ya gagwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "b0992ff3bee5fa1455f6dc2c2358ca3cf52d4cd8d48bd0d869f16ab4720425c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/26\/13-16.1792288771914.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Taba ye e sego ya botse seo o se dirilego. Yahwe o a phela, gobane le bana ba lehu, ge le sa lokediše mong wa lena, Mashiakh wa Yahwe. Bjale bjale lebelela kae kua sehlare sa kgoši, le ⟨את⟩ sejana sa meetse seo se bego se le ka hlogong ya gagwe.",
   "tokens": [
     {
       "surface": "לא",
-      "gloss": "ga se"
+      "gloss": "ga"
     },
     {
       "surface": "טוב",
-      "gloss": "se sebotse"
+      "gloss": "e sego ya botse"
     },
     {
       "surface": "הדבר",
-      "gloss": "selo"
+      "gloss": "taba"
     },
     {
       "surface": "הזה",
-      "gloss": "seo"
+      "gloss": "ye"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "seo"
     },
     {
       "surface": "עשית",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "חי",
-      "gloss": "a phela"
+      "gloss": "o a phela"
     },
     {
       "surface": "יהוה",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "ka gobane"
+      "gloss": "gobane"
     },
     {
       "surface": "בני",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "אתם",
-      "gloss": "nno"
+      "gloss": "le"
     },
     {
       "surface": "אשר",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "שמרתם",
-      "gloss": "le boloke"
+      "gloss": "lokedilego"
     },
     {
       "surface": "על",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "אדניכם",
-      "gloss": "mong wa leno"
+      "gloss": "mong wa lena"
     },
     {
       "surface": "על",
@@ -107,7 +81,7 @@
     },
     {
       "surface": "משיח",
-      "gloss": "yo a tloditšwego"
+      "gloss": "Mashiakh"
     },
     {
       "surface": "יהוה",
@@ -115,11 +89,11 @@
     },
     {
       "surface": "ועתה",
-      "gloss": "gomme bjale"
+      "gloss": "bjale bjale"
     },
     {
       "surface": "ראה",
-      "gloss": "bona"
+      "gloss": "lebelela"
     },
     {
       "surface": "אי",
@@ -127,20 +101,20 @@
     },
     {
       "surface": "חנית",
-      "gloss": "lhari"
+      "gloss": "sehlare"
     },
     {
       "surface": "המלך",
-      "gloss": "ya kgoši"
+      "gloss": "sa kgoši"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "sephego sa meetse"
+      "gloss": "⟨את⟩",
+      "marks": "sejana sa meetse"
     },
     {
       "surface": "צפחת",
-      "gloss": "sephego"
+      "gloss": "sejana"
     },
     {
       "surface": "המים",
@@ -152,9 +126,9 @@
     },
     {
       "surface": "מראשתו",
-      "gloss": "mo tlase ga hlogo ya gagwe"
+      "gloss": "ka hlogong ya gagwe"
     }
   ],
-  "timestamp": "2026-10-18T01:59:31.915718505Z",
+  "timestamp": "2026-10-18T17:00:26.354240792Z",
   "model": "glm-5.3"
 }

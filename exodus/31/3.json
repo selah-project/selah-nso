@@ -5,67 +5,46 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ruakh",
-      "rationale": "רוח rendered phonetically as ruakh per discipline — one word covering wind, breath and spirit."
-    },
-    {
-      "kind": "addition",
-      "subject": "ka mo",
-      "rationale": "Sepedi needs the object pronoun 'mo' (him) where Hebrew uses the aleph-tav marker אתו."
-    }
-  ],
-  "translation": "Gomme ka mo tlalitše ka ruakh ya Elohim, ka bohlale le ka kwešišo le ka tsebo le ka mošomo ka moka.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "f6bf04b29791fe11920969691a6ef199183e7df34d81fc743f4f756ced92e8f6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/31\/1-4.1792283108724.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ka mo ke mo tlatsitše ⟨את⟩ ruakh ya Elohim, bokgeleng le go kwešiša le tsebo le go šoma mošomo ka moka",
   "tokens": [
     {
-      "surface": "ואמלא",
-      "gloss": "ka mo tlalitše"
+      "surface": "וָאֲמַלֵּא",
+      "gloss": "gomme ke mo tlatsitše"
     },
     {
-      "surface": "אתו",
+      "surface": "אֹתוֹ",
       "gloss": "⟨את⟩",
-      "marks": "ka (him — Betselele)"
+      "marks": "ruakh ya Elohim"
     },
     {
-      "surface": "רוח",
+      "surface": "רוּחַ",
       "gloss": "ruakh"
     },
     {
-      "surface": "אלהים",
+      "surface": "אֱלֹהִים",
       "gloss": "Elohim"
     },
     {
-      "surface": "בחכמה",
-      "gloss": "ka bohlale"
+      "surface": "בְּחָכְמָה",
+      "gloss": "bokgeleng"
     },
     {
-      "surface": "ובתבונה",
-      "gloss": "le ka kwešišo"
+      "surface": "וּבִתְבוּנָה",
+      "gloss": "le go kwešiša"
     },
     {
-      "surface": "ובדעת",
-      "gloss": "le ka tsebo"
+      "surface": "וּבְדַעַת",
+      "gloss": "le tsebo"
     },
     {
-      "surface": "ובכל",
-      "gloss": "le ka"
+      "surface": "וּבְכָל",
+      "gloss": "le go šoma mošomo ka moka"
     },
     {
-      "surface": "מלאכה",
-      "gloss": "mošomo ka moka"
+      "surface": "מְלָאכָה",
+      "gloss": "mošomo"
     }
   ],
-  "timestamp": "2026-10-18T00:25:08.725454831Z",
+  "timestamp": "2026-10-18T17:11:56.969647010Z",
   "model": "glm-5.3"
 }

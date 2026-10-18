@@ -5,23 +5,7 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "go hloka bokgethwa",
-      "rationale": "טמא ke maemo a mošomo wa bokgethwa, e sego boitshwaro bjo bo bobe ka noši"
-    }
-  ],
-  "translation": "Gomme yo a tsenago go ntlo, matsatsi othle a go notlelwa ga yona, o tla hloka bokgethwa go fihla mašubegeng.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "226193c91355b95727e1298c6773228d58e7c30fcd8c1c43e6fcb895f3372090",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/14\/45-48.1792283847786.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme yo a tsenago go ntlo, ka mehla ye moka yeo e tswaletšwego, o tla ⟨את⟩ se hlweke go fihla manšong.",
   "tokens": [
     {
       "surface": "והבא",
@@ -37,24 +21,24 @@
     },
     {
       "surface": "כל",
-      "gloss": "othle"
+      "gloss": "ye moka"
     },
     {
       "surface": "ימי",
-      "gloss": "matsatsi"
+      "gloss": "ka mehla"
     },
     {
       "surface": "הסגיר",
-      "gloss": "a go notlelwa ga yona"
+      "gloss": "yeo e tswaletšwego"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩-yena",
-      "marks": "ntlo (yo a notlelwago)"
+      "gloss": "⟨את⟩",
+      "marks": "yo a tsenago — yo a se hlwekago"
     },
     {
       "surface": "יטמא",
-      "gloss": "o tla hloka bokgethwa"
+      "gloss": "o tla se hlweke"
     },
     {
       "surface": "עד",
@@ -62,9 +46,9 @@
     },
     {
       "surface": "הערב",
-      "gloss": "mašubegeng"
+      "gloss": "manšong"
     }
   ],
-  "timestamp": "2026-10-18T00:37:27.787893669Z",
+  "timestamp": "2026-10-18T17:29:49.423157421Z",
   "model": "glm-5.3"
 }

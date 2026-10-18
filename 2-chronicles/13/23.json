@@ -5,28 +5,7 @@
   "book": "2-chronicles",
   "lang": "nso",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "a robala le bo-ntate wa gagwe",
-      "rationale": "וישכב עם אבתיו — 'go robala le bo-ntate' ke go swa; go robala fela go ka hlatholla ka tsela e fošagetšego"
-    },
-    {
-      "kind": "measurement",
-      "subject": "mengwaga ye lesome",
-      "rationale": "Palo ya go phumula ga lefase — mengwaga ye lesome"
-    }
-  ],
-  "translation": "Gomme Abiya a robala le bo-ntate wa gagwe, gomme ba mo pšhatla mo toropong ya Dafida; gomme Asa mora wa gagwe a busa mo bohaleng bja gagwe; matšatšing a gagwe lefase le ile la phumula mengwaga ye lesome.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "7ca13cf73f251460d02be4f2e656a6bd7b95d67e0a15a12dd41fd7200891631f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/13\/21-23.1792303867533.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Abija a robala go ya go bo-ntate ba gagwe, gomme ba mo koša ⟨את⟩ setšhabeng sa Dafida, gomme Asa mora wa gagwe a bola kgoši boemong bja gagwe; mafelong a gagwe lefase le ile la phumola mengwaga ye lesome.",
   "tokens": [
     {
       "surface": "וישכב",
@@ -34,28 +13,28 @@
     },
     {
       "surface": "אביה",
-      "gloss": "Abiya"
+      "gloss": "Abija"
     },
     {
       "surface": "עם",
-      "gloss": "le"
+      "gloss": "go ya go"
     },
     {
       "surface": "אבתיו",
-      "gloss": "bo-ntate wa gagwe"
+      "gloss": "bo-ntate ba gagwe"
     },
     {
       "surface": "ויקברו",
-      "gloss": "ba pšhatla"
+      "gloss": "ba mo koša"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "mo"
+      "marks": "setšhabeng sa Dafida"
     },
     {
       "surface": "בעיר",
-      "gloss": "mo toropong ya"
+      "gloss": "setšhabeng"
     },
     {
       "surface": "דויד",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "וימלך",
-      "gloss": "a busa"
+      "gloss": "a bola kgoši"
     },
     {
       "surface": "אסא",
@@ -75,15 +54,15 @@
     },
     {
       "surface": "תחתיו",
-      "gloss": "mo bohaleng bja gagwe"
+      "gloss": "boemong bja gagwe"
     },
     {
       "surface": "בימיו",
-      "gloss": "matšatšing a gagwe"
+      "gloss": "mafelong a gagwe"
     },
     {
       "surface": "שקטה",
-      "gloss": "la phumula"
+      "gloss": "la phumola"
     },
     {
       "surface": "הארץ",
@@ -98,6 +77,6 @@
       "gloss": "mengwaga"
     }
   ],
-  "timestamp": "2026-10-18T06:11:07.535034007Z",
+  "timestamp": "2026-10-18T17:02:02.376256373Z",
   "model": "glm-5.3"
 }

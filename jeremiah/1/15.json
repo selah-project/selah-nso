@@ -5,52 +5,31 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "משפחות ממלכות",
-      "rationale": "Go ahlana ga 'malapa' le 'bogoši' — ditšhaba di hlakahlakane go swana le setši se se huduletšwego sa 1:13"
-    },
-    {
-      "kind": "substitution",
-      "subject": "go mothalе wa dikgoro",
-      "rationale": "פתח שערי literally 'go mothalе wa dikgoro' — ke go tsenela ga dikgoro, ao ba aroganyago kgoro le toropong"
-    }
-  ],
-  "translation": "Ka gobane bonа, ke bitša malapa othe a bogoši a leboa, go bolela Yahwe; gomme ba tla, gomme ba bea motho yo mongwe le yo mongwe setulo sa gona go mothalе wa dikgoro tša Yerushalayime, le godimo ga mabota a yona mabapi, le godimo ga metse yohle ya Yehuda.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "cd14288c05d776619a7cc3bc340265350d7167a44280452a7504a686752aa6d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/1\/13-16.1792292672867.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gore bona, ke bitsa malapa ohle a mabogoši a leboa, go bolela Yahwe; gomme ba tla, gomme ba bea motho yo mongwe le yo mongwe setulo ya gagwe ya bogoši phatlhing ya dikgoro tša Yerushalayime, le godimo ga maboto a yona ka moka, ka thoko, le godimo ga metse ya Yuda ka moka.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ka gobane"
+      "gloss": "gore"
     },
     {
       "surface": "הנני",
-      "gloss": "bonа ke gona"
+      "gloss": "bona"
     },
     {
-      "surface": "קורא",
-      "gloss": "ke bitša"
+      "surface": "קרא",
+      "gloss": "ke bitsa"
     },
     {
       "surface": "לכל",
-      "gloss": "go"
+      "gloss": "ohle"
     },
     {
       "surface": "משפחות",
-      "gloss": "malapa othe"
+      "gloss": "malapa"
     },
     {
       "surface": "ממלכות",
-      "gloss": "a bogoši"
+      "gloss": "mabogoši"
     },
     {
       "surface": "צפונה",
@@ -78,18 +57,18 @@
     },
     {
       "surface": "כסאו",
-      "gloss": "setulo sa gona"
+      "gloss": "setulo ya gagwe ya bogoši"
     },
     {
       "surface": "פתח",
-      "gloss": "go mothalе wa"
+      "gloss": "phatlhing"
     },
     {
       "surface": "שערי",
       "gloss": "dikgoro"
     },
     {
-      "surface": "ירושלים",
+      "surface": "ירושלם",
       "gloss": "Yerushalayime"
     },
     {
@@ -102,11 +81,11 @@
     },
     {
       "surface": "חומתיה",
-      "gloss": "mabota a yona"
+      "gloss": "maboto a yona"
     },
     {
       "surface": "סביב",
-      "gloss": "mabapi"
+      "gloss": "ka thoko"
     },
     {
       "surface": "ועל",
@@ -122,9 +101,9 @@
     },
     {
       "surface": "יהודה",
-      "gloss": "Yehuda"
+      "gloss": "Yuda"
     }
   ],
-  "timestamp": "2026-10-18T03:04:32.868508755Z",
+  "timestamp": "2026-10-18T17:20:53.469322337Z",
   "model": "glm-5.3"
 }

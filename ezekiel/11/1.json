@@ -5,37 +5,16 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "twenty-five men",
-      "rationale": "go balwa banna ba masomepedi le hlano mo mogaleng wa kgoro."
-    },
-    {
-      "kind": "substitution",
-      "subject": "dikgoši",
-      "rationale": "שרי ke dikgoši\/dibaodi, e sego fela 'balaodi'."
-    }
-  ],
-  "translation": "Gomme ruakh e ile ya ntša ⟨את⟩ nna gomme ya m tlisa go kgoro ya ntlo ya Yahwe, ya bohlatsi, e sepileng bohlatsi; gomme bona, mo mogaleng wa kgoro masomepedi le hlano banna; gomme ka bona gare ga bona ⟨את⟩ Yaazania morwa Azure le ⟨את⟩ Pelatia morwa Benaja, dikgoši tša setšhaba.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "519c33d5a2fc9ad3e49813bee7f46ff0b040b8ee6ad869621c56c8255613ef6d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/11\/1-4.1792294631388.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ruakh e ile ya ntša ⟨את⟩ nna, gomme ya ntšhwa ⟨את⟩ nna go ya kgorong ya ntlo ya Yahwe, ya bošubela, e lebeletšego bošubela; gomme ona, mo mongwakgolong wa kgoro go be go na le batho ba masomepedi le hlano; gomme ka bona gare ga bona ⟨את⟩ Yaazanjaha, mora wa Azzure, le ⟨את⟩ Pelatjaha, mora wa Benajaha, dikgoši tša setšhaba.",
   "tokens": [
     {
       "surface": "ותשא",
-      "gloss": "e ile ya ntša"
+      "gloss": "gomme e ile ya ntša"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩ nna",
-      "marks": "nna"
+      "marks": "nna (ya ruakh)"
     },
     {
       "surface": "רוח",
@@ -43,20 +22,20 @@
     },
     {
       "surface": "ותבא",
-      "gloss": "ya m tlisa"
+      "gloss": "gomme ya ntšhwa"
     },
     {
       "surface": "אתי",
       "gloss": "⟨את⟩ nna",
-      "marks": "go kgoro ya ntlo ya Yahwe"
+      "marks": "nna (go ya kgorong)"
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "go ya"
     },
     {
       "surface": "שער",
-      "gloss": "kgoro"
+      "gloss": "kgorong"
     },
     {
       "surface": "בית",
@@ -68,23 +47,23 @@
     },
     {
       "surface": "הקדמוני",
-      "gloss": "ya bohlatsi"
+      "gloss": "ya bošubela"
     },
     {
       "surface": "הפונה",
-      "gloss": "e sepileng"
+      "gloss": "e lebeletšego"
     },
     {
       "surface": "קדימה",
-      "gloss": "bohlatsi"
+      "gloss": "bošubela"
     },
     {
       "surface": "והנה",
-      "gloss": "gomme bona"
+      "gloss": "gomme ona"
     },
     {
       "surface": "בפתח",
-      "gloss": "mo mogaleng"
+      "gloss": "mo mongwakgolong"
     },
     {
       "surface": "השער",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "banna"
+      "gloss": "batho"
     },
     {
       "surface": "ואראה",
@@ -113,36 +92,36 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yaazania"
+      "marks": "Yaazanjaha"
     },
     {
       "surface": "יאזניה",
-      "gloss": "Yaazania"
+      "gloss": "Yaazanjaha"
     },
     {
       "surface": "בן",
-      "gloss": "morwa"
+      "gloss": "mora"
     },
     {
       "surface": "עזר",
-      "gloss": "Azure"
+      "gloss": "wa Azzure"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "Pelatia"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "Pelatjaha"
     },
     {
       "surface": "פלטיהו",
-      "gloss": "Pelatia"
+      "gloss": "Pelatjaha"
     },
     {
       "surface": "בן",
-      "gloss": "morwa"
+      "gloss": "mora"
     },
     {
       "surface": "בניהו",
-      "gloss": "Benaja"
+      "gloss": "wa Benajaha"
     },
     {
       "surface": "שרי",
@@ -150,9 +129,9 @@
     },
     {
       "surface": "העם",
-      "gloss": "tsa setšhaba"
+      "gloss": "tša setšhaba"
     }
   ],
-  "timestamp": "2026-10-18T03:37:11.389576629Z",
+  "timestamp": "2026-10-18T17:13:06.514315446Z",
   "model": "glm-5.3"
 }

@@ -5,43 +5,28 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ויכרת ... ברית",
-      "rationale": "'go kgwarela' kgwerano — sedumong sa Seheberu go ra go kgwarela ka go fapana magareng ga dinama; Sepedi 'a dira kgwerano' kaone fela."
-    }
-  ],
-  "translation": "A moka peu ya bogoši, a dira le yena kgwerano, a mo isiša mokgolelweni, gomme ⟨את⟩ dikgoši tša lefase a di moka.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "98c3f92e4a1c2f0d6b2e28990b4282db1eaefde61a9c225cf59cd559b382f964",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/17\/13-16.1792294813975.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a tšea wa mo pele ga peu ya bogoši, a etsa le ⟨את⟩ yena kgwerano, a isa ⟨את⟩ yena mohlaong, gomme ⟨את⟩ dikgoši tša lefase a di tšea.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "a moka"
+      "gloss": "gomme a tšea"
     },
     {
       "surface": "מזרע",
-      "gloss": "peu ya"
+      "gloss": "wa mo pele ga peu"
     },
     {
       "surface": "המלוכה",
-      "gloss": "bogoši"
+      "gloss": "ya bogoši"
     },
     {
       "surface": "ויכרת",
-      "gloss": "a dira"
+      "gloss": "a etsa kgwerano"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ le yena"
+      "gloss": "le ⟨את⟩ yena",
+      "marks": "kgwerano — e gometše kgwerano, e sego selo se se dirwago"
     },
     {
       "surface": "ברית",
@@ -49,20 +34,21 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "a mo isiša"
+      "gloss": "a isa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "yena"
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena — mo go iswago mohlaong"
     },
     {
       "surface": "באלה",
-      "gloss": "mokgolelweni"
+      "gloss": "mohlaong"
     },
     {
       "surface": "ואת",
-      "gloss": "gomme ⟨את⟩"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "dikgoši tša lefase"
     },
     {
       "surface": "אילי",
@@ -74,9 +60,9 @@
     },
     {
       "surface": "לקח",
-      "gloss": "a di moka"
+      "gloss": "a di tšea"
     }
   ],
-  "timestamp": "2026-10-18T03:40:13.975935430Z",
+  "timestamp": "2026-10-18T17:13:40.686648481Z",
   "model": "glm-5.3"
 }

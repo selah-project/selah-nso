@@ -5,58 +5,32 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ka molomo wa tšhoša",
-      "rationale": "לפי חרeb ke 'molomo wa tšhoša' — phetolelo e boloka sebopego sa motho, e sego 'thari ya tšhoša'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "o e hlaoditše ka botlalo",
-      "rationale": "החרם ke thibelo ya go senywa ka botlalo — 'go hlaola ka botlalo' e boloka bokao bja khereme"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הכה תכה",
-      "rationale": "infinitive absolute e oketša maatlakgopama — 'o tla šoša ka nnete'"
-    }
-  ],
-  "translation": "O tla šoša ka nnete badudi ba motse woo ka molomo wa tšhoša; o e hlaoditše ka botlalo, le ⟨את⟩ tšohle tšeo di lego go ⟨את⟩ yona, le ⟨את⟩ diruiwa tša wona, ka molomo wa tšhoša.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "16c60cc1dfe89d277b407e9512ffe46793da95fb1fb3079ddc3bcffb44d72756",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/13\/13-16.1792285866651.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Go otla o tla otla ⟨את⟩ badudi ba toropo yeo ka molomo wa tšhoša; o e hlahlame ⟨את⟩ yona, le ⟨את⟩ tšohle tšeo tše di lego go yona, le ⟨את⟩ diruiwa tša yona, ka molomo wa tšhoša.",
   "tokens": [
     {
       "surface": "הכה",
-      "gloss": "ka nnete"
+      "gloss": "go otla"
     },
     {
       "surface": "תכה",
-      "gloss": "o tla šoša"
+      "gloss": "o tla otla"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "badudi ba motse woo"
+      "marks": "badudi ba toropo yeo"
     },
     {
       "surface": "ישבי",
-      "gloss": "badudi ba"
+      "gloss": "badudi"
     },
     {
       "surface": "העיר",
-      "gloss": "motse"
+      "gloss": "ba toropo"
     },
     {
       "surface": "ההוא",
-      "gloss": "woo"
+      "gloss": "yeo"
     },
     {
       "surface": "לפי",
@@ -68,16 +42,17 @@
     },
     {
       "surface": "החרם",
-      "gloss": "o e hlaoditše ka botlalo"
+      "gloss": "o e hlahlame"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ yona"
+      "gloss": "⟨את⟩",
+      "marks": "yona (toropo yeo)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "tšohle tšeo di lego go yona"
+      "gloss": "le ⟨את⟩",
+      "marks": "tšohle tšeo tše di lego go yona"
     },
     {
       "surface": "כל",
@@ -85,7 +60,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "tšeo"
+      "gloss": "tšeo tše di lego"
     },
     {
       "surface": "בה",
@@ -93,12 +68,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "diruiwa tša wona"
+      "gloss": "le ⟨את⟩",
+      "marks": "diruiwa tša yona"
     },
     {
       "surface": "בהמתה",
-      "gloss": "diruiwa tša wona"
+      "gloss": "diruiwa tša yona"
     },
     {
       "surface": "לפי",
@@ -109,6 +84,6 @@
       "gloss": "tšhoša"
     }
   ],
-  "timestamp": "2026-10-18T01:11:06.652664163Z",
+  "timestamp": "2026-10-18T17:08:52.706150694Z",
   "model": "glm-5.3"
 }

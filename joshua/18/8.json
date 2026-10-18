@@ -5,50 +5,19 @@
   "book": "joshua",
   "lang": "nso",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "kgetho",
-      "rationale": "גורל ke leswika la go kgetha; go lahlwa ga kgetho go dirwa pele ga Yahwe"
-    },
-    {
-      "kind": "substitution",
-      "subject": "a laela",
-      "rationale": "ויצו e ra re 'go laela ka maatla' — e le taelo ya kgoši, e sego kgethišo"
-    },
-    {
-      "kind": "you",
-      "subject": "bahlabeli ba lefase",
-      "rationale": "taelo ya Yehoshua go banna bao a ba romilego, ka moka ga boitshimilele"
-    },
-    {
-      "kind": "measurement",
-      "subject": "go ngwala lefase",
-      "rationale": "go ngwalwa ga lefase le go lahlwa ga kgetho — dipoelo tša go arola ka dikarolo"
-    }
-  ],
-  "translation": "Gomme banna ba butše, ba tsamaea; gomme Yehoshua a laela bao ba nago le go ngwala ⟨את⟩ lefase, a re: Tsamayang, sepelang ka lefaseng, e ngwalang, gomme boelang go ka; gomme mo ke tla lahlago kgetho go lena pele ga Yahwe kua Shilowe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "ceeb10fb4939a390aa614310b3b655bfca931bcbfad8ed3b1dee96c3f3a1a4b9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/18\/5-8.1792286936798.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme batho ba ema, ba tsena tseleng; gomme Yehoshua a laela ⟨את⟩ bao ba sepelago go ngwala ⟨את⟩ lefase, a re: Sepelang, phaphamalang ka lefaseng, ngwang ⟨את⟩ lefase, gomme boelang go nna; gomme mo ke tla le lahlela kgetho pele ga Yahwe ko Šilo.",
   "tokens": [
     {
       "surface": "ויקמו",
-      "gloss": "ba butše"
+      "gloss": "ba ema"
     },
     {
       "surface": "האנשים",
-      "gloss": "banna"
+      "gloss": "batho"
     },
     {
       "surface": "וילכו",
-      "gloss": "ba tsamaea"
+      "gloss": "ba tsena tseleng"
     },
     {
       "surface": "ויצו",
@@ -61,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bao ba nago le go ngwala lefase"
+      "marks": "bao ba sepelago"
     },
     {
       "surface": "ההלכים",
-      "gloss": "bao ba nago le go ngwala"
+      "gloss": "bao ba sepelago"
     },
     {
       "surface": "לכתב",
@@ -86,11 +55,11 @@
     },
     {
       "surface": "לכו",
-      "gloss": "Tsamayang"
+      "gloss": "Sepelang"
     },
     {
       "surface": "והתהלכו",
-      "gloss": "sepelang"
+      "gloss": "phaphamalang"
     },
     {
       "surface": "בארץ",
@@ -98,20 +67,20 @@
     },
     {
       "surface": "וכתבו",
-      "gloss": "e ngwalang"
+      "gloss": "ngwang"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩-e",
+      "gloss": "⟨את⟩",
       "marks": "lefase"
     },
     {
       "surface": "ושובו",
-      "gloss": "boelang"
+      "gloss": "gomme boelang"
     },
     {
       "surface": "אלי",
-      "gloss": "go ka"
+      "gloss": "go nna"
     },
     {
       "surface": "ופה",
@@ -119,11 +88,11 @@
     },
     {
       "surface": "אשליך",
-      "gloss": "ke tla lahlago"
+      "gloss": "ke tla le lahlela"
     },
     {
       "surface": "לכם",
-      "gloss": "go lena"
+      "gloss": "le"
     },
     {
       "surface": "גורל",
@@ -139,9 +108,9 @@
     },
     {
       "surface": "בשלה",
-      "gloss": "kua Shilowe"
+      "gloss": "ko Šilo"
     }
   ],
-  "timestamp": "2026-10-18T01:28:56.800370860Z",
+  "timestamp": "2026-10-18T17:27:07.923778013Z",
   "model": "glm-5.3"
 }

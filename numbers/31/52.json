@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ke",
-      "rationale": "Sepedi e nyaka kopula ya go bontšha palo; Seheberu ga se na yona"
-    },
-    {
-      "kind": "measurement",
-      "subject": "palo ya gauta",
-      "rationale": "16 750 shekele — go lekanya boima bja sehlabelo ka di-shekele"
-    },
-    {
-      "kind": "substitution",
-      "subject": "האלפים\/המאות",
-      "rationale": "Seheberu se bolela dikete le makgolo (diphalo tša mabotho), e sego fela maemo a dikgoši"
-    }
-  ],
-  "translation": "Gomme gauta ka moka ya sehlabelo seo ba se laeditšego go Yahwe — ya dikgoši tša di-⟨את⟩ dikete tše di le sekete le tša dikgoši tša makgolo — e bile ⟨ke⟩ lesomepedi dikete tše šupa makgolo le masomehlano tše di lekanyeditšwego ka di-shekele.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "9a2f8100aa23ed9b26108c145e4465f3bdd186bf04e00a9af628673994799bad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/31\/52-52.1792304739021.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme gauta ka moka ya sehlabelo seo ba e phahamilitšego go Yahwe — go tšwa ⟨את⟩ baetapele ba dikete, le go tšwa ⟨את⟩ baetapele ba makgolo — e bile mashekele a lesomepedi dikete, makgolo a šupa le masomehlano.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "התרומה",
-      "gloss": "ya sehlabelo"
+      "gloss": "sehlabelo"
     },
     {
       "surface": "אשר",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "הרימו",
-      "gloss": "ba e laeditše"
+      "gloss": "ba e phahamilitšego"
     },
     {
       "surface": "ליהוה",
@@ -63,11 +37,11 @@
     },
     {
       "surface": "ששה",
-      "gloss": "tše"
+      "gloss": "tshela"
     },
     {
       "surface": "עשר",
-      "gloss": "lesomepedi"
+      "gloss": "ya go lesome"
     },
     {
       "surface": "אלף",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "tše šupa"
+      "gloss": "makgolo a šupa"
     },
     {
       "surface": "מאות",
@@ -83,38 +57,39 @@
     },
     {
       "surface": "וחמשים",
-      "gloss": "gomme masomehlano"
+      "gloss": "le masomehlano"
     },
     {
       "surface": "שקל",
-      "gloss": "shekele"
+      "gloss": "a mashekele"
     },
     {
       "surface": "מאת",
-      "gloss": "go tšwa go ⟨את⟩"
+      "gloss": "go tšwa ⟨את⟩",
+      "marks": "baetapele ba dikete"
     },
     {
       "surface": "שרי",
-      "gloss": "dikgoši"
+      "gloss": "baetapele"
     },
     {
       "surface": "האלפים",
-      "gloss": "tša dikete"
+      "gloss": "ba dikete"
     },
     {
       "surface": "ומאת",
-      "gloss": "gomme go tšwa go ⟨את⟩",
-      "marks": "dikgoši tša makgolo"
+      "gloss": "le go tšwa ⟨את⟩",
+      "marks": "baetapele ba makgolo"
     },
     {
       "surface": "שרי",
-      "gloss": "dikgoši"
+      "gloss": "baetapele"
     },
     {
       "surface": "המאות",
-      "gloss": "tša makgolo"
+      "gloss": "ba makgolo"
     }
   ],
-  "timestamp": "2026-10-18T06:25:39.022481175Z",
+  "timestamp": "2026-10-18T17:35:14.213662500Z",
   "model": "glm-5.3"
 }

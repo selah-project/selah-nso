@@ -5,53 +5,32 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ולא ישכבו",
-      "rationale": "Bammetoleli ba ganowana: KJV\/ASV 'ba sa robale le bahlabani' (ganetšo) kgathanong le YLT 'ba sa robale ... go swana' — go sa kgone go hlaka gore ke Mang le Mang ya a ganwago le go robala le mang."
-    },
-    {
-      "kind": "secret",
-      "subject": "Sheole",
-      "rationale": "Sheole — lefase la ba hwilego; lentšu la Sepedi le na le kutollo ya 'dihele', ka gobane le bolokwa ka modumo wa lona bjalo ka ge melao e rego."
-    }
-  ],
-  "translation": "Gomme ba sa robale le bahlabani, bao ba wago, ba sa rolwago, bao ba theogilego goya Sheole ka didirišwa tša ntoa tša bona, gomme ba beileng ⟨את⟩ ditšhoša tša bona ka fase ga ditlogo tša bona, gomme dibe tša bona di dutše godimo ga marapo a bona; ka gobane tšhošo ya bahlabani e be e le lefaseng la ba phelago.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "82a00bd8dc6e7436d702f41df01bc06e25de963cad477db0beef8808b10cf47f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/32\/25-28.1792295369157.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba sa ka ba robala le ⟨את⟩ bagodi bao ba welago ba sa alwago, bao ba theogilego Sheole ka dibeka tša ntoa ya bona, gomme ba beile ⟨את⟩ ditšhoša tša bona ka fase ga ditlhogo tša bona, gomme dibe tša bona di ile tša ba godimo ga marapo a bona, ka gobane tšhogo ya bagodi e be e le lefaseng la ba phelago.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "gomme ba sa ... go swana"
+      "gloss": "gomme ... fela"
     },
     {
       "surface": "ישכבו",
-      "gloss": "robale"
+      "gloss": "ba robala"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bahlabani"
+      "marks": "bagodi"
     },
     {
       "surface": "גבורים",
-      "gloss": "bahlabani"
+      "gloss": "bagodi"
     },
     {
       "surface": "נפלים",
-      "gloss": "bao ba wago"
+      "gloss": "bao ba welago"
     },
     {
       "surface": "מערלים",
-      "gloss": "ba sa rolwago"
+      "gloss": "ba sa alwago"
     },
     {
       "surface": "אשר",
@@ -67,15 +46,15 @@
     },
     {
       "surface": "בכלי",
-      "gloss": "ka didirišwa"
+      "gloss": "ka dibeka"
     },
     {
       "surface": "מלחמתם",
-      "gloss": "toa tša bona"
+      "gloss": "tša ntoa ya bona"
     },
     {
       "surface": "ויתנו",
-      "gloss": "gomme ba beileng"
+      "gloss": "gomme ba beile"
     },
     {
       "surface": "את",
@@ -92,11 +71,11 @@
     },
     {
       "surface": "ראשיהם",
-      "gloss": "ditlogo tša bona"
+      "gloss": "ditlhogo tša bona"
     },
     {
       "surface": "ותהי",
-      "gloss": "gomme ... di dutše"
+      "gloss": "gomme ... di ile tša ba"
     },
     {
       "surface": "עונתם",
@@ -116,21 +95,21 @@
     },
     {
       "surface": "חתית",
-      "gloss": "tšhošo"
+      "gloss": "tšhogo"
     },
     {
       "surface": "גבורים",
-      "gloss": "ya bahlabani"
+      "gloss": "ya bagodi"
     },
     {
       "surface": "בארץ",
-      "gloss": "lefaseng"
+      "gloss": "lefase"
     },
     {
       "surface": "חיים",
       "gloss": "la ba phelago"
     }
   ],
-  "timestamp": "2026-10-18T03:49:29.159726169Z",
+  "timestamp": "2026-10-18T17:14:52.574600046Z",
   "model": "glm-5.3"
 }

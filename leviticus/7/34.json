@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "התנופה\/התרומה",
-      "rationale": "mešomo mebedi ya moperisita — gošuthiša (tenufa) le go tsea-karolo (teruma) — dika tša melaetsa di gotšwa go medumo ya go šuthiša le go godiša"
-    },
-    {
-      "kind": "measurement",
-      "subject": "לחק עולם",
-      "rationale": "karolo yeo e laetšwego ya moperisita — molao wa go sa fele wa karolo"
-    }
-  ],
-  "translation": "Gore ⟨את⟩ sehuba sa gošuthišwa le ⟨את⟩ šologo ya go tsewa-se-karolo ke nna ke di tšerego go tšwa ⟨את⟩ baneng ba Yisraele, go tšwa mešomong ya khotšo ya bona, gomme ke di file Aharone moperisita le bana ba gagwe, e le molao wa go sa fele, go tšwa ⟨את⟩ baneng ba Yisraele.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "e4c1f5bd048a04432ba0d321b3366c8f0767b0fa3cf9c28afa5821fb34902c0f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/7\/33-36.1792283570223.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gore ⟨את⟩ sehuba sa go phaphagatšwa le ⟨את⟩ serope sa go tšea-godimo ke tšeo di nkilwego go bana ba Yisraele, go tšwa dihlabelong tša bona tša kagiso, gomme ke di file ⟨אתם⟩ Aharone moperisita le bana ba gagwe, e le molao wa go sa fele, go tšwa go bana ba Yisraele.",
   "tokens": [
     {
       "surface": "כי",
@@ -35,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sehuba sa gošuthišwa"
+      "marks": "sehuba sa go phaphagatšwa"
     },
     {
       "surface": "חזה",
@@ -43,24 +22,24 @@
     },
     {
       "surface": "התנופה",
-      "gloss": "sa gošuthišwa"
+      "gloss": "sa go phaphagatšwa"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "šologo ya go tsewa-se-karolo"
+      "marks": "serope sa go tšea-godimo"
     },
     {
       "surface": "שוק",
-      "gloss": "šologo ya letshatshi"
+      "gloss": "serope"
     },
     {
       "surface": "התרומה",
-      "gloss": "ya go tsewa-se-karolo"
+      "gloss": "sa go tšea-godimo"
     },
     {
       "surface": "לקחתי",
-      "gloss": "ke nna ke di tšerego"
+      "gloss": "ke nkile"
     },
     {
       "surface": "מאת",
@@ -68,27 +47,28 @@
     },
     {
       "surface": "בני",
-      "gloss": "baneng"
+      "gloss": "bana"
     },
     {
       "surface": "ישראל",
-      "gloss": "ba Yisraele"
+      "gloss": "Yisraele"
     },
     {
       "surface": "מזבחי",
-      "gloss": "go tšwa mešomong"
+      "gloss": "dihlabelong"
     },
     {
       "surface": "שלמיהם",
-      "gloss": "ya khotšo ya bona"
+      "gloss": "tša kagiso tša bona"
     },
     {
       "surface": "ואתן",
-      "gloss": "gomme ke di filego"
+      "gloss": "gomme ke file"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩ di"
+      "gloss": "⟨אתם⟩",
+      "marks": "Aharone moperisita le bana ba gagwe"
     },
     {
       "surface": "לאהרן",
@@ -116,13 +96,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "baneng"
+      "gloss": "bana"
     },
     {
       "surface": "ישראל",
-      "gloss": "ba Yisraele"
+      "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-18T00:32:50.225037484Z",
+  "timestamp": "2026-10-18T17:31:59.114891319Z",
   "model": "glm-5.3"
 }

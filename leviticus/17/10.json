@@ -5,37 +5,11 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ונתתי פני ב",
-      "rationale": "'go bea sefahleho kgahlanong le' — sereti sa Seheberu sa go hlopha tlhogo khahlanong le motho"
-    },
-    {
-      "kind": "substitution",
-      "subject": "נפש",
-      "rationale": "nefesh ga se 'moya' wa ka ntle — ke moya\/bophelo bja mmeleng; 'pelo ya' ke go atametša fela"
-    },
-    {
-      "kind": "substitution",
-      "subject": "והכרתי",
-      "rationale": "'ke tla mo ralela' — Seheberu 'go kgoba' (go ntšhwa go gare ga setšhaba)"
-    }
-  ],
-  "translation": "Gomme motho o mongwe le o mongwe wa ntlo ya Yisraele, le moeti yo a dulago gare ga bona, yo a jago madi a mangwe le a mangwe — ke tla bea sefahleho sa ka kgahlanong le pelo ya yo a jago ⟨את⟩ madi, gomme ke tla mo ralela go gare ga setšhaba sa gagwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "f19a24019036afff89b4c8810e97f6bf4a2359bc1cad1336dfeb65665e507cfe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/17\/9-12.1792284053466.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme motho o mongwe le o mongwe wa legolang la Yisraele, gomme wa moeti yo a dulago gare ga bona, yo a jago madi a moka, ke tla bea sefahlego sa ka kgahlanong le moya yo a jago ⟨את⟩ madi, gomme ke tla mo ralokolla ⟨את⟩ go tšwa gare ga setšhaba sa gagwe.",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "Gomme motho"
+      "gloss": "gomme motho"
     },
     {
       "surface": "איש",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "מבית",
-      "gloss": "wa ntlo"
+      "gloss": "wa legolang la"
     },
     {
       "surface": "ישראל",
-      "gloss": "ya Yisraele"
+      "gloss": "Yisraele"
     },
     {
       "surface": "ומן",
-      "gloss": "le"
+      "gloss": "gomme wa"
     },
     {
       "surface": "הגר",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "כל",
-      "gloss": "a mangwe le a mangwe"
+      "gloss": "moka"
     },
     {
       "surface": "דם",
@@ -87,11 +61,11 @@
     },
     {
       "surface": "פני",
-      "gloss": "sefahleho sa ka"
+      "gloss": "sefahlego sa ka"
     },
     {
       "surface": "בנפש",
-      "gloss": "kgahlanong le pelo ya"
+      "gloss": "kgahlanong le moya wa"
     },
     {
       "surface": "האכלת",
@@ -108,22 +82,22 @@
     },
     {
       "surface": "והכרתי",
-      "gloss": "ke tla mo ralela"
+      "gloss": "gomme ke tla mo ralokolla"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "yo a jago madi"
+      "marks": "go tšwa gare ga setšhaba sa gagwe"
     },
     {
       "surface": "מקרב",
-      "gloss": "go gare ga"
+      "gloss": "go tšwa gare"
     },
     {
       "surface": "עמה",
-      "gloss": "setšhaba sa gagwe"
+      "gloss": "ga setšhaba sa gagwe"
     }
   ],
-  "timestamp": "2026-10-18T00:40:53.467220406Z",
+  "timestamp": "2026-10-18T17:30:53.976277607Z",
   "model": "glm-5.3"
 }

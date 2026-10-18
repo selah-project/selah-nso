@@ -5,41 +5,15 @@
   "book": "2-chronicles",
   "lang": "nso",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "בין דם לדם",
-      "rationale": "sebopego sa mphato sa Seheberu: 'gare ga madi le madi' — dikgang tša madi, tša bolayelwa le dikgobo"
-    },
-    {
-      "kind": "addition",
-      "subject": "e tlang",
-      "rationale": "Sepedi se nyaka sebopego se feletseng sa thema yeo Seheberu se e filogo ka sebopego sa go ba gona"
-    },
-    {
-      "kind": "substitution",
-      "subject": "קצף",
-      "rationale": "qetsef ka tlholego ke seripa se se thuntšhago; kutlofo e tšea sebopego sa moya woo"
-    }
-  ],
-  "translation": "Gomme kgang e nngwe le e nngwe ya tšwa go bana ba bangwe ba bago ba dulago metseng ya bona — gare ga madi le madi, gare ga Torah le taelo, ditaeko le dikahlolo — le ba hlalositše, gore ba se be ba le sebe go Yahwe, gomme kutlofo e se be go lona le go bana ba lona ba bangwe; bjalo ke tla dira, gomme le ka se ba ba le sebe.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "d1dc926f05f3d02b5e3a2e81627db8d6ad220a56b35b5b2efc486fda2188142f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/19\/9-11.1792304023174.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme kgethekgong e nngwe le e nngwe yeo e tlaago go lena go tšwa go bagolwane ba lena ba badulo dinageng tša bona — magareng ga madi le madi, magareng ga Torah le taelo, ditekanyetšo le dikahlolo — le ba tlwašetše ⟨את⟩ bona gore ba se ke ba ikhweša sebe go Yahwe, gomme kotlego e se ke ya tla go lena le go bagolwane ba lena. Bjalo le ka se dire, gomme le ka se ikhweše sebe.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "gomme kgang e nngwe le e nngwe"
+      "gloss": "gomme kgethekgong e nngwe le e nngwe"
     },
     {
       "surface": "ריב",
-      "gloss": "kgang"
+      "gloss": "kgethekgong"
     },
     {
       "surface": "אשר",
@@ -47,27 +21,27 @@
     },
     {
       "surface": "יבוא",
-      "gloss": "e tlang"
+      "gloss": "e tlaago"
     },
     {
       "surface": "עליכם",
-      "gloss": "go lona"
+      "gloss": "go lena"
     },
     {
       "surface": "מאחיכם",
-      "gloss": "go bana ba lona ba bangwe"
+      "gloss": "go tšwa go bagolwane ba lena"
     },
     {
       "surface": "הישבים",
-      "gloss": "ba dulago"
+      "gloss": "ba badulo"
     },
     {
       "surface": "בעריהם",
-      "gloss": "metseng ya bona"
+      "gloss": "dinageng tša bona"
     },
     {
       "surface": "בין",
-      "gloss": "gare ga"
+      "gloss": "magareng ga"
     },
     {
       "surface": "דם",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "בין",
-      "gloss": "gare ga"
+      "gloss": "magareng ga"
     },
     {
       "surface": "תורה",
@@ -91,28 +65,28 @@
     },
     {
       "surface": "לחקים",
-      "gloss": "ditaeko"
+      "gloss": "ditekanyetšo"
     },
     {
       "surface": "ולמשפטים",
-      "gloss": "le dikahlolo"
+      "gloss": "gomme dikahlolo"
     },
     {
       "surface": "והזהרתם",
-      "gloss": "gomme le ba hlalositše"
+      "gloss": "gomme le ba tlwašetše"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "bana ba lona ba bangwe"
+      "marks": "bona (bagolwane ba ba khwešago sebe)"
     },
     {
       "surface": "ולא",
-      "gloss": "gore ba se"
+      "gloss": "gore ba se ke"
     },
     {
       "surface": "יאשמו",
-      "gloss": "ba le sebe"
+      "gloss": "ba ikhweša sebe"
     },
     {
       "surface": "ליהוה",
@@ -120,23 +94,23 @@
     },
     {
       "surface": "והיה",
-      "gloss": "gomme kutlofo e tla ba"
+      "gloss": "gomme"
     },
     {
       "surface": "קצף",
-      "gloss": "kutlofo"
+      "gloss": "kotlego"
     },
     {
       "surface": "עליכם",
-      "gloss": "go lona"
+      "gloss": "go lena"
     },
     {
       "surface": "ועל",
-      "gloss": "le go"
+      "gloss": "gomme go"
     },
     {
       "surface": "אחיכם",
-      "gloss": "bana ba lona ba bangwe"
+      "gloss": "bagolwane ba lena"
     },
     {
       "surface": "כה",
@@ -144,7 +118,7 @@
     },
     {
       "surface": "תעשון",
-      "gloss": "ke tla dira"
+      "gloss": "le ka se dire"
     },
     {
       "surface": "ולא",
@@ -152,9 +126,9 @@
     },
     {
       "surface": "תאשמו",
-      "gloss": "ba ba le sebe"
+      "gloss": "ikhweše sebe"
     }
   ],
-  "timestamp": "2026-10-18T06:13:43.176496458Z",
+  "timestamp": "2026-10-18T17:02:14.350730981Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,11 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "‹thabela›",
-      "rationale": "Seheberu se na le seswantšho sa go kgahlega fela; Sepedi se nyaka mamentsi a mo go thabela"
-    },
-    {
-      "kind": "substitution",
-      "subject": "go tšeetša lehlo",
-      "rationale": "הקשיב ke seswantšho sa 'go tsea ditlela ka mahlo' — go ikgantšha gotheetela"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "זבחים\/מזבח",
-      "rationale": "dihlabelo\/sehlabelo — modumo o boelela, o laletša kgathanong ya go theetela"
-    },
-    {
-      "kind": "you",
-      "subject": "Sause",
-      "rationale": "Samuele o bolela ka go tlaka go Sause, karolo ya kgetsi ya go lwantšhana le go hloya-kolobedu"
-    }
-  ],
-  "translation": "Gomme Samuele a re: Na go Yahwe go ‹thabela› dibegeo tša go fišwa le dihlabelo bjalo ka go theetela lentšu la Yahwe? Bonang, go theetela go feta sehlabelo, go tšeetša lehlo go feta mafura a dinamuni.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "6a4ce2c35245304daf488040292fe26c4891de0f1a0324a78843323e76997d3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/15\/21-24.1792288234780.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Samuele a re: Na Yahwe o thabela dibego tša go fišwa le dihlabelo, go feta go kwa lentšu la Yahwe? Bonang, go kwa go molemo go feta sehlabelo, gomme go theetsa go feta mafura a dipoo.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "gomme ... a re"
     },
     {
       "surface": "שמואל",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "החפץ",
-      "gloss": "go ‹thabela›"
+      "gloss": "go thabela"
     },
     {
       "surface": "ליהוה",
@@ -56,7 +25,7 @@
     },
     {
       "surface": "בעלות",
-      "gloss": "dibegeo tša go fišwa"
+      "gloss": "dibego tša go fišwa"
     },
     {
       "surface": "וזבחים",
@@ -64,7 +33,7 @@
     },
     {
       "surface": "כשמע",
-      "gloss": "bjalo ka go theetela"
+      "gloss": "go feta go kwa"
     },
     {
       "surface": "בקול",
@@ -80,19 +49,19 @@
     },
     {
       "surface": "שמע",
-      "gloss": "go theetela"
+      "gloss": "go kwa"
     },
     {
       "surface": "מזבח",
-      "gloss": "go feta sehlabelo"
+      "gloss": "go molemo go feta sehlabelo"
     },
     {
       "surface": "טוב",
-      "gloss": "go feta"
+      "gloss": "go molemo"
     },
     {
       "surface": "להקשיב",
-      "gloss": "go tšeetša lehlo"
+      "gloss": "go theetsa"
     },
     {
       "surface": "מחלב",
@@ -100,9 +69,9 @@
     },
     {
       "surface": "אילים",
-      "gloss": "a dinamuni"
+      "gloss": "a dipoo"
     }
   ],
-  "timestamp": "2026-10-18T01:50:34.781070150Z",
+  "timestamp": "2026-10-18T17:00:01.775702273Z",
   "model": "glm-5.3"
 }

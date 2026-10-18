@@ -5,54 +5,23 @@
   "book": "judges",
   "lang": "nso",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "Šibolete\/Sibolete",
-      "rationale": "phapano ya š le s e bontšha motho wa Efrayime; mantšu a mabedi a bolokwa ka modumo wa one"
-    },
-    {
-      "kind": "hapax",
-      "subject": "סבלת",
-      "rationale": "lentšu le le tlhagelela fela mo teng ga Tanakh"
-    },
-    {
-      "kind": "measurement",
-      "subject": "masomenne le pedi dikete",
-      "rationale": "palo ya ba ba hwetšago lehu ba Efrayime"
-    },
-    {
-      "kind": "crux",
-      "subject": "masomenne le pedi dikete",
-      "rationale": "ba bangwe ba bala 'dikete' bjalo ka 'dikgosi' (elef) ka gobane palo e kgolo kudu go dumela"
-    }
-  ],
-  "translation": "ba re go enwa: Bolela, o kopa: Šibolete; gomme a re: Sibolete, ka gobane a sa kgone go bolela bjalo; ba mo swara, ba mo hlabela dipheretšeng tša Jorde; gomme ka nako yeo go wa go tšwa go Efrayime masomenne le pedi dikete.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "b55309e0f4a6a9313fada43e61bf5b5c7acf0a0bfd63b84bf0a46dee5409b862",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/12\/5-8.1792287626269.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ba mmolela ba re: Bolela ka kgothetšo Šibolete; gomme a re Sibolete, ka gobane a be a se kgone go bolela bjalo; ba mo swara gomme ba gafa ⟨את⟩ yena go ditorong tša Yoridane; gomme go ile gwa wa ka nako yeo go tšwa go Efrayime masome-nne le pedi dikete.",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "gloss": "ba re"
+      "gloss": "Ba mmolela"
     },
     {
       "surface": "לו",
-      "gloss": "go enwa"
+      "gloss": "mo"
     },
     {
       "surface": "אמר",
-      "gloss": "Bolela"
+      "gloss": "bolela"
     },
     {
       "surface": "נא",
-      "gloss": "o kopa"
+      "gloss": "ka kgothetšo"
     },
     {
       "surface": "שבלת",
@@ -68,11 +37,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "a sa"
+      "gloss": "a se kgone"
     },
     {
       "surface": "יכין",
-      "gloss": "kgone"
+      "gloss": "go iša ka go swana"
     },
     {
       "surface": "לדבר",
@@ -88,27 +57,28 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ mo"
+      "gloss": "⟨את⟩",
+      "marks": "yena (mo gafago)"
     },
     {
       "surface": "וישחטוהו",
-      "gloss": "ba mo hlabela"
+      "gloss": "ba gafa yena"
     },
     {
       "surface": "אל",
-      "gloss": "dipheretšeng tša"
+      "gloss": "go"
     },
     {
       "surface": "מעברות",
-      "gloss": "dipheretšeng"
+      "gloss": "ditorong"
     },
     {
       "surface": "הירדן",
-      "gloss": "Jorde"
+      "gloss": "tša Yoridane"
     },
     {
       "surface": "ויפל",
-      "gloss": "go wa"
+      "gloss": "go ile gwa wa"
     },
     {
       "surface": "בעת",
@@ -124,7 +94,7 @@
     },
     {
       "surface": "ארבעים",
-      "gloss": "masomenne"
+      "gloss": "masome-nne"
     },
     {
       "surface": "ושנים",
@@ -135,6 +105,6 @@
       "gloss": "dikete"
     }
   ],
-  "timestamp": "2026-10-18T01:40:26.270600952Z",
+  "timestamp": "2026-10-18T17:28:06.371043321Z",
   "model": "glm-5.3"
 }

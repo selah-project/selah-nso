@@ -5,28 +5,7 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "שמעו בקולי",
-      "rationale": "Seheberu se bolela 'theetšang ka lentšu la ka' — go theetša mo go akaretša go morwa; go šomišwa 'theetšang lentšu' go boloka sebopego."
-    },
-    {
-      "kind": "substitution",
-      "subject": "לאלהים",
-      "rationale": "Elohim e dula bjalo ka Elohim go ya ka D1 — e sego 'Modimo'."
-    }
-  ],
-  "translation": "Eupša taba ye ke e laetše, go ba bolela: Theetšang lentšu la ka, gomme ke tla ba Elohim wa lona, gomme lena le tla ba setšhaba sa ka; gomme le sepeleng tsela ka moka yeo ke e laelago lena, gore go be botse go lena.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "8a803c1d405f5b1d7a019403cebc581b1361f7aeda2e06d93631bdaae9d60753",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/7\/21-24.1792292992733.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Eupša fela lentšu ⟨את⟩ le ke laetše bone, go re: Theetša lentšu la ka, gomme ke tla ba Elohim wa lona, gomme lena le tla ba setšhaba sa ka; gomme le sepele tseding ka moka ye ke e laago ⟨את⟩ lona, gore go be botse go lona.",
   "tokens": [
     {
       "surface": "כי",
@@ -34,36 +13,37 @@
     },
     {
       "surface": "אם",
-      "gloss": "e sego"
+      "gloss": "fela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taba ye"
+      "marks": "lentšu le"
     },
     {
       "surface": "הדבר",
-      "gloss": "taba ye"
+      "gloss": "lentšu"
     },
     {
       "surface": "הזה",
-      "gloss": "ye"
+      "gloss": "le"
     },
     {
       "surface": "צויתי",
-      "gloss": "ke e laetše"
+      "gloss": "ke laetše"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ba"
+      "gloss": "⟨את⟩",
+      "marks": "bone"
     },
     {
       "surface": "לאמר",
-      "gloss": "go ba bolela"
+      "gloss": "go re"
     },
     {
       "surface": "שמעו",
-      "gloss": "theetšang"
+      "gloss": "theetša"
     },
     {
       "surface": "בקולי",
@@ -71,7 +51,7 @@
     },
     {
       "surface": "והייתי",
-      "gloss": "gomme ke tla ba"
+      "gloss": "ke tla ba"
     },
     {
       "surface": "לכם",
@@ -91,35 +71,36 @@
     },
     {
       "surface": "לי",
-      "gloss": "go nna"
+      "gloss": "sa ka"
     },
     {
       "surface": "לעם",
-      "gloss": "setšhaba sa ka"
+      "gloss": "setšhaba"
     },
     {
       "surface": "והלכתם",
-      "gloss": "gomme le sepeleng"
+      "gloss": "gomme le sepele"
     },
     {
       "surface": "בכל",
-      "gloss": "ka moka ga"
+      "gloss": "ka moka"
     },
     {
       "surface": "הדרך",
-      "gloss": "tsela"
+      "gloss": "tseding"
     },
     {
       "surface": "אשר",
-      "gloss": "yeo"
+      "gloss": "ye"
     },
     {
       "surface": "אצוה",
-      "gloss": "ke e laelago"
+      "gloss": "ke e laago"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lena"
+      "gloss": "⟨את⟩",
+      "marks": "lona"
     },
     {
       "surface": "למען",
@@ -131,9 +112,9 @@
     },
     {
       "surface": "לכם",
-      "gloss": "go lena"
+      "gloss": "go lona"
     }
   ],
-  "timestamp": "2026-10-18T03:09:52.734058471Z",
+  "timestamp": "2026-10-18T17:24:13.115800121Z",
   "model": "glm-5.3"
 }

@@ -5,64 +5,43 @@
   "book": "joshua",
   "lang": "nso",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "אל ke karolo ya leina Bethele, ga e ahlaagiwe bjalo ka lentšu le ikemetseng"
-    },
-    {
-      "kind": "addition",
-      "subject": "ofe goba ofe",
-      "rationale": "Seheberu se re 'ga wa šala motho' fela; popafoko ya Sepedi e e oketša"
-    }
-  ],
-  "translation": "Gomme ga wa šala motho ofe goba ofe Ayi le Bethele, yo a sa tšwago ka morago ga Yisraele; gomme ba tlogetše ⟨את⟩ toropo e butšwego, ba latediša Yisraele.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "ac7ba1f3ad8876ca04d4971885bd50643e623aa304954d83c9e494e830ea06c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/8\/17-20.1792286728644.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ga go wahilwe motho le tee motseng wa Hai le Beetіele, yeo a ka se yelego ka morago ga Yisraele; gomme ba tlogetse ⟨את⟩ motse o butšwego, ba latedža ka morago ga Yisraele.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "gomme ga wa"
+      "gloss": "gomme ga go"
     },
     {
       "surface": "נשאר",
-      "gloss": "a šala"
+      "gloss": "wahilwe"
     },
     {
       "surface": "איש",
-      "gloss": "motho"
+      "gloss": "motho le tee"
     },
     {
       "surface": "בעי",
-      "gloss": "Ayi"
+      "gloss": "motseng wa Hai"
     },
     {
       "surface": "ובית",
-      "gloss": "le Bethele"
+      "gloss": "le Beet"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "ele"
     },
     {
       "surface": "אשר",
-      "gloss": "yo"
+      "gloss": "yeo"
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "a ka se"
     },
     {
       "surface": "יצאו",
-      "gloss": "a sa tšwago"
+      "gloss": "yelego"
     },
     {
       "surface": "אחרי",
@@ -74,24 +53,24 @@
     },
     {
       "surface": "ויעזבו",
-      "gloss": "ba tlogetše"
+      "gloss": "gomme ba tlogetse"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "toropo"
+      "marks": "motse"
     },
     {
       "surface": "העיר",
-      "gloss": "toropo"
+      "gloss": "motse"
     },
     {
       "surface": "פתוחה",
-      "gloss": "e butšwego"
+      "gloss": "o butšwego"
     },
     {
       "surface": "וירדפו",
-      "gloss": "ba latediša"
+      "gloss": "ba latedža"
     },
     {
       "surface": "אחרי",
@@ -102,6 +81,6 @@
       "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-18T01:25:28.644718645Z",
+  "timestamp": "2026-10-18T17:39:43.017847607Z",
   "model": "glm-5.3"
 }

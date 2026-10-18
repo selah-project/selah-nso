@@ -5,96 +5,76 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ka sefahlogo",
-      "rationale": "לפני ke 'pele ga sefahlogo'; ke oketšitše sefahlogo go hlalosa"
-    },
-    {
-      "kind": "you",
-      "subject": "go Yisraele",
-      "rationale": "Mošhe o bolela le setšhaba ka lentšu la 'lena'"
-    }
-  ],
-  "translation": "Gomme ke ile ka tlhwa ka sefahlogo pele ga Yahwe malatsi a ⟨את⟩ masome-nne le ⟨את⟩ mabosebo a masome-nne, eo ke neng ke tlhwa ka gona, ka gobane Yahwe o be a bolela go le fediša;",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "0f667da9868df5d2c4efd041c1ffea21370debbbe7b0b9c79486bdd44a92e7ec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/9\/25-28.1792285791000.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ke ile wa wa pele ga Yahwe ⟨את⟩ masome-nne a matšatši le ⟨את⟩ masome-nne a bošego, ge ke be ke wa gape, ka gobane Yahwe o be a boletše go ni phutlhela ⟨את⟩ lona.",
   "tokens": [
     {
-      "surface": "ואתנפל",
-      "gloss": "ke ile ka tlhwa ka sefahlogo"
+      "surface": "וָאֶתְנַפַּל",
+      "gloss": "ke ile wa wa pele ga"
     },
     {
-      "surface": "לפני",
-      "gloss": "pele ga"
+      "surface": "לִפְנֵי",
+      "gloss": "pele ga Yahwe (sefahlegong sa)"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "Yahwe"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
-      "marks": "masome-nne"
+      "marks": "masome-nne a matšatši"
     },
     {
-      "surface": "ארבעים",
+      "surface": "אַרְבָּעִים",
       "gloss": "masome-nne"
     },
     {
-      "surface": "היום",
-      "gloss": "malatsi"
+      "surface": "הַיּוֹם",
+      "gloss": "a matšatši"
     },
     {
-      "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "masome-nne"
+      "surface": "וְאֶת",
+      "gloss": "gomme ⟨את⟩",
+      "marks": "masome-nne a bošego"
     },
     {
-      "surface": "ארבעים",
+      "surface": "אַרְבָּעִים",
       "gloss": "masome-nne"
     },
     {
-      "surface": "הלילה",
-      "gloss": "mabosebo"
+      "surface": "הַלַּיְלָה",
+      "gloss": "a bošego"
     },
     {
-      "surface": "אשר",
-      "gloss": "eo"
+      "surface": "אֲשֶׁר",
+      "gloss": "ge"
     },
     {
-      "surface": "התנפלתי",
-      "gloss": "ke neng ke tlhwa"
+      "surface": "הִתְנַפַּלְתִּי",
+      "gloss": "ke be ke wa gape"
     },
     {
-      "surface": "כי",
+      "surface": "כִּי",
       "gloss": "ka gobane"
     },
     {
-      "surface": "אמר",
-      "gloss": "o be a bolela"
+      "surface": "אָמַר",
+      "gloss": "o be a boletše"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוָה",
       "gloss": "Yahwe"
     },
     {
-      "surface": "להשמיד",
-      "gloss": "go le fediša"
+      "surface": "לְהַשְׁמִיד",
+      "gloss": "go ni phutlhela"
     },
     {
-      "surface": "אתכם",
-      "gloss": "⟨את⟩ lena"
+      "surface": "אֶתְכֶם",
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona (setšhaba sa Yisraele)"
     }
   ],
-  "timestamp": "2026-10-18T01:09:51.001497195Z",
+  "timestamp": "2026-10-18T17:10:04.037786234Z",
   "model": "glm-5.3"
 }

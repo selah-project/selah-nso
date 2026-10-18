@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "tšhoša · tlala · modimodi",
-      "rationale": "Kahlolo tše tharo tša Seheberu (חרב · רעב · דבר) di boletšwe ka moka ka go tšwela pele — tatelano ya mantšu a mabedi a swanago ka go rera."
-    },
-    {
-      "kind": "crux",
-      "subject": "השערים",
-      "rationale": "Lentšu le bolela ditaela tše bose kudu — ba fetoledi bangwe ba re 'rotting', bangwe ba re 'vile'; ditebego ka bobedi di tšwa go motheo wa go bowa."
-    }
-  ],
-  "translation": "Go bolela Yahwe Tsebaote: Bonang, ke a ba romela ka go ba ⟨את⟩ tšhoša, ⟨את⟩ tlala le ⟨את⟩ modimodi; gomme ke tla ba bea bjalo ka ditaela tše bose, tše di ka se jewego, ka baka la go bowa.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "30064370d8174674835cd2578b44a002828236b96d463df2243dc7cc2f7f6c34",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/29\/17-20.1792293621015.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bjalo ka mo a bolela go Yahwe Tsebaote: Bonang, ke a romela go bona ⟨את⟩ tšhoša, ⟨את⟩ tlala le ⟨את⟩ sefofane, gomme ke tla bea ⟨את⟩ bona bjalo ka difige tše šoro, tšeo di sa jewego ka baka la bošoro.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Go bolela"
+      "gloss": "bjalo ka mo"
     },
     {
       "surface": "אמר",
-      "gloss": "go bolela"
+      "gloss": "a bolela"
     },
     {
       "surface": "יהוה",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "הנני",
-      "gloss": "Bonang"
+      "gloss": "bonang, ke"
     },
     {
       "surface": "משלח",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "בם",
-      "gloss": "go ba"
+      "gloss": "go bona"
     },
     {
       "surface": "את",
@@ -77,45 +56,46 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "modimodi"
+      "marks": "sefofane"
     },
     {
       "surface": "הדבר",
-      "gloss": "modimodi"
+      "gloss": "sefofane"
     },
     {
       "surface": "ונתתי",
-      "gloss": "gomme ke tla ba bea"
+      "gloss": "gomme ke tla bea"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ba"
+      "gloss": "⟨את⟩ bona",
+      "marks": "difige tše šoro"
     },
     {
       "surface": "כתאנים",
-      "gloss": "bjalo ka ditaela"
+      "gloss": "difige"
     },
     {
       "surface": "השערים",
-      "gloss": "tše bose"
+      "gloss": "tše šoro"
     },
     {
       "surface": "אשר",
-      "gloss": "tše"
+      "gloss": "tšeo"
     },
     {
       "surface": "לא",
-      "gloss": "ga se"
+      "gloss": "ga"
     },
     {
       "surface": "תאכלנה",
-      "gloss": "di ka se jewego"
+      "gloss": "di sa jewego"
     },
     {
       "surface": "מרע",
-      "gloss": "ka baka la go bowa"
+      "gloss": "ka baka la bošoro"
     }
   ],
-  "timestamp": "2026-10-18T03:20:21.016530749Z",
+  "timestamp": "2026-10-18T17:22:11.678741962Z",
   "model": "glm-5.3"
 }

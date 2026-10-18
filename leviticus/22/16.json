@@ -5,45 +5,24 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אשמה",
-      "rationale": "molato wa sephošo — lentšu le bolela molato le sehlabelo sa molato ka bobedi; sehlabelo se lahlegile"
-    },
-    {
-      "kind": "substitution",
-      "subject": "מקדשם",
-      "rationale": "yo a di kgethago — Seheberu se bolela 'yo a di kgethago' ka pontšo; -kgethwa ka D2"
-    }
-  ],
-  "translation": "Gomme ba se ke ba ba beela go rwala molato wa sephošo ge ba ja ⟨את⟩ dilo tša bona tše di kgethwago; ka gobane ke nna Yahwe yo a di kgethago.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "6d179f046420a6cf8a131988421b3537b244cfc7116ebb4796ba89cfd4447476",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/22\/13-16.1792284183467.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba ba beelletše go rwala ⟨את⟩ sebe sa molato ge ba ja ⟨את⟩ bokgethwa bja bona; ka gobane ke Yahwe, yo a ba kgethago.",
   "tokens": [
     {
       "surface": "והשיאו",
-      "gloss": "ba ba beela go rwala"
+      "gloss": "ba ba beelletše go rwala"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩ ba",
-      "marks": "ba"
+      "marks": "sebe"
     },
     {
       "surface": "עון",
-      "gloss": "molato"
+      "gloss": "sebe"
     },
     {
       "surface": "אשמה",
-      "gloss": "wa sephošo"
+      "gloss": "sa molato"
     },
     {
       "surface": "באכלם",
@@ -52,11 +31,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dilo tša bona tše di kgethwago"
+      "marks": "bokgethwa bja bona"
     },
     {
       "surface": "קדשיהם",
-      "gloss": "dilo tša bona tše di kgethwago"
+      "gloss": "bokgethwa bja bona"
     },
     {
       "surface": "כי",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "אני",
-      "gloss": "ke nna"
+      "gloss": "ke"
     },
     {
       "surface": "יהוה",
@@ -72,9 +51,9 @@
     },
     {
       "surface": "מקדשם",
-      "gloss": "yo a di kgethago"
+      "gloss": "yo a ba kgethago"
     }
   ],
-  "timestamp": "2026-10-18T00:43:03.468432630Z",
+  "timestamp": "2026-10-18T17:30:42.764839824Z",
   "model": "glm-5.3"
 }

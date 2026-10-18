@@ -5,40 +5,19 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "go ntšha",
-      "rationale": "והעליתי ke 'go tlhatloga\/go isa godimo' — Sepedi se fa se sengwe go 'go ntšha go tšwa go' mafoko, tlhatologo e nyenyane ya go ya godimo."
-    },
-    {
-      "kind": "you",
-      "subject": "go setšhaba sa Yisraele",
-      "rationale": "Mafoko a dirilwe ka bobedi le ao; sepheo sa 'setšhaba sa ka' se a bitswa ka leina."
-    }
-  ],
-  "translation": "Ka gona o profeta, gomme o be o re go bona: Bjalo ⟨ke⟩ lentšu la Adonai Yahwe: Bonang, ke ya tsebola ⟨את⟩ mafoko a lona, gomme ke tla go ntšha lona go tšwa go mafoko a lona, setšhaba sa ka, gomme ke tla go isa lona go lefase la Yisraele.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "84121e6dd3155f9c599a7f538d87a10f69da80d0a74a9246ab8bf29f844f3e6d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/37\/9-12.1792295474417.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane ga rena, profeta gomme o re bone: Go bolela Adonai Yahwe: Bonang, ke tlo efuletša ⟨את⟩ mafuri a lona, gomme ke tlo ntšha ⟨את⟩ lona go tšwa mafuring a lona, setšhaba sa ka, gomme ke tlo gogela ⟨את⟩ lona go ya lefaseng la Yisraele.",
   "tokens": [
     {
       "surface": "לכן",
-      "gloss": "ka gona"
+      "gloss": "ka gobane ga rena"
     },
     {
       "surface": "הנבא",
-      "gloss": "o profeta"
+      "gloss": "profeta"
     },
     {
       "surface": "ואמרת",
-      "gloss": "gomme o be o re"
+      "gloss": "gomme o re bone"
     },
     {
       "surface": "אליהם",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "כה",
-      "gloss": "bjalo"
+      "gloss": "go swana le"
     },
     {
       "surface": "אמר",
-      "gloss": "lentšu la"
+      "gloss": "go bolela"
     },
     {
       "surface": "אדני",
@@ -70,28 +49,29 @@
     },
     {
       "surface": "פתח",
-      "gloss": "ya tsebola"
+      "gloss": "ke tlo efuletša"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mafoko a lona"
+      "marks": "mafuri a lona"
     },
     {
       "surface": "קברותיכם",
-      "gloss": "mafoko a lona"
+      "gloss": "mafuri a lona"
     },
     {
       "surface": "והעליתי",
-      "gloss": "gomme ke tla go ntšha"
+      "gloss": "gomme ke tlo ntšha godimo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona go tšwa mafuring a lona"
     },
     {
       "surface": "מקברותיכם",
-      "gloss": "go tšwa go mafoko a lona"
+      "gloss": "go tšwa mafuring a lona"
     },
     {
       "surface": "עמי",
@@ -99,25 +79,26 @@
     },
     {
       "surface": "והבאתי",
-      "gloss": "gomme ke tla go isa"
+      "gloss": "gomme ke tlo gogela"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona go ya lefaseng la Yisraele"
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "go ya"
     },
     {
       "surface": "אדמת",
-      "gloss": "lefase"
+      "gloss": "lefaseng la"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-18T03:51:14.422290050Z",
+  "timestamp": "2026-10-18T17:15:37.922424866Z",
   "model": "glm-5.3"
 }

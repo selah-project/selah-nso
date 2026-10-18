@@ -5,48 +5,27 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "sehubeng sa gagwe",
-      "rationale": "'לפניו' e bolela 'sehubeng\/pelong' — idiom ya go wa 'sehubeng' go hlalosa go wa fase"
-    },
-    {
-      "kind": "substitution",
-      "subject": "mabapi",
-      "rationale": "'ממחרת' e bolela 'ka letšatši le latelago' — ka mehla mesong ye e latelago"
-    }
-  ],
-  "translation": "Gomme ba-Ashdode ba tsoge ka pela mesong, gomme bona, Dagoni o wile sehubeng fase, pele ga aitare ya Yahwe; ba kgoma ⟨את⟩ Dagoni, ba mo bea boele lefelong la gagwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "54e0879cfe8cb456718a389f669b32562a4598d03f60c0ffadf45483615ebc7e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/5\/1-4.1792287951511.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba ba nago le Ashdodi ba ile ba tsoga kapejana ka letšatši la ka morago, gomme bonani, Dagone o wile ka sefahlogo sa gagwe lefase, pele ga arone ya Yahwe; gomme ba tsere ⟨את⟩ Dagone gomme ba mo boela sebakeng sa gagwe.",
   "tokens": [
     {
       "surface": "וישכמו",
-      "gloss": "ba tsoge ka pela"
+      "gloss": "ba tsoga kapejana"
     },
     {
       "surface": "אשדודים",
-      "gloss": "ba-Ashdode"
+      "gloss": "ba ba nago le Ashdodi"
     },
     {
       "surface": "ממחרת",
-      "gloss": "mesong (mabapi)"
+      "gloss": "ka letšatši la ka morago"
     },
     {
       "surface": "והנה",
-      "gloss": "gomme bona"
+      "gloss": "gomme bonani"
     },
     {
       "surface": "דגון",
-      "gloss": "Dagoni"
+      "gloss": "Dagone"
     },
     {
       "surface": "נפל",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "sehubeng sa gagwe"
+      "gloss": "ka sefahlogo sa gagwe"
     },
     {
       "surface": "ארצה",
-      "gloss": "fase"
+      "gloss": "lefase"
     },
     {
       "surface": "לפני",
@@ -66,39 +45,39 @@
     },
     {
       "surface": "ארון",
-      "gloss": "aitare"
+      "gloss": "arone"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "ויקחו",
-      "gloss": "ba kgoma"
+      "gloss": "gomme ba tsere"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Dagoni"
+      "marks": "Dagone"
     },
     {
       "surface": "דגון",
-      "gloss": "Dagoni"
+      "gloss": "Dagone"
     },
     {
       "surface": "וישבו",
-      "gloss": "ba bea boele"
+      "gloss": "gomme ba mo boela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yena",
-      "marks": "Dagoni (yena)"
+      "gloss": "⟨את⟩",
+      "marks": "sebakeng sa gagwe"
     },
     {
       "surface": "למקומו",
-      "gloss": "lefelong la gagwe"
+      "gloss": "sebakeng sa gagwe"
     }
   ],
-  "timestamp": "2026-10-18T01:45:51.512716654Z",
+  "timestamp": "2026-10-18T17:01:26.531699864Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,7 @@
   "book": "1-kings",
   "lang": "nso",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "go itšereletša",
-      "rationale": "התמכר hitpael ga se go rekiswa fela; ke go ithetwa ka bowena — sebopego se bolokwa ka go itšereletša"
-    },
-    {
-      "kind": "crux",
-      "subject": "הסתה",
-      "rationale": "סות: go sutisa, go kgohlisa — dikgatišo tše dingwe di re 'a mo hlohleletše'"
-    },
-    {
-      "kind": "hapax",
-      "subject": "התמכר",
-      "rationale": "hitpael ya מכר 'go ithetwa' e hlaga ka tsela ye mo Tanakh"
-    }
-  ],
-  "translation": "Fela ga go ao yo a swago go swana le Akabi, yo a itšereleditšego go dira sebe mahlong a Yahwe, yo Mojabela mosadi wa gagwe a mo sutisitšego.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "977dcc9e3f4d10df9d2f858a83d3cf8d6755b0eaf067c115eb69c1bee39f6f62",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/21\/25-28.1792290364627.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fela ga go a ba go le bjalo ka Ahaba, yo a ithekiletšego go dira sebe mahlong a Yahwe, yo Izebele, mosadi wa gagwe, a mo sutiseditšego ⟨את⟩.",
   "tokens": [
     {
       "surface": "רק",
@@ -39,15 +13,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "ga go ao"
+      "gloss": "ga…a"
     },
     {
       "surface": "היה",
-      "gloss": "a bile a le"
+      "gloss": "ba a le bjalo"
     },
     {
       "surface": "כאחאב",
-      "gloss": "go swana le Akabi"
+      "gloss": "ka Ahaba"
     },
     {
       "surface": "אשר",
@@ -55,7 +29,7 @@
     },
     {
       "surface": "התמכר",
-      "gloss": "a itšereletše"
+      "gloss": "a ithekiletšego"
     },
     {
       "surface": "לעשות",
@@ -79,22 +53,22 @@
     },
     {
       "surface": "הסתה",
-      "gloss": "a mo sutisitše"
+      "gloss": "a mo sutiseditšego"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yo — Akabi"
+      "marks": "mo (Ahaba)"
     },
     {
       "surface": "איזבל",
-      "gloss": "Mojabela"
+      "gloss": "Izebele"
     },
     {
       "surface": "אשתו",
       "gloss": "mosadi wa gagwe"
     }
   ],
-  "timestamp": "2026-10-18T02:26:04.627796002Z",
+  "timestamp": "2026-10-18T16:59:10.579755434Z",
   "model": "glm-5.3"
 }

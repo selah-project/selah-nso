@@ -5,28 +5,7 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לו",
-      "rationale": "sebopego sa possessive se hlalošitšwe ka šele mo phetolelong"
-    },
-    {
-      "kind": "you",
-      "subject": "go Israele",
-      "rationale": "maelelo a kgotsofatšo a go Israele ka selo se se nyefoswago"
-    }
-  ],
-  "translation": "Gomme digagabi ka moka tša go fofa, tše di nago maoto a mane, ke nyefolo go lona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "dbaa5a7d1e6cfa0eb8add6fb206f26cf39f0017d06b8f56c44cf09e0043976a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/21-24.1792283752678.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme digagabi ka moka tša go fofa, tša go nago le maoto a mane — tšhišinyo ke go lena.",
   "tokens": [
     {
       "surface": "וכל",
@@ -42,11 +21,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "tše di nago"
+      "gloss": "tša go nago le"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "tša go nago le"
     },
     {
       "surface": "ארבע",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "שקץ",
-      "gloss": "nyefolo"
+      "gloss": "tšhišinyo"
     },
     {
       "surface": "הוא",
@@ -66,9 +45,9 @@
     },
     {
       "surface": "לכם",
-      "gloss": "go lona"
+      "gloss": "go lena"
     }
   ],
-  "timestamp": "2026-10-18T00:35:52.680032254Z",
+  "timestamp": "2026-10-18T17:29:50.553229556Z",
   "model": "glm-5.3"
 }

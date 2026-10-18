@@ -5,37 +5,16 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "go mosadi",
-      "rationale": "Moperisita a bolela a lebissetše mosadi ka noši; seano se mo kgetha ka tlwaelo."
-    },
-    {
-      "kind": "substitution",
-      "subject": "bohlole",
-      "rationale": "טומאה ke bohlole bja boitshwaro — go se hlwekile ka molao, e sego 'sebe' fela."
-    }
-  ],
-  "translation": "Gomme moperisita a mo laiša ka seano, a re go mosadi: Ge go sego monna yo a robetšego ⟨את⟩ le wena, le ge o se ke wa tloga o šikiša bohlole ka tlase ga monna wa gago, o hlwekile go meetse a makgwari ano a nyedisago.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "005556ea9a99564df05e19861dc81b09e09b0043e3d73bbc773cd4f1460d9ebe",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/5\/17-20.1792284570827.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme moperisita a mo hlapa ka lokumbo ⟨את⟩ yena, a re go mosadi: ge e le gore ga go monna yo a robetšego le ⟨את⟩ wena, le ge e le gore o sa wa sepela go bokhohle ka tlase ga monna wa gago, o ⟨ke⟩ hlwekile, o bolokwa go tšwa go meetse ao a makgopu ao a lalegago.",
   "tokens": [
     {
       "surface": "והשביע",
-      "gloss": "a mo laiša ka seano"
+      "gloss": "a mo hlapa ka lokumbo"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "mosadi"
+      "marks": "moperisita"
     },
     {
       "surface": "הכהן",
@@ -55,11 +34,11 @@
     },
     {
       "surface": "אם",
-      "gloss": "Ge"
+      "gloss": "ge e le gore"
     },
     {
       "surface": "לא",
-      "gloss": "go sego"
+      "gloss": "ga go"
     },
     {
       "surface": "שכב",
@@ -71,23 +50,24 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ le wena"
+      "gloss": "⟨את⟩",
+      "marks": "monna yo a robetšego le wena"
     },
     {
       "surface": "ואם",
-      "gloss": "le ge"
+      "gloss": "le ge e le gore"
     },
     {
       "surface": "לא",
-      "gloss": "o se ke wa"
+      "gloss": "o sa"
     },
     {
       "surface": "שטית",
-      "gloss": "tloga o šikiša"
+      "gloss": "wa sepela"
     },
     {
       "surface": "טמאה",
-      "gloss": "bohlole"
+      "gloss": "bokhohle"
     },
     {
       "surface": "תחת",
@@ -107,17 +87,17 @@
     },
     {
       "surface": "המרים",
-      "gloss": "a makgwari"
+      "gloss": "a makgopu"
     },
     {
       "surface": "המאררים",
-      "gloss": "a nyedisago"
+      "gloss": "a a lalegago"
     },
     {
       "surface": "האלה",
-      "gloss": "ano"
+      "gloss": "ao"
     }
   ],
-  "timestamp": "2026-10-18T00:49:30.829525108Z",
+  "timestamp": "2026-10-18T17:35:46.072789276Z",
   "model": "glm-5.3"
 }

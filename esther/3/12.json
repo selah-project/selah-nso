@@ -5,36 +5,15 @@
   "book": "esther",
   "lang": "nso",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "la lesome-tharo la kgwedi ya pele",
-      "rationale": "Palo ya letšatši: la 13 kgwetšeng ya pele (Nisane) — letšatši le le swanago le la go bolawa go kgwedi ya Adare (3:13)."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "מדינה ומדינה · עם ועם",
-      "rationale": "Go boela-ga ga mantšu (repetition) go bontša botlalo ba taolo — selete le sengwe le sengwe, setšhaba le sengwe le sengwe."
-    }
-  ],
-  "translation": "Gomme ba ngwadi ba kgoši ba bitšwa ka kgwedi ya pele, ka la lesome-tharo la yona; gomme go ngwalwa go ya ka tšohle seo Hamana a laetšego, go Ahšadarpane ba kgoši le go mapaša bao ba laologo selete le selete, le go dikgosi tša setšhaba le setšhaba — selete le selete go ya ka mongwalo wa yona, gomme setšhaba le setšhaba go ya ka polelo ya sona; ka leina la kgoši Ahašueroshe go ngwalwa, gomme go tswalelwa ka sekae sa kgoši.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "556a2ace82385f8675a87f6441b19e25695293e0594e0789163921a9440f1072",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/3\/9-12.1792301586398.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba bitša ⟨ba⟩ bangwadi ba kgoši, ka kgwedi ya pele, ka letšatši la lesome le tharo la yona; gomme go ngwalwa go ya ka tšohle seo Hamane a se laeditšego, go ya go akhashdarpane a kgoši, le go ya go balaodi ba mošomo wa porofense le porofense, le go ya go dikgoši tša setšhaba le setšhaba — porofense le porofense go ya ka mongwalo wa yona, gomme setšhaba le setšhaba go ya ka polelo ya wona — ka leina la kgoši Akhashuerosh go ngwalwa, gomme go tswalelwa ka letshwao-mphiring la kgoši.",
   "tokens": [
     {
       "surface": "ויקראו",
-      "gloss": "gomme ba bitšwa"
+      "gloss": "ba bitša"
     },
     {
       "surface": "ספרי",
-      "gloss": "ba ngwadi"
+      "gloss": "bangwadi"
     },
     {
       "surface": "המלך",
@@ -50,15 +29,15 @@
     },
     {
       "surface": "בשלושה",
-      "gloss": "la tharo"
+      "gloss": "ka tharo"
     },
     {
       "surface": "עשר",
-      "gloss": "lesome"
+      "gloss": "ya lesome"
     },
     {
       "surface": "יום",
-      "gloss": "la"
+      "gloss": "letšatši"
     },
     {
       "surface": "בו",
@@ -78,55 +57,55 @@
     },
     {
       "surface": "צוה",
-      "gloss": "a laetšego"
+      "gloss": "a se laeditšego"
     },
     {
       "surface": "המן",
-      "gloss": "Haman"
+      "gloss": "Hamane"
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "go ya go"
     },
     {
       "surface": "אחשדרפני",
-      "gloss": "Ahšadarpane"
+      "gloss": "akhashdarpane"
     },
     {
       "surface": "המלך",
-      "gloss": "ba kgoši"
+      "gloss": "a kgoši"
     },
     {
       "surface": "ואל",
-      "gloss": "le go"
+      "gloss": "le go ya go"
     },
     {
       "surface": "הפחות",
-      "gloss": "mapaša"
+      "gloss": "balaodi"
     },
     {
       "surface": "אשר",
-      "gloss": "bao"
+      "gloss": "ba"
     },
     {
       "surface": "על",
-      "gloss": "ba laologo"
+      "gloss": "godimo ga"
     },
     {
       "surface": "מדינה",
-      "gloss": "selete"
+      "gloss": "porofense"
     },
     {
       "surface": "ומדינה",
-      "gloss": "le selete"
+      "gloss": "le porofense"
     },
     {
       "surface": "ואל",
-      "gloss": "le go"
+      "gloss": "le go ya go"
     },
     {
       "surface": "שרי",
-      "gloss": "dikgosi tša"
+      "gloss": "dikgoši tša"
     },
     {
       "surface": "עם",
@@ -138,11 +117,11 @@
     },
     {
       "surface": "מדינה",
-      "gloss": "selete"
+      "gloss": "porofense"
     },
     {
       "surface": "ומדינה",
-      "gloss": "le selete"
+      "gloss": "le porofense"
     },
     {
       "surface": "ככתבה",
@@ -158,23 +137,19 @@
     },
     {
       "surface": "כלשונו",
-      "gloss": "go ya ka polelo ya sona"
+      "gloss": "go ya ka polelo ya wona"
     },
     {
       "surface": "בשם",
       "gloss": "ka leina"
     },
     {
-      "surface": "la",
-      "gloss": "la"
-    },
-    {
       "surface": "המלך",
-      "gloss": "kgoši"
+      "gloss": "la kgoši"
     },
     {
       "surface": "אחשורש",
-      "gloss": "Ahašueroshe"
+      "gloss": "Akhashuerosh"
     },
     {
       "surface": "נכתב",
@@ -186,13 +161,13 @@
     },
     {
       "surface": "בטבעת",
-      "gloss": "ka sekae"
+      "gloss": "ka letshwao-mphiring"
     },
     {
       "surface": "המלך",
-      "gloss": "sa kgoši"
+      "gloss": "la kgoši"
     }
   ],
-  "timestamp": "2026-10-18T05:33:06.399635719Z",
+  "timestamp": "2026-10-18T17:10:33.783093853Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "zephaniah",
   "lang": "nso",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שבות",
-      "rationale": "'Botshwarwa bja lena' (captive\/exile) go kgathanedwe le 'boemo bja kgale' (former state of prosperity, restore fortunes) — mehuta ka moka e dirišwa mo kgauswi."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתכם (ya bobedi)",
-      "rationale": "Aleph-tav ya bobedi e šupa go kgoboko ga lona; e phetswe ka boemong bja setšo sa Sepedi fela."
-    }
-  ],
-  "translation": "Ka nako ye ke tla gogela ⟨את⟩ lona gae, gomme ka nako ya go kgoboka ga lona; ka gobane ke tla nea lena leina le tebogo go setšhaba se sengwe le se sengwe sa lefase, ge ke bušetša ⟨את⟩ botshwarwa bja lena pele ga mahlo a lona, go bolela Yahwe.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "dccc0d87725a437121555f0ae15f1bc96a8e1bb9ec078b17ef2caee57518403b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zephaniah\/3\/17-20.1792296789029.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka nako yela ke tla tliša ⟨את⟩ lenna, gomme ka nako ya ge ke kgoboka ⟨את⟩ lenna; ka gobane ke tla fa ⟨את⟩ lenna leina le thoriso gare ga ditšhaba tšohle tša lefase, ge ke bušetša ⟨את⟩ botshwarwa bja lenna pele ga mahlo a lenna, go bolela Yahwe.",
   "tokens": [
     {
       "surface": "בעת",
@@ -34,15 +13,16 @@
     },
     {
       "surface": "ההיא",
-      "gloss": "ye"
+      "gloss": "yela"
     },
     {
       "surface": "אביא",
-      "gloss": "ke tla gogela gae"
+      "gloss": "ke tla tliša"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩ lenna",
+      "marks": "lenna"
     },
     {
       "surface": "ובעת",
@@ -50,11 +30,12 @@
     },
     {
       "surface": "קבצי",
-      "gloss": "ya go kgoboka ga lona"
+      "gloss": "ge ke kgoboka"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩ lenna",
+      "marks": "lenna"
     },
     {
       "surface": "כי",
@@ -62,11 +43,12 @@
     },
     {
       "surface": "אתן",
-      "gloss": "ke tla nea"
+      "gloss": "ke tla fa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lena"
+      "gloss": "⟨את⟩ lenna",
+      "marks": "lenna"
     },
     {
       "surface": "לשם",
@@ -74,19 +56,19 @@
     },
     {
       "surface": "ולתהלה",
-      "gloss": "gomme tebogo"
+      "gloss": "gomme thoriso"
     },
     {
       "surface": "בכל",
-      "gloss": "go se sengwe le se sengwe"
+      "gloss": "gare ga tšohle"
     },
     {
       "surface": "עמי",
-      "gloss": "sa setšhaba"
+      "gloss": "ditšhaba"
     },
     {
       "surface": "הארץ",
-      "gloss": "sa lefase"
+      "gloss": "tša lefase"
     },
     {
       "surface": "בשובי",
@@ -95,15 +77,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "botshwarwa bja lena"
+      "marks": "botshwarwa bja lenna"
     },
     {
       "surface": "שבותיכם",
-      "gloss": "botshwarwa bja lena"
+      "gloss": "botshwarwa bja lenna"
     },
     {
       "surface": "לעיניכם",
-      "gloss": "pele ga mahlo a lona"
+      "gloss": "pele ga mahlo a lenna"
     },
     {
       "surface": "אמר",
@@ -114,6 +96,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T04:13:09.031117141Z",
+  "timestamp": "2026-10-18T17:38:54.233451145Z",
   "model": "glm-5.3"
 }

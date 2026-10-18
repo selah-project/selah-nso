@@ -5,41 +5,15 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מות ימתו",
-      "rationale": "Infinitive-absolute construction: 'swa o tla swa' — Sepedi 'ka nnete ba tla swa' begets the intensification."
-    },
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Hebrew 'except' idiom; rendered as one unit 'ntle le'."
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨mo⟩",
-      "rationale": "Sepedi locative construction 'go ba' requires the class-18 marker for 'among them'."
-    }
-  ],
-  "translation": "Gore Yahwe o be a re go ba: Ba tla swa ka nnete nageng. Gomme ga wa sala ⟨mo⟩ go ba ⟨⟨את⟩⟩ motho, ntle le Kalebe morwa wa Yefune le Yehoshua morwa wa Nune.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "038b8dab8e6273b9e8a76887bb704667e59dcd06a6fa67d3b097db98d3eb6a51",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/26\/65-65.1792285189298.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane Yahwe o be a boletše ka bona: Ba tla swanela lehu naganeng. Gomme ga wa salwa motho wa bona, ntle le Kalebe mora wa Yefunne le Yehoshua mora waBone.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "gore"
+      "gloss": "ka gobane"
     },
     {
       "surface": "אמר",
-      "gloss": "o be a re"
+      "gloss": "o boletše"
     },
     {
       "surface": "יהוה",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "להם",
-      "gloss": "go ba"
+      "gloss": "ka bona"
     },
     {
       "surface": "מות",
-      "gloss": "ba tla swa"
+      "gloss": "lehu"
     },
     {
       "surface": "ימתו",
-      "gloss": "ka nnete ba tla swa"
+      "gloss": "ba tla swanela lehu"
     },
     {
       "surface": "במדבר",
-      "gloss": "nageng"
+      "gloss": "naganeng"
     },
     {
       "surface": "ולא",
@@ -67,24 +41,23 @@
     },
     {
       "surface": "נותר",
-      "gloss": "wa sala"
+      "gloss": "wa salwa"
     },
     {
       "surface": "מהם",
-      "gloss": "go ba"
+      "gloss": "wa bona"
     },
     {
-      "surface": "איש",
-      "gloss": "⟨את⟩ motho",
-      "marks": "motho"
+      "surface": "אישׁ",
+      "gloss": "motho"
     },
     {
       "surface": "כי",
-      "gloss": "ntle le"
+      "gloss": "ntle le ge e se"
     },
     {
       "surface": "אם",
-      "gloss": "e sego"
+      "gloss": "e se"
     },
     {
       "surface": "כלב",
@@ -92,11 +65,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "morwa wa"
+      "gloss": "mora wa"
     },
     {
       "surface": "יפנה",
-      "gloss": "Yefune"
+      "gloss": "Yefunne"
     },
     {
       "surface": "ויהושע",
@@ -104,13 +77,13 @@
     },
     {
       "surface": "בן",
-      "gloss": "morwa wa"
+      "gloss": "mora wa"
     },
     {
       "surface": "נון",
-      "gloss": "Nune"
+      "gloss": "Bone"
     }
   ],
-  "timestamp": "2026-10-18T00:59:49.299262817Z",
+  "timestamp": "2026-10-18T17:34:16.385495571Z",
   "model": "glm-5.3"
 }

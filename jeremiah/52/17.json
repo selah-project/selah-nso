@@ -5,54 +5,28 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "lewatle",
-      "rationale": "י׸ם ke 'lewatle' — setšwa sa tšhepedi sa tempele se bidiwa 'Lewatle' ka go swana le Seheberu"
-    },
-    {
-      "kind": "crux",
-      "subject": "meago-theilwe",
-      "rationale": "המכנות: 'meago-theilwe' (pedestals tša ditlhaka) kgathanong le 'maemo'"
-    },
-    {
-      "kind": "addition",
-      "subject": "ba ya le yona",
-      "rationale": "Seheberu se re 'Babilone' fela; se se feletšego se okeditšwe bakeng sa pego ya Sepedi"
-    }
-  ],
-  "translation": "Gomme ditlhaka tša tšhepedi tšeo di lego legōng la Yahwe, le ⟨את⟩ meago-theilwe, le ⟨את⟩ lewatle la tšhepedi leo le lego legōng la Yahwe, Bašakedi di a robile, gomme ba ile ba šea ⟨את⟩ tšhepedi ya tšona moka ba ya le yona Babilone.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "d44c125c1aaa8ac64519c8f8a61a265defb1c5cbf60fccfb9b5797240a127267",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/52\/17-18.1792305078743.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Bakasdi ba robe ⟨את⟩ ditshupo tša kopara tšeo di bego legaeng la Yahwe, le ⟨את⟩ dimaemo, le ⟨את⟩ lewatle la kopara leo le bego legaeng la Yahwe; gomme ba iša ⟨את⟩ kopara ya tšona moka Babeleng.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "gomme ⟨את⟩",
-      "marks": "ditlhaka"
+      "gloss": "le ⟨את⟩",
+      "marks": "ditshupo tša kopara"
     },
     {
       "surface": "עמודי",
-      "gloss": "ditlhaka"
+      "gloss": "ditshupo"
     },
     {
       "surface": "הנחשת",
-      "gloss": "tša tšhepedi"
+      "gloss": "tša kopara"
     },
     {
       "surface": "אשר",
-      "gloss": "tšeo di lego"
+      "gloss": "tšeo di bego"
     },
     {
       "surface": "לבית",
-      "gloss": "legōng la"
+      "gloss": "legaeng la"
     },
     {
       "surface": "יהוה",
@@ -61,16 +35,16 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "meago-theilwe"
+      "marks": "dimaemo"
     },
     {
       "surface": "המכנות",
-      "gloss": "meago-theilwe"
+      "gloss": "dimaemo"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "lewatle la tšhepedi"
+      "marks": "lewatle la kopara"
     },
     {
       "surface": "ים",
@@ -78,15 +52,15 @@
     },
     {
       "surface": "הנחשת",
-      "gloss": "la tšhepedi"
+      "gloss": "la kopara"
     },
     {
       "surface": "אשר",
-      "gloss": "leo le lego"
+      "gloss": "leo le bego"
     },
     {
       "surface": "בבית",
-      "gloss": "legōng la"
+      "gloss": "legaeng la"
     },
     {
       "surface": "יהוה",
@@ -94,20 +68,20 @@
     },
     {
       "surface": "שברו",
-      "gloss": "di robile"
+      "gloss": "ba robe"
     },
     {
       "surface": "כשדים",
-      "gloss": "Bašakedi"
+      "gloss": "Bakasdi"
     },
     {
       "surface": "וישאו",
-      "gloss": "gomme ba ile ba šea"
+      "gloss": "gomme ba iša"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tšhepedi ya tšona moka"
+      "marks": "kopara ya tšona moka"
     },
     {
       "surface": "כל",
@@ -115,13 +89,13 @@
     },
     {
       "surface": "נחשתם",
-      "gloss": "tšhepedi ya tšona"
+      "gloss": "kopara ya tšona"
     },
     {
       "surface": "בבלה",
-      "gloss": "Babilone"
+      "gloss": "Babeleng"
     }
   ],
-  "timestamp": "2026-10-18T06:31:18.744298647Z",
+  "timestamp": "2026-10-18T17:24:02.071312321Z",
   "model": "glm-5.3"
 }

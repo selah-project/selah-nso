@@ -5,36 +5,15 @@
   "book": "joshua",
   "lang": "nso",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתהן",
-      "rationale": "Aleph-tav ya bontši (e ntšha -ן ya bontši) e bolokwa go swana le ya botee."
-    },
-    {
-      "kind": "substitution",
-      "subject": "יקרא אתהן בשם",
-      "rationale": "Sefela sa modu: 'go bitša ka leina' — e sego 'go bolela ka kgodi' bjalo ka diphetolelo tše dingwe."
-    }
-  ],
-  "translation": "Ba fa go tšwa setšhabeng sa bana ba Yehuda le go tšwa setšhabeng sa bana ba Shimeone ⟨את⟩ metse ye, yeo ba e bitšago ka leina.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "f7218e2316651d3ed1c66a2d6c55baaeaaee77111433bcca1cbf8db535a6b44c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/21\/9-12.1792286993445.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba neela go tšwa go kgoro ya bana ba Yehuda le go tšwa go kgoro ya bana ba Šimeone ⟨את⟩ diporo tše, tše di bitšwago ka leina",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "ba fa"
+      "gloss": "gomme ba neela"
     },
     {
       "surface": "ממטה",
-      "gloss": "go tšwa setšhabeng sa"
+      "gloss": "go tšwa go kgoro ya"
     },
     {
       "surface": "בני",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "וממטה",
-      "gloss": "le go tšwa setšhabeng sa"
+      "gloss": "le go tšwa go kgoro ya"
     },
     {
       "surface": "בני",
@@ -54,28 +33,28 @@
     },
     {
       "surface": "שמעון",
-      "gloss": "Shimeone"
+      "gloss": "Šimeone"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "metse ye"
+      "marks": "diporo tše"
     },
     {
       "surface": "הערים",
-      "gloss": "metse"
+      "gloss": "diporo"
     },
     {
       "surface": "האלה",
-      "gloss": "ye"
+      "gloss": "tše"
     },
     {
       "surface": "אשר",
-      "gloss": "yeo"
+      "gloss": "tše di"
     },
     {
       "surface": "יקרא",
-      "gloss": "ba e bitšago"
+      "gloss": "bitšwago"
     },
     {
       "surface": "אתהן",
@@ -87,6 +66,6 @@
       "gloss": "ka leina"
     }
   ],
-  "timestamp": "2026-10-18T01:29:53.446572405Z",
+  "timestamp": "2026-10-18T17:26:45.311748612Z",
   "model": "glm-5.3"
 }

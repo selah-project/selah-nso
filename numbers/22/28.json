@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "gate",
-      "rationale": "רגלים ke 'maoto' ka moo — eupša mo e bolela 'dipalo tša makga', gate tše tharo"
-    },
-    {
-      "kind": "elision",
-      "subject": "זה",
-      "rationale": "זה ('this') sa boipolelo se hlakile ka 'gate tše tharo'; se ntšhitšwe"
-    },
-    {
-      "kind": "you",
-      "subject": "go Bileamo",
-      "rationale": "tonki e botšiša Bileamo ka botši — potšišo ya kgonthe"
-    }
-  ],
-  "translation": "Yahwe a bula ⟨את⟩ molomo wa tonki ya tshadi, ya re go Bileamo: Ke dirile eng go wena, gore o nthwetše gate tše tharo?",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "558663cd7693b6686c14432c34887e9718a2fb687071192da164404b38bca57f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/22\/25-28.1792285051736.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Yahwe a bula ⟨את⟩ molomo wa tonki, gomme a bolela go Bileamo: Ke eng seo se diriletšego go wena, gore o ntshitše ke wena ⟨mo⟩? Se ke makga a mararo.",
   "tokens": [
     {
       "surface": "ויפתח",
-      "gloss": "a bula"
+      "gloss": "gomme a bula"
     },
     {
       "surface": "יהוה",
@@ -44,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "molomo wa tonki"
+      "marks": "molomo"
     },
     {
       "surface": "פי",
@@ -52,11 +26,11 @@
     },
     {
       "surface": "האתון",
-      "gloss": "wa tonki ya tshadi"
+      "gloss": "wa tonki"
     },
     {
       "surface": "ותאמר",
-      "gloss": "ya re"
+      "gloss": "gomme a bolela"
     },
     {
       "surface": "לבלעם",
@@ -64,11 +38,11 @@
     },
     {
       "surface": "מה",
-      "gloss": "eng"
+      "gloss": "ke eng"
     },
     {
       "surface": "עשיתי",
-      "gloss": "ke dirile"
+      "gloss": "seo se diriletšego"
     },
     {
       "surface": "לך",
@@ -80,21 +54,21 @@
     },
     {
       "surface": "הכיתני",
-      "gloss": "o nthwetše"
+      "gloss": "o ntshitše ke wena"
     },
     {
       "surface": "זה",
-      "gloss": ""
+      "gloss": "se"
     },
     {
       "surface": "שלש",
-      "gloss": "tše tharo"
+      "gloss": "a mararo"
     },
     {
       "surface": "רגלים",
-      "gloss": "gate"
+      "gloss": "makga"
     }
   ],
-  "timestamp": "2026-10-18T00:57:31.737431225Z",
+  "timestamp": "2026-10-18T17:40:13.575198275Z",
   "model": "glm-5.3"
 }

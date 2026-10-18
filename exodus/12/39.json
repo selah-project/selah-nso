@@ -5,54 +5,28 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "matswa",
-      "rationale": "מצה e ntšhitšwe ka modumo wa yona bjalo ka leina; Lentšu la Sesotho 'borotho' le lalela le 'bread' ya Sekgoa"
-    },
-    {
-      "kind": "substitution",
-      "subject": "e sa namaga",
-      "rationale": "חמץ ke go nama ga boto (go butšwa); 'it was not leavened' ga se lentšu le tee"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "גרשו \/ יכלו להתמahמה",
-      "rationale": "Boitshwaro bja go tlošwa ka laka bo botega ka go boela ga 'ממצרים' gabedi le go gana ga mahala — sebopego se sa fetolwa ka botlalo ka Sepedi"
-    }
-  ],
-  "translation": "Gomme ba baka ⟨את⟩ boto yeo ba e ntšhitšego go Mitsrayime, ba dira dikuku tša matswa, ka gobane e sa namaga; ka gobane ba ile ba tlošwa go Mitsrayime, gomme ba se kgone go diega, gomme gape sejo ba sa se direle ⟨את⟩ bona.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "fe14b53b1988dd04e3cf6ce6036faa5f3ef5f7a0cf819c84ec3be588ada0418e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/12\/38-39.1792304646084.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba baka ⟨את⟩ boloto bjo ba bo ntšhitšego go Mitsrayime, dikuku tša mabeta, ka gobane ga se go tswale; ka gobane ba leleletšwe go Mitsrayime, gomme ba sa kgone go diega, gomme le dikoko tša mošomo le tšona ba sa di dire ⟨go lona⟩.",
   "tokens": [
     {
       "surface": "ויאפו",
-      "gloss": "gomme ba baka"
+      "gloss": "ba baka"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "boto"
+      "marks": "boloto"
     },
     {
       "surface": "הבצק",
-      "gloss": "boto"
+      "gloss": "boloto"
     },
     {
       "surface": "אשר",
-      "gloss": "yeo"
+      "gloss": "bjo"
     },
     {
       "surface": "הוציאו",
-      "gloss": "ba e ntšhitšego"
+      "gloss": "ba bo ntšhitšego"
     },
     {
       "surface": "ממצרים",
@@ -60,11 +34,11 @@
     },
     {
       "surface": "עגת",
-      "gloss": "dikuku tša go epolwa"
+      "gloss": "dikuku"
     },
     {
       "surface": "מצות",
-      "gloss": "matswa"
+      "gloss": "tša mabeta"
     },
     {
       "surface": "כי",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ga se"
     },
     {
       "surface": "חמץ",
-      "gloss": "e sa namaga"
+      "gloss": "go tswale"
     },
     {
       "surface": "כי",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "גרשו",
-      "gloss": "ba ile ba tlošwa"
+      "gloss": "ba leleletšwe"
     },
     {
       "surface": "ממצרים",
@@ -92,11 +66,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "gomme ba se"
+      "gloss": "gomme ba sa kgone"
     },
     {
       "surface": "יכלו",
-      "gloss": "kgone"
+      "gloss": "ba sa kgone"
     },
     {
       "surface": "להתמהמה",
@@ -104,25 +78,25 @@
     },
     {
       "surface": "וגם",
-      "gloss": "gomme gape"
+      "gloss": "gomme le"
     },
     {
       "surface": "צדה",
-      "gloss": "sejo"
+      "gloss": "dikoko tša mošomo"
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ga se"
     },
     {
       "surface": "עשו",
-      "gloss": "ba dira"
+      "gloss": "ba dire"
     },
     {
       "surface": "להם",
-      "gloss": "⟨את⟩ le bona"
+      "gloss": "go lona"
     }
   ],
-  "timestamp": "2026-10-18T06:24:06.085469622Z",
+  "timestamp": "2026-10-18T17:11:00.815786093Z",
   "model": "glm-5.3"
 }

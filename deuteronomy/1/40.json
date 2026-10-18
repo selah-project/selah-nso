@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Israele",
-      "rationale": "Taello ya go boa e lebisetšwa go Israele ka bobedi"
-    },
-    {
-      "kind": "invitation",
-      "subject": "bušetšang ... le etele",
-      "rationale": "Mešomo ya go laela batho go sesa"
-    },
-    {
-      "kind": "crux",
-      "subject": "Lewatle la Dihlaha",
-      "rationale": "ים סוף: 'lewatle la dihlaha (papiruse)' kgotalo le 'Lewatle le Tshukudu'; 'Red Sea' ke ngwalo ya tumelano fela"
-    }
-  ],
-  "translation": "Gomme lena, bušetšang le ka oona, gomme le etele ntlha ya naga e se nago metsi, tsela ya Lewatle la Dihlaha.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "5ec63513b929aed0e2a2943707b534b72172f738d9b31a4de4b8bd3f85eebce6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/1\/37-40.1792285491231.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Empa lona, bušetšang botsong bja lona, gomme le etelle ⟨go⟩ naga e moadira, ka tsela ya Lewatle la Mekoka.",
   "tokens": [
     {
       "surface": "ואתם",
-      "gloss": "gomme lena"
+      "gloss": "empa lona"
     },
     {
       "surface": "פנו",
@@ -43,19 +17,19 @@
     },
     {
       "surface": "לכם",
-      "gloss": "le ka oona"
+      "gloss": "botsong bja lona"
     },
     {
       "surface": "וסעו",
-      "gloss": "gomme le etele"
+      "gloss": "gomme le etelle"
     },
     {
       "surface": "המדברה",
-      "gloss": "ntlha ya naga e se nago metsi"
+      "gloss": "go naga e moadira"
     },
     {
       "surface": "דרך",
-      "gloss": "tsela ya"
+      "gloss": "ka tsela ya"
     },
     {
       "surface": "ים",
@@ -63,9 +37,9 @@
     },
     {
       "surface": "סוף",
-      "gloss": "Dihlaha"
+      "gloss": "la Mekoka"
     }
   ],
-  "timestamp": "2026-10-18T01:04:51.232389371Z",
+  "timestamp": "2026-10-18T17:07:54.339901289Z",
   "model": "glm-5.3"
 }

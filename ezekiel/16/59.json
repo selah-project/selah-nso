@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "gomme",
-      "rationale": "Sepedi e nyaka kopanyi gare ga ditiragalo tše pedi tša go dira le go roba kgwerano"
-    },
-    {
-      "kind": "crux",
-      "subject": "כאשר עשית",
-      "rationale": "KJV 'ke tla go dira bjalo ka ge o dirile' kgahlanong le YLT 'ke go dirile' — sefoko sa pele sa go dira se na le boikokobetši bja ka moso goba bja go feditše"
-    }
-  ],
-  "translation": "Ka gobane go bolela Adonai Yahwe: Ke tla go dira bjalo ka ge o dirile, ka gobane o nyanyile moalo wa go roba kgwerano.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "a1fda81d194e0026c30f7362b083394af1ba8b4c067070484f7bb2ebda355e5e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/16\/57-60.1792294773862.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane bjalo go bolela Adonai Yahwe: ke tla go dira ⟨את⟩ bjalo ka ge o dirile, wena yo o gannego sefofu go phuša kgwerano.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ka gobane"
+      "gloss": "Ka gobane"
     },
     {
       "surface": "כה",
@@ -55,7 +34,7 @@
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "wena"
+      "marks": "bjalo ka ge o dirile"
     },
     {
       "surface": "כאשר",
@@ -67,25 +46,25 @@
     },
     {
       "surface": "אשר",
-      "gloss": "ka gobane"
+      "gloss": "wena yo"
     },
     {
       "surface": "בזית",
-      "gloss": "o nyanyile"
+      "gloss": "o gannego"
     },
     {
       "surface": "אלה",
-      "gloss": "moalo"
+      "gloss": "sefofu"
     },
     {
       "surface": "להפר",
-      "gloss": "wa go roba"
+      "gloss": "go phuša"
     },
     {
       "surface": "ברית",
       "gloss": "kgwerano"
     }
   ],
-  "timestamp": "2026-10-18T03:39:33.863600992Z",
+  "timestamp": "2026-10-18T17:13:34.601904482Z",
   "model": "glm-5.3"
 }

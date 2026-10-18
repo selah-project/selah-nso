@@ -5,46 +5,15 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "setšhaba",
-      "rationale": "וידעתם — go lebeleletšwe setšhaba: le tla tseba."
-    },
-    {
-      "kind": "substitution",
-      "subject": "Sheole",
-      "rationale": "שאול ga se dihele — ke lefelo la bafu; go ngwalwa Sheole ka modumo wa Seheberu."
-    },
-    {
-      "kind": "crux",
-      "subject": "בריאה",
-      "rationale": "Selo se se mpsha se bopišwego — בריא hlalosa bopelo bjo bo sa tšwago go ba gona, e sego seka fela."
-    },
-    {
-      "kind": "mystery",
-      "subject": "selo se se mpsha",
-      "rationale": "Mohlahlami o kgahlwa — seka se sa tsejwego se ka no go senya bothata."
-    }
-  ],
-  "translation": "Gomme ge Yahwe a bopa selo se se mpsha, mobu o butše ⟨את⟩ molomo wa wona, o ba menye le ⟨את⟩ ka moka tša go bona, mme ba theogela ba phela Sheole, le tla tseba gore banna ba ba nyetše ⟨את⟩ Yahwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "721770a72061354889270f3106b5c2d1c66012372fb1a02abf3cda4ce5c40d86",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/16\/29-32.1792284861071.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ge Yahwe a bopa se se mpsha, gomme lefase le butše ⟨את⟩ molomo wa lona, la ba mela ⟨את⟩ bona le ⟨את⟩ tšohle tša bona, ba theoga ba phela ba ya Sheole, tla tseba gore batho ba ba ba gantšitše ⟨את⟩ Yahwe.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "gomme ge"
+      "gloss": "Gomme ge"
     },
     {
       "surface": "בריאה",
-      "gloss": "selo se se mpsha"
+      "gloss": "se se mpsha"
     },
     {
       "surface": "יברא",
@@ -56,38 +25,37 @@
     },
     {
       "surface": "ופצתה",
-      "gloss": "o butše"
+      "gloss": "le butše"
     },
     {
       "surface": "האדמה",
-      "gloss": "mobu"
+      "gloss": "lefase"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "molomo wa wona"
+      "marks": "molomo wa lona"
     },
     {
       "surface": "פיה",
-      "gloss": "molomo wa wona"
+      "gloss": "molomo wa lona"
     },
     {
       "surface": "ובלעה",
-      "gloss": "o ba menye"
+      "gloss": "la ba mela"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "ba (bona)"
+      "marks": "bona"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "ka moka tša go bona"
+      "gloss": "le ⟨את⟩"
     },
     {
       "surface": "כל",
-      "gloss": "ka moka"
+      "gloss": "tšohle tša"
     },
     {
       "surface": "אשר",
@@ -95,11 +63,11 @@
     },
     {
       "surface": "להם",
-      "gloss": "go bona"
+      "gloss": "bona"
     },
     {
       "surface": "וירדו",
-      "gloss": "ba theogela"
+      "gloss": "ba theoga"
     },
     {
       "surface": "חיים",
@@ -111,7 +79,7 @@
     },
     {
       "surface": "וידעתם",
-      "gloss": "le tla tseba"
+      "gloss": "tla tseba"
     },
     {
       "surface": "כי",
@@ -119,15 +87,15 @@
     },
     {
       "surface": "נאצו",
-      "gloss": "ba nyetše"
+      "gloss": "ba gantšitše"
     },
     {
       "surface": "האנשים",
-      "gloss": "banna"
+      "gloss": "batho ba"
     },
     {
       "surface": "האלה",
-      "gloss": "ba"
+      "gloss": "ba ba"
     },
     {
       "surface": "את",
@@ -139,6 +107,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T00:54:21.072177657Z",
+  "timestamp": "2026-10-18T17:34:07.961511288Z",
   "model": "glm-5.3"
 }

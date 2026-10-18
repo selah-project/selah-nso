@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "ארץ ×4",
-      "rationale": "'Lefase' e bušetšwa ga nne mothalading o tee — sebopego sa go hlaka sa kgolobetšo ya Ashure."
-    },
-    {
-      "kind": "you",
-      "subject": "bahlabani ba Jerushalayime",
-      "rationale": "Boitsholo bja go gana go kwa Hizkiya bo tsepamišitšwe go batho ba phaphathweng."
-    },
-    {
-      "kind": "substitution",
-      "subject": "po le mouomane",
-      "rationale": "דגן literally 'po e oketšegago (grain)', תירוש 'mouomane o moša o ntšhitšwego' — dilo tša bonolo tša lefase la Kanisane bjalo ka dikgopelo tša sedumedi."
-    }
-  ],
-  "translation": "go fihla ge ke tla, gomme ke tše ⟨את⟩ le go lefase la go swana le lefase la lena, lefase la po le mouomane, lefase la bogobe le dirapa tša dinomane, lefase la morumo le oli le dinotshe; gomme le pheleng, gomme le se ke la swa. Gomme a le se ke la kwa go Hizkiya, ka gobane o le hlaka, a re: Yahwe o tla re lokolla.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "e3f72b240fee665069e4269f7976eb17c5fa803f6d67fcdd3bb1d7ce8b3cb762",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/18\/29-32.1792290957596.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Go fihla ge ke tla, gomme ke tšeago ⟨את⟩ lena go ya lefaseng la bjalo ka lefase la lona — lefase la poone le mosto, lefase la bogobe le merara, lefase la dioliife, mafura le boso — gomme le tlo phela gomme le se swefe; gomme le se kē la mamela go Hizkiya, ka gobane o hloka la ⟨את⟩ lena a re: Yahwe o tla re lokolla.",
   "tokens": [
     {
       "surface": "עד",
@@ -43,16 +17,16 @@
     },
     {
       "surface": "ולקחתי",
-      "gloss": "gomme ke tše"
+      "gloss": "gomme ke tšeago"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ le",
-      "marks": "go lefase"
+      "gloss": "⟨את⟩",
+      "marks": "lena"
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "go ya"
     },
     {
       "surface": "ארץ",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "כארצכם",
-      "gloss": "la go swana le lefase la lena"
+      "gloss": "la bjalo ka lefase la lona"
     },
     {
       "surface": "ארץ",
@@ -68,11 +42,11 @@
     },
     {
       "surface": "דגן",
-      "gloss": "la po"
+      "gloss": "poone"
     },
     {
       "surface": "ותירוש",
-      "gloss": "le mouomane"
+      "gloss": "le mosto"
     },
     {
       "surface": "ארץ",
@@ -80,11 +54,11 @@
     },
     {
       "surface": "לחם",
-      "gloss": "la bogobe"
+      "gloss": "bogobe"
     },
     {
       "surface": "וכרמים",
-      "gloss": "le dirapa tša dinomane"
+      "gloss": "le merara"
     },
     {
       "surface": "ארץ",
@@ -92,35 +66,35 @@
     },
     {
       "surface": "זית",
-      "gloss": "la morumo"
+      "gloss": "dioliife"
     },
     {
       "surface": "יצהר",
-      "gloss": "oli"
+      "gloss": "mafura"
     },
     {
       "surface": "ודבש",
-      "gloss": "le dinotshe"
+      "gloss": "le boso"
     },
     {
       "surface": "וחיו",
-      "gloss": "gomme le pheleng"
+      "gloss": "gomme le tlo phela"
     },
     {
       "surface": "ולא",
-      "gloss": "gomme le se ke"
+      "gloss": "gomme le se"
     },
     {
       "surface": "תמתו",
-      "gloss": "la swa"
+      "gloss": "swefe"
     },
     {
       "surface": "ואל",
-      "gloss": "gomme a le se ke"
+      "gloss": "gomme le se kē"
     },
     {
       "surface": "תשמעו",
-      "gloss": "la kwa"
+      "gloss": "la mamela"
     },
     {
       "surface": "אל",
@@ -136,12 +110,12 @@
     },
     {
       "surface": "יסית",
-      "gloss": "o le hlaka"
+      "gloss": "o hloka la"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ le",
-      "marks": "a re"
+      "gloss": "⟨את⟩",
+      "marks": "lena"
     },
     {
       "surface": "לאמר",
@@ -156,6 +130,6 @@
       "gloss": "o tla re lokolla"
     }
   ],
-  "timestamp": "2026-10-18T02:35:57.597461017Z",
+  "timestamp": "2026-10-18T17:04:06.543482200Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "nehemiah",
   "lang": "nso",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כרתים אמנה",
-      "rationale": "'go ruma kgwerano' — sebinwa sa Seheberu sa 'go kgaola kgwerano', lentšu le tee le go kgaola; go se nwešwe ka bonnyane"
-    },
-    {
-      "kind": "substitution",
-      "subject": "החתום",
-      "rationale": "'ba ba tšwaletšego' — go tswalela sekwalo, e sego 'go saena' sa gommuo"
-    },
-    {
-      "kind": "addition",
-      "subject": "ke",
-      "rationale": "Seheberu se se na copula; Sepedi se e nyaka"
-    }
-  ],
-  "translation": "Gomme ka dilo tšeo ka moka, rea ruma kgwerano gomme rea e ngwala; gomme ba ba tšwaletšego ⟨ke⟩ yona ke dikgosi tša rena, Balebute ba rena, baperisita ba rena.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "b896c43f0faf2e327387537652390b1e524d31d8edb5f930261899d04a79cdfb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/10\/1-4.1792302598913.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ka baka la dilo tše moka, rea rala kgwerano gomme rea e ngwala; gomme ba ba saenyago ⟨ke⟩: dikgoši tša rena, Balebite ba rena, baperisita ba rena.",
   "tokens": [
     {
       "surface": "ובכל",
-      "gloss": "gomme ka dilo tšeo ka moka"
+      "gloss": "gomme ka baka la dilo tše moka"
     },
     {
       "surface": "זאת",
-      "gloss": "tšeo"
+      "gloss": "tše moka"
     },
     {
       "surface": "אנחנו",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "כרתים",
-      "gloss": "rea ruma"
+      "gloss": "rea rala"
     },
     {
       "surface": "אמנה",
@@ -59,25 +33,25 @@
     },
     {
       "surface": "ועל",
-      "gloss": "gomme go"
+      "gloss": "gomme ba ba saenyago"
     },
     {
       "surface": "החתום",
-      "gloss": "ba ba tšwaletšego"
+      "gloss": "ba ba saenyago"
     },
     {
       "surface": "שרינו",
-      "gloss": "dikgosi tša rena"
+      "gloss": "dikgoši tša rena"
     },
     {
       "surface": "לוינו",
-      "gloss": "Balebute ba rena"
+      "gloss": "Balebite ba rena"
     },
     {
       "surface": "כהנינו",
       "gloss": "baperisita ba rena"
     }
   ],
-  "timestamp": "2026-10-18T05:49:58.913921595Z",
+  "timestamp": "2026-10-18T17:32:15.847640278Z",
   "model": "glm-5.3"
 }

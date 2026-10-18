@@ -5,45 +5,19 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "to Yisraele",
-      "rationale": "ditaego tše nne tša go laela — fetang, lebelelang, romelang, nahane — di bitša setšhaba"
-    },
-    {
-      "kind": "elision",
-      "subject": "כי",
-      "rationale": "sekopanyi se ile seatla; ditaego tša go laela tša Sepedi di sa se nyake"
-    },
-    {
-      "kind": "you",
-      "subject": "to Yisraele",
-      "rationale": "motho wa bobedi wa bontši, go laela go ya ka go sesa go šišinywa"
-    }
-  ],
-  "translation": "Fetang godibapa tša Kitime, le lebelelang; le go Kedare le romelang, le nahane ka mo go tseneletseng, gomme le lebelelang — bonang, a go ile goba go na le selo se sa tšwago go swana le se.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "f8a8b594808cb0bcbe0ae0cb80c701b365c199291cbf096bd07c0c4e8a948bfd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/2\/9-12.1792292601354.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane sepelang go seletša sa Kitime gomme le bone; le romeleng go Kedare, le nahane ka tsela e kgolo, gomme le bone ge go baile selo se sengwe sa go swana le se.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "ka gobane"
     },
     {
       "surface": "עברו",
-      "gloss": "fetang"
+      "gloss": "sepelang"
     },
     {
       "surface": "איי",
-      "gloss": "godibapa tša"
+      "gloss": "go seletša sa"
     },
     {
       "surface": "כתיים",
@@ -51,15 +25,15 @@
     },
     {
       "surface": "וראו",
-      "gloss": "le lebelelang"
+      "gloss": "gomme le bone"
     },
     {
       "surface": "וקדר",
-      "gloss": "le go Kedare"
+      "gloss": "go Kedare"
     },
     {
       "surface": "שלחו",
-      "gloss": "le romelang"
+      "gloss": "le romeleng"
     },
     {
       "surface": "והתבוננו",
@@ -67,25 +41,25 @@
     },
     {
       "surface": "מאד",
-      "gloss": "ka mo go tseneletseng"
+      "gloss": "ka tsela e kgolo"
     },
     {
       "surface": "וראו",
-      "gloss": "le lebelelang"
+      "gloss": "gomme le bone"
     },
     {
       "surface": "הן",
-      "gloss": "bonang"
+      "gloss": "ge"
     },
     {
       "surface": "היתה",
-      "gloss": "go ile goba go na le"
+      "gloss": "go baile"
     },
     {
       "surface": "כזאת",
-      "gloss": "se sa tšwago go swana le se"
+      "gloss": "selo se sengwe sa go swana le se"
     }
   ],
-  "timestamp": "2026-10-18T03:03:21.355740647Z",
+  "timestamp": "2026-10-18T17:21:29.261383988Z",
   "model": "glm-5.3"
 }

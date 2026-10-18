@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Torah",
-      "rationale": "D2: Torah ga e fetolwe go molao — ke leina"
-    },
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "aleph-tav ye e nkago mantsu a Torah — e hlakile ka Sepedi, e tsewa bjalo ka ⟨את⟩ fela"
-    },
-    {
-      "kind": "crux",
-      "subject": "יקים",
-      "rationale": "go boloka kgahlanong le go netefatša — hafiel 'establish' e bolela go netefatša go šuma ga mantsu"
-    }
-  ],
-  "translation": "O hloilelwe yo a sa bolokago mantsu a Torah ye go ya ka go a šoma; gomme setšhaba ka moka se tla re: Ame.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "934e94863c83170cb5bb09cce08271b94a11b654ef63f2e58eb52067d35675d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/27\/25-26.1792286221987.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yo a hloilego ke yena yo a sa hlomiphago mantšu a Torah ye, go a dira; gomme setšhaba ka moka se tla re: Ame.",
   "tokens": [
     {
       "surface": "ארור",
-      "gloss": "o hloilelwe"
+      "gloss": "yo a hloilego"
     },
     {
       "surface": "אשר",
@@ -43,20 +17,20 @@
     },
     {
       "surface": "לא",
-      "gloss": "a sa"
+      "gloss": "sa"
     },
     {
       "surface": "יקים",
-      "gloss": "bolokago"
+      "gloss": "hlomiphago"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mantsu a Torah ye"
+      "marks": "mantšu"
     },
     {
       "surface": "דברי",
-      "gloss": "mantsu a"
+      "gloss": "mantšu"
     },
     {
       "surface": "התורה",
@@ -68,11 +42,12 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "go ya ka go šoma"
+      "gloss": "go a dira"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ a"
+      "gloss": "⟨את⟩ bona",
+      "marks": "mantšu a Torah"
     },
     {
       "surface": "ואמר",
@@ -91,6 +66,6 @@
       "gloss": "Ame"
     }
   ],
-  "timestamp": "2026-10-18T01:17:01.998652453Z",
+  "timestamp": "2026-10-18T17:09:18.944623714Z",
   "model": "glm-5.3"
 }

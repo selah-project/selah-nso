@@ -5,55 +5,33 @@
   "book": "psalms",
   "lang": "nso",
   "chapter": 78,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "לנפשם",
-      "rationale": "nefesh ke moya\/bophelo\/mpepelo, e sego takatšo; mmadi o ka bala 'bophelong bja bona'"
-    },
-    {
-      "kind": "crux",
-      "subject": "וינסו",
-      "rationale": "ba leka El: go bea El bolekong, kgahlanong le 'ba mo hlohlela'"
-    }
-  ],
-  "translation": "Gomme ba leka ⟨את⟩ El dipelong tša bona, ka go kgopela dijo bakeng sa takatšong ⟨ya bona⟩.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "26bac0cad88fc03dd311fd409b96373e5c821b50a572ba723303490455e0be6a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/78\/17-18.1792305269462.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba leka ⟨את⟩ El ka pelong tša bona, go kgopha ⟨את⟩ bogobe bakeng sa tlhago ya bona.",
   "tokens": [
     {
       "surface": "וינסו",
-      "gloss": "gomme ba leka"
+      "gloss": "ba leka"
     },
     {
       "surface": "אל",
-      "gloss": "⟨את⟩",
-      "marks": "El"
+      "gloss": "El"
     },
     {
       "surface": "בלבבם",
-      "gloss": "dipelong tša bona"
+      "gloss": "ka pelong tša bona"
     },
     {
       "surface": "לשאל",
-      "gloss": "go kgopela"
+      "gloss": "go kgopha"
     },
     {
       "surface": "אכל",
-      "gloss": "dijo"
+      "gloss": "bogobe"
     },
     {
       "surface": "לנפשם",
-      "gloss": "takatšong ya bona"
+      "gloss": "bakeng sa tlhago ya bona"
     }
   ],
-  "timestamp": "2026-10-18T06:34:29.463427472Z",
+  "timestamp": "2026-10-18T17:38:04.948162969Z",
   "model": "glm-5.3"
 }

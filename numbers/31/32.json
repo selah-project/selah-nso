@@ -5,57 +5,31 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "675 000",
-      "rationale": "Palo e kgolo ya dinku le dipudi — go balelwa ga šenywa"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הבז\/בזזו",
-      "rationale": "Modu o mongwe o boela o boela: butsu\/ba di butšilego — kgokolokgoko e bolokwa"
-    },
-    {
-      "kind": "addition",
-      "subject": "(675 000)",
-      "rationale": "Palo e ngwalwa ka dinomoro go thuša go bala, ka gobane e thata ka mantšu"
-    }
-  ],
-  "translation": "Gomme šenywa — butsu tše di salego, tše setšhaba sa sesole se di butšilego — e be e le dinku le dipudi: dikete tše makgolo a tshela, dikete tše šupapedi, le dikete tše hlano (675 000).",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "49ad611f8d320ac7fdb1d8727df9fe6c64af2dea47416f1259dcfa6efa4e2fa5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/31\/29-32.1792285338989.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme se sengwe sa go hlahlwa, seo e leggo se sengwe sa boto yeo setšhaba sa madira se se roboletšego, e be e le dinku le dipudi: dikete tše tshela le lekgolo, le dikete tše šupa le masomešupa, le dikete tše hlano.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "gomme go ile go ba"
+      "gloss": "gomme se be e le"
     },
     {
       "surface": "המלקוח",
-      "gloss": "šenywa"
+      "gloss": "se sengwe sa go hlahlwa"
     },
     {
       "surface": "יתר",
-      "gloss": "tše di salego"
+      "gloss": "se sengwe sa"
     },
     {
       "surface": "הבז",
-      "gloss": "butsu"
+      "gloss": "boto"
     },
     {
       "surface": "אשר",
-      "gloss": "tše"
+      "gloss": "yeo"
     },
     {
       "surface": "בזזו",
-      "gloss": "ba di butšilego"
+      "gloss": "e roboletše"
     },
     {
       "surface": "עם",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "הצבא",
-      "gloss": "sa sesole"
+      "gloss": "sa madira"
     },
     {
       "surface": "צאן",
@@ -71,11 +45,11 @@
     },
     {
       "surface": "שש",
-      "gloss": "makgolo a tshela"
+      "gloss": "tshela"
     },
     {
       "surface": "מאות",
-      "gloss": "dikete tše makgolo a"
+      "gloss": "dikete tše lekgolo"
     },
     {
       "surface": "אלף",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "ושבעים",
-      "gloss": "le tše šupapedi"
+      "gloss": "le tše šupa le masomešupa"
     },
     {
       "surface": "אלף",
@@ -98,6 +72,6 @@
       "gloss": "dikete"
     }
   ],
-  "timestamp": "2026-10-18T01:02:18.991000588Z",
+  "timestamp": "2026-10-18T17:34:19.463469526Z",
   "model": "glm-5.3"
 }

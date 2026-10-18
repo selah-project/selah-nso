@@ -5,37 +5,11 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sebinwa se araba",
-      "rationale": "וענתה השירה — sebinwa se 'araba', e sego fela 'boela': paki ya letšatši la mafelelo e araba ka pele ga motho"
-    },
-    {
-      "kind": "crux",
-      "subject": "יצרו",
-      "rationale": "tlhalošo ya gagwe — 'maikemišetšo a motheo' goba 'boithatišo'; diphetholelo di fapana"
-    },
-    {
-      "kind": "elision",
-      "subject": "מפי זרעו",
-      "rationale": "go mušomo wa pelego ya wona — go bolela setšhaba ka bophara bjalo ka Seheberu sa go bolela motho a le mongwe"
-    }
-  ],
-  "translation": "Gomme go tla ba goba bjalo, ge mabja a mabedi le dikgomo tše mabedi di mo hwetša, gomme sebinwa se se araba pele ga wona, bjalo ka paki, ka gobane se sa ka sa tlogelwa go mušomo wa pelego ya wona; ka gobane Nna ke a tseba tlhalošo ya gagwe, ye a e dirago lehono, pele ke mo isa lefaseng leo ke ileng ka lapa ka sona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "9ccf73410e7ac0be03ffdcddd3a23d204c710ad49ab1eb3b6f803237e041935c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/31\/21-24.1792286391066.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme go tla ba gona, ge mabja a mantsi le mathata a tlang meetšong a tla hwetša ⟨את⟩ bona, pina ye e tla araba pele ga bona bjalo ka paki, ka gobane e ka se hlakohle mošomong wa peu ya bona; ka gobane ke tseba ⟨את⟩ boikaelelo bja bona, seo ba se dirago gona le kajeno, pele ge ke ba tliša lefaseng leo ke ile ka ba ikanaletša sona.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "gomme go tla ba goba bjalo"
+      "gloss": "Gomme go tla ba gona"
     },
     {
       "surface": "כי",
@@ -43,11 +17,12 @@
     },
     {
       "surface": "תמצאן",
-      "gloss": "di mo hwetša"
+      "gloss": "a tla hwetša"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ mo"
+      "gloss": "⟨את⟩",
+      "marks": "bona (mabja le mathata a tlang)"
     },
     {
       "surface": "רעות",
@@ -55,27 +30,27 @@
     },
     {
       "surface": "רבות",
-      "gloss": "a mabedi"
+      "gloss": "a mantsi"
     },
     {
       "surface": "וצרות",
-      "gloss": "le dikgomo tše mabedi"
+      "gloss": "mathata a tlang"
     },
     {
       "surface": "וענתה",
-      "gloss": "gomme se araba"
+      "gloss": "e tla araba"
     },
     {
       "surface": "השירה",
-      "gloss": "sebinwa"
+      "gloss": "pina ye"
     },
     {
       "surface": "הזאת",
-      "gloss": "se"
+      "gloss": "ye"
     },
     {
       "surface": "לפניו",
-      "gloss": "povle ga wona"
+      "gloss": "pele ga bona"
     },
     {
       "surface": "לעד",
@@ -87,19 +62,19 @@
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "e ka se"
     },
     {
       "surface": "תשכח",
-      "gloss": "sa ka sa tlogelwa"
+      "gloss": "hlakohle"
     },
     {
       "surface": "מפי",
-      "gloss": "go mušomo wa"
+      "gloss": "mošomong wa"
     },
     {
       "surface": "זרעו",
-      "gloss": "pelego ya wona"
+      "gloss": "peu ya bona"
     },
     {
       "surface": "כי",
@@ -107,57 +82,58 @@
     },
     {
       "surface": "ידעתי",
-      "gloss": "Nna ke a tseba"
+      "gloss": "ke tseba"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "boikaelelo bja bona (יצרו)"
     },
     {
       "surface": "יצרו",
-      "gloss": "tlhalošo ya gagwe"
+      "gloss": "boikaelelo bja bona"
     },
     {
       "surface": "אשר",
-      "gloss": "ye"
+      "gloss": "seo"
     },
     {
       "surface": "הוא",
-      "gloss": "o"
+      "gloss": "ba"
     },
     {
       "surface": "עשה",
-      "gloss": "e dirago"
+      "gloss": "se dirago"
     },
     {
       "surface": "היום",
-      "gloss": "lehono"
+      "gloss": "gona le kajeno"
     },
     {
       "surface": "בטרם",
-      "gloss": "pele"
+      "gloss": "pele ge"
     },
     {
       "surface": "אביאנו",
-      "gloss": "ke mo isa"
+      "gloss": "ke ba tliša"
     },
     {
       "surface": "אל",
-      "gloss": "lefaseng"
+      "gloss": "lefaseng leo"
     },
     {
       "surface": "הארץ",
-      "gloss": "leo"
+      "gloss": "lefase"
     },
     {
       "surface": "אשר",
-      "gloss": "leo"
+      "gloss": "seo"
     },
     {
       "surface": "נשבעתי",
-      "gloss": "ke ileng ka lapa ka sona"
+      "gloss": "ke ile ka ba ikanaletša sona"
     }
   ],
-  "timestamp": "2026-10-18T01:19:51.066731853Z",
+  "timestamp": "2026-10-18T17:09:37.057136403Z",
   "model": "glm-5.3"
 }

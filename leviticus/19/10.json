@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "פרט",
-      "rationale": "Lentšu le bolela natana ye nnye ye e theogilego ya morara — go bonwa ga lona go Tanakh ka bophara go le bokgole kgauswi."
-    }
-  ],
-  "translation": "Gomme serapa sa gago sa morara o se ke wa sa phethagatša, gomme dinatana tša serapa sa gago sa morara o se ke wa di tlokolla; mosweri le moši o di logela; nna ke Yahwe Elohim ya lona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "040d901e7cfb789fef6d2f0069f1e70b1c123c92e4e9db9f1e3ea02e9fa0a875",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/19\/9-12.1792283989062.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme serapeng sa gago sa merara o se ke wa hlohlwa ka moka, gomme lehlabi la serapa sa gago sa merara o se ke wa ladika; bakeng sa yo a swaketšego le mošumi o swanetše go tlogela ⟨את⟩ tšona: ke nna Yahwe Elohim ya lona.",
   "tokens": [
     {
       "surface": "וכרמך",
-      "gloss": "gomme serapa sa gago sa morara"
+      "gloss": "gomme serapa sa gago sa merara"
     },
     {
       "surface": "לא",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "תעולל",
-      "gloss": "wa sa phethagatša"
+      "gloss": "wa hlohlwa ka moka"
     },
     {
       "surface": "ופרט",
-      "gloss": "gomme dinatana"
+      "gloss": "gomme lehlabi"
     },
     {
       "surface": "כרמך",
-      "gloss": "tša serapa sa gago sa morara"
+      "gloss": "la serapa sa gago sa merara"
     },
     {
       "surface": "לא",
@@ -49,28 +33,28 @@
     },
     {
       "surface": "תלקט",
-      "gloss": "wa di tlokolla"
+      "gloss": "wa ladika"
     },
     {
       "surface": "לעני",
-      "gloss": "mosweri"
+      "gloss": "bakeng sa yo a swaketšego"
     },
     {
       "surface": "ולגר",
-      "gloss": "le moši"
+      "gloss": "le mošumi"
     },
     {
       "surface": "תעזב",
-      "gloss": "o di logela"
+      "gloss": "o swanetše go tlogela"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "diseutu le dinatana"
+      "marks": "tšona (lehlabi la merara)"
     },
     {
       "surface": "אני",
-      "gloss": "nna"
+      "gloss": "ke nna"
     },
     {
       "surface": "יהוה",
@@ -81,6 +65,6 @@
       "gloss": "Elohim ya lona"
     }
   ],
-  "timestamp": "2026-10-18T00:39:49.063572992Z",
+  "timestamp": "2026-10-18T17:30:56.373553760Z",
   "model": "glm-5.3"
 }

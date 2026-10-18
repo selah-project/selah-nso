@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "nso",
   "chapter": 66,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "bohle bao ba ratago le bao ba lailago Yerushalayime",
-      "rationale": "Maabonelo a go bitša setšhaba go tla go inaba le Yerushalayime."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתה",
-      "rationale": "Tiriso ya motheo ya 'le' e tsewa e le ⟨את⟩ go ya ka melawu ya Selah."
-    }
-  ],
-  "translation": "Inabang le ⟨את⟩ Yerushalayime, gomme le thabile ka yona, bohle bao ba e ratago; inabang ka yona ka thabo, bohle bao ba lailago ka yona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "e44cd6b0a79b5bf3f4a5c154b80915b908e20f7deb96fe74bec5f4908554a7bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/66\/9-12.1792292625043.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ithabisang le ⟨את⟩ Yerushalayime, gomme thabang ka yona, ba ba mohlabago ka moka; ithabisang ⟨את⟩ le yona ka thabo, ba ba lailago ka yona ka moka.",
   "tokens": [
     {
       "surface": "שמחו",
-      "gloss": "Inabang"
+      "gloss": "ithabisang"
     },
     {
       "surface": "את",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "וגילו",
-      "gloss": "gomme le thabile"
+      "gloss": "gomme thabang"
     },
     {
       "surface": "בה",
@@ -51,20 +30,20 @@
     },
     {
       "surface": "כל",
-      "gloss": "bohle"
+      "gloss": "ka moka"
     },
     {
       "surface": "אהביה",
-      "gloss": "bao ba e ratago"
+      "gloss": "ba ba mohlabago"
     },
     {
       "surface": "שישו",
-      "gloss": "Inabang"
+      "gloss": "ithabisang"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ yona",
-      "marks": "thabo ya go inaba ka yona"
+      "gloss": "⟨את⟩ le yona",
+      "marks": "Yerushalayime (go itšego le yona)"
     },
     {
       "surface": "משוש",
@@ -72,17 +51,17 @@
     },
     {
       "surface": "כל",
-      "gloss": "bohle"
+      "gloss": "ka moka"
     },
     {
       "surface": "המתאבלים",
-      "gloss": "bao ba lailago"
+      "gloss": "ba ba lailago"
     },
     {
       "surface": "עליה",
       "gloss": "ka yona"
     }
   ],
-  "timestamp": "2026-10-18T03:03:45.044164488Z",
+  "timestamp": "2026-10-18T17:20:46.836854506Z",
   "model": "glm-5.3"
 }

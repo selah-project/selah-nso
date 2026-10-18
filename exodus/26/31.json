@@ -5,60 +5,39 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "forekhe",
-      "rationale": "פרכת — sekgala sa go kgaoganya, modumo wa Seheberu o bolokwa"
-    },
-    {
-      "kind": "crux",
-      "subject": "תולעת שני",
-      "rationale": "'maggot ya kgetsana' — mmala wa mokhubedu o tšwa go nonyana ya šani; 'scarlet' kgahlanong le 'crimson'"
-    }
-  ],
-  "translation": "Gomme o dira forekhe ya tlhapi ya sehuba, le ya phodupodune, le ya kgetsana ye mokhubedu, le ya linen ye e khutšofaditšwego; mošomo wa mosebi wa go bopa o e dira ka kerubime.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "cee55f4ad52656483c7fe027a68e5bfe107cbcee5e091cef579a7fe73ef0e4ed",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/26\/29-32.1792283034014.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme o tla dira sekgoretḓe sa tekelete, le argamele, le khimmelamehla ya senene, le hlatse e e kgopilwego ka go le mmine; mošomo wa mohlagi o tla dira ⟨את⟩ yona ka kerubime.",
   "tokens": [
     {
       "surface": "ועשית",
-      "gloss": "gomme o dira"
+      "gloss": "gomme o tla dira"
     },
     {
       "surface": "פרכת",
-      "gloss": "forekhe"
+      "gloss": "sekgoretḓe se se kgaoganyago"
     },
     {
       "surface": "תכלת",
-      "gloss": "ya tlhapi ya sehuba"
+      "gloss": "tekelete (mmala wa lehwibidu)"
     },
     {
       "surface": "וארגמן",
-      "gloss": "le ya phodupodune"
+      "gloss": "le argamele (popele)"
     },
     {
       "surface": "ותולעת",
-      "gloss": "le ya"
+      "gloss": "le senene"
     },
     {
       "surface": "שני",
-      "gloss": "kgetsana ye mokhubedu"
+      "gloss": "khimmelamehla"
     },
     {
       "surface": "ושש",
-      "gloss": "le ya linen"
+      "gloss": "le hlatse"
     },
     {
       "surface": "משזר",
-      "gloss": "ye e khutšofaditšwego"
+      "gloss": "e e kgopilwego ka go le mmine"
     },
     {
       "surface": "מעשה",
@@ -66,22 +45,22 @@
     },
     {
       "surface": "חשב",
-      "gloss": "wa mosebi wa go bopa"
+      "gloss": "wa mohlagi"
     },
     {
       "surface": "יעשה",
-      "gloss": "o e dira"
+      "gloss": "o tla dira"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "e (forekhe)"
+      "marks": "yona (sekgoretḓe)"
     },
     {
       "surface": "כרבים",
-      "gloss": "ka kerubime"
+      "gloss": "kerubime"
     }
   ],
-  "timestamp": "2026-10-18T00:23:54.015521806Z",
+  "timestamp": "2026-10-18T17:11:51.857013902Z",
   "model": "glm-5.3"
 }

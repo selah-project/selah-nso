@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "diswantšho",
-      "rationale": "גלולים literally 'logs\/round blocks' — idols; picture of the shape kept."
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "First אשר absorbed into 'ka gobane... o dirile'; no independent rendering."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ditšhišinyo tše di hlofigago",
-      "rationale": "תועבות 'abominations' rendered as disgusting things."
-    }
-  ],
-  "translation": "Ka gobane Manashe, kgoši ya Jehuda, o dirile ditšhišinyo tše di hlofigago tše, o dirile sebe ka mo go feta ga se sengwe leo Emori ba se dirilego pele ga yena, gomme a dira gape gore Jehuda a be le sebe ka diswantšho tša gagwe;",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "6cbcaf80d8244eda35f07c546019a278e3585002b36c5a5f6982f42647cf12ba",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/21\/9-12.1792290970526.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane Menashe, kgoši ya Yehuda, o dirile di-do-bogale tše, o dirile bobe go feta tšohle seo ba-Emori ba se dirilego bao ba bego ba le pele ga yena, gomme oiletše gape ⟨את⟩ Yehuda ka dithogong tša gago.",
   "tokens": [
     {
       "surface": "יען",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "gore"
     },
     {
       "surface": "עשה",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "מנשה",
-      "gloss": "Manashe"
+      "gloss": "Menashe"
     },
     {
       "surface": "מלך",
-      "gloss": "kgoši ya"
+      "gloss": "kgoši"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehuda"
+      "gloss": "ya Yehuda"
     },
     {
       "surface": "התעבות",
-      "gloss": "ditšhišinyo tše di hlofigago"
+      "gloss": "di-do-bogale"
     },
     {
       "surface": "האלה",
@@ -67,35 +41,35 @@
     },
     {
       "surface": "הרע",
-      "gloss": "o dirile sebe"
+      "gloss": "o dirile bobe"
     },
     {
       "surface": "מכל",
-      "gloss": "go feta se sengwe ka moka"
+      "gloss": "go feta tšohle"
     },
     {
       "surface": "אשר",
-      "gloss": "leo"
+      "gloss": "gore"
     },
     {
       "surface": "עשו",
-      "gloss": "ba se dirilego"
+      "gloss": "ba dirile"
     },
     {
       "surface": "האמרי",
-      "gloss": "Emori"
+      "gloss": "ba-Emori"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "bao"
     },
     {
       "surface": "לפניו",
-      "gloss": "pele ga yena"
+      "gloss": "ba le pele ga yena"
     },
     {
       "surface": "ויחטא",
-      "gloss": "a dira gore a be le sebe"
+      "gloss": "gomme o oiletše"
     },
     {
       "surface": "גם",
@@ -104,17 +78,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Jehuda"
+      "marks": "Yehuda"
     },
     {
       "surface": "יהודה",
-      "gloss": "Jehuda"
+      "gloss": "Yehuda"
     },
     {
       "surface": "בגלוליו",
-      "gloss": "ka diswantšho tša gagwe"
+      "gloss": "ka dithogong tša gago"
     }
   ],
-  "timestamp": "2026-10-18T02:36:10.527761244Z",
+  "timestamp": "2026-10-18T17:04:09.692828789Z",
   "model": "glm-5.3"
 }

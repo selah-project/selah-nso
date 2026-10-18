@@ -5,50 +5,23 @@
   "book": "proverbs",
   "lang": "nso",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על־פי דרכו",
-      "rationale": "Seheberu se re 'ka molomo wa tsela ya gagwe' — se hlophile go ya ka tsela ya mothwanenyana ka boyena"
-    },
-    {
-      "kind": "crux",
-      "subject": "go ya ka tsela ya gagwe",
-      "rationale": "Bafoleodi ba hlohleletša: go ya ka tsela ya mothwanenyana ka boyena, kapa ka tsela ya kwetšong ya gagwe, kapa ka tsela ya bohlale bjalo ka ge bontši ba bušago Modimong"
-    },
-    {
-      "kind": "invitation",
-      "subject": "hlahlisa",
-      "rationale": "Taelo ya go ruta mothwanenyana e bitša mmadi go dira se ka nofo"
-    }
-  ],
-  "translation": "Hlahlisa ⟨את⟩ mothwanenyana go ya ka tsela ya gagwe; le ge a ka kgolwa, o ka se fologe go yona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "a94d4f014936ccd737a6609728fa6b191e542030b13b836339044a022b2fb8ca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/22\/5-8.1792299647655.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Hlwaya mosegetšwa go ya ka tsela ya gagwe; le ge a ka ba mogolo, o ka se tlogele go yona.",
   "tokens": [
     {
       "surface": "חנך",
-      "gloss": "hlahlisa"
+      "gloss": "hlwaya"
     },
     {
       "surface": "לנער",
-      "gloss": "⟨את⟩ mothwanenyana",
-      "marks": "mothwanenyana"
+      "gloss": "mosegetšwa"
     },
     {
       "surface": "על",
-      "gloss": "go ya"
+      "gloss": "go ya ka"
     },
     {
       "surface": "פי",
-      "gloss": "ka"
+      "gloss": "go ya ka"
     },
     {
       "surface": "דרכו",
@@ -64,7 +37,7 @@
     },
     {
       "surface": "יזקין",
-      "gloss": "a ka kgolwa"
+      "gloss": "a ka ba mogolo"
     },
     {
       "surface": "לא",
@@ -72,13 +45,13 @@
     },
     {
       "surface": "יסור",
-      "gloss": "fologe"
+      "gloss": "tlogele"
     },
     {
       "surface": "ממנה",
       "gloss": "go yona"
     }
   ],
-  "timestamp": "2026-10-18T05:00:47.656409563Z",
+  "timestamp": "2026-10-18T17:36:15.112950699Z",
   "model": "glm-5.3"
 }

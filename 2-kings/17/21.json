@@ -5,33 +5,7 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מעל בית דוד",
-      "rationale": "'go tšwa ntlong ya Dafida' — ntlo ya Dafida ke lelapa la bogoši, e sego ntlo ya matlapa."
-    },
-    {
-      "kind": "crux",
-      "subject": "וידא",
-      "rationale": "Yaaroame: 'go hlohleletša' (KJV 'drave') kgahlanong le 'go phema\/go gana' (go tosya ka ntle); mohuta o šomišitšwego fela mono ka nofo ya go rakwa."
-    },
-    {
-      "kind": "substitution",
-      "subject": "a ba dira go sebe",
-      "rationale": "Hiphil ya חטא — e dira ba diriši wa tirišo, e sego fela 'go dira sebe'."
-    }
-  ],
-  "translation": "Ka gobane o ile a gasa Yisraele go tšwa ntlong ya Dafida, gomme ba mo dira ⟨ke⟩ Yeroboame morwa Nebate kgoši, gomme Yeroboame a hlohleletša ⟨את⟩ Yisraele go tloga go latela Yahwe, gomme a ba dira go sebe sebe se segolo.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "cc1348da170b4db4434b0507138ddfc262b1bed3c7b5f87a0d2fffcc29cb6730",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/17\/21-24.1792290863511.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane ⟨o⟩ ile a robola ⟨את⟩ Yisraele go tšwa ntlong ya Dafida, gomme ba dira ⟨את⟩ Yerobhama morwa Nebata e le kgoši; gomme Yerobhama a dirolla ⟨את⟩ Yisraele go tloga go latela Yahwe, a ba wesa sebe se segolo.",
   "tokens": [
     {
       "surface": "כי",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "קרע",
-      "gloss": "o ile a gasa"
+      "gloss": "a robola"
     },
     {
       "surface": "ישראל",
@@ -51,24 +25,24 @@
     },
     {
       "surface": "בית",
-      "gloss": "ntlong ya"
+      "gloss": "ntlong"
     },
     {
       "surface": "דוד",
-      "gloss": "Dafida"
+      "gloss": "ya Dafida"
     },
     {
       "surface": "וימליכו",
-      "gloss": "ba mo dira kgoši"
+      "gloss": "ba dira… e le kgoši"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yeroboame"
+      "marks": "Yerobhama"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yeroboame"
+      "gloss": "Yerobhama"
     },
     {
       "surface": "בן",
@@ -76,15 +50,15 @@
     },
     {
       "surface": "נבט",
-      "gloss": "Nebate"
+      "gloss": "Nebata"
     },
     {
       "surface": "וידא",
-      "gloss": "a hlohleletša"
+      "gloss": "a dirolla"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yeroboame"
+      "gloss": "Yerobhama"
     },
     {
       "surface": "את",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "והחטיאם",
-      "gloss": "a ba dira go sebe"
+      "gloss": "a ba wesa"
     },
     {
       "surface": "חטאה",
@@ -116,6 +90,6 @@
       "gloss": "se segolo"
     }
   ],
-  "timestamp": "2026-10-18T02:34:23.512752778Z",
+  "timestamp": "2026-10-18T17:03:30.574274147Z",
   "model": "glm-5.3"
 }

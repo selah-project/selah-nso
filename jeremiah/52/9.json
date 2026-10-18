@@ -5,45 +5,24 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dikahlolo",
-      "rationale": "משפטים ke dikahlolo tša kgoši — go rutišwa bjalo ka go lahlelwa kahlolo, e sego tsheko ya toka fela"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וידבר אתו",
-      "rationale": "'a bolela le yena' — Seheberu se šomiša אתו gabedi (mohlala 5 le 13) ka mokgwa wa go bolela le motho, se hlokomologwa ke diphetolelo tše mmalwa"
-    }
-  ],
-  "translation": "Ba tšere ⟨את⟩ kgoshi, ba mo tlaišetša go kgoši ya Babele, go Ribleta, lefaseng la Hamate; gomme ⟨yena⟩ a bolela ⟨את⟩ le yena dikahlolo.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "f774a354f1bb6caa333b9e0b66f66cd83ecdce04581c7779b6931039a7001c6d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/52\/9-12.1792294293049.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba mo swara ⟨את⟩ kgoši, gomme ba mo isa go kgoši ya Babele, go Riblete, lefaseng la Hamate, gomme a bolela le yena ⟨את⟩ dikahlolo.",
   "tokens": [
     {
       "surface": "ויתפשו",
-      "gloss": "ba tšere"
+      "gloss": "ba mo swara"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kgoshi"
+      "marks": "kgoši"
     },
     {
       "surface": "המלך",
-      "gloss": "kgoshi"
+      "gloss": "kgoši"
     },
     {
       "surface": "ויעלו",
-      "gloss": "ba mo tlaišetša"
+      "gloss": "ba mo isa"
     },
     {
       "surface": "אתו",
@@ -64,7 +43,7 @@
     },
     {
       "surface": "רבלתה",
-      "gloss": "Ribleta"
+      "gloss": "Riblete"
     },
     {
       "surface": "בארץ",
@@ -72,22 +51,22 @@
     },
     {
       "surface": "חמת",
-      "gloss": "la Hamate"
+      "gloss": "Hamate"
     },
     {
       "surface": "וידבר",
-      "gloss": "a bolela"
+      "gloss": "a bolela le yena"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "le yena"
+      "marks": "dikahlolo"
     },
     {
       "surface": "משפטים",
       "gloss": "dikahlolo"
     }
   ],
-  "timestamp": "2026-10-18T03:31:33.051067481Z",
+  "timestamp": "2026-10-18T17:23:59.689268790Z",
   "model": "glm-5.3"
 }

@@ -5,50 +5,24 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 43,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "שלמים",
-      "rationale": "'mahlabelo a kagiso' — shelamim go tšwa go 'shalem\/kagiso', sehlabelo sa go leboga le go agišana kagiso"
-    },
-    {
-      "kind": "you",
-      "subject": "go Yisraele",
-      "rationale": "ditokolwa tše di bušwa go Yisraele ya bofelo (dibego tša lona, ke tla le amogela)"
-    },
-    {
-      "kind": "addition",
-      "subject": "go bolela",
-      "rationale": "נאם — 'go bolela' ka go Sepedi e dira modumo wa nabi; D3 e e laela"
-    }
-  ],
-  "translation": "Mme ge matsatsi ao a phethilwe, go tla ba ka letšatši la seswai le go feta moo, maperisita a tla dira go aletare ⟨את⟩ dibego tša go fišwa tša lona le ⟨את⟩ mahlabelo a kagiso a lona; gomme ke tla le amogela, go bolela Adonai Yahwe.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "dec333b4156e6981679dd4e05e7eb9ca7d0344f09d95f9d1977cad46022171ca",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/43\/25-27.1792295713041.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mme ge ba phethile ⟨את⟩ matšatši, go tla ba go swana, ka letšatši la seswai le ka fao, baperisita ba tla dira godimo ga aletare ⟨את⟩ dibege tša lona tša go fišwa le ⟨את⟩ mahlabelo a lona a kgotso; gomme ke tla le kgotsofatša, go bolela Adonai Yahwe.",
   "tokens": [
     {
       "surface": "ויכלו",
-      "gloss": "gomme a phethilwe"
+      "gloss": "ba phethile"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "matsatsi ao"
+      "marks": "matšatši"
     },
     {
       "surface": "הימים",
-      "gloss": "matsatsi ao"
+      "gloss": "matšatši"
     },
     {
       "surface": "והיה",
-      "gloss": "go tla ba"
+      "gloss": "go tla ba go swana"
     },
     {
       "surface": "ביום",
@@ -60,19 +34,19 @@
     },
     {
       "surface": "והלאה",
-      "gloss": "le go feta moo"
+      "gloss": "le ka fao"
     },
     {
       "surface": "יעשו",
-      "gloss": "a tla dira"
+      "gloss": "ba tla dira"
     },
     {
       "surface": "הכהנים",
-      "gloss": "maperisita"
+      "gloss": "baperisita"
     },
     {
       "surface": "על",
-      "gloss": "go"
+      "gloss": "godimo ga"
     },
     {
       "surface": "המזבח",
@@ -81,28 +55,29 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dibego tša go fišwa tša lona"
+      "marks": "dibege tša lona tša go fišwa"
     },
     {
       "surface": "עולותיכם",
-      "gloss": "dibego tša go fišwa tša lona"
+      "gloss": "dibege tša lona tša go fišwa"
     },
     {
       "surface": "ואת",
-      "gloss": "gomme ⟨את⟩",
-      "marks": "mahlabelo a kagiso a lona"
+      "gloss": "le ⟨את⟩",
+      "marks": "mahlabelo a lona a kgotso"
     },
     {
       "surface": "שלמיכם",
-      "gloss": "mahlabelo a kagiso a lona"
+      "gloss": "mahlabelo a lona a kgotso"
     },
     {
       "surface": "ורצאתי",
-      "gloss": "gomme ke tla le amogela"
+      "gloss": "ke tla le kgotsofatša"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
     },
     {
       "surface": "נאם",
@@ -117,6 +92,6 @@
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T03:55:13.042923900Z",
+  "timestamp": "2026-10-18T17:15:47.289345444Z",
   "model": "glm-5.3"
 }

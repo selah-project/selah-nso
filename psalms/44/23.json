@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "nso",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כל היום",
-      "rationale": "'letšatši leoletši' — Seheberu: 'letšatši ka moka', mo e bolela ka go sa felge"
-    },
-    {
-      "kind": "you",
-      "subject": "עליך",
-      "rationale": "polelo ye e ya go Yahwe — 'ka wena'"
-    }
-  ],
-  "translation": "Ka gobane ka wena re bolailwe letšatši leoletši; re balwa bjalo ka dinku le dipudi tša go warelwа.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "39d775d0fa7ccc85d3c1cfcd00f8a2c173c10e5de7d71c8ebdd2b36c46e03845",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/44\/21-24.1792297732013.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gobane ka baka la gago re bolailwe letšatši leo letšie, re balilwe bjalo ka dinku le dipudi tša go tlhabela.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ka gobane"
+      "gloss": "gobane"
     },
     {
       "surface": "עליך",
-      "gloss": "ka wena"
+      "gloss": "ka baka la gago"
     },
     {
       "surface": "הרגנו",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "leoletši"
+      "gloss": "leo letšie"
     },
     {
       "surface": "היום",
-      "gloss": "letšatši leoletši"
+      "gloss": "letšatši"
     },
     {
       "surface": "נחשבנו",
-      "gloss": "re balwa"
+      "gloss": "re balilwe"
     },
     {
       "surface": "כצאן",
@@ -58,9 +37,9 @@
     },
     {
       "surface": "טבחה",
-      "gloss": "tša go warelwа"
+      "gloss": "tša go tlhabela"
     }
   ],
-  "timestamp": "2026-10-18T04:28:52.014170196Z",
+  "timestamp": "2026-10-18T17:37:34.373627894Z",
   "model": "glm-5.3"
 }

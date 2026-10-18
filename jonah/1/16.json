@@ -5,27 +5,11 @@
   "book": "jonah",
   "lang": "nso",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "וייראו ... יראה",
-      "rationale": "go bušetša ga modu — 'ba tšaba ... go tšaba go tebilego' — go tiisa maemo a go tšaba; Sepedi se bolokile go bušetša ga modu"
-    }
-  ],
-  "translation": "Gomme banna ba ile ba tšaba Yahwe go tšaba go tebilego, ba hlabela sehlabelo go Yahwe, gomme ba ikana maikano.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "9492ce5014b75551d8ba5a09df62ad0eb39a2c29923bf67e427d66463064cb4b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jonah\/1\/13-16.1792296451367.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme banna ba kgomogile Yahwe go kgomoga go segolo, ba ile ba hlabela ⟨את⟩ sebetho sa go fišwa go Yahwe, gomme ba ikana go dira dikano.",
   "tokens": [
     {
       "surface": "וייראו",
-      "gloss": "ba ile ba tšaba"
+      "gloss": "ba kgomogile"
     },
     {
       "surface": "האנשים",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "יראה",
-      "gloss": "go tšaba"
+      "gloss": "go kgomoga"
     },
     {
       "surface": "גדולה",
-      "gloss": "go tebilego"
+      "gloss": "go segolo"
     },
     {
       "surface": "את",
@@ -54,7 +38,7 @@
     },
     {
       "surface": "זבח",
-      "gloss": "sehlabelo"
+      "gloss": "sebetho"
     },
     {
       "surface": "ליהוה",
@@ -66,9 +50,9 @@
     },
     {
       "surface": "נדרים",
-      "gloss": "maikano"
+      "gloss": "dikano"
     }
   ],
-  "timestamp": "2026-10-18T04:07:31.368687081Z",
+  "timestamp": "2026-10-18T17:25:36.839662166Z",
   "model": "glm-5.3"
 }

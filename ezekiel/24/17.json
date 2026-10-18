@@ -5,77 +5,51 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בֹּקֶר ולחם אנשים",
-      "rationale": "lebutele la lehubidu — 'bogobe ba batho' (ba ba llaego, Baheberu 19:28 goba ba ba fungošago); mehla ye mengwe e re 'bogobe ba balaodi' goba 'bogobe ba bao ba llaego'."
-    },
-    {
-      "kind": "crux",
-      "subject": "לְאַנֵק דּוֹם",
-      "rationale": "'Lla ka thularelo' — go hweletša ge o sa utolwe; LXX e ka ba e re 'kgetha ka go dubakga'."
-    },
-    {
-      "kind": "elision",
-      "subject": "עַל שָׂפָם",
-      "rationale": "'על' e kopantšwe le šefahlogo — 'kwalela sefahlogo se se godimo' e na le 'godimo' ka go koma."
-    }
-  ],
-  "translation": "Lla ka thularelo; bakeng sa bao ba hwilego o se ke wa dira mokgobokgobo; kgora sekgokgolo sa hlogo ya gago godimo ga wena, gomme dieta tša gago di be maotong a gago; gomme o se ke wa kwalela sefahlogo se se godimo, gomme bogobe ba batho o se ke wa ja.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "dc6f31312c0e6752979957aedfed3c84f41dd2ca4675526e1df6112f9b15ced5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/24\/17-20.1792295051140.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Kgokgolo e nnye fela, o se ke wa dira ⟨את⟩ mokgobo bakeng sa ba hlokilego; sefokgo sa hloogo ya gago o se hokole go wena, gomme ditšiešie tša gago o di bele maotong a gago, gomme o se ke wa phutha ⟨את⟩ sefokologa se se godimo, gomme bogobe ba batho o se ke wa ja ⟨e⟩.",
   "tokens": [
     {
       "surface": "האנק",
-      "gloss": "lla"
+      "gloss": "kgokgolo e nnye fela"
     },
     {
       "surface": "דם",
-      "gloss": "ka thularelo"
+      "gloss": "ka thušo"
     },
     {
       "surface": "מתים",
-      "gloss": "bao ba hwilego"
+      "gloss": "ba hlokilego"
     },
     {
       "surface": "אבל",
-      "gloss": "mokgobokgobo"
+      "gloss": "mokgobo"
     },
     {
       "surface": "לא",
-      "gloss": "o se ke wa"
+      "gloss": "o se ke"
     },
     {
       "surface": "תעשה",
-      "gloss": "dira"
+      "gloss": "wa dira"
     },
     {
       "surface": "פארך",
-      "gloss": "sekgokgolo sa hlogo ya gago"
+      "gloss": "sefokgo sa hloogo ya gago"
     },
     {
       "surface": "חבוש",
-      "gloss": "kgora"
+      "gloss": "o hokole"
     },
     {
       "surface": "עליך",
-      "gloss": "godimo ga wena"
+      "gloss": "go wena"
     },
     {
       "surface": "ונעליך",
-      "gloss": "gomme dieta tša gago"
+      "gloss": "ditšiešie tša gago"
     },
     {
       "surface": "תשים",
-      "gloss": "di be"
+      "gloss": "o di bele"
     },
     {
       "surface": "ברגליך",
@@ -83,19 +57,19 @@
     },
     {
       "surface": "ולא",
-      "gloss": "gomme o se ke wa"
+      "gloss": "gomme o se ke"
     },
     {
       "surface": "תעטה",
-      "gloss": "kwalela"
+      "gloss": "wa phutha"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "go"
     },
     {
       "surface": "שפם",
-      "gloss": "sefahlogo se se godimo"
+      "gloss": "sefokologa se se godimo"
     },
     {
       "surface": "ולחם",
@@ -107,13 +81,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "o se ke wa"
+      "gloss": "o se ke"
     },
     {
       "surface": "תאכל",
-      "gloss": "ja"
+      "gloss": "wa ja"
     }
   ],
-  "timestamp": "2026-10-18T03:44:11.140683962Z",
+  "timestamp": "2026-10-18T17:14:34.367480141Z",
   "model": "glm-5.3"
 }

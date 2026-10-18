@@ -5,62 +5,36 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הרף ממני",
-      "rationale": "‘tlogelela nna’ — Seheberu: ‘kgorološa (seatla sa gago) go tšwa go nna’, sehlabelo sa go lwa le sengwe se sengwe"
-    },
-    {
-      "kind": "you",
-      "subject": "to Moshe",
-      "rationale": "Yahwe a bitša Moshe go mo tlogelela,再到 go theosa””"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ואמחה...אמח",
-      "rationale": "go phumola leina — seswantšho sa go fediša mokgopolo o mongwe le o mongwe wa setšhaba"
-    }
-  ],
-  "translation": "Tlogelela nna, gore ke je bofela ka bona, gomme ke phumule leina la bona ka tlase ga magodimo, gomme ke go direle go ba setšhaba se matla le se segolo go feta bona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "5a4452f0e8e73f6b1cea34136ff5eaa856fc596221c7330dd2dff7801bd6d1e8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/9\/13-16.1792285735917.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tlogela ⟨o⟩ ntlogela, ke tla di phediša ka mo go feletšego, gomme ke tla phimola ⟨את⟩ leina la tšona ka fase ga magodimo, gomme ke tla go dira ⟨o⟩ setšhaba se se maatla le se segolo go feta sona.",
   "tokens": [
     {
       "surface": "הרף",
-      "gloss": "Tlogelela"
+      "gloss": "Tlogela"
     },
     {
       "surface": "ממני",
-      "gloss": "nna"
+      "gloss": "ntlogela"
     },
     {
       "surface": "ואשמידם",
-      "gloss": "ke je bofela ka bona"
+      "gloss": "ke tla di phediša ka mo go feletšego"
     },
     {
       "surface": "ואמחה",
-      "gloss": "ke phumule"
+      "gloss": "ke tla phimola"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "leina la bona"
+      "marks": "leina la tšona"
     },
     {
       "surface": "שמם",
-      "gloss": "leina la bona"
+      "gloss": "leina la tšona"
     },
     {
       "surface": "מתחת",
-      "gloss": "ka tlase ga"
+      "gloss": "ka fase ga"
     },
     {
       "surface": "השמים",
@@ -68,11 +42,12 @@
     },
     {
       "surface": "ואעשה",
-      "gloss": "ke go direle"
+      "gloss": "ke tla go dira"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ go"
+      "gloss": "⟨את⟩ o",
+      "marks": "wena — setšhaba"
     },
     {
       "surface": "לגוי",
@@ -80,7 +55,7 @@
     },
     {
       "surface": "עצום",
-      "gloss": "se matla"
+      "gloss": "se se maatla"
     },
     {
       "surface": "ורב",
@@ -88,9 +63,9 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "go feta bona"
+      "gloss": "go feta sona"
     }
   ],
-  "timestamp": "2026-10-18T01:08:55.918612093Z",
+  "timestamp": "2026-10-18T17:10:01.192260555Z",
   "model": "glm-5.3"
 }

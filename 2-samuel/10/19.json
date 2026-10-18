@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "nso",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "gomme",
-      "rationale": "vevav e fetoša sebopego sa merumo ka Sepedi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "a tšhaba",
-      "rationale": "ויראאו ke 'ba ile ba tšhaba' — go tšhaba, e sego go bona fela"
-    }
-  ],
-  "translation": "Gomme dikgoši ka moka, mehlanka ya Hadadezere, ge di ile tša bona gore di ile tšawa ke Yisraele, di ile tša dira kagiso le Yisraele, di ba šomelela; gomme Arama a tšhaba go hlapaletša gape bana ba Amona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "40c92e762f31e5b1b81e82a7dadafb5ee8dbffbfc1c20029c7d0042e4e74fa3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/10\/17-19.1792289029839.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme dikgoši ka moka, tša go ba bahlanka ba Hadadezere, di ile tša bona gore di fenketšwe pele ga Yisraele, di ile tša dira kgwerano le ⟨את⟩ Yisraele gomme di ba šometše; gomme Arama o ile a tšhaba go hlakantša gape ⟨את⟩ bana ba Amoni.",
   "tokens": [
     {
       "surface": "ויראו",
-      "gloss": "ge di ile tša bona"
+      "gloss": "gomme … di bona"
     },
     {
       "surface": "כל",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "עבדי",
-      "gloss": "mehlanka ya"
+      "gloss": "bahlanka ba"
     },
     {
       "surface": "הדדעזר",
@@ -54,11 +33,11 @@
     },
     {
       "surface": "נגפו",
-      "gloss": "di ile tšawa"
+      "gloss": "di fenketšwe"
     },
     {
       "surface": "לפני",
-      "gloss": "ke"
+      "gloss": "pele ga"
     },
     {
       "surface": "ישראל",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "וישלמו",
-      "gloss": "di ile tša dira kagiso"
+      "gloss": "di dira kgwerano"
     },
     {
       "surface": "את",
@@ -79,11 +58,11 @@
     },
     {
       "surface": "ויעבדום",
-      "gloss": "di ba šomelela"
+      "gloss": "di ba šometše"
     },
     {
       "surface": "ויראו",
-      "gloss": "a tšhaba"
+      "gloss": "o ile a tšhaba"
     },
     {
       "surface": "ארם",
@@ -91,7 +70,7 @@
     },
     {
       "surface": "להושיע",
-      "gloss": "go hlapaletša"
+      "gloss": "go hlakantša"
     },
     {
       "surface": "עוד",
@@ -100,7 +79,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bana ba Amona"
+      "marks": "bana ba Amoni"
     },
     {
       "surface": "בני",
@@ -108,9 +87,9 @@
     },
     {
       "surface": "עמון",
-      "gloss": "Amona"
+      "gloss": "Amoni"
     }
   ],
-  "timestamp": "2026-10-18T02:03:49.840418250Z",
+  "timestamp": "2026-10-18T17:05:03.607636919Z",
   "model": "glm-5.3"
 }

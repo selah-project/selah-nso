@@ -5,42 +5,11 @@
   "book": "2-chronicles",
   "lang": "nso",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨nna⟩",
-      "rationale": "Seheberu se re fela 'ge le le yena' — kopanyo ya Sepedi e nyaka go hlakala."
-    },
-    {
-      "kind": "you",
-      "subject": "Asa le setšhaba sohle sa Yuda le Benjamin",
-      "rationale": "Mohlaolwa o laleditšwe ka tobokopanyi: 'Nkamelang, Asa'."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Nkamelang",
-      "rationale": "Taolo ya go theetla e laleditše barutiwa go tsenya sebakeng sa temana."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תדרשהו\/ימצא, תעזבהו\/יעזב",
-      "rationale": "Phetšo ya dika tše pedi: o mo nyaka→o a hwetšwa; o mo tlogela→o a le tlogela — sebopego se bolokilwe."
-    }
-  ],
-  "translation": "Mme o ile a tšwa pele ga Asa, a mo bolelela: Nkamelang, Asa, le Yuda sohle le Benjamin: Yahwe o le nna ge le le ⟨nna⟩ le yena; gomme ge le mo nyaka, o tla hwetšwa ke lona; gomme ge le mo tlogela, o tla le tlogela.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "c2b4d3426fb015ce11698ee7e9a5f15ce22d412854af8955918ba294fc2c9486",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/15\/1-4.1792303929538.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a tšwa pele ga Asa, a mmuela gore: Theetseng-ṱe nna, Asa le Jehuta yotlhe le Benyamine: Yahwe o le na lona ge le ka ba le ena; gomme ge le mo nyakile, o tla hwetšwa ke lona; eupša ge le mo tlogetše, o tla lo tlogela ⟨את⟩.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "Mme o ile a tšwa"
+      "gloss": "gomme a tšwa"
     },
     {
       "surface": "לפני",
@@ -52,15 +21,15 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "a bolelela"
+      "gloss": "a mmuela"
     },
     {
       "surface": "לו",
-      "gloss": "⟨mo⟩"
+      "gloss": "go yena"
     },
     {
       "surface": "שמעוני",
-      "gloss": "Nkamelang"
+      "gloss": "theetseng-ṱe nna"
     },
     {
       "surface": "אסא",
@@ -68,15 +37,15 @@
     },
     {
       "surface": "וכל",
-      "gloss": "le … sohle"
+      "gloss": "gomme … yotlhe"
     },
     {
       "surface": "יהודה",
-      "gloss": "Yuda"
+      "gloss": "Jehuta"
     },
     {
       "surface": "ובנימן",
-      "gloss": "le Benjamin"
+      "gloss": "gomme Benyamine"
     },
     {
       "surface": "יהוה",
@@ -84,15 +53,15 @@
     },
     {
       "surface": "עמכם",
-      "gloss": "o le nna"
+      "gloss": "o le na lona"
     },
     {
       "surface": "בהיותכם",
-      "gloss": "ge le le"
+      "gloss": "ge le ka ba"
     },
     {
       "surface": "עמו",
-      "gloss": "le yena"
+      "gloss": "le ena"
     },
     {
       "surface": "ואם",
@@ -100,7 +69,7 @@
     },
     {
       "surface": "תדרשהו",
-      "gloss": "le mo nyaka"
+      "gloss": "le mo nyakile"
     },
     {
       "surface": "ימצא",
@@ -116,11 +85,11 @@
     },
     {
       "surface": "תעזבהו",
-      "gloss": "le mo tlogela"
+      "gloss": "le mo tlogetše"
     },
     {
       "surface": "יעזב",
-      "gloss": "o tla le tlogela"
+      "gloss": "o tla lo tlogela"
     },
     {
       "surface": "אתכם",
@@ -128,6 +97,6 @@
       "marks": "lona"
     }
   ],
-  "timestamp": "2026-10-18T06:12:09.538979431Z",
+  "timestamp": "2026-10-18T17:02:11.945597010Z",
   "model": "glm-5.3"
 }

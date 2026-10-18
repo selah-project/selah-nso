@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "melawana",
-      "rationale": "חקות ke melawana yeo e ngwalwago, e sego 'dikaelo'; modu o tee wa go beilwe thwii"
-    }
-  ],
-  "translation": "Gomme le dire ⟨את⟩ melawana ya ka, gomme ⟨את⟩ dikahlolo tša ka le di hlokomole, gomme le di dire; gomme le dule ka polokego godimo ga lefase.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "a431c7e21a0c3391dca146a9d882b362a1230afbf440704e41c90fb4c5af69f8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/25\/17-20.1792284282311.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme le tla dira ⟨את⟩ melawana ya ka, gomme ⟨את⟩ dikahlolo tša ka le di hlokomologe gomme le di dira ⟨את⟩ tšona; gomme le tla dula go lefase ka polokego.",
   "tokens": [
     {
       "surface": "ועשיתם",
-      "gloss": "gomme le dire"
+      "gloss": "gomme le tla dira"
     },
     {
       "surface": "את",
@@ -47,23 +31,24 @@
     },
     {
       "surface": "תשמרו",
-      "gloss": "le di hlokomole"
+      "gloss": "le di hlokomologe"
     },
     {
       "surface": "ועשיתם",
-      "gloss": "gomme le di dire"
+      "gloss": "gomme le di dira"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ⟨di⟩"
+      "gloss": "⟨את⟩",
+      "marks": "tšona (dikahlolo tša ka)"
     },
     {
       "surface": "וישבתם",
-      "gloss": "gomme le dule"
+      "gloss": "gomme le tla dula"
     },
     {
       "surface": "על",
-      "gloss": "godimo ga"
+      "gloss": "go"
     },
     {
       "surface": "הארץ",
@@ -74,6 +59,6 @@
       "gloss": "ka polokego"
     }
   ],
-  "timestamp": "2026-10-18T00:44:42.312427390Z",
+  "timestamp": "2026-10-18T17:32:05.880826541Z",
   "model": "glm-5.3"
 }

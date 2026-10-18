@@ -5,58 +5,38 @@
   "book": "proverbs",
   "lang": "nso",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "מודע",
-      "rationale": "מודע e hlaga gano feela ka Seheberu sa Tanakh, e bolela mohlokedimmogo goba motswala."
-    },
-    {
-      "kind": "crux",
-      "subject": "מודע",
-      "rationale": "Bafoletši ba fapana: 'motswala' kgahlanong le 'mohlokedimmogo'; le ka ge Ruth 3:2 e šomiša lentšu le swanago ka go bolela motho yo a tsebegago."
-    }
-  ],
-  "translation": "O re go tlhaaho: O kgaetšedi wa ka ⟨⟨wena⟩⟩; gomme o bitše se tsebagatšego go kutwego ka leina la mohlokedimmogo.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "332e84a698045c086648b6c62a97d1f9b3beacb6edb28ba51631e9e116a55d86",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/7\/1-4.1792299307577.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bolela le go se tsebe go re: o mongsadiwa wa ka, gomme o bitše tlhaloganyo-bokae ⟨את⟩ mongwaledi-bokae;",
   "tokens": [
     {
       "surface": "אמר",
-      "gloss": "O re"
+      "gloss": "Bolela"
     },
     {
       "surface": "לחכמה",
-      "gloss": "go tlhaaho"
+      "gloss": "go se tsebe"
     },
     {
       "surface": "אחתי",
-      "gloss": "O kgaetšedi wa ka"
+      "gloss": "mongsadiwa wa ka"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "mongwaledi (ומדע)"
     },
     {
       "surface": "ומדע",
-      "gloss": "gomme se tsebagatšego"
+      "gloss": "mongwaledi"
     },
     {
       "surface": "לבינה",
-      "gloss": "go kutwego"
+      "gloss": "tlhaloganyo"
     },
     {
       "surface": "תקרא",
-      "gloss": "o bitše ka leina la mohlokedimmogo"
+      "gloss": "o bitše"
     }
   ],
-  "timestamp": "2026-10-18T04:55:07.578229600Z",
+  "timestamp": "2026-10-18T17:37:02.252156102Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "psalms",
   "lang": "nso",
   "chapter": 106,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "על",
-      "rationale": "'go swana le \/ godimo ga' — e hlatlotšwe ka sebopego sa kopanyo, ga e na lentšu le tee la Sepedi"
-    }
-  ],
-  "translation": "Lefase le butšwe gomme la mimoša ⟨את⟩ Datane, gomme la khupetša phuthego ya Abhirame.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "6ecb4a25238a601130121a6744b391625754147a2e734289898fb826720aecff",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/106\/17-20.1792298634725.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lefase le butše gomme la mola Datane, gomme la khwaša setšhaba sa Abhirame.",
   "tokens": [
     {
       "surface": "תפתח",
-      "gloss": "le butšwe"
+      "gloss": "le butše"
     },
     {
       "surface": "ארץ",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "ותבלע",
-      "gloss": "gomme la mimoša"
+      "gloss": "gomme la mola"
     },
     {
       "surface": "דתן",
@@ -41,21 +25,21 @@
     },
     {
       "surface": "ותכס",
-      "gloss": "gomme la khupetša"
+      "gloss": "gomme la khwaša"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "godimo ga"
     },
     {
       "surface": "עדת",
-      "gloss": "phuthego ya"
+      "gloss": "setšhaba"
     },
     {
       "surface": "אבירם",
       "gloss": "Abhirame"
     }
   ],
-  "timestamp": "2026-10-18T04:43:54.726253182Z",
+  "timestamp": "2026-10-18T17:37:01.980220287Z",
   "model": "glm-5.3"
 }

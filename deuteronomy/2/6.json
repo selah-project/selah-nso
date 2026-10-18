@@ -5,48 +5,28 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "rekalang",
-      "rationale": "Taello ya go ja go Yisraele: reka, se kene ka maatla"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "תשברו \/ תכרו",
-      "rationale": "Mefuta ye mebedi ya go reka ka Seheberu, go lalediša go reka ga dijo le meetse ka go swana"
-    }
-  ],
-  "translation": "Dijo rekalang go bona ka silibera, gomme la ja; le gape meetse rekalang go bona ka silibera, gomme la noa.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "5dc1972f40ea857d7469fe562033be4c4cdf44cc71ef397159c659e566bc8f9b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/2\/5-8.1792285548522.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bogobe le tla reka go tšwa go bona ka tšhelete gomme le ja; le gape ⟨את⟩ meetse le tla reka go tšwa go bona ka tšhelete gomme le nwa",
   "tokens": [
     {
       "surface": "אכל",
-      "gloss": "dijo"
+      "gloss": "bogobe"
     },
     {
       "surface": "תשברו",
-      "gloss": "rekalang"
+      "gloss": "le tla reka"
     },
     {
       "surface": "מאתם",
-      "gloss": "go bona ⟨את⟩"
+      "gloss": "go tšwa go bona ⟨את⟩",
+      "marks": "bogobe"
     },
     {
       "surface": "בכסף",
-      "gloss": "ka silibera"
+      "gloss": "ka tšhelete"
     },
     {
       "surface": "ואכלתם",
-      "gloss": "gomme la ja"
+      "gloss": "gomme le ja"
     },
     {
       "surface": "וגם",
@@ -58,21 +38,22 @@
     },
     {
       "surface": "תכרו",
-      "gloss": "rekalang"
+      "gloss": "le tla reka"
     },
     {
       "surface": "מאתם",
-      "gloss": "go bona ⟨את⟩"
+      "gloss": "go tšwa go bona ⟨את⟩",
+      "marks": "meetse"
     },
     {
       "surface": "בכסף",
-      "gloss": "ka silibera"
+      "gloss": "ka tšhelete"
     },
     {
       "surface": "ושתיתם",
-      "gloss": "gomme la noa"
+      "gloss": "gomme le nwa"
     }
   ],
-  "timestamp": "2026-10-18T01:05:48.524181527Z",
+  "timestamp": "2026-10-18T17:08:22.749360022Z",
   "model": "glm-5.3"
 }

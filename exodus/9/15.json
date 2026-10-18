@@ -5,33 +5,7 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "perfect ya maemo a sa etswago",
-      "rationale": "שלחתי ואך perfect e bolela se se ka bago go direga (ASV 'I had put forth'); ba bangwe ba e bala bjalo ka maemo a ka diregago (KJV 'I will stretch out')."
-    },
-    {
-      "kind": "substitution",
-      "subject": "setlapelo",
-      "rationale": "דבר mo e bolela sebetlapelo (pestilence), e sego lentšu — sebopego sa lentšu se hlokilwe."
-    },
-    {
-      "kind": "addition",
-      "subject": "ke be ke ka",
-      "rationale": "Sepedi se nyaka maemo a tlaga yeo Seheberu se di supago ka perfect fela."
-    }
-  ],
-  "translation": "Ka gobane bjale ke be ke ka tuma ⟨את⟩ seatla sa ka, gomme ke ka o betša ⟨את⟩ wena le ⟨את⟩ setšhaba sa gago ka setlapelo, gomme o ka be o tlošitšwe ⟨⟨go tšwa⟩⟩ lefaseng.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "3d63ed8b8d177bd0a7d8f1a14d830c736f559c343f2faf8ff1f5f617ecb9c9f5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/9\/14-15.1792304631523.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane bjale ke be ke ka latolla ⟨את⟩ seatla sa ka, ke go tloša ⟨את⟩ wena le ⟨את⟩ setšhaba sa gago ka bolwetši, gomme o be o tlošwa le go lefase.",
   "tokens": [
     {
       "surface": "כי",
@@ -43,7 +17,7 @@
     },
     {
       "surface": "שלחתי",
-      "gloss": "ke be ke ka tuma"
+      "gloss": "ke be ke ka latolla"
     },
     {
       "surface": "את",
@@ -56,11 +30,12 @@
     },
     {
       "surface": "ואך",
-      "gloss": "gomme ke ka o betša"
+      "gloss": "ke go tloša"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩ wena"
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
     },
     {
       "surface": "ואת",
@@ -73,21 +48,21 @@
     },
     {
       "surface": "בדבר",
-      "gloss": "ka setlapelo"
+      "gloss": "ka bolwetši"
     },
     {
       "surface": "ותכחד",
-      "gloss": "gomme o ka be o tlošitšwe"
+      "gloss": "o be o tlošwa"
     },
     {
       "surface": "מן",
-      "gloss": "go tšwa"
+      "gloss": "le"
     },
     {
       "surface": "הארץ",
-      "gloss": "lefaseng"
+      "gloss": "lefase"
     }
   ],
-  "timestamp": "2026-10-18T06:23:51.524655708Z",
+  "timestamp": "2026-10-18T17:12:56.347067265Z",
   "model": "glm-5.3"
 }

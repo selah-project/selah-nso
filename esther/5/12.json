@@ -5,32 +5,11 @@
   "book": "esther",
   "lang": "nso",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "כי אם mmogo ke 'ntle le' — polelo ya go ganega, ga e ya go sephetho se sengwe le se sengwe"
-    },
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "'כי אם' e šomišwa bjalo ka lentšu le letee la go ganega; אם ka nosi e sa bonagale"
-    }
-  ],
-  "translation": "Gomme Hamane a re: Gape kgošigadi Estere ga se a tsenša motho o mongwe le kgoši go seeng se a se dirilego, ntle le ⟨את⟩ nna; gomme gape ka moso ke laleditšwe go yena le kgoši.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "964c362621328d27e1b7522057a2923b364edbd630df8974a75b44526831871b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/5\/9-12.1792301564104.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Hamane a re: Eumente, Estera kgošigadi ga a ka a amogetša moyo le kgoši go mošomo wa go nwa woo a o dirilego, ntle le ⟨את⟩ nna fela; gomme le gomoso nna ke laleditšwe go yena le kgoši.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "gomme Hamane a re"
     },
     {
       "surface": "המן",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "אף",
-      "gloss": "gape"
+      "gloss": "eumente"
     },
     {
       "surface": "לא",
-      "gloss": "ga se"
+      "gloss": "ga"
     },
     {
       "surface": "הביאה",
-      "gloss": "a tsenša"
+      "gloss": "a amogetša"
     },
     {
       "surface": "אסתר",
-      "gloss": "Estere"
+      "gloss": "Estera"
     },
     {
       "surface": "המלכה",
@@ -70,15 +49,15 @@
     },
     {
       "surface": "המשתה",
-      "gloss": "seeng"
+      "gloss": "mošomo wa go nwa"
     },
     {
       "surface": "אשר",
-      "gloss": "seo"
+      "gloss": "woo"
     },
     {
       "surface": "עשתה",
-      "gloss": "a se dirilego"
+      "gloss": "a o dirilego"
     },
     {
       "surface": "כי",
@@ -86,27 +65,28 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "fela"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ nna"
+      "gloss": "⟨את⟩",
+      "marks": "nna (Hamane yena)"
     },
     {
       "surface": "וגם",
-      "gloss": "gomme gape"
+      "gloss": "gomme le"
     },
     {
       "surface": "למחר",
-      "gloss": "ka moso"
+      "gloss": "gomoso"
     },
     {
       "surface": "אני",
-      "gloss": "ke"
+      "gloss": "nna"
     },
     {
       "surface": "קרוא",
-      "gloss": "laleditšwe"
+      "gloss": "ke laleditšwe"
     },
     {
       "surface": "לה",
@@ -121,6 +101,6 @@
       "gloss": "kgoši"
     }
   ],
-  "timestamp": "2026-10-18T05:32:44.106407090Z",
+  "timestamp": "2026-10-18T17:10:17.008446666Z",
   "model": "glm-5.3"
 }

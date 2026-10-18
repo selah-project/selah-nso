@@ -5,40 +5,19 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "שטים",
-      "rationale": "šita (acacia) — modumo wa Seheberu o bolokilwe, e sego 'dikgwa tša Sekeme' tša Wycliffe"
-    },
-    {
-      "kind": "elision",
-      "subject": "העבדה",
-      "rationale": "mošomo wa go šoma — mošomo wa mošomo o ile wa phetelelwa go fetola sebopego sa Seheberu sa construct"
-    }
-  ],
-  "translation": "Mang le mang yo a nameletšago teruma ya silibera le kopara o hlahlela ⟨את⟩ teruma ya Yahwe; gomme motho yo mongwe le yo mongwe yo go hweditšwego le yena dikgwa tša šita bakeng sa mošomo o mongwe le o mongwe wa mošomo — o di hlahlela.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "95d5f8fb97a84904f75390e03bc4393dd7af1492fd7993859ee875751534d2ee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/35\/21-24.1792283272113.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "All ba bangwe bao ba tlodišago sehlabelo sa silibera le tompa ba hlatsoletše ⟨את⟩ sehlabelo sa Yahwe; gomme yo mongwe le yo mongwe yo a hwetšago ⟨את⟩ ka bowena lehlabathung la go sego-la-ditlhaka tša akatsia bakeng sa mošomo wonkana wa tirelo, o se hlatsoletše.",
   "tokens": [
     {
       "surface": "כל",
-      "gloss": "mang le mang"
+      "gloss": "all"
     },
     {
       "surface": "מרים",
-      "gloss": "yo a nameletšago"
+      "gloss": "bao ba tlodišago"
     },
     {
       "surface": "תרומת",
-      "gloss": "teruma ya"
+      "gloss": "sehlabelo sa"
     },
     {
       "surface": "כסף",
@@ -46,20 +25,20 @@
     },
     {
       "surface": "ונחשת",
-      "gloss": "le kopara"
+      "gloss": "gomme tompa"
     },
     {
       "surface": "הביאו",
-      "gloss": "o hlahlela"
+      "gloss": "ba hlatsoletše"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "teruma ya Yahwe"
+      "marks": "sehlabelo sa Yahwe"
     },
     {
       "surface": "תרומת",
-      "gloss": "teruma ya"
+      "gloss": "sehlabelo sa"
     },
     {
       "surface": "יהוה",
@@ -67,7 +46,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "gomme motho yo mongwe le yo mongwe"
+      "gloss": "gomme yo mongwe le yo mongwe"
     },
     {
       "surface": "אשר",
@@ -75,38 +54,37 @@
     },
     {
       "surface": "נמצא",
-      "gloss": "go hweditšwego"
+      "gloss": "a hwetšago"
     },
     {
       "surface": "אתו",
-      "gloss": "le ⟨את⟩ yena",
-      "marks": "dikgwa tša šita — tše di ba le yena"
+      "gloss": "ka bowena ⟨את⟩"
     },
     {
       "surface": "עצי",
-      "gloss": "dikgwa tša"
+      "gloss": "lehlabathung la"
     },
     {
       "surface": "שטים",
-      "gloss": "šita"
+      "gloss": "go sego-la-ditlhaka tša akatsia"
     },
     {
       "surface": "לכל",
-      "gloss": "bakeng sa ka moka"
+      "gloss": "bakeng sa wonkana"
     },
     {
       "surface": "מלאכת",
-      "gloss": "mošomo o mongwe le o mongwe wa"
-    },
-    {
-      "surface": "העבדה",
       "gloss": "mošomo"
     },
     {
+      "surface": "העבדה",
+      "gloss": "wa tirelo"
+    },
+    {
       "surface": "הביאו",
-      "gloss": "o di hlahlela"
+      "gloss": "o se hlatsoletše"
     }
   ],
-  "timestamp": "2026-10-18T00:27:52.115397252Z",
+  "timestamp": "2026-10-18T17:11:58.506631113Z",
   "model": "glm-5.3"
 }

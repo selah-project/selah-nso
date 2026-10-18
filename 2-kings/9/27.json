@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨seo⟩",
-      "rationale": "Seheberu se bolela fela 'a bona' — selo seo a se bonago se okedilwe."
-    },
-    {
-      "kind": "substitution",
-      "subject": "את יבלעם",
-      "rationale": "`את` mo ke 'le\/kgauswi le' (baetapele), e sego montšhi wa selo — Yivleame e lego kgauswi le Gore."
-    }
-  ],
-  "translation": "Gomme Akhazia, kgoši ya Yuda, a bona ⟨seo⟩ gomme a balekela ka tsela ya ntlo ya serapa; gomme Yehu a mo latelela gomme a re: Lona le gape ⟨אתו⟩ — mo kgweditše — ka koloi; go thoma godimo ga Gore, yeo e lego le go Yivleame. Gomme a balekela Megido, gomme a hwa gona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "4331c243e126435067b1215914bd95429227b2d810c04b2907013378c0b29985",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/9\/25-28.1792290649275.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Akazia, kgoši ya Yuda, a bona ⟨se⟩, a tšhaba ka tsela ya ntlo ya serapana; gomme Yehu a mo latela morago, a re: Otlšang gape ⟨את⟩ yena go koloi, go sego godimo ga Gure, yeo e lego lebagana le ⟨את⟩ Yibleame; gomme o tšhaba a ya Megido, a hwala gona.",
   "tokens": [
     {
       "surface": "ואחזיה",
-      "gloss": "Gomme Akhazia"
+      "gloss": "Gomme Akazia"
     },
     {
       "surface": "מלך",
@@ -46,27 +25,27 @@
     },
     {
       "surface": "וינס",
-      "gloss": "a balekela"
+      "gloss": "a tšhaba"
     },
     {
       "surface": "דרך",
-      "gloss": "ka tsela ya"
+      "gloss": "tsela"
     },
     {
       "surface": "בית",
-      "gloss": "ntlo ya"
+      "gloss": "ntlo"
     },
     {
       "surface": "הגן",
-      "gloss": "serapa"
+      "gloss": "ya serapana"
     },
     {
       "surface": "וירדף",
-      "gloss": "a mo latelela"
+      "gloss": "a mo latela"
     },
     {
       "surface": "אחריו",
-      "gloss": "morago ga yena"
+      "gloss": "morago"
     },
     {
       "surface": "יהוא",
@@ -82,16 +61,16 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨אתו⟩",
-      "marks": "mo kgweditše"
+      "gloss": "⟨את⟩",
+      "marks": "yena"
     },
     {
       "surface": "הכהו",
-      "gloss": "mo kgweditše"
+      "gloss": "otlšang"
     },
     {
       "surface": "אל",
-      "gloss": "ka"
+      "gloss": "go"
     },
     {
       "surface": "המרכבה",
@@ -99,11 +78,11 @@
     },
     {
       "surface": "במעלה",
-      "gloss": "go thoma godimo ga"
+      "gloss": "go sego godimo ga"
     },
     {
       "surface": "גור",
-      "gloss": "Gore"
+      "gloss": "Gure"
     },
     {
       "surface": "אשר",
@@ -111,15 +90,16 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ le"
+      "gloss": "⟨את⟩",
+      "marks": "Yibleame"
     },
     {
       "surface": "יבלעם",
-      "gloss": "Yivleame"
+      "gloss": "Yibleame"
     },
     {
       "surface": "וינס",
-      "gloss": "a balekela"
+      "gloss": "a tšhaba"
     },
     {
       "surface": "מגדו",
@@ -127,13 +107,13 @@
     },
     {
       "surface": "וימת",
-      "gloss": "a hwa"
+      "gloss": "a hwala"
     },
     {
       "surface": "שם",
       "gloss": "gona"
     }
   ],
-  "timestamp": "2026-10-18T02:30:49.276622720Z",
+  "timestamp": "2026-10-18T17:04:47.347720548Z",
   "model": "glm-5.3"
 }

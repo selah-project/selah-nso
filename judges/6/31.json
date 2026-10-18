@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "nso",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "Yoashe go banna ba motse",
-      "rationale": "Potsi tše pedi tša go gana di lebeletšwe go bao ba emego kgahlanong le yena"
-    },
-    {
-      "kind": "crux",
-      "subject": "אם אלהים הוא",
-      "rationale": "\"Ge e le Elohim\" — Seheberu se bolela ka botee ga lentšu, e sego \"modimo\" ka kakaretšo; Baale wa boela a tsejwa ka leina"
-    }
-  ],
-  "translation": "Yoashe a re go bohle bao ba emego kgahlanong le yena: Nona le lona le ganetša bakeng sa Baale? Goba le lona le hlwekileta yena? Yo a ganetšago bakeng sa yena o tla bolawa go fihla bosasa. Ge e le Elohim, o tla ipitlhela ganetša kgahlanong le yena, ka gobane o thula ⟨את⟩ aletare ya gagwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "d0adcb922ab45ab191dde79b1c8459dc2bf487bda13f4f7b23d4e5d2d6a30884",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/6\/29-32.1792287304225.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Yoashe a re go bohle bao ba emego kgahlanong le yena: le lona, le lwa molato wa Baale? Le lona, le mo lokolla ⟨את⟩? Yoo a lwago molato wa gagwe, a bolawe go fihla mesong. Ge e ba o le Elohim, a lwe molato wa gagwe ⟨yena ka no⟩, ka gobane o theule ⟨את⟩ aletare ya gagwe.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "Gomme … a re"
     },
     {
       "surface": "יואש",
@@ -54,19 +33,19 @@
     },
     {
       "surface": "האתם",
-      "gloss": "Nona le lona"
+      "gloss": "le lona"
     },
     {
       "surface": "תריבון",
-      "gloss": "le ganetša"
+      "gloss": "le lwa molato"
     },
     {
       "surface": "לבעל",
-      "gloss": "bakeng sa Baale"
+      "gloss": "wa Baale"
     },
     {
       "surface": "אם",
-      "gloss": "Goba"
+      "gloss": "na?"
     },
     {
       "surface": "אתם",
@@ -74,27 +53,28 @@
     },
     {
       "surface": "תושיעון",
-      "gloss": "le hlwekileta"
+      "gloss": "le mo lokolla"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ yena"
+      "gloss": "⟨את⟩",
+      "marks": "gagwe (yena)"
     },
     {
       "surface": "אשר",
-      "gloss": "Yo"
+      "gloss": "yoo"
     },
     {
       "surface": "יריב",
-      "gloss": "a ganetšago"
+      "gloss": "a lwago molato"
     },
     {
       "surface": "לו",
-      "gloss": "bakeng sa yena"
+      "gloss": "wa gagwe"
     },
     {
       "surface": "יומת",
-      "gloss": "o tla bolawa"
+      "gloss": "a bolawe"
     },
     {
       "surface": "עד",
@@ -102,11 +82,11 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "bosasa"
+      "gloss": "mesong"
     },
     {
       "surface": "אם",
-      "gloss": "Ge"
+      "gloss": "ge e ba"
     },
     {
       "surface": "אלהים",
@@ -114,15 +94,15 @@
     },
     {
       "surface": "הוא",
-      "gloss": "e le"
+      "gloss": "o le"
     },
     {
       "surface": "ירב",
-      "gloss": "o tla ipitlhela ganetša"
+      "gloss": "a lwe molato"
     },
     {
       "surface": "לו",
-      "gloss": "kgahlanong le yena"
+      "gloss": "wa gagwe"
     },
     {
       "surface": "כי",
@@ -130,7 +110,7 @@
     },
     {
       "surface": "נתץ",
-      "gloss": "o thula"
+      "gloss": "o theule"
     },
     {
       "surface": "את",
@@ -142,6 +122,6 @@
       "gloss": "aletare ya gagwe"
     }
   ],
-  "timestamp": "2026-10-18T01:35:04.226784650Z",
+  "timestamp": "2026-10-18T17:29:18.497478475Z",
   "model": "glm-5.3"
 }

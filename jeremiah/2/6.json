@@ -5,40 +5,19 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "alternative",
-      "subject": "ערבה",
-      "rationale": "'Desert plain' (mobu o mokoto) — the Aravah valley specifically, or arid steppe generally"
-    },
-    {
-      "kind": "substitution",
-      "subject": "צלמות",
-      "rationale": "Compound 'shade-of-death' rendered sekhutho sa lehu; some read it as intensifier 'deep darkness'"
-    }
-  ],
-  "translation": "Gomme ba se ke ba re: Yahwe o kae, yo a ntšhago ⟨את⟩ re go tšwa lefasing la Mitsrayime, yo a re tisetšago sefeng, lefasing la mobu o mokoto le maripa, lefasing la omilego le sekhutho sa lehu, lefasing leo motho a sa fetlego go sona, gomme motho a sa dulago kona?",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "a04595fcdd32c7fcdaa0f21c0771d3e08e3f15cd167eb6a9f39497d10e0b0e24",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/2\/5-8.1792292702132.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba sa re: O kae Yahwe, yo a re tlolang godimo ⟨את⟩ rena go tšwa lefaseng la Mitsrayime, yo a re taelago ka naganeng, lefaseng la magaga le a mebala, lefaseng le omilego le la lefsifsi la lehu, lefaseng leo motho a sa fago go feta go lona, gomme motho a sa duloego gona?",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "gomme ba se ke"
+      "gloss": "gomme ba sa"
     },
     {
       "surface": "אמרו",
-      "gloss": "ba re"
+      "gloss": "re"
     },
     {
       "surface": "איה",
-      "gloss": "o kae"
+      "gloss": "O kae"
     },
     {
       "surface": "יהוה",
@@ -46,73 +25,73 @@
     },
     {
       "surface": "המעלה",
-      "gloss": "yo a ntšhago"
+      "gloss": "yo a re tlolang godimo"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "re"
+      "marks": "rena"
     },
     {
       "surface": "מארץ",
-      "gloss": "go tšwa lefasing"
+      "gloss": "go tšwa lefaseng"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayime"
+      "gloss": "la Mitsrayime"
     },
     {
       "surface": "המוליך",
-      "gloss": "yo a re tisetšago"
+      "gloss": "yo a re taelago"
     },
     {
       "surface": "אתנו",
       "gloss": "⟨את⟩",
-      "marks": "re"
+      "marks": "rena"
     },
     {
       "surface": "במדבר",
-      "gloss": "sefeng"
+      "gloss": "ka naganeng"
     },
     {
       "surface": "בארץ",
-      "gloss": "lefasing la"
+      "gloss": "lefaseng"
     },
     {
       "surface": "ערבה",
-      "gloss": "mobu o mokoto"
+      "gloss": "la magaga"
     },
     {
       "surface": "ושוחה",
-      "gloss": "gomme maripa"
+      "gloss": "le a mebala"
     },
     {
       "surface": "בארץ",
-      "gloss": "lefasing la"
+      "gloss": "lefaseng"
     },
     {
       "surface": "ציה",
-      "gloss": "omilego"
+      "gloss": "le omilego"
     },
     {
       "surface": "וצלמות",
-      "gloss": "gomme sekhutho sa lehu"
+      "gloss": "le la lefsifsi la lehu"
     },
     {
       "surface": "בארץ",
-      "gloss": "lefasing la"
+      "gloss": "lefaseng"
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "sa"
     },
     {
       "surface": "עבר",
-      "gloss": "a fetla"
+      "gloss": "fago go feta"
     },
     {
       "surface": "בה",
-      "gloss": "go sona"
+      "gloss": "go lona"
     },
     {
       "surface": "איש",
@@ -120,11 +99,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "gomme ga"
+      "gloss": "gomme a sa"
     },
     {
       "surface": "ישב",
-      "gloss": "a dula"
+      "gloss": "duloego"
     },
     {
       "surface": "אדם",
@@ -132,9 +111,9 @@
     },
     {
       "surface": "שם",
-      "gloss": "kona"
+      "gloss": "gona"
     }
   ],
-  "timestamp": "2026-10-18T03:05:02.133725665Z",
+  "timestamp": "2026-10-18T17:21:43.928900197Z",
   "model": "glm-5.3"
 }

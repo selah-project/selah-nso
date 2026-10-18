@@ -5,45 +5,19 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "tsebang ⟨את⟩ Yahwe",
-      "rationale": "Taetso ya boikuelo — lentšu la boetapele leo ba ntle ba le bolelago go batho."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ידעו אותי",
-      "rationale": "Tiriso ya aleph-tav yeo e nago le suffix (אותי) — 'ba tla mptseba ⟨את⟩ nna', motho wa tsebo ke yena nomoro ya konteraka."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ke tla lebala",
-      "rationale": "אסלח ka nnete ke 'go lebala dibe' (sefela sa moperisita) — go Lebanya 'ke tla lefa bobe' ka tlhomo ya sepelelo."
-    }
-  ],
-  "translation": "Gomme ba se ke ba ruta gape, motho ⟨את⟩ mošufi wa gagwe le motho ⟨את⟩ mošwene wa gagwe, ba re: tsebang ⟨את⟩ Yahwe; gobane ba ka moka ba tla mptseba, go tloga go ba ba nnyane go fihla go ba bagolo, go bolela Yahwe; gobane ke tla lebala bobe bja bona, gomme sebe sa bona ga se ka ke sa gopola gape.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "ccf2afa66805eb47ab5c163fc6b1dbb22ee1cf128f43ce729cd702c3cf6f6db8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/31\/33-36.1792293561560.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba ka se sa ruta otle motho ⟨את⟩ mošuwi wa gagwe, le motho ⟨את⟩ mohlatledi wa gagwe, ba re: Tsebang ⟨את⟩ Yahwe; gobane ba tla mpa ba tseba ⟨את⟩ nna ka moka, go tloga go ba ba nnyane go fihla go ba bagolo, go bolela Yahwe; gobane ke tla lebalela melato ya bona, gomme dibe tša bona ga ke tla di gopola otle.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "gomme ba se ke"
+      "gloss": "gomme ba ka se sa"
     },
     {
       "surface": "ילמדו",
-      "gloss": "ba ruta"
+      "gloss": "ruta otle"
     },
     {
       "surface": "עוד",
-      "gloss": "gape"
+      "gloss": "otle"
     },
     {
       "surface": "איש",
@@ -52,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mošufi wa gagwe"
+      "marks": "mošuwi wa gagwe"
     },
     {
       "surface": "רעהו",
-      "gloss": "mošufi wa gagwe"
+      "gloss": "mošuwi wa gagwe"
     },
     {
       "surface": "ואיש",
@@ -65,11 +39,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mošwene wa gagwe"
+      "marks": "mohlatledi wa gagwe"
     },
     {
       "surface": "אחיו",
-      "gloss": "mošwene wa gagwe"
+      "gloss": "mohlatledi wa gagwe"
     },
     {
       "surface": "לאמר",
@@ -77,7 +51,7 @@
     },
     {
       "surface": "דעו",
-      "gloss": "tsebang"
+      "gloss": "Tsebang"
     },
     {
       "surface": "את",
@@ -94,28 +68,27 @@
     },
     {
       "surface": "כולם",
-      "gloss": "ba ka moka"
+      "gloss": "ba moka"
     },
     {
       "surface": "ידעו",
-      "gloss": "ba tla mptseba"
+      "gloss": "ba tla tseba"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩⟨nna⟩",
-      "marks": "nna"
+      "gloss": "⟨את⟩ nna"
     },
     {
       "surface": "למקטנם",
-      "gloss": "go tloga go ba ba nnyane ba bona"
+      "gloss": "go tloga go ba ba nnyane"
     },
     {
       "surface": "ועד",
-      "gloss": "go fihla"
+      "gloss": "go fihla go"
     },
     {
       "surface": "גדולם",
-      "gloss": "go ba bagolo"
+      "gloss": "ba bagolo"
     },
     {
       "surface": "נאם",
@@ -131,29 +104,29 @@
     },
     {
       "surface": "אסלח",
-      "gloss": "ke tla lebala"
+      "gloss": "ke tla lebalela"
     },
     {
       "surface": "לעונם",
-      "gloss": "bobe bja bona"
+      "gloss": "melato ya bona"
     },
     {
       "surface": "ולחטאתם",
-      "gloss": "gomme sebe sa bona"
+      "gloss": "gomme dibe tša bona"
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ga ke tla"
     },
     {
       "surface": "אזכר",
-      "gloss": "ke sa gopola"
+      "gloss": "di gopola"
     },
     {
       "surface": "עוד",
-      "gloss": "gape"
+      "gloss": "otle"
     }
   ],
-  "timestamp": "2026-10-18T03:19:21.562528063Z",
+  "timestamp": "2026-10-18T17:22:44.478072831Z",
   "model": "glm-5.3"
 }

@@ -5,117 +5,102 @@
   "book": "1-kings",
   "lang": "nso",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "הגדול ממני",
-      "rationale": "'Yo mogolo go nna' — Seheberu bolela botona go ya mengwageng (mogologolo), e sego bogolo."
-    }
-  ],
-  "translation": "Kgoši Selomo a araba, a re go mmaagwe: Ke ka eng wena o kgopela ⟨את⟩ Abisage ya Shuneme go Adonija? Kgpela gape bakeng sa gagwe ⟨את⟩ bogosi, ka gobane ke ena mmoona wa ka yo mogolo go feta nna — le gagwe, le Abjatara moperisita, le Joabe morwa Tseruja.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "21c4be3396919679eb8e541edaec6629efa0836db3cdc91ff5bc27dbfd2aea04",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/2\/21-24.1792289570026.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme kgoši Shelomo a araba, a bolela go mmagwe: Gomme ke eng ⟨wena⟩ ⟨את⟩ o kopa ⟨את⟩ Abisaga wa Shuneme go Adonia? O kope gape go yena ⟨את⟩ bogoši, gobane yena ke kgaetšedi ya ka ya go tlwaelega, mogolo go nna — le go yena, le go Ebjatara moperisita, le go Yoabu morwa Tseruja.",
   "tokens": [
     {
       "surface": "ויען",
-      "gloss": "a araba"
+      "gloss": "gomme a araba"
     },
     {
       "surface": "המלך",
-      "gloss": "Kgoši"
+      "gloss": "kgoši"
     },
     {
       "surface": "שלמה",
-      "gloss": "Selomo"
+      "gloss": "Shelomo"
     },
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "a bolela"
     },
     {
       "surface": "לאמו",
-      "gloss": "go mmaagwe"
+      "gloss": "go mmagwe"
     },
     {
       "surface": "ולמה",
-      "gloss": "ke ka eng"
+      "gloss": "gomme ke eng"
     },
     {
       "surface": "את",
-      "gloss": "wena"
+      "gloss": "⟨את⟩",
+      "marks": "wena (še o kopa)"
     },
     {
       "surface": "שאלת",
-      "gloss": "o kgopela"
+      "gloss": "o kopa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Abisage"
+      "marks": "Abisaga wa Shuneme"
     },
     {
       "surface": "אבישג",
-      "gloss": "Abisage"
+      "gloss": "Abisaga"
     },
     {
       "surface": "השנמית",
-      "gloss": "ya Shuneme"
+      "gloss": "wa Shuneme"
     },
     {
       "surface": "לאדניהו",
-      "gloss": "go Adonija"
+      "gloss": "go Adonia"
     },
     {
       "surface": "ושאלי",
-      "gloss": "kgopela gape"
+      "gloss": "o kope gape"
     },
     {
       "surface": "לו",
-      "gloss": "bakeng sa gagwe"
+      "gloss": "go yena"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "bogosi"
+      "marks": "bogoši"
     },
     {
       "surface": "המלוכה",
-      "gloss": "bogosi"
+      "gloss": "bogoši"
     },
     {
       "surface": "כי",
-      "gloss": "ka gobane"
+      "gloss": "gobane"
     },
     {
       "surface": "הוא",
-      "gloss": "ke ena"
+      "gloss": "yena"
     },
     {
       "surface": "אחי",
-      "gloss": "mmoona wa ka"
+      "gloss": "kgaetšedi ya ka"
     },
     {
       "surface": "הגדול",
-      "gloss": "yo mogolo"
+      "gloss": "mogolo"
     },
     {
       "surface": "ממני",
-      "gloss": "go feta nna"
+      "gloss": "go nna"
     },
     {
       "surface": "ולו",
-      "gloss": "le gagwe"
+      "gloss": "le go yena"
     },
     {
       "surface": "ולאביתר",
-      "gloss": "le Abjatara"
+      "gloss": "le go Ebjatara"
     },
     {
       "surface": "הכהן",
@@ -123,7 +108,7 @@
     },
     {
       "surface": "וליואב",
-      "gloss": "le Joabe"
+      "gloss": "le go Yoabu"
     },
     {
       "surface": "בן",
@@ -134,6 +119,6 @@
       "gloss": "Tseruja"
     }
   ],
-  "timestamp": "2026-10-18T02:12:50.027474725Z",
+  "timestamp": "2026-10-18T16:58:51.587482715Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,19 @@
   "book": "ezra",
   "lang": "nso",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mong wa toka",
-      "rationale": "בעל טעם ke sehlogo sa Sepersia — 'mong wa tekanyetšo\/bohlale'; badiphirišwa ba re 'chancellor', 'commander' — mo go loketše go boloka sebopego sa lone."
-    },
-    {
-      "kind": "measurement",
-      "subject": "lengwalo le tee",
-      "rationale": "חדה — 'le tee' — e ela gore ke lengwalo le le tee, e sego dintši."
-    },
-    {
-      "kind": "addition",
-      "subject": ":",
-      "rationale": "כנמא 'bjalo ka se' e tseletša ka mongwalo o tlago — letšwao la kgotso le okeditšwe ka Sepedi."
-    }
-  ],
-  "translation": "Rekhume, mong wa toka, le Shimshayi mongwadi, ba ngwala lengwalo le tee kgahlanong le Yerushalayime, go Artakhšašta kgosi, bjalo ka se:",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "cebcd1c2d5db7c1032d76f990de8f6ba96f03719a9161daae9df580ce415f644",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezra\/4\/5-8.1792302248351.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Rehuma, mong wa taelo, le Shimshayi mongwadi, ba ngwadile ⟨את⟩ lengwalo le tee kgahlanong le Yerushalayime, go Artachshaseta, kgoši, bjalo ka se:",
   "tokens": [
     {
       "surface": "רחום",
-      "gloss": "Rekhume"
+      "gloss": "Rehuma"
     },
     {
       "surface": "בעל",
-      "gloss": "mong wa"
+      "gloss": "mong"
     },
     {
       "surface": "טעם",
-      "gloss": "toka"
+      "gloss": "taelo"
     },
     {
       "surface": "ושמשי",
@@ -55,11 +29,12 @@
     },
     {
       "surface": "כתבו",
-      "gloss": "ba ngwala"
+      "gloss": "ba ngwadile"
     },
     {
       "surface": "אגרה",
-      "gloss": "lengwalo"
+      "gloss": "⟨את⟩ lengwalo",
+      "marks": "lengwalo"
     },
     {
       "surface": "חדה",
@@ -75,17 +50,17 @@
     },
     {
       "surface": "לארתחששתא",
-      "gloss": "go Artakhšašta"
+      "gloss": "go Artachshaseta"
     },
     {
       "surface": "מלכא",
-      "gloss": "kgosi"
+      "gloss": "kgoši"
     },
     {
       "surface": "כנמא",
       "gloss": "bjalo ka se"
     }
   ],
-  "timestamp": "2026-10-18T05:44:08.353043557Z",
+  "timestamp": "2026-10-18T17:16:18.607331659Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "joshua",
   "lang": "nso",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "דבר הטוב \/ דבר הרע",
-      "rationale": "poeletšo ya kgauswi: taba e botse le taba e mpe — sebopego sa go bapetša, se bolokilwego ka 'taba ka moka'"
-    }
-  ],
-  "translation": "Gomme go tla ba bjalo: ka tsela yeo taba ye digolo ka moka, yeo Yahwe Elohim ya lena a e bolelgo a go lona, e tletšego go lona, ka tsela ye tšona Yahwe o tla isa go lena ⟨את⟩ taba ka moka ye mpe, go fihla a le fedisa go tloga lefasing le lebotse le, leo Yahwe Elohim ya lona a go fileng lona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "993bb73692a49117fd80f4e3eaa593096e801a0883966c36e9411b7df3120cfb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/23\/13-16.1792287190356.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme go tla ba bjalo: ge lentšu ka moka la se seng mabapi le lebotse, leo Yahwe Elohim ya lona a le boleletšego go lona, le tlile go lona — bjalo gape Yahwe o tla tliša go lona ⟨את⟩ lentšu ka moka la se seng mabapi le lebe, go fihla a le phumula ⟨את⟩ lena go tšwa godimo ga lefase le lebotse le, leo Yahwe Elohim ya lona a le filego lona.",
   "tokens": [
     {
       "surface": "והיה",
@@ -29,11 +13,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "ka tsela yeo"
+      "gloss": "ge"
     },
     {
       "surface": "בא",
-      "gloss": "e tletšego"
+      "gloss": "le tlile"
     },
     {
       "surface": "עליכם",
@@ -45,19 +29,19 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "taba"
+      "gloss": "lentšu"
     },
     {
       "surface": "הטוב",
-      "gloss": "ye digolo"
+      "gloss": "la se seng mabapi le lebotse"
     },
     {
       "surface": "אשר",
-      "gloss": "yeo"
+      "gloss": "leo"
     },
     {
       "surface": "דבר",
-      "gloss": "a e bolelgo"
+      "gloss": "a le boleletšego"
     },
     {
       "surface": "יהוה",
@@ -69,15 +53,15 @@
     },
     {
       "surface": "אליכם",
-      "gloss": "a go lona"
+      "gloss": "go lona"
     },
     {
       "surface": "כן",
-      "gloss": "ka tsela ye tšona"
+      "gloss": "bjalo gape"
     },
     {
       "surface": "יביא",
-      "gloss": "o tla isa"
+      "gloss": "o tla tliša"
     },
     {
       "surface": "יהוה",
@@ -90,7 +74,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "taba ka moka ye mpe"
+      "marks": "lentšu ka moka la se seng mabapi le lebe"
     },
     {
       "surface": "כל",
@@ -98,11 +82,11 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "taba"
+      "gloss": "lentšu"
     },
     {
       "surface": "הרע",
-      "gloss": "ye mpe"
+      "gloss": "la se seng mabapi le lebe"
     },
     {
       "surface": "עד",
@@ -110,19 +94,20 @@
     },
     {
       "surface": "השמידו",
-      "gloss": "a le fedisa"
+      "gloss": "a le phumula"
     },
     {
       "surface": "אותכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩ lena",
+      "marks": "⟨את⟩ e supa lena — phumulolo e šoma go lona"
     },
     {
       "surface": "מעל",
-      "gloss": "go tloga"
+      "gloss": "go tšwa godimo ga"
     },
     {
       "surface": "האדמה",
-      "gloss": "lefasing"
+      "gloss": "lefase"
     },
     {
       "surface": "הטובה",
@@ -138,7 +123,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "a go file"
+      "gloss": "a le filego"
     },
     {
       "surface": "לכם",
@@ -153,6 +138,6 @@
       "gloss": "Elohim ya lona"
     }
   ],
-  "timestamp": "2026-10-18T01:33:10.358645039Z",
+  "timestamp": "2026-10-18T17:27:06.131253485Z",
   "model": "glm-5.3"
 }

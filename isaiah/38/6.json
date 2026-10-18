@@ -5,32 +5,11 @@
   "book": "isaiah",
   "lang": "nso",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sebatla sa seatla",
-      "rationale": "כף ke sebatla sa seatla (kgetelo ya mošomo), e sego fela 'seatla' — seswantšho sa matla a kgoši."
-    },
-    {
-      "kind": "addition",
-      "subject": "go",
-      "rationale": "Sepedi e nyaka tlhagakano ya go sireletša 'go motse wo'; Seheberu se e hlwekilego se sa e na."
-    }
-  ],
-  "translation": "gomme ke tla go ntšha, le motse wo, go tšwa sebatleng sa seatla sa kgoši ya Ashure, gomme ke tla go sireletša motse wo.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "ed20e3b4376694dfa32e05f5983ecae6384470d32bae31ee0ba86c9c327660b8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/38\/5-8.1792291981608.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mme ke tla go ntšha le ⟨את⟩ motse wo, go tšwa seatleng sa kgoši ya Ashure; gomme ke tla šireletša motse wo.",
   "tokens": [
     {
       "surface": "ומכף",
-      "gloss": "go tšwa sebatleng sa seatla sa"
+      "gloss": "go tšwa seatleng"
     },
     {
       "surface": "מלך",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "gomme ⟨את⟩",
+      "gloss": "le ⟨את⟩",
       "marks": "motse wo"
     },
     {
@@ -59,11 +38,11 @@
     },
     {
       "surface": "וגנותי",
-      "gloss": "gomme ke tla go sireletša"
+      "gloss": "gomme ke tla šireletša"
     },
     {
       "surface": "על",
-      "gloss": "go"
+      "gloss": ""
     },
     {
       "surface": "העיר",
@@ -74,6 +53,6 @@
       "gloss": "wo"
     }
   ],
-  "timestamp": "2026-10-18T02:53:01.609315893Z",
+  "timestamp": "2026-10-18T17:19:22.315326069Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,21 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "go tlatša matoga",
-      "rationale": "מלאת את ידם 'go tlatša matoga' ke modumo wa go beha mošomong, e sego go tlatša ka nnete"
-    },
-    {
-      "kind": "substitution",
-      "subject": "go kgetha",
-      "rationale": "קדש o begwa ka '-kgethwa' go ya ka D2, e sego 'halalela' ya Sesotho"
-    }
-  ],
-  "translation": "Gomme o ba apese ⟨את⟩ Aharone moganedi wa gago, le ⟨את⟩ bana ba gagwe le yena; gomme o ba tloditše ka mafura, gomme o tlatše ⟨את⟩ matogo a bona, gomme o ba kgethe, gore ba šome nna bjalo ka baperisita.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "1b12633f3b93c5e06ea52bb0623447b77a1a5292a2c5f0a557da790b396de6d0",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/28\/41-43.1792283107187.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme o di apese ⟨את⟩ Aharone mookaetša wa gago, le ⟨את⟩ bana ba gagwe ⟨את⟩ yena; gomme wa tloditše ⟨את⟩ ba bole, gomme wa tlatše ⟨את⟩ diatla tša bona, gomme wa kgethwe-phetše ⟨את⟩ ba bole, gore ba šomele ⟨את⟩ nnete go nna ba ka nna moperisita.",
   "tokens": [
     {
       "surface": "והלבשת",
-      "gloss": "gomme o ba apese"
+      "gloss": "gomme o di apese"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ba"
+      "gloss": "⟨את⟩",
+      "marks": "diaparo tšeo — Aharone le bana ba gagwe"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aharone moganedi wa gago"
+      "marks": "Aharone"
     },
     {
       "surface": "אהרן",
@@ -47,7 +27,7 @@
     },
     {
       "surface": "אחיך",
-      "gloss": "moganedi wa gago"
+      "gloss": "mookaetša wa gago"
     },
     {
       "surface": "ואת",
@@ -59,46 +39,48 @@
     },
     {
       "surface": "אתו",
-      "gloss": "le ⟨את⟩ yena"
+      "gloss": "⟨את⟩ yena"
     },
     {
       "surface": "ומשחת",
-      "gloss": "gomme o ba tloditše ka mafura"
+      "gloss": "gomme wa tloditše"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ba"
+      "gloss": "⟨את⟩",
+      "marks": "ba bole — Aharone le bana ba gagwe"
     },
     {
       "surface": "ומלאת",
-      "gloss": "gomme o tlatše"
+      "gloss": "gomme wa tlatše"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "matogo a bona"
+      "marks": "diatla tša bona"
     },
     {
       "surface": "ידם",
-      "gloss": "matogo a bona"
+      "gloss": "diatla tša bona"
     },
     {
       "surface": "וקדשת",
-      "gloss": "gomme o ba kgethe"
+      "gloss": "gomme wa kgethwa-phetše"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ba"
+      "gloss": "⟨את⟩",
+      "marks": "ba bole"
     },
     {
       "surface": "וכהנו",
-      "gloss": "ba šome bjalo ka baperisita"
+      "gloss": "go ba moperisita"
     },
     {
       "surface": "לי",
-      "gloss": "nna"
+      "gloss": "go nna"
     }
   ],
-  "timestamp": "2026-10-18T00:25:07.188348642Z",
+  "timestamp": "2026-10-18T17:12:17.692421603Z",
   "model": "glm-5.3"
 }

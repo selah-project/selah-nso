@@ -5,64 +5,39 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 34,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "היד החזקה",
-      "rationale": "'matla a magolo': sebopego sa Seheberu 'letsogo la maatla' — seswantšho sa maatla"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וּלְכֹל",
-      "rationale": "boelelo bja לכל bja tšatši le tšatši bja 34:11 le 34:12 bo hlagisa sebopego sa bohlahlami"
-    }
-  ],
-  "translation": "le go matla a magolo ohle le go tsogo mabapi ohle bogolo tšeo Moshe a di dirilego pele ga mahlo a Yisraele ka moka.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "0db6e1526da7621f66aa2c649e33a57a1fae8f6a7fd768fcfdd7abb1c6fdec8f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/34\/9-12.1792286513053.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "gomme go seatla se se matla ka moka, le go letšhogo le legolo ka moka, seo Moshe a se dirilego mahlong a Yisraele ka moka.",
   "tokens": [
     {
       "surface": "ולכל",
-      "gloss": "le go ohle"
+      "gloss": "gomme go … ka moka"
     },
     {
       "surface": "היד",
-      "gloss": "matla a magolo"
+      "gloss": "seatla"
     },
     {
       "surface": "החזקה",
-      "gloss": "a matla"
+      "gloss": "se se matla"
     },
     {
-      "surface": "ו",
-      "gloss": "le"
-    },
-    {
-      "surface": "לכל",
-      "gloss": "go ka moka"
+      "surface": "ולכל",
+      "gloss": "le go … ka moka"
     },
     {
       "surface": "המורא",
-      "gloss": "tsogo mabapi"
+      "gloss": "letšhogo"
     },
     {
       "surface": "הגדול",
-      "gloss": "bogolo"
+      "gloss": "le legolo"
     },
     {
       "surface": "אשר",
-      "gloss": "tšeo"
+      "gloss": "seo"
     },
     {
       "surface": "עשה",
-      "gloss": "a di dirilego"
+      "gloss": "a se dirilego"
     },
     {
       "surface": "משה",
@@ -70,7 +45,7 @@
     },
     {
       "surface": "לעיני",
-      "gloss": "pele ga mahlo a"
+      "gloss": "mahlong a"
     },
     {
       "surface": "כל",
@@ -81,6 +56,6 @@
       "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-18T01:21:53.054416090Z",
+  "timestamp": "2026-10-18T17:09:13.233755789Z",
   "model": "glm-5.3"
 }

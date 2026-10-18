@@ -5,32 +5,11 @@
   "book": "2-chronicles",
   "lang": "nso",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "עם אבתיו",
-      "rationale": "Seheberu: 'go robala le bo-ntate ba gagwe' — go bolela go hwetša lehu; phetolelo ya go swanela."
-    },
-    {
-      "kind": "substitution",
-      "subject": "toropo",
-      "rationale": "עיר e bolela 'toropo' eupša mo e bolela 'motsana wa bogoši' — motsesetoro wa Jerushalayime."
-    }
-  ],
-  "translation": "Gomme Yotame a robala le bo-ntate ⟨את⟩ wa gona, gomme ba mo pula toropong ya Dafida; gomme morwa wa gabela Akhaze a bwetša bogoši legatong la gabela.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "c0596e85389d731eb06d1b80e8db9d05356f14f270e8bf5c891aac288847f3b5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/27\/9-9.1792304097302.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Yotame a robala le bo-ntate wa gomme ba ⟨את⟩ mo laela ka mokgoro wa Dafida; gomme morwa wa gage Akaze a bola ka fase ga gagwe.",
   "tokens": [
     {
       "surface": "וישכב",
-      "gloss": "a robala"
+      "gloss": "gomme a robala"
     },
     {
       "surface": "יותם",
@@ -42,42 +21,42 @@
     },
     {
       "surface": "אבתיו",
-      "gloss": "bo-ntate ⟨את⟩ wa gabela"
+      "gloss": "bo-ntate wa gomme"
     },
     {
       "surface": "ויקברו",
-      "gloss": "gomme ba mo pula"
+      "gloss": "gomme ba laela"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "mo (Yotame)"
+      "gloss": "⟨את⟩ mo",
+      "marks": "mokgoro wa Dafida"
     },
     {
       "surface": "בעיר",
-      "gloss": "toropong"
+      "gloss": "ka mokgoro"
     },
     {
       "surface": "דויד",
-      "gloss": "Dafida"
+      "gloss": "wa Dafida"
     },
     {
       "surface": "וימלך",
-      "gloss": "gomme ... a bwetša bogoši"
+      "gloss": "gomme a bola"
     },
     {
       "surface": "אחז",
-      "gloss": "Akhaze"
+      "gloss": "Akaze"
     },
     {
       "surface": "בנו",
-      "gloss": "morwa wa gabela"
+      "gloss": "morwa wa gage"
     },
     {
       "surface": "תחתיו",
-      "gloss": "legatong la gabela"
+      "gloss": "ka fase ga gagwe"
     }
   ],
-  "timestamp": "2026-10-18T06:14:57.303739375Z",
+  "timestamp": "2026-10-18T17:01:58.280677639Z",
   "model": "glm-5.3"
 }

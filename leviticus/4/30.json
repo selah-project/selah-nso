@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "<ea>",
-      "rationale": "Sepedi e nyaka lentšu la go bolela karolo ya madi — Seheberu se re מן fela"
-    },
-    {
-      "kind": "substitution",
-      "subject": "motheo",
-      "rationale": "יסוד ke motheo; ditlhahuiso tše dingwe di re 'motheong wa' — lentšu le tee"
-    }
-  ],
-  "translation": "Moperisita a be a tsea <ea> madi a yona ka monwana wa gagwe, a bea hodimo ga dinaka tša aletare ya sefišwa, gomme ⟨את⟩ madi a yona ka moka a latlhele motheong wa aletare.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "1f05f5a6c05331690d58bdfacebbe2c0f90bbf59622d893c37155537fa32ebd9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/4\/29-32.1792283654960.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme moperisita o tla tšea go tšwa mading a yona ka mongatolo wa gagwe, a bea godimo ga dinaka tša aletare ya sebegwа sa go fišwa, gomme ⟨את⟩ madi a yona ka moka o tla a thulula go ya motheong wa aletare.",
   "tokens": [
     {
       "surface": "ולקח",
-      "gloss": "a be a tsea"
+      "gloss": "gomme o tla tšea"
     },
     {
       "surface": "הכהן",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "מדמה",
-      "gloss": "<ea> madi a yona"
+      "gloss": "go tšwa mading a yona"
     },
     {
       "surface": "באצבעו",
-      "gloss": "ka monwana wa gagwe"
+      "gloss": "ka mongatolo wa gagwe"
     },
     {
       "surface": "ונתן",
-      "gloss": "a bea"
+      "gloss": "gomme a bea"
     },
     {
       "surface": "על",
-      "gloss": "hodimo ga"
+      "gloss": "godimo ga"
     },
     {
       "surface": "קרנת",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "מזבח",
-      "gloss": "aletare"
+      "gloss": "aletare ya"
     },
     {
       "surface": "העלה",
-      "gloss": "ya sefišwa"
+      "gloss": "sebego sa go fišwa"
     },
     {
       "surface": "ואת",
-      "gloss": "gomme ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "madi a yona ka moka"
     },
     {
@@ -79,11 +58,11 @@
     },
     {
       "surface": "ישפך",
-      "gloss": "a latlhele"
+      "gloss": "o tla a thulula"
     },
     {
       "surface": "אל",
-      "gloss": "mo"
+      "gloss": "go ya"
     },
     {
       "surface": "יסוד",
@@ -94,6 +73,6 @@
       "gloss": "aletare"
     }
   ],
-  "timestamp": "2026-10-18T00:34:14.961786692Z",
+  "timestamp": "2026-10-18T17:31:57.591294004Z",
   "model": "glm-5.3"
 }

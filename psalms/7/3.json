@@ -5,36 +5,15 @@
   "book": "psalms",
   "lang": "nso",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "moya wa ka",
-      "rationale": "נפש e atametšego go modumo wa botsogo\/mogolo wa ka, e sego moea fela"
-    },
-    {
-      "kind": "elision",
-      "subject": "פן",
-      "rationale": "Konokono ya 'gore a se ke a' e hlatlamile lentšu la Sesotho le le rego 'fela'"
-    }
-  ],
-  "translation": "Gore a se ke a kgwatha moya wa ka bjalo ka tau, a o robagatša, ge go se na yo a lokolosago.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "121a5ee6b14bbeec86d2ab3a3588a24a266e59ffbd56b802907984948cff1406",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/7\/1-4.1792297133108.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gore a se ke a rakgantšha bophelo bja ka bjalo ka tau, a se kgaogantše, gomme go se na ⟨yo⟩ wa go ntšha.",
   "tokens": [
     {
       "surface": "פן",
-      "gloss": "gore a se ke a"
+      "gloss": "gore a se ke"
     },
     {
       "surface": "יטרף",
-      "gloss": "kgwatha"
+      "gloss": "a rakgantšha"
     },
     {
       "surface": "כאריה",
@@ -42,25 +21,21 @@
     },
     {
       "surface": "נפשי",
-      "gloss": "moya wa ka"
+      "gloss": "bophelo bja ka"
     },
     {
       "surface": "פרק",
-      "gloss": "a o robagatša"
+      "gloss": "a se kgaogantše"
     },
     {
-      "surface": "ו",
-      "gloss": ""
-    },
-    {
-      "surface": "אין",
-      "gloss": "go se na"
+      "surface": "ואין",
+      "gloss": "gomme go se na"
     },
     {
       "surface": "מציל",
-      "gloss": "yo a lokolosago"
+      "gloss": "wa go ntšha"
     }
   ],
-  "timestamp": "2026-10-18T04:18:53.109464933Z",
+  "timestamp": "2026-10-18T17:40:20.663124651Z",
   "model": "glm-5.3"
 }

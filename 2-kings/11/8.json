@@ -5,47 +5,15 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "את",
-      "rationale": "Mo lefelong le את ke elisi, e sego pontšo ya selo: 'go ba le kgoši' — ka fao ga e ngwalwe ka ⟨את⟩."
-    },
-    {
-      "kind": "hapax",
-      "subject": "השדרות",
-      "rationale": "Lentšu le hlaga mono fela; le bolela methalo ya masole goba mabitla a dikamore — diphetolelo di fapana ('ranks', 'ranges', 'porches')."
-    },
-    {
-      "kind": "elision",
-      "subject": "על",
-      "gloss-note": "elisi bakeng sa go pheta-pheta ga 'go dikologa kgoši'",
-      "rationale": "על e setse ka gare ga 'dikologa kgoši', e sego ya fetošwa ka lentšu le tee."
-    },
-    {
-      "kind": "you",
-      "subject": "go masole",
-      "rationale": "Taelo ye e newa masoleng a Yehoyada, ka motheo wa ge kgoši a tšwa le ge a tsena."
-    }
-  ],
-  "translation": "gomme le tla dikologa kgoši ka go dikologa, mang le mang ka dibetta tša gagwe dijatlng; yoo a tsenago go methalo, a bolawe; gomme le ka ba le kgoši ge a tšwa le ge a tsena.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "098ecdd1aeadeb978df1622597a1639f8b85f034d8dfc876a958172ab2cf4a62",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/11\/5-8.1792290703032.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme le ka dikologa ka kgoši ka mo dikologile, motho yo mongwe le yo mongwe o na le didiriswa tša gagwe tša go lwa seatleng sa gagwe; gomme yo a tsenago go methalo ya sesole, a bolawe; gomme le dule le ⟨את⟩ kgoši ge a tšwa le ge a tsena.",
   "tokens": [
     {
       "surface": "והקפתם",
-      "gloss": "gomme le tla dikologa"
+      "gloss": "gomme le ka dikologa"
     },
     {
       "surface": "על",
-      "gloss": ""
+      "gloss": "ka"
     },
     {
       "surface": "המלך",
@@ -53,23 +21,23 @@
     },
     {
       "surface": "סביב",
-      "gloss": "ka go dikologa"
+      "gloss": "ka mo dikologile"
     },
     {
       "surface": "איש",
-      "gloss": "mang le mang"
+      "gloss": "motho yo mongwe le yo mongwe"
     },
     {
       "surface": "וכליו",
-      "gloss": "ka dibetta tša gagwe"
+      "gloss": "le didiriswa tša gagwe tša go lwa"
     },
     {
       "surface": "בידו",
-      "gloss": "dijatlng"
+      "gloss": "seatleng sa gagwe"
     },
     {
       "surface": "והבא",
-      "gloss": "yoo a tsenago"
+      "gloss": "gomme yo a tsenago"
     },
     {
       "surface": "אל",
@@ -77,7 +45,7 @@
     },
     {
       "surface": "השדרות",
-      "gloss": "methalo"
+      "gloss": "methalo ya sesole"
     },
     {
       "surface": "יומת",
@@ -85,15 +53,16 @@
     },
     {
       "surface": "והיו",
-      "gloss": "gomme le ka ba"
+      "gloss": "gomme le dule"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩ le"
+      "gloss": "⟨את⟩",
+      "marks": "kgoši"
     },
     {
       "surface": "המלך",
-      "gloss": "kgoši"
+      "gloss": "le kgoši"
     },
     {
       "surface": "בצאתו",
@@ -104,6 +73,6 @@
       "gloss": "le ge a tsena"
     }
   ],
-  "timestamp": "2026-10-18T02:31:43.034170611Z",
+  "timestamp": "2026-10-18T17:02:56.868836013Z",
   "model": "glm-5.3"
 }

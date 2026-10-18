@@ -5,50 +5,19 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עזבתם\/תעבדו",
-      "rationale": "sepokodi sa kalogo: 'go tlogela' go arogana le 'go šoma' fela ka mokgwa wo o šomiswago ka o mongwe — kahlolo e swana le sebe ka bohuta"
-    },
-    {
-      "kind": "alternative",
-      "subject": "תעבדו זרים",
-      "rationale": "'le tla šoma bafalodi' goba 'le tla dirwa mahlanwana a bafalodi' — both allowed readings of עבד"
-    },
-    {
-      "kind": "elision",
-      "subject": "medimo",
-      "rationale": "'medimo ya ditšhaba tše dingwe' for אלהי נכר — lowercase per D1 for foreign gods"
-    },
-    {
-      "kind": "you",
-      "subject": "to Israel",
-      "rationale": "potšišo ya setšhaba le karabo ya profeta — poledišano e tlwaelegilego"
-    }
-  ],
-  "translation": "Gomme go tla ba gomme ge le ka re: Ka baka la eng Yahwe Elohim wa rena o dirile ⟨את⟩ tše kaotše rena? o tla ba re go bona: Bjalo ka ge le ntshitše nna, gomme le šomitše medimo ya ditšhaba tše dingwe lefaseng la lena, le ka šomiswa bafalodi lefaseng leo e sego la lena.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "09047a980c5e0ef1a4dce9a51a4367c9ef280b558364842e09168b513c100499",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/5\/17-20.1792292851539.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme go tla ba gore ge le re: Ka baka la eng Yahwe Elohim ya rena a direla rena ⟨את⟩ tšohle tše? O tla re go bona: Bjalo ka ge la ntlologela ⟨את⟩ na gomme la šoma medimo ya sego ya kgauswi lefaseng la lona, le ka mo go swanago le tla šoma bajaki lefaseng leo e sego la lena.",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "gomme go tla ba gomme"
+      "gloss": "Gomme go tla ba"
     },
     {
       "surface": "כי",
-      "gloss": "ge"
+      "gloss": "gore"
     },
     {
       "surface": "תאמרו",
-      "gloss": "le ka re"
+      "gloss": "le re"
     },
     {
       "surface": "תחת",
@@ -60,7 +29,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "o dirile"
+      "gloss": "a dire"
     },
     {
       "surface": "יהוה",
@@ -68,7 +37,7 @@
     },
     {
       "surface": "אלהינו",
-      "gloss": "Elohim wa rena"
+      "gloss": "Elohim ya rena"
     },
     {
       "surface": "לנו",
@@ -77,11 +46,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tše kaotše"
+      "marks": "tšohle tše"
     },
     {
       "surface": "כל",
-      "gloss": "kaotše"
+      "gloss": "tšohle"
     },
     {
       "surface": "אלה",
@@ -89,7 +58,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "o tla re"
+      "gloss": "gomme o tla re"
     },
     {
       "surface": "אליהם",
@@ -101,16 +70,16 @@
     },
     {
       "surface": "עזבתם",
-      "gloss": "le ntshitše"
+      "gloss": "la ntlologela"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ nna",
-      "marks": "nna"
+      "gloss": "⟨את⟩ na",
+      "marks": "la ntlologela"
     },
     {
       "surface": "ותעבדו",
-      "gloss": "le šomitše"
+      "gloss": "la šoma"
     },
     {
       "surface": "אלהי",
@@ -118,23 +87,23 @@
     },
     {
       "surface": "נכר",
-      "gloss": "ditšhaba tše dingwe"
+      "gloss": "sego ya kgauswi"
     },
     {
       "surface": "בארצכם",
-      "gloss": "lefaseng la lena"
+      "gloss": "lefaseng la lona"
     },
     {
       "surface": "כן",
-      "gloss": "le ka"
+      "gloss": "le ka mo go swanago"
     },
     {
       "surface": "תעבדו",
-      "gloss": "šomiswa"
+      "gloss": "le tla šoma"
     },
     {
       "surface": "זרים",
-      "gloss": "bafalodi"
+      "gloss": "bajaki"
     },
     {
       "surface": "בארץ",
@@ -149,6 +118,6 @@
       "gloss": "la lena"
     }
   ],
-  "timestamp": "2026-10-18T03:07:31.540675242Z",
+  "timestamp": "2026-10-18T17:24:34.368697823Z",
   "model": "glm-5.3"
 }

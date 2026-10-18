@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ba mo kgetha",
-      "rationale": "קדשו ke go kgethwa go ya ka D2 — 'sanctified' ya ditiragalo tša kgale e fetotšwe go kgethwa."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויבאו\/ויביאו",
-      "rationale": "go boa ga le go isa ga lentšu le tee (בוא) ka mo go liparologo — se se laela go tsena le go ntšha ga araka."
-    }
-  ],
-  "translation": "Gomme banna ba Kirjath-Yearime ba tla, ba tseletša ⟨את⟩ araka ya Yahwe, gomme ba e isa ntlong ya Abinadabe go Gabhea; gomme ⟨את⟩ Elazara mora wa gabo ba mo kgetha gore a hlokomela ⟨את⟩ araka ya Yahwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "82bf4cc362d47d076227c6d60fb60d9f18f9d866641eab4f0559b09e12a3bce9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/7\/1-4.1792288001727.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme banna ba Kiriyath-Yearime ba tla, ba ise ⟨את⟩ arona ya Yahwe godimo, ba e tlisa go ya ntlong ya Abinadabe go Thabeng, gomme ⟨את⟩ Elazare mora wa yena ba mo kgethwa go hlokomela ⟨את⟩ arona ya Yahwe.",
   "tokens": [
     {
       "surface": "ויבאו",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "קרית",
-      "gloss": "Kirjath-"
+      "gloss": "Kiriyath-"
     },
     {
       "surface": "יערים",
@@ -46,16 +25,16 @@
     },
     {
       "surface": "ויעלו",
-      "gloss": "ba tseletša"
+      "gloss": "ba ise godimo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "araka"
+      "marks": "arona ya Yahwe"
     },
     {
       "surface": "ארון",
-      "gloss": "araka"
+      "gloss": "arona"
     },
     {
       "surface": "יהוה",
@@ -63,20 +42,20 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "ba isa"
+      "gloss": "ba e tlisa"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ ⟨e⟩",
-      "marks": "go ntlo ya Abinadabe"
+      "gloss": "⟨את⟩ o",
+      "marks": "arona (go ya)"
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "go ya"
     },
     {
       "surface": "בית",
-      "gloss": "ntlo ya"
+      "gloss": "ntlong ya"
     },
     {
       "surface": "אבינדב",
@@ -84,24 +63,23 @@
     },
     {
       "surface": "בגבעה",
-      "gloss": "go Gabhea"
+      "gloss": "go Thabeng"
     },
     {
-      "surface": "ואת",
-      "gloss": "gomme ⟨את⟩",
-      "marks": "Elazara"
+      "surface": "ו את",
+      "gloss": "gomme ⟨את⟩"
     },
     {
       "surface": "אלעזר",
-      "gloss": "Elazara"
+      "gloss": "Elazare"
     },
     {
       "surface": "בנו",
-      "gloss": "mora wa gabo"
+      "gloss": "mora wa yena"
     },
     {
       "surface": "קדשו",
-      "gloss": "ba mo kgetha"
+      "gloss": "ba mo kgethwa"
     },
     {
       "surface": "לשמר",
@@ -110,17 +88,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "araka"
+      "marks": "arona ya Yahwe"
     },
     {
       "surface": "ארון",
-      "gloss": "araka"
+      "gloss": "arona"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T01:46:41.728695403Z",
+  "timestamp": "2026-10-18T17:01:17.694662124Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "האבות",
-      "rationale": "'balaodi ba meya' bakeng sa האוב — lentšu le bolela mmulele wa sebakana, motho ya agolang moya wa mo hwetšego"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ובעירו",
-      "rationale": "'le toropong ya gagwe' goba 'le motse wa gagwe' — עיר e ka bolela toropo goba motse"
-    }
-  ],
-  "translation": "Gomme Samuele a hwetša, gomme Yisraele ka moka ba mo lla, ba mokgetha ka Rama, le toropong ya gagwe. Gomme Shaule a ntšha balaodi ba meya le ⟨את⟩ bao ba nago le tsebo ya tse la thoko, go tšwa lefaseng.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "01b4ed8b808cd60963a2e881c7445ab5371f86cc1f2f6a8af384f184e9c2c419",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/28\/1-4.1792288730708.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Shemuele a hwa, gomme Yisraele ka moka ba mo llela, ba mo pata go Rama, toropong ya gagwe; gomme Saule a ntšha ⟨את⟩ ba-agora le ⟨את⟩ baditsebi ba meya go lefaseng.",
   "tokens": [
     {
       "surface": "ושמואל",
-      "gloss": "Gomme Samuele"
+      "gloss": "Gomme Shemuele"
     },
     {
       "surface": "מת",
-      "gloss": "a hwetša"
+      "gloss": "a hwa"
     },
     {
       "surface": "ויספדו",
-      "gloss": "ba mo lla"
+      "gloss": "ba mo llela"
     },
     {
       "surface": "לו",
@@ -54,19 +33,19 @@
     },
     {
       "surface": "ויקברהו",
-      "gloss": "ba mokgetha"
+      "gloss": "ba mo pata"
     },
     {
       "surface": "ברמה",
-      "gloss": "ka Rama"
+      "gloss": "go Rama"
     },
     {
       "surface": "ובעירו",
-      "gloss": "le toropong ya gagwe"
+      "gloss": "toropong ya gagwe"
     },
     {
       "surface": "ושאול",
-      "gloss": "Gomme Shaule"
+      "gloss": "gomme Saule"
     },
     {
       "surface": "הסיר",
@@ -74,22 +53,22 @@
     },
     {
       "surface": "האבות",
-      "gloss": "balaodi ba meya"
+      "gloss": "ba-agora"
     },
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "bao ba nago le tsebo ya tse la thoko"
+      "marks": "baditsebi ba meya"
     },
     {
       "surface": "הידענים",
-      "gloss": "bao ba nago le tsebo ya tse la thoko"
+      "gloss": "baditsebi ba meya"
     },
     {
       "surface": "מהארץ",
-      "gloss": "go tšwa lefaseng"
+      "gloss": "go lefaseng"
     }
   ],
-  "timestamp": "2026-10-18T01:58:50.709627519Z",
+  "timestamp": "2026-10-18T17:40:04.318431152Z",
   "model": "glm-5.3"
 }

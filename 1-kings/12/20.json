@@ -5,36 +5,15 @@
   "book": "1-kings",
   "lang": "nso",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sešika",
-      "rationale": "שבט ke sešika \/ molamo wa kgoši — e sego 'morafe' feela"
-    },
-    {
-      "kind": "substitution",
-      "subject": "sela sa sela",
-      "rationale": "לבדו 'o nosi feela' — geparetša ge lentšu le bolela motho, ka mo go sego motho la go nepiša sešika"
-    }
-  ],
-  "translation": "E be go thwe, ge Yisraela ka moka e utlwile gore Yeroboame o boetše, ba romela, ba mmiletša go ya setšhabeng, ba mo hloma kašiké go busa Yisraela ka moka; go sego pelaelo gore ga go ya latelago ntlo ya Dafida, ntle feela ka sešika sa Yehuda, sela sa sela.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "ebce0a2364cf3acde976d87e5d97a61fc1a27c9c85125086c5746248017ffc35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/12\/17-20.1792289978642.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Go bile ge Yisraele ka moka e kwele gore Yeroboam o boile, ba romile gomme ba bitša ⟨את⟩ yena go phuthego, gomme ba mo dira kgoši godimo ga Yisraele ka moka; go se be yo a latelago Ntlo ya Dafida, ntle le selete sa Yehuda fela.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "E be go thwe"
+      "gloss": "Go bile"
     },
     {
       "surface": "כשמע",
-      "gloss": "ge e utlwile"
+      "gloss": "ge e kwele"
     },
     {
       "surface": "כל",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraela"
+      "gloss": "Yisraele"
     },
     {
       "surface": "כי",
@@ -50,43 +29,45 @@
     },
     {
       "surface": "שב",
-      "gloss": "o boetše"
+      "gloss": "o boile"
     },
     {
       "surface": "ירבעם",
-      "gloss": "Yeroboame"
+      "gloss": "Yeroboam"
     },
     {
       "surface": "וישלחו",
-      "gloss": "ba romela"
+      "gloss": "ba romile"
     },
     {
       "surface": "ויקראו",
-      "gloss": "ba mmiletša"
+      "gloss": "ba bitša"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "yena"
     },
     {
       "surface": "אל",
-      "gloss": "go ya"
+      "gloss": "go"
     },
     {
       "surface": "העדה",
-      "gloss": "setšhabeng"
+      "gloss": "phuthego"
     },
     {
       "surface": "וימליכו",
-      "gloss": "ba mo hloma kašiké go busa"
+      "gloss": "ba mo dira kgoši"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "yena"
     },
     {
       "surface": "על",
-      "gloss": "go busa"
+      "gloss": "godimo ga"
     },
     {
       "surface": "כל",
@@ -94,23 +75,23 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraela"
+      "gloss": "Yisraele"
     },
     {
       "surface": "לא",
-      "gloss": "go sego pelaelo"
+      "gloss": "go se"
     },
     {
       "surface": "היה",
-      "gloss": "—"
+      "gloss": "be"
     },
     {
       "surface": "אחרי",
-      "gloss": "ya latelago"
+      "gloss": "yo a latelago"
     },
     {
       "surface": "בית",
-      "gloss": "ntlo ya"
+      "gloss": "Ntlo"
     },
     {
       "surface": "דוד",
@@ -118,11 +99,11 @@
     },
     {
       "surface": "זולתי",
-      "gloss": "ntle feela ka"
+      "gloss": "ntle le"
     },
     {
       "surface": "שבט",
-      "gloss": "sešika sa"
+      "gloss": "selete"
     },
     {
       "surface": "יהודה",
@@ -130,9 +111,9 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "sela sa sela"
+      "gloss": "fela"
     }
   ],
-  "timestamp": "2026-10-18T02:19:38.643914664Z",
+  "timestamp": "2026-10-18T16:58:34.311817494Z",
   "model": "glm-5.3"
 }

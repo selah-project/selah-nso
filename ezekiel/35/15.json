@@ -5,53 +5,27 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "נחלה",
-      "rationale": "'boswa bja tlhago' — Seherebero ke sengwe se motho a se amogelago ka boswa, se se sa swanego le thefi"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ke⟩",
-      "rationale": "Seherebero ga se na sebopego sa 'ke' — se tlametšwe ke mašaledi a Seherebero"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שממה",
-      "rationale": "petšego ya 'go tlošwa ga selo' dikoneleng tše pedi — phetolelo e boloka go diša ga lentšu"
-    }
-  ],
-  "translation": "Bjalo ka ge o ile wa ikgantšha ka nako ya go tlošwa ga selo ga boswa bja tlhago bja ntlo ya Yisraele, go swana le bjalo ke tla go dira go wena; go tlošwa ga selo o tla ba o le gona, thabeng ya Seire, le Edome ka moka ka boŠelearo; gomme ba tla tseba gore nna ke <Yahwe>.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "58bdb8b9e6c6602cbe353bf0cd3a4d48a405a819aa45bccfb3eadee6ea54179f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/35\/13-15.1792295441439.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bjalo ka ge o be o thaba ka ngwao ya ntlo ya Yisraele ka gobane e be e le diso, go swana le bjalo ke tla go dira: diso ke e tla ba gona, thabeng ya Seire, le Edome ka moka — wona moka; gomme ba tla tseba gore ke nna Yahwe.",
   "tokens": [
     {
       "surface": "כשמחתך",
-      "gloss": "Bjalo ka ge o ile wa ikgantšha"
+      "gloss": "bjalo ka ge o be o thaba"
     },
     {
       "surface": "לנחלת",
-      "gloss": "ka nako ya boswa bja tlhago"
+      "gloss": "ka ngwao ya"
     },
     {
       "surface": "בית",
-      "gloss": "bja ntlo"
+      "gloss": "ntlo ya"
     },
     {
       "surface": "ישראל",
-      "gloss": "ya Yisraele"
+      "gloss": "Yisraele"
     },
     {
       "surface": "על",
-      "gloss": "ka nako ya"
+      "gloss": "ka gobane"
     },
     {
       "surface": "אשר",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "שממה",
-      "gloss": "go tlošwa ga selo"
+      "gloss": "e be e le diso"
     },
     {
       "surface": "כן",
@@ -71,15 +45,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "go wena"
+      "gloss": "go"
     },
     {
       "surface": "שממה",
-      "gloss": "go tlošwa ga selo"
+      "gloss": "diso"
     },
     {
       "surface": "תהיה",
-      "gloss": "o tla ba o le gona"
+      "gloss": "ke e tla ba gona"
     },
     {
       "surface": "הר",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "כלה",
-      "gloss": "ka moka ka boŠelearo"
+      "gloss": "ka moka — wona moka"
     },
     {
       "surface": "וידעו",
@@ -111,13 +85,13 @@
     },
     {
       "surface": "אני",
-      "gloss": "nna"
+      "gloss": "ke nna"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T03:50:41.441131838Z",
+  "timestamp": "2026-10-18T17:39:55.755821905Z",
   "model": "glm-5.3"
 }

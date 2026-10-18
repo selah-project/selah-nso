@@ -5,37 +5,11 @@
   "book": "hosea",
   "lang": "nso",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתם",
-      "rationale": "Aleph-tav ya go hlalosa sebopego se hetlaša; e bolokilwe bjalo ka ⟨אתם⟩, Sepedi ga se nyake lentšu leo."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אלכה ואשובה",
-      "rationale": "Go sepela le go boela — kutu ya šhugo ya go boela go Yahwe e bontšhitšwe ka go boela go monna wa pele."
-    },
-    {
-      "kind": "substitution",
-      "subject": "monna wa pele",
-      "rationale": "אישי הראשון — sepoko sa botswadi, e sego selo se sengwe; Sepedi e bolotše ponagalo ya lenyalo."
-    }
-  ],
-  "translation": "Gomme o tla swarolla bao a ba ratago, eupsja ga a ka ke a ba fihlela, gomme a ba nyaka, gomme a sa ba hwetša; gomme a re: Ke tla sepela, gomme ke boela go monna wa ka wa pele, ka gobane go be go le botse go na nako yeo go feta gona bjale.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "a5b9ecf0a915385564d2ff1a1d95e85d132ef0aabaf0a3ba46b7c5c8bc9857d9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/hosea\/2\/9-12.1792295881010.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme o tla šoma ka morago ga bao a ba ratago, eupša a ka se swarolla; o tla ba nyaka, eupša a ka se ba hwetše; gomme a re: Ke tla sepela, ke boele go monna wa ka wa pele, ka gobane nakong yeo e be e le botse go feta gona bjale.",
   "tokens": [
     {
       "surface": "ורדפה",
-      "gloss": "gomme o tla swarolla"
+      "gloss": "gomme o tla šoma ka morago"
     },
     {
       "surface": "את",
@@ -48,27 +22,28 @@
     },
     {
       "surface": "ולא",
-      "gloss": "eupsja ga"
+      "gloss": "eupša a ka se"
     },
     {
       "surface": "תשיג",
-      "gloss": "a ka ke a ba fihlela"
+      "gloss": "swarolla"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩"
+      "gloss": "⟨את⟩",
+      "marks": "o tla ba nyaka"
     },
     {
       "surface": "ובקשתם",
-      "gloss": "gomme a ba nyaka"
+      "gloss": "o tla ba nyaka"
     },
     {
       "surface": "ולא",
-      "gloss": "gomme a sa"
+      "gloss": "eupša a ka se"
     },
     {
       "surface": "תמצא",
-      "gloss": "ba hwetša"
+      "gloss": "ba hwetše"
     },
     {
       "surface": "ואמרה",
@@ -80,7 +55,7 @@
     },
     {
       "surface": "ואשובה",
-      "gloss": "gomme ke boela"
+      "gloss": "ke boele"
     },
     {
       "surface": "אל",
@@ -100,21 +75,21 @@
     },
     {
       "surface": "טוב",
-      "gloss": "go be go le botse"
+      "gloss": "e be e le botse"
     },
     {
       "surface": "לי",
-      "gloss": "go na"
+      "gloss": "go nna"
     },
     {
       "surface": "אז",
-      "gloss": "nako yeo"
+      "gloss": "nakong yeo"
     },
     {
       "surface": "מעתה",
       "gloss": "go feta gona bjale"
     }
   ],
-  "timestamp": "2026-10-18T03:58:01.011019675Z",
+  "timestamp": "2026-10-18T17:19:57.342543193Z",
   "model": "glm-5.3"
 }

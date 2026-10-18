@@ -5,32 +5,11 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 52,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "go bolela ka botho",
-      "rationale": "Dikgutšo di re 'ka botho'; Seheberu se re 'dilo tše dibotse' (טבות) — sebopego se bolokwa"
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "H854 'le yena' — e šomišwa bjalo ka sekopanyi, e sego montšhi wa seripa sa mošomo fela"
-    }
-  ],
-  "translation": "Gomme a bolela ⟨את⟩ le yena dilo tše dibotse, gomme a bea ⟨את⟩ setulo sa gagwe godimo ga di-setulo tša dikgoši tšeo di nago le yena Babela.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "f8cb9a5b4dd041780de374819e937fe7fe45f88ff2970885a3110905602fe8d1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/52\/29-32.1792294328438.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a bolela le yena dilo tše dibotse, gomme a bea ⟨את⟩ setulo sa gage godimo ga ditulo tša dikgoši tša go ba le yena go Babylone.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "Gomme a bolela"
+      "gloss": "gomme a bolela"
     },
     {
       "surface": "אתו",
@@ -47,11 +26,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "setulo sa gagwe"
+      "marks": "setulo sa gage"
     },
     {
       "surface": "כסאו",
-      "gloss": "setulo sa gagwe"
+      "gloss": "setulo sa gage"
     },
     {
       "surface": "ממעל",
@@ -59,7 +38,7 @@
     },
     {
       "surface": "לכסא",
-      "gloss": "di-setulo tša"
+      "gloss": "ditulo tša"
     },
     {
       "surface": "מלכים",
@@ -67,17 +46,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "tšeo"
+      "gloss": "tša go ba le yena"
     },
     {
       "surface": "אתו",
-      "gloss": "di nago ⟨את⟩ le yena"
+      "gloss": "⟨את⟩ le yena"
     },
     {
       "surface": "בבבל",
-      "gloss": "Babela"
+      "gloss": "go Babylone"
     }
   ],
-  "timestamp": "2026-10-18T03:32:08.440533665Z",
+  "timestamp": "2026-10-18T17:23:51.595808687Z",
   "model": "glm-5.3"
 }

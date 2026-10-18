@@ -5,40 +5,19 @@
   "book": "1-chronicles",
   "lang": "nso",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mohumo",
-      "rationale": "מטה ke thari ya setšhaba — lentšu la Sepedi le ka se fe sebopego sa 'thari\/lokwallo' ka botlalo"
-    },
-    {
-      "kind": "measurement",
-      "subject": "goral",
-      "rationale": "Go aba ka lase — karolo ya tsela ya go ela meetse ya go abelwa metse"
-    }
-  ],
-  "translation": "Ba file ka laseng, go tšwa mohumong wa bana ba Yehuda, le go tšwa mohumong wa bana ba Šimeone, le go tšwa mohumong wa bana ba Benjamine, ⟨את⟩ metse ye, yeo ba e bitšago ka maina.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "d7f8203b399c7bb06e783bb6d6b6e44c5c310e466b18c4c3e05090dc60003919",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/6\/49-52.1792303006821.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba fa ka loso go tšwa go sefotha sa bana ba Yehuda, le go tšwa go sefotha sa bana ba Shimeone, le go tšwa go sefotha sa bana ba Binjamine, ⟨את⟩ metse ye, yeo ba di bitšago ka maina.",
   "tokens": [
     {
       "surface": "ויתנו",
-      "gloss": "ba file"
+      "gloss": "gomme ba fa"
     },
     {
       "surface": "בגורל",
-      "gloss": "ka laseng"
+      "gloss": "ka loso"
     },
     {
       "surface": "ממטה",
-      "gloss": "go tšwa mohumong wa"
+      "gloss": "go tšwa go sefotha"
     },
     {
       "surface": "בני",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "וממטה",
-      "gloss": "le go tšwa mohumong wa"
+      "gloss": "le go tšwa go sefotha"
     },
     {
       "surface": "בני",
@@ -58,11 +37,11 @@
     },
     {
       "surface": "שמעון",
-      "gloss": "Šimeone"
+      "gloss": "Shimeone"
     },
     {
       "surface": "וממטה",
-      "gloss": "le go tšwa mohumong wa"
+      "gloss": "le go tšwa go sefotha"
     },
     {
       "surface": "בני",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "בנימן",
-      "gloss": "Benjamine"
+      "gloss": "Binjamine"
     },
     {
       "surface": "את",
@@ -91,18 +70,18 @@
     },
     {
       "surface": "יקראו",
-      "gloss": "ba e bitšago"
+      "gloss": "ba bitšago"
     },
     {
       "surface": "אתהם",
       "gloss": "⟨את⟩",
-      "marks": "ka maina"
+      "marks": "di"
     },
     {
       "surface": "בשמות",
       "gloss": "ka maina"
     }
   ],
-  "timestamp": "2026-10-18T05:56:46.823060741Z",
+  "timestamp": "2026-10-18T16:58:00.197617746Z",
   "model": "glm-5.3"
 }

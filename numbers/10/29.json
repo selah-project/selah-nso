@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חבב\/רעואל",
-      "rationale": "Ragwe-rakgarele wa Moshe: bitšwa Chobabe mo, Reuele go Eksodo 2; ba bangwe ba aga Jethro mo lefelong leo."
-    },
-    {
-      "kind": "substitution",
-      "subject": "והטבנו לך",
-      "rationale": "'Re tla go dira phokotšo ya toka' — Hebrew: 're tla go dira toko\/botlela'; go hlankanela mokgwa wa Sepedi."
-    },
-    {
-      "kind": "you",
-      "subject": "go Khobabe",
-      "rationale": "Moshe o bolela a lebelela Khobabe ka go mo laletsa go tla le bona."
-    }
-  ],
-  "translation": "Gomme Moshe a bolela go Khobabe mora wa Reuele, wa Mmidiane, rateane wa Moshe: Re sepela go lefelo leo Yahwe a boletšego leona: ke tla no nea lona. Tla o tlee le rena, gomme re tla go dira phokotšo ya toka, ka gobane Yahwe o boletše toko ka Yisraele.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "a6d236d49114907b2ee5a0f42bf8304c97135bef46ef7d00508667b52c4bcd80",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/10\/29-32.1792284642381.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Moshe a bolela go Khobabe, morwa wa Reuele, wa Mmidiyane, khwebeba ya Moshe: Re sepela go lefelo leo Yahwe a rego: ⟨את⟩ lona ke tla se le fao. Tla o tlee le rena, gomme re tlo go direla botse, ka gobane Yahwe o boletše botse ka ga Yisraele.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a bolela"
+      "gloss": "gomme … a bolela"
     },
     {
       "surface": "משה",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "mora"
+      "gloss": "morwa"
     },
     {
       "surface": "רעואל",
@@ -55,15 +29,15 @@
     },
     {
       "surface": "המדיני",
-      "gloss": "wa Mmidiane"
+      "gloss": "wa Mmidiyane"
     },
     {
       "surface": "חתן",
-      "gloss": "rateane"
+      "gloss": "khwebeba"
     },
     {
       "surface": "משה",
-      "gloss": "wa Moshe"
+      "gloss": "Moshe"
     },
     {
       "surface": "נסעים",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "אנחנו",
-      "gloss": "rena"
+      "gloss": "re"
     },
     {
       "surface": "אל",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "a boletšego"
+      "gloss": "a rego"
     },
     {
       "surface": "יהוה",
@@ -96,11 +70,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "lefelo — sefelo seo Yahwe a se neago"
+      "marks": "lefelo (ke tla se le fao)"
     },
     {
       "surface": "אתן",
-      "gloss": "ke tla no nea"
+      "gloss": "ke tla se fao"
     },
     {
       "surface": "לכם",
@@ -108,7 +82,7 @@
     },
     {
       "surface": "לכה",
-      "gloss": "tla"
+      "gloss": "tla o tlee"
     },
     {
       "surface": "אתנו",
@@ -116,11 +90,11 @@
     },
     {
       "surface": "והטבנו",
-      "gloss": "re tla go dira phokotšo ya toka"
+      "gloss": "gomme re tlo go direla botse"
     },
     {
       "surface": "לך",
-      "gloss": "go wena"
+      "gloss": "wena"
     },
     {
       "surface": "כי",
@@ -136,17 +110,17 @@
     },
     {
       "surface": "טוב",
-      "gloss": "toko"
+      "gloss": "botse"
     },
     {
       "surface": "על",
-      "gloss": "ka"
+      "gloss": "ka ga"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-18T00:50:42.382340750Z",
+  "timestamp": "2026-10-18T17:33:19.280011266Z",
   "model": "glm-5.3"
 }

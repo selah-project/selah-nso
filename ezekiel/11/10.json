@@ -5,23 +5,7 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "ke nna",
-      "rationale": "Seheberu se re אני יהוה fela; \"ke\" e okeditšwe go hlalosa"
-    }
-  ],
-  "translation": "Ka tšhoša le tla wa; godimo ga mollomo wa Yisraele ke tla le kahlola, gomme le tla tseba gore ke nna Yahwe.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/11\/9-12.1792294552319.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka tšhoša le tla wa, molelwaneng wa Yisraele ke tla a hlola ⟨את⟩ lona, gomme le tla tseba gore ke Yahwe.",
   "tokens": [
     {
       "surface": "בחרב",
@@ -33,11 +17,11 @@
     },
     {
       "surface": "על",
-      "gloss": "godimo ga"
+      "gloss": "molelwaneng"
     },
     {
       "surface": "גבול",
-      "gloss": "mollomo wa"
+      "gloss": "wa molelwane"
     },
     {
       "surface": "ישראל",
@@ -45,7 +29,7 @@
     },
     {
       "surface": "אשפוט",
-      "gloss": "ke tla le kahlola"
+      "gloss": "ke tla a hlola"
     },
     {
       "surface": "אתכם",
@@ -62,13 +46,13 @@
     },
     {
       "surface": "אני",
-      "gloss": "ke nna"
+      "gloss": "ke"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T03:35:52.320808196Z",
+  "timestamp": "2026-10-18T17:13:06.312246900Z",
   "model": "glm-5.3"
 }

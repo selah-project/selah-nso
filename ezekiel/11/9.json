@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "sa",
-      "rationale": "Sepedi e nyaka possessive \"sa\" bakeng sa construct ביד זרים"
-    },
-    {
-      "kind": "you",
-      "subject": "setšhaba sa Jerusalema",
-      "rationale": "Yahwe o bolela le batho ba motseng, kgahlano le maaka a bona a polaeko"
-    }
-  ],
-  "translation": "Gomme ke tla le ntšha go tšwa gare ga yona, gomme ke tla le nea seatleng sa bao e sego batho ba lethabo, gomme ke tla dira dikahlolo ka ga lona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "dca516053340c76d833f5c105edfd8f7e88e362be0e11a1e029b1cd3b2c02949",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/11\/9-12.1792294552319.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ke tla go ntšha ⟨את⟩ lona go tšwa gare ga yona, gomme ke tla bea ⟨את⟩ lona ka seatleng sa bakgethwa, gomme ke tla dira go lona dikahlolo.",
   "tokens": [
     {
       "surface": "והוצאתי",
-      "gloss": "gomme ke tla le ntšha"
+      "gloss": "gomme ke tla go ntšha"
     },
     {
       "surface": "אתכם",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "ונתתי",
-      "gloss": "gomme ke tla le nea"
+      "gloss": "gomme ke tla bea"
     },
     {
       "surface": "אתכם",
@@ -52,11 +31,11 @@
     },
     {
       "surface": "ביד",
-      "gloss": "seatleng sa"
+      "gloss": "ka seatleng sa"
     },
     {
       "surface": "זרים",
-      "gloss": "bao e sego batho ba lethabo"
+      "gloss": "bakgethwa"
     },
     {
       "surface": "ועשיתי",
@@ -64,13 +43,13 @@
     },
     {
       "surface": "בכם",
-      "gloss": "ka ga lona"
+      "gloss": "go lona"
     },
     {
       "surface": "שפטים",
       "gloss": "dikahlolo"
     }
   ],
-  "timestamp": "2026-10-18T03:35:52.320609900Z",
+  "timestamp": "2026-10-18T17:13:01.616141379Z",
   "model": "glm-5.3"
 }

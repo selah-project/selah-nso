@@ -5,32 +5,11 @@
   "book": "2-samuel",
   "lang": "nso",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "שן",
-      "rationale": "Leina Betšeane le agilwe ka ditoka tše pedi tša Seheberu; Sepedi le ngwalwa ga tee, toka ya bobedi e khutša."
-    },
-    {
-      "kind": "crux",
-      "subject": "תלום",
-      "rationale": "Ketiv\/Qere: mongwalo o ngwa תלום ('ba kgometšego goona') go ya le qere תלאום — maano a mabedi a swana kudu."
-    }
-  ],
-  "translation": "Mme Dafida ya mme a tšea ⟨את⟩ marapo a Šaule le ⟨את⟩ marapo a Yehonatana morwa wa gagwe go tšwa ⟨את⟩ go beng ba Yabeše ya Gileade, bao ba ba utswitšego ⟨את⟩ a wona mo sebakeng se se bosegang sa Betšeane, moo Ba-Peliseta ba bego ba kgometše goona goo, ka letšatši leo Ba-Peliseta ba bolago ⟨את⟩ Šaule ka lona Giliboa.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "f0eb2fe791d1a5ee79377e2610ae0b9cb0c6c31662826dd53a3ed5ca8383fb6c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/21\/9-12.1792289341489.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Dafida a sepela, gomme a tšea ⟨את⟩ marapo a Sheole le ⟨את⟩ marapo a Yehonatana mora wa yena, go tšwa go ⟨את⟩ beng ba Yabeše ya Gileada, bao ba ilego ba di utswa ⟨אתם⟩ sekgobeng sa Betešeane, moo bafalitšhing ba ilego ba di kgomora gona, ka letšatši leo bafalitšhing ba neng ba thuba ⟨את⟩ Sheole ka teng ka Giliboa.",
   "tokens": [
     {
       "surface": "וילך",
-      "gloss": "ya"
+      "gloss": "a sepela"
     },
     {
       "surface": "דוד",
@@ -43,7 +22,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "marapo a Šaule"
+      "marks": "marapo"
     },
     {
       "surface": "עצמות",
@@ -51,12 +30,12 @@
     },
     {
       "surface": "שאול",
-      "gloss": "a Šaule"
+      "gloss": "Sheole"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "marapo a Yehonatana"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "marapo"
     },
     {
       "surface": "עצמות",
@@ -64,19 +43,19 @@
     },
     {
       "surface": "יהונתן",
-      "gloss": "a Yehonatana"
+      "gloss": "Yehonatana"
     },
     {
       "surface": "בנו",
-      "gloss": "morwa wa gagwe"
+      "gloss": "mora wa yena"
     },
     {
       "surface": "מאת",
-      "gloss": "go tšwa ⟨את⟩"
+      "gloss": "go tšwa go ⟨את⟩"
     },
     {
       "surface": "בעלי",
-      "gloss": "go beng ba"
+      "gloss": "beng ba"
     },
     {
       "surface": "יביש",
@@ -84,7 +63,7 @@
     },
     {
       "surface": "גלעד",
-      "gloss": "ya Gileade"
+      "gloss": "Gileada"
     },
     {
       "surface": "אשר",
@@ -92,24 +71,24 @@
     },
     {
       "surface": "גנבו",
-      "gloss": "ba ba utswitšego"
+      "gloss": "ba ilego ba di utswa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ a wona",
-      "marks": "marapo"
+      "gloss": "⟨אתם⟩",
+      "marks": "sekgobeng"
     },
     {
       "surface": "מרחב",
-      "gloss": "mo sebakeng se se bosegang"
+      "gloss": "sekgobeng"
     },
     {
       "surface": "בית",
-      "gloss": "Betšeane"
+      "gloss": "Betešeane"
     },
     {
       "surface": "שן",
-      "gloss": ""
+      "gloss": "Betešeane"
     },
     {
       "surface": "אשר",
@@ -117,42 +96,42 @@
     },
     {
       "surface": "תלום",
-      "gloss": "ba kgometšego"
+      "gloss": "ba di kgomora"
     },
     {
       "surface": "שם",
-      "gloss": "goo"
+      "gloss": "gona"
     },
     {
       "surface": "הפלשתים",
-      "gloss": "Ba-Peliseta"
+      "gloss": "bafalitšhing"
     },
     {
       "surface": "ביום",
-      "gloss": "ka letšatši"
+      "gloss": "ka letšatši leo"
     },
     {
       "surface": "הכות",
-      "gloss": "go bolaa ga"
+      "gloss": "ba neng ba thuba"
     },
     {
       "surface": "פלשתים",
-      "gloss": "Ba-Peliseta"
+      "gloss": "bafalitšhing"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Šaule"
+      "marks": "Sheole"
     },
     {
       "surface": "שאול",
-      "gloss": "Šaule"
+      "gloss": "Sheole"
     },
     {
       "surface": "בגלבע",
-      "gloss": "Giliboa"
+      "gloss": "ka Giliboa"
     }
   ],
-  "timestamp": "2026-10-18T02:09:01.490558498Z",
+  "timestamp": "2026-10-18T17:06:06.437459212Z",
   "model": "glm-5.3"
 }

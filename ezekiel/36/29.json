@@ -5,48 +5,28 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 36,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אתכם",
-      "rationale": "aleph-tav with suffix — pronoun 'lona', not the bare DOM ⟨את⟩"
-    },
-    {
-      "kind": "substitution",
-      "subject": "go sa hloekga",
-      "rationale": "טומאה is ritual impurity, rendered descriptively since Sepedi has no single ritual term"
-    }
-  ],
-  "translation": "Gomme ke tla go lokolla lona go tšwa go go sa hloekga ga lona ka moka, gomme ke bitše poogo, gomme ke oketše ⟨את⟩ yona, gomme ke se ke ka bea tlala go lena.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "7d443dea66ff362a7f0113d9958efa72b7800bef0acad00c50eafbb20099103b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/36\/29-32.1792295519398.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ke tla go lokolosa ⟨את⟩ lona go tšwa go dihlatswa tša lona ka moka; gomme ke tla bitša ⟨את⟩ bogobe, gomme ke tla se oketša, gomme ke se ke tla bea tlala go lena.",
   "tokens": [
     {
       "surface": "והושעתי",
-      "gloss": "ke tla go lokolla"
+      "gloss": "ke tla go lokolosa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
     },
     {
       "surface": "מכל",
-      "gloss": "go tšwa go ka moka"
+      "gloss": "go ... ka moka"
     },
     {
       "surface": "טמאותיכם",
-      "gloss": "go sa hloekga ga lona"
+      "gloss": "dihlatswa tša lona"
     },
     {
       "surface": "וקראתי",
-      "gloss": "gomme ke bitše"
+      "gloss": "ke tla bitša"
     },
     {
       "surface": "אל",
@@ -54,34 +34,34 @@
     },
     {
       "surface": "הדגן",
-      "gloss": "poogo"
+      "gloss": "bogobe"
     },
     {
       "surface": "והרביתי",
-      "gloss": "gomme ke oketše"
+      "gloss": "ke tla oketša"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "poogo"
+      "gloss": "⟨את⟩ se",
+      "marks": "bogobe"
     },
     {
       "surface": "ולא",
-      "gloss": "gomme o se ke"
+      "gloss": "gomme e sego"
     },
     {
       "surface": "אתן",
-      "gloss": "ka bea"
+      "gloss": "ke tla bea"
     },
     {
       "surface": "עליכם",
-      "gloss": "go lena"
+      "gloss": "go lona"
     },
     {
       "surface": "רעב",
       "gloss": "tlala"
     }
   ],
-  "timestamp": "2026-10-18T03:51:59.399717628Z",
+  "timestamp": "2026-10-18T17:15:20.895072877Z",
   "model": "glm-5.3"
 }

@@ -5,40 +5,19 @@
   "book": "judges",
   "lang": "nso",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ntlo ya Yahwe",
-      "rationale": "בית יהוה: bao bantši ba bala 'ntlo ya Yahwe' (Shilo goba sefapano), ba bangwe ba bala 'Betele' — Šefera ya maswa e bala 'Bet-Elo'."
-    },
-    {
-      "kind": "addition",
-      "subject": "ke sepela gona",
-      "rationale": "Seheberu se sesa kopanya boemong; Sepedi se nyaka se sengwe se feletšego."
-    }
-  ],
-  "translation": "Gomme a mo re: Re sepela re tšwa Betlekheme ya Yuda, go ya dikarolong tša ka ntle tša thaba ya Efrayime; go tšwa moo ke nna, ke ile go ya Betlekheme ya Yuda; gomme go ⟨את⟩ ntlo ya Yahwe ke sepela gona, gomme ga go na motho yo a ka nkokelago ka gae.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "b30d979e8f64cdbd08828c34197a0482e033c31083977080738f5e6cec58c4e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/19\/17-20.1792287796415.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a mo bolelela: Ba ba sepelago re tšwa Betleheme ya Yuda, go ya maphetong a thaba ya Efereime; go tšwa gona ke nna, gomme ke ile Betlheme ya Yuda; gomme go ya ⟨את⟩ ntlo ya Yahwe ke sepela, gomme ga go na ⟨ke⟩ motho yo a ka m-amogelago ka gae.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "gomme a mo bolelela"
     },
     {
       "surface": "אליו",
-      "gloss": "mo eena"
+      "gloss": "mo"
     },
     {
       "surface": "עברים",
-      "gloss": "Re sepela"
+      "gloss": "ba ba sepelago"
     },
     {
       "surface": "אנחנו",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "מבית",
-      "gloss": "re tšwa Betlekheme"
+      "gloss": "tšwa Betlheme"
     },
     {
       "surface": "לחם",
-      "gloss": ""
+      "gloss": "Betlheme"
     },
     {
       "surface": "יהודה",
@@ -62,19 +41,19 @@
     },
     {
       "surface": "ירכתי",
-      "gloss": "dikarolong tša ka ntle"
+      "gloss": "maphetong"
     },
     {
       "surface": "הר",
-      "gloss": "tša thaba"
+      "gloss": "thaba"
     },
     {
       "surface": "אפרים",
-      "gloss": "ya Efrayime"
+      "gloss": "ya Efereime"
     },
     {
       "surface": "משם",
-      "gloss": "go tšwa moo"
+      "gloss": "go tšwa gona"
     },
     {
       "surface": "אנכי",
@@ -82,19 +61,19 @@
     },
     {
       "surface": "ואלך",
-      "gloss": "ke ile"
+      "gloss": "gomme ke ile"
     },
     {
       "surface": "עד",
-      "gloss": "go ya"
+      "gloss": "go"
     },
     {
       "surface": "בית",
-      "gloss": "Betlekheme"
+      "gloss": "Betlheme"
     },
     {
       "surface": "לחם",
-      "gloss": ""
+      "gloss": "Betlheme"
     },
     {
       "surface": "יהודה",
@@ -102,7 +81,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "ntlo ya Yahwe"
     },
     {
@@ -131,17 +110,18 @@
     },
     {
       "surface": "מאסף",
-      "gloss": "yo a ka nkokelago"
+      "gloss": "a ka m-amogelago"
     },
     {
       "surface": "אותי",
-      "gloss": "⟨את⟩ nna"
+      "gloss": "⟨את⟩ nna",
+      "marks": "ka gae"
     },
     {
       "surface": "הביתה",
       "gloss": "ka gae"
     }
   ],
-  "timestamp": "2026-10-18T01:43:16.416494083Z",
+  "timestamp": "2026-10-18T17:29:14.553399552Z",
   "model": "glm-5.3"
 }

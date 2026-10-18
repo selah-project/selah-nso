@@ -5,27 +5,11 @@
   "book": "1-kings",
   "lang": "nso",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "מות תבני",
-      "rationale": "Sengwalwa se gatelela fela gore Omri wa fetega — gore Tibini a hwile ka tsela efe se ga se bolelwe."
-    }
-  ],
-  "translation": "Gomme setšhaba seo se lego ka morago ga Omri sa fetega go setšhaba seo se lego ka morago ga Tibini, mora wa Ginatha; gomme Tibini a hwetša, gomme Omri a busa.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "06155c771c8de5e0cb8f0d4ea817baa203d6fecccb8bb7a4301e79946d661f61",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/16\/21-24.1792290159745.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme setšhaba seo se latelago Omri se ile sa fetiša ⟨את⟩ setšhaba seo se latelago Tibini mora wa Ginathe; gomme Tibini a hwala, gomme Omri a busa.",
   "tokens": [
     {
       "surface": "ויחזק",
-      "gloss": "sa fetega"
+      "gloss": "sa fetiša"
     },
     {
       "surface": "העם",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "se lego ka morago ga"
+      "gloss": "se latelago"
     },
     {
       "surface": "עמרי",
@@ -46,7 +30,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "setšhaba"
+      "marks": "setšhaba seo se latelago Tibini mora wa Ginathe"
     },
     {
       "surface": "העם",
@@ -58,7 +42,7 @@
     },
     {
       "surface": "אחרי",
-      "gloss": "se lego ka morago ga"
+      "gloss": "se latelago"
     },
     {
       "surface": "תבני",
@@ -66,15 +50,15 @@
     },
     {
       "surface": "בן",
-      "gloss": "mora wa"
+      "gloss": "mora"
     },
     {
       "surface": "גינת",
-      "gloss": "Ginatha"
+      "gloss": "Ginathe"
     },
     {
       "surface": "וימת",
-      "gloss": "gomme a hwetša"
+      "gloss": "a hwala"
     },
     {
       "surface": "תבני",
@@ -82,13 +66,13 @@
     },
     {
       "surface": "וימלך",
-      "gloss": "gomme a busa"
+      "gloss": "a busa"
     },
     {
       "surface": "עמרי",
       "gloss": "Omri"
     }
   ],
-  "timestamp": "2026-10-18T02:22:39.745971700Z",
+  "timestamp": "2026-10-18T16:58:17.580375516Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 33,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "תפרו",
-      "rationale": "KJV\/ASV ba ipolela 'ge le ka e phapha-nya' (ya kgonagala); YLT 'ge le ka e phaphanya' ka go tlwaela — Sepedi se latela go bontšha gore ga e kgonagale."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ולבלתי",
-      "rationale": "Sefela sa go gana sa Seheberu se fetotšwe go ba 'gore ... di seke tša' — tlhakore la ka fa tsela e tee fela ya Sepedi."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "היום\/הלילה — יומם\/ולילה",
-      "rationale": "Go buseletšwa ga mosegare le bošego gabedi, se se theileng kgweranong ya go bopa — tshedimošo ye e tlogela ka mo go tšeago mantšu a mabedi."
-    }
-  ],
-  "translation": "Bjalo a bolela Yahwe: Ge le ka phaphanya kgwerano ya ka ya mosegare le ⟨את⟩ kgwerano ya ka ya bošego, gore mosegare le bošego di seke tša ba nako ya tšona;",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "16320c851e33f8e88cea6d94e8a66e10c7739581e6cff9265a704be116f62652",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/33\/20-20.1792305032386.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bjalo ka mo go bolela Yahwe: ge le ka phemola ⟨את⟩ kgwerano ya ka ya letšatši le gomme ⟨את⟩ kgwerano ya ka ya bosigo, go fa letšatši le bosigo di sa dule ka nakong ya tšona;",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "Bjalo"
+      "gloss": "bjalo ka mo"
     },
     {
       "surface": "אמר",
-      "gloss": "a bolela"
+      "gloss": "go bolela"
     },
     {
       "surface": "יהוה",
@@ -47,16 +21,16 @@
     },
     {
       "surface": "אם",
-      "gloss": "Ge"
+      "gloss": "ge"
     },
     {
       "surface": "תפרו",
-      "gloss": "le ka phaphanya"
+      "gloss": "le ka phemola"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kgwerano ya ka ya mosegare"
+      "marks": "kgwerano ya ka ya letšatši"
     },
     {
       "surface": "בריתי",
@@ -64,12 +38,12 @@
     },
     {
       "surface": "היום",
-      "gloss": "ya mosegare"
+      "gloss": "ya letšatši"
     },
     {
       "surface": "ואת",
       "gloss": "gomme ⟨את⟩",
-      "marks": "kgwerano ya ka ya bošego"
+      "marks": "kgwerano ya ka ya bosigo"
     },
     {
       "surface": "בריתי",
@@ -77,29 +51,29 @@
     },
     {
       "surface": "הלילה",
-      "gloss": "ya bošego"
+      "gloss": "ya bosigo"
     },
     {
       "surface": "ולבלתי",
-      "gloss": "gore ... di seke tša"
+      "gloss": "go fa"
     },
     {
       "surface": "היות",
-      "gloss": "ba"
+      "gloss": "go dula"
     },
     {
       "surface": "יומם",
-      "gloss": "mosegare"
+      "gloss": "letšatši"
     },
     {
       "surface": "ולילה",
-      "gloss": "le bošego"
+      "gloss": "le bosigo"
     },
     {
       "surface": "בעתם",
-      "gloss": "nako ya tšona"
+      "gloss": "ka nakong ya tšona"
     }
   ],
-  "timestamp": "2026-10-18T06:30:32.387273115Z",
+  "timestamp": "2026-10-18T17:22:06.999706389Z",
   "model": "glm-5.3"
 }

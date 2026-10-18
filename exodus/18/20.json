@@ -5,31 +5,16 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ditora",
-      "rationale": "התורת — Torah e bolokwa ka modumo wa yona (D2), e sego 'molao' fela"
-    }
-  ],
-  "translation": "Gomme o ba hlalosetsa ⟨את⟩ melawana le ⟨את⟩ ditora; gomme wa ba tsebiseša ⟨את⟩ tsela ye ba yang ka yona, le ⟨את⟩ mošomo woo ba o dirago.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "904584ff265917df7da43c1dd71bb2889f05b0fdfe3ce740ed80cf750d7055db",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/18\/17-20.1792282793391.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme o ba tlwaelošetše ⟨את⟩ bobedi, ⟨את⟩ melawana yeo le ⟨את⟩ Torah, gomme o ba tsebišetše ⟨את⟩ tsejara ye ba ka sepago ka yona, le ⟨את⟩ mošomo woo ba o dirago.",
   "tokens": [
     {
       "surface": "והזהרתה",
-      "gloss": "o ba hlalosetsa"
+      "gloss": "gomme o ba tlwaelošetše"
     },
     {
       "surface": "אתהם",
-      "gloss": "⟨את⟩ ba"
+      "gloss": "⟨את⟩",
+      "marks": "bobedi"
     },
     {
       "surface": "את",
@@ -42,16 +27,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "ditora"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "Torah"
     },
     {
       "surface": "התורת",
-      "gloss": "ditora"
+      "gloss": "Torah"
     },
     {
       "surface": "והודעת",
-      "gloss": "wa ba tsebiseša"
+      "gloss": "gomme o ba tsebišetše"
     },
     {
       "surface": "להם",
@@ -60,15 +45,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tsela"
+      "marks": "tsejara"
     },
     {
       "surface": "הדרך",
-      "gloss": "tsela"
+      "gloss": "tsejara"
     },
     {
       "surface": "ילכו",
-      "gloss": "ba yang"
+      "gloss": "ba ka sepago"
     },
     {
       "surface": "בה",
@@ -76,7 +61,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "gomme ⟨את⟩",
       "marks": "mošomo"
     },
     {
@@ -92,6 +77,6 @@
       "gloss": "ba o dirago"
     }
   ],
-  "timestamp": "2026-10-18T00:19:53.392607602Z",
+  "timestamp": "2026-10-18T17:11:21.833895649Z",
   "model": "glm-5.3"
 }

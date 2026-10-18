@@ -5,33 +5,7 @@
   "book": "amos",
   "lang": "nso",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Bonang",
-      "rationale": "הנה e bitša mmadi go ela hloko pele ga polelo ya tlala ya moya."
-    },
-    {
-      "kind": "elision",
-      "subject": "אם",
-      "rationale": "כי אם šupetša 'eupša fela' — lentšu la אם le kopantšwe le כי molaong o tee."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "רעב\/צמא",
-      "rationale": "Tlala ya go kwa mantsu a Yahwe e nyoretšwe go tlala ya bogobe le nyoraa ya meetse — tšhipi ya sesupo e bolokwa."
-    }
-  ],
-  "translation": "Bonang, matsatsi a etla, go bolela Adonai Yahwe; gomme ke tla romella tlala lefaseng, e sego tlala ya bogobe, gomme e sego nyoraa ya meetse, eupša ya go kwa ⟨את⟩ mantsu a Yahwe.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "afb258fcd798d2b5067b7b193cc9e6248516f227d6ab1b7dbd2aca4a02cb560f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/amos\/8\/9-12.1792296400592.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bonang, malatsi a tlang, go bolela Adonai Yahwe, gomme ke tla romela tlala lefaseng; e sego tlala ya bogobe, gomme e sego nyoraa ya meetse, eupša ya go utšwa ⟨את⟩ mantšu a Yahwe.",
   "tokens": [
     {
       "surface": "הנה",
@@ -39,11 +13,11 @@
     },
     {
       "surface": "ימים",
-      "gloss": "matsatsi"
+      "gloss": "malatsi"
     },
     {
       "surface": "באים",
-      "gloss": "a etla"
+      "gloss": "a tlang"
     },
     {
       "surface": "נאם",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "והשלחתי",
-      "gloss": "gomme ke tla romella"
+      "gloss": "gomme ke tla romela"
     },
     {
       "surface": "רעב",
@@ -99,26 +73,26 @@
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "ya"
     },
     {
       "surface": "לשמע",
-      "gloss": "go kwa"
+      "gloss": "go utšwa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mantsu a Yahwe"
+      "marks": "mantšu a Yahwe"
     },
     {
       "surface": "דברי",
-      "gloss": "mantsu"
+      "gloss": "mantšu"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T04:06:40.593710120Z",
+  "timestamp": "2026-10-18T17:07:01.057574733Z",
   "model": "glm-5.3"
 }

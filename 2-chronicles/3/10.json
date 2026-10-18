@@ -5,48 +5,27 @@
   "book": "2-chronicles",
   "lang": "nso",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "צעצעים",
-      "rationale": "Tsatsuaim e hlaga fela mo go Tanakh — lentšu la go bopa dilo tše kgopameng, le sa fetolegago gabotse."
-    },
-    {
-      "kind": "substitution",
-      "subject": "kgodimo ye e kgethwileng kudu",
-      "rationale": "קדש הקדשים ke bontši bja bokgodi — bokgethwa bja bokgethwa; 'ye e kgethwileng kudu' ke karolo ya sebopego feela."
-    }
-  ],
-  "translation": "Gomme mo kgodimong ye e kgethwileng kudu o dirile kerubime tše pedi, mošomo wa go bopa dilo tše kgopameng, gomme ba di kgopile ka gauta.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "f8eba62acef14d8203e1d5769e9688cdc596aa4f202f43cf60ee1384c9b52625",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/3\/9-12.1792303608521.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a dira ka gare ga ntlo ya bokgethwa-bokgethwa bakgethwa kerube tše pedi, mošomo wa go bopa dilo tša go apara-dikgokaganyi, gomme ba di apeditše ⟨את⟩ tšona gauta.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "gomme o dirile"
+      "gloss": "gomme a dira"
     },
     {
       "surface": "בבית",
-      "gloss": "mo kgodimong"
+      "gloss": "ka gare ga ntlo"
     },
     {
       "surface": "קדש",
-      "gloss": "ye e kgethwileng"
+      "gloss": "ya bokgethwa"
     },
     {
       "surface": "הקדשים",
-      "gloss": "kudu"
+      "gloss": "bakgethwa"
     },
     {
       "surface": "כרובים",
-      "gloss": "kerubime"
+      "gloss": "kerube"
     },
     {
       "surface": "שנים",
@@ -58,22 +37,22 @@
     },
     {
       "surface": "צעצעים",
-      "gloss": "bja go bopa dilo tše kgopameng"
+      "gloss": "dilo tša go bopa-bokgokaganyi"
     },
     {
       "surface": "ויצפו",
-      "gloss": "gomme ba di kgopile"
+      "gloss": "gomme ba di apeditše"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "kerubime tše pedi"
+      "marks": "tšona (kerube tše pedi)"
     },
     {
       "surface": "זהב",
       "gloss": "gauta"
     }
   ],
-  "timestamp": "2026-10-18T06:06:48.522386170Z",
+  "timestamp": "2026-10-18T17:01:53.374606239Z",
   "model": "glm-5.3"
 }

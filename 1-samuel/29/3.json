@@ -5,28 +5,7 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 29,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "go dikgoši tša Bafelešte",
-      "rationale": "Pušo ya Akishe e lebišitšwe go dikgoši tša Bafelešte"
-    },
-    {
-      "kind": "crux",
-      "subject": "a wela go nna",
-      "rationale": "נפלו: 'a wela go nna' goba 'a ilego a fologela go nna' — ba fetoleli ba bangwe ba re 'a ikgethile go nna'"
-    }
-  ],
-  "translation": "Gomme dikgoši tša Bafelešte ba re: Ke eng seo Baeberu bao ba se dirago fela? Gomme Akishe a re go dikgoši tša Bafelešte: A ga se ye Dafida, mohlanka wa Saule, kgoši ya Yisraele, yo a bego le nna ⟨את⟩ mo matsatsing a goba mo mengwageng, gomme ga se ka hwetša selo mo go ene, go tšwa letšatšing leo a ilego a wela go nna, fihla letšatšing le?",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "c2bc929b6b7c2e396214a29b79bc84ec6684118f9246669442d8c70ca726f997",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/29\/1-4.1792288727900.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme balaodi ba ba-Pelishtime ba re: Mahebere a ka moo a dira eng? Gomme Akishe a re go balaodi ba ba-Pelishtime: A ga se yena Dafida, mohlanka wa Shaule, kgoši ya Yisraele, yo a bego a le le nna ⟨את⟩ ka matsatsi a goba ka mengwaga, gomme ga ke a hwetša mo go yena se sengwe le ge e le sekhohlsa, go tloga letšatšing leo a bego a wile go nna go feta letšatši le le.",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -34,23 +13,23 @@
     },
     {
       "surface": "שרי",
-      "gloss": "dikgoši"
+      "gloss": "balaodi ba"
     },
     {
       "surface": "פלשתים",
-      "gloss": "tsa Bafelešte"
+      "gloss": "ba-Pelishtime"
     },
     {
       "surface": "מה",
-      "gloss": "ke eng"
+      "gloss": "eng"
     },
     {
       "surface": "העברים",
-      "gloss": "Baeberu"
+      "gloss": "Mahebere a"
     },
     {
       "surface": "האלה",
-      "gloss": "bao"
+      "gloss": "a ka moo"
     },
     {
       "surface": "ויאמר",
@@ -66,11 +45,11 @@
     },
     {
       "surface": "שרי",
-      "gloss": "dikgoši"
+      "gloss": "balaodi ba"
     },
     {
       "surface": "פלשתים",
-      "gloss": "tsa Bafelešte"
+      "gloss": "ba-Pelishtime"
     },
     {
       "surface": "הלוא",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "זה",
-      "gloss": "ye"
+      "gloss": "yena"
     },
     {
       "surface": "דוד",
@@ -90,7 +69,7 @@
     },
     {
       "surface": "שאול",
-      "gloss": "wa Saule"
+      "gloss": "wa Shaule"
     },
     {
       "surface": "מלך",
@@ -102,23 +81,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yo a"
+      "gloss": "yo"
     },
     {
       "surface": "היה",
-      "gloss": "bego"
+      "gloss": "a bego a le"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩ le nna"
+      "gloss": "le nna ⟨את⟩",
+      "marks": "Dafida yo a bego a le le nna"
     },
     {
       "surface": "זה",
-      "gloss": "mo"
+      "gloss": "a"
     },
     {
       "surface": "ימים",
-      "gloss": "matsatsing"
+      "gloss": "matsatsi"
     },
     {
       "surface": "או",
@@ -126,49 +106,49 @@
     },
     {
       "surface": "זה",
-      "gloss": "mo"
+      "gloss": "ka"
     },
     {
       "surface": "שנים",
-      "gloss": "mengwageng"
+      "gloss": "mengwaga"
     },
     {
       "surface": "ולא",
-      "gloss": "gomme ga se"
+      "gloss": "gomme ga"
     },
     {
       "surface": "מצאתי",
-      "gloss": "ka hwetša"
+      "gloss": "ke a hwetša"
     },
     {
       "surface": "בו",
-      "gloss": "mo go ene"
+      "gloss": "mo go yena"
     },
     {
       "surface": "מאומה",
-      "gloss": "selo"
+      "gloss": "se sengwe le ge e le sekhohlsa"
     },
     {
       "surface": "מיום",
-      "gloss": "go tšwa letšatšing"
+      "gloss": "go tloga letšatšing leo"
     },
     {
       "surface": "נפלו",
-      "gloss": "a ilego a wela"
+      "gloss": "a bego a wile"
     },
     {
       "surface": "עד",
-      "gloss": "fihla"
+      "gloss": "go feta"
     },
     {
       "surface": "היום",
-      "gloss": "letšatšing"
+      "gloss": "letšatši le le"
     },
     {
       "surface": "הזה",
       "gloss": "le"
     }
   ],
-  "timestamp": "2026-10-18T01:58:47.902011187Z",
+  "timestamp": "2026-10-18T17:01:12.977111960Z",
   "model": "glm-5.3"
 }

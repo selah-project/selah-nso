@@ -5,36 +5,15 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 32,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "כרתי ברית",
-      "rationale": "'Go rula kgwerano' — Seheberu o re 'go kata kgwerano', tlhako ya tlwaelo ya go kata kgwerano ka go fapana ga diphiri"
-    },
-    {
-      "kind": "secret",
-      "subject": "עולם",
-      "rationale": "Sefoko se bolela 'se fitollwago' — sefoko se se akaretšang nakO yeo e sa bonago"
-    }
-  ],
-  "translation": "Gomme ke tla rula ka bona kgwerano ya go sa feleng, yeo ka yona ke sa ke ke ka boa ka morago ga bona go ba dira botse, gomme ⟨את⟩ poifo ya ka ke e bea dipelong tša bona, gore ba se ke ba fapoga go tšwa go nna.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "f142d11fac7caf5530022656cfc0d7024b363a2c207127d1c66bd621d6485916",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/32\/37-40.1792293655006.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ke tla kgha kgwerano ya go sa fele go bona, yeo ke sa tla go boela ka morago ga bona go ba phodša; gomme ⟨את⟩ tsogu ya ka ke tla e fa pelong ya bona, gore ba se ke ba fetoga go tšwa go nna.",
   "tokens": [
     {
-      "surface": "וכרתתי",
-      "gloss": "gomme ke tla rula"
+      "surface": "וכרתי",
+      "gloss": "gomme ke tla kgha"
     },
     {
       "surface": "להם",
-      "gloss": "ka bona"
+      "gloss": "go bona"
     },
     {
       "surface": "ברית",
@@ -42,7 +21,7 @@
     },
     {
       "surface": "עולם",
-      "gloss": "ya go sa feleng"
+      "gloss": "ya go sa fele"
     },
     {
       "surface": "אשר",
@@ -50,11 +29,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "go se"
+      "gloss": "ga"
     },
     {
       "surface": "אשוב",
-      "gloss": "ke boa"
+      "gloss": "ke tla boela"
     },
     {
       "surface": "מאחריהם",
@@ -62,41 +41,43 @@
     },
     {
       "surface": "להיטיבי",
-      "gloss": "go ba dira botse"
+      "gloss": "go ba phodša"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ go bona"
+      "gloss": "⟨את⟩",
+      "marks": "bona"
     },
     {
       "surface": "ואת",
-      "gloss": "gomme ⟨את⟩"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "tsogu ya ka"
     },
     {
       "surface": "יראתי",
-      "gloss": "poifo ya ka"
+      "gloss": "tsogu ya ka"
     },
     {
       "surface": "אתן",
-      "gloss": "ke e bea"
+      "gloss": "ke tla e fa"
     },
     {
       "surface": "בלבבם",
-      "gloss": "dipelong tša bona"
+      "gloss": "pelong ya bona"
     },
     {
       "surface": "לבלתי",
-      "gloss": "gore ba se ke"
+      "gloss": "gore ba se ke ba"
     },
     {
       "surface": "סור",
-      "gloss": "ba fapoga"
+      "gloss": "fetoga"
     },
     {
       "surface": "מעלי",
       "gloss": "go tšwa go nna"
     }
   ],
-  "timestamp": "2026-10-18T03:20:55.007925759Z",
+  "timestamp": "2026-10-18T17:21:57.232501422Z",
   "model": "glm-5.3"
 }

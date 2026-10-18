@@ -5,92 +5,76 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "קציר\/לקט",
-      "rationale": "koeto ya modu: go khaša le go boka — go laetša khokagano ya go tlogela dipokello, e lalehilego ka Sepedi"
-    }
-  ],
-  "translation": "Gomme ge le khaša kharifaste ya lefase la lona, le se ke la phetha ntlhakana ya tšimo ya gago ge o khaša, gomme dipokello tša kharifaste ya gago o se ke wa di boketša; go mafodi le go moafeti di tlogele; ke nna Yahwe Elohim ya lona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "0b5a7c6260cfd5973932dfb029cafecb76a24edc37dbfee79c4162ad8af31a8a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/23\/21-24.1792284201525.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ge le bja ⟨את⟩ sebjwa sa lefase la lona, o se ke wa phetha ⟨ke⟩ ntlha ya šemong ya gago ge o bja, gomme tša go bja tše di sa kgobokeretšwego ga o di kgoboketše; go yo a swafetšego le go moeti o di tloša ⟨אתם⟩; ke nna Yahwe Elohim ya lona.",
   "tokens": [
     {
       "surface": "ובקצרכם",
-      "gloss": "gomme ge le khaša"
+      "gloss": "gomme ge le bja"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "kharifaste"
+      "marks": "sebjwa"
     },
     {
       "surface": "קציר",
-      "gloss": "kharifaste"
+      "gloss": "sebjwa"
     },
     {
       "surface": "ארצכם",
-      "gloss": "ya lefase la lona"
+      "gloss": "lefase la lona"
     },
     {
       "surface": "לא",
-      "gloss": "le se ke"
+      "gloss": "o se ke wa"
     },
     {
       "surface": "תכלה",
-      "gloss": "la phetha"
+      "gloss": "phetha"
     },
     {
       "surface": "פאת",
-      "gloss": "ntlhakana ya"
+      "gloss": "ntlha"
     },
     {
       "surface": "שדך",
-      "gloss": "tšimo ya gago"
+      "gloss": "šemong ya gago"
     },
     {
       "surface": "בקצרך",
-      "gloss": "ge o khaša"
+      "gloss": "ge o bja"
     },
     {
       "surface": "ולקט",
-      "gloss": "gomme dipokello tša"
+      "gloss": "gomme tša go bja tše di sa kgobokeretšwego"
     },
     {
       "surface": "קצירך",
-      "gloss": "kharifaste ya gago"
+      "gloss": "sebjwa sa gago"
     },
     {
       "surface": "לא",
-      "gloss": "o se ke"
+      "gloss": "o se ke wa"
     },
     {
       "surface": "תלקט",
-      "gloss": "wa di boketša"
+      "gloss": "di kgoboketša"
     },
     {
       "surface": "לעני",
-      "gloss": "go mafodi"
+      "gloss": "go yo a swafetšego"
     },
     {
       "surface": "ולגר",
-      "gloss": "le go moafeti"
+      "gloss": "le go moeti"
     },
     {
       "surface": "תעזב",
-      "gloss": "di tlogele"
+      "gloss": "o di tloša"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨אתם⟩",
       "marks": "di"
     },
     {
@@ -106,6 +90,6 @@
       "gloss": "Elohim ya lona"
     }
   ],
-  "timestamp": "2026-10-18T00:43:21.526942584Z",
+  "timestamp": "2026-10-18T17:30:57.075277963Z",
   "model": "glm-5.3"
 }

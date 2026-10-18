@@ -5,33 +5,7 @@
   "book": "1-chronicles",
   "lang": "nso",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "גם... גם... גם",
-      "rationale": "Boeletši bja gam ga tharo bo aga maitekelo — 'le... le... le' — phošo ya go boela morago ga e ka hlakala."
-    },
-    {
-      "kind": "substitution",
-      "subject": "moetapele",
-      "rationale": "נגיד ke 'yo a emeng pele' — molaodi, moetapele; ga se kgoši ka boyona."
-    },
-    {
-      "kind": "you",
-      "subject": "poledišano go Dafida",
-      "rationale": "Setšhaba se bolela ka go Dafida ka mo go tlwaelegilego — 'o', 'wa gago'."
-    }
-  ],
-  "translation": "Le maabane le maabane a go feta, le ge Shaule a be a le kgoši, o be o le ⟨o⟩ yo a ntšhago le a tsenyago ⟨את⟩ Yisraele; gomme Yahwe Elohim wa gago a go bolelela gore: O tla badia setšhaba sa ka Yisraele, gomme o tla ba moetapele godimo ga setšhaba sa ka Yisraele.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "891e7cef11bab3288c754dbaee33bac5ca70ca163ddc5070b64244859a11946b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/11\/1-4.1792303115217.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Le goba maabane, le maabane-mabedi, le ge Šaule a be e le kgoši, wena o be o ntšha le o ntšhwa Yisraele; gomme Yahwe Elohim wa gago o ile a re go wena: Wena o tla kgokološa ⟨את⟩ setšhaba sa ka, ⟨את⟩ Yisraele, gomme wena o tla ba mogalaodi godimo ga setšhaba sa ka, Yisraele.",
   "tokens": [
     {
       "surface": "גם",
@@ -47,19 +21,19 @@
     },
     {
       "surface": "שלשום",
-      "gloss": "maabane a go feta"
+      "gloss": "maabane-mabedi"
     },
     {
       "surface": "גם",
-      "gloss": "le ge"
+      "gloss": "le"
     },
     {
       "surface": "בהיות",
-      "gloss": "a be a le"
+      "gloss": "ge a be"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaule"
+      "gloss": "Šaule"
     },
     {
       "surface": "מלך",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "אתה",
-      "gloss": "o"
+      "gloss": "wena"
     },
     {
       "surface": "המוציא",
-      "gloss": "yo a ntšhago"
+      "gloss": "o ntšha"
     },
     {
       "surface": "והמביא",
-      "gloss": "le a tsenyago"
+      "gloss": "le o ntšhwa"
     },
     {
       "surface": "את",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "gomme a bolelela"
+      "gloss": "gomme a re"
     },
     {
       "surface": "יהוה",
@@ -100,15 +74,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "go"
+      "gloss": "go wena"
     },
     {
       "surface": "אתה",
-      "gloss": "o"
+      "gloss": "wena"
     },
     {
       "surface": "תרעה",
-      "gloss": "o tla badia"
+      "gloss": "o tla kgokološa"
     },
     {
       "surface": "את",
@@ -130,7 +104,7 @@
     },
     {
       "surface": "ואתה",
-      "gloss": "gomme o"
+      "gloss": "gomme wena"
     },
     {
       "surface": "תהיה",
@@ -138,7 +112,7 @@
     },
     {
       "surface": "נגיד",
-      "gloss": "moetapele"
+      "gloss": "mogalaodi"
     },
     {
       "surface": "על",
@@ -153,6 +127,6 @@
       "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-18T05:58:35.217940816Z",
+  "timestamp": "2026-10-18T16:57:31.230038953Z",
   "model": "glm-5.3"
 }

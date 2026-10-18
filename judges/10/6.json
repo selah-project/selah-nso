@@ -5,32 +5,11 @@
   "book": "judges",
   "lang": "nso",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "le",
-      "rationale": "Sepedi e nyaka kopanyi pele ga modirošo o mongwe le o mongwe; Seheberu se e hlagiša ka copula e tseneletseng"
-    },
-    {
-      "kind": "substitution",
-      "subject": "medimo",
-      "rationale": "אלהי ya ditšhaba e ngwalwa ka ditlhaka tše nnye go e hlakantšha le Elohim ya nnete"
-    }
-  ],
-  "translation": "Gomme bana ba Yisraele ba oketša go dira sebe mahlong a Yahwe, gomme ba šometše ⟨את⟩ Baale le ⟨את⟩ Ashetarote le ⟨את⟩ medimo ya ⟨את⟩ Arame le ⟨את⟩ medimo ya ⟨את⟩ Tsidone le ⟨את⟩ medimo ya ⟨את⟩ Moaba le ⟨את⟩ medimo ya bana ba ⟨את⟩ Amoni le ⟨את⟩ medimo ya Mafilistea; gomme ⟨את⟩ ba tlogetše ⟨את⟩ Yahwe, gomme ba sa mo šome.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "acd065dcf62b57370f6d3f1c6f39743e38a2e20ca2819263be0de3e2536dbd2f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/10\/5-8.1792287454958.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme bana ba Yisraele ba ile ba tlalela go dira sebe mahlong a Yahwe, gomme ba šoma ⟨את⟩ Baale le ⟨את⟩ Ashitarote, le ⟨את⟩ medimo ya Arame, le ⟨את⟩ medimo ya Tsidone, le ⟨את⟩ medimo ya Moabe, le ⟨את⟩ medimo ya bana ba Amoni, le ⟨את⟩ medimo ya Bafelešte, gomme ba tlogela ⟨את⟩ Yahwe, gomme ba sa mo šome.",
   "tokens": [
     {
       "surface": "ויספו",
-      "gloss": "ba oketša"
+      "gloss": "ba tlalela"
     },
     {
       "surface": "בני",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "ויעבדו",
-      "gloss": "ba šometše"
+      "gloss": "gomme ba šoma"
     },
     {
       "surface": "את",
@@ -70,21 +49,18 @@
       "gloss": "Baale"
     },
     {
-      "surface": "ויקבר... ואת",
-      "gloss": "⟨את⟩ le"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "Ashetarote"
+      "surface": "ואת",
+      "gloss": "le ⟨את⟩",
+      "marks": "Ashitarote"
     },
     {
       "surface": "העשתרות",
-      "gloss": "⟨את⟩ Ashetarote"
+      "gloss": "Ashitarote"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩"
+      "gloss": "le ⟨את⟩",
+      "marks": "medimo ya Arame"
     },
     {
       "surface": "אלהי",
@@ -92,11 +68,12 @@
     },
     {
       "surface": "ארם",
-      "gloss": "⟨את⟩ Arame"
+      "gloss": "Arame"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩"
+      "gloss": "le ⟨את⟩",
+      "marks": "medimo ya Tsidone"
     },
     {
       "surface": "אלהי",
@@ -104,11 +81,12 @@
     },
     {
       "surface": "צידון",
-      "gloss": "⟨את⟩ Tsidone"
+      "gloss": "Tsidone"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩"
+      "gloss": "le ⟨את⟩",
+      "marks": "medimo ya Moabe"
     },
     {
       "surface": "אלהי",
@@ -116,11 +94,12 @@
     },
     {
       "surface": "מואב",
-      "gloss": "⟨את⟩ Moaba"
+      "gloss": "Moabe"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩"
+      "gloss": "le ⟨את⟩",
+      "marks": "medimo ya bana ba Amoni"
     },
     {
       "surface": "אלהי",
@@ -132,11 +111,12 @@
     },
     {
       "surface": "עמון",
-      "gloss": "⟨את⟩ Amoni"
+      "gloss": "Amoni"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩"
+      "gloss": "le ⟨את⟩",
+      "marks": "medimo ya Bafelešte"
     },
     {
       "surface": "אלהי",
@@ -144,11 +124,11 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "Mafilistea"
+      "gloss": "Bafelešte"
     },
     {
       "surface": "ויעזבו",
-      "gloss": "⟨את⟩ ba tlogetše"
+      "gloss": "gomme ba tlogela"
     },
     {
       "surface": "את",
@@ -168,6 +148,6 @@
       "gloss": "mo šome"
     }
   ],
-  "timestamp": "2026-10-18T01:37:34.959190008Z",
+  "timestamp": "2026-10-18T17:28:17.990257185Z",
   "model": "glm-5.3"
 }

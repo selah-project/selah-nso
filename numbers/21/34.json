@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "sa gago",
-      "rationale": "Sepedi e nyaka ⟨sa gago⟩ — Seheberu se na le suffix fela go ידך"
-    },
-    {
-      "kind": "crux",
-      "subject": "go seatla sa gago",
-      "rationale": "בידך — 'go seatla' (kgetsi ya maatla) kgahlanong le 'mo maatleng a gago'; yena le setšhaba ka moka ka tlase ga preposition e tee"
-    },
-    {
-      "kind": "you",
-      "subject": "go Moshe",
-      "rationale": "Yahwe a bolela ka go lebana le Moshe — taelo le kgalalelo"
-    }
-  ],
-  "translation": "Gomme Yahwe a bolela go Moshe: O se ke wa mo tšhaba, ka gobane o mo file go seatla sa gago, yena le setšhaba sa gagwe ka moka, le lefase la gagwe; o dire mo bjalo ka ge o dirile go Sihone, kgoši ya ba-Emori, yo a dulago Heshbone.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "b46e000413ec5684c7b7b011047ade5448bd708bbf79004fcf5157327729df48",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/21\/33-35.1792284936025.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Yahwe a bolela go Moshe: O se ke wa mo tšhoga, ka gobane ke mo file ⟨את⟩ gona go seatla sa gago, le ⟨את⟩ setšhaba sa gae ka moka le ⟨את⟩ lefase la gae; gomme o tla mo dira bjalo ka ge o dirile Sihone, kgosí ya ba-Emori, yo a dulago Heshbone.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a bolela"
+      "gloss": "Gomme … a bolela"
     },
     {
       "surface": "יהוה",
@@ -55,12 +29,12 @@
     },
     {
       "surface": "תירא",
-      "gloss": "wa mo tšhaba"
+      "gloss": "wa tšhoga"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "yena"
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (Og)"
     },
     {
       "surface": "כי",
@@ -72,17 +46,17 @@
     },
     {
       "surface": "נתתי",
-      "gloss": "o file"
+      "gloss": "ke mo file"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "yena"
+      "gloss": "⟨את⟩ gona",
+      "marks": "gona (Og)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "setšhaba sa gagwe ka moka"
+      "gloss": "le ⟨את⟩",
+      "marks": "setšhaba sa gae ka moka"
     },
     {
       "surface": "כל",
@@ -90,20 +64,20 @@
     },
     {
       "surface": "עמו",
-      "gloss": "setšhaba sa gagwe"
+      "gloss": "setšhaba sa gae"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "lefase la gagwe"
+      "gloss": "le ⟨את⟩",
+      "marks": "lefase la gae"
     },
     {
       "surface": "ארצו",
-      "gloss": "lefase la gagwe"
+      "gloss": "lefase la gae"
     },
     {
       "surface": "ועשית",
-      "gloss": "o dire"
+      "gloss": "gomme o tla mo dira"
     },
     {
       "surface": "לו",
@@ -119,11 +93,11 @@
     },
     {
       "surface": "לסיחן",
-      "gloss": "go Sihone"
+      "gloss": "Sihone"
     },
     {
       "surface": "מלך",
-      "gloss": "kgoši"
+      "gloss": "kgosí"
     },
     {
       "surface": "האמרי",
@@ -142,6 +116,6 @@
       "gloss": "Heshbone"
     }
   ],
-  "timestamp": "2026-10-18T00:55:36.026891156Z",
+  "timestamp": "2026-10-18T17:33:52.625711832Z",
   "model": "glm-5.3"
 }

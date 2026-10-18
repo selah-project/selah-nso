@@ -5,111 +5,85 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כאתמול שלשום",
-      "rationale": "Idiom ya nako e fetilego — ya bopegile ka mantsu a mane, 'jaaka maabane le maabane-a-mabedi', sebopego se se begago 'go tloga khale'."
-    },
-    {
-      "kind": "crux",
-      "subject": "עלו עמם במחנה",
-      "rationale": "Ba ne ba namela le bona ka kampeng (KJV 'ba tsena le bona') khathanong le 'ba namela kgahlanong le bona' — go ea ka bokao bja עם."
-    },
-    {
-      "kind": "addition",
-      "subject": "ba boela",
-      "rationale": "Seheberu se ra go ba le barupi ba se nago le lehlwa; Sepedi se nyaka sebopego se feletšego se bolelago gore ba boela."
-    }
-  ],
-  "translation": "Gomme Baheberu ba be ba le go Bapelistine jaaka maabane le maabane-a-mabedi, bao ba namileng le bona ka kampeng go dikologa, le bona ba boela go ba le Yisraele bao ba nago le Shole le Yonathane.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "b49fd63885df2a96d2978ccc58b59bb395ab14190ca45e1e92b4e9c219a09d93",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/14\/21-24.1792288274119.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Bahebere ba bego ba le lebaneng baPelisetia, bjalo ka maabane le le la boraro go feta, bao ba ilego ba ea go sepele le bona go mokgoboketšong sekgoba ka moka, le bona ba ile ba boela go ba le Yisraele, bao ba bego le Shaole le Yonathane.",
   "tokens": [
     {
-      "surface": "והעברים",
-      "gloss": "gomme Baheberu"
+      "surface": "וְהָעִבְרִ֗ים",
+      "gloss": "gomme Bahebere"
     },
     {
-      "surface": "היו",
-      "gloss": "ba be"
+      "surface": "הָי֤וּ",
+      "gloss": "ba bego ba le"
     },
     {
-      "surface": "לפלשתים",
-      "gloss": "le go Bapelistine"
+      "surface": "לַפְּלִשְׁתִּים֙",
+      "gloss": "lebaneng baPelisetia"
     },
     {
-      "surface": "כאתמול",
-      "gloss": "jaaka maabane"
+      "surface": "כְּאֶתְמ֣וֹל",
+      "gloss": "bjalo ka maabane"
     },
     {
-      "surface": "שלשום",
-      "gloss": "le maabane-a-mabedi"
+      "surface": "שִׁלְשׁ֔וֹם",
+      "gloss": "le le la boraro go feta"
     },
     {
-      "surface": "אשר",
+      "surface": "אֲשֶׁ֨ר",
       "gloss": "bao"
     },
     {
-      "surface": "עלו",
-      "gloss": "ba namileng"
+      "surface": "עָל֥וּ",
+      "gloss": "ba ilego ba ea"
     },
     {
-      "surface": "עמם",
+      "surface": "עִמָּ֛ם",
+      "gloss": "go sepele le bona"
+    },
+    {
+      "surface": "בַּֽמַּחֲנֶ֖ה",
+      "gloss": "go mokgoboketšong"
+    },
+    {
+      "surface": "סָבִ֑יב",
+      "gloss": "sekgoba ka moka"
+    },
+    {
+      "surface": "וְגַ֗ם",
+      "gloss": "gomme le"
+    },
+    {
+      "surface": "הֵ֗מָּה",
       "gloss": "le bona"
     },
     {
-      "surface": "במחנה",
-      "gloss": "ka kampeng"
-    },
-    {
-      "surface": "סביב",
-      "gloss": "go dikologa"
-    },
-    {
-      "surface": "וגם",
-      "gloss": "le gape"
-    },
-    {
-      "surface": "המה",
-      "gloss": "le bona"
-    },
-    {
-      "surface": "להיות",
+      "surface": "לִֽהְיוֹת֙",
       "gloss": "go ba le"
     },
     {
-      "surface": "עם",
+      "surface": "עִם",
       "gloss": "le"
     },
     {
-      "surface": "ישראל",
+      "surface": "יִשְׂרָאֵ֔ל",
       "gloss": "Yisraele"
     },
     {
-      "surface": "אשר",
-      "gloss": "bao"
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "bao ba bego le"
     },
     {
-      "surface": "עם",
-      "gloss": "ba nago le"
+      "surface": "עִם",
+      "gloss": "le"
     },
     {
-      "surface": "שאול",
-      "gloss": "Shole"
+      "surface": "שָׁא֖וּל",
+      "gloss": "Shaole"
     },
     {
-      "surface": "ויונתן",
-      "gloss": "le Yonathane"
+      "surface": "וְיוֹנָתָֽן",
+      "gloss": "gomme Yonathane"
     }
   ],
-  "timestamp": "2026-10-18T01:51:14.119647658Z",
+  "timestamp": "2026-10-18T17:00:01.487678333Z",
   "model": "glm-5.3"
 }

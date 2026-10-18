@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "החיה ×3",
-      "rationale": "Sebopego sa go boela ga lentšu — go phediša go boeletšwa ga kgauswi ka mehla, go bontšha kgokgano ya kgang."
-    },
-    {
-      "kind": "addition",
-      "subject": "ke yena",
-      "rationale": "Sepedi se nyaka kopula ye Seheberu se sa e ngwago go ⟨zote⟩ le ⟨זה⟩."
-    }
-  ],
-  "translation": "Gomme ge a bolella kgoši ⟨את⟩ seo a pheditšego ⟨את⟩ yo a hwilego, bonang, mosadi yo mora wa gagwe a mo pheditšego a llela kgoši ka ntlo ya gagwe le ka polasing ya gagwe; gomme Gehazi a re: Mong wa ka kgoši, ke yena mosadi yole, gomme ke yena mora wa gagwe, yo Elisha a mo pheditšego.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "08b43bbeda870827012506da5fbb7f7451d60caac9b3c0868b93a8ff0e656275",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/8\/5-8.1792290703328.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme go diregile ge a bolela go kgoši ⟨את⟩ seo a se dirilego — ka moo a phetšitšego ⟨את⟩ yo a hwilego — gomme thwi, mosadi yo ⟨את⟩ mošimane wa gagwe a mo phetšitšego a ipilela go kgoši ka ntle ya ka yena le ka shapa ya gagwe. Gomme Gechazi a re: Morena wa ka, kgoshi, mosadi yo ke yena, gomme mosimane yo ke ena, yo Elisha a mo phetšitšego.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "gomme ge a ile"
+      "gloss": "Gomme go diregile"
     },
     {
       "surface": "הוא",
@@ -38,16 +17,16 @@
     },
     {
       "surface": "מספר",
-      "gloss": "a bolella"
+      "gloss": "a bolela"
     },
     {
       "surface": "למלך",
-      "gloss": "kgoši"
+      "gloss": "go kgoši"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "seo"
+      "marks": "seo a se dirilego"
     },
     {
       "surface": "אשר",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "החיה",
-      "gloss": "a pheditše"
+      "gloss": "a phetšitše"
     },
     {
       "surface": "את",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "והנה",
-      "gloss": "gomme bonang"
+      "gloss": "gomme thwi"
     },
     {
       "surface": "האשה",
@@ -80,20 +59,20 @@
     },
     {
       "surface": "החיה",
-      "gloss": "a pheditše"
+      "gloss": "a phetšitše"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mora wa gagwe"
+      "marks": "mošimane wa gagwe"
     },
     {
       "surface": "בנה",
-      "gloss": "mora wa gagwe"
+      "gloss": "mošimane wa gagwe"
     },
     {
       "surface": "צעקת",
-      "gloss": "a llela"
+      "gloss": "a ipilela"
     },
     {
       "surface": "אל",
@@ -109,7 +88,7 @@
     },
     {
       "surface": "ביתה",
-      "gloss": "ntlo ya gagwe"
+      "gloss": "ntle ya ka yena"
     },
     {
       "surface": "ועל",
@@ -117,39 +96,39 @@
     },
     {
       "surface": "שדה",
-      "gloss": "polasing ya gagwe"
+      "gloss": "shapa ya gagwe"
     },
     {
       "surface": "ויאמר",
-      "gloss": "gomme a re"
+      "gloss": "Gomme a re"
     },
     {
       "surface": "גחזי",
-      "gloss": "Gehazi"
+      "gloss": "Gechazi"
     },
     {
       "surface": "אדני",
-      "gloss": "mong wa ka"
+      "gloss": "Morena wa ka"
     },
     {
       "surface": "המלך",
-      "gloss": "kgoši"
+      "gloss": "kgoshi"
     },
     {
       "surface": "זאת",
-      "gloss": "yole"
+      "gloss": "ke yena"
     },
     {
       "surface": "האשה",
-      "gloss": "mosadi"
+      "gloss": "mosadi yo"
     },
     {
       "surface": "וזה",
-      "gloss": "gomme yena"
+      "gloss": "gomme yo"
     },
     {
       "surface": "בנה",
-      "gloss": "mora wa gagwe"
+      "gloss": "mošimane yo"
     },
     {
       "surface": "אשר",
@@ -157,13 +136,13 @@
     },
     {
       "surface": "החיה",
-      "gloss": "a pheditše"
+      "gloss": "a phetšitše"
     },
     {
       "surface": "אלישע",
       "gloss": "Elisha"
     }
   ],
-  "timestamp": "2026-10-18T02:31:43.329532882Z",
+  "timestamp": "2026-10-18T17:05:05.611997108Z",
   "model": "glm-5.3"
 }

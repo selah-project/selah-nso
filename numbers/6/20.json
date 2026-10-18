@@ -5,42 +5,16 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "bokgethwa",
-      "rationale": "קדש go ya le D2: bokgethwa, e sego halalela (Sesotho)"
-    },
-    {
-      "kind": "addition",
-      "subject": "ke",
-      "rationale": "Seheberu ga se na copula; ⟨ke⟩ e okeditšwe go ya le melaong ya Sepedi"
-    },
-    {
-      "kind": "crux",
-      "subject": "תנופה\/תרומה",
-      "rationale": "go tshikinya (wave) le go tlošwa (heave) — mekgwa ye mebedi ya go neša sehlabelo yeo ba fetoleli ba e fapanago ka gona"
-    }
-  ],
-  "translation": "Gomme moperisita o tla di tshikinya tshikinyo pele ga Yahwe; e bokgethwa bja moperisita, mmoho le sefuba sa tshikinyo le lenao la sehlabelo sa go tlošwa; ka morago ga dilo tšeo mnazare a ka noa beine.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "5c0c6a99105a177a605235c94bf6c3b575be447c9ed9022b1c168e65fb1e3968",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/6\/17-20.1792284578674.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme moperisita o tla di gondolola ⟨את⟩ bjalo ka sehleno sa go gondolola pele ga Yahwe; ke bokgethwa go moperisita, hammoho le sehuba sa go gondololwa le serope sa go swerwego sa sehleno; gomme ka morago ga moo nazire e ka nwa beere.",
   "tokens": [
     {
       "surface": "והניף",
-      "gloss": "o tla di tshikinya"
+      "gloss": "gomme o tla di gondolola"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "moperisita o tla di tshikinya"
+      "marks": "ke seo moperisita a se gondololago"
     },
     {
       "surface": "הכהן",
@@ -48,7 +22,7 @@
     },
     {
       "surface": "תנופה",
-      "gloss": "tshikinyo"
+      "gloss": "bjalo ka sehleno sa go gondolola"
     },
     {
       "surface": "לפני",
@@ -60,27 +34,27 @@
     },
     {
       "surface": "קדש",
-      "gloss": "bokgethwa"
+      "gloss": "ke bokgethwa"
     },
     {
       "surface": "הוא",
-      "gloss": "ke"
+      "gloss": "⟨ke⟩"
     },
     {
       "surface": "לכהן",
-      "gloss": "bja moperisita"
+      "gloss": "go moperisita"
     },
     {
       "surface": "על",
-      "gloss": "mmoho le"
+      "gloss": "hammogo le"
     },
     {
       "surface": "חזה",
-      "gloss": "sefuba"
+      "gloss": "sehuba"
     },
     {
       "surface": "התנופה",
-      "gloss": "sa tshikinyo"
+      "gloss": "sa go gondololwa"
     },
     {
       "surface": "ועל",
@@ -88,29 +62,29 @@
     },
     {
       "surface": "שוק",
-      "gloss": "lenao"
+      "gloss": "serope"
     },
     {
       "surface": "התרומה",
-      "gloss": "sa sehlabelo sa go tlošwa"
+      "gloss": "sa sehleno sa go swerwego"
     },
     {
       "surface": "ואחר",
-      "gloss": "ka morago ga dilo tšeo"
+      "gloss": "gomme ka morago ga moo"
     },
     {
       "surface": "ישתה",
-      "gloss": "a ka noa"
+      "gloss": "e ka nwa"
     },
     {
       "surface": "הנזיר",
-      "gloss": "mnazare"
+      "gloss": "nazire"
     },
     {
       "surface": "יין",
-      "gloss": "beine"
+      "gloss": "beere"
     }
   ],
-  "timestamp": "2026-10-18T00:49:38.675717833Z",
+  "timestamp": "2026-10-18T17:36:26.476872851Z",
   "model": "glm-5.3"
 }

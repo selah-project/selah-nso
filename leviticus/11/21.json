@@ -5,42 +5,16 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "לא",
-      "rationale": "negation ya Seheberu yeo e sa šomišwego mo polelong ya boemo, e tlwaetšwe go rola ga makala"
-    },
-    {
-      "kind": "crux",
-      "subject": "כרעים",
-      "rationale": "diphuka tše di kopantšwego tše di tšwa mangwaneng: 'maoto a kopantšwego' kgahlanong le 'diphuka tša go thuma'"
-    },
-    {
-      "kind": "you",
-      "subject": "go Israele",
-      "rationale": "maelelo a go laela setšhaba ka molao wa dijo"
-    }
-  ],
-  "translation": "Fela ⟨את⟩ se se ka ja, ga digagabi tša nonyana tše di sepelago ka mane, tše di nago maoto a kopantšwego godimo ga maoto a tšona, go thuma ka tšona mo lefaseng.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "dbaa5a7d1e6cfa0eb8add6fb206f26cf39f0017d06b8f56c44cf09e0043976a9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/11\/21-24.1792283752678.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fela ⟨את⟩ se le ka se ja go tšwa go digagabi tšohle tša go fofa, tše di sepelago ka ⟨maoto⟩ a nne, tšeo di nago le dirupo tše tharo-pedi godimo ga maoto a tšona, go di šomiša go thuma ka tšona ka lefaseng.",
   "tokens": [
     {
       "surface": "אך",
-      "gloss": "fela"
+      "gloss": "Fela"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "se"
+      "marks": "se (se se ka jalwago)"
     },
     {
       "surface": "זה",
@@ -48,11 +22,11 @@
     },
     {
       "surface": "תאכלו",
-      "gloss": "se se ka ja"
+      "gloss": "le ka se ja"
     },
     {
       "surface": "מכל",
-      "gloss": "ga"
+      "gloss": "go tšwa go tšohle"
     },
     {
       "surface": "שרץ",
@@ -60,7 +34,7 @@
     },
     {
       "surface": "העוף",
-      "gloss": "nonyana"
+      "gloss": "tša go fofa"
     },
     {
       "surface": "ההלך",
@@ -72,11 +46,11 @@
     },
     {
       "surface": "ארבע",
-      "gloss": "mane"
+      "gloss": "a nne"
     },
     {
       "surface": "אשר",
-      "gloss": "tše di nago"
+      "gloss": "tšeo"
     },
     {
       "surface": "לא",
@@ -84,7 +58,7 @@
     },
     {
       "surface": "כרעים",
-      "gloss": "maoto a kopantšwego"
+      "gloss": "dirupo"
     },
     {
       "surface": "ממעל",
@@ -104,13 +78,13 @@
     },
     {
       "surface": "על",
-      "gloss": "mo"
+      "gloss": "ka"
     },
     {
       "surface": "הארץ",
       "gloss": "lefase"
     }
   ],
-  "timestamp": "2026-10-18T00:35:52.679453922Z",
+  "timestamp": "2026-10-18T17:29:58.237407657Z",
   "model": "glm-5.3"
 }

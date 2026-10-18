@@ -5,38 +5,11 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "תבל",
-      "gloss-note": null,
-      "rationale": "תבל ke 'lefase la batho' (leratadima, le nago le bophelo) — a tšwa le ארץ pele, fela botho bo fapana."
-    },
-    {
-      "kind": "crux",
-      "subject": "מצקי",
-      "rationale": "'Dithipa tša lefase' (maswanthipa a emeng) kgahlanong le 'motheo' — moepo wa seswantšho o tswalwa le dithipa tša tempele."
-    },
-    {
-      "kind": "addition",
-      "subject": "le",
-      "rationale": "עם le dirulwa ka go ba lešala la 'go ba kgantšha le dikgosi'."
-    }
-  ],
-  "translation": "O emiša yo a diletšwego go tšwa leroleng, o phahameditše yo a hlokgago go tšwa sethutlwaneng sa dintši, go ba kgantšha le dikgosi, gomme o ba dumedditše setulo sa kganyogo; ka gobane dithipa tša lefase ke tša Yahwe, gomme o theile ⟨את⟩ lefase ka godimo ga tšona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "478812ae2dbb90111df4402fc355260b9f7d9d69d7974d95b7226c55165bb134",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/2\/5-8.1792287818033.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "O tlaiša yo a hlokago go tšwa leroleng, o magantša mohloki go tšwa mokgobong wa ditšhila, go ba tseleditše gore ba dule le dikgoši, gomme o ba neela setulo sa tlotlo; ka gobane go Yahwe ke dikgate tša lefase, gomme o beile lefase le legolo godimo ga tšona.",
   "tokens": [
     {
       "surface": "מקים",
-      "gloss": "o emiša"
+      "gloss": "o tlaiša"
     },
     {
       "surface": "מעפר",
@@ -44,23 +17,23 @@
     },
     {
       "surface": "דל",
-      "gloss": "yo a diletšwego"
+      "gloss": "yo a hlokago"
     },
     {
       "surface": "מאשפת",
-      "gloss": "go tšwa sethutlwaneng sa dintši"
+      "gloss": "go tšwa mokgobong wa ditšhila"
     },
     {
       "surface": "ירים",
-      "gloss": "o phahameditše"
+      "gloss": "o magantša"
     },
     {
       "surface": "אביון",
-      "gloss": "yo a hlokgago"
+      "gloss": "mohloki"
     },
     {
       "surface": "להושיב",
-      "gloss": "go ba kgantšha"
+      "gloss": "go ba tseleditše gore ba dule"
     },
     {
       "surface": "עם",
@@ -68,7 +41,7 @@
     },
     {
       "surface": "נדיבים",
-      "gloss": "dikgosi"
+      "gloss": "dikgoši"
     },
     {
       "surface": "וכסא",
@@ -76,11 +49,11 @@
     },
     {
       "surface": "כבוד",
-      "gloss": "sa kganyogo"
+      "gloss": "sa tlotlo"
     },
     {
       "surface": "ינחלם",
-      "gloss": "o ba dumedditše"
+      "gloss": "o ba neela"
     },
     {
       "surface": "כי",
@@ -88,29 +61,29 @@
     },
     {
       "surface": "ליהוה",
-      "gloss": "ke tša Yahwe"
+      "gloss": "go Yahwe"
     },
     {
       "surface": "מצקי",
-      "gloss": "dithipa"
+      "gloss": "dikgate tša"
     },
     {
       "surface": "ארץ",
-      "gloss": "tša lefase"
+      "gloss": "lefase"
     },
     {
       "surface": "וישת",
-      "gloss": "gomme o theile"
+      "gloss": "gomme o beile"
     },
     {
       "surface": "עליהם",
-      "gloss": "ka godimo ga tšona"
+      "gloss": "godimo ga tšona"
     },
     {
       "surface": "תבל",
-      "gloss": "⟨את⟩ lefase"
+      "gloss": "lefase le legolo"
     }
   ],
-  "timestamp": "2026-10-18T01:43:38.035057164Z",
+  "timestamp": "2026-10-18T17:00:40.260676017Z",
   "model": "glm-5.3"
 }

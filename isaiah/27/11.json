@@ -5,45 +5,19 @@
   "book": "isaiah",
   "lang": "nso",
   "chapter": 27,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ביבש קצירה",
-      "rationale": "ge sejalwa se oma — kgetollo: qhalwa e omile kgahlanong le mošomo wa go itlhantlha; mafoko a KJV a šoma le mošomo wa modu."
-    },
-    {
-      "kind": "substitution",
-      "subject": "קציר",
-      "rationale": "sejalwa — 'harvest\/crop'; mošomo wa go ja o hweditšwe ka 'dikarolo' (branches) tšaYe se phethilwe ka seswantšho."
-    },
-    {
-      "kind": "you",
-      "subject": "setšhaba",
-      "rationale": "go bolela ka setšhaba se se se nago kwešišo — polelo ya kahlolo, e sego ya go laletša."
-    }
-  ],
-  "translation": "Ge sejalwa sa yona se oma, dikarolo di a thuntšhwa; basadi ba tla ba di fiša; gobane ke setšhaba se se nago kwešišo — ka gobane mo a dirilego a ka se ba tshwere ka kutlwelo-hloko, gomme mo a bopilego a ka se ba fe mohau.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "64a6912029f9f3bbd43f331a711847a88a1c457bb78c1ae24883f44ca3edb592",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/27\/9-12.1792291746495.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ge dikalana tša yona di oma, di tla robega; basadi ba tšego ba tla fiša ⟨את⟩ yona; ka gobane ⟨ke⟩ setšhaba se se nago go kwešiša; ka fao yo a dirilego yona a ka se fe kutlwelo-bohloko, gomme yo a bopelego yona a ka se mo atlege.",
   "tokens": [
     {
       "surface": "ביבש",
-      "gloss": "ge se oma"
+      "gloss": "ge e oma"
     },
     {
       "surface": "קצירה",
-      "gloss": "sejalwa sa yona"
+      "gloss": "dikalana tša yona"
     },
     {
       "surface": "תשברנה",
-      "gloss": "di a thuntšhwa"
+      "gloss": "di tla robega"
     },
     {
       "surface": "נשים",
@@ -51,20 +25,20 @@
     },
     {
       "surface": "באות",
-      "gloss": "ba tla"
+      "gloss": "ba tšego ba tla"
     },
     {
       "surface": "מאירות",
-      "gloss": "ba di fiša"
+      "gloss": "ba fiša"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "yona"
+      "marks": "yona (dikalana tše di omilego tša sefala)"
     },
     {
       "surface": "כי",
-      "gloss": "gobane"
+      "gloss": "ka gobane"
     },
     {
       "surface": "לא",
@@ -76,11 +50,11 @@
     },
     {
       "surface": "בינות",
-      "gloss": "kwešišo"
+      "gloss": "go kwešiša"
     },
     {
       "surface": "הוא",
-      "gloss": "ke o"
+      "gloss": "sone"
     },
     {
       "surface": "על",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "gobane"
+      "gloss": "fao"
     },
     {
       "surface": "לא",
@@ -96,15 +70,15 @@
     },
     {
       "surface": "ירחמנו",
-      "gloss": "a ka se ba tshwere ka kutlwelo-hloko"
+      "gloss": "a ka se fe kutlwelo-bohloko"
     },
     {
       "surface": "עשהו",
-      "gloss": "mo a dirilego"
+      "gloss": "yo a dirilego yona"
     },
     {
       "surface": "ויצרו",
-      "gloss": "gomme mo a bopilego"
+      "gloss": "gomme yo a bopelego yona"
     },
     {
       "surface": "לא",
@@ -112,9 +86,9 @@
     },
     {
       "surface": "יחננו",
-      "gloss": "a ka se ba fe mohau"
+      "gloss": "a ka se mo atlege"
     }
   ],
-  "timestamp": "2026-10-18T02:49:06.496228348Z",
+  "timestamp": "2026-10-18T17:19:49.265040729Z",
   "model": "glm-5.3"
 }

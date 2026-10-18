@@ -5,57 +5,31 @@
   "book": "daniel",
   "lang": "nso",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "metala e mehlano",
-      "rationale": "tšhipi, letsopa, mokara, silibera, gauta — lenaneo la bogoši go tšwa godimo go ya fase, go theoga"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ruakh",
-      "rationale": "רוחא e bolokwa e le ruakh ka D2 — phefo\/moya\/go hema ka lentšu le tee"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "דקו",
-      "rationale": "go roba-nyana go bušwa le go הדקת go 2:34 — mofuta o tee wa go senya o boela gape"
-    }
-  ],
-  "translation": "Ka nako yela tšhipi, letsopa, mokara, silibera le gauta di ile tša roba mmogo, gomme tša ba bjalo ka seswe sa mabala a go goma a sehla sa seetšo; gomme ruakh e di tlose, gomme go sa ba le lefelo leo ba ka hwetšago go lona; gomme leswika leo le kgwaditšego ⟨את⟩ seswantšho le ile la ba thaba kgolo, gomme la tlatša lefase ka moka.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "b3f21a18aa858514cdc96612dd693c8aa06e58184b79854e048b5865cb22d966",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/2\/33-36.1792301819706.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka nako yeo leswe, tholo ya mafele, tšhepe, silibera le gauta di ile tša fenywa tša ba tee, gomme tša ba bjalo ka lesusu la dithala tša go tlama tša peleto ya selemo, gomme ruakh e di tlišitše kaele, go sa hlwe ge lefelo la tšona le ka hwetšwa; gomme leswika leo le opeditšengo seswantšho le ile la ba thaba ye kgolo, gomme la tlatša lefase ka moka.",
   "tokens": [
     {
       "surface": "באדין",
-      "gloss": "ka nako yela"
+      "gloss": "ka nako yeo"
     },
     {
       "surface": "דקו",
-      "gloss": "di ile tša roba"
+      "gloss": "di ile tša fenywa"
     },
     {
       "surface": "כחדה",
-      "gloss": "mmogo"
+      "gloss": "tša ba tee"
     },
     {
       "surface": "פרזלא",
-      "gloss": "tšhipi"
+      "gloss": "leswe"
     },
     {
       "surface": "חספא",
-      "gloss": "letsopa"
+      "gloss": "tholo ya mafele"
     },
     {
       "surface": "נחשא",
-      "gloss": "mokara"
+      "gloss": "tšhepe"
     },
     {
       "surface": "כספא",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "ודהבא",
-      "gloss": "gauta"
+      "gloss": "le gauta"
     },
     {
       "surface": "והוו",
@@ -71,27 +45,27 @@
     },
     {
       "surface": "כעור",
-      "gloss": "bjalo ka seswe"
+      "gloss": "bjalo ka lesusu"
     },
     {
       "surface": "מן",
-      "gloss": "sa"
+      "gloss": "la"
     },
     {
       "surface": "אדרי",
-      "gloss": "mabala a go goma"
+      "gloss": "dithala tša go tlama"
     },
     {
       "surface": "קיט",
-      "gloss": "a sehla sa seetšo"
+      "gloss": "peleto ya selemo"
     },
     {
       "surface": "ונשא",
-      "gloss": "gomme e tlose"
+      "gloss": "gomme e tlišitše"
     },
     {
       "surface": "המון",
-      "gloss": "di"
+      "gloss": "tšona"
     },
     {
       "surface": "רוחא",
@@ -99,7 +73,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "gomme lefelo ka moka"
+      "gloss": "gomme"
     },
     {
       "surface": "אתר",
@@ -107,15 +81,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "ga go"
+      "gloss": "go sa"
     },
     {
       "surface": "השתכח",
-      "gloss": "ba hwetšago"
+      "gloss": "hlwe ge le ka hwetšwa"
     },
     {
       "surface": "להון",
-      "gloss": "go lona"
+      "gloss": "la tšona"
     },
     {
       "surface": "ואבנא",
@@ -127,15 +101,15 @@
     },
     {
       "surface": "מחת",
-      "gloss": "le kgwaditšego"
+      "gloss": "le opeditšengo"
     },
     {
       "surface": "לצלמא",
-      "gloss": "⟨את⟩ seswantšho"
+      "gloss": "seswantšho"
     },
     {
       "surface": "הות",
-      "gloss": "le ile la ba"
+      "gloss": "e ile ya ba"
     },
     {
       "surface": "לטור",
@@ -143,7 +117,7 @@
     },
     {
       "surface": "רב",
-      "gloss": "kgolo"
+      "gloss": "ye kgolo"
     },
     {
       "surface": "ומלת",
@@ -158,6 +132,6 @@
       "gloss": "lefase"
     }
   ],
-  "timestamp": "2026-10-18T05:36:59.707968571Z",
+  "timestamp": "2026-10-18T17:07:11.088734991Z",
   "model": "glm-5.3"
 }

@@ -5,27 +5,11 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "העליה",
-      "rationale": "leina le kopantšwe le אל; את ga e gona mo — sekopanyi se tlamiša go swana"
-    }
-  ],
-  "translation": "Gomme go ba letšatši, a tla gona, a sutulela kamoreng ya godimo, a robala gona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "5466244a943ad9442a68a231c0fd68c1830165fd0540e6b743de938a048b0146",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/4\/9-12.1792290487927.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme letšatši le tšeeng, a tla kua, a kgutlela go phaposana ye e phahameng, a robala kua.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "gomme go ba"
+      "gloss": "gomme ... le tšeea"
     },
     {
       "surface": "היום",
@@ -37,19 +21,19 @@
     },
     {
       "surface": "שמה",
-      "gloss": "gona"
+      "gloss": "kua"
     },
     {
       "surface": "ויסר",
-      "gloss": "a sutulela"
+      "gloss": "a kgutlela"
     },
     {
       "surface": "אל",
-      "gloss": "kamoreng ya godimo"
+      "gloss": "go"
     },
     {
       "surface": "העליה",
-      "gloss": "⟨את⟩ kamoreng ya godimo"
+      "gloss": "phaposana ye e phahameng"
     },
     {
       "surface": "וישכב",
@@ -57,9 +41,9 @@
     },
     {
       "surface": "שמה",
-      "gloss": "gona"
+      "gloss": "kua"
     }
   ],
-  "timestamp": "2026-10-18T02:28:07.928653511Z",
+  "timestamp": "2026-10-18T17:04:09.622748518Z",
   "model": "glm-5.3"
 }

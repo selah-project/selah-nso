@@ -5,41 +5,20 @@
   "book": "1-kings",
   "lang": "nso",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "היצוע",
-      "rationale": "Literally 'something spread out' — lean-to side-structure (JPS) vs. 'chambers' (KJV) vs. 'stories'; here rendered as attached lean-to."
-    },
-    {
-      "kind": "measurement",
-      "subject": "חמש אמות",
-      "rationale": "Five cubits of height — a measurement given for the side structure."
-    }
-  ],
-  "translation": "Gomme a aga ⟨את⟩ sešireletšo se sengwe se emetšego godimo ga ntlo ka moka, bophagamo bja wona bja diatara tše hlano; gomme a swara ntlo ka mokgwa wa dikherute.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "b291258192b9064879a8291a92eedb88d5b66afdef0b548eeb45d4d9e83554b7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/6\/9-12.1792289686811.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a aga ⟨את⟩ seaparo sa maphato godimo ga ntlo ka moka, diama tše hlano bophagamo bja sona, gomme se tshwere ⟨את⟩ ntlo ka ditlhare tša areze.",
   "tokens": [
     {
       "surface": "ויבן",
-      "gloss": "gomme a aga"
+      "gloss": "a aga"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sešireletšo se emetšego"
+      "marks": "seaparo sa maphato"
     },
     {
       "surface": "היצוע",
-      "gloss": "sešireletšo se emetšego"
+      "gloss": "seaparo sa maphato"
     },
     {
       "surface": "על",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "אמות",
-      "gloss": "diatara"
+      "gloss": "diama"
     },
     {
       "surface": "קומתו",
-      "gloss": "bophagamo bja wona"
+      "gloss": "bophagamo bja sona"
     },
     {
       "surface": "ויאחז",
-      "gloss": "a swara"
+      "gloss": "gomme se tshwere"
     },
     {
       "surface": "את",
@@ -80,13 +59,13 @@
     },
     {
       "surface": "בעצי",
-      "gloss": "ka mokgwa wa"
+      "gloss": "ka ditlhare tša"
     },
     {
       "surface": "ארזים",
-      "gloss": "dikherute"
+      "gloss": "areze"
     }
   ],
-  "timestamp": "2026-10-18T02:14:46.812468863Z",
+  "timestamp": "2026-10-18T16:59:23.346709070Z",
   "model": "glm-5.3"
 }

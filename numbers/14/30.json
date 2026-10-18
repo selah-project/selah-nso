@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אם...כי אם",
-      "rationale": "Seheberu: ge e le gabotse lona le ka se tsene... e sego fela Kalebe; go hlakagala ga molao go fetošetšwe go hwetša botlalo."
-    },
-    {
-      "kind": "idiom",
-      "subject": "go tloditša seatla",
-      "rationale": "נשא יד — go tloditša seatla ke maelantšu a go ikan̈a, e sego go tloditša fela."
-    }
-  ],
-  "translation": "Lona ⟨⟨ka peleng⟩⟩ le ka se tsene lefaseng leo, leo ka lona ke tloditšego ⟨את⟩ seatla sa ka go dipoša lona falong, ntle le Kalebe mora wa Yefune le Yehošua mora wa Nune.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "474f565aa147f798bd87e05b6faacc44175317148103c0c2d9d6069dde0f95f1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/14\/29-32.1792284713745.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ge lona le ka ⟨ga⟩ tsena lefaseng leo ke tladitšego ⟨את⟩ seatla sa ka go le dira le dule gona, e sego ntle le Kaelebe morwa wa Yefune le Yehošua morwa wa Nune.",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "le ka se"
+      "gloss": "ge"
     },
     {
       "surface": "אתם",
@@ -38,15 +17,15 @@
     },
     {
       "surface": "תבאו",
-      "gloss": "tsene"
+      "gloss": "le tsena"
     },
     {
       "surface": "אל",
-      "gloss": "lefaseng"
+      "gloss": "lefeng"
     },
     {
       "surface": "הארץ",
-      "gloss": "lefase leo"
+      "gloss": "lefase"
     },
     {
       "surface": "אשר",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "נשאתי",
-      "gloss": "ke tloditšego"
+      "gloss": "ke tladitšego"
     },
     {
       "surface": "את",
@@ -67,35 +46,36 @@
     },
     {
       "surface": "לשכן",
-      "gloss": "go dipoša"
+      "gloss": "go le dira le dule"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩ lona",
+      "marks": "gona (lefase leo)"
     },
     {
       "surface": "בה",
-      "gloss": "falong"
+      "gloss": "gona"
     },
     {
       "surface": "כי",
-      "gloss": "ntle le"
-    },
-    {
-      "surface": "אם",
       "gloss": "e sego"
     },
     {
+      "surface": "אם",
+      "gloss": "ntle le"
+    },
+    {
       "surface": "כלב",
-      "gloss": "Kalebe"
+      "gloss": "Kaelebe"
     },
     {
       "surface": "בן",
-      "gloss": "mora"
+      "gloss": "morwa wa"
     },
     {
       "surface": "יפנה",
-      "gloss": "wa Yefune"
+      "gloss": "Yefune"
     },
     {
       "surface": "ויהושע",
@@ -103,13 +83,13 @@
     },
     {
       "surface": "בן",
-      "gloss": "mora"
+      "gloss": "morwa wa"
     },
     {
       "surface": "נון",
-      "gloss": "wa Nune"
+      "gloss": "Nune"
     }
   ],
-  "timestamp": "2026-10-18T00:51:53.746877900Z",
+  "timestamp": "2026-10-18T17:33:37.991424728Z",
   "model": "glm-5.3"
 }

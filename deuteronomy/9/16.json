@@ -5,44 +5,23 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "מסכה",
-      "rationale": "‘se se nweditšwego’ — seswantšho sa tšhipi yeo e nweditšwego go dira sejanaga; ‘la tšhipi’ ke karolo ya tšwelopele"
-    },
-    {
-      "kind": "you",
-      "subject": "to Yisraele",
-      "rationale": "Moshe a bolela ka go setšhaba sa Yisraele ka kopano ya bohlatse"
-    }
-  ],
-  "translation": "Gomme ke bona, gomme bona, le dibe la go Yahwe Elohim ya lona, le dirile le gona lena kgwana la tšhipi; le fetošitše leika go tšwa go tselaeo Yahwe a laeditše lona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "5a4452f0e8e73f6b1cea34136ff5eaa856fc596221c7330dd2dff7801bd6d1e8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/9\/13-16.1792285735917.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ka mo ke bona, gomme bonang, le be le sebetšego kgahlanong le Yahwe Elohim ya lona, le dirile go lona kwana ya go epilwe ka go dutla tšhipi, le fetošitše lehlaari tsebjana go tšwa tsela yeo Yahwe a laelago ⟨את⟩ lena ka yona.",
   "tokens": [
     {
       "surface": "וארא",
-      "gloss": "ke bona"
+      "gloss": "gomme ka mo ke bona"
     },
     {
       "surface": "והנה",
-      "gloss": "gomme bona"
+      "gloss": "gomme bonang"
     },
     {
       "surface": "חטאתם",
-      "gloss": "le dibe"
+      "gloss": "le be le sebetšego"
     },
     {
       "surface": "ליהוה",
-      "gloss": "la go Yahwe"
+      "gloss": "kgahlanong le Yahwe"
     },
     {
       "surface": "אלהיכם",
@@ -54,23 +33,23 @@
     },
     {
       "surface": "לכם",
-      "gloss": "le gona lena"
+      "gloss": "go lona"
     },
     {
       "surface": "עגל",
-      "gloss": "kgwana"
+      "gloss": "kwana"
     },
     {
       "surface": "מסכה",
-      "gloss": "la tšhipi"
+      "gloss": "ya go epilwe ka go dutla tšhipi"
     },
     {
       "surface": "סרתם",
-      "gloss": "le fetošitše"
+      "gloss": "le fetošitše lehlaari"
     },
     {
       "surface": "מהר",
-      "gloss": "leika"
+      "gloss": "tsebjana"
     },
     {
       "surface": "מן",
@@ -78,15 +57,15 @@
     },
     {
       "surface": "הדרך",
-      "gloss": "go tselaeo"
+      "gloss": "tsela"
     },
     {
       "surface": "אשר",
-      "gloss": "—"
+      "gloss": "yeo"
     },
     {
       "surface": "צוה",
-      "gloss": "a laeditše"
+      "gloss": "a laelago"
     },
     {
       "surface": "יהוה",
@@ -94,9 +73,10 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩",
+      "marks": "lena"
     }
   ],
-  "timestamp": "2026-10-18T01:08:55.918956928Z",
+  "timestamp": "2026-10-18T17:10:04.206271907Z",
   "model": "glm-5.3"
 }

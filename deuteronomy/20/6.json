@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "חלל",
-      "rationale": "'go ja matundwa' kgahlanong le 'go dira se tloša-se-tloša' (ylt: profane) — Peshitta\/mishna e neela maatla a go ja feela nywaga ya tharo"
-    },
-    {
-      "kind": "substitution",
-      "subject": "כרם",
-      "rationale": "'serapeng sa dinamune' — karolo ya motheo e a bolokwa: lefelo la dinamune"
-    }
-  ],
-  "translation": "Gomme ke mang motho yo a laeditše serapeng sa dinamune a sa ja ⟨את⟩ matundwa wa sona? A tswele a boele ntlong ya gagwe, gore a se swarwe ke lehu ntweng, gomme motho yo mongwe a ja matundwa.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "3c6e5c116bb733251dbb74edf3234fe83f4973455a377d92ec70b7275a6317d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/20\/5-8.1792285986073.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ke mang ⟨yo⟩ motho yo a leilego serapa sa dinose gomme a sa sa šome? A tšwele, a boele gae, gore a sa fe ntweng, gomme motho yo mongwe a se šome.",
   "tokens": [
     {
       "surface": "ומי",
@@ -42,23 +21,23 @@
     },
     {
       "surface": "נטע",
-      "gloss": "a laeditše"
+      "gloss": "a leilego"
     },
     {
       "surface": "כרם",
-      "gloss": "serapeng sa dinamune"
+      "gloss": "serapa sa dinose"
     },
     {
       "surface": "ולא",
-      "gloss": "a sa"
+      "gloss": "gomme a sa"
     },
     {
       "surface": "חללו",
-      "gloss": "ja ⟨את⟩"
+      "gloss": "sa šome"
     },
     {
       "surface": "ילך",
-      "gloss": "a tswele"
+      "gloss": "a tšwele"
     },
     {
       "surface": "וישב",
@@ -66,15 +45,15 @@
     },
     {
       "surface": "לביתו",
-      "gloss": "ntlong ya gagwe"
+      "gloss": "gae"
     },
     {
       "surface": "פן",
-      "gloss": "gore a se swarwe ke"
+      "gloss": "gore a sa"
     },
     {
       "surface": "ימות",
-      "gloss": "lehu"
+      "gloss": "fe"
     },
     {
       "surface": "במלחמה",
@@ -90,9 +69,9 @@
     },
     {
       "surface": "יחללנו",
-      "gloss": "a ja matundwa"
+      "gloss": "a se šome"
     }
   ],
-  "timestamp": "2026-10-18T01:13:06.074565307Z",
+  "timestamp": "2026-10-18T17:08:44.109635269Z",
   "model": "glm-5.3"
 }

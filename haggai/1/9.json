@@ -5,41 +5,15 @@
   "book": "haggai",
   "lang": "nso",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ונפחתי",
-      "rationale": "'ke ile ka se fofša' — sefofšo sa mangolo, go fofša ka mollong go fapana le go nyenyeka ga dilo"
-    },
-    {
-      "kind": "substitution",
-      "subject": "חרב",
-      "rationale": "'e senyegilego' — lentšu le bolela gore e omile goba e senyegile; mabapi le ntlo ke go senyega"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הבית \/ ביתי \/ לביתו",
-      "rationale": "go boela ga 'ntlo' ga raro go bea kgahlanong ntlo ya Yahwe le matlo a batho"
-    }
-  ],
-  "translation": "Le ne le lebeleletše bontši, gomme bonang, go ile gwa ba se sennyane; gomme ge le tlise gae ⟨את⟩ se sennyane, ke ile ka se fofša. Ke ka baka la eng? — go bolela Yahwe Tsebaote. Ke ka baka la gore ntlo ya ka, yeo e senyegilego, e le gore lona le matha, motho le eeng ka go ntlo ya gagwe.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "3559b18aa1d248de7a5905fc9c49bc5e7ae14d6e8791e730f3ea0c8c052470a6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/haggai\/1\/9-12.1792296797864.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Le beleditše bakeng sa bontši, gomme thwa, ke bonyenyane; gomme ge le tsenya se ntlong, ke ile ka se humula ka phefo. Ka gobane eng? go bolela Yahwe Tsebaote. Ka gobane ntlo ya ka e senyegile, gomme lona le kitimaka, mongwe le mongwe go ya ntlong ya gagwe.",
   "tokens": [
     {
       "surface": "פנה",
-      "gloss": "le ne le lebeleletše"
+      "gloss": "le beleditše"
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "bakeng sa"
     },
     {
       "surface": "הרבה",
@@ -47,31 +21,31 @@
     },
     {
       "surface": "והנה",
-      "gloss": "gomme bonang"
+      "gloss": "gomme thwa"
     },
     {
       "surface": "למעט",
-      "gloss": "se sennyane"
+      "gloss": "bonyenyane"
     },
     {
       "surface": "והבאתם",
-      "gloss": "gomme ge le tlise gae"
+      "gloss": "gomme la tsenya"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨את⟩ se sennyane"
+      "gloss": "ntlong"
     },
     {
       "surface": "ונפחתי",
-      "gloss": "ke ile ka se fofša"
+      "gloss": "ke ile ka humula"
     },
     {
       "surface": "בו",
-      "gloss": "go sona"
+      "gloss": "ka gona"
     },
     {
       "surface": "יען",
-      "gloss": "ke ka baka la"
+      "gloss": "ka gobane"
     },
     {
       "surface": "מה",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "יען",
-      "gloss": "ke ka baka la gore"
+      "gloss": "ka gobane"
     },
     {
       "surface": "ביתי",
@@ -103,11 +77,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "e le"
+      "gloss": "e"
     },
     {
       "surface": "חרב",
-      "gloss": "e senyegilego"
+      "gloss": "e senyegile"
     },
     {
       "surface": "ואתם",
@@ -115,17 +89,17 @@
     },
     {
       "surface": "רצים",
-      "gloss": "le matha"
+      "gloss": "le kitimaka"
     },
     {
       "surface": "איש",
-      "gloss": "motho"
+      "gloss": "mongwe le mongwe"
     },
     {
       "surface": "לביתו",
-      "gloss": "ka go ntlo ya gagwe"
+      "gloss": "go ya ntlong ya gagwe"
     }
   ],
-  "timestamp": "2026-10-18T04:13:17.865189642Z",
+  "timestamp": "2026-10-18T17:19:17.959279630Z",
   "model": "glm-5.3"
 }

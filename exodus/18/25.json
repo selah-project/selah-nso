@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "bjalo ka",
-      "rationale": "Sepedi e nyaka kopanyo-pedi mo go sepelela sa go bapetša"
-    },
-    {
-      "kind": "measurement",
-      "subject": "dikete-makgolo-masomehlano-lesome",
-      "rationale": "palo ya dikgosi ka dikgomo tša balaodi — sebopego sa sesole sa setšhaba"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שרי...ושרי",
-      "rationale": "puo e boletšwego ka mehla ga nne, sebopego se se utollwago ka pela"
-    }
-  ],
-  "translation": "Gomme Moshe a kgetha banna ba maatla go tšwa go Yisraele ka moka, a bea ⟨את⟩ bona bjalo ka dihlogo godimo ga setšhaba — dikgosi tša dikete, dikgosi tša makgolo, dikgosi tša masomehlano le dikgosi tša lesome.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "bba99d2e4c5d04cad30ece01ac68fa339deeb7f04e6a5ff30b550c0440431446",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/18\/25-27.1792282769126.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Moshe a kgetha banna ba matla go tšwa go Yisraele ka moka, a ba fa ⟨את⟩ bjalo ka dikgoši godimo ga setšhaba: dikgoši tša dikete, dikgoši tša makgolo, dikgoši tša masomehlano, le dikgoši tša lesome.",
   "tokens": [
     {
       "surface": "ויבחר",
-      "gloss": "a kgetha"
+      "gloss": "gomme … a kgetha"
     },
     {
       "surface": "משה",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "חיל",
-      "gloss": "ba maatla"
+      "gloss": "ba matla"
     },
     {
       "surface": "מכל",
-      "gloss": "go tšwa go ... ka moka"
+      "gloss": "go tšwa go … ka moka"
     },
     {
       "surface": "ישראל",
@@ -59,16 +33,16 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "a bea"
+      "gloss": "a ba fa"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "bona"
+      "marks": "bjalo ka dikgoši"
     },
     {
       "surface": "ראשים",
-      "gloss": "bjalo ka dihlogo"
+      "gloss": "bjalo ka dikgoši"
     },
     {
       "surface": "על",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "dikgosi tša"
+      "gloss": "dikgoši tša"
     },
     {
       "surface": "אלפים",
@@ -88,7 +62,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "dikgosi tša"
+      "gloss": "dikgoši tša"
     },
     {
       "surface": "מאות",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "שרי",
-      "gloss": "dikgosi tša"
+      "gloss": "dikgoši tša"
     },
     {
       "surface": "חמשים",
@@ -104,13 +78,13 @@
     },
     {
       "surface": "ושרי",
-      "gloss": "le dikgosi tša"
+      "gloss": "le dikgoši tša"
     },
     {
       "surface": "עשרת",
       "gloss": "lesome"
     }
   ],
-  "timestamp": "2026-10-18T00:19:29.127061101Z",
+  "timestamp": "2026-10-18T17:11:43.688418368Z",
   "model": "glm-5.3"
 }

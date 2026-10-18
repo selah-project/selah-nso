@@ -5,32 +5,11 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "נפשך",
-      "rationale": "Nefesh — mokgwa wa botšego\/theko ya botšego, e sego moya yo a senyegago; 'ruakh' e fapana le yena."
-    },
-    {
-      "kind": "you",
-      "subject": "go Yisraele",
-      "rationale": "Mošomo o mo laela Yisraele ka tlhamalalo — melao ya kgwerano."
-    }
-  ],
-  "translation": "Leltšatšeng le, Yahwe Elohim wa gago o go laela go dira ⟨את⟩ melawana ye, le ⟨את⟩ dikahlolo; gomme o tla e hlweketša gomme o e dira ka pelo ya gago ka moka le ka moya wa botšego wa gago ka moka.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "00106c9a54a47ed101b3eb4ed699cf5bae087ef8a1ad89e17185b2140eed0257",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/26\/13-16.1792286193565.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lentšung le, Yahwe Elohim wa gago o go laela go dira ⟨את⟩ mehla ye ya go kgethwa le ⟨את⟩ dikahlolo tše; gomme o di boloke gomme o di dire ka pelo ya gago ka moka le ka moya wa bophelo wa gago ka moka.",
   "tokens": [
     {
       "surface": "היום",
-      "gloss": "leltšatšeng"
+      "gloss": "Lentšung le"
     },
     {
       "surface": "הזה",
@@ -55,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "melawana ye"
+      "marks": "mehla ye ya go kgethwa"
     },
     {
       "surface": "החקים",
-      "gloss": "melawana"
+      "gloss": "mehla ya go kgethwa"
     },
     {
       "surface": "האלה",
@@ -67,8 +46,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "dikahlolo"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "dikahlolo tše"
     },
     {
       "surface": "המשפטים",
@@ -76,15 +55,16 @@
     },
     {
       "surface": "ושמרת",
-      "gloss": "o tla e hlweketša"
+      "gloss": "gomme o di boloke"
     },
     {
       "surface": "ועשית",
-      "gloss": "gomme o e dira"
+      "gloss": "gomme o di dire"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ tšona"
+      "gloss": "⟨את⟩ tšona",
+      "marks": "go di boloke le go di dire"
     },
     {
       "surface": "בכל",
@@ -100,9 +80,9 @@
     },
     {
       "surface": "נפשך",
-      "gloss": "moya wa botšego wa gago"
+      "gloss": "moya wa bophelo wa gago"
     }
   ],
-  "timestamp": "2026-10-18T01:16:33.566793870Z",
+  "timestamp": "2026-10-18T17:09:30.902829474Z",
   "model": "glm-5.3"
 }

@@ -5,61 +5,35 @@
   "book": "isaiah",
   "lang": "nso",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "בכורה",
-      "rationale": "'Sehlare sa mathomo pele ga selemo' — ba bangwe ba re 'thunya ya fega ya mathomo', ba bangwe 'peo ya mathomo'; Seheberu se bolela sehlare se sa fegago pele ga nako ya selemo."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "יראה \/ הראה",
-      "rationale": "Go bona go bušwa gabedi — 'a e bonago \/ mmohi' — modu o tee wa ראה, mokgwa wa Seheberu wa go boella morago."
-    },
-    {
-      "kind": "elision",
-      "subject": "אותה",
-      "rationale": "Aleph-tav e kgomaretše ציצת ya sesothumotšo; e bolokwa bjalo ka ⟨את⟩."
-    }
-  ],
-  "translation": "Gomme sehlare se senyofago, kganya ya bokgabo bja wona, se lego godimo ga hlogo ya lephotha la mafura, se tla ba bjalo ka sa mathomo sa pele ga selemo; eo mmohi a e bonago, go sa feto ⟨yona⟩ seatleng sa gagwe, a e lgaganya.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "7bc698e7ae6683da4a0af4e86aa053d6a9fcc8ccbebb8d815fca88b64546b0b8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/28\/1-4.1792291833246.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme tholoana e fifalago — khanya e kgahlišago ya yena, yeo e lego ka godimo ga hlogo ya sekgowa sa mafura — e tla ba bjalo ka peomathari ya mathomo pele ga selemo; ge a e bona ⟨את⟩ ge e sa le seatleng sa gagwe, o tla e ja moumoane.",
   "tokens": [
     {
       "surface": "והיתה",
-      "gloss": "Gomme ... se tla ba"
+      "gloss": "gomme e tla ba"
     },
     {
       "surface": "ציצת",
-      "gloss": "sehlare"
+      "gloss": "tholoana"
     },
     {
       "surface": "נבל",
-      "gloss": "se senyofago"
+      "gloss": "e fifalago"
     },
     {
       "surface": "צבי",
-      "gloss": "kganya"
+      "gloss": "khanya e kgahlišago"
     },
     {
       "surface": "תפארתו",
-      "gloss": "ya bokgabo bja wona"
+      "gloss": "ya yena"
     },
     {
       "surface": "אשר",
-      "gloss": "se lego"
+      "gloss": "yeo e lego"
     },
     {
       "surface": "על",
-      "gloss": "godimo ga"
+      "gloss": "ka godimo ga"
     },
     {
       "surface": "ראש",
@@ -67,15 +41,15 @@
     },
     {
       "surface": "גיא",
-      "gloss": "ya lephotha"
+      "gloss": "sekgowa"
     },
     {
       "surface": "שמנים",
-      "gloss": "la mafura"
+      "gloss": "sa mafura"
     },
     {
       "surface": "כבכורה",
-      "gloss": "bjalo ka sa mathomo"
+      "gloss": "bjalo ka peomathari ya mathomo"
     },
     {
       "surface": "בטרם",
@@ -87,24 +61,24 @@
     },
     {
       "surface": "אשר",
-      "gloss": "eo"
+      "gloss": "yeo"
     },
     {
       "surface": "יראה",
-      "gloss": "a e bonago"
+      "gloss": "a e bona"
     },
     {
       "surface": "הראה",
-      "gloss": "mmohi"
+      "gloss": "mo a bonago"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "go sa feto (yona)"
+      "marks": "peomathari (yeo a e bonago)"
     },
     {
       "surface": "בעודה",
-      "gloss": "go sa feto"
+      "gloss": "ge e sa le"
     },
     {
       "surface": "בכפו",
@@ -112,9 +86,9 @@
     },
     {
       "surface": "יבלענה",
-      "gloss": "a e lgaganya"
+      "gloss": "o tla e ja moumoane"
     }
   ],
-  "timestamp": "2026-10-18T02:50:33.247994475Z",
+  "timestamp": "2026-10-18T17:19:54.196331901Z",
   "model": "glm-5.3"
 }

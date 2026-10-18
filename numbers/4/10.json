@@ -5,75 +5,59 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "thashe",
-      "rationale": "Phoofolo ye e sa tsewego gabotse: 'tafshe' — KJV 'badger', JPS 'seal', BSB 'fine leather'; re beile modumo wa Seheberu."
-    }
-  ],
-  "translation": "Gomme ba tla bea yona le ⟨את⟩ didirišwa tša yona ka moka ka go sekhutollo sa letlalo la thashe, gomme ba tla bea godimo ga mokgoto.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "212874d77c7a6d31116f6949a5af440f8261cd775a3d6736ce7f1fc26dd5bffd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/4\/9-12.1792284499536.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba tla bea ⟨את⟩ yona le ⟨את⟩ didirišwa tša yona ka moka mekgahlong ya letlalo la takhase, gomme ba tla bea ⟨e⟩ godimo ga lesika la go rwala.",
   "tokens": [
     {
-      "surface": "ונתנו",
-      "gloss": "ba tla bea"
+      "surface": "וְנָתְנוּ",
+      "gloss": "gomme ba tla bea"
     },
     {
-      "surface": "אתה",
-      "gloss": "⟨את⟩ yona",
-      "marks": "Menora"
-    },
-    {
-      "surface": "ואת",
+      "surface": "אֹתָהּ",
       "gloss": "⟨את⟩",
-      "marks": "didirišwa tša yona"
+      "marks": "yona"
     },
     {
-      "surface": "כל",
+      "surface": "וְאֶת",
+      "gloss": "le ⟨את⟩",
+      "marks": "didirišwa tša yona ka moka"
+    },
+    {
+      "surface": "כָּל",
       "gloss": "ka moka"
     },
     {
-      "surface": "כליה",
+      "surface": "כֵּלֶיהָ",
       "gloss": "didirišwa tša yona"
     },
     {
-      "surface": "אל",
-      "gloss": "ka go"
+      "surface": "אֶל",
+      "gloss": "ka"
     },
     {
-      "surface": "מכסה",
-      "gloss": "sekhutollo sa"
+      "surface": "מִכְסֵה",
+      "gloss": "mekgahlong"
     },
     {
-      "surface": "עור",
-      "gloss": "letlalo la"
+      "surface": "עוֹר",
+      "gloss": "letlalo"
     },
     {
-      "surface": "תחש",
-      "gloss": "thashe"
+      "surface": "תָּחַשׁ",
+      "gloss": "takhase"
     },
     {
-      "surface": "ונתנו",
-      "gloss": "ba tla bea"
+      "surface": "וְנָתְנוּ",
+      "gloss": "gomme ba tla bea"
     },
     {
-      "surface": "על",
+      "surface": "עַל",
       "gloss": "godimo ga"
     },
     {
-      "surface": "המוט",
-      "gloss": "mokgoto"
+      "surface": "הַמּוֹט",
+      "gloss": "lesika la go rwala"
     }
   ],
-  "timestamp": "2026-10-18T00:48:19.536927543Z",
+  "timestamp": "2026-10-18T17:35:41.922625410Z",
   "model": "glm-5.3"
 }

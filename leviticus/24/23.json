@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אבן",
-      "rationale": "Seheberu se ngwala 'leswika' ka bongwe fela; Sepedi e nyaka bontši 'maswika' go tšwelopele ya kgweretšhe."
-    },
-    {
-      "kind": "elision",
-      "subject": "אתו",
-      "rationale": "Aleph-tav e kweditšwego go yena e bontšhitšwe ka ⟨את⟩ fela; goba 'yena' e kwadilwe ka mo."
-    }
-  ],
-  "translation": "Gomme Moshe a bolela go bana ba Yisraele, mme ba ntšha ⟨את⟩ yo a kgopolego go ntle ga ka kampeng, mme ba mo rabela maswika; gomme bana ba Yisraele ba dira bjalo ka ge Yahwe a laetše ⟨את⟩ Moshe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "925f08ed8df5e895005c318d9a2a51e50b7717a0bc95a365cd96f1fbef8966f3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/24\/21-23.1792284235502.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Moshe a bolela go bana ba Yisraele, gomme ba ntšha ⟨את⟩ yo a hlagago ka ntle ga kanoko, gomme ba mo phaša ka maswika. Gomme bana ba Yisraele ba dira bjalo ka ge Yahwe a laeditše ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "Gomme...a bolela"
+      "gloss": "gomme a bolela"
     },
     {
       "surface": "משה",
@@ -42,24 +21,24 @@
     },
     {
       "surface": "בני",
-      "gloss": "bana"
+      "gloss": "bana ba"
     },
     {
       "surface": "ישראל",
-      "gloss": "ba Yisraele"
+      "gloss": "Yisraele"
     },
     {
       "surface": "ויוציאו",
-      "gloss": "mme ba ntšha"
+      "gloss": "gomme ba ntšha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "yo a kgopolego"
+      "marks": "yo a hlagago"
     },
     {
       "surface": "המקלל",
-      "gloss": "yo a kgopolego"
+      "gloss": "yo a hlagago"
     },
     {
       "surface": "אל",
@@ -67,32 +46,32 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "go ntle ga"
+      "gloss": "ka ntle"
     },
     {
       "surface": "למחנה",
-      "gloss": "ka kampeng"
+      "gloss": "ga kanoko"
     },
     {
       "surface": "וירגמו",
-      "gloss": "mme ba mo rabela"
+      "gloss": "gomme ba mo phaša"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena"
+      "marks": "maswika"
     },
     {
       "surface": "אבן",
-      "gloss": "maswika"
+      "gloss": "ka maswika"
     },
     {
       "surface": "ובני",
-      "gloss": "gomme bana"
+      "gloss": "gomme bana ba"
     },
     {
       "surface": "ישראל",
-      "gloss": "ba Yisraele"
+      "gloss": "Yisraele"
     },
     {
       "surface": "עשו",
@@ -104,7 +83,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "a laetše"
+      "gloss": "a laeditše"
     },
     {
       "surface": "יהוה",
@@ -120,6 +99,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-10-18T00:43:55.503308229Z",
+  "timestamp": "2026-10-18T17:30:36.622066384Z",
   "model": "glm-5.3"
 }

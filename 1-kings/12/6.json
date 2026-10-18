@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "nso",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "את פני שלמה",
-      "rationale": "Sefahlegong sa Shelomo — Seheberu se re 'eme pelong ga Shelomo', kgauswi le mmading wa kgoši."
-    },
-    {
-      "kind": "you",
-      "subject": "bagolo",
-      "rationale": "Rkhaboama a botša bagolo ka potšišo ya go iba le bona."
-    }
-  ],
-  "translation": "Gomme kgoši Rkhaboama a ile a dumelelana le ⟨את⟩ bagolo, bao ba bego ba eme ⟨את⟩ sefahlegong sa Shelomo tatagwe ge a sa phela, ka go re: Na le ka dumo le ka araba setšhaba se ka lentšu?",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "30d70d1fb0c486f1c3829de05a3c22163f03a07de20eb51b51440ed5ebd9a2bc",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/12\/5-8.1792289992944.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme kgoši Rehabeame a dumešana le ⟨את⟩ bagolo bao ba bego ba ema ⟨את⟩ ka pele ga Šelomoh tatagwe ge a sa phela, a re: Le goretše bjang gore ke arabe ⟨את⟩ setšhaba se lentšu lefe?",
   "tokens": [
     {
       "surface": "ויועץ",
-      "gloss": "a ile a dumelelana"
+      "gloss": "a dumešana"
     },
     {
       "surface": "המלך",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "רחבעם",
-      "gloss": "Rkhaboama"
+      "gloss": "Rehabeame"
     },
     {
       "surface": "את",
@@ -59,20 +38,20 @@
     },
     {
       "surface": "עמדים",
-      "gloss": "eme"
+      "gloss": "ema"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sefahlegong sa Shelomo"
+      "marks": "ka pele ga Šelomoh"
     },
     {
       "surface": "פני",
-      "gloss": "sefahlego sa"
+      "gloss": "ka pele ga"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Šelomoh"
     },
     {
       "surface": "אביו",
@@ -80,19 +59,19 @@
     },
     {
       "surface": "בהיתו",
-      "gloss": "ge a bego a"
+      "gloss": "ge a sa"
     },
     {
       "surface": "חי",
-      "gloss": "a sa phela"
+      "gloss": "phela"
     },
     {
       "surface": "לאמר",
-      "gloss": "ka go re"
+      "gloss": "a re"
     },
     {
       "surface": "איך",
-      "gloss": "na"
+      "gloss": "bjang"
     },
     {
       "surface": "אתם",
@@ -100,11 +79,11 @@
     },
     {
       "surface": "נועצים",
-      "gloss": "le ka dumo"
+      "gloss": "goretše"
     },
     {
       "surface": "להשיב",
-      "gloss": "go araba"
+      "gloss": "gore ke arabe"
     },
     {
       "surface": "את",
@@ -121,9 +100,9 @@
     },
     {
       "surface": "דבר",
-      "gloss": "lentšu"
+      "gloss": "lentšu lefe"
     }
   ],
-  "timestamp": "2026-10-18T02:19:52.945339585Z",
+  "timestamp": "2026-10-18T16:58:51.367481367Z",
   "model": "glm-5.3"
 }

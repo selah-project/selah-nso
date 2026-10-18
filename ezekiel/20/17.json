@@ -5,67 +5,46 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "משחתם",
-      "rationale": "go phhimola go swara go senyega ga bophelo; go sa feleng ga Sesotho *mokgwa*"
-    },
-    {
-      "kind": "alternative",
-      "subject": "כלה",
-      "rationale": "go fihlela mafelelo; go ka bo go ra go fedisa"
-    }
-  ],
-  "translation": "Gomme leihlo la ka le ba khwešitše gore ke se ke ba phhimola, gomme ka se ke wa ba fenya ka mafelelo nageng e mokoto.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "2ee623699d856c959f223517ba9e7077197e6049745f78c026764d2b5f98bf88",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/20\/17-20.1792294932336.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme pelo ya me ya ba hloriša go ba phethe, gomme ga ke ka ba dira ⟨את⟩ phethego ka botlalo nageng ya lefase wa sekaka.",
   "tokens": [
     {
-      "surface": "ותחס",
-      "gloss": "gomme le ba khwešitše"
+      "surface": "וַתָּחָס",
+      "gloss": "gomme ya ba hloriša"
     },
     {
-      "surface": "עיני",
-      "gloss": "leihlo la ka"
+      "surface": "עֵינִי",
+      "gloss": "pelo ya me"
     },
     {
-      "surface": "עליהם",
+      "surface": "עֲלֵיהֶם",
       "gloss": "ba"
     },
     {
-      "surface": "משחתם",
-      "gloss": "gore ke se ke ba phhimola"
+      "surface": "מִשַּׁחֲתָם",
+      "gloss": "go ba phethe"
     },
     {
-      "surface": "ולא",
-      "gloss": "gomme ka se ke"
+      "surface": "וְלֹא",
+      "gloss": "gomme ga"
     },
     {
-      "surface": "עשיתי",
-      "gloss": "wa ba fenya"
+      "surface": "עָשִׂיתִי",
+      "gloss": "ke ka dira"
     },
     {
-      "surface": "אותם",
+      "surface": "אוֹתָם",
       "gloss": "⟨את⟩",
-      "marks": "ba"
+      "marks": "phethego ka botlalo"
     },
     {
-      "surface": "כלה",
-      "gloss": "ka mafelelo"
+      "surface": "כָּלָה",
+      "gloss": "phethego ka botlalo"
     },
     {
-      "surface": "במדבר",
-      "gloss": "nageng e mokoto"
+      "surface": "בַּמִּדְבָּר",
+      "gloss": "nageng ya lefase wa sekaka"
     }
   ],
-  "timestamp": "2026-10-18T03:42:12.336774843Z",
+  "timestamp": "2026-10-18T17:13:46.837143624Z",
   "model": "glm-5.3"
 }

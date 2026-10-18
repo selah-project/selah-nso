@@ -5,36 +5,15 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "makga",
-      "rationale": "חמה ke 'lesitho\/moleso' — sebopego sa go fisa; bokahlega bja ka bakeng sa אפי (ntho ya nko)"
-    },
-    {
-      "kind": "idiom",
-      "subject": "במדבר",
-      "rationale": "Seheberu se bolela lefelo la kudu, naga e senyeng — 'ntteng' e swara sebopego seo"
-    }
-  ],
-  "translation": "Gomme bana ba qanela ka nna; dikgethwa tša ka ga ba tsamaeye ka tšona, gomme ⟨את⟩ dikahlolo tša ka ga di hlankile go di dira, tšeo mothwana a di dirago a phela ka tšona; ⟨את⟩ Šabata tša ka ba di hlotše; gomme ka re ke go tšholola makga a ka go ba ona, go fedisa bokahlega bja ka ka bona, ntteng.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "cd7b3dac1955f39302c0d7902bbe7a42b1c69e2ef40eae1631a90ba5fc9d1e0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/20\/21-24.1792294928962.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme bana ba hlotse kgahlanong le nna, ba se ke ya sepela melaweng ya ka ya go kgethwa, gomme ⟨את⟩ dikahlolo tša ka ba sa di šireletše go di dira, tšeo motho a di dirago a tla phela ka ⟨את⟩ tšona; ⟨את⟩ Disabatha tša ka ba di tlotšile. Ka gona ga nkopola go tšela khutšo ya ka godulwa ga bona, go fediša makgafo a ka go bona ka thoko ya naga.",
   "tokens": [
     {
       "surface": "וימרו",
-      "gloss": "gomme bana ba qanela"
+      "gloss": "ba hlotse kgahlanong"
     },
     {
       "surface": "בי",
-      "gloss": "ka nna"
+      "gloss": "le nna"
     },
     {
       "surface": "הבנים",
@@ -42,15 +21,15 @@
     },
     {
       "surface": "בחקותי",
-      "gloss": "dikgethwa tša ka"
+      "gloss": "melaweng ya ka ya go kgethwa"
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ba se ke ya"
     },
     {
       "surface": "הלכו",
-      "gloss": "ba tsamaeye"
+      "gloss": "sepela"
     },
     {
       "surface": "ואת",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ba sa"
     },
     {
       "surface": "שמרו",
-      "gloss": "ba hlankile"
+      "gloss": "šireletše"
     },
     {
       "surface": "לעשות",
-      "gloss": "go dira"
+      "gloss": "go di dira"
     },
     {
       "surface": "אותם",
@@ -87,7 +66,8 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ tšona"
+      "gloss": "⟨את⟩",
+      "marks": "motho"
     },
     {
       "surface": "האדם",
@@ -95,7 +75,7 @@
     },
     {
       "surface": "וחי",
-      "gloss": "a phela"
+      "gloss": "a tla phela"
     },
     {
       "surface": "בהם",
@@ -104,49 +84,49 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Šabata tša ka"
+      "marks": "Disabatha tša ka"
     },
     {
       "surface": "שבתותי",
-      "gloss": "Šabata tša ka"
+      "gloss": "Disabatha tša ka"
     },
     {
       "surface": "חללו",
-      "gloss": "ba di hlotše"
+      "gloss": "ba di tlotšile"
     },
     {
       "surface": "ואמר",
-      "gloss": "gomme ka re"
+      "gloss": "ka gona ga nkopola"
     },
     {
       "surface": "לשפך",
-      "gloss": "go tšholola"
+      "gloss": "go tšela"
     },
     {
       "surface": "חמתי",
-      "gloss": "makga a ka"
+      "gloss": "khutšo ya ka"
     },
     {
       "surface": "עליהם",
-      "gloss": "go ba ona"
+      "gloss": "godulwa ga bona"
     },
     {
       "surface": "לכלות",
-      "gloss": "go fedisa"
+      "gloss": "go fediša"
     },
     {
       "surface": "אפי",
-      "gloss": "bokahlega bja ka"
+      "gloss": "makgafo a ka"
     },
     {
       "surface": "בם",
-      "gloss": "ka bona"
+      "gloss": "go bona"
     },
     {
       "surface": "במדבר",
-      "gloss": "ntteng"
+      "gloss": "ka thoko ya naga"
     }
   ],
-  "timestamp": "2026-10-18T03:42:08.963376895Z",
+  "timestamp": "2026-10-18T17:14:19.396005463Z",
   "model": "glm-5.3"
 }

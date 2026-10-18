@@ -5,37 +5,11 @@
   "book": "joshua",
   "lang": "nso",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sekgoba se se lalaago",
-      "rationale": "המישר ke leina la lefelo — sekgoba se se lalaago (the-plain) bjalo ka leina la sebopego"
-    },
-    {
-      "kind": "addition",
-      "subject": "mmogo le",
-      "rationale": "Seheberu se bua feela ka ⟨את⟩ dikgoši tša Midiane ge ellipsisi ya sebopego sa go otloloha"
-    },
-    {
-      "kind": "measurement",
-      "subject": "maina a dikgoši tše hlano",
-      "rationale": "Lenaneo la maina a dikgoši tše hlano tša Midiane tše di bolailwego — go bala go tlwaetše go ngwadišwa"
-    }
-  ],
-  "translation": "le ditoropo ka moka tša sekgoba se se lalaago, le bomuso ka bophara bja Sihone, kgoši ya Baemori, yo a bego a busa go Khešbone, yo Moshe a mo otilego, mmogo le dikgoši tša Midiane: ⟨את⟩ Evhi le ⟨את⟩ Rekeme le ⟨את⟩ Tsure le ⟨את⟩ Khure le ⟨את⟩ Reba, dikgoši tša Sihone, ba bego ba dutše lefaseng.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "1e40b2b2ecabc68850feffe9029de7d0556398db8a4973938d2d009a0f203185",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/13\/21-24.1792286777641.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ditoropo ka moka tša lefelo la go lekalekana, le bogoši ka bophara bja Sihone, kgosi ya Baemore, yo a bego a busa ka Khešbone, yo Moshe a mo otlišitšego ⟨את⟩ yena le dikgosi tša Mediane: ⟨את⟩ Evi, gomme ⟨את⟩ Rekeme, gomme ⟨את⟩ Tsure, gomme ⟨את⟩ Khure, gomme ⟨את⟩ Reba — dikgosi tše dinnyane tša Sihone, ba phagago lefaseng.",
   "tokens": [
     {
       "surface": "וכל",
-      "gloss": "le … ka moka"
+      "gloss": "gomme ka moka"
     },
     {
       "surface": "ערי",
@@ -43,15 +17,15 @@
     },
     {
       "surface": "המישר",
-      "gloss": "sekgoba se se lalaago"
+      "gloss": "la lefelo la go lekalekana"
     },
     {
       "surface": "וכל",
-      "gloss": "le … ka bophara"
+      "gloss": "le ka moka"
     },
     {
       "surface": "ממלכות",
-      "gloss": "bomuso"
+      "gloss": "bogoši"
     },
     {
       "surface": "סיחון",
@@ -59,11 +33,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kgoši"
+      "gloss": "kgosi"
     },
     {
       "surface": "האמרי",
-      "gloss": "Baemori"
+      "gloss": "ya Baemore"
     },
     {
       "surface": "אשר",
@@ -75,7 +49,7 @@
     },
     {
       "surface": "בחשבון",
-      "gloss": "go Khešbone"
+      "gloss": "ka Khešbone"
     },
     {
       "surface": "אשר",
@@ -83,7 +57,7 @@
     },
     {
       "surface": "הכה",
-      "gloss": "a mo otilego"
+      "gloss": "a mo otlišitšego"
     },
     {
       "surface": "משה",
@@ -92,33 +66,33 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "mo — Sihone"
+      "marks": "yena (Sihone)"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "dikgoši tša Midiane"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "dikgosi tša Mediane"
     },
     {
       "surface": "נשיאי",
-      "gloss": "dikgoši"
+      "gloss": "dikgosi"
     },
     {
       "surface": "מדין",
-      "gloss": "tša Midiane"
+      "gloss": "tša Mediane"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Evhi"
+      "marks": "Evi"
     },
     {
       "surface": "אוי",
-      "gloss": "Evhi"
+      "gloss": "Evi"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "gomme ⟨את⟩",
       "marks": "Rekeme"
     },
     {
@@ -127,7 +101,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "gomme ⟨את⟩",
       "marks": "Tsure"
     },
     {
@@ -136,7 +110,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "gomme ⟨את⟩",
       "marks": "Khure"
     },
     {
@@ -145,7 +119,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "gomme ⟨את⟩",
       "marks": "Reba"
     },
     {
@@ -154,7 +128,7 @@
     },
     {
       "surface": "נסיכי",
-      "gloss": "dikgoši"
+      "gloss": "dikgosi tše dinnyane"
     },
     {
       "surface": "סיחון",
@@ -162,13 +136,13 @@
     },
     {
       "surface": "ישבי",
-      "gloss": "ba bego ba dutše"
+      "gloss": "ba phagago"
     },
     {
       "surface": "הארץ",
       "gloss": "lefase"
     }
   ],
-  "timestamp": "2026-10-18T01:26:17.642304903Z",
+  "timestamp": "2026-10-18T17:26:04.187626484Z",
   "model": "glm-5.3"
 }

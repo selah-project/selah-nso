@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "nso",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אתה",
-      "rationale": "אֹתָהּ ke sebopego sa mongwadi wa sedišego ('e') se se šupago Ramote, se hlamilwe bjalo ka ⟨את⟩ ka mo go latelang melao"
-    },
-    {
-      "kind": "you",
-      "subject": "kgoši ya Yisraele go bahlanka ba gagwe",
-      "rationale": "Potšišo yeo e romeletšwego go bahlanka ka tlhamalalo"
-    }
-  ],
-  "translation": "Gomme kgoši ya Yisraele a re go bahlanka ba gagwe: Na le a tseba gore Ramote ya Gileade ke ya rena, gomme re didimetše go e tsereka go seatla sa kgoši ya Arame?",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "8c4ca7562dd7a710173b2e6cfbceb4dcaaf4697f7f5a9ba716b55ee47902fa73",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/22\/1-4.1792290417238.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme kgoši ya Yisraele a re go bahanka ba gagwe: A na ga le tseba gore Ramote ya Gileade ke ⟨ya⟩ rena, gomme re didimetše re sa ntšha ⟨את⟩ yona molatong wa kgoši ya Arame?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "gomme a re"
+      "gloss": "gomme…a re"
     },
     {
       "surface": "מלך",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "bahlanka ba gagwe"
+      "gloss": "bahanka ba gagwe"
     },
     {
       "surface": "הידעתם",
-      "gloss": "na le a tseba"
+      "gloss": "ga le tseba"
     },
     {
       "surface": "כי",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "לנו",
-      "gloss": "ke ya rena"
+      "gloss": "ya rena"
     },
     {
       "surface": "רמת",
@@ -78,16 +57,16 @@
     },
     {
       "surface": "מקחת",
-      "gloss": "go e tsereka"
+      "gloss": "go ntšha"
     },
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "e — Ramote ya Gileade"
+      "marks": "yona (Ramote ya Gileade)"
     },
     {
       "surface": "מיד",
-      "gloss": "go seatla sa"
+      "gloss": "molatong wa"
     },
     {
       "surface": "מלך",
@@ -98,6 +77,6 @@
       "gloss": "ya Arame"
     }
   ],
-  "timestamp": "2026-10-18T02:26:57.239054364Z",
+  "timestamp": "2026-10-18T16:59:24.709712386Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "psalms",
   "lang": "nso",
   "chapter": 104,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "dikobo tša bona",
-      "rationale": "'tša bona' — sehlaodi se okeditšwe go hlalosa gore ke dikobo tša bona"
-    },
-    {
-      "kind": "substitution",
-      "subject": "ישברון",
-      "rationale": "šavar = 'go sepetla ka tšhepo' — 'go emetše' ka Sepedi se ama go ema, fela ke tšhepo ya go belelwa"
-    }
-  ],
-  "translation": "Ka moka bona ba go emetše, gore o fe ⟨את⟩ dikobo tša bona nakong ya yona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "a10f68254273223205028554c75dfe0516cce489273eb2984a69399cb2f79be9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/104\/25-28.1792298574098.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka moka bona ba lebeleletše go wena, gore o fe ⟨את⟩ food ya bona ka nako ya yona.",
   "tokens": [
     {
       "surface": "כלם",
@@ -34,11 +13,11 @@
     },
     {
       "surface": "אליך",
-      "gloss": "ba go emetše"
+      "gloss": "go wena"
     },
     {
       "surface": "ישברון",
-      "gloss": "ba emetše"
+      "gloss": "ba lebeleletše (ba emetše tšhepo)"
     },
     {
       "surface": "לתת",
@@ -46,13 +25,14 @@
     },
     {
       "surface": "אכלם",
-      "gloss": "⟨את⟩ dikobo tša bona"
+      "gloss": "⟨את⟩ food ya bona",
+      "marks": "food ya bona"
     },
     {
       "surface": "בעתו",
-      "gloss": "nakong ya yona"
+      "gloss": "ka nako ya yona"
     }
   ],
-  "timestamp": "2026-10-18T04:42:54.099065005Z",
+  "timestamp": "2026-10-18T17:36:55.249344928Z",
   "model": "glm-5.3"
 }

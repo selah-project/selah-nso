@@ -5,41 +5,15 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "palopheto",
-      "rationale": "Phetso ya palopheto: banna ba lesomepedi, tee ka ntlo ya bo-ntate"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אישׁ אחד",
-      "rationale": "Boeletši bja אישׁ — motho yo a tee le tee — bja go hlalosa kgethišo ka ntlo e nngwe le e nngwe"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ke⟩",
-      "rationale": "Copula e okeditšwego ka Sepedi; היו e latela ka boela mothofatšong"
-    }
-  ],
-  "translation": "Ba ke ⟨את⟩ bana ba bao ba balegiwago, bao Moshe le Aharone le dikgosi tša Yisraele ba balegilego ⟨את⟩ banna ba lesomepedi, motho yo a tee le tee ka malapa a bo-ntate bona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "e5c56e667f78c107f8b770b795cabde573b9456d229d8e8cb176f85a4b20166a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/1\/41-44.1792284337390.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bao ke bao ba badilwego, bao Moshe le Aharone le dikgoši tša Yisraele, ba lesomepedi banna, ba ba badilego; motho a tee bakeng sa ntlo ya bo-ntatehole ba gagwe, ba be bao.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "ba ke bana ba"
+      "gloss": "Bao"
     },
     {
       "surface": "הפקדים",
-      "gloss": "bao ba balegiwago"
+      "gloss": "ba badilwego"
     },
     {
       "surface": "אשר",
@@ -47,57 +21,57 @@
     },
     {
       "surface": "פקד",
-      "gloss": "ba balegilego"
+      "gloss": "ba ba badile"
     },
     {
       "surface": "משה",
       "gloss": "Moshe"
     },
     {
-      "surface": "ואהרן",
+      "surface": "ו אהרן",
       "gloss": "le Aharone"
     },
     {
       "surface": "ונשיאי",
-      "gloss": "le dikgosi tša"
+      "gloss": "le dikgoši"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "tša Yisraele"
     },
     {
       "surface": "שנים",
-      "gloss": "banna ba"
+      "gloss": "lesomepedi (pedi)"
     },
     {
       "surface": "עשר",
-      "gloss": "lesomepedi"
+      "gloss": "(lesome)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "banna"
     },
     {
       "surface": "איש",
       "gloss": "motho"
     },
     {
-      "surface": "איש",
-      "gloss": "yo a tee le tee — motho"
-    },
-    {
       "surface": "אחד",
-      "gloss": "tee"
+      "gloss": "a tee"
     },
     {
       "surface": "לבית",
-      "gloss": "ka malapa a"
+      "gloss": "bakeng sa ntlo"
     },
     {
       "surface": "אבתיו",
-      "gloss": "bo-ntate bona"
+      "gloss": "ya bo-ntatehole ba gagwe"
     },
     {
       "surface": "היו",
-      "gloss": "ba le"
+      "gloss": "ba be bao"
     }
   ],
-  "timestamp": "2026-10-18T00:45:37.391704629Z",
+  "timestamp": "2026-10-18T17:33:19.451254565Z",
   "model": "glm-5.3"
 }

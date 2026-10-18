@@ -5,23 +5,7 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ונשיתי אתכם נשא",
-      "rationale": "Kgokagano ya mantšu: nasha I (go lebala) kgahlanong le nasha (go tloša\/nyakalla) — KJV 'utterly forget you', JPS 'utterly tear you out'; poloko ya tlhaka tše swanago e aga tšhitišo."
-    }
-  ],
-  "translation": "ka gobane, bonake, nna ke tla le lebala ka go le lahla, gomme ke tla le tloša, lona le ⟨את⟩ toropo yeo ke e fileng lona le bo-ntate lona, ka ntle bokong bja ka.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "b1953ae5e5b461c25149f3fb84f090c833c3186fc98f33f5586d2bb99316c304",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/23\/37-40.1792293417623.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane, bona, nna ke tla ni sepolla ka botlalo, gomme ke tla ni tloša, lona le ⟨את⟩ motse woo ke o fileng lona le bo-ntate ba lona, ka ntle sefokong sa ka.",
   "tokens": [
     {
       "surface": "לכן",
@@ -29,44 +13,46 @@
     },
     {
       "surface": "הנני",
-      "gloss": "bonake, nna"
+      "gloss": "bona, nna"
     },
     {
       "surface": "ונשיתי",
-      "gloss": "gomme ke tla le lebala"
+      "gloss": "ke tla ni sepolla ka botlalo"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩",
+      "marks": "lona"
     },
     {
       "surface": "נשא",
-      "gloss": "ka go le lahla"
+      "gloss": "go šupa"
     },
     {
       "surface": "ונטשתי",
-      "gloss": "gomme ke tla le tloša"
+      "gloss": "ke tla ni tloša"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩",
+      "marks": "lona"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "toropo"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "motse"
     },
     {
       "surface": "העיר",
-      "gloss": "toropo"
+      "gloss": "motse"
     },
     {
       "surface": "אשר",
-      "gloss": "yeo"
+      "gloss": "woo"
     },
     {
       "surface": "נתתי",
-      "gloss": "ke e fileng"
+      "gloss": "ke o file"
     },
     {
       "surface": "לכם",
@@ -74,7 +60,7 @@
     },
     {
       "surface": "ולאבותיכם",
-      "gloss": "le bo-ntate lona"
+      "gloss": "le bo-ntate ba lona"
     },
     {
       "surface": "מעל",
@@ -82,9 +68,9 @@
     },
     {
       "surface": "פני",
-      "gloss": "bokong bja ka"
+      "gloss": "sefokong sa ka"
     }
   ],
-  "timestamp": "2026-10-18T03:16:57.624342907Z",
+  "timestamp": "2026-10-18T17:21:18.844044472Z",
   "model": "glm-5.3"
 }

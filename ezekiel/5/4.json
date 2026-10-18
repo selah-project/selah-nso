@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אותם ... אתם",
-      "rationale": "את ya go šupa sehlopha e bulelwa gabedi (go lahla le go fiša) — moadišo wa sebopego o bolokwa ka ⟨את⟩ tše pedi."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ntlo",
-      "rationale": "בית ישראל ke 'ntlo ya Yisraele' — leloko, e sego molao wa ago."
-    }
-  ],
-  "translation": "Gomme go tšona o sa nka tše dingwe, gomme o di lahlele go bogareng ba mollo, gomme o di fiše ka mollong; go tšona go tla tšwa mollo go ya go ntlo ya gohle ya Yisraele.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "17548a6126bf5336a61917c90a6f6bf5bb50e611114c888e7f05261d8f7e6d3d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/5\/1-4.1792294513500.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme go tšwa go tšona o sa tšea ⟨את⟩ tše dingwe, gomme o di lahla gare ga mollwane, gomme o fiša ⟨את⟩ di ka mollwane; go tšwa go wona mollwane o tla tšwa go ya ntlong ya Yisraele ka moka.",
   "tokens": [
     {
       "surface": "ומהם",
-      "gloss": "Gomme go tšona"
+      "gloss": "gomme go tšwa go tšona"
     },
     {
       "surface": "עוד",
@@ -38,16 +17,16 @@
     },
     {
       "surface": "תקח",
-      "gloss": "o nka"
+      "gloss": "o tšea"
     },
     {
       "surface": "והשלכת",
-      "gloss": "gomme o di lahlele"
+      "gloss": "gomme o di lahla"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "di"
+      "marks": "tše dingwe"
     },
     {
       "surface": "אל",
@@ -55,15 +34,15 @@
     },
     {
       "surface": "תוך",
-      "gloss": "bogareng"
+      "gloss": "gare ga"
     },
     {
       "surface": "האש",
-      "gloss": "ba mollo"
+      "gloss": "mollwane"
     },
     {
       "surface": "ושרפת",
-      "gloss": "gomme o di fiše"
+      "gloss": "gomme o fiša"
     },
     {
       "surface": "אתם",
@@ -72,37 +51,37 @@
     },
     {
       "surface": "באש",
-      "gloss": "ka mollong"
+      "gloss": "ka mollwane"
     },
     {
       "surface": "ממנו",
-      "gloss": "go tšona"
+      "gloss": "go tšwa go wona"
     },
     {
       "surface": "תצא",
-      "gloss": "go tla tšwa"
+      "gloss": "o tla tšwa"
     },
     {
       "surface": "אש",
-      "gloss": "mollo"
+      "gloss": "mollwane"
     },
     {
       "surface": "אל",
-      "gloss": "go"
+      "gloss": "go ya"
     },
     {
       "surface": "כל",
-      "gloss": "ya gohle"
+      "gloss": "ka moka"
     },
     {
       "surface": "בית",
-      "gloss": "ntlo"
+      "gloss": "ntlong ya"
     },
     {
       "surface": "ישראל",
-      "gloss": "ya Yisraele"
+      "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-18T03:35:13.501690799Z",
+  "timestamp": "2026-10-18T17:15:17.902667725Z",
   "model": "glm-5.3"
 }

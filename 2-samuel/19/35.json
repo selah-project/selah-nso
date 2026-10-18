@@ -5,37 +5,11 @@
   "book": "2-samuel",
   "lang": "nso",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "go",
-      "rationale": "Sepedi e nyaka tebogo ya go araba, Seheberu se na le 'go bolela' fela"
-    },
-    {
-      "kind": "idiom",
-      "subject": "כמה ימי שני חיי",
-      "rationale": "'matsatsi a mengwaga ya bophelo' — polelo ya Seheberu ya go bala nako; phetolelo e nngwe: 'ke sala mengwaga e kae?'"
-    },
-    {
-      "kind": "you",
-      "subject": "to Barzillai addressing the king",
-      "rationale": "potšišo ye e lebišitšwe kgošing, motho yo a bolelago"
-    }
-  ],
-  "translation": "Barzilai a araba ⟨go⟩ kgoši: Ke tše kae matsatsi a mengwaga ya bophelo bja ka, gore ke fele godimo le kgoši Yerushalayime?",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "7b925f76e84cde42df805c3a49f65f753c2320b63650704c172507b8db7c5672",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/19\/33-36.1792289344280.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Barzilai a bolela go kgoši: Ke makae matšatši a mengwaga ya bophelo bja ka, gore ke nyakele go ya godimo le ⟨את⟩ kgoši go Yerushalayime?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a araba"
+      "gloss": "a bolela"
     },
     {
       "surface": "ברזלי",
@@ -51,11 +25,11 @@
     },
     {
       "surface": "כמה",
-      "gloss": "ke tše kae"
+      "gloss": "ke makae"
     },
     {
       "surface": "ימי",
-      "gloss": "matsatsi a"
+      "gloss": "matšatši a"
     },
     {
       "surface": "שני",
@@ -71,11 +45,12 @@
     },
     {
       "surface": "אעלה",
-      "gloss": "ke fele godimo"
+      "gloss": "ke nyakele go ya godimo"
     },
     {
       "surface": "את",
-      "gloss": "le ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "kgoši"
     },
     {
       "surface": "המלך",
@@ -86,6 +61,6 @@
       "gloss": "Yerushalayime"
     }
   ],
-  "timestamp": "2026-10-18T02:09:04.281017016Z",
+  "timestamp": "2026-10-18T17:05:32.595276316Z",
   "model": "glm-5.3"
 }

@@ -5,37 +5,11 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "a re",
-      "rationale": "Sepedi e nyaka lentšu la go bolela pele ga leina le lefsa; Seheberu se bea fela leina"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "Hoshea \/ Yehoshua",
-      "rationale": "Moshe o oketša yod (ya Yah) go leina la Hoshea — 'poloko' e fetoga 'Yahwe poloka'; se se lahlwa ka Sepedi"
-    },
-    {
-      "kind": "elision",
-      "subject": "לתור",
-      "rationale": "go hlohleletša ga se e sa fetogo; לתור e bolela go tsamaya go nyaka taba, go lekola lefase"
-    }
-  ],
-  "translation": "Baka ke maina a banna bao Moshe a ba romilego go hlohleletša ⟨את⟩ lefase; gomme Moshe a bitša ⟨את⟩ Hoshea mora wa Nune, a re Yehoshua.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "d36c7b0f16f105db5359549b06044d0b782cc546680da1be77c30830228be970",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/13\/16-16.1792304677727.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ke maina a banna bao Moshe a ba rumilego go kgoboketša tshedimošo ya ⟨את⟩ lefase; gomme Moshe a bitša leina le lefsa go Hoshéa, mora Nune — Yehoshua.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "baka"
+      "gloss": "ke"
     },
     {
       "surface": "שמות",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "שלח",
-      "gloss": "a ba romilego"
+      "gloss": "a ba rumilego"
     },
     {
       "surface": "משה",
@@ -59,7 +33,7 @@
     },
     {
       "surface": "לתור",
-      "gloss": "go hlohleletša"
+      "gloss": "go kgoboketša tshedimošo"
     },
     {
       "surface": "את",
@@ -80,7 +54,7 @@
     },
     {
       "surface": "להושע",
-      "gloss": "⟨את⟩ Hoshea"
+      "gloss": "go Hoshéa"
     },
     {
       "surface": "בן",
@@ -88,13 +62,13 @@
     },
     {
       "surface": "נון",
-      "gloss": "wa Nune"
+      "gloss": "Nune"
     },
     {
       "surface": "יהושע",
       "gloss": "Yehoshua"
     }
   ],
-  "timestamp": "2026-10-18T06:24:37.727521375Z",
+  "timestamp": "2026-10-18T17:33:27.933062015Z",
   "model": "glm-5.3"
 }

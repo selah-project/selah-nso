@@ -5,27 +5,11 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yena",
-      "rationale": "Sepedi e nyaka sebediwa go šala sehlare se-אתו se supa Moshe."
-    }
-  ],
-  "translation": "Gomme Moshe a dira bjalo ka ge Yahwe a mo laeditše; gomme setšhaba sa koplela kua mogaleng wa tente ya go kopana.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "359e61bd7e59f02f881d920ce9d384266db146429ce2f0bede128791870f4375",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/8\/1-4.1792283676449.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Moshe o ile a dira bjalo ka ge Yahwe a mo laetšile ⟨את⟩; gomme setšhaba sa kgobokana molemong wa go fetela go seblocko sa lenga la kopano.",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "a dira"
+      "gloss": "gomme o ile a dira"
     },
     {
       "surface": "משה",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "a mo laeditše"
+      "gloss": "a laetšile"
     },
     {
       "surface": "יהוה",
@@ -45,12 +29,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ yena",
-      "marks": "Moshe"
+      "gloss": "⟨את⟩",
+      "marks": "a mo laetšile (Moshe)"
     },
     {
       "surface": "ותקהל",
-      "gloss": "sa koplela"
+      "gloss": "gomme … sa kgobokana"
     },
     {
       "surface": "העדה",
@@ -58,21 +42,21 @@
     },
     {
       "surface": "אל",
-      "gloss": "kua"
+      "gloss": "molemong wa go fetela"
     },
     {
       "surface": "פתח",
-      "gloss": "mogaleng"
+      "gloss": "seblocko"
     },
     {
       "surface": "אהל",
-      "gloss": "tente"
+      "gloss": "lenga"
     },
     {
       "surface": "מועד",
-      "gloss": "ya go kopana"
+      "gloss": "la kopano"
     }
   ],
-  "timestamp": "2026-10-18T00:34:36.451855862Z",
+  "timestamp": "2026-10-18T17:32:18.842471636Z",
   "model": "glm-5.3"
 }

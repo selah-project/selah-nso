@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "go Yisraele",
-      "rationale": "Taelo ye e bolela go bana ba Yisraele ka boemedi — 'lo', 'lona'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אתו תיראו",
-      "rationale": "Aleph-tav pele ga lediri e bontšha kgodišo: 'yena — yena fela lo tla mo tšaba', sebopego se se boletšwego se bolokwa ka ⟨את⟩"
-    }
-  ],
-  "translation": "Eupša ⟨את⟩ Yahwe fela — yo a le tšeago go tšwa lefasing ya Mitsrayime ka maatla a magolo le ka letogo le le otlego — ⟨yena⟩ lo tla mo tšaba, gomme go yena lo tla ikhunyafatša, gomme go yena lo tla hlabela.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "5123703e21274f015e33feb243784e6278305d4b5ddb90c95ad63042c4d4070d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/17\/33-36.1792290860416.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fela Yahwe, yo a le go ntšhitšego go tšwa lefasing la Mitsrayime ka maatla a magolo le ka letogo le le ollotšwego, ⟨את⟩ Yena le mo tlwe, gomme go Yena le šupetše, gomme go Yena le hlahele.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "eupša"
+      "gloss": "gobane"
     },
     {
       "surface": "אם",
@@ -47,16 +26,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yo"
+      "gloss": "yo a"
     },
     {
       "surface": "העלה",
-      "gloss": "a le tšeago"
+      "gloss": "go ntšhitšego"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
-      "marks": "lona"
+      "gloss": "⟨את⟩ le"
     },
     {
       "surface": "מארץ",
@@ -64,7 +42,7 @@
     },
     {
       "surface": "מצרים",
-      "gloss": "ya Mitsrayime"
+      "gloss": "Mitsrayime"
     },
     {
       "surface": "בכח",
@@ -76,38 +54,38 @@
     },
     {
       "surface": "ובזרוע",
-      "gloss": "le ka letogo"
+      "gloss": "gomme ka letogo"
     },
     {
       "surface": "נטויה",
-      "gloss": "le le otlego"
+      "gloss": "le le ollotšwego"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena"
+      "marks": "Yena le mo tlwe"
     },
     {
       "surface": "תיראו",
-      "gloss": "lo tla mo tšaba"
+      "gloss": "le mo tlwe"
     },
     {
       "surface": "ולו",
-      "gloss": "gomme go yena"
+      "gloss": "gomme go Yena"
     },
     {
       "surface": "תשתחוו",
-      "gloss": "lo tla ikhunyafatša"
+      "gloss": "le šupetše"
     },
     {
       "surface": "ולו",
-      "gloss": "gomme go yena"
+      "gloss": "gomme go Yena"
     },
     {
       "surface": "תזבחו",
-      "gloss": "lo tla hlabela"
+      "gloss": "le hlahele"
     }
   ],
-  "timestamp": "2026-10-18T02:34:20.418333440Z",
+  "timestamp": "2026-10-18T17:03:32.272622847Z",
   "model": "glm-5.3"
 }

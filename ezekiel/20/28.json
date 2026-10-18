@@ -5,32 +5,11 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sedimo se monate",
-      "rationale": "ריח ניחוח 'sedimo se phumulelo' ke lengwalo la dihlabelo tša thekgo — le šomišitšwe mo bakgopeng ba dinao, fela mo go bolela ditšhaba tša mafase."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שם",
-      "rationale": "šom gagolo 'gona' e boeleditšwe ga nne mothalong o tee — go hlaka ga dilo tše difsa tša bohlale go thabeng le ka fa tlase ga mehlare."
-    }
-  ],
-  "translation": "Gomme ka ba tsenya lefaseng leo ka išago seatla sa ka go le nea bona, ba bona thaba e nngwe le e nngwe e phahamilego le mohlare o mongwe le o mongwe o timetšego, gomme ba hlabela gona ⟨את⟩ dihlabelo tša tšona, ba nea gona tsheko ya sehlabelo sa tšona, ba bea gona sedimo se monate sa tšona, gomme ba hlahlabela gona ⟨את⟩ dino tša tšona tša go tušelwa.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "bb7c1943b67fa9d013ec401b68a9674d52f2e3084286182fa1abdeaa64fe683e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/20\/25-28.1792295022051.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ka ba tliša lefasing leo ke tloditšego ⟨את⟩ seatla sa ka go le fa bona, gomme ba bona thaba e nngwe le e nngwe e phagamego le mohlare o mohupi o mongwe le o mongwe, gomme ba hlabela moo ⟨את⟩ dihlabelo tša bona, gomme ba hlabela moo se se bakago kgalefo sa sehlabelo sa bona, gomme ba beha moo monko wa go fetoletša wa bona, gomme ba thuša moo ⟨את⟩ dinšeko tša bona.",
   "tokens": [
     {
       "surface": "ואביאם",
-      "gloss": "gomme ka ba tsenya"
+      "gloss": "gomme ka ba tliša"
     },
     {
       "surface": "אל",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "lefase"
+      "gloss": "lefasing leo"
     },
     {
       "surface": "אשר",
@@ -46,7 +25,7 @@
     },
     {
       "surface": "נשאתי",
-      "gloss": "ka išago seatla sa ka"
+      "gloss": "ke tloditšego"
     },
     {
       "surface": "את",
@@ -59,15 +38,16 @@
     },
     {
       "surface": "לתת",
-      "gloss": "go nea"
+      "gloss": "go fa"
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩ go e"
+      "gloss": "⟨את⟩",
+      "marks": "lefase"
     },
     {
       "surface": "להם",
-      "gloss": "ba e"
+      "gloss": "bona"
     },
     {
       "surface": "ויראו",
@@ -83,7 +63,7 @@
     },
     {
       "surface": "רמה",
-      "gloss": "e phahamilego"
+      "gloss": "e phagamego"
     },
     {
       "surface": "וכל",
@@ -91,11 +71,11 @@
     },
     {
       "surface": "עץ",
-      "gloss": "mohlare"
+      "gloss": "mohlare o mohupi"
     },
     {
       "surface": "עבת",
-      "gloss": "o timetšego"
+      "gloss": "wa mahare a mantsi"
     },
     {
       "surface": "ויזבחו",
@@ -103,67 +83,67 @@
     },
     {
       "surface": "שם",
-      "gloss": "gona"
+      "gloss": "moo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dihlabelo tša tšona"
+      "marks": "dihlabelo tša bona"
     },
     {
       "surface": "זבחיהם",
-      "gloss": "dihlabelo tša tšona"
+      "gloss": "dihlabelo tša bona"
     },
     {
       "surface": "ויתנו",
-      "gloss": "gomme ba nea"
+      "gloss": "gomme ba hlabela"
     },
     {
       "surface": "שם",
-      "gloss": "gona"
+      "gloss": "moo"
     },
     {
       "surface": "כעס",
-      "gloss": "tsheko ya"
+      "gloss": "se se bakago kgalefo"
     },
     {
       "surface": "קרבנם",
-      "gloss": "sehlabelo sa tšona"
+      "gloss": "sehlabelo sa bona"
     },
     {
       "surface": "וישימו",
-      "gloss": "gomme ba bea"
+      "gloss": "gomme ba beha"
     },
     {
       "surface": "שם",
-      "gloss": "gona"
+      "gloss": "moo"
     },
     {
       "surface": "ריח",
-      "gloss": "sedimo"
+      "gloss": "monko"
     },
     {
       "surface": "ניחוחיהם",
-      "gloss": "se monate sa tšona"
+      "gloss": "wa go fetoletša wa bona"
     },
     {
       "surface": "ויסיכו",
-      "gloss": "gomme ba hlahlabela"
+      "gloss": "gomme ba thuša"
     },
     {
       "surface": "שם",
-      "gloss": "gona"
+      "gloss": "moo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dino tša tšona tša go tušelwa"
+      "marks": "dinšeko tša bona"
     },
     {
       "surface": "נסכיהם",
-      "gloss": "dino tša go tušelwa"
+      "gloss": "dinšeko tša bona"
     }
   ],
-  "timestamp": "2026-10-18T03:43:42.053250523Z",
+  "timestamp": "2026-10-18T17:14:08.751654612Z",
   "model": "glm-5.3"
 }

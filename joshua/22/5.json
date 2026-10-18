@@ -5,45 +5,19 @@
   "book": "joshua",
   "lang": "nso",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "maphelo",
-      "rationale": "נפש ke moyapelo\/bophelo — mokokotlo le moya wa bophelo, e sego „moya“ wa ka thoko."
-    },
-    {
-      "kind": "crux",
-      "subject": "go mametšana",
-      "rationale": "ולדבקם בו: „go mametšana le yena“ kgahlanong le „go otlanela“ — go kwana le go tiisa go se kgaoge."
-    },
-    {
-      "kind": "invitation",
-      "subject": "ditšhaba tše tharo tša ngwaweng ga Yoredane",
-      "rationale": "Taetšo yeo e šumišago mabokopodi — go šoma Yahwe ka pelo le maphelo ka moka."
-    }
-  ],
-  "translation": "Fela le ihlokometše kudu go dira ⟨את⟩ taelo le ⟨את⟩ Torah yeo Moshe, mohlanka wa Yahwe, a le laetšego — go rata Yahwe Elohim ya lona, le go sepela mehlaleng ya gagwe ka moka, le go hlkomela melao ya gagwe, le go mametšana le yena, le go mo šoma ka pelo ya lona ka moka le ka maphelo a lona ka moka.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "461740c9fa07d3b232e62f07f58b3d79621eb8740bdd3dde3b36f64db44f5994",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/22\/5-8.1792287049233.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fela le tlogele go šoma mo go šoro go dira ⟨את⟩ taelo le ⟨את⟩ Torah yeo Moshe, mohlanka wa Yahwe, a laeditše ⟨את⟩ lona: go rata ⟨את⟩ Yahwe Elohim ya lona, le go sepela mekgwa ya gagwe ka moka, le go šireletša melao ya gagye, le go namelelana le yena, le go mo šoma ka pelo ya lona ka moka le ka bophelo bja lona ka moka.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "Fela"
+      "gloss": "fela"
     },
     {
       "surface": "שמרו",
-      "gloss": "le ihlokometše"
+      "gloss": "le tlogele go šoma mo go šoro"
     },
     {
       "surface": "מאד",
-      "gloss": "kudu"
+      "gloss": "mo go šoro"
     },
     {
       "surface": "לעשות",
@@ -73,11 +47,12 @@
     },
     {
       "surface": "צוה",
-      "gloss": "a le laetšego"
+      "gloss": "a laeditše"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona"
     },
     {
       "surface": "משה",
@@ -98,7 +73,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe"
+      "marks": "Yahwe Elohim ya lona"
     },
     {
       "surface": "יהוה",
@@ -118,19 +93,19 @@
     },
     {
       "surface": "דרכיו",
-      "gloss": "mehlaleng ya gagwe"
+      "gloss": "mekgwa ya gagwe"
     },
     {
       "surface": "ולשמר",
-      "gloss": "le go hlkomela"
+      "gloss": "le go šireletša"
     },
     {
       "surface": "מצותיו",
-      "gloss": "melao ya gagwe"
+      "gloss": "melao ya gagye"
     },
     {
       "surface": "ולדבקה",
-      "gloss": "le go mametšana"
+      "gloss": "le go namelelana le yena"
     },
     {
       "surface": "בו",
@@ -146,7 +121,7 @@
     },
     {
       "surface": "לבבכם",
-      "gloss": "pelo ya lona"
+      "gloss": "ka pelo ya lona"
     },
     {
       "surface": "ובכל",
@@ -154,9 +129,9 @@
     },
     {
       "surface": "נפשכם",
-      "gloss": "maphelo a lona"
+      "gloss": "ka bophelo bja lona"
     }
   ],
-  "timestamp": "2026-10-18T01:30:49.233792891Z",
+  "timestamp": "2026-10-18T17:27:23.748501258Z",
   "model": "glm-5.3"
 }

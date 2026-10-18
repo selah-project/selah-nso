@@ -5,60 +5,39 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "בן אחטוב אחי איכבוד בן פינחס בן עלי",
-      "rationale": "Tatelano ya maina — lenane la badudi bja ba-Pelishtime le bja ntlo ya Eli."
-    },
-    {
-      "kind": "secret",
-      "subject": "והעם לא ידע",
-      "rationale": "Setšhaba ga se a tseba — Sephiri sa Yonathane se tswalana le sehlwa sa setsumo 1."
-    }
-  ],
-  "translation": "Gomme go ne go le Akhija mora wa Akhitube, mogolowe wa Ikhabode mora wa Pinekhase mora wa Eli, moperisita wa Yahwe wa Shiloho, a rwago efode; gomme setšhaba ga se a tseba gore Yonathane o ile.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "f3f239d979def61dfaad2a9f51b974d0d853c812f13eba13dc1898ace168f51e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/14\/1-4.1792288197322.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Achiya, mora Ahitubo, mmošwane wa Ikabhode, mora Finehase, mora Eli, moperisita wa Yahwe o Šilo, a rwala efode; gomme setšhaba se ⟨be⟩ se sa tseba gore Yonathane o ile.",
   "tokens": [
     {
       "surface": "ואחיה",
-      "gloss": "gomme Akhija"
+      "gloss": "gomme Achiya"
     },
     {
       "surface": "בן",
-      "gloss": "mora wa"
+      "gloss": "mora"
     },
     {
       "surface": "אחטוב",
-      "gloss": "Akhítube"
+      "gloss": "Ahitubo"
     },
     {
       "surface": "אחי",
-      "gloss": "mogolowe wa"
+      "gloss": "mmošwane"
     },
     {
       "surface": "איכבוד",
-      "gloss": "Ikhabode"
+      "gloss": "Ikabhode"
     },
     {
       "surface": "בן",
-      "gloss": "mora wa"
+      "gloss": "mora"
     },
     {
       "surface": "פינחס",
-      "gloss": "Pinekhase"
+      "gloss": "Finehase"
     },
     {
       "surface": "בן",
-      "gloss": "mora wa"
+      "gloss": "mora"
     },
     {
       "surface": "עלי",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "כהן",
-      "gloss": "moperisita wa"
+      "gloss": "moperisita"
     },
     {
       "surface": "יהוה",
@@ -74,11 +53,11 @@
     },
     {
       "surface": "בשלו",
-      "gloss": "wa Shiloho"
+      "gloss": "o Šilo"
     },
     {
       "surface": "נשא",
-      "gloss": "a rwago"
+      "gloss": "a rwala"
     },
     {
       "surface": "אפוד",
@@ -90,25 +69,25 @@
     },
     {
       "surface": "לא",
-      "gloss": "ga se a tseba"
+      "gloss": "ga"
     },
     {
       "surface": "ידע",
-      "gloss": "gore"
+      "gloss": "tseba"
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "gore"
     },
     {
       "surface": "הלך",
-      "gloss": "o ile"
+      "gloss": "ile"
     },
     {
       "surface": "יונתן",
       "gloss": "Yonathane"
     }
   ],
-  "timestamp": "2026-10-18T01:49:57.323932518Z",
+  "timestamp": "2026-10-18T17:39:27.735753870Z",
   "model": "glm-5.3"
 }

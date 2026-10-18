@@ -5,42 +5,15 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "godimo ga",
-      "rationale": "בפלשתים literally 'in\/against the Philistines'; Sepedi needs a relational phrase"
-    },
-    {
-      "kind": "elision",
-      "subject": "עוד",
-      "gloss-field": "gloss is empty because ba sa tlale covers לא יספו עוד as one idiom 'they did not again continue'",
-      "rationale": "idiom לא יספו עוד = 'they did not add again to'"
-    },
-    {
-      "kind": "measurement",
-      "subject": "kol yeme Shemuel",
-      "rationale": "verse spans time: 'all the days of Samuel'"
-    }
-  ],
-  "translation": "Gomme Ba-Pelishte ba ikrobile, gomme ba sa tlale go tsena mollong wa Yisraele; gomme letšatši le lengwe le le lengwe la matšatši a Šemuele seatla sa Yahwe se be se le godimo ga Ba-Pelishte.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "cc126d82ab0bdd07b982bdc9d029e63a177d4ac923e938d784b748baead6cb1e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/7\/13-16.1792287960408.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Ba-Pelisithi ba ikhnome, gomme ba sa atolose go tšena <0> mo melelwaneng ya Yisraele; gomme letšatši le letšatši la matsatsi a Šemuele seatla sa Yahwe se be se le godimo ga Ba-Pelisithi.",
   "tokens": [
     {
       "surface": "ויכנעו",
-      "gloss": "ba ikrobile"
+      "gloss": "ba ikhnome"
     },
     {
       "surface": "הפלשתים",
-      "gloss": "Ba-Pelishte"
+      "gloss": "Ba-Pelisithi"
     },
     {
       "surface": "ולא",
@@ -48,19 +21,19 @@
     },
     {
       "surface": "יספו",
-      "gloss": "tlale"
+      "gloss": "atolose"
     },
     {
       "surface": "עוד",
-      "gloss": ""
+      "gloss": "go tšena"
     },
     {
       "surface": "לבוא",
-      "gloss": "go tsena"
+      "gloss": "mo melelwaneng"
     },
     {
       "surface": "בגבול",
-      "gloss": "mollong wa"
+      "gloss": "ya Yisraele"
     },
     {
       "surface": "ישראל",
@@ -68,7 +41,7 @@
     },
     {
       "surface": "ותהי",
-      "gloss": "gomme … e be e le"
+      "gloss": "gomme...se be"
     },
     {
       "surface": "יד",
@@ -76,25 +49,25 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "sa Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "בפלשתים",
-      "gloss": "godimo ga Ba-Pelishte"
+      "gloss": "godimo ga Ba-Pelisithi"
     },
     {
       "surface": "כל",
-      "gloss": "le ka moka"
+      "gloss": "matsatsi ka moka"
     },
     {
       "surface": "ימי",
-      "gloss": "la matšatši a"
+      "gloss": "a matsatsi"
     },
     {
       "surface": "שמואל",
-      "gloss": "a Samuele"
+      "gloss": "Šemuele"
     }
   ],
-  "timestamp": "2026-10-18T01:46:00.409468786Z",
+  "timestamp": "2026-10-18T17:01:10.536651924Z",
   "model": "glm-5.3"
 }

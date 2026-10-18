@@ -5,32 +5,11 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Ashera",
-      "rationale": "leina la modimo wa mosadi le bolokwa bjalo ka leina, e sego 'sehlare' goba 'thae'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "בני העם",
-      "rationale": "'bana ba setšhaba' — barutwa ba bangwe ba bolela 'setšhaba se se tlwaelegilego', batho ba batswadi"
-    }
-  ],
-  "translation": "Gomme a ntšha ⟨את⟩ Ashera go tšwa ntlong ya Yahwe, ka ntle ga Yerushalayime, go mošopo wa Kidrone, gomme a e fiša go mošopo wa Kidrone, a e kgetha go ba lerole, gomme a lahla ⟨את⟩ lerole la yona godimo ga mabitla a bana ba setšhaba.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "e6c4bff004ccb0ff64a19b024759a4b3bc900bf88662abbe8973e5b11489962b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/23\/5-8.1792291027079.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a ntšha ⟨את⟩ Ashera go tšwa legogong la Yahwe, ka ntle go Yerushalayime, go noka ya Kidrone, gomme a e fiša ⟨את⟩ go noka ya Kidrone, gomme a e tlhakanya go ba lerole, gomme a lahla ⟨את⟩ lerole la yona godimo ga mafelo a bana ba setšhaba.",
   "tokens": [
     {
       "surface": "ויצא",
-      "gloss": "a ntšha"
+      "gloss": "gomme a ntšha"
     },
     {
       "surface": "את",
@@ -43,19 +22,19 @@
     },
     {
       "surface": "מבית",
-      "gloss": "go tšwa ntlong"
+      "gloss": "go tšwa legogong"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "מחוץ",
-      "gloss": "ka ntle ga"
+      "gloss": "ka ntle"
     },
     {
       "surface": "לירושלם",
-      "gloss": "Yerushalayime"
+      "gloss": "go Yerushalayime"
     },
     {
       "surface": "אל",
@@ -63,11 +42,11 @@
     },
     {
       "surface": "נחל",
-      "gloss": "mošopo"
+      "gloss": "noka"
     },
     {
       "surface": "קדרון",
-      "gloss": "wa Kidrone"
+      "gloss": "Kidrone"
     },
     {
       "surface": "וישרף",
@@ -76,19 +55,19 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "mošopo wa Kidrone"
+      "marks": "Ashera (ya go fišwa)"
     },
     {
       "surface": "בנחל",
-      "gloss": "go mošopo"
+      "gloss": "go noka"
     },
     {
       "surface": "קדרון",
-      "gloss": "wa Kidrone"
+      "gloss": "Kidrone"
     },
     {
       "surface": "וידק",
-      "gloss": "a e kgetha"
+      "gloss": "gomme a e tlhakanya"
     },
     {
       "surface": "לעפר",
@@ -113,7 +92,7 @@
     },
     {
       "surface": "קבר",
-      "gloss": "mabitla"
+      "gloss": "mafelo"
     },
     {
       "surface": "בני",
@@ -124,6 +103,6 @@
       "gloss": "ba setšhaba"
     }
   ],
-  "timestamp": "2026-10-18T02:37:07.080172499Z",
+  "timestamp": "2026-10-18T17:04:28.330149587Z",
   "model": "glm-5.3"
 }

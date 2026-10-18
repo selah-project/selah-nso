@@ -5,45 +5,20 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "התשפט התשפוט",
-      "rationale": "Potto ya potšišo ye e phetišwego ka makga a mabedi — go totobaletša kgokgontšho ya go kahlola."
-    },
-    {
-      "kind": "crux",
-      "subject": "go kahlola",
-      "rationale": "Sepedi se sa na le lentšu le tlwaelegilego bakeng sa go ahlotla; 'kahlola' le tšwago go 'kahlolo' (D2) — le emetše tšebe ya Sepedi."
-    },
-    {
-      "kind": "invitation",
-      "subject": "morwa wa motho",
-      "rationale": "Potšišo ye e hlabago — taelo ye e laelago moprofeta go ba kopana le dibe tša bomagoro."
-    }
-  ],
-  "translation": "Na o ba kahlola, na o ba kahlola, morwa wa motho? Ba tsebise ⟨את⟩ dilo tše makgaphetšego tša bomagoro bona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "e03b63b3b514bd616ce8ab2dad0ef937c1cda17b4c91606493cfeec9dedf05ea",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/20\/1-4.1792294970326.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na o tla ba kahlola ⟨את⟩? Na o tla kahlola, morwa wa motho? Dilo tše di nyakisago tša bo-ntate bona o ba tsebise ⟨את⟩.",
   "tokens": [
     {
       "surface": "התשפט",
-      "gloss": "na o kahlola"
+      "gloss": "Na o tla kahlola"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ ba"
+      "gloss": "⟨את⟩",
+      "marks": "ba — sehlabelo sa go kahlolwa (ya התשפוט)"
     },
     {
       "surface": "התשפוט",
-      "gloss": "na o kahlola"
+      "gloss": "o tla kahlola"
     },
     {
       "surface": "בן",
@@ -56,21 +31,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dilo tše makgaphetšego"
+      "marks": "dilo tše di nyakisago tša bo-ntate bona"
     },
     {
       "surface": "תועבת",
-      "gloss": "dilo tše makgaphetšego"
+      "gloss": "dilo tše di nyakisago"
     },
     {
       "surface": "אבותם",
-      "gloss": "tsa bomagoro bona"
+      "gloss": "tša bo-ntate bona"
     },
     {
       "surface": "הודיעם",
-      "gloss": "ba tsebise"
+      "gloss": "o ba tsebise"
     }
   ],
-  "timestamp": "2026-10-18T03:42:50.327635611Z",
+  "timestamp": "2026-10-18T17:13:30.734406808Z",
   "model": "glm-5.3"
 }

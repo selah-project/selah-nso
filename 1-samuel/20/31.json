@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "morwa wa lehu",
-      "rationale": "בן מות — 'morwa wa lehu': sebopego sa Seheberu, go bolela yo a swanetšego go bolawa; KJV e boletše 'o tla swa ka lenaane'"
-    },
-    {
-      "kind": "you",
-      "subject": "to Yehonatane",
-      "rationale": "Shaule o laela Yehonatane ka tlhamalalo go mo romela Dafida"
-    }
-  ],
-  "translation": "Gobane matsatsi ka moka ao moena wa Yishayi a phelago mo lefase, wena ga o tlo go tišega, le bogosi bja gago; gomme bjale romela, le go mo tšea ⟨את⟩ yena go nna, gobane ke morwa wa lehu.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "bd8c22950af1f0ced08a2a5031be67ab40715f7aa1f7964f3838ebdbb95809c7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/20\/29-32.1792288500855.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane matšatši ka moka ao morwa wa Yishai a phelago ka lefase, wena le bogoši bja gago ga le ka ke la tišega; gomme bjale romela, o ye o mo rutele ⟨את⟩ go wena, ka gobane ke morwa wa lehu ⟨ke⟩ yena.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "gobane"
+      "gloss": "ka gobane"
     },
     {
       "surface": "כל",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "הימים",
-      "gloss": "matsatsi"
+      "gloss": "matšatši"
     },
     {
       "surface": "אשר",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "moena"
+      "gloss": "morwa"
     },
     {
       "surface": "ישי",
-      "gloss": "wa Yishayi"
+      "gloss": "wa Yishai"
     },
     {
       "surface": "חי",
@@ -58,7 +37,7 @@
     },
     {
       "surface": "על",
-      "gloss": "mo"
+      "gloss": "ka"
     },
     {
       "surface": "האדמה",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "תכון",
-      "gloss": "o tlo go tišega"
+      "gloss": "le ka ke la tišega"
     },
     {
       "surface": "אתה",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "ומלכותך",
-      "gloss": "le bogosi bja gago"
+      "gloss": "gomme bogoši bja gago"
     },
     {
       "surface": "ועתה",
@@ -90,20 +69,20 @@
     },
     {
       "surface": "וקח",
-      "gloss": "le go mo tšea"
+      "gloss": "o ye o mo rutele"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena"
+      "marks": "go wena"
     },
     {
       "surface": "אלי",
-      "gloss": "go nna"
+      "gloss": "go wena"
     },
     {
       "surface": "כי",
-      "gloss": "gobane"
+      "gloss": "ka gobane"
     },
     {
       "surface": "בן",
@@ -118,6 +97,6 @@
       "gloss": "ke yena"
     }
   ],
-  "timestamp": "2026-10-18T01:55:00.856273209Z",
+  "timestamp": "2026-10-18T17:00:02.503633727Z",
   "model": "glm-5.3"
 }

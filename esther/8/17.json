@@ -5,62 +5,31 @@
   "book": "esther",
   "lang": "nso",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "go be go na le",
-      "rationale": "Seheberu ga se na copula; Sepedi se e nyaka"
-    },
-    {
-      "kind": "crux",
-      "subject": "מתיהדים",
-      "rationale": "hapax ya יָהַד: 'ba tšea bokajuwa' (go ba Bajuwa) kgathanong le 'ba itšasa bjalo ka Bajuwa' (go itšasa fela)"
-    },
-    {
-      "kind": "hapax",
-      "subject": "מתיהדים",
-      "rationale": "lentšu le tlhagelela fela mo go Tanakh"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ובכל... ובכל",
-      "rationale": "go boela ga 'ka moka... ka moka' go bontšha phatlalatšo ya leloko la kgosi"
-    }
-  ],
-  "translation": "Gomme provenšeng ka moka le provenšeng e nngwe le e nngwe, le toropong ka moka le toropong e nngwe le e nngwe, lefelong leo lentšu la kgosi le molao wa yona o fihlago go lona, go be go na le thabo le boitumelo go bajuwa, mokete wa go nwa le letšatši le botse; gomme bantši ba ditšhaba tša lefase ba ile ba tšea bokajuwa, ka gobane tsogu ya bajuwa e ile ya wa godimo ga bona.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "867f58b75f09be04107d767e57f13d2f1886b189c50fa499cbd0a37fb90e45e7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/8\/17-17.1792301652260.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme profenseng nngwe le nngwe, le toropong nngwe le nngwe, lefelong leo lentšu la kgoši le molao wa yena o fihlago go lona, go be go na le boitumoso le thabo bakeng sa Bajuda, mokete le letšatši le botse; gomme bontši bja ditšhaba tša lefase ba ile ba itheta go ba Bajuda, ka gobane tšogu ya Bajuda e ile ya wa godimo ga bona.",
   "tokens": [
     {
       "surface": "ובכל",
-      "gloss": "gomme ka moka"
+      "gloss": "gomme profenseng nngwe le nngwe"
     },
     {
       "surface": "מדינה",
-      "gloss": "provenšeng"
+      "gloss": "profense"
     },
     {
       "surface": "ומדינה",
-      "gloss": "le provenšeng e nngwe le e nngwe"
+      "gloss": "le profense"
     },
     {
       "surface": "ובכל",
-      "gloss": "le ka moka"
+      "gloss": "le toropong nngwe le nngwe"
     },
     {
       "surface": "עיר",
-      "gloss": "toropong"
+      "gloss": "toropo"
     },
     {
       "surface": "ועיר",
-      "gloss": "le toropong e nngwe le e nngwe"
+      "gloss": "le toropo"
     },
     {
       "surface": "מקום",
@@ -76,11 +45,11 @@
     },
     {
       "surface": "המלך",
-      "gloss": "la kgosi"
+      "gloss": "la kgoši"
     },
     {
       "surface": "ודתו",
-      "gloss": "le molao wa yona"
+      "gloss": "le molao wa yena"
     },
     {
       "surface": "מגיע",
@@ -88,19 +57,19 @@
     },
     {
       "surface": "שמחה",
-      "gloss": "thabo"
+      "gloss": "boitumoso"
     },
     {
       "surface": "וששון",
-      "gloss": "le boitumelo"
+      "gloss": "le thabo"
     },
     {
       "surface": "ליהודים",
-      "gloss": "go bajuwa"
+      "gloss": "bakeng sa Bajuda"
     },
     {
       "surface": "משתה",
-      "gloss": "mokete wa go nwa"
+      "gloss": "mokete"
     },
     {
       "surface": "ויום",
@@ -112,19 +81,19 @@
     },
     {
       "surface": "ורבים",
-      "gloss": "gomme bantši"
+      "gloss": "gomme bontši"
     },
     {
       "surface": "מעמי",
-      "gloss": "ba ditšhaba tša"
+      "gloss": "bja ditšhaba"
     },
     {
       "surface": "הארץ",
-      "gloss": "lefase"
+      "gloss": "tša lefase"
     },
     {
       "surface": "מתיהדים",
-      "gloss": "ba tšea bokajuwa"
+      "gloss": "ba ile ba itheta go ba Bajuda"
     },
     {
       "surface": "כי",
@@ -136,17 +105,17 @@
     },
     {
       "surface": "פחד",
-      "gloss": "tsogu"
+      "gloss": "tšogu"
     },
     {
       "surface": "היהודים",
-      "gloss": "ya bajuwa"
+      "gloss": "ya Bajuda"
     },
     {
       "surface": "עליהם",
       "gloss": "godimo ga bona"
     }
   ],
-  "timestamp": "2026-10-18T05:34:12.261571986Z",
+  "timestamp": "2026-10-18T17:10:49.375035486Z",
   "model": "glm-5.3"
 }

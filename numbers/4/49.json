@@ -5,33 +5,7 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "על פי",
-      "rationale": "Sefela sa motho se šomišwa bjalo ka 'go ya ka' — sephetho sa taelo, e sego molomo wa nnete fela."
-    },
-    {
-      "kind": "crux",
-      "subject": "פקד",
-      "rationale": "Bolela go bala, go laola le go kgetha; 'bala' ke khetho mo, eupša lentšu le hweditše ka moka go gabotse."
-    },
-    {
-      "kind": "measurement",
-      "subject": "palo ya Balewi",
-      "rationale": "Temana ye ke taelo ya go bala batho — mohlala wa go bala ka tumelano ya Yahwe."
-    }
-  ],
-  "translation": "Go ya ka molomo wa Yahwe ba badilwe ka seatla sa Moshe, motho yo mongwe le yo mongwe go ya ka mošomo wa gage le go ya ka morwalo wa gage; gomme dipalo tša bona, bjalo ka ge Yahwe a laeditše ⟨את⟩ Moshe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "ad0be53cd011fd1b25b3646785532cc2247fa5f3978d21de7e063553b9c1a3e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/4\/49-49.1792284478001.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Go ya ka mošomo wa lentšu la Yahwe ba ile ba hlanngwa ka seatla sa Moshe, motho ka noši go ya ka mošomo wa gagwe le go ya ka morwalo wa gagwe; gomme ba hlanngwa ⟨את⟩ bone, bjalo ka ge Yahwe a laetše ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "על",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "molomo wa"
+      "gloss": "mošomo wa lentšu"
     },
     {
       "surface": "יהוה",
@@ -47,12 +21,12 @@
     },
     {
       "surface": "פקד",
-      "gloss": "ba badilwe"
+      "gloss": "ba ile ba hlanngwa"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "balekwa (balewi)"
+      "marks": "bone"
     },
     {
       "surface": "ביד",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "איש",
-      "gloss": "yo mongwe le yo mongwe"
+      "gloss": "ka noši"
     },
     {
       "surface": "על",
@@ -76,19 +50,19 @@
     },
     {
       "surface": "עבדתו",
-      "gloss": "mošomo wa gage"
+      "gloss": "mošomo wa gagwe"
     },
     {
       "surface": "ועל",
-      "gloss": "le go ya ka"
+      "gloss": "gomme go ya ka"
     },
     {
       "surface": "משאו",
-      "gloss": "morwalo wa gage"
+      "gloss": "morwalo wa gagwe"
     },
     {
       "surface": "ופקדיו",
-      "gloss": "gomme dipalo tša bona"
+      "gloss": "gomme ba hlanngwa"
     },
     {
       "surface": "אשר",
@@ -96,7 +70,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "a laeditše"
+      "gloss": "a laetše"
     },
     {
       "surface": "יהוה",
@@ -112,6 +86,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-10-18T00:47:58.002107305Z",
+  "timestamp": "2026-10-18T17:35:40.366697627Z",
   "model": "glm-5.3"
 }

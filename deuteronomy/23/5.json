@@ -5,28 +5,7 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "Dinoka",
-      "rationale": "נהרים ke bobedi bja נהר (dual) — Arame ya Dinoka, e sego 'Mesopotamia' ya tlwaelegilego"
-    },
-    {
-      "kind": "crux",
-      "subject": "קדמו",
-      "rationale": "'ba le amogetšego' (go tla pele go go amogela ka dijo) kgahlanong le 'ba sa le tšwela' ya boimana"
-    }
-  ],
-  "translation": "Ka lebaka la taba yeo ba e sa le amogetšego ka bogobe le ka meetse tseleng, ge le tšwa Mitsrayime, le ka gobane ba hirile kgahlanong le wena ⟨את⟩ Bileamo, morwa wa Beore, wa Pethora ya Arame ya Dinoka, go roala wena.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "d6ede65aefb17f4b829a1b78ef840c148d95d542599b5cd9a3495bb81d4470a7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/23\/5-8.1792286167062.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka lebaka la taba yeo ya gore ba sa le amogele ⟨את⟩ lona ka bogobe le ka meetse tseleng, ge le tšwe go tšwa Mitsrayime; le ka lebaka la gore o hire ⟨את⟩ Bileamo, mora wa Beore, wa Pethora, ya Arame ya dinoka tše pedi, go go roga.",
   "tokens": [
     {
       "surface": "על",
@@ -38,19 +17,20 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yeo"
+      "gloss": "yeo ya gore"
     },
     {
       "surface": "לא",
-      "gloss": "e sa"
+      "gloss": "sa"
     },
     {
       "surface": "קדמו",
-      "gloss": "ba le amogetšego"
+      "gloss": "ba amogele"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ le"
+      "gloss": "⟨את⟩ lona",
+      "marks": "lona (ge le tšwa Mitsrayime)"
     },
     {
       "surface": "בלחם",
@@ -66,19 +46,19 @@
     },
     {
       "surface": "בצאתכם",
-      "gloss": "ge le tšwa"
+      "gloss": "ge le tšwe"
     },
     {
       "surface": "ממצרים",
-      "gloss": "Mitsrayime"
+      "gloss": "go tšwa Mitsrayime"
     },
     {
       "surface": "ואשר",
-      "gloss": "le ka gobane"
+      "gloss": "gomme gore"
     },
     {
       "surface": "שכר",
-      "gloss": "ba hirile"
+      "gloss": "o hire"
     },
     {
       "surface": "עליך",
@@ -95,7 +75,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "morwa wa"
+      "gloss": "mora wa"
     },
     {
       "surface": "בעור",
@@ -103,7 +83,7 @@
     },
     {
       "surface": "מפתור",
-      "gloss": "Pethora"
+      "gloss": "wa Pethora"
     },
     {
       "surface": "ארם",
@@ -111,13 +91,13 @@
     },
     {
       "surface": "נהרים",
-      "gloss": "ya Dinoka"
+      "gloss": "dinoka tše pedi"
     },
     {
       "surface": "לקללך",
-      "gloss": "go roala wena"
+      "gloss": "go go roga"
     }
   ],
-  "timestamp": "2026-10-18T01:16:07.063299556Z",
+  "timestamp": "2026-10-18T17:09:31.069724292Z",
   "model": "glm-5.3"
 }

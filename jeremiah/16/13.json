@@ -5,45 +5,24 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "אשר (ya mafelelo)",
-      "rationale": "Seheberu se šomiša יומם ולילה...אשר לא אתן bjalo ka sedirišwa; Sepedi se nyaka 'gona ka gobane' go kgoma modumo woo."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mohau",
-      "rationale": "חנינה ke 'tshepo ya mohau' — lentšu le theilwego ka הנן (go nyaka), se fošagetše go feta 'mohau' fela."
-    }
-  ],
-  "translation": "Gomme ke tla le lata le tšwa lefaseng le, go lefase leo lona le bo-ntate bja lona le sa le tsebego; gomme moo le tla šomela ⟨את⟩ medimong ye mengwe, mosegare le bosigo, gona ka gobane ke ka se le fe mohau.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "717f32cedcfca17c947b974e94a00f18ad92b7e50688b1155c2cebfa0fcf60ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/16\/13-16.1792293231236.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ke tlo go lahla ⟨את⟩ lena go tšwa lefaseng le, go lefase leo lona le baohlwa ba lena le sa le tsebego; gomme moo le tla šoma ⟨את⟩ medimo ye mengwe letšatši le bosigo, leo ke ka se le fyele teng mohau.",
   "tokens": [
     {
       "surface": "והטלתי",
-      "gloss": "gomme ke tla le lata"
+      "gloss": "ke tlo go lahla"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ le",
-      "marks": "go lefase le (lefase leo le sa le tsebego)"
+      "gloss": "⟨את⟩ lena",
+      "marks": "lena"
     },
     {
       "surface": "מעל",
-      "gloss": "le tšwa go"
+      "gloss": "go tšwa"
     },
     {
       "surface": "הארץ",
-      "gloss": "lefase"
+      "gloss": "lefaseng"
     },
     {
       "surface": "הזאת",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "sa"
     },
     {
       "surface": "ידעתם",
@@ -75,11 +54,11 @@
     },
     {
       "surface": "ואבותיכם",
-      "gloss": "le bo-ntate bja lona"
+      "gloss": "gomme baohlwa ba lena"
     },
     {
       "surface": "ועבדתם",
-      "gloss": "gomme le tla šomela"
+      "gloss": "le tla šoma"
     },
     {
       "surface": "שם",
@@ -100,7 +79,7 @@
     },
     {
       "surface": "יומם",
-      "gloss": "mosegare"
+      "gloss": "letšatši"
     },
     {
       "surface": "ולילה",
@@ -108,15 +87,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "gona ka gobane"
+      "gloss": "leo"
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ka se"
     },
     {
       "surface": "אתן",
-      "gloss": "ke tla fe"
+      "gloss": "ke fyele"
     },
     {
       "surface": "לכם",
@@ -127,6 +106,6 @@
       "gloss": "mohau"
     }
   ],
-  "timestamp": "2026-10-18T03:13:51.237202995Z",
+  "timestamp": "2026-10-18T17:21:14.349921575Z",
   "model": "glm-5.3"
 }

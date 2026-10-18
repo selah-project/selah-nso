@@ -5,70 +5,49 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כפי",
-      "rationale": "mokgwa wa Seheberu 'go ya ka molomo wa' — go swana le 'go ya ka', sepišo sa molomo se laetša botebote"
-    },
-    {
-      "kind": "elision",
-      "subject": "אותם",
-      "rationale": "seka sa θ-object se hlalositšwe ka 'di' — dikoloi le dikgomo tša setseke se se fetilego"
-    }
-  ],
-  "translation": "Tšea go tšwa go bona, e tle e šomišwe go šoma ⟨את⟩ mošomo wa Tente ya Kopano; gomme o ⟨את⟩ di fa Balevi, motho yo mongwe le yo mongwe go ya ka mošomo wa gagwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "0f020e2e348987bdef70a7abbb8253a45b96f56840c3b1b57f7cce81ec9c9314",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/7\/5-8.1792284504120.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ke tšea go tšwa go bona, gomme di tla ba go šomišwa go dira ⟨את⟩ mošomo wa tende ya kopano, gomme o tla di fa badiri ba Levi, motho yo mongwe le yo mongwe go ya ka mošomo wa gagwe.",
   "tokens": [
     {
       "surface": "קח",
-      "gloss": "Tšea"
+      "gloss": "ke tšea"
     },
     {
       "surface": "מאתם",
-      "gloss": "go tšwa ⟨את⟩ go bona"
+      "gloss": "go tšwa go bona ⟨את⟩"
     },
     {
       "surface": "והיו",
-      "gloss": "e tle e šomišwe"
+      "gloss": "gomme di tla ba"
     },
     {
       "surface": "לעבד",
-      "gloss": "go šoma"
+      "gloss": "go šomišwa go dira"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mošomo wa Tente ya Kopano"
+      "marks": "mošomo"
     },
     {
       "surface": "עבדת",
-      "gloss": "mošomo wa"
+      "gloss": "mošomo"
     },
     {
       "surface": "אהל",
-      "gloss": "Tente"
+      "gloss": "tende"
     },
     {
       "surface": "מועד",
-      "gloss": "ya Kopano"
+      "gloss": "ya kopano"
     },
     {
       "surface": "ונתתה",
-      "gloss": "gomme o fa"
+      "gloss": "gomme o tla fa"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ di",
-      "marks": "Balevi"
+      "gloss": "⟨את⟩",
+      "marks": "go badiri ba Levi"
     },
     {
       "surface": "אל",
@@ -76,7 +55,7 @@
     },
     {
       "surface": "הלוים",
-      "gloss": "Balevi"
+      "gloss": "badiri ba Levi"
     },
     {
       "surface": "איש",
@@ -91,6 +70,6 @@
       "gloss": "mošomo wa gagwe"
     }
   ],
-  "timestamp": "2026-10-18T00:48:24.121666314Z",
+  "timestamp": "2026-10-18T17:36:17.415948388Z",
   "model": "glm-5.3"
 }

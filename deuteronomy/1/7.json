@@ -5,57 +5,31 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "lakhem",
-      "rationale": "lentšu la khomari la go ithaopa, le fiwe ka go le sego tlase ga letho"
-    },
-    {
-      "kind": "substitution",
-      "subject": "borwa",
-      "rationale": "Negev = borwa, leina la lefelo, 'borwa' e la hlalosa"
-    },
-    {
-      "kind": "you",
-      "subject": "Yisraele",
-      "rationale": "Mašomišo a go Israele — a šupa dipoelo tša lefase ka moka"
-    }
-  ],
-  "translation": "Boelang, gomme le etelle, gomme le ye thabeng ya Baemori le go baaganišane le yona: mo Arabeng, thabeng, sephogodigong, borwa, le mokgwakgweng wa lewatle — lefase la Mokenana le Labanone, go fihla nokeng ye kgolo, noka ya Perate.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "6cbea38baab9e355a66f9608be1dc17758851a010cac64339a0fde3cdba167dd",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/1\/5-8.1792285526754.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fetogang, dumelelang, gomme le tsene thabeng ya Baemori le go bao ba dulago kgauswi le yona ka moka, Arabeng, thabeng, nageng e tlase, borwa, le thoko ga lewatle, lefase la Mokanana le ya Lebanone, go fihla nokwaneng ye kgolo, nokwane ya Pherate.",
   "tokens": [
     {
       "surface": "פנו",
-      "gloss": "Boelang"
+      "gloss": "Fetogang"
     },
     {
       "surface": "וסעו",
-      "gloss": "gomme le etelle"
+      "gloss": "dumelelang"
     },
     {
       "surface": "לכם",
-      "gloss": ""
+      "gloss": "⟨go lona⟩"
     },
     {
       "surface": "ובאו",
-      "gloss": "gomme le ye"
+      "gloss": "gomme le tsene"
     },
     {
       "surface": "הר",
-      "gloss": "thabeng ya"
+      "gloss": "thabeng"
     },
     {
       "surface": "האמרי",
-      "gloss": "Baemori"
+      "gloss": "ya Baemori"
     },
     {
       "surface": "ואל",
@@ -63,15 +37,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "bohle"
+      "gloss": "ka moka"
     },
     {
       "surface": "שכניו",
-      "gloss": "baaganišane le yona"
+      "gloss": "bao ba dulago kgauswi le yona"
     },
     {
       "surface": "בערבה",
-      "gloss": "mo Arabeng"
+      "gloss": "Arabeng"
     },
     {
       "surface": "בהר",
@@ -79,7 +53,7 @@
     },
     {
       "surface": "ובשפלה",
-      "gloss": "sephogodigong"
+      "gloss": "nageng e tlase"
     },
     {
       "surface": "ובנגב",
@@ -87,7 +61,7 @@
     },
     {
       "surface": "ובחוף",
-      "gloss": "mokgwakgweng wa"
+      "gloss": "le thoko ga"
     },
     {
       "surface": "הים",
@@ -95,15 +69,15 @@
     },
     {
       "surface": "ארץ",
-      "gloss": "lefase la"
+      "gloss": "lefase"
     },
     {
       "surface": "הכנעני",
-      "gloss": "Mokenana"
+      "gloss": "la Mokanana"
     },
     {
       "surface": "והלבנון",
-      "gloss": "le Labanone"
+      "gloss": "le ya Lebanone"
     },
     {
       "surface": "עד",
@@ -111,7 +85,7 @@
     },
     {
       "surface": "הנהר",
-      "gloss": "nokeng"
+      "gloss": "nokwaneng"
     },
     {
       "surface": "הגדל",
@@ -119,13 +93,13 @@
     },
     {
       "surface": "נהר",
-      "gloss": "noka ya"
+      "gloss": "nokwane"
     },
     {
       "surface": "פרת",
-      "gloss": "Perate"
+      "gloss": "ya Pherate"
     }
   ],
-  "timestamp": "2026-10-18T01:05:26.755760358Z",
+  "timestamp": "2026-10-18T17:07:43.927317449Z",
   "model": "glm-5.3"
 }

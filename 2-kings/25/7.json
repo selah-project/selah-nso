@@ -5,32 +5,16 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "dikgokgo tša tshipi",
-      "rationale": "נחשתים e bolela dilo tša tshipi — ka mo go tlwaelegilego ke dikgokgo tša khotho"
-    }
-  ],
-  "translation": "Gomme ba hlaba ⟨את⟩ bana ba Tsidkiyahu pele ga mahlo a gage, gomme mahlo a Tsidkiyahu a imma, gomme ba mo kgoma ka dikgokgo tša tshipi, gomme ba mo isa Babele.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "4a33f1d20b527adee1b8f32585bb37f33c97779f8be64cb6a53d0775f5248124",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/25\/5-8.1792291177971.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ⟨את⟩ ba bana ba Tsidkiyahu ba ba raela pele ga mahlo a gagwe; gomme ⟨את⟩ mahlo a Tsidkiyahu a mo folosa, mme ba mo gokaganya ka dikgokgo tša tompe, mme ba mo isha Babele.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "gomme ⟨את⟩",
-      "marks": "bana ba Tsidkiyahu"
+      "marks": "ba bana ba Tsidkiyahu"
     },
     {
       "surface": "בני",
-      "gloss": "bana ba"
+      "gloss": "ba bana"
     },
     {
       "surface": "צדקיהו",
@@ -38,11 +22,11 @@
     },
     {
       "surface": "שחטו",
-      "gloss": "ba hlaba"
+      "gloss": "ba raela"
     },
     {
       "surface": "לעיניו",
-      "gloss": "pele ga mahlo a gage"
+      "gloss": "pele ga mahlo a gagwe"
     },
     {
       "surface": "ואת",
@@ -59,25 +43,25 @@
     },
     {
       "surface": "עור",
-      "gloss": "a imma"
+      "gloss": "a mo folosa"
     },
     {
       "surface": "ויאסרהו",
-      "gloss": "ba mo kgoma"
+      "gloss": "ba mo gokaganya"
     },
     {
       "surface": "בנחשתים",
-      "gloss": "ka dikgokgo tša tshipi"
+      "gloss": "ka dikgokgo tša tompe"
     },
     {
       "surface": "ויבאהו",
-      "gloss": "ba mo isa"
+      "gloss": "ba mo isha"
     },
     {
       "surface": "בבל",
       "gloss": "Babele"
     }
   ],
-  "timestamp": "2026-10-18T02:39:37.972755480Z",
+  "timestamp": "2026-10-18T17:04:05.875416495Z",
   "model": "glm-5.3"
 }

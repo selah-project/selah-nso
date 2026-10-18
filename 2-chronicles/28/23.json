@@ -5,37 +5,11 @@
   "book": "2-chronicles",
   "lang": "nso",
   "chapter": 28,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "medimo",
-      "rationale": "אלהי דרמשק ke medimo ya ditšhaba — lentšu la motho fela, ka ditlhaka tše nnye go swana le Ekisodo 32:8"
-    },
-    {
-      "kind": "crux",
-      "subject": "go mo kunyega",
-      "rationale": "להכשילו: 'go kunyega' (go wela ka maoto a go rwarwa) kgahlanong le 'go senya' kgoba 'go wa'"
-    },
-    {
-      "kind": "you",
-      "subject": "Akhaze",
-      "rationale": "polelo ya ka gare ya mmušo: Ahaz o bolela ka boena bja diphoofolo tša Damaskeke"
-    }
-  ],
-  "translation": "Gomme a hlabela medimo ya Damaskeke, yeo e mo diretego, a re: Ka gobane medimo ya dikgoši tša Arame ke yona yeo e ba llagošago, ke tšona tše ke ka go di hlabela, gomme ke tšona tše di ka mmošomong. Fela tšona di be tša go mo kunyega le go kunyega ga Yisraele ka moka.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "e13182bf821a71dc1fe924d99441f18a4eaae349195c22184f51f65f294ee7cb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/28\/23-24.1792305533603.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a ieletša mahlabelong a medimo ya Damaskeke, ao a mo otago, a re: Ka gobane medimo ya dikgoši tša Arame ke yona e ba thusago, ka gobane ke tšona ⟨את⟩ ke tla b e ieletša mahlabelong, gore ba mpše. Gomme tšona di bile tša go mo kgobotša, le ga setšhaba sa Yisraele ka moka.",
   "tokens": [
     {
       "surface": "ויזבח",
-      "gloss": "gomme a hlabela"
+      "gloss": "a ieletša mahlabelong"
     },
     {
       "surface": "לאלהי",
@@ -47,7 +21,7 @@
     },
     {
       "surface": "המכים",
-      "gloss": "yeo e mo diretego"
+      "gloss": "ao a mo otago"
     },
     {
       "surface": "בו",
@@ -67,7 +41,7 @@
     },
     {
       "surface": "מלכי",
-      "gloss": "dikgoši"
+      "gloss": "dikgoši tša"
     },
     {
       "surface": "ארם",
@@ -79,24 +53,24 @@
     },
     {
       "surface": "מעזרים",
-      "gloss": "e ba llagošago"
+      "gloss": "e ba thusago"
     },
     {
       "surface": "אותם",
       "gloss": "⟨את⟩",
-      "marks": "ba"
+      "marks": "ke tšona (medimo ya Damaskeke)"
     },
     {
       "surface": "להם",
-      "gloss": "ba"
+      "gloss": "tšona"
     },
     {
       "surface": "אזבח",
-      "gloss": "ke hlabela"
+      "gloss": "ke tla ieletša mahlabelong"
     },
     {
       "surface": "ויעזרוני",
-      "gloss": "ba ka nkgomologa"
+      "gloss": "ba mpše"
     },
     {
       "surface": "והם",
@@ -104,25 +78,25 @@
     },
     {
       "surface": "היו",
-      "gloss": "di be tša"
+      "gloss": "di bile"
     },
     {
       "surface": "לו",
-      "gloss": "mo"
+      "gloss": "tša go mo"
     },
     {
       "surface": "להכשילו",
-      "gloss": "go mo kunyega"
+      "gloss": "kgobotša"
     },
     {
       "surface": "ולכל",
-      "gloss": "le go kunyega ga"
+      "gloss": "le ga"
     },
     {
       "surface": "ישראל",
       "gloss": "Yisraele ka moka"
     }
   ],
-  "timestamp": "2026-10-18T06:38:53.604567952Z",
+  "timestamp": "2026-10-18T17:02:00.944381989Z",
   "model": "glm-5.3"
 }

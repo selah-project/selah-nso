@@ -5,36 +5,15 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "אחיך \/ האביון",
-      "rationale": "Bjaleleta bja motsamao: mohloki ke morabjwa — lentšu le le tee la bokgoni bo bongwe le bo bongwe bja temana."
-    },
-    {
-      "kind": "idiom",
-      "subject": "תאמץ את לבבך",
-      "rationale": "'Go tiisa pelo' — lentšu la Seheberu la go dira pelo e tiile, go se ke wa tswalela seatla: go swana le 'go tswalela pelo'."
-    }
-  ],
-  "translation": "Ge go tla ba le mohloki gare ga gago, wa bja bja motho wa bahlalwa ba gago, mo go tee ga dikgoro tša gago, lefaseng la gago leo Yahwe Elohim wa gago a go fago, o se ke wa tiisa ⟨את⟩ pelo ya gago, gomme o se ke wa tswalela ⟨את⟩ seatla sa gago go morabjwa wa gao yo a hlokilwego.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "28b1fff41988a6bfadd7cdf73b8731394c6aa4151dbf25580eaa81edede5fdcb",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/15\/5-8.1792285922195.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ge go tla ba ⟨go⟩ le motho wa mafolofolo gare ga ga bana ba mpa ba gago, go e nngwe ya dikgoro tša gago, lefaseng la gago leo Yahwe Elohim wa gago a go neago, o se ke wa thatafatša ⟨את⟩ pelo ya gago, gomme o se ke wa tswalela ⟨את⟩ seatla sa gago go tšwa go mpa wa gago yo a folofotšego;",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "ge"
+      "gloss": "Ge"
     },
     {
       "surface": "יהיה",
-      "gloss": "go tla ba le"
+      "gloss": "go tla ba"
     },
     {
       "surface": "בך",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "אביון",
-      "gloss": "mohloki"
+      "gloss": "motho wa mafolofolo"
     },
     {
       "surface": "מאחד",
-      "gloss": "wa tee"
+      "gloss": "go e nngwe"
     },
     {
       "surface": "אחיך",
-      "gloss": "bja bja motho wa bahlalwa ba gago"
+      "gloss": "bana ba mpa ba gago"
     },
     {
       "surface": "באחד",
-      "gloss": "mo go tee"
+      "gloss": "go e nngwe"
     },
     {
       "surface": "שעריך",
@@ -78,19 +57,19 @@
     },
     {
       "surface": "נתן",
-      "gloss": "a go fago"
+      "gloss": "a go neago"
     },
     {
       "surface": "לך",
-      "gloss": ""
+      "gloss": "wena"
     },
     {
       "surface": "לא",
-      "gloss": "o se ke"
+      "gloss": "o se ke wa"
     },
     {
       "surface": "תאמץ",
-      "gloss": "wa tiisa"
+      "gloss": "thatafatša"
     },
     {
       "surface": "את",
@@ -103,11 +82,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "gomme o se ke"
+      "gloss": "gomme o se ke wa"
     },
     {
       "surface": "תקפץ",
-      "gloss": "wa tswalela"
+      "gloss": "tswalela"
     },
     {
       "surface": "את",
@@ -120,13 +99,13 @@
     },
     {
       "surface": "מאחיך",
-      "gloss": "go morabjwa wa gao"
+      "gloss": "go tšwa go mpa wa gago"
     },
     {
       "surface": "האביון",
-      "gloss": "yo a hlokilwego"
+      "gloss": "yo a folofotšego"
     }
   ],
-  "timestamp": "2026-10-18T01:12:02.196656927Z",
+  "timestamp": "2026-10-18T17:08:35.737910708Z",
   "model": "glm-5.3"
 }

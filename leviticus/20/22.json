@@ -5,32 +5,11 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 20,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "תקיא",
-      "rationale": "'lefase le ka go ntšha ka mmala' — ponahalo ya go ntšha ka mmala ya sebopego sa botho, e bolokilwe ka botlalo"
-    },
-    {
-      "kind": "you",
-      "subject": "setšhaba sa Yisraele",
-      "rationale": "maelelo a kgopi a diretšwe setšhaba ka bontši"
-    }
-  ],
-  "translation": "Gomme le tla swara ⟨את⟩ melao ya ka ka moka le ⟨את⟩ dikahlolo tša ka ka moka, gomme le di dire; gore lefase leo ke le gogago le lona go hlaga go lona le go dula go lona, le se ke la le go ntšha ka mmala.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "e14a1039dc239b2937f5292bd610b030b0e57aa514206f92ed9d36e7c971896c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/20\/21-24.1792284092289.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme le boloke ⟨את⟩ melao ya ka ka moka le ⟨את⟩ dikahlolo tša ka ka moka, gomme le di dire ⟨את⟩; gore lefase leo nna ke le gogago koo go dula go lona le se le hlaje le ntšhe.",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "gloss": "gomme le tla swara"
+      "gloss": "gomme le boloke"
     },
     {
       "surface": "את",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "ואת",
-      "gloss": "gomme ⟨את⟩",
+      "gloss": "le ⟨את⟩",
       "marks": "dikahlolo tša ka ka moka"
     },
     {
@@ -64,19 +43,21 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩ di"
+      "gloss": "⟨את⟩",
+      "marks": "melao le dikahlolo"
     },
     {
       "surface": "ולא",
-      "gloss": "gore le se"
+      "gloss": "le se"
     },
     {
       "surface": "תקיא",
-      "gloss": "la le go ntšha ka mmala"
+      "gloss": "le hlaje le ntšhe"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩",
+      "marks": "lona"
     },
     {
       "surface": "הארץ",
@@ -88,19 +69,20 @@
     },
     {
       "surface": "אני",
-      "gloss": "ke"
+      "gloss": "nna"
     },
     {
       "surface": "מביא",
-      "gloss": "le gogago"
+      "gloss": "ke le gogago"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩",
+      "marks": "lona"
     },
     {
       "surface": "שמה",
-      "gloss": "go hlaga go lona"
+      "gloss": "koo"
     },
     {
       "surface": "לשבת",
@@ -111,6 +93,6 @@
       "gloss": "go lona"
     }
   ],
-  "timestamp": "2026-10-18T00:41:32.290082513Z",
+  "timestamp": "2026-10-18T17:31:00.410791156Z",
   "model": "glm-5.3"
 }

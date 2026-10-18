@@ -5,52 +5,31 @@
   "book": "judges",
   "lang": "nso",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "חי יהוה",
-      "rationale": "Mohlolo wa Noa: 'Yahwe o a phela' — o rwalwa ka 'go ya ka pelohlogo ya Yahwe'."
-    },
-    {
-      "kind": "you",
-      "subject": "go Zeba le go Tšalmuna",
-      "rationale": "Gideone o bolela le kgošego tše pedi ka mo go sa lopego."
-    }
-  ],
-  "translation": "Gomme a re: Baena ba ka ⟨ke⟩, bana ba mma; go ya ka pelohlogo ya Yahwe, ge le ba pheditše ⟨ke⟩, nka be ga ke bolale ⟨את⟩ le lona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "1f2e675e8619b8dcfb47faaa0eddca524b2e93d1893900a990aa4b144337b6ad",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/8\/17-20.1792287378401.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a re: Ba bane ba morwarrao ka mme, bana ba mmae ⟨ke⟩ bona; go swana le go phela ga Yahwe, ge le ka ba phedinitše ⟨את⟩, nka se ka la go bolaya ⟨את⟩ lona.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "gomme a re"
     },
     {
       "surface": "אחי",
-      "gloss": "baena ba ka"
+      "gloss": "morwarrao ka mme"
     },
     {
       "surface": "בני",
-      "gloss": "bana"
+      "gloss": "bana ba"
     },
     {
       "surface": "אמי",
-      "gloss": "ba mma"
+      "gloss": "mmae"
     },
     {
       "surface": "הם",
-      "gloss": "ke"
+      "gloss": "ke bona"
     },
     {
       "surface": "חי",
-      "gloss": "go ya ka pelohlogo"
+      "gloss": "go phela"
     },
     {
       "surface": "יהוה",
@@ -62,25 +41,27 @@
     },
     {
       "surface": "החיתם",
-      "gloss": "le ba pheditše"
+      "gloss": "le ka ba phedinitše"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ba"
+      "gloss": "⟨את⟩",
+      "marks": "bona (ba morwarrao ka mme)"
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "nka se ka"
     },
     {
       "surface": "הרגתי",
-      "gloss": "ke bolale"
+      "gloss": "go bolaya"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ le lona"
+      "gloss": "⟨את⟩",
+      "marks": "lona"
     }
   ],
-  "timestamp": "2026-10-18T01:36:18.402909436Z",
+  "timestamp": "2026-10-18T17:29:37.577537781Z",
   "model": "glm-5.3"
 }

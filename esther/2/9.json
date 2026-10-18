@@ -5,37 +5,11 @@
   "book": "esther",
   "lang": "nso",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "ויבהל",
-      "rationale": "'Go karena-pela' kgathanong le 'go tshwara tšhomi ya go tšhaba' — ba fetoleli ba fapana: KJV 'speedily', YLT 'hasteneth'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "hesede",
-      "rationale": "חסד bo bolokilwe bjalo ka hesede go ya le D2, e sego 'botho' fela."
-    },
-    {
-      "kind": "measurement",
-      "subject": "basetsana ba šupa",
-      "rationale": "Palo ya šupa e bolokwa — dinyeletšo tše šupa go tšwa ntlong ya kgoši."
-    }
-  ],
-  "translation": "Gomme mosetsana a duma mahlong a gagwe, gomme a hwetša hesede pele ga gagwe; gomme a karena-pela go fa ⟨את⟩ diphodišo tša gagwe le ⟨את⟩ dikabelo tša gagwe, le ⟨את⟩ basetsana ba šupa bao ba bego ba kgethwa go mo fa, go tšwa ntlong ya kgoši; gomme a fetola ⟨o⟩ le basetsana ba gagwe, go ba ise sebakeng se sebotse sa ntlo ya basadi.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "3ba0d12876889e7fe4db48e0d99c20e6963b68f4e35c17da12fde8df7fc478d5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/esther\/2\/9-12.1792301593246.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme mosetsana a molega ka mahlong a gagwe, gomme a fiwa hesede phêgong ya gagwe; gomme a snelisa ⟨את⟩ dihlwekiso tša gagwe le ⟨את⟩ dikabelo tša gagwe go mo fa, le ⟨את⟩ šupa tša masetsana a a lokilego go fiwa yena, go tšwa ntlong ya kgoši; gomme a fetosetša ⟨yena⟩ le ⟨את⟩ masetsana a gagwe go lefelo le botse, ntlong ya basadi.",
   "tokens": [
     {
       "surface": "ותיטב",
-      "gloss": "a duma"
+      "gloss": "gomme a molega"
     },
     {
       "surface": "הנערה",
@@ -43,11 +17,11 @@
     },
     {
       "surface": "בעיניו",
-      "gloss": "mahlong a gagwe"
+      "gloss": "ka mahlong a gagwe"
     },
     {
       "surface": "ותשא",
-      "gloss": "a hwetša"
+      "gloss": "gomme a fiwa"
     },
     {
       "surface": "חסד",
@@ -55,24 +29,24 @@
     },
     {
       "surface": "לפניו",
-      "gloss": "pele ga gagwe"
+      "gloss": "phegong ya gagwe"
     },
     {
       "surface": "ויבהל",
-      "gloss": "a karena-pela"
+      "gloss": "gomme a snelisa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "diphodišo tša gagwe"
+      "marks": "dihlwekiso tša gagwe"
     },
     {
       "surface": "תמרוקיה",
-      "gloss": "diphodišo tša gagwe"
+      "gloss": "dihlwekiso tša gagwe"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "gomme ⟨את⟩",
       "marks": "dikabelo tša gagwe"
     },
     {
@@ -81,36 +55,36 @@
     },
     {
       "surface": "לתת",
-      "gloss": "go fa"
+      "gloss": "go mo fa"
     },
     {
       "surface": "לה",
-      "gloss": "mo"
+      "gloss": "yena"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "basetsana ba šupa"
+      "gloss": "le ⟨את⟩",
+      "marks": "šupa tša masetsana"
     },
     {
       "surface": "שבע",
-      "gloss": "ba šupa"
+      "gloss": "šupa"
     },
     {
       "surface": "הנערות",
-      "gloss": "basetsana"
+      "gloss": "tša masetsana"
     },
     {
       "surface": "הראיות",
-      "gloss": "bao ba kgethwago"
+      "gloss": "a a lokilego"
     },
     {
       "surface": "לתת",
-      "gloss": "go fa"
+      "gloss": "go fiwa"
     },
     {
       "surface": "לה",
-      "gloss": "mo"
+      "gloss": "yena"
     },
     {
       "surface": "מבית",
@@ -122,20 +96,20 @@
     },
     {
       "surface": "וישנה",
-      "gloss": "a fetola"
+      "gloss": "gomme a fetosetša"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "basetsana ba gagwe"
+      "gloss": "le ⟨את⟩",
+      "marks": "masetsana a gagwe"
     },
     {
       "surface": "נערותיה",
-      "gloss": "basetsana ba gagwe"
+      "gloss": "masetsana a gagwe"
     },
     {
       "surface": "לטוב",
-      "gloss": "sebakeng se sebotse"
+      "gloss": "go lefelo le botse"
     },
     {
       "surface": "בית",
@@ -146,6 +120,6 @@
       "gloss": "ya basadi"
     }
   ],
-  "timestamp": "2026-10-18T05:33:13.247601187Z",
+  "timestamp": "2026-10-18T17:10:21.617177822Z",
   "model": "glm-5.3"
 }

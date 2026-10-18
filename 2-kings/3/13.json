@@ -5,41 +5,15 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 3,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "מה לי ולך",
-      "rationale": "Idioma ya Seheberu 'what to me and to you' — go sepelelana ga rena ga go selo; boletšwe ka mo go tlwaelegilego"
-    },
-    {
-      "kind": "substitution",
-      "subject": "כי",
-      "rationale": "כי mo e sego 'ka gobane' fela; e aga ganetšo ya kgoši: 'aowa, ka mohlomongwe...' — dikgopolo tša baphetoli di fapana"
-    },
-    {
-      "kind": "you",
-      "subject": "Elisha go kgoši ya Yisraele",
-      "rationale": "Puo ya go ganetša kgauswi: potšišo le taelo ya ka mo go tobilego"
-    }
-  ],
-  "translation": "Gomme Elisha a bolela go kgoši ya Yisraele: Ke eng ka nna le wena? Eya go baprofeta ba ntatao le go baprofeta ba mmao. Gomme kgoši ya Yisraele a mo bolela: Aowa; ka gobane Yahwe o bitšitše dikgoši tše tharo tše, go di neela mo seatleng sa Moaba.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "cde270101394d55c4a9549ec2b60f8290ab90d751011f6bb96e64e7a276dcf07",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/3\/13-16.1792290430382.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Elishea a bolela go kgoši ya Yisraele: Ke eng ka nna gomme ka wena? Eya go baprofeta ba papa gago le go baprofeta ba mme gago. Gomme kgoši ya Yisraele a re go yena: Aowa, gobane Yahwe o bitšile dikgoši tše tharo tše, go di nea ⟨את⟩ tšona mo seatleng sa Moaba.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "gomme a bolela"
+      "gloss": "Gomme a bolela"
     },
     {
       "surface": "אלישע",
-      "gloss": "Elisha"
+      "gloss": "Elishea"
     },
     {
       "surface": "אל",
@@ -47,11 +21,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kgoši ya"
+      "gloss": "kgoši"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "ya Yisraele"
     },
     {
       "surface": "מה",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "ולך",
-      "gloss": "le wena"
+      "gloss": "gomme ka wena"
     },
     {
       "surface": "לך",
@@ -75,11 +49,11 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "baprofeta ba"
+      "gloss": "baprofeta"
     },
     {
       "surface": "אביך",
-      "gloss": "ntatao"
+      "gloss": "ba papa gago"
     },
     {
       "surface": "ואל",
@@ -87,15 +61,15 @@
     },
     {
       "surface": "נביאי",
-      "gloss": "baprofeta ba"
+      "gloss": "baprofeta"
     },
     {
       "surface": "אמך",
-      "gloss": "mmao"
+      "gloss": "ba mme gago"
     },
     {
       "surface": "ויאמר",
-      "gloss": "gomme a bolela"
+      "gloss": "Gomme a re"
     },
     {
       "surface": "לו",
@@ -103,11 +77,11 @@
     },
     {
       "surface": "מלך",
-      "gloss": "kgoši ya"
+      "gloss": "kgoši"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "ya Yisraele"
     },
     {
       "surface": "אל",
@@ -115,11 +89,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "ka gobane"
+      "gloss": "gobane"
     },
     {
       "surface": "קרא",
-      "gloss": "o bitšitše"
+      "gloss": "o bitšile"
     },
     {
       "surface": "יהוה",
@@ -127,7 +101,7 @@
     },
     {
       "surface": "לשלשת",
-      "gloss": "tše tharo tša"
+      "gloss": "tša go tharo"
     },
     {
       "surface": "המלכים",
@@ -139,22 +113,22 @@
     },
     {
       "surface": "לתת",
-      "gloss": "go neela"
+      "gloss": "go nea"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩-ba",
+      "gloss": "⟨את⟩ tšona",
       "marks": "dikgoši tše tharo tše"
     },
     {
       "surface": "ביד",
-      "gloss": "mo seatleng sa"
+      "gloss": "mo seatleng"
     },
     {
       "surface": "מואב",
-      "gloss": "Moaba"
+      "gloss": "sa Moaba"
     }
   ],
-  "timestamp": "2026-10-18T02:27:10.383219509Z",
+  "timestamp": "2026-10-18T17:04:33.541253459Z",
   "model": "glm-5.3"
 }

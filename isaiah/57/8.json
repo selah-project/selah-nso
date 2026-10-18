@@ -5,38 +5,7 @@
   "book": "isaiah",
   "lang": "nso",
   "chapter": 57,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "יד חזית",
-      "rationale": "'seatla se o se bonile' — JPS e bitša 'yo mongwe yo mongwe'; YLT 'setšo sa go ema'; Seheberu sa tlwaelo ke 'seatla'"
-    },
-    {
-      "kind": "crux",
-      "subject": "מאתי גלית",
-      "rationale": "'o ile wa ntlogelela ke, wa ikantšha' kgahlanong le 'wa itsepholola go yo mongwe ntle le nna' (KJV\/ASV)"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨ke⟩",
-      "rationale": "Seheberu se se na le kopula; Sepedi e e nyaka"
-    },
-    {
-      "kind": "substitution",
-      "subject": "משכב",
-      "rationale": "bolao — e šomišwa ka boithomogi bakeng sa bokgore, go swana le temana ya 7"
-    }
-  ],
-  "translation": "Ka morago ga lebati le lepheko o beile segopotšo sa gago; ka gobane o ile wa ntlogelela ⟨ke⟩ gomme wa tlhatloga, o ateditše bolao bja gago, o ipokile kgwerano le bona, o ratile bolao bja bona — seatla se o se bonile.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "ec57c862093da13194b14939a24bdddb41423c6e32fa124d1cb90d28c6381a61",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/57\/5-8.1792292467847.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka morago ga lebati le pōšo ya kgoro o beile sekgopotšo sa gago; gobane mo go ⟨את⟩-nna o itsepoditše, wa nyakolla, o katološitše mošoro wa gago, o ipšetše kgwerano le bona, o ratile mošoro wa bona — woo o o bonago.",
   "tokens": [
     {
       "surface": "ואחר",
@@ -48,7 +17,7 @@
     },
     {
       "surface": "והמזוזה",
-      "gloss": "le lepheko"
+      "gloss": "pōšo ya kgoro"
     },
     {
       "surface": "שמת",
@@ -56,35 +25,36 @@
     },
     {
       "surface": "זכרונך",
-      "gloss": "segopotšo sa gago"
+      "gloss": "sekgopotšo sa gago"
     },
     {
       "surface": "כי",
-      "gloss": "ka gobane"
+      "gloss": "gobane"
     },
     {
       "surface": "מאתי",
-      "gloss": "⟨את⟩ke wa ntlogelela"
+      "gloss": "mo go ⟨את⟩-nna",
+      "marks": "nna"
     },
     {
       "surface": "גלית",
-      "gloss": "wa ikantšha"
+      "gloss": "o itsepoditše"
     },
     {
       "surface": "ותעלי",
-      "gloss": "gomme wa tlhatloga"
+      "gloss": "wa nyakolla"
     },
     {
       "surface": "הרחבת",
-      "gloss": "o ateditše"
+      "gloss": "o katološitše"
     },
     {
       "surface": "משכבך",
-      "gloss": "bolao bja gago"
+      "gloss": "mošoro wa gago"
     },
     {
       "surface": "ותכרת",
-      "gloss": "o ipokile kgwerano"
+      "gloss": "o ipšetše kgwerano"
     },
     {
       "surface": "לך",
@@ -100,17 +70,17 @@
     },
     {
       "surface": "משכבם",
-      "gloss": "bolao bja bona"
+      "gloss": "mošoro wa bona"
     },
     {
       "surface": "יד",
-      "gloss": "seatla"
+      "gloss": "woo (seatša)"
     },
     {
       "surface": "חזית",
-      "gloss": "se o se bonile"
+      "gloss": "o o bonago"
     }
   ],
-  "timestamp": "2026-10-18T03:01:07.848477757Z",
+  "timestamp": "2026-10-18T17:20:56.565933577Z",
   "model": "glm-5.3"
 }

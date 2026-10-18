@@ -5,28 +5,7 @@
   "book": "2-samuel",
   "lang": "nso",
   "chapter": 4,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "digodu",
-      "rationale": "גדודים ke mephato ya batho ba bantsi ba sesole; 'digodu' e tšerea sebopego sa mophato"
-    },
-    {
-      "kind": "elision",
-      "subject": "היו בן שאול",
-      "rationale": "Seheberu se re 'e bile go morwa wa Shaule' — phetolelo e oketša 'ba le gare ga' go hlalosa bohlatse"
-    }
-  ],
-  "translation": "Gomme banna ba babedi, dikgosi tša digodu, e bile ba le gare ga morwa wa Shaule; leina la motho wa pele e be le Baana, gomme leina la wa bobedi Rikabe, bana ba Rimone, Mua-Beerotе, go tšwa go bana la Benjaminе; gobane le Beerote bo balwa go Benjaminе.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "2fff03d6b18849ef6fba94468fecba80407aade55fd2f4234c07bd675f94ac9a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/4\/2-3.1792304902264.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme banna ba babedi, dikgosi tša digodu, ba be go mora wa Shaule: leina la ⟨moro⟩ o tee e be Baana, gomme leina la wa bobedi e be Rekhabe, bana ba Rimone, Mbeerothi, go bana ba Binjamine, gobane Beeroth le sona se balelwa go Binjamine.",
   "tokens": [
     {
       "surface": "ושני",
@@ -38,19 +17,19 @@
     },
     {
       "surface": "שרי",
-      "gloss": "dikgosi tša"
+      "gloss": "dikgosi"
     },
     {
       "surface": "גדודים",
-      "gloss": "digodu"
+      "gloss": "tša digodu"
     },
     {
       "surface": "היו",
-      "gloss": "e bile ba le"
+      "gloss": "ba be"
     },
     {
       "surface": "בן",
-      "gloss": "morwa wa"
+      "gloss": "mora wa"
     },
     {
       "surface": "שאול",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "האחד",
-      "gloss": "motho wa pele"
+      "gloss": "o tee"
     },
     {
       "surface": "בענה",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "רכב",
-      "gloss": "Rikabe"
+      "gloss": "Rekhabe"
     },
     {
       "surface": "בני",
@@ -90,15 +69,15 @@
     },
     {
       "surface": "הבארתי",
-      "gloss": "Mua-Beerote"
+      "gloss": "Mbeerothi"
     },
     {
       "surface": "מבני",
-      "gloss": "go tšwa go bana la"
+      "gloss": "go bana ba"
     },
     {
       "surface": "בנימן",
-      "gloss": "Benjaminе"
+      "gloss": "Binjamine"
     },
     {
       "surface": "כי",
@@ -110,11 +89,11 @@
     },
     {
       "surface": "בארות",
-      "gloss": "Beerote"
+      "gloss": "Beeroth"
     },
     {
       "surface": "תחשב",
-      "gloss": "bo balwa"
+      "gloss": "se balelwa"
     },
     {
       "surface": "על",
@@ -122,9 +101,9 @@
     },
     {
       "surface": "בנימן",
-      "gloss": "Benjaminе"
+      "gloss": "Binjamine"
     }
   ],
-  "timestamp": "2026-10-18T06:28:22.264937193Z",
+  "timestamp": "2026-10-18T17:05:42.470883570Z",
   "model": "glm-5.3"
 }

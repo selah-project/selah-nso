@@ -5,22 +5,43 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 22,
-  "translation": "Gomme bagolo ba toropo yeo ba tla tšea ⟨את⟩ monna yoo, gomme ba mo otlše.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "0b35c2ca1cf594574b21e168d5e357c8aab3c76385631338aeca2915d17316f1",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/22\/17-20.1792286116507.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme bahologolo ba toropo yeo ba tla tsenya ⟨את⟩ monna yoo, gomme ba mo kahlolye.",
   "tokens": [
     {
+      "surface": "ולקחו",
+      "gloss": "gomme ba tla tsenya"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "bahologolo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "toropo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "yeo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "monna yoo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "monna yoo"
+    },
+    {
       "surface": "ויסרו",
-      "gloss": "gomme ba mo otlše"
+      "gloss": "gomme ba mo kahlolye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ o lokile",
+      "marks": "mo (monna yoo)"
     }
   ],
-  "timestamp": "2026-10-18T01:15:16.508820198Z",
+  "timestamp": "2026-10-18T17:08:08.165182747Z",
   "model": "glm-5.3"
 }

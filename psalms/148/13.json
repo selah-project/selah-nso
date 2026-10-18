@@ -5,42 +5,16 @@
   "book": "psalms",
   "lang": "nso",
   "chapter": 148,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "go ditšhaba ka moka",
-      "rationale": "Taello ya go duma e tsebagatša ditšhaba ka moka tše di bitšwego semoleng se sa tšwa go v12."
-    },
-    {
-      "kind": "alternative",
-      "subject": "le la godimo",
-      "rationale": "נשגב gape e ka bolela 'go se ka phologwa \/ go bolokegile ka godimo'; 'go la godimo' ke boholo bjo bo bonolo."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "שם ... שמו",
-      "rationale": "Go bušegeša ga leina gabedi ga go phethagale ka botlalo ka Sepedi."
-    }
-  ],
-  "translation": "A dumeng leina la Yahwe, ka gobane leina la gagwe le la godimo fela, setšo sa gagwe se godimo ga lefase le magodimo.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "a5bbcb0beb00f7f3fc978e43535203bba88b14031399f6bdaef66693da220704",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/148\/13-14.1792299085925.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ba makatše ⟨את⟩ leina la Yahwe, ka gobane leina la gagwe fela le phahame; kgalatšo ya gagwe e godimo ga lefase le magodimo.",
   "tokens": [
     {
       "surface": "יהללו",
-      "gloss": "A dume ng"
+      "gloss": "A ba makatše"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "leina"
+      "marks": "leina la Yahwe"
     },
     {
       "surface": "שם",
@@ -48,7 +22,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "la Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "כי",
@@ -56,7 +30,7 @@
     },
     {
       "surface": "נשגב",
-      "gloss": "le la godimo"
+      "gloss": "le phahame"
     },
     {
       "surface": "שמו",
@@ -68,7 +42,7 @@
     },
     {
       "surface": "הודו",
-      "gloss": "setšo sa gagwe"
+      "gloss": "kgalatšo ya gagwe"
     },
     {
       "surface": "על",
@@ -83,6 +57,6 @@
       "gloss": "gomme magodimo"
     }
   ],
-  "timestamp": "2026-10-18T04:51:25.925912890Z",
+  "timestamp": "2026-10-18T17:37:34.351836630Z",
   "model": "glm-5.3"
 }

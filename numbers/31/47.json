@@ -5,32 +5,11 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨ke⟩\/go",
-      "rationale": "Sepedi e nyaka dikopanyi tšeo Seheberu se di se nago."
-    },
-    {
-      "kind": "measurement",
-      "subject": "e tee go masomehlano",
-      "rationale": "Kelo ya khumo: karolo ya go tšwa go 50 ya karolo ya bana ba Yisraele."
-    }
-  ],
-  "translation": "Gomme Moshe a hwetša go tšwa karolong ya go e tše tharo ya bana ba Yisraele ⟨את⟩ tše di tšerweng, e tee go tšwa go masomehlano, go tšwa mothong le go tšwa diruiweng, a di fa ba-Lewi, bašomiši ba mošomo wa go lebala Mishkane ya Yahwe, bjalo ge Yahwe a laetše Moshe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "4d832c671a2dde3ff783d6dc793b8aa0805c72d699d5c1dd282495e27361688a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/31\/45-48.1792285304179.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Moshe a tšea go seka sa bana ba Yisraele ⟨את⟩ se tšewago se tee go tšwa go masomehlano, go tšwa go batho le go diruiwa, gomme a fa balefi ⟨את⟩ tšona, bao ba šireletšego mošomo wa Mishkane wa Yahwe, bjalo ka ge Yahwe a laeditše ⟨את⟩ Moshe.",
   "tokens": [
     {
       "surface": "ויקח",
-      "gloss": "Gomme... a hwetša"
+      "gloss": "gomme a tšea"
     },
     {
       "surface": "משה",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "ממחצת",
-      "gloss": "go tšwa karolong"
+      "gloss": "go seka sa"
     },
     {
       "surface": "בני",
@@ -51,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tše di tšerweng"
+      "marks": "se tšewago se tee"
     },
     {
       "surface": "האחז",
-      "gloss": "tše di tšerwego"
+      "gloss": "se tšewago"
     },
     {
       "surface": "אחד",
-      "gloss": "e tee"
+      "gloss": "se tee"
     },
     {
       "surface": "מן",
@@ -71,40 +50,40 @@
     },
     {
       "surface": "מן",
-      "gloss": "go tšwa"
+      "gloss": "go tšwa go"
     },
     {
       "surface": "האדם",
-      "gloss": "mothong"
+      "gloss": "batho"
     },
     {
       "surface": "ומן",
-      "gloss": "le go tšwa"
+      "gloss": "le go tšwa go"
     },
     {
       "surface": "הבהמה",
-      "gloss": "diruiweng"
+      "gloss": "diruiwa"
     },
     {
       "surface": "ויתן",
-      "gloss": "a di fa"
+      "gloss": "gomme a fa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "ba-Lewi"
+      "gloss": "⟨את⟩ tšona",
+      "marks": "balefi"
     },
     {
       "surface": "ללוים",
-      "gloss": "ba-Lewi"
+      "gloss": "balefi"
     },
     {
       "surface": "שמרי",
-      "gloss": "bašomiši ba"
+      "gloss": "bao ba šireletšego"
     },
     {
       "surface": "משמרת",
-      "gloss": "mošomo wa go lebala"
+      "gloss": "mošomo"
     },
     {
       "surface": "משכן",
@@ -116,11 +95,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "bjalo ge"
+      "gloss": "bjalo ka ge"
     },
     {
       "surface": "צוה",
-      "gloss": "a laetše"
+      "gloss": "a laeditše"
     },
     {
       "surface": "יהוה",
@@ -136,6 +115,6 @@
       "gloss": "Moshe"
     }
   ],
-  "timestamp": "2026-10-18T01:01:44.180613991Z",
+  "timestamp": "2026-10-18T17:35:09.581583689Z",
   "model": "glm-5.3"
 }

@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "nso",
   "chapter": 48,
-  "notes": [
-    {
-      "kind": "invitation",
-      "subject": "Theetša go nna",
-      "rationale": "taetšo ya go theetša e bitša mmadi ka lentšu la go kgothaletša"
-    },
-    {
-      "kind": "you",
-      "subject": "go Yaakobo le Yisraele",
-      "rationale": "boitlaodi bja ka kgoši go Yaakobo le Yisraele, setšhaba seo se bitšwago ke yena"
-    }
-  ],
-  "translation": "Theetša go nna, Yaakobo, le Yisraele, ⟨⟨את⟩⟩ bao ke ba bitšago: Nna ke yena; nna ke wa pele, gomme nna ke wa mafelelo.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "aea10bb6079315e970392956cb073072c25df5b44bc079eeca30aeaf70c2eb1a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/48\/9-12.1792292221224.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Theetša go ya go nna, Yaakobo, le Yisraele, ⟨bao⟩ ba la bitšwago ke nna; nna ke ⟨ke⟩ yena, nna ke ⟨ke⟩ wa mathomo, gape nna ke ⟨ke⟩ wa mafelelo.",
   "tokens": [
     {
       "surface": "שמע",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אלי",
-      "gloss": "go nna"
+      "gloss": "go ya go nna"
     },
     {
       "surface": "יעקב",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "וישראל",
-      "gloss": "le Yisraele"
+      "gloss": "gomme Yisraele"
     },
     {
       "surface": "מקראי",
-      "gloss": "bao ke ba bitšago"
+      "gloss": "ba la bitšwago ke nna"
     },
     {
       "surface": "אני",
-      "gloss": "Nna"
+      "gloss": "nna"
     },
     {
       "surface": "הוא",
-      "gloss": "ke yena"
+      "gloss": "yena"
     },
     {
       "surface": "אני",
@@ -62,11 +41,11 @@
     },
     {
       "surface": "ראשון",
-      "gloss": "wa pele"
+      "gloss": "wa mathomo"
     },
     {
       "surface": "אף",
-      "gloss": "gomme"
+      "gloss": "gape"
     },
     {
       "surface": "אני",
@@ -77,6 +56,6 @@
       "gloss": "wa mafelelo"
     }
   ],
-  "timestamp": "2026-10-18T02:57:01.225395956Z",
+  "timestamp": "2026-10-18T17:20:23.067606551Z",
   "model": "glm-5.3"
 }

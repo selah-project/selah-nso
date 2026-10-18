@@ -5,40 +5,23 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "šupa-tesome, masomehlano dikete",
-      "rationale": "שִׁבְעִים אִישׁ חֲמִשִּׁים אֶלֶף אִישׁ: 'banna ba 70, banna ba 50 000' (KJV\/ASV\/JPS) kgathanong le 'banna ba 70 — bao e lego baholo ba 50' (YLT); Beti-Schemeši e ne e ka se bale batho ba 50 000"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ויך…ויך…הכה…מכה",
-      "rationale": "go bušetša ga modu o tee wa go otla ka setrankwana ka moka — modumo wo o wele ka Sepedi goba o sa swarwa"
-    }
-  ],
-  "translation": "Gomme Yahwe a otla banna ba Beti-Schemeši, ka gobane ba ile ba lebelela ka gare ga araka ya Yahwe; a otla setšhabeng banna ba šupa-tesome, banna ba masomehlano dikete; gomme setšhaba sa hlwefaletša, ka gobane Yahwe o ile wa otla setšhaba ka tlatlo e kgolo.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "e5075d8ddb2c2a68d8b798c197b2e8de8aed73db5b0e23f5ab14dfc5ba63a5b3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/6\/17-20.1792287989314.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme o ile a otla banna ba Beti-Semeše, ka gobane ba ile ba lebelela araka ya Yahwe; gomme o ile a otla setšhabeng: batho ba masomešupa le batho ba masomehlano sekete; gomme setšhaba sa lla, ka gobane Yahwe o ile wa otla setšhaba ka tlaišo ye kgolo.",
   "tokens": [
     {
       "surface": "ויך",
-      "gloss": "a otla"
+      "gloss": "gomme o ile a otla"
     },
     {
       "surface": "באנשי",
       "gloss": "banna ba"
     },
     {
-      "surface": "בית שמש",
-      "gloss": "Beti-Schemeši"
+      "surface": "בית",
+      "gloss": "Beti"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Semeše"
     },
     {
       "surface": "כי",
@@ -50,15 +33,15 @@
     },
     {
       "surface": "בארון",
-      "gloss": "ka gare ga araka"
+      "gloss": "araka ya"
     },
     {
       "surface": "יהוה",
-      "gloss": "ya Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "ויך",
-      "gloss": "a otla"
+      "gloss": "gomme o ile a otla"
     },
     {
       "surface": "בעם",
@@ -66,27 +49,27 @@
     },
     {
       "surface": "שבעים",
-      "gloss": "ba šupa-tesome"
+      "gloss": "masomešupa"
     },
     {
       "surface": "איש",
-      "gloss": "banna"
+      "gloss": "batho"
     },
     {
       "surface": "חמשים",
-      "gloss": "ba masomehlano"
+      "gloss": "masomehlano"
     },
     {
       "surface": "אלף",
-      "gloss": "dikete"
+      "gloss": "sekete"
     },
     {
       "surface": "איש",
-      "gloss": "banna"
+      "gloss": "batho"
     },
     {
       "surface": "ויתאבלו",
-      "gloss": "sa hlwefaletša"
+      "gloss": "sa ile sa lla"
     },
     {
       "surface": "העם",
@@ -110,13 +93,13 @@
     },
     {
       "surface": "מכה",
-      "gloss": "ka tlatlo"
+      "gloss": "tlaišo"
     },
     {
       "surface": "גדולה",
-      "gloss": "e kgolo"
+      "gloss": "ye kgolo"
     }
   ],
-  "timestamp": "2026-10-18T01:46:29.315380300Z",
+  "timestamp": "2026-10-18T17:01:26.816693288Z",
   "model": "glm-5.3"
 }

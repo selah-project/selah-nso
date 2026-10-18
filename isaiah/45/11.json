@@ -5,28 +5,7 @@
   "book": "isaiah",
   "lang": "nso",
   "chapter": 45,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "שאלוני...תצוני",
-      "rationale": "Dikgethwa tše dingwe (KJV\/JPS) di a kwala 'mpotšišang...le ntaelang'; BSB e bala go se loka 'le ka nkganetša ka bana ba ka?' — kgwerano ya bofelo e kgahlanong le taelo ya pele ka ntle le leswiki."
-    },
-    {
-      "kind": "elision",
-      "subject": "האתיות",
-      "rationale": "Seheberu se theoga feela se se sa elego sepe — '⟨ka⟩ dilo tša tlang' se kopantšwe le lentšu la go botšiša."
-    }
-  ],
-  "translation": "Go bolela Yahwe, yo a kgethwago wa Yisraele, le Mmopi wa yena: Dilo tša tlang — mpotšišang ka bana ba ka, gomme ka mošomo wa diatla tša ka le ntaelang.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "f00f181a25d2a7170dcc90a7659cdea7860554cc94dcd89a86b630970e9f8f35",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/isaiah\/45\/9-12.1792292321123.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Go bolela Yahwe, E-kgethwa ya Yisraele, gomme yo a mo hlamilwego: dintlhakang tše di tlago tša bana ba ka, le mošomong wa matšwago a ka, o a laola.",
   "tokens": [
     {
       "surface": "כה",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "go bolela"
+      "gloss": "a re"
     },
     {
       "surface": "יהוה",
@@ -42,27 +21,27 @@
     },
     {
       "surface": "קדוש",
-      "gloss": "yo a kgethwago"
+      "gloss": "E-kgethwa"
     },
     {
       "surface": "ישראל",
-      "gloss": "wa Yisraele"
+      "gloss": "ya Yisraele"
     },
     {
       "surface": "ויצרו",
-      "gloss": "le Mmopi wa yena"
+      "gloss": "gomme yo a mo hlamilwego"
     },
     {
       "surface": "האתיות",
-      "gloss": "dilo tša tlang"
+      "gloss": "dintlha tše di tlago"
     },
     {
       "surface": "שאלוני",
-      "gloss": "mpotšišang"
+      "gloss": "tša bana ba ka… o a laola"
     },
     {
       "surface": "על",
-      "gloss": "ka"
+      "gloss": "ka ga"
     },
     {
       "surface": "בני",
@@ -70,7 +49,7 @@
     },
     {
       "surface": "ועל",
-      "gloss": "gomme ka"
+      "gloss": "le ka ga"
     },
     {
       "surface": "פעל",
@@ -78,13 +57,13 @@
     },
     {
       "surface": "ידי",
-      "gloss": "wa diatla tša ka"
+      "gloss": "wa matšwago a ka"
     },
     {
       "surface": "תצוני",
-      "gloss": "le ntaelang"
+      "gloss": "o a laola"
     }
   ],
-  "timestamp": "2026-10-18T02:58:41.125196746Z",
+  "timestamp": "2026-10-18T17:20:25.632653055Z",
   "model": "glm-5.3"
 }

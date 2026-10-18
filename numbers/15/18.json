@@ -5,27 +5,11 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "go bana ba Yisraele",
-      "rationale": "Mašaledi a dirwa go bana ba Yisraele ka Moshe."
-    }
-  ],
-  "translation": "Bolela go bana ba Yisraele, o re go bona: Ge le tsena lefaseng leo nna ke le tlišago le lona, gona;",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "54afb633c34b273555b0df7fba7fdc900f3154b8c8136d9315c627e9b3017a8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/15\/17-20.1792284821168.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bolela go bana ba Yisraele, gomme o re go bona: ge le tsena lefaseng leo ke lona le tlisago ⟨את⟩go lona kona,",
   "tokens": [
     {
       "surface": "דבר",
-      "gloss": "Bolela"
+      "gloss": "bolela"
     },
     {
       "surface": "אל",
@@ -33,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "go bana ba"
+      "gloss": "bana"
     },
     {
       "surface": "ישראל",
@@ -41,7 +25,7 @@
     },
     {
       "surface": "ואמרת",
-      "gloss": "o re"
+      "gloss": "gomme o re"
     },
     {
       "surface": "אלהם",
@@ -53,11 +37,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "lefase"
+      "gloss": "go"
     },
     {
       "surface": "הארץ",
-      "gloss": "le"
+      "gloss": "lefase"
     },
     {
       "surface": "אשר",
@@ -69,18 +53,18 @@
     },
     {
       "surface": "מביא",
-      "gloss": "ke le tlišago"
+      "gloss": "ke tlisago"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩le",
-      "marks": "le lona"
+      "gloss": "⟨את⟩go lona",
+      "marks": "go lona — šala go šoma le šamha (kona)"
     },
     {
       "surface": "שמה",
-      "gloss": "gona"
+      "gloss": "kona"
     }
   ],
-  "timestamp": "2026-10-18T00:53:41.168858408Z",
+  "timestamp": "2026-10-18T17:33:40.861151579Z",
   "model": "glm-5.3"
 }

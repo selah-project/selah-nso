@@ -5,41 +5,15 @@
   "book": "2-chronicles",
   "lang": "nso",
   "chapter": 24,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yena",
-      "rationale": "Sepedi e nyaka leina la motho moo Seheberu se se dirišago ⟨אתו⟩ fela"
-    },
-    {
-      "kind": "substitution",
-      "subject": "mošomo",
-      "rationale": "מטה ke mošomo wa go robala; \"godimo ga mošomo wa gagwe\" — o bolailwe a lwala mo mosomong"
-    },
-    {
-      "kind": "crux",
-      "subject": "במחליים",
-      "rationale": "dikgunu\/mafhumunywa: \"ka dihloko tše dintši\" kgotalo \"ba mo tlogetše a le mafhumunywa\" (BSB)"
-    }
-  ],
-  "translation": "Gomme ge ba tloša go tšwa go yena (ka gobane ba mo tlogetše ka dihloko tše dintši) bahlananwi ba gagwe ba ikgoketše kgahlanong le yena ka madi a bana ba Yehoyada moperisita, ba mo bolaya godimo ga mošomo wa gagwe, a hwala; gomme ba mo hlabela toropong ya Dafida, e sego mabitlong a dikgoši.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "4127430404ea05ffd1b7ab0ed0c6262157c5ec1508412f7dc49721b954f0c60e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/24\/25-27.1792304116373.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ge ba tšwa go yena — ka gobane ba mo tlogetše ⟨את⟩ ⟨yena⟩ ka malwetši a mantši — bahlokwa ba gagwe ba ile ba iphaanela kgahlanong le yena ka madi a bana ba Yehoyada moperisita, ba mo bolaea godung ga mphato wa gagwe, mme a hwetše lehu; mme ba mo latša toropong ya Dafida, eupša ba sa mo latšha mafitleng a dikgoši.",
   "tokens": [
     {
       "surface": "ובלכתם",
-      "gloss": "gomme ge ba tloša"
+      "gloss": "gomme ge ba tšwa"
     },
     {
       "surface": "ממנו",
-      "gloss": "go tšwa go yena"
+      "gloss": "go yena"
     },
     {
       "surface": "כי",
@@ -52,19 +26,19 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena"
+      "marks": "malwetši a mantši"
     },
     {
       "surface": "במחליים",
-      "gloss": "ka dihloko"
+      "gloss": "ka malwetši"
     },
     {
       "surface": "רבים",
-      "gloss": "tše dintši"
+      "gloss": "a mantši"
     },
     {
       "surface": "התקשרו",
-      "gloss": "ba ikgoketše"
+      "gloss": "ba iphaanela"
     },
     {
       "surface": "עליו",
@@ -72,15 +46,15 @@
     },
     {
       "surface": "עבדיו",
-      "gloss": "bahlananwi ba gagwe"
+      "gloss": "bahlokwa ba gagwe"
     },
     {
       "surface": "בדמי",
-      "gloss": "ka madi a"
+      "gloss": "ka madi"
     },
     {
       "surface": "בני",
-      "gloss": "bana ba"
+      "gloss": "a bana"
     },
     {
       "surface": "יהוידע",
@@ -92,49 +66,49 @@
     },
     {
       "surface": "ויהרגהו",
-      "gloss": "ba mo bolaya"
+      "gloss": "ba mo bolaea"
     },
     {
       "surface": "על",
-      "gloss": "godimo ga"
+      "gloss": "godung ga"
     },
     {
       "surface": "מטתו",
-      "gloss": "mošomo wa gagwe"
+      "gloss": "mphato wa gagwe"
     },
     {
       "surface": "וימת",
-      "gloss": "a hwala"
+      "gloss": "mme a hwetše lehu"
     },
     {
       "surface": "ויקברהו",
-      "gloss": "ba mo hlabela"
+      "gloss": "mme ba mo latša"
     },
     {
       "surface": "בעיר",
-      "gloss": "toropong ya"
+      "gloss": "toropong"
     },
     {
       "surface": "דויד",
-      "gloss": "Dafida"
+      "gloss": "ya Dafida"
     },
     {
       "surface": "ולא",
-      "gloss": "e sego"
+      "gloss": "eupša ba sa"
     },
     {
       "surface": "קברהו",
-      "gloss": "mo hlanelago"
+      "gloss": "mo latšha"
     },
     {
       "surface": "בקברות",
-      "gloss": "mabitlong a"
+      "gloss": "mafitleng"
     },
     {
       "surface": "המלכים",
-      "gloss": "dikgoši"
+      "gloss": "a dikgoši"
     }
   ],
-  "timestamp": "2026-10-18T06:15:16.374259651Z",
+  "timestamp": "2026-10-18T17:02:26.707335703Z",
   "model": "glm-5.3"
 }

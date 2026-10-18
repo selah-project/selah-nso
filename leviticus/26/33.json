@@ -5,37 +5,16 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "חרב\/חרבה",
-      "rationale": "Modu o mongwe wa go fediša: tšhoša (sword) le go disetšwa (waste) di kopana mothemong o tee, se se laolwago ke phetolelo."
-    },
-    {
-      "kind": "substitution",
-      "subject": "semaname",
-      "rationale": "שממה ke go šala go se nago motho — mo e fetotšwe go ba lefase la manameng."
-    }
-  ],
-  "translation": "Gomme lona ke tla le hlahlanya gare ga ditšhaba, gomme ke tla ntšha tšhoša ka morago ga lona; gomme lefase la lona le tla ba semaname, gomme metse ya lona e tla disetšwa.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "1a60109d385c2524203e8f8993a72028f14591c3e3cdd3df314f22158dba0f2a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/26\/33-36.1792284338199.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ⟨את⟩ lona ke tla go phatlalatša gare ga ditšhaba, gomme ke tla ntšha tšhoša ka morago ga lona; gomme lefase la lona le tla thothoma, gomme metse ya lona e tla thothoma gape.",
   "tokens": [
     {
       "surface": "ואתכם",
       "gloss": "⟨את⟩ lona",
-      "marks": "lona (bao ba hlahlanywago)"
+      "marks": "go phatlalatša ga lona gare ga ditšhaba"
     },
     {
       "surface": "אזרה",
-      "gloss": "ke tla le hlahlanya"
+      "gloss": "ke tla go phatlalatša"
     },
     {
       "surface": "בגוים",
@@ -43,7 +22,7 @@
     },
     {
       "surface": "והריקתי",
-      "gloss": "ke tla ntšha"
+      "gloss": "gomme ke tla ntšha"
     },
     {
       "surface": "אחריכם",
@@ -55,7 +34,7 @@
     },
     {
       "surface": "והיתה",
-      "gloss": "le tla ba"
+      "gloss": "gomme le tla ba"
     },
     {
       "surface": "ארצכם",
@@ -63,21 +42,21 @@
     },
     {
       "surface": "שממה",
-      "gloss": "semaname"
+      "gloss": "e thothometše"
     },
     {
       "surface": "ועריכם",
-      "gloss": "metse ya lona"
+      "gloss": "gomme metse ya lona"
     },
     {
       "surface": "יהיו",
-      "gloss": "e tla disetšwa"
+      "gloss": "e tla ba"
     },
     {
       "surface": "חרבה",
-      "gloss": "disetšwa"
+      "gloss": "e thothometše"
     }
   ],
-  "timestamp": "2026-10-18T00:45:38.200592704Z",
+  "timestamp": "2026-10-18T17:31:50.282260166Z",
   "model": "glm-5.3"
 }

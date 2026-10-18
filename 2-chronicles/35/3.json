@@ -5,54 +5,23 @@
   "book": "2-chronicles",
   "lang": "nso",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "you",
-      "subject": "go balefi",
-      "rationale": "Yosia a bolela ka mo go lebanyo go balefi, ka pela ya go laela."
-    },
-    {
-      "kind": "invitation",
-      "subject": "Hlehetšang · tloo šoma",
-      "rationale": "Maatla a go laela a bue le balefi ka namana."
-    },
-    {
-      "kind": "substitution",
-      "subject": "mofofo",
-      "rationale": "בכתף ka mofofo; mofofo ke lentšu la Sepedi bakeng sa sekatla."
-    },
-    {
-      "kind": "substitution",
-      "subject": "bokgethwa",
-      "rationale": "קדש e fetohwa go '-kgethwa' go ya ka D2, e sego 'halalela'."
-    }
-  ],
-  "translation": "Gomme a bolela go balefi bao ba hlathollago Yisraele ka moka, bao ba kgethwago go Yahwe: Hlehetšang ⟨את⟩ arka ya bokgethwa ka ntlong yeo Shelomo, morwa wa Dafida, kgoši ya Yisraele, a e agilego; ga le na sa morwalo ka mofofo. Bjale, tloo šoma Yahwe, Elohim ya lona, le ⟨את⟩ setšhaba sa yena sa Yisraele.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "bb25ef954e2b96d6be747077baa295ff35ec49aeaeb0a2315717e1aafca376a2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/35\/1-4.1792304429721.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a bolela le ba Dilevi, bao ba tlhalošago ⟨go⟩ Yisraele ka moka, bao ba kgethwago go Yahwe: Beang ⟨את⟩ areka ya bokgethwa ka tlung yeo Šolomone, mora wa Dafida, kgoši ya Yisraele, a e agoileng; ga go ⟨le⟩ morwalo sehlakoreng sa lena; bjale šomang Yahwe, Elohim ya lena, le ⟨את⟩ setšhaba sa gagwe, Yisraele.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Gomme a bolela"
+      "gloss": "gomme a bolela"
     },
     {
       "surface": "ללוים",
-      "gloss": "go balefi"
+      "gloss": "le ba Dilevi"
     },
     {
       "surface": "המבונים",
-      "gloss": "bao ba hlathollago"
+      "gloss": "bao ba tlhalošago"
     },
     {
       "surface": "לכל",
-      "gloss": "ka moka ga"
+      "gloss": "go Yisraele ka moka"
     },
     {
       "surface": "ישראל",
@@ -68,16 +37,16 @@
     },
     {
       "surface": "תנו",
-      "gloss": "Hlehetšang"
+      "gloss": "Beang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "arka ya bokgethwa"
+      "marks": "areka ya bokgethwa"
     },
     {
       "surface": "ארון",
-      "gloss": "arka"
+      "gloss": "areka"
     },
     {
       "surface": "הקדש",
@@ -85,7 +54,7 @@
     },
     {
       "surface": "בבית",
-      "gloss": "ka ntlong"
+      "gloss": "ka tlung"
     },
     {
       "surface": "אשר",
@@ -93,15 +62,15 @@
     },
     {
       "surface": "בנה",
-      "gloss": "a e agilego"
+      "gloss": "a e agoileng"
     },
     {
       "surface": "שלמה",
-      "gloss": "Shelomo"
+      "gloss": "Šolomone"
     },
     {
       "surface": "בן",
-      "gloss": "morwa wa"
+      "gloss": "mora wa"
     },
     {
       "surface": "דויד",
@@ -121,28 +90,28 @@
     },
     {
       "surface": "לכם",
-      "gloss": "go lona"
+      "gloss": "sa lena"
     },
     {
       "surface": "משא",
-      "gloss": "sa morwalo"
+      "gloss": "morwalo"
     },
     {
       "surface": "בכתף",
-      "gloss": "ka mofofo"
+      "gloss": "sehlakoreng"
     },
     {
       "surface": "עתה",
-      "gloss": "Bjale"
+      "gloss": "bjale"
     },
     {
       "surface": "עבדו",
-      "gloss": "tloo šoma"
+      "gloss": "šomang"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yahwe Elohim ya lona"
+      "marks": "Yahwe Elohim ya lena"
     },
     {
       "surface": "יהוה",
@@ -150,22 +119,22 @@
     },
     {
       "surface": "אלהיכם",
-      "gloss": "Elohim ya lona"
+      "gloss": "Elohim ya lena"
     },
     {
       "surface": "ואת",
       "gloss": "gomme ⟨את⟩",
-      "marks": "setšhaba sa yena sa Yisraele"
+      "marks": "setšhaba sa gagwe Yisraele"
     },
     {
       "surface": "עמו",
-      "gloss": "setšhaba sa yena"
+      "gloss": "setšhaba sa gagwe"
     },
     {
       "surface": "ישראל",
-      "gloss": "sa Yisraele"
+      "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-18T06:20:29.722915391Z",
+  "timestamp": "2026-10-18T17:02:58.933890476Z",
   "model": "glm-5.3"
 }

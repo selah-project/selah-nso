@@ -5,72 +5,41 @@
   "book": "psalms",
   "lang": "nso",
   "chapter": 35,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "moya wa ka",
-      "rationale": "נפש היא moya\/maphelo — sepho sa go hema le tlhago ya bophelo, e sego 'moya' ka mo go tlwaelegilego"
-    },
-    {
-      "kind": "crux",
-      "subject": "yo a le tee wa ka",
-      "rationale": "יחידתי: 'wa ka yo a le tee' (KJV 'my darling', JPS 'mine only one') — lentšu la boikokobetšo le sa tlhalosego ka botlalo"
-    },
-    {
-      "kind": "alternative",
-      "subject": "מכפירים",
-      "rationale": "Seswantšho: dikgwere tše nnyane — baba ba hlaselago bjalo ka diphoofolo tša naga"
-    }
-  ],
-  "translation": "Adonai, nako e kae o tla ⟨go⟩ lebelela? Bušetša ⟨את⟩ moya wa ka go tšwa go tšhufulo ya bona, go tšwa go dikgwere tše nnyane, ⟨mo⟩ yo a le tee wa ka.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "02a2d0a3cdd460fad39b0196f7b360fb97b7df79ae8328fd55229978a3e3133d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/35\/17-20.1792297560882.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Adonai, nako e kae o tla ⟨dutše⟩ lebelela? Bušetša bophelo bja ka go tšwa ditlhaselong tša bona, yo a nong a le tee go tšwa ditaung tše nnyane.",
   "tokens": [
     {
-      "surface": "אדני",
+      "surface": "אֲדֹנָי",
       "gloss": "Adonai"
     },
     {
-      "surface": "כמה",
+      "surface": "כַּמָּה",
       "gloss": "nako e kae"
     },
     {
-      "surface": "תראה",
+      "surface": "תִּרְאֶה",
       "gloss": "o tla lebelela"
     },
     {
-      "surface": "השיבה",
+      "surface": "הָשִׁיבָה",
       "gloss": "bušetša"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "moya wa ka"
+      "surface": "נַפְשִׁי",
+      "gloss": "bophelo bja ka"
     },
     {
-      "surface": "נפשי",
-      "gloss": "moya wa ka"
+      "surface": "מִשֹּׁאֵיהֶם",
+      "gloss": "go tšwa ditlhaselong tša bona"
     },
     {
-      "surface": "משאיהם",
-      "gloss": "go tšwa go tšhufulo ya bona"
+      "surface": "מִכְּפִירִים",
+      "gloss": "go tšwa ditaung tše nnyane"
     },
     {
-      "surface": "מכפירים",
-      "gloss": "go tšwa go dikgwere tše nnyane"
-    },
-    {
-      "surface": "יחידתי",
-      "gloss": "yo a le tee wa ka"
+      "surface": "יְחִידָתִי",
+      "gloss": "yo a nong a le tee"
     }
   ],
-  "timestamp": "2026-10-18T04:26:00.883319709Z",
+  "timestamp": "2026-10-18T17:37:39.157424059Z",
   "model": "glm-5.3"
 }

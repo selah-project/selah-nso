@@ -5,58 +5,42 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "עליך קהל",
-      "rationale": "'go tlisa phuthego godimo ga gago' — sebopego sa kahlolo ya setšhaba, go swana le go logelwa ga Hosese"
-    }
-  ],
-  "translation": "Gomme ba tla aga phuthego kgahlanong le wena, gomme ba tla go loga maswika, gomme ba tla go sega ka ditšhoša tša bona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "11091746fc5030c0b3b9c1248487d2112884ecc9e51aec66a5039fa20a130735",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/16\/37-40.1792294761474.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba tlo go hlaba kogo ya batho go wena, gomme ba go kgweditše ⟨את⟩ ka maswika, gomme ba go kgabanya ka ditšhoša tša bona.",
   "tokens": [
     {
       "surface": "והעלו",
-      "gloss": "ba tla aga"
+      "gloss": "ba tlo go hlaba"
     },
     {
       "surface": "עליך",
-      "gloss": "kgahlanong le wena"
+      "gloss": "go wena"
     },
     {
       "surface": "קהל",
-      "gloss": "phuthego"
+      "gloss": "kogo ya batho"
     },
     {
       "surface": "ורגמו",
-      "gloss": "ba tla go loga"
+      "gloss": "ba go kgweditše"
     },
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "wena"
+      "marks": "wena (ka maswika)"
     },
     {
       "surface": "באבן",
-      "gloss": "maswika"
+      "gloss": "ka maswika"
     },
     {
       "surface": "ובתקוך",
-      "gloss": "ba tla go sega"
+      "gloss": "ba go kgabanya"
     },
     {
       "surface": "בחרבותם",
       "gloss": "ka ditšhoša tša bona"
     }
   ],
-  "timestamp": "2026-10-18T03:39:21.475701706Z",
+  "timestamp": "2026-10-18T17:13:34.518543473Z",
   "model": "glm-5.3"
 }

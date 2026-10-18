@@ -5,28 +5,7 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 44,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "נשאתי \/ ונשאו",
-      "rationale": "Modu o mong le o mong wa נשא o tlišwa gabedi: 'ke goditše letswa la ka' le 'ba tla rwala sebe la bona' — go tlola kgahlanong le go rwala selo se se fapaneng ka modu o tee, se se laelwago go se batlakafoši"
-    },
-    {
-      "kind": "idiom",
-      "subject": "go godiša letswa",
-      "rationale": "נשא יד — go tlola goba go ikanega; ka se nnete go godiša seatla fela"
-    }
-  ],
-  "translation": "Ka gobane ba šomitše ba šwi ba šomela pele ga medimo ya bona, ba bile lethibilo la sebe go ntlo ya Yisraele; ka gobane ke goditše letswa la ka kgahlanong le bona, go bolela Adonai Yahwe, gomme ba tla rwala sebe la bona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "2aea20f85e16ae1c8e5847244af8415692ddab60797adbddf739cc0316362d5f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/44\/9-12.1792295839847.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane ba dirile mošomo wa ⟨את⟩ bona ka pele ga diswantšho tša bona, gomme ba biletše mošomo wa Yisraaele go ba selo sa go nameletša sa sebe; ka lebaka leo ke tliešitše seatla sa ka godimo ga bona, go bolela Adonai Yahwe, gomme ba tla rwala sebe sa bona.",
   "tokens": [
     {
       "surface": "יען",
@@ -34,63 +13,64 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "⟨gore⟩"
     },
     {
       "surface": "ישרתו",
-      "gloss": "ba šomitše"
+      "gloss": "ba dirile mošomo"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ ba"
+      "gloss": "⟨את⟩",
+      "marks": "bona (ba Levi)"
     },
     {
       "surface": "לפני",
-      "gloss": "pele ga"
+      "gloss": "ka pele ga"
     },
     {
       "surface": "גלוליהם",
-      "gloss": "medimo ya bona"
+      "gloss": "diswantšho tša bona"
     },
     {
       "surface": "והיו",
-      "gloss": "ba bile"
+      "gloss": "gomme ba biletše"
     },
     {
       "surface": "לבית",
-      "gloss": "go ntlo ya"
+      "gloss": "mošomong wa"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisraele"
+      "gloss": "Yisraaele"
     },
     {
       "surface": "למכשול",
-      "gloss": "lethibilo"
+      "gloss": "go ba selo sa go nameletša"
     },
     {
       "surface": "עון",
-      "gloss": "la sebe"
+      "gloss": "sa sebe"
     },
     {
       "surface": "על",
-      "gloss": "ka gobane"
+      "gloss": "ka lebaka la"
     },
     {
       "surface": "כן",
-      "gloss": "ka gobane"
+      "gloss": "leo"
     },
     {
       "surface": "נשאתי",
-      "gloss": "ke goditše"
+      "gloss": "ke tliešitše"
     },
     {
       "surface": "ידי",
-      "gloss": "letswa la ka"
+      "gloss": "seatla sa ka"
     },
     {
       "surface": "עליהם",
-      "gloss": "kgahlanong le bona"
+      "gloss": "godimo ga bona"
     },
     {
       "surface": "נאם",
@@ -106,13 +86,13 @@
     },
     {
       "surface": "ונשאו",
-      "gloss": "ba tla rwala"
+      "gloss": "gomme ba tla rwala"
     },
     {
       "surface": "עונם",
-      "gloss": "sebe la bona"
+      "gloss": "sebe sa bona"
     }
   ],
-  "timestamp": "2026-10-18T03:57:19.849090461Z",
+  "timestamp": "2026-10-18T17:15:56.637239064Z",
   "model": "glm-5.3"
 }

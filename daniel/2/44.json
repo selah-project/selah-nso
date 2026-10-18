@@ -5,36 +5,15 @@
   "book": "daniel",
   "lang": "nso",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "secret",
-      "subject": "bohalosi bja pono",
-      "rationale": "Ela a senolela kgoši seo se tlang go ba gona ka moso — tsebo ye e ntšhitšwego ka sephiri ya pono ye e kwalelego."
-    },
-    {
-      "kind": "elision",
-      "subject": "די · כדי",
-      "rationale": "Dikgokagano tša Aramaia tša go laetša di kopantšwe ka 'gomme… gore' tafoleng ya Sepedi; tše dingwe ga di na lefasa la tšona."
-    }
-  ],
-  "translation": "Gomme matšatšing a dikgoši tšeo, Ela ya magodimo a tla hloma bogoši bjo bo sa senyegago go narile, gomme bogoši bja wona bo ka se tlošwe go setšhaba se sengwe; bo tla theuthafatsa le go fediša mebuso ye moka ya dilo tše, gomme bjoo bo tla ema go narile.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "e17b74c787021376e3487a79a856146a4bac626b361eed1480653b12eff78a0d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/daniel\/2\/41-44.1792301863056.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme matsatsing a dikgoši tšego, El wa magodimo o tla hlagiša bogoši bjo bo ka se senywe go le ka nariba, gomme bogoši bja bjona bo ka se tšolwe go setšhaba se sengwe; bo tla kgobokanya le go fediša bogoši bjo bjo ka moka, gomme bjona bo tla ema go le ka nariba.",
   "tokens": [
     {
       "surface": "וביומיהון",
-      "gloss": "gomme matšatšing a"
+      "gloss": "gomme matsatsing a"
     },
     {
       "surface": "די",
-      "gloss": ""
+      "gloss": "tšego"
     },
     {
       "surface": "מלכיא",
@@ -42,19 +21,19 @@
     },
     {
       "surface": "אנון",
-      "gloss": "tšeo"
+      "gloss": "tšego"
     },
     {
       "surface": "יקים",
-      "gloss": "a tla hloma"
+      "gloss": "o tla hlagiša"
     },
     {
       "surface": "אלה",
-      "gloss": "Ela"
+      "gloss": "El"
     },
     {
       "surface": "שמיא",
-      "gloss": "ya magodimo"
+      "gloss": "wa magodimo"
     },
     {
       "surface": "מלכו",
@@ -66,19 +45,19 @@
     },
     {
       "surface": "לעלמין",
-      "gloss": "go narile"
+      "gloss": "go le ka nariba"
     },
     {
       "surface": "לא",
-      "gloss": "bo sa"
+      "gloss": "bo ka se"
     },
     {
       "surface": "תתחבל",
-      "gloss": "senyegago"
+      "gloss": "senywe"
     },
     {
       "surface": "ומלכותה",
-      "gloss": "gomme bogoši bja wona"
+      "gloss": "gomme bogoši bja bjona"
     },
     {
       "surface": "לעם",
@@ -94,31 +73,31 @@
     },
     {
       "surface": "תשתבק",
-      "gloss": "tlošwe"
+      "gloss": "tšolwe"
     },
     {
       "surface": "תדק",
-      "gloss": "bo tla theuthafatsa"
+      "gloss": "bo tla kgobokanya"
     },
     {
       "surface": "ותסיף",
-      "gloss": "le go fediša"
+      "gloss": "gomme go fediša"
     },
     {
       "surface": "כל",
-      "gloss": "ye moka ya"
+      "gloss": "ka moka"
     },
     {
       "surface": "אלין",
-      "gloss": "dilo tše"
+      "gloss": "bjo bjo"
     },
     {
       "surface": "מלכותא",
-      "gloss": "mebuso"
+      "gloss": "bogoši"
     },
     {
       "surface": "והיא",
-      "gloss": "gomme bjoo"
+      "gloss": "gomme bjona"
     },
     {
       "surface": "תקום",
@@ -126,9 +105,9 @@
     },
     {
       "surface": "לעלמיא",
-      "gloss": "go narile"
+      "gloss": "go le ka nariba"
     }
   ],
-  "timestamp": "2026-10-18T05:37:43.057459281Z",
+  "timestamp": "2026-10-18T17:06:48.425651236Z",
   "model": "glm-5.3"
 }

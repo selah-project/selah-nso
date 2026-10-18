@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 25,
-  "notes": [
-    {
-      "kind": "secret",
-      "subject": "moo ke tla dumeelanago le wena",
-      "rationale": "Yahwe o šišinya lefelo la go kopana le le bolailwego — go tla buišwa magareng ga kerubime feela."
-    },
-    {
-      "kind": "addition",
-      "subject": "go",
-      "rationale": "אל pele ga bana ba Yisraele e rago 'go bana ba Yisraele' — lentšu la sebišo le hlamilwe ka Sepedi."
-    },
-    {
-      "kind": "you",
-      "subject": "to Moshe",
-      "rationale": "Yahwe o bolela le Moshe ka thwii, a mo solofetša go kopana kaporete."
-    }
-  ],
-  "translation": "Gomme ke tla dumeelana le wena moo, gomme ke tla bolela le wena godimo ga kaporete, magareng ga kerubime pedi tšeo di lego godimo ga Aroni ya bopaki — ⟨את⟩ tšohle tšeo ke tla go laelago tšona, go bana ba Yisraele.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "8f3da9a96ded92aff1e44a51f99980d11128af44174d87290a1ce7edbc9ce615",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/25\/21-24.1792283015122.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ke tla kopana le ⟨את⟩ wena gona, gomme ke tla bolela le wena go tšwa godimo ga kaporete, gare ga kerube tše pedi tše di lego godimo ga araka ya bopaki — ⟨את⟩ tšohle tše ke tlang go di laela ⟨את⟩ go wena, go bana ba Yisraele.",
   "tokens": [
     {
       "surface": "ונועדתי",
-      "gloss": "ke tla dumeelana"
+      "gloss": "gomme ke tla kopana"
     },
     {
       "surface": "לך",
@@ -43,19 +17,20 @@
     },
     {
       "surface": "שם",
-      "gloss": "moo"
+      "gloss": "gona"
     },
     {
       "surface": "ודברתי",
-      "gloss": "ke tla bolela"
+      "gloss": "gomme ke tla bolela"
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩le wena"
+      "gloss": "le ⟨את⟩ wena",
+      "marks": "go bolela le wena"
     },
     {
       "surface": "מעל",
-      "gloss": "godimo ga"
+      "gloss": "go tšwa godimo ga"
     },
     {
       "surface": "הכפרת",
@@ -63,19 +38,19 @@
     },
     {
       "surface": "מבין",
-      "gloss": "magareng ga"
+      "gloss": "gare ga"
     },
     {
       "surface": "שני",
-      "gloss": "pedi"
+      "gloss": "tše pedi"
     },
     {
       "surface": "הכרבים",
-      "gloss": "kerubime"
+      "gloss": "kerube"
     },
     {
       "surface": "אשר",
-      "gloss": "tšeo"
+      "gloss": "tše di lego"
     },
     {
       "surface": "על",
@@ -83,7 +58,7 @@
     },
     {
       "surface": "ארן",
-      "gloss": "Aroni"
+      "gloss": "araka"
     },
     {
       "surface": "העדת",
@@ -92,7 +67,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tšohle"
+      "marks": "tšohle tše ke tlang go di laela"
     },
     {
       "surface": "כל",
@@ -100,15 +75,15 @@
     },
     {
       "surface": "אשר",
-      "gloss": "tšeo"
+      "gloss": "tše"
     },
     {
       "surface": "אצוה",
-      "gloss": "ke tla go laelago"
+      "gloss": "ke tlang go di laela"
     },
     {
       "surface": "אותך",
-      "gloss": "⟨את⟩goba wena",
+      "gloss": "⟨את⟩ go wena",
       "marks": "go bana ba Yisraele"
     },
     {
@@ -124,6 +99,6 @@
       "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-18T00:23:35.123749006Z",
+  "timestamp": "2026-10-18T17:11:48.887352624Z",
   "model": "glm-5.3"
 }

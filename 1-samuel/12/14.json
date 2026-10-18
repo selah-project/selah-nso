@@ -5,33 +5,7 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "molomo wa Yahwe",
-      "rationale": "KJV\/JPS ga di fetolela את פי יהוה e le 'commandment'; Seheberu se re 'molomo' ka molemo."
-    },
-    {
-      "kind": "addition",
-      "subject": "le kgapetlhana",
-      "rationale": "גם...וגם ke thwii e latelanang; 'le kgapetlhana' e hlakantšha kopano ya lona le kgoši."
-    },
-    {
-      "kind": "you",
-      "subject": "setšhaba",
-      "rationale": "Maemo a tlhago a ge o laela setšhaba mmogo le kgoši sona."
-    }
-  ],
-  "translation": "Ge le tšhaba Yahwe, le mo šomele, le theetše lentšu la gage, gomme le sa ganwa ⟨את⟩ molomo wa Yahwe; le tla ba lona le kgapetlhana le kgoši yeo e busago godimo ga lena, le latela Yahwe Elohim ya lena.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "b9b57bec0d3214cc0a1bc968d8a9af358b67897e21f8313d1d1cd11c742df334",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/12\/13-16.1792288131721.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ge le tšaba ⟨את⟩ Yahwe, le šoma mo, gomme le theetša lentšu la gagwe, gomme le sa ganwela ⟨את⟩ molomo wa Yahwe, le tla ba gape le lona le gape kgoši yeo e busago go lena, ka morago ga Yahwe Elohim ya lena.",
   "tokens": [
     {
       "surface": "אם",
@@ -39,7 +13,7 @@
     },
     {
       "surface": "תיראו",
-      "gloss": "le tšhaba"
+      "gloss": "le tšaba"
     },
     {
       "surface": "את",
@@ -52,20 +26,20 @@
     },
     {
       "surface": "ועבדתם",
-      "gloss": "le mo šomele"
+      "gloss": "le šoma"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "Yahwe"
+      "gloss": "⟨את⟩ mo",
+      "marks": "mo (Yahwe)"
     },
     {
       "surface": "ושמעתם",
-      "gloss": "le theetše"
+      "gloss": "gomme le theetša"
     },
     {
       "surface": "בקלו",
-      "gloss": "lentšu la gage"
+      "gloss": "lentšu la gagwe"
     },
     {
       "surface": "ולא",
@@ -73,7 +47,7 @@
     },
     {
       "surface": "תמרו",
-      "gloss": "ganwa"
+      "gloss": "ganwela"
     },
     {
       "surface": "את",
@@ -82,7 +56,7 @@
     },
     {
       "surface": "פי",
-      "gloss": "molomo"
+      "gloss": "molomo wa"
     },
     {
       "surface": "יהוה",
@@ -94,15 +68,15 @@
     },
     {
       "surface": "גם",
-      "gloss": "le kgapetlhana"
+      "gloss": "gape"
     },
     {
       "surface": "אתם",
-      "gloss": "lona"
+      "gloss": "le lona"
     },
     {
       "surface": "וגם",
-      "gloss": "le"
+      "gloss": "le gape"
     },
     {
       "surface": "המלך",
@@ -118,11 +92,11 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "godimo ga lena"
+      "gloss": "go lena"
     },
     {
       "surface": "אחר",
-      "gloss": "le latela"
+      "gloss": "ka morago ga"
     },
     {
       "surface": "יהוה",
@@ -133,6 +107,6 @@
       "gloss": "Elohim ya lena"
     }
   ],
-  "timestamp": "2026-10-18T01:48:51.722813877Z",
+  "timestamp": "2026-10-18T16:59:48.850998438Z",
   "model": "glm-5.3"
 }

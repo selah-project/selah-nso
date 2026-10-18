@@ -5,58 +5,37 @@
   "book": "proverbs",
   "lang": "nso",
   "chapter": 23,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "אחרית",
-      "rationale": "'end\/reward\/future\/posterity' — rendered bokamoso (future); YLT reads it as a question 'is there a posterity?'"
-    },
-    {
-      "kind": "addition",
-      "subject": "le",
-      "rationale": "Sepedi existential construction go na le requires le, absent in Hebrew"
-    }
-  ],
-  "translation": "Gore go ⟨na⟩ le bokamoso, gomme tshepo ya gago e ka se kgaolwe.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "fed1001da8e9e5cb021f68ee88ec0019e4515ee69cb8fa2ad3fa5657dd334ac9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/proverbs\/23\/17-20.1792299777291.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane go ⟨go⟩ na le bofelo, gomme tsholofelo ya gago e tla se kgaolwe.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "gore"
+      "gloss": "ka gobane"
     },
     {
       "surface": "אם",
-      "gloss": ""
+      "gloss": "⟨ruri⟩"
     },
     {
       "surface": "יש",
-      "gloss": "go ⟨na⟩ le"
+      "gloss": "go na le"
     },
     {
       "surface": "אחרית",
-      "gloss": "bokamoso"
+      "gloss": "bofelo"
     },
     {
       "surface": "ותקותך",
-      "gloss": "gomme tshepo ya gago"
+      "gloss": "gomme tsholofelo ya gago"
     },
     {
       "surface": "לא",
-      "gloss": "e ka se"
+      "gloss": "e tla se"
     },
     {
       "surface": "תכרת",
       "gloss": "kgaolwe"
     }
   ],
-  "timestamp": "2026-10-18T05:02:57.292429086Z",
+  "timestamp": "2026-10-18T17:36:54.475536266Z",
   "model": "glm-5.3"
 }

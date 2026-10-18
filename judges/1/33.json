@@ -5,83 +5,57 @@
   "book": "judges",
   "lang": "nso",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "למס",
-      "rationale": "Sefela sa go šoma ka pheko (bohlatla bjo bo tlamišitšwego), e sego feela mokato wa tšhelete"
-    },
-    {
-      "kind": "addition",
-      "subject": "⟨šomišwa⟩",
-      "rationale": "Seheberu se re fela 'ba ba ba ba bakgoni ba pheko'; lentšu la go šomišwa le okeditšwe go hlalosa go ba selo"
-    },
-    {
-      "kind": "hapax",
-      "subject": "למס",
-      "rationale": "Bohlatla bjo bo šomišwa ditemaneng tše mmalwa fela tša Tanakh, hlologantšu ya lona e bolokwa"
-    }
-  ],
-  "translation": "Nafthali ga ⟨ke⟩ a ka go ntšha badudi ba Beti-Semeše le badudi ba Beti-Anate, gomme a dula gare ga Mokanana, badudi ba lefase; gomme badudi ba Beti-Semeše le ba Beti-Anate ba ile ba ba ⟨šomišwa⟩ ka pheko.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "4b32d8dec096b61f52267310fcc9cc5ed1f320779f36722d77c3e17eac4a7bb6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/judges\/1\/33-36.1792287141841.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Naftali ga se a huduša ⟨את⟩ ba bago ka le-tše la Beti-Shemeše le ⟨את⟩ ba bago ka le-tše la Beti-Anate, gomme o ile a dula gare ga Kenaane, ba bago lefaseng; gomme ba bago Beti-Shemeše le Beti-Anate ba ile ba ba ⟨go⟩ ba bereša ka katlego.",
   "tokens": [
     {
       "surface": "נפתלי",
-      "gloss": "Nafthali"
+      "gloss": "Naftali"
     },
     {
       "surface": "לא",
-      "gloss": "ga"
+      "gloss": "ga se"
     },
     {
       "surface": "הוריש",
-      "gloss": "a ka go ntšha"
+      "gloss": "a huduša"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "badudi"
+      "marks": "ba bago ka le-tše la Beti-Shemeše"
     },
     {
       "surface": "ישבי",
-      "gloss": "badudi"
+      "gloss": "ba bago"
     },
     {
       "surface": "בית",
-      "gloss": "Beti-"
+      "gloss": "Beti-Shemeše"
     },
     {
       "surface": "שמש",
-      "gloss": "Semeše"
+      "gloss": "Beti-Shemeše"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "badudi"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "ba bago ka le-tše la Beti-Anate"
     },
     {
       "surface": "ישבי",
-      "gloss": "badudi"
+      "gloss": "ba bago"
     },
     {
       "surface": "בית",
-      "gloss": "Beti-"
+      "gloss": "Beti-Anate"
     },
     {
       "surface": "ענת",
-      "gloss": "Anate"
+      "gloss": "Beti-Anate"
     },
     {
       "surface": "וישב",
-      "gloss": "gomme a dula"
+      "gloss": "gomme o ile a dula"
     },
     {
       "surface": "בקרב",
@@ -89,35 +63,35 @@
     },
     {
       "surface": "הכנעני",
-      "gloss": "Mokanana"
+      "gloss": "Kenaane"
     },
     {
       "surface": "ישבי",
-      "gloss": "badudi"
+      "gloss": "ba bago"
     },
     {
       "surface": "הארץ",
-      "gloss": "ba lefase"
+      "gloss": "lefase"
     },
     {
       "surface": "וישבי",
-      "gloss": "gomme badudi"
+      "gloss": "gomme ba bago"
     },
     {
       "surface": "בית",
-      "gloss": "ba Beti-"
+      "gloss": "Beti-Shemeše"
     },
     {
       "surface": "שמש",
-      "gloss": "Semeše"
+      "gloss": "Beti-Shemeše"
     },
     {
       "surface": "ובית",
-      "gloss": "le ba Beti-"
+      "gloss": "le Beti-Anate"
     },
     {
       "surface": "ענת",
-      "gloss": "Anate"
+      "gloss": "Beti-Anate"
     },
     {
       "surface": "היו",
@@ -125,13 +99,13 @@
     },
     {
       "surface": "להם",
-      "gloss": "ba ba"
+      "gloss": "go bona"
     },
     {
       "surface": "למס",
-      "gloss": "šomišwa ka pheko"
+      "gloss": "ba bereša ka katlego"
     }
   ],
-  "timestamp": "2026-10-18T01:32:21.841828868Z",
+  "timestamp": "2026-10-18T17:28:07.405453241Z",
   "model": "glm-5.3"
 }

@@ -5,45 +5,19 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "מות תמות",
-      "rationale": "Infinitive absolute + ya sego ya nako: 'go hwa o tla hwa' — go diega ga lentšu, go ile ga fetolwa go 'o tla hwa ka bonakalo' (KJV 'surely die')."
-    },
-    {
-      "kind": "you",
-      "subject": "setšhaba go Yirimia",
-      "rationale": "Mantšu a bona a lebela Yirimia ka go lebana: 'go hwa o tla hwa'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "ויתפשו",
-      "rationale": "'ba mo tšere' — go swara ka matla, go tšere motho (KJV 'laid hold', YLT 'catch')."
-    }
-  ],
-  "translation": "Mme ge Yirimia a phethile go bolela ⟨את⟩ tšohle tšeo Yahwe a nago a mo laetše go bolelela setšhaba ka moka, baperisita le baprofeta le setšhaba ka moka ba mo tšere, ba re: go hwa o tla hwa.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "1899e3346f2fce31185c979409cb4b8bc58539c792b5b1db7ba2294f4a950124",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/26\/5-8.1792293437685.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme go thoma go ba gona, ge Yirimaya o phetile go bolela ⟨את⟩ tšohle tšeo Yahwe a di laeditšego go di bolela go setšhaba ka moka, moperisita le baprofeta le setšhaba ka moka ba mo tšeile ⟨את⟩ ya gagwe, ba re: O tla swa o sa šegofatše.",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "Mme ge"
+      "gloss": "gomme go thoma go ba gona"
     },
     {
       "surface": "ככלות",
-      "gloss": "a phethile"
+      "gloss": "ge o phetile"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Yirimia"
+      "gloss": "Yirimaya"
     },
     {
       "surface": "לדבר",
@@ -52,7 +26,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "tšohle"
+      "marks": "tšohle tšeo"
     },
     {
       "surface": "כל",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "a nago a laetše"
+      "gloss": "a di laeditšego"
     },
     {
       "surface": "יהוה",
@@ -72,7 +46,7 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "go bolelela"
+      "gloss": "go di bolela"
     },
     {
       "surface": "אל",
@@ -88,16 +62,16 @@
     },
     {
       "surface": "ויתפשו",
-      "gloss": "ba mo tšere"
+      "gloss": "ba mo tšeile"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "baperisita (sebopiwa)"
+      "gloss": "⟨את⟩ ya gagwe",
+      "marks": "moperisita le baprofeta le setšhaba ka moka"
     },
     {
       "surface": "הכהנים",
-      "gloss": "baperisita"
+      "gloss": "moperisita"
     },
     {
       "surface": "והנבאים",
@@ -105,7 +79,7 @@
     },
     {
       "surface": "וכל",
-      "gloss": "le ... ka moka"
+      "gloss": "le ka moka"
     },
     {
       "surface": "העם",
@@ -117,13 +91,13 @@
     },
     {
       "surface": "מות",
-      "gloss": "go hwa"
+      "gloss": "o tla swa"
     },
     {
       "surface": "תמות",
-      "gloss": "o tla hwa"
+      "gloss": "o sa šegofatše"
     }
   ],
-  "timestamp": "2026-10-18T03:17:17.686897585Z",
+  "timestamp": "2026-10-18T17:22:09.042855949Z",
   "model": "glm-5.3"
 }

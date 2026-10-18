@@ -5,28 +5,7 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 40,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "וְכִהֵן לִי",
-      "rationale": "Seheberu se re 'a šomele nna bjalo ka moperisita' — lediri le bolela mošomo wa moperisita, e sego leina fela"
-    },
-    {
-      "kind": "you",
-      "subject": "Moshe",
-      "rationale": "Taelo ye e goreswa go Moshe ka moka ka mokgwa wa taelo"
-    }
-  ],
-  "translation": "Gomme o apese ⟨את⟩ Aharone diaparo tša bokgethwa, gomme o mo tloditše, gomme o mo kgethe, gomme a šomele nna bjalo ka moperisita.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "93e8ca27f7a020a821be726069d73ddf2bb37ea320b1e10138f4ef022d24314c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/40\/13-16.1792283486907.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme o apese ⟨את⟩ Aharone diaparo tša bokgethwa, gomme o mmatle oile, gomme o mo kgethe, gore a be moperisita go wena.",
   "tokens": [
     {
       "surface": "והלבשת",
@@ -48,19 +27,20 @@
     },
     {
       "surface": "בגדי",
-      "gloss": "diaparo tša"
+      "gloss": "diaparo"
     },
     {
       "surface": "הקדש",
-      "gloss": "bokgethwa"
+      "gloss": "tša bokgethwa"
     },
     {
       "surface": "ומשחת",
-      "gloss": "gomme o tloditše"
+      "gloss": "gomme o mmatle oile"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ mo"
+      "gloss": "⟨את⟩ mo",
+      "marks": "Aharone"
     },
     {
       "surface": "וקדשת",
@@ -68,17 +48,18 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ mo"
+      "gloss": "⟨את⟩ mo",
+      "marks": "Aharone"
     },
     {
       "surface": "וכהן",
-      "gloss": "gomme a šomele bjalo ka moperisita"
+      "gloss": "goro a be moperisita"
     },
     {
       "surface": "לי",
-      "gloss": "go nna"
+      "gloss": "go wena"
     }
   ],
-  "timestamp": "2026-10-18T00:31:26.908282733Z",
+  "timestamp": "2026-10-18T17:12:59.747633975Z",
   "model": "glm-5.3"
 }

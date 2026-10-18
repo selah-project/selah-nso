@@ -5,28 +5,7 @@
   "book": "joshua",
   "lang": "nso",
   "chapter": 9,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ויצל",
-      "rationale": "'to_snatch\/deliver'_=_Sepidi_'a_ntšha'_(to_take_out\/deliver)"
-    },
-    {
-      "kind": "idiom",
-      "subject": "מיד בני ישראל",
-      "rationale": "'from_the_hand_of'_=_Sepidi_'go_tšwa_mo_go_ngwaneng_wa'_power_idiom"
-    }
-  ],
-  "translation": "Gomme Yahoshua a ba direla bjalo, a ba ntšha go tšwa mo go ngwaneng wa Yisraele ba se ke ba ba bolaya.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "9d75c48aae9406c04fdb675dbc35723b881cb17e74182f4f3056c772fcb9dad4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/9\/25-27.1792286626060.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a ba direla bjalo, a ba ntšha ka matsogong a bana ba Yisraele, gomme ba sa ba bolae.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -34,7 +13,7 @@
     },
     {
       "surface": "להם",
-      "gloss": "ba"
+      "gloss": "go bona"
     },
     {
       "surface": "כן",
@@ -42,20 +21,20 @@
     },
     {
       "surface": "ויצל",
-      "gloss": "gomme a ntšha"
+      "gloss": "a ba ntšha"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩",
-      "marks": "ba (Gibeona)"
+      "gloss": "⟨את⟩ ba",
+      "marks": "ba — bana ba Yisraele ba ka ba bolaela"
     },
     {
       "surface": "מיד",
-      "gloss": "go tšwa mo go ngwaneng wa"
+      "gloss": "ka matsogong a"
     },
     {
       "surface": "בני",
-      "gloss": "ngwana wa"
+      "gloss": "bana ba"
     },
     {
       "surface": "ישראל",
@@ -63,13 +42,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "gomme ba se ke"
+      "gloss": "gomme ba sa"
     },
     {
       "surface": "הרגום",
-      "gloss": "ba ba bolaya"
+      "gloss": "ba bolae"
     }
   ],
-  "timestamp": "2026-10-18T01:23:46.061746924Z",
+  "timestamp": "2026-10-18T17:27:35.688372583Z",
   "model": "glm-5.3"
 }

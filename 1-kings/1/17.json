@@ -5,37 +5,11 @@
   "book": "1-kings",
   "lang": "nso",
   "chapter": 1,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨wa mosadi⟩",
-      "rationale": "אמה is feminine servant; Sepedi 'mohlanka' lacks gender, supplied qualifier"
-    },
-    {
-      "kind": "substitution",
-      "subject": "latedišano",
-      "rationale": "שבע 'go ana latedišano' — lentšu le tee la go ikana ka go bolela ka mpsha"
-    },
-    {
-      "kind": "you",
-      "subject": "go Dafida",
-      "rationale": "Batšheba a bolela le kgoši ka tlhamalalo, 'Morena wa ka'"
-    }
-  ],
-  "translation": "Gomme a mo re: Morena wa ka, wena o ile wa ana latedišano ka Yahwe Elohim wa gago go mohlanka wa gago ⟨wa mosadi⟩, gore Selomo morwa wa gago o tla buša ka morago ga ka, gomme yena a dule setulong sa ka.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "ba45c827b9501b407f2bc60d1fee5f6ce8a99c334c439c7e60c175509c0ee0d5",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/1\/17-20.1792289496248.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a mmolelela ⟨a re⟩: Morena wa ka, o ile wa hlajana ka Yahwe, Elohim ⟨wa gago⟩, go mošomedi wa gago ⟨ya go re⟩: Šolomone morwa wa gago o tla busa ka morago ⟨ga ka⟩, gomme yena o tla dutša setulong sa ka.",
   "tokens": [
     {
       "surface": "ותאמר",
-      "gloss": "a re"
+      "gloss": "Gomme a mmolelela"
     },
     {
       "surface": "לו",
@@ -51,7 +25,7 @@
     },
     {
       "surface": "נשבעת",
-      "gloss": "o ile wa ana latedišano"
+      "gloss": "o ile wa hlajana"
     },
     {
       "surface": "ביהוה",
@@ -63,7 +37,7 @@
     },
     {
       "surface": "לאמתך",
-      "gloss": "go mohlanka wa gago"
+      "gloss": "go mošomedi wa gago"
     },
     {
       "surface": "כי",
@@ -71,7 +45,7 @@
     },
     {
       "surface": "שלמה",
-      "gloss": "Selomo"
+      "gloss": "Šolomone"
     },
     {
       "surface": "בנך",
@@ -79,11 +53,11 @@
     },
     {
       "surface": "ימלך",
-      "gloss": "o tla buša"
+      "gloss": "o tla busa"
     },
     {
       "surface": "אחרי",
-      "gloss": "ka morago ga ka"
+      "gloss": "ka morago"
     },
     {
       "surface": "והוא",
@@ -91,7 +65,7 @@
     },
     {
       "surface": "ישב",
-      "gloss": "a dule"
+      "gloss": "o tla dutša"
     },
     {
       "surface": "על",
@@ -102,6 +76,6 @@
       "gloss": "sa ka"
     }
   ],
-  "timestamp": "2026-10-18T02:11:36.248687042Z",
+  "timestamp": "2026-10-18T16:58:16.001732958Z",
   "model": "glm-5.3"
 }

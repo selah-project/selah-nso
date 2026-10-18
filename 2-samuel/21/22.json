@@ -5,66 +5,40 @@
   "book": "2-samuel",
   "lang": "nso",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "ויפלו",
-      "rationale": "Seheberu: 'ba wa' — se bolela ba bolawa; mo e šomišitšwe ka mothaladi."
-    },
-    {
-      "kind": "measurement",
-      "subject": "ba bane",
-      "rationale": "Palo ya banana ba Rapa ba bane e bopiša dipalo tša setšhabeng sa ngwalo."
-    },
-    {
-      "kind": "hapax",
-      "subject": "להרפה",
-      "rationale": "הרפה — leina la mogolo wa bo-Filistia; Rapa ke mokgwa wa go e ngwala ka modumo."
-    }
-  ],
-  "translation": "Ba bane ba ⟨tše⟩ belegwa go Rapa go Ngata, gomme ba wa ka seatla sa Dafida le ka seatla sa bahlanke ba gagwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "6ff426822879c8fbe098491b5a97b5e53f082195e3555d74bc3018968e39526f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/21\/21-22.1792289278788.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "⟨את⟩ ba bane bja tsena ba belegilwe go Rafa mong wa Gata, gomme ba wa ka seatla sa Dafida le ka seatla sa batho ba gagwe ba tšerego.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ba bane ba tše"
+      "marks": "ba bane bja tsena"
     },
     {
       "surface": "ארבעת",
-      "gloss": "nne"
+      "gloss": "bane"
     },
     {
       "surface": "אלה",
-      "gloss": "tše"
+      "gloss": "tsena"
     },
     {
       "surface": "ילדו",
-      "gloss": "ba belegwa"
+      "gloss": "ba belegilwe"
     },
     {
       "surface": "להרפה",
-      "gloss": "go Rapa"
+      "gloss": "go Rafa"
     },
     {
       "surface": "בגת",
-      "gloss": "go Ngata"
+      "gloss": "mong wa Gata"
     },
     {
       "surface": "ויפלו",
-      "gloss": "ba wa"
+      "gloss": "gomme ba wa"
     },
     {
       "surface": "ביד",
-      "gloss": "ka seatla"
+      "gloss": "ka seatla sa"
     },
     {
       "surface": "דוד",
@@ -72,13 +46,13 @@
     },
     {
       "surface": "וביד",
-      "gloss": "le ka seatla"
+      "gloss": "le ka seatla sa"
     },
     {
       "surface": "עבדיו",
-      "gloss": "sa bahlanke ba gagwe"
+      "gloss": "batho ba gagwe ba tšerego"
     }
   ],
-  "timestamp": "2026-10-18T02:07:58.789158029Z",
+  "timestamp": "2026-10-18T17:39:40.187321317Z",
   "model": "glm-5.3"
 }

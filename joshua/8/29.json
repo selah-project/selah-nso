@@ -5,33 +5,12 @@
   "book": "joshua",
   "lang": "nso",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "setopo",
-      "rationale": "נבלתו ke setopo; KJV 'carcase' — lentšu le bolela mmele wa phoofolo goba motho yo a hwilego, le sa hlakang"
-    },
-    {
-      "kind": "elision",
-      "subject": "הזה",
-      "rationale": "'lehono le' — Sepedi se nyaka lerato fela, 'go fihla lehono' e dumelelwa"
-    }
-  ],
-  "translation": "Gomme ⟨את⟩ kgoši ya Ha-Ai a e kgwetše sefataneng, go fihla nako ya mantšiboa; ge letsatsi le theoga, Yehoshua a laela, gomme ba theosa ⟨את⟩ setopo sa yena go tšwa sefataneng, gomme ba se lahlela mo go tseneleng ga kgoro ya toropo, gomme ba bea godimo ga yena kgoboketšo ya maswika e kgolo, go fihla lehono.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "a742c87f0f58e19579e8483de720a12dad48ab5711b73c26c25a2d2619b99ac8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/joshua\/8\/29-32.1792286667082.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ⟨את⟩ kgoši ya Ha-Yi, Yehoshua o ile a e bea setlhareng go fihla nako ya mašubedibosigo; gomme ge letšatši le ne le ntšha, Yehoshua o ile a laela, gomme ba ntšha setopo sa yena go tšwa setlhareng, gomme ba e lahlela ⟨את⟩ mo go tsenelelo ya kgoro ya toropo, gomme ba bea godimo ga yena kgoboketšo ya maswika ye kgolo, ye e lego gona go fihla lehono.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "kgoši ya Ha-Ai"
+      "marks": "kgoši ya Ha-Yi"
     },
     {
       "surface": "מלך",
@@ -39,19 +18,19 @@
     },
     {
       "surface": "העי",
-      "gloss": "ya Ha-Ai"
+      "gloss": "ya Ha-Yi"
     },
     {
       "surface": "תלה",
-      "gloss": "a e kgwetše"
+      "gloss": "a e bea setlhareng"
     },
     {
       "surface": "על",
-      "gloss": "sefataneng"
+      "gloss": "godimo ga"
     },
     {
       "surface": "העץ",
-      "gloss": "sefataneng"
+      "gloss": "setlhare"
     },
     {
       "surface": "עד",
@@ -63,15 +42,15 @@
     },
     {
       "surface": "הערב",
-      "gloss": "ya mantšiboa"
+      "gloss": "ya mašubedibosigo"
     },
     {
       "surface": "וכבוא",
-      "gloss": "ge"
+      "gloss": "ge letšatši le ne le ntšha"
     },
     {
       "surface": "השמש",
-      "gloss": "letsatsi"
+      "gloss": "letšatši"
     },
     {
       "surface": "צוה",
@@ -83,7 +62,7 @@
     },
     {
       "surface": "וירידו",
-      "gloss": "gomme ba theosa"
+      "gloss": "gomme ba ntšha"
     },
     {
       "surface": "את",
@@ -100,16 +79,16 @@
     },
     {
       "surface": "העץ",
-      "gloss": "sefataneng"
+      "gloss": "setlhareng"
     },
     {
       "surface": "וישליכו",
-      "gloss": "gomme ba se lahlela"
+      "gloss": "gomme ba e lahlela"
     },
     {
       "surface": "אותה",
       "gloss": "⟨את⟩",
-      "marks": "mo go tseneleng ga kgoro ya toropo"
+      "marks": "mo go tsenelelo ya kgoro ya toropo"
     },
     {
       "surface": "אל",
@@ -117,11 +96,11 @@
     },
     {
       "surface": "פתח",
-      "gloss": "tseneleng"
+      "gloss": "tsenelelo"
     },
     {
       "surface": "שער",
-      "gloss": "kgoro"
+      "gloss": "ya kgoro"
     },
     {
       "surface": "העיר",
@@ -145,7 +124,7 @@
     },
     {
       "surface": "גדול",
-      "gloss": "e kgolo"
+      "gloss": "ye kgolo"
     },
     {
       "surface": "עד",
@@ -157,9 +136,9 @@
     },
     {
       "surface": "הזה",
-      "gloss": "⟨ye⟩"
+      "gloss": "gona"
     }
   ],
-  "timestamp": "2026-10-18T01:24:27.082759708Z",
+  "timestamp": "2026-10-18T17:27:57.805480316Z",
   "model": "glm-5.3"
 }

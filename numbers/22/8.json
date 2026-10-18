@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "le",
-      "rationale": "אתכם ke elionto ya pethelelo — 'ke tla le busetša lentšu'"
-    },
-    {
-      "kind": "crux",
-      "subject": "Yahwe",
-      "rationale": "Bileamo, moprofeta wa ditšhaba, o šomiša Leina la Yahwe — seo se sa tsejago ka pelo ya yena"
-    }
-  ],
-  "translation": "A ba re: Dula mo bosago bjo, gomme ke tla le busetša lentšu, bjalo ka ge Yahwe a mpolela; gomme dikgosi tša Moabu ba dula le Bileamo.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "e526de88defe184821d97ddc9d1f5356672183828ad86ad3a96217095dd131d9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/22\/5-8.1792285021964.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a ba re: Duloang mo bosasa bjo, gomme ke tla boela ke le ntša ⟨את⟩ lentšu, bjalo ka ge Yahwe a ka bolela go nna; gomme dikgoši tša Mowabe di ile tša dula le Bileamo.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -38,7 +17,7 @@
     },
     {
       "surface": "לינו",
-      "gloss": "dula"
+      "gloss": "duloang"
     },
     {
       "surface": "פה",
@@ -46,15 +25,16 @@
     },
     {
       "surface": "הלילה",
-      "gloss": "bosago bjo"
+      "gloss": "bosasa bjo"
     },
     {
       "surface": "והשבתי",
-      "gloss": "ke tla le busetša"
+      "gloss": "gomme ke tla boela ke le ntša"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ le"
+      "gloss": "⟨את⟩ le",
+      "marks": "lentšu"
     },
     {
       "surface": "דבר",
@@ -66,7 +46,7 @@
     },
     {
       "surface": "ידבר",
-      "gloss": "a bolela"
+      "gloss": "a ka bolela"
     },
     {
       "surface": "יהוה",
@@ -78,15 +58,15 @@
     },
     {
       "surface": "וישבו",
-      "gloss": "ba dula"
+      "gloss": "di ile tša dula"
     },
     {
       "surface": "שרי",
-      "gloss": "dikgosi tša"
+      "gloss": "dikgoši"
     },
     {
       "surface": "מואב",
-      "gloss": "Moabu"
+      "gloss": "tša Mowabe"
     },
     {
       "surface": "עם",
@@ -97,6 +77,6 @@
       "gloss": "Bileamo"
     }
   ],
-  "timestamp": "2026-10-18T00:57:01.966212442Z",
+  "timestamp": "2026-10-18T17:34:47.702762825Z",
   "model": "glm-5.3"
 }

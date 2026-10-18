@@ -5,31 +5,15 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "משחת",
-      "rationale": "go tloditšwa ka mafura — go kgethwa, e sego 'go lota' ka mokgwa wa kereke"
-    }
-  ],
-  "translation": "Se ke sehlodiswa sa go tloditšwa ga Aharone le sehlodiswa sa go tloditšwa ga bana ba gagwe, go tšwa sehlabelong sa go fišwa sa Yahwe, ka letšatši leo a ba gapeletšego ka lona go šoma bjalo ka baperisita go Yahwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "e4c1f5bd048a04432ba0d321b3366c8f0767b0fa3cf9c28afa5821fb34902c0f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/7\/33-36.1792283570223.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Se ke mpho ya go tlodiswa ya Aharone, le mpho ya go tlodiswa ya bana ba gagwe, go tšwa go dihlabelo tša go fišwa tša Yahwe, ka letšatši leo a bego a ba atamisa ⟨את⟩ ka lona go šoma bjalo ka baperisita go Yahwe.",
   "tokens": [
     {
       "surface": "זאת",
-      "gloss": "se"
+      "gloss": "Se ke"
     },
     {
       "surface": "משחת",
-      "gloss": "ke sehlodiswa sa go tloditšwa ga"
+      "gloss": "mpho ya go tlodiswa"
     },
     {
       "surface": "אהרן",
@@ -37,7 +21,7 @@
     },
     {
       "surface": "ומשחת",
-      "gloss": "le sehlodiswa sa go tloditšwa ga"
+      "gloss": "le mpho ya go tlodiswa"
     },
     {
       "surface": "בניו",
@@ -45,7 +29,7 @@
     },
     {
       "surface": "מאשי",
-      "gloss": "go tšwa sehlabelong sa go fišwa sa"
+      "gloss": "go dihlabelo tša go fišwa"
     },
     {
       "surface": "יהוה",
@@ -57,21 +41,22 @@
     },
     {
       "surface": "הקריב",
-      "gloss": "a ba gapeletšego ka lona"
+      "gloss": "a bego a ba atamisa"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨אתם⟩ ba"
+      "gloss": "⟨את⟩",
+      "marks": "go šoma bjalo ka baperisita"
     },
     {
       "surface": "לכהן",
-      "gloss": "go šoma bjalo ka moperisita"
+      "gloss": "go šoma bjalo ka baperisita"
     },
     {
       "surface": "ליהוה",
       "gloss": "go Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T00:32:50.225258688Z",
+  "timestamp": "2026-10-18T17:32:04.851368020Z",
   "model": "glm-5.3"
 }

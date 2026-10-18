@@ -5,49 +5,28 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אשי",
-      "rationale": "אִשֵּׁי e tšwa go אֵשׁ (mollo) — 'dilo tša mollo'; e fetoletšwe bjalo ka 'sehlabelo sa go fišwa'."
-    },
-    {
-      "kind": "crux",
-      "subject": "תנופה",
-      "rationale": "'wave offering' (go thuntšha ka go kgabaganya) vs 'heave offering' (go tshoša godimo); Sepedi ga e na lentšu la tlwaeleo la se."
-    }
-  ],
-  "translation": "Matsogo a gagwe a tla tliša ⟨את⟩ sehlabelo sa go fišwa sa Yahwe: ⟨את⟩ mafura le sehuba o tla a tliša; ⟨את⟩ sehuba, gore se thuntšhwe go se thuntšha phuthego ka pele ga Yahwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "c428945c0500d8fec1e932a13dfd8954068f89c14f7b9c113f222bc982b4f4e2",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/7\/29-32.1792283565580.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Matswagae a tla di tliša ⟨את⟩ sehlabelo sa mollo sa Yahwe: ⟨את⟩ mafura mmogo le sehuba a tla se tliša, ⟨את⟩ sehuba sa go šakgwa poego ya go šakgwa pele ga Yahwe.",
   "tokens": [
     {
       "surface": "ידיו",
-      "gloss": "matsogo a gagwe"
+      "gloss": "matswagae"
     },
     {
       "surface": "תביאינה",
-      "gloss": "a tla tliša"
+      "gloss": "a tla di tliša"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "sehlabelo sa go fišwa"
+      "marks": "sehlabelo sa mollo"
     },
     {
       "surface": "אשי",
-      "gloss": "sehlabelo sa go fišwa"
+      "gloss": "sehlabelo sa mollo"
     },
     {
       "surface": "יהוה",
-      "gloss": "sa Yahwe"
+      "gloss": "Yahwe"
     },
     {
       "surface": "את",
@@ -60,7 +39,7 @@
     },
     {
       "surface": "על",
-      "gloss": "le"
+      "gloss": "mmogo le"
     },
     {
       "surface": "החזה",
@@ -68,7 +47,7 @@
     },
     {
       "surface": "יביאנו",
-      "gloss": "o tla a tliša"
+      "gloss": "a tla se tliša"
     },
     {
       "surface": "את",
@@ -81,26 +60,26 @@
     },
     {
       "surface": "להניף",
-      "gloss": "go se thuntšha"
+      "gloss": "go šakga"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "go se thuntšha phuthego"
+      "marks": "sehuba (sona)"
     },
     {
       "surface": "תנופה",
-      "gloss": "phuthego"
+      "gloss": "poego ya go šakgwa"
     },
     {
       "surface": "לפני",
-      "gloss": "ka pele ga"
+      "gloss": "pele ga"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     }
   ],
-  "timestamp": "2026-10-18T00:32:45.583509042Z",
+  "timestamp": "2026-10-18T17:31:52.593602560Z",
   "model": "glm-5.3"
 }

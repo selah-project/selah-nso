@@ -5,68 +5,32 @@
   "book": "zechariah",
   "lang": "nso",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨Yena⟩",
-      "rationale": "Seheberu se na le הוא go hlatholla; šomo ya konokono e hloka sehlarethi sa Sepedi"
-    },
-    {
-      "kind": "substitution",
-      "subject": "setšhaba sa ka",
-      "rationale": "עמי ke setšhaba sa me; kgethollo ya ge e le ga Ethiopia e laeditswe"
-    },
-    {
-      "kind": "crux",
-      "subject": "wa ka kgahlanong le rena",
-      "rationale": "BSB e bala 'Modimo wa rena' (our); Seheberu se re אלהי — 'Elohim wa ka' (my); mabapi le Yahwe a mo swanetše"
-    },
-    {
-      "kind": "measurement",
-      "subject": "karolo ya boraro",
-      "rationale": "Palo ya karolo ya boraro (1\/3) e tšwelapele go tšwa setšhabeng sa 13:8"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "ענה\/קרא",
-      "rationale": "Go bitša le go araba — mokgwa wa puo ya borangedi, go lahlegile ka mo go itseng go Sepedi"
-    }
-  ],
-  "translation": "Gomme ke tla ntšha ⟨את⟩ karolo ya boraro go mollo, gomme ke tla ba tsenya gofišwa bjalo ka gofišwa ga ⟨את⟩ silibera, gomme ke tla ba leka bjalo ka go lekelwa ga ⟨את⟩ gauta. ⟨Yena⟩ o tla bitša ka Leina la ka, gomme nna ke tla mo araba; ke tla re: Setšhaba sa ka ke se, gomme yena o tla re: Yahwe Elohim wa ka.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "ed46089e720cf44f70b0cd4450038c81f7c342110561f9fa4bee422145ab7b02",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/zechariah\/13\/9-9.1792296945569.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ke tla ka gosiša ⟨את⟩ tharong ka mollong, gomme ke tla ba topolla bjalo ka go topollwa ⟨את⟩ ga silibera, gomme ke tla ba lekola bjalo ka go lekollwa ⟨את⟩ ga gauta. Yena o tla bitša ka Leina la ka, gomme nna ke tla mo araba; ke tla re: ⟨את⟩ ke setšhaba sa ka, gomme yena o tla re: Yahwe Elohim wa ka.",
   "tokens": [
     {
       "surface": "והבאתי",
-      "gloss": "gomme ke tla ntšha"
+      "gloss": "gomme ke tla ka gosiša"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "karolo ya boraro"
+      "marks": "tharong"
     },
     {
       "surface": "השלשית",
-      "gloss": "karolo ya boraro"
+      "gloss": "tharong"
     },
     {
       "surface": "באש",
-      "gloss": "go mollo"
+      "gloss": "ka mollong"
     },
     {
       "surface": "וצרפתים",
-      "gloss": "gomme ke tla ba tsenya gofišwa"
+      "gloss": "gomme ke tla ba topolla"
     },
     {
       "surface": "כצרף",
-      "gloss": "bjalo ka gofišwa ga"
+      "gloss": "bjalo ka go topollwa"
     },
     {
       "surface": "את",
@@ -79,11 +43,11 @@
     },
     {
       "surface": "ובחנתים",
-      "gloss": "gomme ke tla ba leka"
+      "gloss": "gomme ke tla ba lekola"
     },
     {
       "surface": "כבחן",
-      "gloss": "bjalo ka go lekelwa ga"
+      "gloss": "bjalo ka go lekollwa"
     },
     {
       "surface": "את",
@@ -117,7 +81,7 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yena"
+      "marks": "ke setšhaba sa ka"
     },
     {
       "surface": "אמרתי",
@@ -129,7 +93,7 @@
     },
     {
       "surface": "הוא",
-      "gloss": "ke se"
+      "gloss": "ke"
     },
     {
       "surface": "והוא",
@@ -148,6 +112,6 @@
       "gloss": "Elohim wa ka"
     }
   ],
-  "timestamp": "2026-10-18T04:15:45.569886689Z",
+  "timestamp": "2026-10-18T17:38:51.203563376Z",
   "model": "glm-5.3"
 }

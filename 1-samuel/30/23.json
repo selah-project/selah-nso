@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 30,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "הגדוד",
-      "rationale": "'mokgwa' goba 'sephatlo sa sesole' — 'setšhaba se sengwe' ga se la nnete; <go lokile>: 'mokgwa wa sesole'"
-    },
-    {
-      "kind": "idiom",
-      "subject": "בידנו",
-      "rationale": "'ka matsogo a rena' — idiomo ya maatla, Sepedi e hlalosa ka go fetosetša <ka tsela ya go se šome>"
-    }
-  ],
-  "translation": "Gomme Dafida a re: O se ke wa dira bjalo, bana ba ka ba mpša; ⟨את⟩ se <o> neng <o> se ngoša ka ntle ga tlhaloganyo ya bana, o se ke wa lokiša dilo tša go se šome gabedi: <ka mehla ga go bušetšo, eupsa go ya ka Seheberu>: se Yahwe a se file rena, a re hlokomeditše, a newa ⟨את⟩ setšhaba se sengwe seo se ilego sa re hlasela, a se neela matlhohong a rena.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "1db2dee95d7aac94700f307a771e0cbf0ab7ea87ae576d2707799530cc40cd75",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/30\/21-24.1792288743328.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Dafida a re: O se ke wa dira bjalo, bana ba ka bale bohle ba bangwe ba ile ba ba šireletša, gomme o ile a fiša ⟨את⟩ sehlopha sa madira se se tlileng go re hlasela mošomong.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a re"
+      "gloss": "gomme…a re"
     },
     {
       "surface": "דוד",
@@ -50,12 +29,12 @@
     },
     {
       "surface": "אחי",
-      "gloss": "bana ba ka ba mpša"
+      "gloss": "bana ba ka bale bohle ba bangwe…"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "se (seo Yahwe a se file rena)"
+      "marks": "seo Yahwe a se file rena"
     },
     {
       "surface": "אשר",
@@ -63,7 +42,7 @@
     },
     {
       "surface": "נתן",
-      "gloss": "a se file"
+      "gloss": "a file"
     },
     {
       "surface": "יהוה",
@@ -75,38 +54,39 @@
     },
     {
       "surface": "וישמר",
-      "gloss": "a re hlokomeditše"
+      "gloss": "gomme…a šireletša"
     },
     {
       "surface": "אתנו",
-      "gloss": "⟨את⟩ rena"
+      "gloss": "⟨את⟩ rena",
+      "marks": "šireletšo ya rena (ela hloko gore go šupa go וית׳)"
     },
     {
       "surface": "ויתן",
-      "gloss": "a newa"
+      "gloss": "gomme…a fiša"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "setšhaba se sengwe"
+      "marks": "sehlopha sa madira"
     },
     {
       "surface": "הגדוד",
-      "gloss": "setšhaba se sengwe"
+      "gloss": "sehlopha sa madira"
     },
     {
       "surface": "הבא",
-      "gloss": "seo se ilego"
+      "gloss": "se se tlileng"
     },
     {
       "surface": "עלינו",
-      "gloss": "sa re hlasela"
+      "gloss": "go re hlasela"
     },
     {
       "surface": "בידנו",
-      "gloss": "matlhohong a rena"
+      "gloss": "mošomong"
     }
   ],
-  "timestamp": "2026-10-18T01:59:03.329942048Z",
+  "timestamp": "2026-10-18T17:01:02.030510375Z",
   "model": "glm-5.3"
 }

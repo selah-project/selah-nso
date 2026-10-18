@@ -5,45 +5,19 @@
   "book": "malachi",
   "lang": "nso",
   "chapter": 2,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "גער את הזרע",
-      "rationale": "'ke a le ganyaola peu ya lona' — LXX e bala 'apokalypsō' (go senya); diphetolelo di fapana gare ga go ganyaola le go senya peo"
-    },
-    {
-      "kind": "crux",
-      "subject": "ונשא אתכם אליו",
-      "rationale": "Sehlodi sa 'o tla le isa go yona' se sa hlaka: moshwe goba motho yo a sa bitšwago; Sepedi se nyaka sehlodi ⟨o⟩ se okeditšwego"
-    },
-    {
-      "kind": "addition",
-      "subject": "o",
-      "rationale": "Sehlodi sa thušo ya Seheberu se sa ngwalwa; Sepedi se se nyaka"
-    }
-  ],
-  "translation": "Bonang, ke a le ganyaola ⟨את⟩ peu ya lona, gomme ke tla phatlalatša moshwe sefahlegong sa lona, moshwe wa melaetša ya lona, gomme ⟨o⟩ tla le isa go yona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "dd82bcdabdf8b43f73f4a7e460cc05ae7a0ccce12245284aef255edbfdcdd1c6",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/malachi\/2\/1-4.1792297075886.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Bona, ke a le kgalema ka ⟨את⟩ peu ya lona, gomme ke tla phatlalatša leswe ka godimo ga difahleho tša lona, leswe la mekete ya lona, gomme e tla le apa ⟨את⟩-le go yona.",
   "tokens": [
     {
       "surface": "הנני",
-      "gloss": "Bonang, ke"
+      "gloss": "Bona"
     },
     {
       "surface": "גער",
-      "gloss": "a le ganyaola"
+      "gloss": "ke a kgalema"
     },
     {
       "surface": "לכם",
-      "gloss": "lona"
+      "gloss": "le"
     },
     {
       "surface": "את",
@@ -60,37 +34,38 @@
     },
     {
       "surface": "פרש",
-      "gloss": "moshwe"
+      "gloss": "leswe"
     },
     {
       "surface": "על",
-      "gloss": "sefahlegong"
+      "gloss": "ka godimo ga"
     },
     {
       "surface": "פניכם",
-      "gloss": "sa lona"
+      "gloss": "difahleho tša lona"
     },
     {
       "surface": "פרש",
-      "gloss": "moshwe"
+      "gloss": "leswe"
     },
     {
       "surface": "חגיכם",
-      "gloss": "wa melaetša ya lona"
+      "gloss": "mekete ya lona"
     },
     {
       "surface": "ונשא",
-      "gloss": "gomme o tla le isa"
+      "gloss": "gomme e tla le apa"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩-le",
+      "marks": "go yona"
     },
     {
       "surface": "אליו",
       "gloss": "go yona"
     }
   ],
-  "timestamp": "2026-10-18T04:17:55.887922461Z",
+  "timestamp": "2026-10-18T17:32:55.605132320Z",
   "model": "glm-5.3"
 }

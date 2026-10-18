@@ -5,56 +5,35 @@
   "book": "1-kings",
   "lang": "nso",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "שמעתי \/ השמועה",
-      "rationale": "Go bušwa ga modumo 'šoma-utlo' (šamaʿ \/ haššemuʿah) ga bo phunyeletša dikarolo tše tharo tša temana; se se lahlegilego phetolelong."
-    },
-    {
-      "kind": "substitution",
-      "subject": "sephetho",
-      "rationale": "haṣI = sephetho\/mošomo; KJV\/ASV 'the half was not told me' — lentšu le le sile fela."
-    }
-  ],
-  "translation": "gomme ga se ke ka dumelela mantšung, go fihlela ge nka tšego gomme mahlo a ka a bone; gomme ta, ga sego sephetho seo nka se utlwilego se nkalotšego; o okeditše bokgekolo le bobotle go tšwa go tsebiso yeo nka e utlwilego.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "16bc6228d1d334220e56b8a85afcb5b76a73bc9f5c6d8ce01aeac43850a2ac44",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/10\/5-8.1792289913191.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ga se ke ka dumelela mantšu, go fihla ge ke tsena gomme mahlo a ka a a bona, gomme bonwe! sephetha se sa mpolellelwa; o okeditše bohlale le botse go taba yeo ke e utlwilego.",
   "tokens": [
     {
       "surface": "ולא",
-      "gloss": "gomme ga se ke ka"
+      "gloss": "gomme ga"
     },
     {
       "surface": "האמנתי",
-      "gloss": "dumelela"
+      "gloss": "ke dumeletše"
     },
     {
       "surface": "לדברים",
-      "gloss": "mantšung"
+      "gloss": "mantšu"
     },
     {
       "surface": "עד",
-      "gloss": "go fihlela ge"
+      "gloss": "go fihla ge"
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "ge"
     },
     {
       "surface": "באתי",
-      "gloss": "nka tšego"
+      "gloss": "ke tsena"
     },
     {
       "surface": "ותראינה",
-      "gloss": "gomme ... a bone"
+      "gloss": "gomme a bona"
     },
     {
       "surface": "עיני",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "והנה",
-      "gloss": "gomme ta"
+      "gloss": "gomme bonwe"
     },
     {
       "surface": "לא",
-      "gloss": "ga sego"
+      "gloss": "ga"
     },
     {
       "surface": "הגד",
-      "gloss": "se nkalotšego"
+      "gloss": "go bolella"
     },
     {
       "surface": "לי",
@@ -78,7 +57,7 @@
     },
     {
       "surface": "החצי",
-      "gloss": "sephetho"
+      "gloss": "sephetha"
     },
     {
       "surface": "הוספת",
@@ -86,19 +65,19 @@
     },
     {
       "surface": "חכמה",
-      "gloss": "bokgekolo"
+      "gloss": "bohlale"
     },
     {
       "surface": "וטוב",
-      "gloss": "le bobotle"
+      "gloss": "gomme botse"
     },
     {
       "surface": "אל",
-      "gloss": "go tšwa go"
+      "gloss": "go"
     },
     {
       "surface": "השמועה",
-      "gloss": "tsebiso yeo"
+      "gloss": "taba ye utlwilego"
     },
     {
       "surface": "אשר",
@@ -106,9 +85,9 @@
     },
     {
       "surface": "שמעתי",
-      "gloss": "nka e utlwilego"
+      "gloss": "ke e utlwilego"
     }
   ],
-  "timestamp": "2026-10-18T02:18:33.192893350Z",
+  "timestamp": "2026-10-18T16:57:59.828999811Z",
   "model": "glm-5.3"
 }

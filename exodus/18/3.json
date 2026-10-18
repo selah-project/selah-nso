@@ -5,49 +5,24 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨e le tee⟩",
-      "rationale": "Hebrew האחד 'the one' carries the article; Sepedi has no article so a demonstrative is supplied"
-    },
-    {
-      "kind": "substitution",
-      "subject": "leswiswi",
-      "rationale": "גר is a guest\/sojourner-resident alien, not merely 'stranger'"
-    },
-    {
-      "kind": "crux",
-      "subject": "שם האחד",
-      "rationale": "name of the one (Gershom) — antecedent of 'he said' is Moses though grammar allows the son"
-    }
-  ],
-  "translation": "Le ⟨את⟩ bja ba bedi ba yena, bao leina la <e le tee> e le Gereshome, ka gobane o ile a re: ke be leswiswi lefaseng la sego la selegae.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "6b2b63caea2c4cca536ce84d213522d4927cb924df5877fce5d6622f95b2e860",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/18\/1-4.1792282836711.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Le ⟨את⟩ bana ba yena ba babedi, ao leina la mo tee e lego Gereshome, ka gobane o ile a re: Ke be lešoro lefaseng la bokgonyopi.",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩"
+      "gloss": "le ⟨את⟩",
+      "marks": "bana ba yena ba babedi"
     },
     {
       "surface": "שני",
-      "gloss": "bja ba bedi"
+      "gloss": "ba babedi"
     },
     {
       "surface": "בניה",
-      "gloss": "bja ba yena"
+      "gloss": "bana ba yena"
     },
     {
       "surface": "אשר",
-      "gloss": "bao"
+      "gloss": "ao"
     },
     {
       "surface": "שם",
@@ -55,7 +30,7 @@
     },
     {
       "surface": "האחד",
-      "gloss": "la <e le tee>"
+      "gloss": "la mo tee"
     },
     {
       "surface": "גרשם",
@@ -71,11 +46,11 @@
     },
     {
       "surface": "גר",
-      "gloss": "leswiswi"
+      "gloss": "lešoro"
     },
     {
       "surface": "הייתי",
-      "gloss": "ke be"
+      "gloss": "Ke be"
     },
     {
       "surface": "בארץ",
@@ -83,9 +58,9 @@
     },
     {
       "surface": "נכריה",
-      "gloss": "la sego la selegae"
+      "gloss": "la bokgonyopi"
     }
   ],
-  "timestamp": "2026-10-18T00:20:36.712859268Z",
+  "timestamp": "2026-10-18T17:11:29.427166025Z",
   "model": "glm-5.3"
 }

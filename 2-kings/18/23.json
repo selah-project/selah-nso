@@ -5,59 +5,28 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "התערב",
-      "rationale": "„go arabela“ (go fa tšhireletšo\/kgolwane) go kgathanong le „go ithekga“ (JPS) — lentšu le bolela go fa sehlomathwahla sa kgwerano."
-    },
-    {
-      "kind": "elision",
-      "subject": "נא",
-      "rationale": "Sethošo sa go kgopša se sa ngwalwe — se hlabilwe ka „ke a kgopša“."
-    },
-    {
-      "kind": "measurement",
-      "subject": "tše dikete tše pedi dipere",
-      "rationale": "Palo ya dipedi — tšhomo ya go nyefola maatla a Juda."
-    },
-    {
-      "kind": "you",
-      "subject": "go balaodi ba Yuda",
-      "rationale": "Kgopšo ye e tlhwatlhwa e lebitša balaodi khafetsa."
-    }
-  ],
-  "translation": "Gomme bjale, arabela ke a kgopša ⟨את⟩ mong wa ka, ⟨את⟩ kgoši ya Ashure, gomme ke tla go fa tše dikete tše pedi dipere, ge e le gore o ka kgona go ipaella baeti godimo ga tšona.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "e02be63bd46f325cb0e75e84dce684fa6c864b3fa16a5e4649abcf77cd289312",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/18\/21-24.1792290943988.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme bjale, ka kgotlebo, dumelelana le ⟨את⟩ morena wa ka, ⟨את⟩ kgoši ya Ashure, gomme ke tla go fa dipedi tše dikete tše pedi, ge o ka kgona go fiša wena bao ba badimo go tšona.",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "Gomme bjale"
+      "gloss": "gomme bjale"
     },
     {
       "surface": "התערב",
-      "gloss": "arabela"
+      "gloss": "dumelelana"
     },
     {
       "surface": "נא",
-      "gloss": ""
+      "gloss": "ka kgotlebo"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mong wa ka"
+      "marks": "morena wa ka"
     },
     {
       "surface": "אדני",
-      "gloss": "mong wa ka"
+      "gloss": "morena wa ka"
     },
     {
       "surface": "את",
@@ -70,7 +39,7 @@
     },
     {
       "surface": "אשור",
-      "gloss": "ya Ashure"
+      "gloss": "Ashure"
     },
     {
       "surface": "ואתנה",
@@ -86,11 +55,11 @@
     },
     {
       "surface": "סוסים",
-      "gloss": "dipere"
+      "gloss": "dipedi"
     },
     {
       "surface": "אם",
-      "gloss": "ge e le gore"
+      "gloss": "ge"
     },
     {
       "surface": "תוכל",
@@ -98,7 +67,7 @@
     },
     {
       "surface": "לתת",
-      "gloss": "go fa"
+      "gloss": "go fiša"
     },
     {
       "surface": "לך",
@@ -106,13 +75,13 @@
     },
     {
       "surface": "רכבים",
-      "gloss": "baeti"
+      "gloss": "bao ba badimo"
     },
     {
       "surface": "עליהם",
-      "gloss": "godimo ga tšona"
+      "gloss": "go tšona"
     }
   ],
-  "timestamp": "2026-10-18T02:35:43.990595703Z",
+  "timestamp": "2026-10-18T17:03:45.698210138Z",
   "model": "glm-5.3"
 }

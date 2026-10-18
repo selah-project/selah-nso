@@ -5,28 +5,7 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ba baleditšwe",
-      "rationale": "פקד pakad o bolela go etela\/go bala mophato; balego ke mokgwa wa go bala"
-    },
-    {
-      "kind": "measurement",
-      "subject": "43 730",
-      "rationale": "Palo ya mophato wa Reubene ka bophara bja yona"
-    }
-  ],
-  "translation": "Tsena ke malapa a ba-Reubene; gomme ba baleditšwe ba be ba le dikete tše mane le tharo, le makgolo a šupa le masometharo (43 730).",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "7a7213429dfc96e8641364df9b12e3e08dd04eed11d7435782d0ff449643779c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/26\/5-8.1792285071079.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Tsena ke malapa a Baruubene; gomme palo ya bona e be e le dikete tše masomenné le tharo, makgolo a šupa le masometharo.",
   "tokens": [
     {
       "surface": "אלה",
@@ -34,19 +13,19 @@
     },
     {
       "surface": "משפחת",
-      "gloss": "malapa a"
+      "gloss": "malapa"
     },
     {
       "surface": "הראובני",
-      "gloss": "ba-Reubene"
+      "gloss": "a Baruubene"
     },
     {
       "surface": "ויהיו",
-      "gloss": "gomme ba be ba le"
+      "gloss": "gomme e be e le"
     },
     {
       "surface": "פקדיהם",
-      "gloss": "ba baleditšwe"
+      "gloss": "palo ya bona"
     },
     {
       "surface": "שלשה",
@@ -54,7 +33,7 @@
     },
     {
       "surface": "וארבעים",
-      "gloss": "le mane"
+      "gloss": "le masomenné"
     },
     {
       "surface": "אלף",
@@ -62,7 +41,7 @@
     },
     {
       "surface": "ושבע",
-      "gloss": "le šupa"
+      "gloss": "šupa"
     },
     {
       "surface": "מאות",
@@ -73,6 +52,6 @@
       "gloss": "le masometharo"
     }
   ],
-  "timestamp": "2026-10-18T00:57:51.080055554Z",
+  "timestamp": "2026-10-18T17:34:31.378469643Z",
   "model": "glm-5.3"
 }

@@ -5,86 +5,60 @@
   "book": "2-chronicles",
   "lang": "nso",
   "chapter": 21,
-  "notes": [
-    {
-      "kind": "elision",
-      "subject": "כי אם",
-      "rationale": "idiomatic pair 'except' — כי elided, 'except' carried by אם"
-    },
-    {
-      "kind": "substitution",
-      "subject": "וישבו",
-      "rationale": "'they took into captivity' — לחושב? no; means deportation, not mere taking"
-    },
-    {
-      "kind": "crux",
-      "subject": "יהואחז",
-      "rationale": "also called Ahaziah (22:1); two names for the same youngest son"
-    }
-  ],
-  "translation": "Ba ile godimo go Yuda, ba e bula, ba isitše bošhaneleng ⟨את⟩ the whole property the one found ka lelapeng la kgoši, le gape barwa ba gagwe le basadi ba gagwe; gomme ga go a sala mo a nago morwa, ntle le Yehoakhaze, mo nyenyane go barwa ba gagwe.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "8038ffdf836ec5a2c03670187384ccede742b104861b7324b4094ec66e9c3534",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-chronicles\/21\/17-20.1792304075186.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ba nyakile go ya go Yehuda, ba e ripile, gomme ba tšere ⟨את⟩ thefo ka moka yeo e hwetšwago ntlong ya kgoši, le bjalo bana ba gagwe le basadi ba gagwe; gomme ga sa šala mo a sa nago morwa, ntle le Yehoakhaze, yo monyenyane go ba bana ba gagwe.",
   "tokens": [
     {
       "surface": "ויעלו",
-      "gloss": "ba ile godimo"
+      "gloss": "ba nyakile go ya"
     },
     {
       "surface": "ביהודה",
-      "gloss": "go Yuda"
+      "gloss": "go Yehuda"
     },
     {
       "surface": "ויבקעוה",
-      "gloss": "ba e bula"
+      "gloss": "ba e ripile"
     },
     {
       "surface": "וישבו",
-      "gloss": "ba isitše bošhaneleng"
+      "gloss": "ba tšere go ba baswa"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "the whole property"
+      "marks": "thefo ka moka"
     },
     {
       "surface": "כל",
-      "gloss": "the whole"
+      "gloss": "ka moka"
     },
     {
       "surface": "הרכוש",
-      "gloss": "property"
+      "gloss": "thefo"
     },
     {
       "surface": "הנמצא",
-      "gloss": "the one found"
+      "gloss": "e hwetšwago"
     },
     {
       "surface": "לבית",
-      "gloss": "ka lelapeng"
+      "gloss": "ntlong"
     },
     {
       "surface": "המלך",
-      "gloss": "la kgoši"
+      "gloss": "ya kgoši"
     },
     {
       "surface": "וגם",
-      "gloss": "le gape"
+      "gloss": "le bjalo"
     },
     {
       "surface": "בניו",
-      "gloss": "barwa ba gagwe"
+      "gloss": "bana ba gagwe"
     },
     {
       "surface": "ונשיו",
-      "gloss": "le basadi ba gagwe"
+      "gloss": "basadi ba gagwe"
     },
     {
       "surface": "ולא",
@@ -92,7 +66,7 @@
     },
     {
       "surface": "נשאר",
-      "gloss": "a sala"
+      "gloss": "a šala"
     },
     {
       "surface": "לו",
@@ -104,11 +78,11 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "ntlе"
     },
     {
       "surface": "אם",
-      "gloss": "ntle le"
+      "gloss": "go sa le"
     },
     {
       "surface": "יהואחז",
@@ -116,13 +90,13 @@
     },
     {
       "surface": "קטן",
-      "gloss": "mo nyenyane"
+      "gloss": "yo monyenyane"
     },
     {
       "surface": "בניו",
-      "gloss": "go barwa ba gagwe"
+      "gloss": "go ba bana ba gagwe"
     }
   ],
-  "timestamp": "2026-10-18T06:14:35.187489023Z",
+  "timestamp": "2026-10-18T17:39:34.064950862Z",
   "model": "glm-5.3"
 }

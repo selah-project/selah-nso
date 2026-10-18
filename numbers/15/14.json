@@ -5,23 +5,7 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 15,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨gotee⟩",
-      "rationale": "כן e bolela 'bjalo ka se' — ⟨gotee⟩ e hlakantšha go swana"
-    }
-  ],
-  "translation": "Gomme ge moahi wa lefatshe le lengwe a hlankela le ⟨את⟩ lena, goba yo a lego gare ga lena, go maloko a lena a ditokollo, a šome sehlabelo sa go fišwa, monko o monate, go Yahwe — bjalo ka ge le šoma, gotee a šome.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "1944fff528b1c55fea9b0d42ffb13cbe91663b48cdd227e426249dd65fa0ab0b",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/15\/13-16.1792284844018.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ge mogatledi a ka dula le lona, goba o mongwe wa lona go dikokwana tša lena, gomme a dira ⟨את⟩ sehlabelo sa go fišwa, se nago sephiri se se phumulošago, go Yahwe — bjalo ka ge le se dirago, ka mo go swanago ⟨le⟩ mo a tla se dirago.",
   "tokens": [
     {
       "surface": "וכי",
@@ -29,15 +13,16 @@
     },
     {
       "surface": "יגור",
-      "gloss": "a hlankela"
+      "gloss": "a ka dula"
     },
     {
       "surface": "אתכם",
-      "gloss": "le ⟨את⟩ lena"
+      "gloss": "⟨את⟩ le lona",
+      "marks": "le lona"
     },
     {
       "surface": "גר",
-      "gloss": "moahi wa lefatshe le lengwe"
+      "gloss": "mogatledi"
     },
     {
       "surface": "או",
@@ -45,19 +30,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "yo a lego"
+      "gloss": "wa"
     },
     {
       "surface": "בתוככם",
-      "gloss": "gare ga lena"
+      "gloss": "gare ga lona"
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "go maloko a lena a ditokollo"
+      "gloss": "go dikokwana tša lena"
     },
     {
       "surface": "ועשה",
-      "gloss": "a šome"
+      "gloss": "gomme a dira"
     },
     {
       "surface": "אשה",
@@ -65,11 +50,11 @@
     },
     {
       "surface": "ריח",
-      "gloss": "monko"
+      "gloss": "sephiri"
     },
     {
       "surface": "ניחח",
-      "gloss": "o monate"
+      "gloss": "se se phumulošago"
     },
     {
       "surface": "ליהוה",
@@ -81,17 +66,17 @@
     },
     {
       "surface": "תעשו",
-      "gloss": "le šoma"
+      "gloss": "le se dirago"
     },
     {
       "surface": "כן",
-      "gloss": "gotee"
+      "gloss": "ka mo go swanago"
     },
     {
       "surface": "יעשה",
-      "gloss": "a šome"
+      "gloss": "mo a tla se dirago"
     }
   ],
-  "timestamp": "2026-10-18T00:54:04.019592223Z",
+  "timestamp": "2026-10-18T17:34:06.944432328Z",
   "model": "glm-5.3"
 }

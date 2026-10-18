@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "nso",
   "chapter": 101,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "⟨o⟩",
-      "rationale": "Seheberu se se na sebopego sa mošomi, Sepedi se se nyaka"
-    },
-    {
-      "kind": "crux",
-      "subject": "אצמית",
-      "rationale": "tsamaiso ya lefoko: 'go fedisa' goba 'go nyenyefatša go se bolele' — mofetoledi o fapana"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ורחב",
-      "rationale": "'pelo e sephara' goba 'pelo e atolositswego' — rekhoto e bolela bophara"
-    }
-  ],
-  "translation": "Yo a nyefolago moširi wa gagwe ka sephiring, o tla moo ke mo fedise; wa mahlo a phahame le wa pelo e sephara, ⟨o⟩ nka se mo kele.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "752dc5bdafb1c1ddfe14a1ce4d7bfa2679cce1bf0a40c35d771455eacfa97750",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/101\/5-8.1792298594286.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yo a nyefolago mogwera wa gagwe ka sephiring, ⟨את⟩ yena ke tla mo timetša; yo a nago mahlo a godimo le pelo e pharaletšego, ⟨את⟩ yena ga ke kgone go mo bea.",
   "tokens": [
     {
       "surface": "מלושני",
@@ -43,20 +17,20 @@
     },
     {
       "surface": "רעהו",
-      "gloss": "moširi wa gagwe"
+      "gloss": "mogwera wa gagwe"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "yo a nyefolago moširi wa gagwe ka sephiring"
+      "marks": "yena (yo a nyefolago)"
     },
     {
       "surface": "אצמית",
-      "gloss": "ke tla mo fedise"
+      "gloss": "ke tla mo timetša"
     },
     {
       "surface": "גבה",
-      "gloss": "a phahame"
+      "gloss": "a godimo"
     },
     {
       "surface": "עינים",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "ורחב",
-      "gloss": "e sephara"
+      "gloss": "le e pharaletšego"
     },
     {
       "surface": "לבב",
@@ -73,17 +47,17 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "wa mahlo a phahame le wa pelo e sephara"
+      "marks": "yena (yo a nago mahlo a godimo)"
     },
     {
       "surface": "לא",
-      "gloss": "se"
+      "gloss": "ga"
     },
     {
       "surface": "אוכל",
-      "gloss": "nka mo kele"
+      "gloss": "ke kgone"
     }
   ],
-  "timestamp": "2026-10-18T04:43:14.287449347Z",
+  "timestamp": "2026-10-18T17:37:12.255733478Z",
   "model": "glm-5.3"
 }

@@ -5,32 +5,11 @@
   "book": "1-samuel",
   "lang": "nso",
   "chapter": 17,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "seatleng sa gagwe",
-      "rationale": "Heberekeng go ntše gaelele gomme sehlaka se okeditšwe bakeng sa go hlaka"
-    },
-    {
-      "kind": "substitution",
-      "subject": "Mmutswanammakgoba",
-      "rationale": "הפלשתי ke leina la setšhaba — mo go boletšwe bjalo ka motho a le tee, yo a neng a bolawa ke Dafida"
-    }
-  ],
-  "translation": "Gomme ka ge Dafida a boela go tšwa go go beta ⟨את⟩ Mmutswanammakgoba, Abenere o mo tšereile gomme a mo tliša ka pele ga Shaule, hlogo ya Mmutswanammakgoba e le ka seatleng sa gagwe.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "26a397729d4ab302a1c3ed08867b1d6ac4734bc2b64cdde5e51d6311699b4e30",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-samuel\/17\/57-58.1792288373003.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Mola Dafida a boela go tloga go betha ⟨את⟩ Mofilistha, Abenere a mo thaella a mo isa pele ga Shauole, gomme hlogo ya Mofilistha e le ka go ena seatleng.",
   "tokens": [
     {
       "surface": "וכשוב",
-      "gloss": "ka ge a boela"
+      "gloss": "mola … a boela"
     },
     {
       "surface": "דוד",
@@ -38,24 +17,25 @@
     },
     {
       "surface": "מהכות",
-      "gloss": "go tšwa go go beta"
+      "gloss": "go tloga go betha"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Mmutswanammakgoba"
+      "marks": "Mofilistha"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Mmutswanammakgoba"
+      "gloss": "Mofilistha"
     },
     {
       "surface": "ויקח",
-      "gloss": "o tšereile"
+      "gloss": "a mo thaella"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ mo"
+      "gloss": "⟨את⟩",
+      "marks": "Abenere — gomme yo a theilwego ke Abenere ke Dafida"
     },
     {
       "surface": "אבנר",
@@ -63,29 +43,29 @@
     },
     {
       "surface": "ויבאהו",
-      "gloss": "a mo tliša"
+      "gloss": "a mo isa"
     },
     {
       "surface": "לפני",
-      "gloss": "ka pele ga"
+      "gloss": "pele ga"
     },
     {
       "surface": "שאול",
-      "gloss": "Shaule"
+      "gloss": "Shauole"
     },
     {
       "surface": "וראש",
-      "gloss": "hlogo ya"
+      "gloss": "gomme hlogo"
     },
     {
       "surface": "הפלשתי",
-      "gloss": "Mmutswanammakgoba"
+      "gloss": "ya Mofilistha"
     },
     {
       "surface": "בידו",
-      "gloss": "ka seatleng sa gagwe"
+      "gloss": "ka go ena seatleng"
     }
   ],
-  "timestamp": "2026-10-18T01:52:53.004459601Z",
+  "timestamp": "2026-10-18T17:00:15.367686696Z",
   "model": "glm-5.3"
 }

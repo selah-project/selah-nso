@@ -5,36 +5,15 @@
   "book": "numbers",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "measurement",
-      "subject": "601 730",
-      "rationale": "Palo e kgolo ya bana bahole ba Yisraele ka moka — palo e netefaditšwe ka dinomoro go ea sephethong"
-    },
-    {
-      "kind": "elision",
-      "subject": "אלה",
-      "rationale": "⟨ba balwego⟩ — laetšo ye e tlamilwago ke go tlwaelanya ga Sepedi; Seheberu se re fela \"tše\""
-    }
-  ],
-  "translation": "Ba balwego ke bana ba Yisraele — dikete tše tshela tše makgolo, le sekete, le makgolo a šupa le masometharo (601 730).",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "9cf2c020d1a4250eb8602dc9da8623eb005720773385508594bbbf64a411499c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/numbers\/26\/49-52.1792285194664.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ba ⟨ke⟩ bao ba badilwego ga bana ba Yisraele: makgolo a tshela a dikete le sekete, makgolo a šupa le masometharo.",
   "tokens": [
     {
       "surface": "אלה",
-      "gloss": "ba balwego ke"
+      "gloss": "Ba"
     },
     {
       "surface": "פקודי",
-      "gloss": "ba balwego"
+      "gloss": "bao ba badilwego"
     },
     {
       "surface": "בני",
@@ -46,11 +25,11 @@
     },
     {
       "surface": "שש",
-      "gloss": "tše tshela"
+      "gloss": "tshela"
     },
     {
       "surface": "מאות",
-      "gloss": "tše makgolo"
+      "gloss": "makgolo a"
     },
     {
       "surface": "אלף",
@@ -62,17 +41,17 @@
     },
     {
       "surface": "שבע",
-      "gloss": "a šupa"
+      "gloss": "šupa"
     },
     {
       "surface": "מאות",
-      "gloss": "makgolo"
+      "gloss": "makgolo a"
     },
     {
       "surface": "ושלשים",
       "gloss": "le masometharo"
     }
   ],
-  "timestamp": "2026-10-18T00:59:54.665510286Z",
+  "timestamp": "2026-10-18T17:34:13.707728039Z",
   "model": "glm-5.3"
 }

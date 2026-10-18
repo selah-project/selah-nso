@@ -5,96 +5,76 @@
   "book": "ezekiel",
   "lang": "nso",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "רשתי \/ מצודתי",
-      "rationale": "peteiše tše pedi tša go swara (sefala le sefala) ka go latelana — kgodišo e utollwa ka lentšu le tee la Sepedi"
-    },
-    {
-      "kind": "alternative",
-      "subject": "ואותה",
-      "rationale": "sehlakahlaka se bolela lefase (Babilona); go bolela Babilona ka boyona go a dumelelwa gape"
-    }
-  ],
-  "translation": "Ke tla phatlalala ⟨את⟩ sefala sa ka godimo ga yena, gomme o tla swarwa ka sefala sa ka; gomme ke tla mo isa Babilona, lefaseng la Bakasdi, gomme ⟨את⟩ yona a ka se a e bona, gomme koo a tla hwa.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "c764e573e3e91ffb6db21926cbd3d5c57224c9b1aff0561eb7bb9edc70f453df",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ezekiel\/12\/13-16.1792294632135.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ke tla phatlalatša ⟨את⟩ sefala sa ka mo godimo ga yena, gomme o tla tšerwa ka sefala sa ka; gomme ke tla mo isitša Babilona, lefaseng la Bakasdi, gomme ⟨את⟩ yona ga a ka go e bona, gomme koo o tla hwa.",
   "tokens": [
     {
-      "surface": "ופרשתי",
-      "gloss": "ke tla phatlalala"
+      "surface": "וּפָרַשְׂתִּי",
+      "gloss": "ke tla phatlalatša"
     },
     {
-      "surface": "את",
+      "surface": "אֵת",
       "gloss": "⟨את⟩",
       "marks": "sefala sa ka"
     },
     {
-      "surface": "רשתי",
+      "surface": "רִשְׁתִּי",
       "gloss": "sefala sa ka"
     },
     {
-      "surface": "עליו",
-      "gloss": "godimo ga yena"
+      "surface": "עָלָיו",
+      "gloss": "mo godimo ga yena"
     },
     {
-      "surface": "ונתפש",
-      "gloss": "gomme o tla swarwa"
+      "surface": "וְנִתְפַּשׂ",
+      "gloss": "gomme o tla tšerwa"
     },
     {
-      "surface": "במצודתי",
+      "surface": "בִּמְצוּדָתִי",
       "gloss": "ka sefala sa ka"
     },
     {
-      "surface": "והבאתי",
-      "gloss": "gomme ke tla mo isa"
+      "surface": "וְהֵבֵאתִי",
+      "gloss": "gomme ke tla mo isitša"
     },
     {
-      "surface": "אתו",
+      "surface": "אֹתוֹ",
       "gloss": "⟨את⟩",
       "marks": "Babilona"
     },
     {
-      "surface": "בבלה",
+      "surface": "בָּבֶלָה",
       "gloss": "Babilona"
     },
     {
-      "surface": "ארץ",
+      "surface": "אֶרֶץ",
       "gloss": "lefase"
     },
     {
-      "surface": "כשדים",
+      "surface": "כַּשְׂדִּים",
       "gloss": "la Bakasdi"
     },
     {
-      "surface": "ואותה",
-      "gloss": "gomme ⟨את⟩"
+      "surface": "וְאוֹתָהּ",
+      "gloss": "gomme ⟨את⟩ yona",
+      "marks": "lefase la Babilona"
     },
     {
-      "surface": "לא",
-      "gloss": "a ka se"
+      "surface": "לֹא",
+      "gloss": "ga"
     },
     {
-      "surface": "יראה",
-      "gloss": "a e bona"
+      "surface": "יִרְאֶה",
+      "gloss": "a ka go e bona"
     },
     {
-      "surface": "ושם",
+      "surface": "וְשָׁם",
       "gloss": "gomme koo"
     },
     {
-      "surface": "ימות",
-      "gloss": "a tla hwa"
+      "surface": "יָמוּת",
+      "gloss": "o tla hwa"
     }
   ],
-  "timestamp": "2026-10-18T03:37:12.136476798Z",
+  "timestamp": "2026-10-18T17:13:16.348269993Z",
   "model": "glm-5.3"
 }

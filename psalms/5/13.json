@@ -5,33 +5,7 @@
   "book": "psalms",
   "lang": "nso",
   "chapter": 5,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "šireletšo",
-      "rationale": "כצנה ke šhiete ye kgolo ya ntwa; 'šireletšo' e tliša bokao bjo bo golwane fela"
-    },
-    {
-      "kind": "crux",
-      "subject": "תעטרנו",
-      "rationale": "'go dikologa' kgathanong le 'go bea mogolokwane' — עטר e bolela ka bobedi go dikologa le go kgetha ka mogolokwane"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "צדיק\/צנה",
-      "rationale": "go anoga ga tšwa thong ya ṣ\/ṣ tsatsing ya Sepedi ga se sona, eupša mmedvo wa צ o boeledwa o bopa kopano ya lentšu ye e sa laolweng"
-    }
-  ],
-  "translation": "Ka gobane wena, Yahwe, o ka Leboka ⟨את⟩ yo a kgethwago; ka ratophelo o ka mo dikologa bjalo ka šireletšo.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "ddadfc070bb11a9fb5fbc5d276f8157956b397d664a9fb3777933473a4c81ad8",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/psalms\/5\/13-13.1792297100398.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane wena, Yahwe, o tla hlatlametša ⟨את⟩ yo a lokilego; ka tswarelo o tla mo dikakaretša bjalo ka sefala.",
   "tokens": [
     {
       "surface": "כי",
@@ -43,34 +17,29 @@
     },
     {
       "surface": "תברך",
-      "gloss": "o ka Leboka"
+      "gloss": "o tla hlatlametša"
     },
     {
       "surface": "צדיק",
-      "gloss": "yo a kgethwago"
+      "gloss": "yo a lokilego"
     },
     {
       "surface": "יהוה",
       "gloss": "Yahwe"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "yo a kgethwago"
-    },
-    {
       "surface": "כצנה",
-      "gloss": "bjalo ka šireletšo"
+      "gloss": "bjalo ka sefala"
     },
     {
       "surface": "רצון",
-      "gloss": "ka ratophelo"
+      "gloss": "tswarelo"
     },
     {
       "surface": "תעטרנו",
-      "gloss": "o ka mo dikologa"
+      "gloss": "o tla mo dikakaretša"
     }
   ],
-  "timestamp": "2026-10-18T04:18:20.398619001Z",
+  "timestamp": "2026-10-18T17:37:43.824015632Z",
   "model": "glm-5.3"
 }

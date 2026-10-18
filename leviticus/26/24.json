@@ -5,31 +5,15 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בקרי ... בקרי",
-      "rationale": "Mirror structure: Israel walks 'with Me in keri' (v.21,23), so I walk 'with you in keri' (v.24,28) — measure-for-measure inversion, kept by repeating 'ka go ganwana'."
-    }
-  ],
-  "translation": "Ke tla sepela le lena ka go ganwana, le nna, gomme ke tla le tlaiša, le nna, ka nako ye šupa ka baka la mebe ya lena.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/26\/21-24.1792284311674.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ke tla sepela ⟨le⟩ lena ka go le ganwa, gomme ke tla le šoša ⟨את⟩ lena gape nna, ka dinako tše šupa ka baka la dibe tša lena.",
   "tokens": [
     {
       "surface": "והלכתי",
-      "gloss": "ke tla sepela"
+      "gloss": "gomme ke tla sepela"
     },
     {
       "surface": "אף",
-      "gloss": "le"
+      "gloss": "gape"
     },
     {
       "surface": "אני",
@@ -41,19 +25,20 @@
     },
     {
       "surface": "בקרי",
-      "gloss": "ka go ganwana"
+      "gloss": "ka go le ganwa"
     },
     {
       "surface": "והכיתי",
-      "gloss": "gomme ke tla le tlaiša"
+      "gloss": "gomme ke tla le šoša"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lena"
+      "gloss": "⟨את⟩",
+      "marks": "lena"
     },
     {
       "surface": "גם",
-      "gloss": "le"
+      "gloss": "gape"
     },
     {
       "surface": "אני",
@@ -61,7 +46,7 @@
     },
     {
       "surface": "שבע",
-      "gloss": "ka nako ye šupa"
+      "gloss": "ka dinako tše šupa"
     },
     {
       "surface": "על",
@@ -69,9 +54,9 @@
     },
     {
       "surface": "חטאתיכם",
-      "gloss": "mebe ya lena"
+      "gloss": "dibe tša lena"
     }
   ],
-  "timestamp": "2026-10-18T00:45:11.675955747Z",
+  "timestamp": "2026-10-18T17:31:30.413115021Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,15 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 26,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "ושכלה",
-      "rationale": "'To bereave of children' (from miscarriage root) — object 'you' implies loss of children; rendered 'le šikela ⟨את⟩ bana' to keep the picture."
-    },
-    {
-      "kind": "crux",
-      "subject": "ונשמו דרכיכם",
-      "rationale": "'Your roads shall be desolated\/stunned' — KJV adds 'high' (from 26:19); literal is simply 'your ways'."
-    }
-  ],
-  "translation": "Gomme ke tla roma go lena ⟨את⟩ diphoofolo tša naga, gomme di tla le šikela ⟨את⟩ bana, gomme di tla raya ⟨את⟩ diruiwa tša lena, gomme di tla le fokotša, gomme ditsela tša lena di tla šala tše go šego motho.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "b027e0697860b710cfa37db8341b51a67e67796a6967c9f08e1b22ec3bb25349",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/26\/21-24.1792284311674.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ke tla romela go lona ⟨את⟩ diphoofolo tša naga, gomme di tla le hlolela bana, gomme di tla kgotla ⟨את⟩ diruiwa tša lona, gomme di tla le fokotša ⟨את⟩ lona, gomme ditšela tša lona di tla šala tše lego diele.",
   "tokens": [
     {
       "surface": "והשלחתי",
-      "gloss": "gomme ke tla roma"
+      "gloss": "gomme ke tla romela"
     },
     {
       "surface": "בכם",
-      "gloss": "go lena"
+      "gloss": "go lona"
     },
     {
       "surface": "את",
@@ -43,32 +22,33 @@
     },
     {
       "surface": "חית",
-      "gloss": "diphoofolo"
+      "gloss": "diphoofolo tša"
     },
     {
       "surface": "השדה",
-      "gloss": "tša naga"
+      "gloss": "naga"
     },
     {
       "surface": "ושכלה",
-      "gloss": "gomme di tla le šikela"
+      "gloss": "gomme di tla le hlolela bana"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ bana"
+      "gloss": "⟨את⟩ lona",
+      "marks": "le hlolela bana lona"
     },
     {
       "surface": "והכריתה",
-      "gloss": "gomme di tla raya"
+      "gloss": "gomme di tla kgotla"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "diruiwa tša lena"
+      "marks": "diruiwa tša lona"
     },
     {
       "surface": "בהמתכם",
-      "gloss": "diruiwa tša lena"
+      "gloss": "diruiwa tša lona"
     },
     {
       "surface": "והמעיטה",
@@ -76,17 +56,18 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lena"
+      "gloss": "⟨את⟩ lona",
+      "marks": "le fokotša lona"
     },
     {
       "surface": "ונשמו",
-      "gloss": "gomme di tla šala"
+      "gloss": "gomme di tla šala tše lego diele"
     },
     {
       "surface": "דרכיכם",
-      "gloss": "ditsela tša lena"
+      "gloss": "ditšela tša lona"
     }
   ],
-  "timestamp": "2026-10-18T00:45:11.675657500Z",
+  "timestamp": "2026-10-18T17:31:31.123577966Z",
   "model": "glm-5.3"
 }

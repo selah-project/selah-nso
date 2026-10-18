@@ -5,28 +5,7 @@
   "book": "nehemiah",
   "lang": "nso",
   "chapter": 13,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "אותו",
-      "rationale": "אֹתוֹ monomediro wa Seheberu ('yena'), e sego sesupo sa ⟨את⟩ sa H853"
-    },
-    {
-      "kind": "addition",
-      "subject": "a be",
-      "rationale": "היה ya bobedi e nyakwa ke kgokagano ya Sepedi; e laetšwe ka ⟨…⟩"
-    }
-  ],
-  "translation": "A ga se ka baka la tše Šelema, kgoši ya Yisraele, a be a dire sebe? Go ditšhaba tše dintši go be go se na kgoši bjalo ka yena, gomme ⟨a be⟩ a ratoa ke Elohim wa gagwe, gomme Elohim a mo dira kgoši godimo ga Yisraele ka moka; le yena basadi ba mafeta ba mo dira go direa sebe.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "a2a6e69ae63d6e9a00f7eed51194c429117e2c8056e5fec633c32686be2fa2a3",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/nehemiah\/13\/25-28.1792302860635.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "A ga se ka dilo tšeo Šelomo, kgoši ya Yisraele, a beile sebe? Gomme gare ga ditšhaba tše ntši ga go ka diego kgoši ya go swana le yena, gomme ⟨o⟩ be a ratoa ke Elohim wa gage, gomme Elohim o ile a mo dira kgoši godimo ga Yisraele ka moka; le gopola ⟨את⟩ yena, basadi ba dinaga tše dingwe ba mo dirile sebe.",
   "tokens": [
     {
       "surface": "הלוא",
@@ -34,19 +13,19 @@
     },
     {
       "surface": "על",
-      "gloss": "ka baka la"
+      "gloss": "ka"
     },
     {
       "surface": "אלה",
-      "gloss": "tše"
+      "gloss": "dilo tšeo"
     },
     {
       "surface": "חטא",
-      "gloss": "a dire sebe"
+      "gloss": "a beile sebe"
     },
     {
       "surface": "שלמה",
-      "gloss": "Šelema"
+      "gloss": "Šelomo"
     },
     {
       "surface": "מלך",
@@ -58,19 +37,19 @@
     },
     {
       "surface": "ובגוים",
-      "gloss": "go ditšhaba"
+      "gloss": "gomme gare ga ditšhaba"
     },
     {
       "surface": "הרבים",
-      "gloss": "tše dintši"
+      "gloss": "tše ntši"
     },
     {
       "surface": "לא",
-      "gloss": "go se na"
+      "gloss": "ga go ka diego"
     },
     {
       "surface": "היה",
-      "gloss": "go be"
+      "gloss": "e bile"
     },
     {
       "surface": "מלך",
@@ -78,23 +57,23 @@
     },
     {
       "surface": "כמהו",
-      "gloss": "bjalo ka yena"
+      "gloss": "ya go swana le yena"
     },
     {
       "surface": "ואהוב",
-      "gloss": "a ratoa"
+      "gloss": "gomme o be a ratoa"
     },
     {
       "surface": "לאלהיו",
-      "gloss": "ke Elohim wa gagwe"
+      "gloss": "ke Elohim wa gage"
     },
     {
       "surface": "היה",
-      "gloss": "a be"
+      "gloss": "e bile"
     },
     {
       "surface": "ויתנהו",
-      "gloss": "a mo dira"
+      "gloss": "gomme o ile a mo dira"
     },
     {
       "surface": "אלהים",
@@ -118,15 +97,16 @@
     },
     {
       "surface": "גם",
-      "gloss": "le"
+      "gloss": "le gopola"
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩ yena"
+      "gloss": "⟨את⟩",
+      "marks": "yena"
     },
     {
       "surface": "החטיאו",
-      "gloss": "ba mo dira go direa sebe"
+      "gloss": "ba mo dirile sebe"
     },
     {
       "surface": "הנשים",
@@ -134,9 +114,9 @@
     },
     {
       "surface": "הנכריות",
-      "gloss": "ba mafeta"
+      "gloss": "ba dinaga tše dingwe"
     }
   ],
-  "timestamp": "2026-10-18T05:54:20.636943534Z",
+  "timestamp": "2026-10-18T17:32:46.501831123Z",
   "model": "glm-5.3"
 }

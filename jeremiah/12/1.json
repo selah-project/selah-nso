@@ -5,37 +5,11 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 12,
-  "notes": [
-    {
-      "kind": "wordplay",
-      "subject": "בגדי בגד",
-      "rationale": "Infinitive construct boikhafetšong: 'bao ba hlokago tshepo' — go bolela ga lentšu le tee ka go hlakanela ga modu gomme ga boelwa ka lona, se se la se ke sa tsewego ka botlalo."
-    },
-    {
-      "kind": "crux",
-      "subject": "אך",
-      "rationale": "'aakhe' — 'fela' (e pagile go ya ka tekanyo, bjalo ka KJV 'yet') goba 'go maswabi' (go maswabi); Sepedi se kgetha 'fela'."
-    },
-    {
-      "kind": "substitution",
-      "subject": "משפטים",
-      "rationale": "'dikahlolo' — Seheberu se bolela ka ditatofatšo tša Yahwe; taba ke dikahlolo tša gagabo, e sego molao ka Kakaretšo."
-    }
-  ],
-  "translation": "Lokile wena, Yahwe, ge ke ganela le wena; fela ka dikahlolo ke tla bolela le wena: go lebaka eng tsela ya bafoši e atlegile? Go lebaka eng bohle bao ba hlokago tshepo ba phumetše?",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "9dab1baf5af0687d2c37826ffe32aaa84013f11b9a5ff62d329da27cb5749440",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/12\/1-4.1792293060168.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ya lokilego ke ⟨wena⟩, Yahwe, ge ke ganela le wena; fela ka dikahlolo ke tla bolela ⟨את⟩ le wena: ke ka baka eng tsela ya ba-bele e atlega? ke ka baka eng bao ba fošago ka go foša ba khutšo ka moka?",
   "tokens": [
     {
       "surface": "צדיק",
-      "gloss": "Lokile"
+      "gloss": "ya lokilego"
     },
     {
       "surface": "אתה",
@@ -72,11 +46,11 @@
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "le wena"
+      "marks": "le wena — sebopego se šala se ka la kgotsofalo ya potšišo yeo e latelago"
     },
     {
       "surface": "מדוע",
-      "gloss": "go lebaka eng"
+      "gloss": "ke ka baka eng"
     },
     {
       "surface": "דרך",
@@ -84,29 +58,29 @@
     },
     {
       "surface": "רשעים",
-      "gloss": "ya bafoši"
+      "gloss": "ya ba-bele"
     },
     {
       "surface": "צלחה",
-      "gloss": "e atlegile"
+      "gloss": "e atlega"
     },
     {
       "surface": "שלו",
-      "gloss": "ba phumetše"
+      "gloss": "ba khutšo"
     },
     {
       "surface": "כל",
-      "gloss": "bohle"
+      "gloss": "ka moka"
     },
     {
       "surface": "בגדי",
-      "gloss": "bao ba hlokago"
+      "gloss": "bao ba fošago"
     },
     {
       "surface": "בגד",
-      "gloss": "tshepo"
+      "gloss": "ka go foša"
     }
   ],
-  "timestamp": "2026-10-18T03:11:00.169596624Z",
+  "timestamp": "2026-10-18T17:20:52.012130892Z",
   "model": "glm-5.3"
 }

@@ -5,41 +5,15 @@
   "book": "1-kings",
   "lang": "nso",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "אף כי",
-      "rationale": "moire wa Seheberu 'go feta moo le kudu' — motho wa legare a botša gore go le kudu go ka se direge; Seheberu se ra re 'le gona kae ntlo ye'"
-    },
-    {
-      "kind": "elision",
-      "subject": "אשר",
-      "rationale": "kopanyi ye e ile ya hlapantšhwa ka sebopego sa kganetšo ya Sepedi"
-    },
-    {
-      "kind": "mystery",
-      "subject": "go dula ga Elohim",
-      "rationale": "potšišo ye e sa arabiwago — magodimo a magodimo ka boyona a ka se swale Elohim — go le lakantšhitše ka boomo"
-    }
-  ],
-  "translation": "Gobane, na ka nnete Elohim o tla dula ka lefase? Bonang, magodimo, le magodimo a magodimo ga a go swara; le go feta moo, ntlo ye ke e agilego?",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "494601008492f3b30020b5e25620a324351a2acce6582c9f5bab104c4743c70f",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/8\/25-28.1792289928941.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Na ka nnete Elohim o tla dula ka lefase? Bonang, magodimo le magodimo a magodimo ga a ka go swara — mo e ka baka le ka gae ntlo ye ke e agilego.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "gobane"
+      "gloss": "na"
     },
     {
       "surface": "האמנם",
-      "gloss": "na ka nnete"
+      "gloss": "ka nnete"
     },
     {
       "surface": "ישב",
@@ -75,15 +49,15 @@
     },
     {
       "surface": "לא",
-      "gloss": "ga a"
+      "gloss": "ga"
     },
     {
       "surface": "יכלכלוך",
-      "gloss": "go swara"
+      "gloss": "a ka go swara"
     },
     {
       "surface": "אף",
-      "gloss": "le go feta moo"
+      "gloss": "mo e ka baka le ka gae"
     },
     {
       "surface": "כי",
@@ -106,6 +80,6 @@
       "gloss": "ke e agilego"
     }
   ],
-  "timestamp": "2026-10-18T02:18:48.942776580Z",
+  "timestamp": "2026-10-18T16:59:33.250919180Z",
   "model": "glm-5.3"
 }

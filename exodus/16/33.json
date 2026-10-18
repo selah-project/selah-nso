@@ -5,37 +5,11 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "צנצנת",
-      "rationale": "Sepedi e sa tsego lentšu la seswantšho sa seheberu; 'setshelo' ke bokao bjo bo tletšego"
-    },
-    {
-      "kind": "measurement",
-      "subject": "omere",
-      "rationale": "Palo ya dikelo — omere ya mane e bolokwa"
-    },
-    {
-      "kind": "substitution",
-      "subject": "mane",
-      "rationale": "מן ke 'go nyaka go tšwa go man e' — leina la go botšiša, e sego fela leina"
-    }
-  ],
-  "translation": "Moshe a bolela go Aharone: Tšea setshelo se sengwe, o beye gona mopologo wa omere wa mane, o se šetše pele ga Yahwe, go bolokwa bakeng sa dikokomana tša lona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "8968a404f1361520bccaabbf8e4847241a63238e2b268f7ce172189f22d006be",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/16\/33-36.1792282768016.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Moshe a bolela go Aharone: Tšea setshelo se sengwe, gomme o beye mo gona phethafalo ya omere ya mane, gomme o e hlometše ⟨את⟩ pejana ga Yahwe, bakeng sa go bolokwa go dikokwana tša gago.",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "a bolela"
+      "gloss": "gomme a bolela"
     },
     {
       "surface": "משה",
@@ -63,36 +37,36 @@
     },
     {
       "surface": "ותן",
-      "gloss": "o beye"
+      "gloss": "gomme o beye"
     },
     {
       "surface": "שמה",
-      "gloss": "gona"
+      "gloss": "mo gona"
     },
     {
       "surface": "מלא",
-      "gloss": "mopologo"
+      "gloss": "phethafalo"
     },
     {
       "surface": "העמר",
-      "gloss": "wa omere"
+      "gloss": "ya omere"
     },
     {
       "surface": "מן",
-      "gloss": "wa mane"
+      "gloss": "ya mane"
     },
     {
       "surface": "והנח",
-      "gloss": "o se šetše"
+      "gloss": "gomme o e hlometše"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "se"
+      "marks": "e (mane a hlometšwego)"
     },
     {
       "surface": "לפני",
-      "gloss": "pele ga"
+      "gloss": "pejana ga"
     },
     {
       "surface": "יהוה",
@@ -100,13 +74,13 @@
     },
     {
       "surface": "למשמרת",
-      "gloss": "go bolokwa"
+      "gloss": "bakeng sa go bolokwa"
     },
     {
       "surface": "לדרתיכם",
-      "gloss": "bakeng sa dikokomana tša lona"
+      "gloss": "dikokwana tša gago"
     }
   ],
-  "timestamp": "2026-10-18T00:19:28.016818849Z",
+  "timestamp": "2026-10-18T17:10:57.735635113Z",
   "model": "glm-5.3"
 }

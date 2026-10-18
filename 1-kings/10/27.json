@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "nso",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "a etsa hore e be",
-      "rationale": "נתן 'go nea' fela; Sepedi e nyaka tlhalagano ya 'go etsa hore e be bjalo ka'"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "כאבנים \/ כשקמים",
-      "rationale": "go swana ga go bapetša ka 'ka-' gape ga go Šolomone le mošomo wa gagwa — dilo tše pedi ka bobedi di bapetšwa ka dilo tše tlwaelegilego"
-    }
-  ],
-  "translation": "Gomme kgoši a etsa hore ⟨את⟩ silibera e be Yerushalayime bjalo ka maswika, gomme a etsa hore ⟨את⟩ medere e be bjalo ka mekokotlong yeo e lego Sekgobeng, go feta tekano.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "c8171e20d8316bc2cbb3fae2224e3cb7849598c946e5d9c0df32e23b56b911ec",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/10\/25-28.1792289832692.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme kgoši a dira ⟨את⟩ silibera go ba gona Yerushalayime bjalo ka maswika, gomme a dira ⟨את⟩ direka bjalo ka dikgokwanatšhiring tša sefala, go feta tekano.",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "a etsa hore e be"
+      "gloss": "gomme a dira go ba gona"
     },
     {
       "surface": "המלך",
@@ -47,7 +26,7 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "Yerushalayime"
+      "gloss": "go Yerushalayime"
     },
     {
       "surface": "כאבנים",
@@ -55,34 +34,34 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "medere"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "direka"
     },
     {
       "surface": "הארזים",
-      "gloss": "medere"
+      "gloss": "direka"
     },
     {
       "surface": "נתן",
-      "gloss": "a etsa hore e be"
+      "gloss": "a dira"
     },
     {
       "surface": "כשקמים",
-      "gloss": "bjalo ka mekokotlong"
+      "gloss": "bjalo ka dikgokwanatšhiring"
     },
     {
       "surface": "אשר",
-      "gloss": "yeo e lego"
+      "gloss": "tša"
     },
     {
       "surface": "בשפלה",
-      "gloss": "Sekgobeng"
+      "gloss": "sefala"
     },
     {
       "surface": "לרב",
       "gloss": "go feta tekano"
     }
   ],
-  "timestamp": "2026-10-18T02:17:12.693794215Z",
+  "timestamp": "2026-10-18T16:57:51.494637747Z",
   "model": "glm-5.3"
 }

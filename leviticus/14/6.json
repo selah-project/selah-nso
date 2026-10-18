@@ -5,33 +5,12 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 14,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "šuni ya kokolo ya bokhubedu",
-      "rationale": "שני התולעת sembušwa ka botlalo: koku ya bokhubedu — sehlwa sa mmala wa bokhubedu"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "הצפר",
-      "rationale": "lentšu la nonyana le boela gate-gate ga raro ka temaneng ye — thwii ya kgopolo ya sehlabelo se"
-    }
-  ],
-  "translation": "Nonyana e phelago, o tla e tswelela ⟨את⟩ yona, le ⟨את⟩ mohlare wa kedere, le ⟨את⟩ šuni ya kokolo ya bokhubedu, le ⟨את⟩ hisope, a di thutša, nonyana e phelago, mading a nonyana yeo e hlabilwego, godimo ga meetse a phelago:",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "3b31a4af5fb13bcaaf605e55ab21b12256f911fcb87f960d000f12bae10fb9ee",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/14\/5-8.1792283895680.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Nonyana e phela, o tla e tšea ⟨את⟩; gomme ⟨את⟩ sefate sa sedere le ⟨את⟩ škarlete ya noga le ⟨את⟩ hysopo, gomme o tla di phunya ⟨את⟩ tšona le ⟨את⟩ nonyana e phela ka mading a nonyana yeo e hlabilwego, godimo ga meetse a phelago.",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "nonyana e phelago"
+      "marks": "nonyana e phela"
     },
     {
       "surface": "הצפר",
@@ -39,63 +18,65 @@
     },
     {
       "surface": "החיה",
-      "gloss": "e phelago"
+      "gloss": "e phela"
     },
     {
       "surface": "יקח",
-      "gloss": "o tla e tswelela"
+      "gloss": "o tla e tšea"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩ yona"
+      "gloss": "⟨את⟩",
+      "marks": "yona (nonyana e phela)"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "mohlare wa kedere"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "sefate sa sedere"
     },
     {
       "surface": "עץ",
-      "gloss": "mohlare"
+      "gloss": "sefate"
     },
     {
       "surface": "הארז",
-      "gloss": "wa kedere"
+      "gloss": "sa sedere"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "šuni ya kokolo ya bokhubedu"
+      "marks": "škarlete ya noga"
     },
     {
       "surface": "שני",
-      "gloss": "šuni"
+      "gloss": "škarlete"
     },
     {
       "surface": "התולעת",
-      "gloss": "ya kokolo ya bokhubedu"
+      "gloss": "ya noga"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "hisope"
+      "marks": "hysopo"
     },
     {
       "surface": "האזב",
-      "gloss": "hisope"
+      "gloss": "hysopo"
     },
     {
       "surface": "וטבל",
-      "gloss": "a di thutša"
+      "gloss": "gomme o tla di phunya"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩ tšona"
+      "gloss": "⟨את⟩",
+      "marks": "tšona (dilo tšohle)"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "nonyana e phelago"
+      "marks": "nonyana e phela"
     },
     {
       "surface": "הצפר",
@@ -103,15 +84,15 @@
     },
     {
       "surface": "החיה",
-      "gloss": "e phelago"
+      "gloss": "e phela"
     },
     {
       "surface": "בדם",
-      "gloss": "mading a"
+      "gloss": "ka mading"
     },
     {
       "surface": "הצפר",
-      "gloss": "nonyana"
+      "gloss": "a nonyana"
     },
     {
       "surface": "השחטה",
@@ -130,6 +111,6 @@
       "gloss": "a phelago"
     }
   ],
-  "timestamp": "2026-10-18T00:38:15.681885401Z",
+  "timestamp": "2026-10-18T17:30:42.453764Z",
   "model": "glm-5.3"
 }

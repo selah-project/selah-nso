@@ -5,44 +5,23 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 22,
-  "notes": [
-    {
-      "kind": "addition",
-      "subject": "yona",
-      "rationale": "Seswantšho se okeditšwego go hlalosa ⟨את⟩ ya go swaya sehlare sa kgomo\/kwanyana."
-    },
-    {
-      "kind": "elision",
-      "subject": "לו",
-      "gloss-alignment": "sengwalwa se fetogile seswantšho ka 'o mo busetša'."
-    }
-  ],
-  "translation": "Eupša ge moomogela wa gago a sa ba kgauswi le wena, gomme o sa mo tsebe, o e loketše ka gare ga ntlo ya gago, gomme e dule le wena go fihlela moomogela wa gago a nyaka ⟨את⟩ yona, gomme o mo busetša;",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "5ac9a73a6cec47aec85e53dab9b9141d9ee06032c09bc004bad12048237c28e9",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/22\/1-4.1792286065912.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ge mohlokedimong wa gago a sa ba kgauswi le wena, gomme o sa mo tsebe, o tla mo ralokela gare ga ntlo ya gago, gomme o tla dula le wena go fihla mohlokedimong wa gago a nyaka ⟨את⟩ yena, gomme o tla mo bušetša go ena.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "eupša ge"
+      "gloss": "gomme ge"
     },
     {
       "surface": "לא",
-      "gloss": "sa"
+      "gloss": "a sa"
     },
     {
       "surface": "קרוב",
-      "gloss": "ba kgauswi"
+      "gloss": "kgauswi"
     },
     {
       "surface": "אחיך",
-      "gloss": "moomogela wa gago"
+      "gloss": "mohlokedimong wa gago"
     },
     {
       "surface": "אליך",
@@ -58,15 +37,15 @@
     },
     {
       "surface": "ואספתו",
-      "gloss": "o e loketše"
+      "gloss": "o tla mo ralokela"
     },
     {
       "surface": "אל",
-      "gloss": "ka gare ga"
+      "gloss": "go"
     },
     {
       "surface": "תוך",
-      "gloss": "ka gare ga"
+      "gloss": "gare ga"
     },
     {
       "surface": "ביתך",
@@ -74,7 +53,7 @@
     },
     {
       "surface": "והיה",
-      "gloss": "e dule"
+      "gloss": "gomme o tla dula"
     },
     {
       "surface": "עמך",
@@ -82,30 +61,30 @@
     },
     {
       "surface": "עד",
-      "gloss": "go fihlela"
+      "gloss": "go fihla"
     },
     {
       "surface": "דרש",
       "gloss": "a nyaka"
     },
     {
-      "surface": "אחיק",
-      "gloss": "moomogela wa gago"
+      "surface": "אחיך",
+      "gloss": "mohlokedimong wa gago"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "yona"
+      "marks": "yena"
     },
     {
       "surface": "והשבתו",
-      "gloss": "o mo busetša"
+      "gloss": "gomme o tla mo bušetša"
     },
     {
       "surface": "לו",
-      "gloss": ""
+      "gloss": "go ena"
     }
   ],
-  "timestamp": "2026-10-18T01:14:25.913654871Z",
+  "timestamp": "2026-10-18T17:08:12.288484354Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "ecclesiastes",
   "lang": "nso",
   "chapter": 7,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "sebe",
-      "rationale": "חטא ke 'go foša thomo' (to miss); 'sebe' se tšere boitshekohelong bja seswantšho"
-    }
-  ],
-  "translation": "Ka gobane motho ga go ⟨⟨yo mobotse⟩⟩ lefase, yo a dirago sebotse gomme a sa dire sebe.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "2557af873b79a113d2c0b5b4a800dd0c24aaa3eba285baa3b813dd49599827d7",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/ecclesiastes\/7\/17-20.1792301441165.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ka gobane motho ⟨ga⟩ go na le molatedi wa tsedeke ba lefaseng, yo a dirago molemo gomme a sa dire sebe.",
   "tokens": [
     {
       "surface": "כי",
@@ -33,15 +17,15 @@
     },
     {
       "surface": "אין",
-      "gloss": "ga go"
+      "gloss": "go na le"
     },
     {
       "surface": "צדיק",
-      "gloss": "yo mobotse"
+      "gloss": "molatedi wa tsedeke"
     },
     {
       "surface": "בארץ",
-      "gloss": "lefase"
+      "gloss": "ba lefaseng"
     },
     {
       "surface": "אשר",
@@ -53,17 +37,17 @@
     },
     {
       "surface": "טוב",
-      "gloss": "sebotse"
+      "gloss": "molemo"
     },
     {
       "surface": "ולא",
-      "gloss": "gomme a sa dire"
+      "gloss": "gomme a sa"
     },
     {
       "surface": "יחטא",
-      "gloss": "sebe"
+      "gloss": "dire sebe"
     }
   ],
-  "timestamp": "2026-10-18T05:30:41.166857035Z",
+  "timestamp": "2026-10-18T17:39:33.029456997Z",
   "model": "glm-5.3"
 }

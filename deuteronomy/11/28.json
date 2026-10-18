@@ -5,44 +5,23 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 11,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "medimo",
-      "rationale": "אלהים אחרים e ngwalwa ka ditlhaka tše nnye go ya ka D1 — medimo ya ditšhaba tše dingwe"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "אחרי\/אחרים",
-      "rationale": "go latelela ka morago ga \/ ba bangwe — papadi ya ditlhaka tše swanago, e laletšego go fologa tseleng"
-    }
-  ],
-  "translation": "le ||klala||, ge le sa theetša go melao ya Yahwe Elohim ya lona, gomme le fologa tseleng yeo ke laelago lona yona lehono, go latelela medimo ye mengwe yeo le sa e tsebego.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "a580d3b918aab859bea1fbb8c5d74578c1f424889aa8aa38792c920dfdb8e3e4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/11\/25-28.1792285729671.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme go hlokgomolokiša, ge e le gore ga le utwale meela ya Yahwe Elohim ya lona, gomme la fapafala tša tsela yeo ke la lekanyago lona gajena, ya go latelela medimo ye mengwe yeo le sa e tsebego.",
   "tokens": [
     {
       "surface": "והקללה",
-      "gloss": "le ||klala||"
+      "gloss": "gomme go hlokgomolokiša"
     },
     {
       "surface": "אם",
-      "gloss": "ge"
+      "gloss": "ge e le gore"
     },
     {
       "surface": "לא",
-      "gloss": "sa"
+      "gloss": "ga"
     },
     {
       "surface": "תשמעו",
-      "gloss": "le theetša"
+      "gloss": "le utwale"
     },
     {
       "surface": "אל",
@@ -50,7 +29,7 @@
     },
     {
       "surface": "מצות",
-      "gloss": "melao ya"
+      "gloss": "meela"
     },
     {
       "surface": "יהוה",
@@ -62,15 +41,15 @@
     },
     {
       "surface": "וסרתם",
-      "gloss": "gomme le fologa"
+      "gloss": "gomme la fapafala"
     },
     {
       "surface": "מן",
-      "gloss": "go tšwa go"
+      "gloss": "tša"
     },
     {
       "surface": "הדרך",
-      "gloss": "tseleng"
+      "gloss": "tsela"
     },
     {
       "surface": "אשר",
@@ -78,23 +57,24 @@
     },
     {
       "surface": "אנכי",
-      "gloss": "ke"
+      "gloss": "nna"
     },
     {
       "surface": "מצוה",
-      "gloss": "laelago"
+      "gloss": "ke la lekanyago"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ lona"
+      "gloss": "⟨את⟩",
+      "marks": "lona"
     },
     {
       "surface": "היום",
-      "gloss": "lehono"
+      "gloss": "gajena"
     },
     {
       "surface": "ללכת",
-      "gloss": "go latelela"
+      "gloss": "ya go latelela"
     },
     {
       "surface": "אחרי",
@@ -114,13 +94,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "sa"
+      "gloss": "ga"
     },
     {
       "surface": "ידעתם",
-      "gloss": "le e tsebego"
+      "gloss": "le sa e tsebego"
     }
   ],
-  "timestamp": "2026-10-18T01:08:49.673024163Z",
+  "timestamp": "2026-10-18T17:07:53.401076492Z",
   "model": "glm-5.3"
 }

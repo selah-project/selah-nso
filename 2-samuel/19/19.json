@@ -5,53 +5,32 @@
   "book": "2-samuel",
   "lang": "nso",
   "chapter": 19,
-  "notes": [
-    {
-      "kind": "hapax",
-      "subject": "העברה",
-      "rationale": "lefelo la go feta meetse (sefeta) — lentšu le tala lenaneong la Tanakh"
-    },
-    {
-      "kind": "addition",
-      "subject": "go ya mose",
-      "rationale": "go isa go feta go nyaka tlhalo ya Sepedi; Seheberu se re fela 'לעביר'"
-    }
-  ],
-  "translation": "Gomme sefeta se ile sa feta go isa ⟨את⟩ ntlo ya kgosi go ya mose, le go dira sebotse mahlong a gagwe; gomme Šimi, mora Gera, a wa pele ga kgosi ge a feta Yorodane.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "312fa536f2ed41b050ed27c41226ea915659f49899ddeb1f60d2a071ae0d8098",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-samuel\/19\/17-20.1792289315789.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme sefala sa go feta se ile sa feta go fetiša ⟨את⟩ ya kgoši, le go dira se se botse ka mahlong a yena; gomme Shimee, mora wa Gera, a wa ka mahlong a kgoši ge ⟨o⟩ ile a feta ka Yoredane.",
   "tokens": [
     {
       "surface": "ועברה",
-      "gloss": "se ile sa feta"
+      "gloss": "gomme e ile ya feta"
     },
     {
       "surface": "העברה",
-      "gloss": "sefeta"
+      "gloss": "sefala sa go feta"
     },
     {
       "surface": "לעביר",
-      "gloss": "go isa go feta"
+      "gloss": "go fetiša"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ntlo ya kgosi"
+      "marks": "ya kgoši"
     },
     {
       "surface": "בית",
-      "gloss": "ntlo"
+      "gloss": "ya kgoši"
     },
     {
       "surface": "המלך",
-      "gloss": "ya kgosi"
+      "gloss": "kgoši"
     },
     {
       "surface": "ולעשות",
@@ -59,15 +38,15 @@
     },
     {
       "surface": "הטוב",
-      "gloss": "sebotse"
+      "gloss": "se se botse"
     },
     {
       "surface": "בעינו",
-      "gloss": "mahlong a gagwe"
+      "gloss": "ka mahlong a yena"
     },
     {
       "surface": "ושמעי",
-      "gloss": "Šimi"
+      "gloss": "gomme Shimee"
     },
     {
       "surface": "בן",
@@ -75,7 +54,7 @@
     },
     {
       "surface": "גרא",
-      "gloss": "Gera"
+      "gloss": "wa Gera"
     },
     {
       "surface": "נפל",
@@ -87,7 +66,7 @@
     },
     {
       "surface": "המלך",
-      "gloss": "kgosi"
+      "gloss": "kgoši"
     },
     {
       "surface": "בעברו",
@@ -95,9 +74,9 @@
     },
     {
       "surface": "בירדן",
-      "gloss": "Yorodane"
+      "gloss": "ka Yoredane"
     }
   ],
-  "timestamp": "2026-10-18T02:08:35.790224464Z",
+  "timestamp": "2026-10-18T17:05:33.059576071Z",
   "model": "glm-5.3"
 }

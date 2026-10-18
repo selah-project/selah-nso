@@ -5,36 +5,15 @@
   "book": "2-kings",
   "lang": "nso",
   "chapter": 18,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "mogopodi",
-      "rationale": "המזכיר ke 'mogopodi\/mogadi wa diketeketo' — botho ba kgoši bja go gopola dilo tša nnete."
-    },
-    {
-      "kind": "elision",
-      "subject": "אל",
-      "rationale": "Sepedi se nyaka fela 'ba bitša kgoši'; אל e tswalwa ka go bitša ka botlalo."
-    }
-  ],
-  "translation": "Gomme ba bitša kgoši; gomme a tšwa go bona Elyakime mora Khilkeya, yo a laologo ntlo, le Shebna mongwadi, le Yoa mora Asafe, mogopodi.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "a317e603b7ceff9ebd3061d44c57cd0e19830940002e27803e38e1c9d12c1a74",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/2-kings\/18\/17-20.1792290925697.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Ba bitsa ⟨go⟩ kgoši; gomme go ba tšwa Eljakime, morwa wa Khilkiyahu, yo a bego a laola ⟨את⟩ ntlo, le Shebna mongwadi, le Yoakhe morwa wa Asafe, mogopotši.",
   "tokens": [
     {
       "surface": "ויקראו",
-      "gloss": "gomme ba bitša"
+      "gloss": "ba bitsa"
     },
     {
       "surface": "אל",
-      "gloss": ""
+      "gloss": "go"
     },
     {
       "surface": "המלך",
@@ -46,19 +25,19 @@
     },
     {
       "surface": "אלהם",
-      "gloss": "go bona"
+      "gloss": "go ba"
     },
     {
       "surface": "אליקים",
-      "gloss": "Elyakime"
+      "gloss": "Eljakime"
     },
     {
       "surface": "בן",
-      "gloss": "mora"
+      "gloss": "morwa wa"
     },
     {
       "surface": "חלקיהו",
-      "gloss": "Khilkeya"
+      "gloss": "Khilkiyahu"
     },
     {
       "surface": "אשר",
@@ -66,7 +45,7 @@
     },
     {
       "surface": "על",
-      "gloss": "a laologo"
+      "gloss": "a laola"
     },
     {
       "surface": "הבית",
@@ -82,11 +61,11 @@
     },
     {
       "surface": "ויואח",
-      "gloss": "le Yoa"
+      "gloss": "le Yoakhe"
     },
     {
       "surface": "בן",
-      "gloss": "mora"
+      "gloss": "morwa wa"
     },
     {
       "surface": "אסף",
@@ -94,9 +73,9 @@
     },
     {
       "surface": "המזכיר",
-      "gloss": "mogopodi"
+      "gloss": "mogopotši"
     }
   ],
-  "timestamp": "2026-10-18T02:35:25.698901256Z",
+  "timestamp": "2026-10-18T17:03:54.856583464Z",
   "model": "glm-5.3"
 }

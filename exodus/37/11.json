@@ -5,36 +5,16 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 37,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "khutlo",
-      "rationale": "זר: 'khutlo' goba 'mollwane wa gauta' — diphetholelo di fapana pakising ga 'crown' le 'molding'"
-    },
-    {
-      "kind": "addition",
-      "subject": "e",
-      "rationale": "Sepedi e nyaka sehlangwa se hlalosago gore o khurumetše tafola"
-    }
-  ],
-  "translation": "Gomme a e khuruma ka gauta ye e hlwekilego, a dira bakeng sa yona khutlo ya gauta ye e dikologago.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "d1f098d9ff01c0d8835826ea1c57ffc66e76536add2355666f4aecf4bedf9d42",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/37\/9-12.1792283398033.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a e phalla ka gauta ya go hlokwa sepe, gomme a dira ⟨go yona⟩ khurene ya gauta go dikologa.",
   "tokens": [
     {
       "surface": "ויצף",
-      "gloss": "a e khuruma"
+      "gloss": "a e phalla"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "yona (tafola)"
     },
     {
       "surface": "זהב",
@@ -42,7 +22,7 @@
     },
     {
       "surface": "טהור",
-      "gloss": "ye e hlwekilego"
+      "gloss": "ya go hlokwa sepe"
     },
     {
       "surface": "ויעש",
@@ -50,21 +30,21 @@
     },
     {
       "surface": "לו",
-      "gloss": "bakeng sa yona"
+      "gloss": "go yona"
     },
     {
       "surface": "זר",
-      "gloss": "khutlo"
+      "gloss": "khurene"
     },
     {
       "surface": "זהב",
-      "gloss": "ya gauta"
+      "gloss": "gauta"
     },
     {
       "surface": "סביב",
-      "gloss": "ye e dikologago"
+      "gloss": "go dikologa"
     }
   ],
-  "timestamp": "2026-10-18T00:29:58.034363510Z",
+  "timestamp": "2026-10-18T17:12:08.861291174Z",
   "model": "glm-5.3"
 }

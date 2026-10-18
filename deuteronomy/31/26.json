@@ -5,37 +5,16 @@
   "book": "deuteronomy",
   "lang": "nso",
   "chapter": 31,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "paki",
-      "rationale": "לעד ke paki (witness), e sego nako e se nago mageto"
-    },
-    {
-      "kind": "crux",
-      "subject": "בך",
-      "rationale": "בְּךָ: 'kgahlanong le wena' (kgahlanong) goba 'go wena' (go) — ditlhopho tša ditlhahlobo"
-    }
-  ],
-  "translation": "Laelang ⟨את⟩ puku ye ya Torah, e beeyeng ka thoko ya lepokisi la kgwerano ya Yahwe Elohim ya lona, gore e dule gona bjalo ka paki kgahlanong le lona.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "a2e370d36449902049d90252d224cc6946aa39fea821ce460a00810cc4705b3a",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/deuteronomy\/31\/25-28.1792286447296.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Lae ⟨את⟩ puku ya Torah ye, gomme le e beše ⟨את⟩ ka thoko ga arone ya kgwerano ya Yahwe Elohim ya lona, gomme e tla ba gona moo bjalo ka paki ⟨kgahlanong⟩ le lena go ya bosakhala.",
   "tokens": [
     {
       "surface": "לקח",
-      "gloss": "Laelang"
+      "gloss": "lae"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "puku ye ya Torah"
+      "marks": "puku ya Torah ye"
     },
     {
       "surface": "ספר",
@@ -51,24 +30,24 @@
     },
     {
       "surface": "ושמתם",
-      "gloss": "e beeyeng"
+      "gloss": "gomme le e beše"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "ka thoko"
+      "marks": "yona (puku)"
     },
     {
       "surface": "מצד",
-      "gloss": "ka thoko ya"
+      "gloss": "ka thoko ga"
     },
     {
       "surface": "ארון",
-      "gloss": "lepokisi"
+      "gloss": "arone"
     },
     {
       "surface": "ברית",
-      "gloss": "la kgwerano"
+      "gloss": "ya kgwerano"
     },
     {
       "surface": "יהוה",
@@ -80,21 +59,21 @@
     },
     {
       "surface": "והיה",
-      "gloss": "gore e dule"
+      "gloss": "gomme e tla ba"
     },
     {
       "surface": "שם",
-      "gloss": "gona"
+      "gloss": "gona moo"
     },
     {
       "surface": "בך",
-      "gloss": "kgahlanong le lona"
+      "gloss": "le lena"
     },
     {
       "surface": "לעד",
-      "gloss": "bjalo ka paki"
+      "gloss": "go ya bosakhala"
     }
   ],
-  "timestamp": "2026-10-18T01:20:47.296897040Z",
+  "timestamp": "2026-10-18T17:09:29.594413380Z",
   "model": "glm-5.3"
 }

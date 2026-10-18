@@ -5,33 +5,7 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 16,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "monna yo a laeditšwego",
-      "rationale": "איש עתי: 'monna yo a laeditšwego nako' (KJV 'fit man', JPS 'appointed man') — lentšu la Seheberu le bolela motho yo a ngwago nako e e swanetšego"
-    },
-    {
-      "kind": "hapax",
-      "subject": "עתי",
-      "rationale": "lentšu le tšwelela fela mo, Tanakh ka moka"
-    },
-    {
-      "kind": "wordplay",
-      "subject": "עונת · פשעיהם · חטאתם",
-      "rationale": "palo ya moka tše tharo ya dibe (dibe · ditshwarelo · dibeso) e phuthetšwe ka go boeledwa ga 'ka moka' ga tharo"
-    }
-  ],
-  "translation": "Gomme Aharone o bea diatla tša gage tše pedi godimo ga hlogo ya puku e phelago, gomme a dumelela godimo ga yena ⟨את⟩ dibe ka moka tša bana ba Yisraaele, le ⟨את⟩ ditshwarelo tša bona ka moka, go swana le dibeso tša bona ka moka; gomme a bea ⟨את⟩ tšeo godimo ga hlogo ya puku, a e romela ka seatla sa monna yo a laeditšwego nageng.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "889aef3146c451fe7531beaccfd29647ce22da99ff36fd06adc1feae06700868",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/16\/21-22.1792304722903.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme Aharone o bea ⟨את⟩ matsogo a gagwe a mabedi godimo ga hlogo ya podi ya tono e phelago, gomme a itsebiša mo go yena ⟨את⟩ dibe ka moka tša bana ba Yisraele, le ⟨את⟩ ditlolo tša bona ka moka, go dibe tša bona ka moka; gomme a di bea godimo ga hlogo ya podi ya tono, gomme a e romela ka seatla sa monna yo a laeditšwego, a e romela naganeng.",
   "tokens": [
     {
       "surface": "וסמך",
@@ -44,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "diatla tše pedi"
+      "marks": "matsogo a mabedi"
     },
     {
       "surface": "שתי",
-      "gloss": "tše pedi"
+      "gloss": "a mabedi"
     },
     {
       "surface": "ידו",
-      "gloss": "diatla tša gage"
+      "gloss": "matsogo a gagwe"
     },
     {
       "surface": "על",
@@ -64,7 +38,7 @@
     },
     {
       "surface": "השעיר",
-      "gloss": "ya puku"
+      "gloss": "podi ya tono"
     },
     {
       "surface": "החי",
@@ -72,16 +46,16 @@
     },
     {
       "surface": "והתודה",
-      "gloss": "gomme a dumelela"
+      "gloss": "gomme a itsebiša"
     },
     {
       "surface": "עליו",
-      "gloss": "godimo ga yena"
+      "gloss": "mo go yena"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dibe ka moka tša bana ba Yisraele"
+      "marks": "dibe ka moka"
     },
     {
       "surface": "כל",
@@ -102,7 +76,7 @@
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "ditshwarelo tša bona ka moka"
+      "marks": "ditlolo tša bona ka moka"
     },
     {
       "surface": "כל",
@@ -110,24 +84,24 @@
     },
     {
       "surface": "פשעיהם",
-      "gloss": "ditshwarelo tša bona"
+      "gloss": "ditlolo tša bona"
     },
     {
       "surface": "לכל",
-      "gloss": "go swana le ka moka"
+      "gloss": "go … ka moka"
     },
     {
       "surface": "חטאתם",
-      "gloss": "dibeso tša bona"
+      "gloss": "dibe tša bona"
     },
     {
       "surface": "ונתן",
-      "gloss": "gomme a bea"
+      "gloss": "gomme a di bea"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "godimo ga hlogo ya puku"
+      "marks": "dibe le ditlolo"
     },
     {
       "surface": "על",
@@ -139,11 +113,11 @@
     },
     {
       "surface": "השעיר",
-      "gloss": "ya puku"
+      "gloss": "podi ya tono"
     },
     {
       "surface": "ושלח",
-      "gloss": "a e romela"
+      "gloss": "gomme a e romela"
     },
     {
       "surface": "ביד",
@@ -159,9 +133,9 @@
     },
     {
       "surface": "המדברה",
-      "gloss": "nageng"
+      "gloss": "naganeng"
     }
   ],
-  "timestamp": "2026-10-18T06:25:22.903930203Z",
+  "timestamp": "2026-10-18T17:31:17.992151193Z",
   "model": "glm-5.3"
 }

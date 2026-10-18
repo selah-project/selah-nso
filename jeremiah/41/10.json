@@ -5,57 +5,36 @@
   "book": "jeremiah",
   "lang": "nso",
   "chapter": 41,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "רב טבחים",
-      "rationale": "Bontshišo: 'mogolo wa bahlabeli' (batabači ba bahlabeli); diphetošo di ka ba 'molaodi wa masole'."
-    },
-    {
-      "kind": "wordplay",
-      "subject": "וישב ... וישבם",
-      "rationale": "Go boela ga lentšu la go tšera ka botsoko — go kgomaretša botsoko bjalo ka sebopego sa temana."
-    }
-  ],
-  "translation": "Ishmaele a ile a tšera ka botsoko ⟨את⟩ se saletšego ka moka sa setšhaba se lego go Mitzpa — ⟨את⟩ dišego tša kgoši le ⟨את⟩ setšhaba ka moka se saletšego go Mitzpa, seo Nebuzaradan, mogolo wa bahlabeli, a bego a se laeditše Gedalaya morwa Ahikame; gomme Ishmaele morwa Netanya a ba tšere ka botsoko, a ile a eya go feta go bana ba Ammone.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "88c0c5e1f141ce8db6c7e42557bf42aa0328ee61806f77fd49ed734ec7e489a4",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/jeremiah\/41\/9-12.1792293898072.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Yishmaele a swara go ba isa ⟨את⟩ botsongo bja setšhaba sona sotlhe seo se bego se le go Mitzpa, ⟨את⟩ barwedi ba kgoši, le ⟨את⟩ setšhaba sona sotlhe se se šetšego go Mitzpa, seo Nevuzaradane, mogolo wa bao ba bolaišago, a bego a beile Gedaljahu mora wa Aikhama go se laola; gomme Yishmaele mora wa Netanjahua a ba swara go ba isa, a sepela go feta go bana ba Ammo.",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "a ile a tšera ka botsoko"
+      "gloss": "a swara go ba isa"
     },
     {
       "surface": "ישמעאל",
-      "gloss": "Ishmaele"
+      "gloss": "Yishmaele"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "se saletšego ka moka sa setšhaba"
+      "marks": "botsongo bja setšhaba sona sotlhe"
     },
     {
       "surface": "כל",
-      "gloss": "ka moka"
+      "gloss": "sotlhe"
     },
     {
       "surface": "שארית",
-      "gloss": "se saletšego"
+      "gloss": "botsongo"
     },
     {
       "surface": "העם",
-      "gloss": "sa setšhaba"
+      "gloss": "setšhaba"
     },
     {
       "surface": "אשר",
-      "gloss": "se"
+      "gloss": "seo"
     },
     {
       "surface": "במצפה",
@@ -64,24 +43,24 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "dišego tša kgoši"
+      "marks": "barwedi ba kgoši"
     },
     {
       "surface": "בנות",
-      "gloss": "dišego"
+      "gloss": "barwedi"
     },
     {
       "surface": "המלך",
-      "gloss": "tša kgoši"
+      "gloss": "ba kgoši"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "setšhaba ka moka"
+      "marks": "setšhaba sona sotlhe"
     },
     {
       "surface": "כל",
-      "gloss": "ka moka"
+      "gloss": "sotlhe"
     },
     {
       "surface": "העם",
@@ -89,7 +68,7 @@
     },
     {
       "surface": "הנשארים",
-      "gloss": "se saletšego"
+      "gloss": "se se šetšego"
     },
     {
       "surface": "במצפה",
@@ -101,56 +80,56 @@
     },
     {
       "surface": "הפקיד",
-      "gloss": "a se laeditšego"
+      "gloss": "a bego a beile"
     },
     {
       "surface": "נבוזראדן",
-      "gloss": "Nebuzaradan"
+      "gloss": "Nevuzaradane"
     },
     {
       "surface": "רב",
-      "gloss": "mogolo wa"
+      "gloss": "mogolo"
     },
     {
       "surface": "טבחים",
-      "gloss": "bahlabeli"
+      "gloss": "ba bao ba bolaišago"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Gedalaya"
+      "marks": "Gedaljahu"
     },
     {
       "surface": "גדליהו",
-      "gloss": "Gedalaya"
+      "gloss": "Gedaljahu"
     },
     {
       "surface": "בן",
-      "gloss": "morwa"
+      "gloss": "mora"
     },
     {
       "surface": "אחיקם",
-      "gloss": "Ahikame"
+      "gloss": "wa Aikhama"
     },
     {
       "surface": "וישבם",
-      "gloss": "a ba tšere ka botsoko"
+      "gloss": "a ba swara go ba isa"
     },
     {
       "surface": "ישמעאל",
-      "gloss": "Ishmaele"
+      "gloss": "Yishmaele"
     },
     {
       "surface": "בן",
-      "gloss": "morwa"
+      "gloss": "mora"
     },
     {
       "surface": "נתניה",
-      "gloss": "Netanya"
+      "gloss": "wa Netanjahua"
     },
     {
       "surface": "וילך",
-      "gloss": "a ile a eya"
+      "gloss": "a sepela"
     },
     {
       "surface": "לעבר",
@@ -166,9 +145,9 @@
     },
     {
       "surface": "עמון",
-      "gloss": "ba Ammone"
+      "gloss": "ba Ammo"
     }
   ],
-  "timestamp": "2026-10-18T03:24:58.073146963Z",
+  "timestamp": "2026-10-18T17:23:37.298653350Z",
   "model": "glm-5.3"
 }

@@ -5,23 +5,7 @@
   "book": "exodus",
   "lang": "nso",
   "chapter": 38,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "šita",
-      "rationale": "שטים — mokgwa wa šita, modumo wa Seheberu o bolokwa (acacia)"
-    }
-  ],
-  "translation": "Gomme a dira ⟨את⟩ diphao tša mokgwa wa šita, gomme a di khupetša tmongwa.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "12a9bc8583a3bf3c4878ad03268f07e26cea04d1d60ebec1f64fa625719f671e",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/exodus\/38\/5-8.1792283385487.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme a dira ⟨את⟩ mepa ka leswe la ditšha, gomme a di khupetša ka tetane.",
   "tokens": [
     {
       "surface": "ויעש",
@@ -30,19 +14,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "diphao"
+      "marks": "mepa"
     },
     {
       "surface": "הבדים",
-      "gloss": "diphao"
+      "gloss": "mepa"
     },
     {
       "surface": "עצי",
-      "gloss": "mokgwa"
+      "gloss": "leswe"
     },
     {
       "surface": "שטים",
-      "gloss": "wa šita"
+      "gloss": "ditšha"
     },
     {
       "surface": "ויצף",
@@ -50,14 +34,14 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩+⟨di⟩",
-      "marks": "diphao"
+      "gloss": "⟨את⟩",
+      "marks": "tetane"
     },
     {
       "surface": "נחשת",
-      "gloss": "tmongwa"
+      "gloss": "tetane"
     }
   ],
-  "timestamp": "2026-10-18T00:29:45.488358952Z",
+  "timestamp": "2026-10-18T17:12:36.972002532Z",
   "model": "glm-5.3"
 }

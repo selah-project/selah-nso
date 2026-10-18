@@ -5,32 +5,11 @@
   "book": "1-chronicles",
   "lang": "nso",
   "chapter": 6,
-  "notes": [
-    {
-      "kind": "substitution",
-      "subject": "masimo a yona",
-      "rationale": "מגרשיה ke naga yeo e bulegilego ya go fudusa dikgomo, e fetotšwe go ba masimo a yona"
-    },
-    {
-      "kind": "elision",
-      "subject": "copula",
-      "rationale": "Seheberu ga se na kerewa; mantšu a mangwe a tlwaelegilego a sephiring"
-    }
-  ],
-  "translation": "Gomme go tšwa go kgoro ya Naftali: ⟨את⟩ Kedeshe ya go Galili le masimo a yona, le ⟨את⟩ Khamone le masimo a yona, le ⟨את⟩ Kiryataime le masimo a yona.",
-  "provenance": {
-    "system-sha256": "c653f0b6aa26f4805ae9814282e6e210a81978bc37134866cb68db34d9242a1e",
-    "user-sha256": "e161c67560f537f257e1125243dde2f70babee78d61da16cb03a138659fca270",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-chronicles\/6\/61-64.1792303034557.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme go tšwa go setšhaba sa Naftali: ⟨את⟩ Kedeshe ka Galili le mabala a yona, gomme ⟨את⟩ Khamone le mabala a yona, le ⟨את⟩ Kiriyataime le mabala a yona.",
   "tokens": [
     {
       "surface": "וממטה",
-      "gloss": "gomme go tšwa go kgoro ya"
+      "gloss": "gomme go tšwa go setšhaba sa"
     },
     {
       "surface": "נפתלי",
@@ -47,20 +26,20 @@
     },
     {
       "surface": "בגליל",
-      "gloss": "ya go Galili"
+      "gloss": "ka Galili"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "masimo a yona"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "mabala a yona"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "masimo a yona"
+      "gloss": "mabala a yona"
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
+      "gloss": "gomme ⟨את⟩",
       "marks": "Khamone"
     },
     {
@@ -69,32 +48,32 @@
     },
     {
       "surface": "ואת",
-      "gloss": "le ⟨את⟩",
-      "marks": "masimo a yona"
+      "gloss": "gomme ⟨את⟩",
+      "marks": "mabala a yona"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "masimo a yona"
+      "gloss": "mabala a yona"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "Kiryataime"
+      "marks": "Kiriyataime"
     },
     {
       "surface": "קריתים",
-      "gloss": "Kiryataime"
+      "gloss": "Kiriyataime"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "masimo a yona"
+      "marks": "mabala a yona"
     },
     {
       "surface": "מגרשיה",
-      "gloss": "masimo a yona"
+      "gloss": "mabala a yona"
     }
   ],
-  "timestamp": "2026-10-18T05:57:14.558126256Z",
+  "timestamp": "2026-10-18T16:58:09.953919935Z",
   "model": "glm-5.3"
 }

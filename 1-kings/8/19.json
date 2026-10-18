@@ -5,32 +5,11 @@
   "book": "1-kings",
   "lang": "nso",
   "chapter": 8,
-  "notes": [
-    {
-      "kind": "idiom",
-      "subject": "כי אם",
-      "rationale": "Poeletšo ya 'fela ... go se ... eupša' (rakhgama ki-im) — the Hebrew restrictive idiom 'only ... but rather'"
-    },
-    {
-      "kind": "substitution",
-      "subject": "serope",
-      "rationale": "מחלצים is the loins as seat of vigor; Sepedi 'serope' keeps the body-part picture"
-    }
-  ],
-  "translation": "Fela wena o ka se age ⟨את⟩ ntlo; eupša morwa wa gago, yoo a tšwago go tšwa seropeng sa gago, yena o tla aga ⟨את⟩ ntlo go Leina la ka.",
-  "provenance": {
-    "system-sha256": "caece5115e26b017ed05f9bd680ca7f054d372177c9643500c98d5c078bf8585",
-    "user-sha256": "c4ec29d73ee5995087e2fa4c1d7b21e9f4e6f79fbee626743c59d6164a87456c",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/1-kings\/8\/17-20.1792289856954.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Fela wena o ka se ago ⟨את⟩ ntlo, go sego bjalo, morwa wa gago yo a tlogo go tšwa mening ya gago, yena o tla ago ⟨את⟩ ntlo go Leina la ka.",
   "tokens": [
     {
       "surface": "רק",
-      "gloss": "Fela"
+      "gloss": "fela"
     },
     {
       "surface": "אתה",
@@ -42,20 +21,19 @@
     },
     {
       "surface": "תבנה",
-      "gloss": "age"
+      "gloss": "ago"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨את⟩ ntlo",
-      "marks": "ntlo"
+      "gloss": "ntlo"
     },
     {
       "surface": "כי",
-      "gloss": "eupša"
+      "gloss": "go sego bjalo"
     },
     {
       "surface": "אם",
-      "gloss": "eupša"
+      "gloss": ""
     },
     {
       "surface": "בנך",
@@ -63,11 +41,11 @@
     },
     {
       "surface": "היצא",
-      "gloss": "yoo a tšwago"
+      "gloss": "yo a tlogo go tšwa"
     },
     {
       "surface": "מחלציך",
-      "gloss": "go tšwa seropeng sa gago"
+      "gloss": "mening ya gago"
     },
     {
       "surface": "הוא",
@@ -75,18 +53,17 @@
     },
     {
       "surface": "יבנה",
-      "gloss": "o tla aga"
+      "gloss": "o tla ago"
     },
     {
       "surface": "הבית",
-      "gloss": "⟨את⟩ ntlo",
-      "marks": "ntlo"
+      "gloss": "ntlo"
     },
     {
       "surface": "לשמי",
       "gloss": "go Leina la ka"
     }
   ],
-  "timestamp": "2026-10-18T02:17:36.955648828Z",
+  "timestamp": "2026-10-18T16:59:02.820689515Z",
   "model": "glm-5.3"
 }

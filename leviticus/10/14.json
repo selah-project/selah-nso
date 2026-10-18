@@ -5,38 +5,12 @@
   "book": "leviticus",
   "lang": "nso",
   "chapter": 10,
-  "notes": [
-    {
-      "kind": "crux",
-      "subject": "התנופה \/ התרומה",
-      "rationale": "Go gogolwa (tenufa, go gogolwa pele ga Yahwe) kgahlanong le mpho ya go tswalela (teruma, e gogotšwago); mantšu a mabedi a tlwaetše go fetolelwa ka go swaka."
-    },
-    {
-      "kind": "addition",
-      "subject": "le ⟨את⟩ wena",
-      "rationale": "אתך H854 ke 'le wena' — lentšu le le tee la Seheberu le bolelwa ka makgauswanyana ka Sepedi."
-    },
-    {
-      "kind": "you",
-      "subject": "go Aharone le ntlo ya gagwe",
-      "rationale": "Karolo ya baperisita e laetšwe ka bowena, go akaretša barwedi — se sene sa kgetholla baperisita."
-    }
-  ],
-  "translation": "Gomme ⟨את⟩ sehuba sa go gogolwa le ⟨את⟩ leoto la mpho le tla le se je lefelong le hlwekilego, wena le bana ba gago le barwedi ba gago le wena; ka gobane karolo ya gago le karolo ya bana ba gago di filwe, go tšwa mešomong ya go fišwa ya ditumellano tša bana ba Yisraele.",
-  "provenance": {
-    "system-sha256": "a18f0e86fda377d709245a0a80f415014d6d323d7d2eb56f87d05fee20952f53",
-    "user-sha256": "bf67e2b3f90f9e28f6eda989acfc8d6645cb3c699a410bdb77e140424d3a7f8d",
-    "prompt-file": ".selah\/sources\/translations\/prompts\/nso\/leviticus\/10\/13-16.1792283762906.json",
-    "code": "f7b4ad31a-dirty",
-    "model": "glm-5.3",
-    "tier": "glm-5.2",
-    "clean-room?": false
-  },
+  "translation": "Gomme ⟨את⟩ sehuba sa go gagamolwa le ⟨את⟩ serope sa go išwa godimo le tla ja lefelong le le kgethwago; wena le bana ba gago ba bashemane le ba basetsana ⟨את⟩ le wena; gobane karolo ya gago le karolo ya bana ba gago ke ⟨ke⟩ tšeo di filwego go tšwa go dihlabelo tša kagiso tša bana ba Yisraele.",
   "tokens": [
     {
       "surface": "ואת",
       "gloss": "gomme ⟨את⟩",
-      "marks": "sehuba sa go gogolwa"
+      "marks": "sehuba"
     },
     {
       "surface": "חזה",
@@ -44,24 +18,24 @@
     },
     {
       "surface": "התנופה",
-      "gloss": "sa go gogolwa"
+      "gloss": "sa go gagamolwa"
     },
     {
       "surface": "ואת",
       "gloss": "le ⟨את⟩",
-      "marks": "leoto la mpho"
+      "marks": "serope"
     },
     {
       "surface": "שוק",
-      "gloss": "leoto"
+      "gloss": "serope"
     },
     {
       "surface": "התרומה",
-      "gloss": "la mpho"
+      "gloss": "sa go išwa godimo"
     },
     {
       "surface": "תאכלו",
-      "gloss": "le tla le se ja"
+      "gloss": "le tla ja"
     },
     {
       "surface": "במקום",
@@ -69,7 +43,7 @@
     },
     {
       "surface": "טהור",
-      "gloss": "le hlwekilego"
+      "gloss": "le kgethwago"
     },
     {
       "surface": "אתה",
@@ -77,23 +51,23 @@
     },
     {
       "surface": "ובניך",
-      "gloss": "le bana ba gago"
+      "gloss": "le bana ba gago ba bashemane"
     },
     {
       "surface": "ובנתיך",
-      "gloss": "le barwedi ba gago"
+      "gloss": "le ba basetsana"
     },
     {
       "surface": "אתך",
-      "gloss": "le ⟨את⟩ wena"
+      "gloss": "⟨את⟩ le wena"
     },
     {
       "surface": "כי",
-      "gloss": "ka gobane"
+      "gloss": "gobane"
     },
     {
       "surface": "חקך",
-      "gloss": "karolo ya gago"
+      "gloss": "karolo ya gago ye e laetšwego"
     },
     {
       "surface": "וחק",
@@ -105,25 +79,25 @@
     },
     {
       "surface": "נתנו",
-      "gloss": "di filwe"
+      "gloss": "di filwego"
     },
     {
       "surface": "מזבחי",
-      "gloss": "go tšwa mešomong ya go fišwa"
+      "gloss": "go tšwa go dihlabelo"
     },
     {
       "surface": "שלמי",
-      "gloss": "ya ditumellano"
+      "gloss": "tša kagiso"
     },
     {
       "surface": "בני",
-      "gloss": "tša bana"
+      "gloss": "tša bana ba"
     },
     {
       "surface": "ישראל",
-      "gloss": "ba Yisraele"
+      "gloss": "Yisraele"
     }
   ],
-  "timestamp": "2026-10-18T00:36:02.907677235Z",
+  "timestamp": "2026-10-18T17:30:11.244720220Z",
   "model": "glm-5.3"
 }
